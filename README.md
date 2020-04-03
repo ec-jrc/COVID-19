@@ -1,3 +1,5 @@
+<img src="https://github.com/ec-jrc/COVID-19/blob/master/logo_ce-en-quadri_JRC-01.png?raw=true" height="100" width="100"/>
+
 # Rationale for the JRC COVID-19 website - data monitoring and national measures
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)]
