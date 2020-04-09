@@ -1,0 +1,15 @@
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-03-09,AUT,Austria,47.697542,13.349319,131,,,,,,True,True
+2020-03-04,CYP,Cyprus,35.167406,33.435499,744,14,0,730,0,0,True,True
+2020-03-07,FRA,France,46.232193,2.209667,952,16,0,936,0,45,True,True
+2020-03-09,DEU,Germany,51.165706,10.452764,1141,2,,,,,True,True
+2020-03-08,GRC,Greece,38.275283,23.810343,1498,81,0,1417,0,0,True,True
+2020-03-09,HUN,Hungary,47.164638,19.508944,9,0,0,9,0,0,True,True
+2020-03-09,ITA,Italy,41.873987,12.564167,9172,463,724,7985,5049,733,True,True
+2020-02-20,LVA,Latvia,56.875584,24.607722,-1,0,0,-1,,,True,True
+2020-03-09,LIE,Liechtenstein,47.164696,9.555,1,0,0,1,,,False,False
+2020-03-09,MLT,Malta,35.946151,14.384612,4,0,0,4,,,True,True
+2020-03-09,PRT,Portugal,39.553444,-7.839319,39,,,,,,True,True
+2020-03-09,SVK,Slovakia,48.665639,19.709097,7,0,0,7,,,True,True
+2020-03-09,ESP,Spain,39.896027,-2.487694,999,16,19,964,0,68,True,True
+2020-03-09,CHE,Switzerland,46.815514,8.224472,342,3,3,336,50,9,False,False

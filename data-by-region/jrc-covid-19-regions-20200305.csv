@@ -1,0 +1,101 @@
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-03-05,AUT,Austria,Kärnten,,,1,,,,,,True,True
+2020-03-05,AUT,Austria,Niederösterreich,,,13,,,,,,True,True
+2020-03-05,AUT,Austria,Salzburg,,,4,,,,,,True,True
+2020-03-05,AUT,Austria,Steiermark,,,4,,,,,,True,True
+2020-03-05,AUT,Austria,Tirol,,,3,,,,,,True,True
+2020-03-05,AUT,Austria,Wien,,,16,,,,,,True,True
+2020-03-04,CYP,Cyprus,Cyprus,,,744,14,0,730,0,0,True,True
+2020-03-05,FRA,France,Auvergne-Rhône-Alpes,,,64,0,0,64,0,0,True,True
+2020-03-05,FRA,France,Bourgogne-Franche-Comté,,,39,0,0,39,0,0,True,True
+2020-03-05,FRA,France,Bretagne,,,29,0,0,29,0,0,True,True
+2020-03-05,FRA,France,Centre-Val de Loire,,,2,0,0,2,0,0,True,True
+2020-03-05,FRA,France,Corse,,,3,0,0,3,0,0,True,True
+2020-03-05,FRA,France,Grand Est,,,77,0,0,77,0,0,True,True
+2020-03-03,FRA,France,Guadeloupe,,,3,0,0,3,0,0,True,True
+2020-03-05,FRA,France,Guyane,,,5,0,0,5,0,0,True,True
+2020-03-05,FRA,France,Hauts-de-France,,,74,0,0,74,0,0,True,True
+2020-03-05,FRA,France,Île-de-France,,,76,0,0,76,0,0,True,True
+2020-03-05,FRA,France,Normandie,,,6,0,0,6,0,0,True,True
+2020-03-05,FRA,France,NOT SPECIFIED,,,3,7,0,-4,0,23,True,True
+2020-03-05,FRA,France,Nouvelle-Aquitaine,,,8,0,0,8,0,0,True,True
+2020-03-05,FRA,France,Occitanie,,,11,0,0,11,0,0,True,True
+2020-03-05,FRA,France,Pays de la Loire,,,8,0,0,8,0,0,True,True
+2020-03-05,FRA,France,Provence-Alpes-Côte d'Azur,,,18,0,0,18,0,0,True,True
+2020-03-05,DEU,Germany,Baden-Württemberg,,,73,,,,,,True,True
+2020-03-05,DEU,Germany,Bayern,,,70,,,,,,True,True
+2020-03-05,DEU,Germany,Berlin,,,13,,,,,,True,True
+2020-03-05,DEU,Germany,Brandenburg,,,1,,,,,,True,True
+2020-03-05,DEU,Germany,Bremen,,,3,,,,,,True,True
+2020-03-05,DEU,Germany,Hamburg,,,5,,,,,,True,True
+2020-03-05,DEU,Germany,Hessen,,,14,,,,,,True,True
+2020-03-05,DEU,Germany,Mecklenburg-Vorpommern,,,4,,,,,,True,True
+2020-03-05,DEU,Germany,Niedersachsen,,,18,,,,,,True,True
+2020-03-05,DEU,Germany,Nordrhein-Westfalen,,,181,,,,,,True,True
+2020-03-03,DEU,Germany,Repatriierte,,,2,,,,,,True,True
+2020-03-05,DEU,Germany,Rheinland-Pfalz,,,8,,,,,,True,True
+2020-03-05,DEU,Germany,Saarland,,,1,,,,,,True,True
+2020-03-05,DEU,Germany,Sachsen,,,1,,,,,,True,True
+2020-03-05,DEU,Germany,Schleswig Holstein,,,7,,,,,,True,True
+2020-03-05,DEU,Germany,Thüringen,,,1,,,,,,True,True
+2020-03-05,HUN,Hungary,Hungary,,,4,0,0,4,0,0,True,True
+2020-03-05,HUN,Hungary,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-03-05,ITA,Italy,Abruzzo,,,8,0,0,8,8,0,True,True
+2020-03-05,ITA,Italy,Basilicata,,,1,0,0,1,0,0,True,True
+2020-03-05,ITA,Italy,Bolzano,,,1,0,0,1,1,0,True,True
+2020-03-05,ITA,Italy,Calabria,,,2,0,0,2,1,0,True,True
+2020-03-05,ITA,Italy,Campania,,,45,0,0,45,12,0,True,True
+2020-03-05,ITA,Italy,Emilia-Romagna,,,698,30,10,658,359,32,True,True
+2020-03-05,ITA,Italy,Friuli Venezia Giulia,,,21,0,0,21,4,0,True,True
+2020-03-05,ITA,Italy,Lazio,,,44,0,3,41,27,7,True,True
+2020-03-05,ITA,Italy,Liguria,,,28,3,4,21,14,3,True,True
+2020-03-05,ITA,Italy,Lombardia,,,2251,98,376,1777,1413,244,True,True
+2020-03-05,ITA,Italy,Marche,,,124,4,0,120,76,19,True,True
+2020-03-05,ITA,Italy,Molise,,,7,0,0,7,4,0,True,True
+2020-03-05,ITA,Italy,Piemonte,,,108,2,0,106,60,17,True,True
+2020-03-05,ITA,Italy,Puglia,,,14,1,1,12,6,1,True,True
+2020-03-05,ITA,Italy,Sardegna,,,2,0,0,2,2,0,True,True
+2020-03-05,ITA,Italy,Sicilia,,,18,0,2,16,5,0,True,True
+2020-03-05,ITA,Italy,Toscana,,,61,0,1,60,29,3,True,True
+2020-03-05,ITA,Italy,Trento,,,7,0,0,7,2,0,True,True
+2020-03-05,ITA,Italy,Umbria,,,9,0,0,9,2,1,True,True
+2020-03-05,ITA,Italy,Valle d'Aosta,,,2,0,0,2,0,0,True,True
+2020-03-05,ITA,Italy,Veneto,,,407,10,17,380,116,24,True,True
+2020-02-20,LVA,Latvia,Latvia,,,-1,0,0,-1,,,True,True
+2020-03-05,LIE,Liechtenstein,Liechtenstein,,,1,0,0,1,,,False,False
+2020-03-05,PRT,Portugal,Centro,,,1,,,,,,True,True
+2020-03-05,PRT,Portugal,Lisbon,,,3,,,,,,True,True
+2020-03-05,PRT,Portugal,Norte,,,5,,,,,,True,True
+2020-03-05,ESP,Spain,Andalucía,,,12,0,0,12,0,1,True,True
+2020-03-05,ESP,Spain,Aragón,,,1,0,0,1,0,1,True,True
+2020-03-05,ESP,Spain,Canarias,,,8,0,0,8,0,0,True,True
+2020-03-05,ESP,Spain,Cantabria,,,10,0,0,10,0,0,True,True
+2020-03-05,ESP,Spain,Castilla y León,,,11,0,0,11,0,1,True,True
+2020-03-05,ESP,Spain,Castilla-La Mancha,,,13,0,0,13,0,1,True,True
+2020-03-05,ESP,Spain,Cataluña,,,24,0,0,24,0,0,True,True
+2020-03-04,ESP,Spain,Ciudad Autónoma de Ceuta,,,0,0,19,-19,0,0,True,True
+2020-03-05,ESP,Spain,Comunidad de Madrid,,,90,1,0,89,0,2,True,True
+2020-03-05,ESP,Spain,Comunidad Foral de Navarra,,,3,0,0,3,0,1,True,True
+2020-03-05,ESP,Spain,Comunidad Valenciana,,,19,1,0,18,0,0,True,True
+2020-03-05,ESP,Spain,Extremadura,,,6,0,0,6,0,0,True,True
+2020-03-05,ESP,Spain,Galicia,,,1,0,0,1,0,0,True,True
+2020-03-05,ESP,Spain,Illes Balears,,,6,0,0,6,0,0,True,True
+2020-03-05,ESP,Spain,La Rioja,,,11,0,0,11,0,0,True,True
+2020-03-05,ESP,Spain,País Vasco,,,17,1,0,16,0,0,True,True
+2020-03-05,ESP,Spain,Principado de Asturias,,,5,0,0,5,0,2,True,True
+2020-03-04,ESP,Spain,Región de Murcia,,,0,0,3,-3,0,0,True,True
+2020-03-05,CHE,Switzerland,Aargau,,,9,0,0,9,0,0,False,False
+2020-03-05,CHE,Switzerland,Appenzell Ausserrhoden,,,1,0,0,1,0,0,False,False
+2020-03-05,CHE,Switzerland,Basel City,,,8,0,0,8,0,0,False,False
+2020-03-05,CHE,Switzerland,Basel Country,,,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Bern,,,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Fribourg,,,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Geneva,,,13,0,0,13,5,0,False,False
+2020-03-05,CHE,Switzerland,Jura,,,2,0,0,2,0,0,False,False
+2020-03-05,CHE,Switzerland,Liechtenstein,,,1,0,0,1,0,0,False,False
+2020-03-05,CHE,Switzerland,Schaffhausen,,,1,0,0,1,0,0,False,False
+2020-03-05,CHE,Switzerland,St. Gallen,,,3,0,0,3,1,0,False,False
+2020-03-05,CHE,Switzerland,Ticino,,,18,0,0,18,0,0,False,False
+2020-03-05,CHE,Switzerland,Valais,,,5,0,0,5,3,0,False,False
+2020-03-05,CHE,Switzerland,Zug,,,3,0,0,3,0,0,False,False
+2020-03-05,CHE,Switzerland,Zurich,,,19,0,0,19,0,0,False,False

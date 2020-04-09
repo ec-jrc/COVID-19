@@ -1,0 +1,64 @@
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-03-02,FRA,France,Auvergne-Rhône-Alpes,,,37,0,0,37,0,0,True,True
+2020-03-02,FRA,France,Bourgogne-Franche-Comté,,,8,0,0,8,0,0,True,True
+2020-03-02,FRA,France,Bretagne,,,13,0,0,13,0,0,True,True
+2020-03-02,FRA,France,Grand Est,,,5,0,0,5,0,0,True,True
+2020-03-02,FRA,France,Hauts-de-France,,,45,0,0,45,0,0,True,True
+2020-03-02,FRA,France,Île-de-France,,,34,0,0,34,0,0,True,True
+2020-03-02,FRA,France,Normandie,,,2,0,0,2,0,0,True,True
+2020-03-02,FRA,France,NOT SPECIFIED,,,23,3,0,20,0,0,True,True
+2020-03-02,FRA,France,Nouvelle-Aquitaine,,,4,0,0,4,0,0,True,True
+2020-03-02,FRA,France,Occitanie,,,6,0,0,6,0,0,True,True
+2020-03-02,FRA,France,Pays de la Loire,,,5,0,0,5,0,0,True,True
+2020-03-02,FRA,France,Provence-Alpes-Côte d'Azur,,,9,0,0,9,0,0,True,True
+2020-03-02,DEU,Germany,Baden-Württemberg,,,20,,,,,,True,True
+2020-03-02,DEU,Germany,Bayern,,,26,,,,,,True,True
+2020-03-02,DEU,Germany,Berlin,,,1,,,,,,True,True
+2020-03-02,DEU,Germany,Bremen,,,1,,,,,,True,True
+2020-03-02,DEU,Germany,Hamburg,,,2,,,,,,True,True
+2020-03-02,DEU,Germany,Hessen,,,10,,,,,,True,True
+2020-03-02,DEU,Germany,Niedersachsen,,,1,,,,,,True,True
+2020-03-02,DEU,Germany,Nordrhein-Westfalen,,,90,,,,,,True,True
+2020-03-02,DEU,Germany,Repatriierte,,,2,,,,,,True,True
+2020-03-02,DEU,Germany,Rheinland-Pfalz,,,2,,,,,,True,True
+2020-03-02,DEU,Germany,Schleswig Holstein,,,2,,,,,,True,True
+2020-03-02,ITA,Italy,Abruzzo,,,5,0,0,5,3,0,True,True
+2020-03-02,ITA,Italy,Bolzano,,,1,0,0,1,1,0,True,True
+2020-03-02,ITA,Italy,Calabria,,,1,0,0,1,0,0,True,True
+2020-03-02,ITA,Italy,Campania,,,17,0,0,17,4,0,True,True
+2020-03-02,ITA,Italy,Emilia-Romagna,,,335,11,0,324,164,16,True,True
+2020-03-02,ITA,Italy,Friuli Venezia Giulia,,,9,0,0,9,0,0,True,True
+2020-03-02,ITA,Italy,Lazio,,,7,0,3,4,3,0,True,True
+2020-03-02,ITA,Italy,Liguria,,,22,0,4,18,13,1,True,True
+2020-03-02,ITA,Italy,Lombardia,,,1254,38,139,1077,605,127,True,True
+2020-03-02,ITA,Italy,Marche,,,35,1,0,34,23,6,True,True
+2020-03-02,ITA,Italy,Piemonte,,,51,0,0,51,14,2,True,True
+2020-03-02,ITA,Italy,Puglia,,,4,0,0,4,2,0,True,True
+2020-03-02,ITA,Italy,Sicilia,,,7,0,2,5,2,0,True,True
+2020-03-02,ITA,Italy,Toscana,,,13,0,1,12,7,0,True,True
+2020-03-02,ITA,Italy,Umbria,,,2,0,0,2,0,0,True,True
+2020-03-02,ITA,Italy,Veneto,,,273,2,0,271,67,14,True,True
+2020-02-20,LVA,Latvia,Latvia,,,-1,0,0,-1,,,True,True
+2020-03-02,ESP,Spain,Andalucía,,,12,,,,,,True,True
+2020-03-02,ESP,Spain,Canarias,,,7,,,,,,True,True
+2020-03-02,ESP,Spain,Cantabria,,,10,,,,,,True,True
+2020-03-02,ESP,Spain,Castilla y León,,,8,,,,,,True,True
+2020-03-02,ESP,Spain,Castilla-La Mancha,,,3,,,,,,True,True
+2020-03-02,ESP,Spain,Cataluña,,,17,,,,,,True,True
+2020-03-02,ESP,Spain,Comunidad de Madrid,,,32,,,,,,True,True
+2020-03-02,ESP,Spain,Comunidad Foral de Navarra,,,2,,,,,,True,True
+2020-03-02,ESP,Spain,Comunidad Valenciana,,,15,,,,,,True,True
+2020-03-02,ESP,Spain,Extremadura,,,6,,,,,,True,True
+2020-03-02,ESP,Spain,Illes Balears,,,1,,,,,,True,True
+2020-03-02,ESP,Spain,La Rioja,,,1,,,,,,True,True
+2020-03-02,ESP,Spain,País Vasco,,,10,,,,,,True,True
+2020-03-02,ESP,Spain,Principado de Asturias,,,1,,,,,,True,True
+2020-03-02,CHE,Switzerland,Aargau,,,2,0,0,2,0,0,False,False
+2020-03-02,CHE,Switzerland,Basel City,,,3,0,0,3,0,0,False,False
+2020-03-02,CHE,Switzerland,Basel Country,,,2,0,0,2,0,0,False,False
+2020-03-02,CHE,Switzerland,Bern,,,4,0,0,4,0,0,False,False
+2020-03-02,CHE,Switzerland,Fribourg,,,2,0,0,2,0,0,False,False
+2020-03-02,CHE,Switzerland,Geneva,,,7,0,0,7,3,0,False,False
+2020-03-02,CHE,Switzerland,Ticino,,,2,0,0,2,0,0,False,False
+2020-03-02,CHE,Switzerland,Valais,,,3,0,0,3,4,0,False,False
+2020-03-02,CHE,Switzerland,Zurich,,,2,0,0,2,0,0,False,False

@@ -1,0 +1,4 @@
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-02-28,ITA,Italy,41.873987,12.564167,888,21,46,821,409,64,True,True
+2020-02-20,LVA,Latvia,56.875584,24.607722,-1,0,0,-1,,,True,True
+2020-02-28,CHE,Switzerland,46.815514,8.224472,10,0,0,10,5,0,False,False

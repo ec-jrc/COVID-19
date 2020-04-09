@@ -1,0 +1,8 @@
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-03-03,FRA,France,46.232193,2.209667,212,4,12,196,0,0,True,True
+2020-03-03,DEU,Germany,51.165706,10.452764,198,,,,,,True,True
+2020-03-03,ITA,Italy,41.873987,12.564167,2502,79,160,2263,1263,229,True,True
+2020-02-20,LVA,Latvia,56.875584,24.607722,-1,0,0,-1,,,True,True
+2020-03-03,PRT,Portugal,39.553444,-7.839319,4,,,,,,True,True
+2020-03-03,ESP,Spain,39.896027,-2.487694,155,1,,,,,True,True
+2020-03-03,CHE,Switzerland,46.815514,8.224472,45,0,0,45,9,0,False,False
