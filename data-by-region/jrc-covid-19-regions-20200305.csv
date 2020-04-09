@@ -1,101 +1,101 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-03-05,AUT,Austria,Kärnten,,,1,,,,,,True,True
-2020-03-05,AUT,Austria,Niederösterreich,,,13,,,,,,True,True
-2020-03-05,AUT,Austria,Salzburg,,,4,,,,,,True,True
-2020-03-05,AUT,Austria,Steiermark,,,4,,,,,,True,True
-2020-03-05,AUT,Austria,Tirol,,,3,,,,,,True,True
-2020-03-05,AUT,Austria,Wien,,,16,,,,,,True,True
-2020-03-04,CYP,Cyprus,Cyprus,,,744,14,0,730,0,0,True,True
-2020-03-05,FRA,France,Auvergne-Rhône-Alpes,,,64,0,0,64,0,0,True,True
-2020-03-05,FRA,France,Bourgogne-Franche-Comté,,,39,0,0,39,0,0,True,True
-2020-03-05,FRA,France,Bretagne,,,29,0,0,29,0,0,True,True
+2020-03-05,AUT,Austria,Kärnten,46715831643400000,14455532074000000,1,,,,,,True,True
+2020-03-05,AUT,Austria,Niederösterreich,48270510379300000,15763244734500000,13,,,,,,True,True
+2020-03-05,AUT,Austria,Salzburg,47254050817900000,13032652855000000,4,,,,,,True,True
+2020-03-05,AUT,Austria,Steiermark,47187361406500000,15518046379000000,4,,,,,,True,True
+2020-03-05,AUT,Austria,Tirol,47209022512400000,11397603034500000,3,,,,,,True,True
+2020-03-05,AUT,Austria,Wien,48211410453600000,16380037999400000,16,,,,,,True,True
+2020-03-04,CYP,Cyprus,Cyprus,35.167406,33.435499,744,14,0,730,0,0,True,True
+2020-03-05,FRA,France,Auvergne-Rhône-Alpes,45283025697300000,4624017238500000,64,0,0,64,0,0,True,True
+2020-03-05,FRA,France,Bourgogne-Franche-Comté,47234196765400000,4806917415570000,39,0,0,39,0,0,True,True
+2020-03-05,FRA,France,Bretagne,48181767462800000,-2840778298880000,29,0,0,29,0,0,True,True
 2020-03-05,FRA,France,Centre-Val de Loire,,,2,0,0,2,0,0,True,True
-2020-03-05,FRA,France,Corse,,,3,0,0,3,0,0,True,True
-2020-03-05,FRA,France,Grand Est,,,77,0,0,77,0,0,True,True
-2020-03-03,FRA,France,Guadeloupe,,,3,0,0,3,0,0,True,True
-2020-03-05,FRA,France,Guyane,,,5,0,0,5,0,0,True,True
-2020-03-05,FRA,France,Hauts-de-France,,,74,0,0,74,0,0,True,True
-2020-03-05,FRA,France,Île-de-France,,,76,0,0,76,0,0,True,True
-2020-03-05,FRA,France,Normandie,,,6,0,0,6,0,0,True,True
+2020-03-05,FRA,France,Corse,42151732044300000,9105558505740000,3,0,0,3,0,0,True,True
+2020-03-05,FRA,France,Grand Est,48688737935300000,5613275284200000,77,0,0,77,0,0,True,True
+2020-03-03,FRA,France,Guadeloupe,16.192207,-61.272382,3,0,0,3,0,0,True,True
+2020-03-05,FRA,France,Guyane,3926081597970000,-53245308767100000,5,0,0,5,0,0,True,True
+2020-03-05,FRA,France,Hauts-de-France,49969659632100000,2770433625000000,74,0,0,74,0,0,True,True
+2020-03-05,FRA,France,Île-de-France,48709229065900000,2503472807550000,76,0,0,76,0,0,True,True
+2020-03-05,FRA,France,Normandie,48880100761200000,-73044895999900,6,0,0,6,0,0,True,True
 2020-03-05,FRA,France,NOT SPECIFIED,,,3,7,0,-4,0,23,True,True
-2020-03-05,FRA,France,Nouvelle-Aquitaine,,,8,0,0,8,0,0,True,True
-2020-03-05,FRA,France,Occitanie,,,11,0,0,11,0,0,True,True
-2020-03-05,FRA,France,Pays de la Loire,,,8,0,0,8,0,0,True,True
-2020-03-05,FRA,France,Provence-Alpes-Côte d'Azur,,,18,0,0,18,0,0,True,True
-2020-03-05,DEU,Germany,Baden-Württemberg,,,73,,,,,,True,True
-2020-03-05,DEU,Germany,Bayern,,,70,,,,,,True,True
-2020-03-05,DEU,Germany,Berlin,,,13,,,,,,True,True
-2020-03-05,DEU,Germany,Brandenburg,,,1,,,,,,True,True
-2020-03-05,DEU,Germany,Bremen,,,3,,,,,,True,True
-2020-03-05,DEU,Germany,Hamburg,,,5,,,,,,True,True
-2020-03-05,DEU,Germany,Hessen,,,14,,,,,,True,True
-2020-03-05,DEU,Germany,Mecklenburg-Vorpommern,,,4,,,,,,True,True
-2020-03-05,DEU,Germany,Niedersachsen,,,18,,,,,,True,True
-2020-03-05,DEU,Germany,Nordrhein-Westfalen,,,181,,,,,,True,True
+2020-03-05,FRA,France,Nouvelle-Aquitaine,45479897269500000,410462081500000,8,0,0,8,0,0,True,True
+2020-03-05,FRA,France,Occitanie,43703195134300000,2143601077920000,11,0,0,11,0,0,True,True
+2020-03-05,FRA,France,Pays de la Loire,47479115354700000,-811996068595000,8,0,0,8,0,0,True,True
+2020-03-05,FRA,France,Provence-Alpes-Côte d'Azur,43956993954400000,6062950966870000,18,0,0,18,0,0,True,True
+2020-03-05,DEU,Germany,Baden-Württemberg,48537647988100000,9049198906250000,73,,,,,,True,True
+2020-03-05,DEU,Germany,Bayern,48947574497300000,11419913374100000,70,,,,,,True,True
+2020-03-05,DEU,Germany,Berlin,52501531580600000,13401850244300000,13,,,,,,True,True
+2020-03-05,DEU,Germany,Brandenburg,53109013869400000,12140724421000000,1,,,,,,True,True
+2020-03-05,DEU,Germany,Bremen,53108678267300000,8785950912070000,3,,,,,,True,True
+2020-03-05,DEU,Germany,Hamburg,53544640281500000,10027798051700000,5,,,,,,True,True
+2020-03-05,DEU,Germany,Hessen,50603241555500000,9031057136960000,14,,,,,,True,True
+2020-03-05,DEU,Germany,Mecklenburg-Vorpommern,53721962073200000,12496035392800000,4,,,,,,True,True
+2020-03-05,DEU,Germany,Niedersachsen,52765526803900000,9162018888060000,18,,,,,,True,True
+2020-03-05,DEU,Germany,Nordrhein-Westfalen,51479705656600000,7562080282280000,181,,,,,,True,True
 2020-03-03,DEU,Germany,Repatriierte,,,2,,,,,,True,True
-2020-03-05,DEU,Germany,Rheinland-Pfalz,,,8,,,,,,True,True
-2020-03-05,DEU,Germany,Saarland,,,1,,,,,,True,True
-2020-03-05,DEU,Germany,Sachsen,,,1,,,,,,True,True
-2020-03-05,DEU,Germany,Schleswig Holstein,,,7,,,,,,True,True
-2020-03-05,DEU,Germany,Thüringen,,,1,,,,,,True,True
-2020-03-05,HUN,Hungary,Hungary,,,4,0,0,4,0,0,True,True
+2020-03-05,DEU,Germany,Rheinland-Pfalz,49509319736500000,7909356474750000,8,,,,,,True,True
+2020-03-05,DEU,Germany,Saarland,49384367683200000,6953135496240000,1,,,,,,True,True
+2020-03-05,DEU,Germany,Sachsen,51052333888500000,13348560827600000,1,,,,,,True,True
+2020-03-05,DEU,Germany,Schleswig Holstein,54029500009900000,9705554962500000,7,,,,,,True,True
+2020-03-05,DEU,Germany,Thüringen,50903878069000000,11024879545900000,1,,,,,,True,True
+2020-03-05,HUN,Hungary,Hungary,47.164638,19.508944,4,0,0,4,0,0,True,True
 2020-03-05,HUN,Hungary,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-03-05,ITA,Italy,Abruzzo,,,8,0,0,8,8,0,True,True
-2020-03-05,ITA,Italy,Basilicata,,,1,0,0,1,0,0,True,True
-2020-03-05,ITA,Italy,Bolzano,,,1,0,0,1,1,0,True,True
-2020-03-05,ITA,Italy,Calabria,,,2,0,0,2,1,0,True,True
-2020-03-05,ITA,Italy,Campania,,,45,0,0,45,12,0,True,True
-2020-03-05,ITA,Italy,Emilia-Romagna,,,698,30,10,658,359,32,True,True
-2020-03-05,ITA,Italy,Friuli Venezia Giulia,,,21,0,0,21,4,0,True,True
-2020-03-05,ITA,Italy,Lazio,,,44,0,3,41,27,7,True,True
-2020-03-05,ITA,Italy,Liguria,,,28,3,4,21,14,3,True,True
-2020-03-05,ITA,Italy,Lombardia,,,2251,98,376,1777,1413,244,True,True
-2020-03-05,ITA,Italy,Marche,,,124,4,0,120,76,19,True,True
-2020-03-05,ITA,Italy,Molise,,,7,0,0,7,4,0,True,True
-2020-03-05,ITA,Italy,Piemonte,,,108,2,0,106,60,17,True,True
-2020-03-05,ITA,Italy,Puglia,,,14,1,1,12,6,1,True,True
-2020-03-05,ITA,Italy,Sardegna,,,2,0,0,2,2,0,True,True
-2020-03-05,ITA,Italy,Sicilia,,,18,0,2,16,5,0,True,True
-2020-03-05,ITA,Italy,Toscana,,,61,0,1,60,29,3,True,True
-2020-03-05,ITA,Italy,Trento,,,7,0,0,7,2,0,True,True
-2020-03-05,ITA,Italy,Umbria,,,9,0,0,9,2,1,True,True
-2020-03-05,ITA,Italy,Valle d'Aosta,,,2,0,0,2,0,0,True,True
-2020-03-05,ITA,Italy,Veneto,,,407,10,17,380,116,24,True,True
-2020-02-20,LVA,Latvia,Latvia,,,-1,0,0,-1,,,True,True
-2020-03-05,LIE,Liechtenstein,Liechtenstein,,,1,0,0,1,,,False,False
-2020-03-05,PRT,Portugal,Centro,,,1,,,,,,True,True
-2020-03-05,PRT,Portugal,Lisbon,,,3,,,,,,True,True
-2020-03-05,PRT,Portugal,Norte,,,5,,,,,,True,True
-2020-03-05,ESP,Spain,Andalucía,,,12,0,0,12,0,1,True,True
-2020-03-05,ESP,Spain,Aragón,,,1,0,0,1,0,1,True,True
-2020-03-05,ESP,Spain,Canarias,,,8,0,0,8,0,0,True,True
-2020-03-05,ESP,Spain,Cantabria,,,10,0,0,10,0,0,True,True
-2020-03-05,ESP,Spain,Castilla y León,,,11,0,0,11,0,1,True,True
-2020-03-05,ESP,Spain,Castilla-La Mancha,,,13,0,0,13,0,1,True,True
-2020-03-05,ESP,Spain,Cataluña,,,24,0,0,24,0,0,True,True
-2020-03-04,ESP,Spain,Ciudad Autónoma de Ceuta,,,0,0,19,-19,0,0,True,True
-2020-03-05,ESP,Spain,Comunidad de Madrid,,,90,1,0,89,0,2,True,True
-2020-03-05,ESP,Spain,Comunidad Foral de Navarra,,,3,0,0,3,0,1,True,True
-2020-03-05,ESP,Spain,Comunidad Valenciana,,,19,1,0,18,0,0,True,True
-2020-03-05,ESP,Spain,Extremadura,,,6,0,0,6,0,0,True,True
-2020-03-05,ESP,Spain,Galicia,,,1,0,0,1,0,0,True,True
-2020-03-05,ESP,Spain,Illes Balears,,,6,0,0,6,0,0,True,True
-2020-03-05,ESP,Spain,La Rioja,,,11,0,0,11,0,0,True,True
-2020-03-05,ESP,Spain,País Vasco,,,17,1,0,16,0,0,True,True
-2020-03-05,ESP,Spain,Principado de Asturias,,,5,0,0,5,0,2,True,True
-2020-03-04,ESP,Spain,Región de Murcia,,,0,0,3,-3,0,0,True,True
-2020-03-05,CHE,Switzerland,Aargau,,,9,0,0,9,0,0,False,False
-2020-03-05,CHE,Switzerland,Appenzell Ausserrhoden,,,1,0,0,1,0,0,False,False
+2020-03-05,ITA,Italy,Abruzzo,42228034295700000,13855137318600000,8,0,0,8,8,0,True,True
+2020-03-05,ITA,Italy,Basilicata,40500665311700000,16082246492500000,1,0,0,1,0,0,True,True
+2020-03-05,ITA,Italy,Bolzano,46697344154600000,11417082230600000,1,0,0,1,1,0,True,True
+2020-03-05,ITA,Italy,Calabria,39225584513600000,16418473720500000,2,0,0,2,1,0,True,True
+2020-03-05,ITA,Italy,Campania,41059944859300000,14785096645500000,45,0,0,45,12,0,True,True
+2020-03-05,ITA,Italy,Emilia-Romagna,44536562775300000,11019909165800000,698,30,10,658,359,32,True,True
+2020-03-05,ITA,Italy,Friuli Venezia Giulia,46155667037500000,13058635844500000,21,0,0,21,4,0,True,True
+2020-03-05,ITA,Italy,Lazio,41981132233700000,12767224222400000,44,0,3,41,27,7,True,True
+2020-03-05,ITA,Italy,Liguria,44144781196100000,8140492081750001,28,3,4,21,14,3,True,True
+2020-03-05,ITA,Italy,Lombardia,45622479492900000,9770823890640000,2251,98,376,1777,1413,244,True,True
+2020-03-05,ITA,Italy,Marche,43366623686200000,13106677638500000,124,4,0,120,76,19,True,True
+2020-03-05,ITA,Italy,Molise,41597834096500000,14548702240000000,7,0,0,7,4,0,True,True
+2020-03-05,ITA,Italy,Piemonte,45060965025900000,7926835630320000,108,2,0,106,60,17,True,True
+2020-03-05,ITA,Italy,Puglia,40984631392500000,16620463915900000,14,1,1,12,6,1,True,True
+2020-03-05,ITA,Italy,Sardegna,40090224500700000,9036223468450000,2,0,0,2,2,0,True,True
+2020-03-05,ITA,Italy,Sicilia,37587634586000000,14155496504900000,18,0,2,16,5,0,True,True
+2020-03-05,ITA,Italy,Toscana,43459992765100000,11136697352100000,61,0,1,60,29,3,True,True
+2020-03-05,ITA,Italy,Trento,46139153342700000,10830790520000000,7,0,0,7,2,0,True,True
+2020-03-05,ITA,Italy,Umbria,42966780765500000,12490940411600000,9,0,0,9,2,1,True,True
+2020-03-05,ITA,Italy,Valle d'Aosta,45732414334000000,7393650853490000,2,0,0,2,0,0,True,True
+2020-03-05,ITA,Italy,Veneto,45664735334700000,11842349612600000,407,10,17,380,116,24,True,True
+2020-02-20,LVA,Latvia,Latvia,56.875584,24.607722,-1,0,0,-1,,,True,True
+2020-03-05,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,1,0,0,1,,,False,False
+2020-03-05,PRT,Portugal,Centro,40111812062400000,-8012768402530000,1,,,,,,True,True
+2020-03-05,PRT,Portugal,Lisbon,38623842874000000,-8884359683900000,3,,,,,,True,True
+2020-03-05,PRT,Portugal,Norte,41457206113900000,-7678152655410000,5,,,,,,True,True
+2020-03-05,ESP,Spain,Andalucía,37463629855500000,-4573551667950000,12,0,0,12,0,1,True,True
+2020-03-05,ESP,Spain,Aragón,41519884406300000,-660301685104000,1,0,0,1,0,1,True,True
+2020-03-05,ESP,Spain,Canarias,28291062398000000,-16556310093700000,8,0,0,8,0,0,True,True
+2020-03-05,ESP,Spain,Cantabria,43196325715200000,-4034400523450000,10,0,0,10,0,0,True,True
+2020-03-05,ESP,Spain,Castilla y León,41751204988900000,-4788185181250000,11,0,0,11,0,1,True,True
+2020-03-05,ESP,Spain,Castilla-La Mancha,39254442317900000,-3160862624500000,13,0,0,13,0,1,True,True
+2020-03-05,ESP,Spain,Cataluña,41798000184500000,1528533601050000,24,0,0,24,0,0,True,True
+2020-03-04,ESP,Spain,Ciudad Autónoma de Ceuta,35895759332600000,-5358194470000000,0,0,19,-19,0,0,True,True
+2020-03-05,ESP,Spain,Comunidad de Madrid,40494962162700000,-3716056778760000,90,1,0,89,0,2,True,True
+2020-03-05,ESP,Spain,Comunidad Foral de Navarra,42667549004200000,-1647657685120000,3,0,0,3,0,1,True,True
+2020-03-05,ESP,Spain,Comunidad Valenciana,39390435152900000,-543006669452000,19,1,0,18,0,0,True,True
+2020-03-05,ESP,Spain,Extremadura,39191409312800000,-6150691752810000,6,0,0,6,0,0,True,True
+2020-03-05,ESP,Spain,Galicia,42757078975000000,-7910384474700000,1,0,0,1,0,0,True,True
+2020-03-05,ESP,Spain,Illes Balears,39613451923300000,2956607126340000,6,0,0,6,0,0,True,True
+2020-03-05,ESP,Spain,La Rioja,42275075476200000,-2517176826500000,11,0,0,11,0,0,True,True
+2020-03-05,ESP,Spain,País Vasco,43032148865300000,-2621659726460000,17,1,0,16,0,0,True,True
+2020-03-05,ESP,Spain,Principado de Asturias,43292312140600000,-5992987579530000,5,0,0,5,0,2,True,True
+2020-03-04,ESP,Spain,Región de Murcia,38002068806900000,-1485218655230000,0,0,3,-3,0,0,True,True
+2020-03-05,CHE,Switzerland,Aargau,47410913826000000,8159107457859999,9,0,0,9,0,0,False,False
+2020-03-05,CHE,Switzerland,Appenzell Ausserrhoden,47387403683700000,9413371086000000,1,0,0,1,0,0,False,False
 2020-03-05,CHE,Switzerland,Basel City,,,8,0,0,8,0,0,False,False
 2020-03-05,CHE,Switzerland,Basel Country,,,6,0,0,6,0,0,False,False
-2020-03-05,CHE,Switzerland,Bern,,,6,0,0,6,0,0,False,False
-2020-03-05,CHE,Switzerland,Fribourg,,,6,0,0,6,0,0,False,False
-2020-03-05,CHE,Switzerland,Geneva,,,13,0,0,13,5,0,False,False
-2020-03-05,CHE,Switzerland,Jura,,,2,0,0,2,0,0,False,False
-2020-03-05,CHE,Switzerland,Liechtenstein,,,1,0,0,1,0,0,False,False
-2020-03-05,CHE,Switzerland,Schaffhausen,,,1,0,0,1,0,0,False,False
-2020-03-05,CHE,Switzerland,St. Gallen,,,3,0,0,3,1,0,False,False
-2020-03-05,CHE,Switzerland,Ticino,,,18,0,0,18,0,0,False,False
-2020-03-05,CHE,Switzerland,Valais,,,5,0,0,5,3,0,False,False
-2020-03-05,CHE,Switzerland,Zug,,,3,0,0,3,0,0,False,False
-2020-03-05,CHE,Switzerland,Zurich,,,19,0,0,19,0,0,False,False
+2020-03-05,CHE,Switzerland,Bern,46825005667500000,7626925335820000,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Fribourg,46710333596100000,7099220473910000,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Geneva,46217113833500000,6131254929710000,13,0,0,13,5,0,False,False
+2020-03-05,CHE,Switzerland,Jura,47368327446400000,7198732853000000,2,0,0,2,0,0,False,False
+2020-03-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,1,0,0,1,0,0,False,False
+2020-03-05,CHE,Switzerland,Schaffhausen,47721853458300000,8563862904590000,1,0,0,1,0,0,False,False
+2020-03-05,CHE,Switzerland,St. Gallen,47305024744600000,9019368410000000,3,0,0,3,1,0,False,False
+2020-03-05,CHE,Switzerland,Ticino,46297962908800000,8808447087599999,18,0,0,18,0,0,False,False
+2020-03-05,CHE,Switzerland,Valais,46211633059500000,7611267430720000,5,0,0,5,3,0,False,False
+2020-03-05,CHE,Switzerland,Zug,47161402316600000,8538864211500000,3,0,0,3,0,0,False,False
+2020-03-05,CHE,Switzerland,Zurich,47417407460500000,8655987523600000,19,0,0,19,0,0,False,False

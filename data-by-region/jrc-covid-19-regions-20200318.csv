@@ -1,293 +1,266 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-03-18,ALB,Albania,Elbasan,,,2,0,0,2,,,False,False
-2020-03-18,ALB,Albania,Fier,,,6,0,0,6,,,False,False
-2020-03-18,ALB,Albania,Tiranë,,,42,0,0,42,0,0,False,False
-2020-03-18,AND,Andorra,Andorra,,,39,0,0,39,,,False,False
-2020-03-18,AUT,Austria,Burgenland,,,20,,,,,,True,True
-2020-03-18,AUT,Austria,Kärnten,,,41,,,,,,True,True
-2020-03-18,AUT,Austria,Niederösterreich,,,256,,,,,,True,True
-2020-03-18,AUT,Austria,Oberösterreich,,,305,,,,,,True,True
-2020-03-18,AUT,Austria,Salzburg,,,89,,,,,,True,True
-2020-03-18,AUT,Austria,Steiermark,,,220,,,,,,True,True
-2020-03-18,AUT,Austria,Tirol,,,328,,,,,,True,True
-2020-03-18,AUT,Austria,Vorarlberg,,,124,,,,,,True,True
-2020-03-18,AUT,Austria,Wien,,,209,,,,,,True,True
-2020-03-18,BLR,Belarus,Belarus,,,36,0,0,36,0,0,False,False
-2020-03-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,,,15,0,0,15,0,0,False,False
-2020-03-18,HRV,Croatia,Brodsko-Posavska,,,1,0,0,1,,,True,True
-2020-03-18,HRV,Croatia,Grad Zagreb,,,30,0,0,30,,,True,True
-2020-03-18,HRV,Croatia,Istarska,,,6,0,0,6,,,True,True
-2020-03-18,HRV,Croatia,Karlovačka,,,1,0,0,1,,,True,True
-2020-03-18,HRV,Croatia,Osječko-baranjska,,,7,0,0,7,,,True,True
-2020-03-18,HRV,Croatia,Primorsko-Goranska,,,10,0,0,10,,,True,True
-2020-03-18,HRV,Croatia,Sisačko-moslavačka,,,3,0,0,3,,,True,True
-2020-03-18,HRV,Croatia,Varaždinska,,,5,0,0,5,,,True,True
-2020-03-18,HRV,Croatia,Zadarska,,,1,0,0,1,,,True,True
-2020-03-18,CYP,Cyprus,Cyprus,,,58,0,0,58,,,True,True
-2020-03-18,CZE,Czech Republic,Jihoceský,,,16,0,0,16,,,True,True
-2020-03-18,CZE,Czech Republic,Jihomoravský,,,35,0,0,35,,,True,True
-2020-03-18,CZE,Czech Republic,Karlovarský,,,19,0,0,19,,,True,True
-2020-03-18,CZE,Czech Republic,Královéhradecký,,,14,0,0,14,,,True,True
-2020-03-18,CZE,Czech Republic,Liberecký,,,4,0,0,4,,,True,True
-2020-03-18,CZE,Czech Republic,Moravskoslezský,,,34,0,0,34,,,True,True
-2020-03-18,CZE,Czech Republic,Olomoucký,,,38,0,0,38,,,True,True
-2020-03-18,CZE,Czech Republic,Pardubický,,,14,0,0,14,,,True,True
-2020-03-18,CZE,Czech Republic,Plzenský,,,14,0,0,14,,,True,True
-2020-03-18,CZE,Czech Republic,Prague,,,167,0,0,167,,,True,True
-2020-03-18,CZE,Czech Republic,Stredoceský,,,48,0,0,48,,,True,True
+2020-03-18,ALB,Albania,Elbasan,41040027661000000,20186454487400000,2,0,0,2,,,False,False
+2020-03-18,ALB,Albania,Fier,40774633406300000,19620527708500000,6,0,0,6,,,False,False
+2020-03-18,ALB,Albania,Tiranë,41268582845200000,19793936271500000,42,0,0,42,0,0,False,False
+2020-03-18,AND,Andorra,Andorra,42.542268,1.596865,39,0,0,39,,,False,False
+2020-03-18,AUT,Austria,Burgenland,47541448739500000,16520205662000000,20,,,,,,True,True
+2020-03-18,AUT,Austria,Kärnten,46715831643400000,14455532074000000,41,,,,,,True,True
+2020-03-18,AUT,Austria,Niederösterreich,48270510379300000,15763244734500000,256,,,,,,True,True
+2020-03-18,AUT,Austria,Oberösterreich,48138165991400000,13964294830500000,305,,,,,,True,True
+2020-03-18,AUT,Austria,Salzburg,47254050817900000,13032652855000000,89,,,,,,True,True
+2020-03-18,AUT,Austria,Steiermark,47187361406500000,15518046379000000,220,,,,,,True,True
+2020-03-18,AUT,Austria,Tirol,47209022512400000,11397603034500000,328,,,,,,True,True
+2020-03-18,AUT,Austria,Vorarlberg,47240148924300000,9896366157600000,124,,,,,,True,True
+2020-03-18,AUT,Austria,Wien,48211410453600000,16380037999400000,209,,,,,,True,True
+2020-03-18,BLR,Belarus,Belarus,53.711111,27.973847,36,0,0,36,0,0,False,False
+2020-03-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,15,0,0,15,0,0,False,False
+2020-03-18,HRV,Croatia,Brodsko-Posavska,45142403589500000,17821388244500000,1,0,0,1,,,True,True
+2020-03-18,HRV,Croatia,Grad Zagreb,45742195781300000,16008116114200000,30,0,0,30,,,True,True
+2020-03-18,HRV,Croatia,Istarska,45203520927400000,13895311790600000,6,0,0,6,,,True,True
+2020-03-18,HRV,Croatia,Karlovačka,45292125584900000,15464269895400000,1,0,0,1,,,True,True
+2020-03-18,HRV,Croatia,Osječko-baranjska,45561389549100000,18442456497300000,7,0,0,7,,,True,True
+2020-03-18,HRV,Croatia,Primorsko-Goranska,45367738410600000,14701448207100000,10,0,0,10,,,True,True
+2020-03-18,HRV,Croatia,Sisačko-moslavačka,45365582718600000,16424137352000000,3,0,0,3,,,True,True
+2020-03-18,HRV,Croatia,Varaždinska,46250434350700000,16293818261199998,5,0,0,5,,,True,True
+2020-03-18,HRV,Croatia,Zadarska,44347845133900000,15959403753300000,1,0,0,1,,,True,True
+2020-03-18,CYP,Cyprus,Cyprus,35.167406,33.435499,58,0,0,58,,,True,True
+2020-03-18,CZE,Czech Republic,Jihoceský,49093362253100000,14439277719200000,16,0,0,16,,,True,True
+2020-03-18,CZE,Czech Republic,Jihomoravský,49079446431300000,16663916002400000,35,0,0,35,,,True,True
+2020-03-18,CZE,Czech Republic,Karlovarský,50170136454100000,12763212890900000,19,0,0,19,,,True,True
+2020-03-18,CZE,Czech Republic,Královéhradecký,50385055476200000,15865136905500000,14,0,0,14,,,True,True
+2020-03-18,CZE,Czech Republic,Liberecký,50732037664500000,14973754882500000,4,0,0,4,,,True,True
+2020-03-18,CZE,Czech Republic,Moravskoslezský,49780616937000000,18000930786000000,34,0,0,34,,,True,True
+2020-03-18,CZE,Czech Republic,Olomoucký,49823635650100000,17016471863000000,38,0,0,38,,,True,True
+2020-03-18,CZE,Czech Republic,Pardubický,49877868770500000,16495745658800000,14,0,0,14,,,True,True
+2020-03-18,CZE,Czech Republic,Plzenský,49590906440500000,13232220104500000,14,0,0,14,,,True,True
+2020-03-18,CZE,Czech Republic,Prague,50063698604500000,14476402506900000,167,0,0,167,,,True,True
+2020-03-18,CZE,Czech Republic,Stredoceský,50101073858900000,15003746748300000,48,0,0,48,,,True,True
 2020-03-18,CZE,Czech Republic,Unknown,,,96,0,0,96,,,True,True
-2020-03-18,CZE,Czech Republic,Ústecký,,,26,0,0,26,,,True,True
-2020-03-18,CZE,Czech Republic,Vysocina,,,9,0,0,9,,,True,True
-2020-03-18,CZE,Czech Republic,Zlínský,,,26,0,0,26,,,True,True
-2020-03-18,DNK,Denmark,Faroe,,,62,0,0,62,0,0,True,True
+2020-03-18,CZE,Czech Republic,Ústecký,50488307600700000,13816736221000000,26,0,0,26,,,True,True
+2020-03-18,CZE,Czech Republic,Vysocina,49407360293400000,15689937226400000,9,0,0,9,,,True,True
+2020-03-18,CZE,Czech Republic,Zlínský,49239653782400000,17770218332100000,26,0,0,26,,,True,True
+2020-03-18,DNK,Denmark,Faroe,62194921473900000,-7096614480000000,62,0,0,62,0,0,True,True
 2020-03-18,DNK,Denmark,Hovedstaden,,,480,0,0,480,0,0,True,True
-2020-03-15,DNK,Denmark,Mainland,,,860,0,0,860,0,0,True,True
+2020-03-15,DNK,Denmark,Mainland,56031924498800000,9317572000320000,860,0,0,860,0,0,True,True
 2020-03-18,DNK,Denmark,Midtjylland,,,202,0,0,202,0,0,True,True
 2020-03-18,DNK,Denmark,Nordjylland,,,59,0,0,59,0,0,True,True
 2020-03-18,DNK,Denmark,NOT SPECIFIED,,,0,4,0,-4,0,0,True,True
 2020-03-18,DNK,Denmark,Sjælland,,,151,0,0,151,0,0,True,True
 2020-03-18,DNK,Denmark,Syddanmark,,,152,0,0,152,0,0,True,True
-2020-03-18,EST,Estonia,Estonia,,,258,0,0,258,0,0,True,True
-2020-03-18,FIN,Finland,Etelä-Karjala,,,4,0,0,4,,,True,True
-2020-03-18,FIN,Finland,Etelä-Pohjanmaa,,,5,0,0,5,,,True,True
-2020-03-18,FIN,Finland,Etelä-Savo,,,5,0,0,5,,,True,True
-2020-03-18,FIN,Finland,HUS,,,180,0,0,180,,,True,True
-2020-03-18,FIN,Finland,Kanta-Häme,,,13,0,0,13,,,True,True
-2020-03-18,FIN,Finland,Keski-Pohjanmaa,,,2,0,0,2,,,True,True
-2020-03-18,FIN,Finland,Keski-Suomi,,,15,0,0,15,,,True,True
-2020-03-18,FIN,Finland,Länsi-Pohja,,,2,0,0,2,,,True,True
-2020-03-18,FIN,Finland,Lappi,,,3,0,0,3,,,True,True
-2020-03-18,FIN,Finland,Päijät-Häme,,,1,0,0,1,,,True,True
-2020-03-18,FIN,Finland,Pirkanmaa,,,25,0,0,25,,,True,True
-2020-03-18,FIN,Finland,Pohjois-Karjala,,,6,0,0,6,,,True,True
-2020-03-18,FIN,Finland,Pohjois-Pohjanmaa,,,28,0,0,28,,,True,True
-2020-03-18,FIN,Finland,Pohjois-Savo,,,3,0,0,3,,,True,True
-2020-03-18,FIN,Finland,Satakunta,,,9,0,0,9,,,True,True
+2020-03-18,EST,Estonia,Estonia,58.596209,25.023778,258,0,0,258,0,0,True,True
+2020-03-18,FIN,Finland,Etelä-Karjala,61217899471000000,28550289154100000,4,0,0,4,,,True,True
+2020-03-18,FIN,Finland,Etelä-Pohjanmaa,62833355731400000,23056909561200000,5,0,0,5,,,True,True
+2020-03-18,FIN,Finland,Etelä-Savo,61813578397100000,27347684748800000,5,0,0,5,,,True,True
+2020-03-18,FIN,Finland,HUS,60408524116800000,24781700134300000,180,0,0,180,,,True,True
+2020-03-18,FIN,Finland,Kanta-Häme,60921423721300000,24354382955100000,13,0,0,13,,,True,True
+2020-03-18,FIN,Finland,Keski-Pohjanmaa,63626886883600000,24066595525900000,2,0,0,2,,,True,True
+2020-03-18,FIN,Finland,Keski-Suomi,62629132796000000,25476526384200000,15,0,0,15,,,True,True
+2020-03-18,FIN,Finland,Länsi-Pohja,66133478948800000,24762610627900000,2,0,0,2,,,True,True
+2020-03-18,FIN,Finland,Lappi,67847437556400000,26444541500200000,3,0,0,3,,,True,True
+2020-03-18,FIN,Finland,Päijät-Häme,61217270650600000,25721465131000000,1,0,0,1,,,True,True
+2020-03-18,FIN,Finland,Pirkanmaa,61715016965100000,23913901991900000,25,0,0,25,,,True,True
+2020-03-18,FIN,Finland,Pohjois-Karjala,62918284839600000,29941761158000000,6,0,0,6,,,True,True
+2020-03-18,FIN,Finland,Pohjois-Pohjanmaa,64217761835300000,25295119762400000,28,0,0,28,,,True,True
+2020-03-18,FIN,Finland,Pohjois-Savo,63173161843200000,27465765207500000,3,0,0,3,,,True,True
+2020-03-18,FIN,Finland,Satakunta,61527071877400000,22157717067700000,9,0,0,9,,,True,True
 2020-03-18,FIN,Finland,Unknown,,,1,0,0,1,,,True,True
-2020-03-18,FIN,Finland,Vaasa,,,2,0,0,2,,,True,True
-2020-03-18,FIN,Finland,Varsinais-Suomi,,,15,0,0,15,,,True,True
+2020-03-18,FIN,Finland,Vaasa,63077478925300000,22196053576400000,2,0,0,2,,,True,True
+2020-03-18,FIN,Finland,Varsinais-Suomi,60590424005400000,22623676874600000,15,0,0,15,,,True,True
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True
-2020-03-18,FRA,France,Auvergne-Rhône-Alpes,,,858,7,69,782,172,35,True,True
-2020-03-18,FRA,France,Bourgogne-Franche-Comté,,,593,6,20,567,168,33,True,True
-2020-03-18,FRA,France,Bretagne,,,273,7,69,197,60,23,True,True
+2020-03-18,FRA,France,Auvergne-Rhône-Alpes,45283025697300000,4624017238500000,858,7,69,782,172,35,True,True
+2020-03-18,FRA,France,Bourgogne-Franche-Comté,47234196765400000,4806917415570000,593,6,20,567,168,33,True,True
+2020-03-18,FRA,France,Bretagne,48181767462800000,-2840778298880000,273,7,69,197,60,23,True,True
 2020-03-18,FRA,France,Centre-Val de Loire,,,128,1,0,127,14,5,True,True
-2020-03-18,FRA,France,Corse,,,152,0,0,152,0,0,True,True
-2020-03-18,FRA,France,Grand Est,,,2163,120,146,1897,879,204,True,True
-2020-03-18,FRA,France,Guadeloupe,,,33,0,0,33,0,0,True,True
-2020-03-18,FRA,France,Guyane,,,11,0,0,11,0,0,True,True
-2020-03-18,FRA,France,Hauts-de-France,,,665,21,77,567,313,87,True,True
-2020-03-18,FRA,France,Île-de-France,,,2693,36,129,2528,957,294,True,True
+2020-03-18,FRA,France,Corse,42151732044300000,9105558505740000,152,0,0,152,0,0,True,True
+2020-03-18,FRA,France,Grand Est,48688737935300000,5613275284200000,2163,120,146,1897,879,204,True,True
+2020-03-18,FRA,France,Guadeloupe,16.192207,-61.272382,33,0,0,33,0,0,True,True
+2020-03-18,FRA,France,Guyane,3926081597970000,-53245308767100000,11,0,0,11,0,0,True,True
+2020-03-18,FRA,France,Hauts-de-France,49969659632100000,2770433625000000,665,21,77,567,313,87,True,True
+2020-03-18,FRA,France,Île-de-France,48709229065900000,2503472807550000,2693,36,129,2528,957,294,True,True
 2020-03-18,FRA,France,La Réunion,,,14,0,0,14,2,2,True,True
-2020-03-18,FRA,France,Martinique,,,23,1,0,22,16,5,True,True
-2020-03-18,FRA,France,Mayotte,,,3,0,0,3,0,0,True,True
-2020-03-18,FRA,France,Normandie,,,208,3,6,199,45,4,True,True
+2020-03-18,FRA,France,Martinique,14.63554,-61.022814,23,1,0,22,16,5,True,True
+2020-03-18,FRA,France,Mayotte,-12.824511,45.165455,3,0,0,3,0,0,True,True
+2020-03-18,FRA,France,Normandie,48880100761200000,-73044895999900,208,3,6,199,45,4,True,True
 2020-03-18,FRA,France,NOT SPECIFIED,,,7,46,184,-223,654,160,True,True
-2020-03-18,FRA,France,Nouvelle-Aquitaine,,,237,2,11,224,41,12,True,True
-2020-03-18,FRA,France,Occitanie,,,371,6,51,314,95,39,True,True
-2020-03-18,FRA,France,Pays de la Loire,,,128,1,36,91,44,4,True,True
-2020-03-18,FRA,France,Provence-Alpes-Côte d'Azur,,,574,7,202,365,166,24,True,True
-2020-03-18,DEU,Germany,Baden-Württemberg,,,1609,2,,,,,True,True
-2020-03-18,DEU,Germany,Bayern,,,1243,4,,,,,True,True
-2020-03-18,DEU,Germany,Berlin,,,391,,,,,,True,True
-2020-03-18,DEU,Germany,Brandenburg,,,92,,,,,,True,True
-2020-03-18,DEU,Germany,Bremen,,,69,,,,,,True,True
-2020-03-18,DEU,Germany,Hamburg,,,358,,,,,,True,True
-2020-03-18,DEU,Germany,Hessen,,,432,,,,,,True,True
-2020-03-18,DEU,Germany,Mecklenburg-Vorpommern,,,56,,,,,,True,True
-2020-03-18,DEU,Germany,Niedersachsen,,,478,,,,,,True,True
-2020-03-18,DEU,Germany,Nordrhein-Westfalen,,,2372,6,,,,,True,True
+2020-03-18,FRA,France,Nouvelle-Aquitaine,45479897269500000,410462081500000,237,2,11,224,41,12,True,True
+2020-03-18,FRA,France,Occitanie,43703195134300000,2143601077920000,371,6,51,314,95,39,True,True
+2020-03-18,FRA,France,Pays de la Loire,47479115354700000,-811996068595000,128,1,36,91,44,4,True,True
+2020-03-18,FRA,France,Provence-Alpes-Côte d'Azur,43956993954400000,6062950966870000,574,7,202,365,166,24,True,True
+2020-03-18,DEU,Germany,Baden-Württemberg,48537647988100000,9049198906250000,1609,2,,,,,True,True
+2020-03-18,DEU,Germany,Bayern,48947574497300000,11419913374100000,1243,4,,,,,True,True
+2020-03-18,DEU,Germany,Berlin,52501531580600000,13401850244300000,391,,,,,,True,True
+2020-03-18,DEU,Germany,Brandenburg,53109013869400000,12140724421000000,92,,,,,,True,True
+2020-03-18,DEU,Germany,Bremen,53108678267300000,8785950912070000,69,,,,,,True,True
+2020-03-18,DEU,Germany,Hamburg,53544640281500000,10027798051700000,358,,,,,,True,True
+2020-03-18,DEU,Germany,Hessen,50603241555500000,9031057136960000,432,,,,,,True,True
+2020-03-18,DEU,Germany,Mecklenburg-Vorpommern,53721962073200000,12496035392800000,56,,,,,,True,True
+2020-03-18,DEU,Germany,Niedersachsen,52765526803900000,9162018888060000,478,,,,,,True,True
+2020-03-18,DEU,Germany,Nordrhein-Westfalen,51479705656600000,7562080282280000,2372,6,,,,,True,True
 2020-03-03,DEU,Germany,Repatriierte,,,2,,,,,,True,True
-2020-03-18,DEU,Germany,Rheinland-Pfalz,,,474,,,,,,True,True
-2020-03-18,DEU,Germany,Saarland,,,88,,,,,,True,True
-2020-03-18,DEU,Germany,Sachsen,,,198,,,,,,True,True
-2020-03-18,DEU,Germany,Sachsen-Anhalt,,,105,,,,,,True,True
-2020-03-18,DEU,Germany,Schleswig Holstein,,,159,,,,,,True,True
-2020-03-18,DEU,Germany,Thüringen,,,74,,,,,,True,True
-2020-03-18,GRC,Greece,Achaea,,,12,0,0,12,,,True,True
-2020-03-08,GRC,Greece,Argolis,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Arkadias,,,3,0,0,3,0,0,True,True
-2020-03-08,GRC,Greece,Arta,,,7,0,0,7,0,0,True,True
-2020-03-18,GRC,Greece,Athens,,,152,1,0,151,,,True,True
-2020-03-08,GRC,Greece,Athos,,,4,0,0,4,0,0,True,True
-2020-03-08,GRC,Greece,Beozia,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Chania,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Corfu,,,3,1,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Corinth,,,2,0,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Cyclades,,,2,0,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Dodecaneso,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Drama,,,6,0,0,6,0,0,True,True
-2020-03-18,GRC,Greece,East Attica,,,5,0,0,5,,,True,True
-2020-03-18,GRC,Greece,Elis,,,41,1,0,40,,,True,True
-2020-03-18,GRC,Greece,Euboea,,,1,0,0,1,,,True,True
-2020-03-18,GRC,Greece,Evros,,,1,0,0,1,,,True,True
-2020-03-08,GRC,Greece,Florina,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Fthiotis,,,1,0,0,1,0,0,True,True
-2020-03-18,GRC,Greece,Heraklion,,,5,0,0,5,0,0,True,True
-2020-03-08,GRC,Greece,Ikaria,,,1,0,0,1,0,0,True,True
-2020-03-18,GRC,Greece,Ioannina,,,2,0,0,2,,,True,True
-2020-03-18,GRC,Greece,Kastoria,,,18,1,0,17,,,True,True
-2020-03-08,GRC,Greece,Kavalas,,,4,0,0,4,0,0,True,True
-2020-03-08,GRC,Greece,Kefalonia,,,1,0,0,1,0,0,True,True
-2020-03-08,GRC,Greece,Khalkidiki,,,1,1,0,0,0,0,True,True
-2020-03-08,GRC,Greece,Khios,,,1,0,0,1,0,0,True,True
+2020-03-18,DEU,Germany,Rheinland-Pfalz,49509319736500000,7909356474750000,474,,,,,,True,True
+2020-03-18,DEU,Germany,Saarland,49384367683200000,6953135496240000,88,,,,,,True,True
+2020-03-18,DEU,Germany,Sachsen,51052333888500000,13348560827600000,198,,,,,,True,True
+2020-03-18,DEU,Germany,Sachsen-Anhalt,52013193084700000,11700691006400000,105,,,,,,True,True
+2020-03-18,DEU,Germany,Schleswig Holstein,54029500009900000,9705554962500000,159,,,,,,True,True
+2020-03-18,DEU,Germany,Thüringen,50903878069000000,11024879545900000,74,,,,,,True,True
+2020-03-18,GRC,Greece,Achaea,38116381091000000,21862704277000000,12,0,0,12,,,True,True
+2020-03-18,GRC,Greece,Athens,37997491592300000,23762727187400000,152,1,0,151,,,True,True
+2020-03-18,GRC,Greece,East Attica,37920984406300000,23858620643600000,5,0,0,5,,,True,True
+2020-03-18,GRC,Greece,Elis,37729999773700000,21565210269300000,41,1,0,40,,,True,True
+2020-03-18,GRC,Greece,Euboea,38555117820800000,23793426880900000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Evros,41064778414000000,26129420280500000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Heraklion,35138839231500000,25118682143500000,5,0,0,5,0,0,True,True
+2020-03-18,GRC,Greece,Ioannina,39810149341600000,20805055145100000,2,0,0,2,,,True,True
+2020-03-18,GRC,Greece,Kastoria,40461316472700000,21154636441200000,18,1,0,17,,,True,True
 2020-03-18,GRC,Greece,Kilkis,,,1,0,0,1,,,True,True
-2020-03-18,GRC,Greece,Kozani,,,4,1,0,3,,,True,True
-2020-03-08,GRC,Greece,Laconia,,,1,0,0,1,0,0,True,True
-2020-03-18,GRC,Greece,Larissa,,,3,0,0,3,,,True,True
-2020-03-08,GRC,Greece,Lasithi,,,2,0,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Lefkadas,,,1,0,0,1,0,0,True,True
-2020-03-18,GRC,Greece,Lesbos,,,1,0,0,1,,,True,True
-2020-03-18,GRC,Greece,Magnesia,,,1,0,0,1,,,True,True
-2020-03-18,GRC,Greece,Messinia,,,2,0,0,2,,,True,True
-2020-03-08,GRC,Greece,Pella,,,7,2,0,5,0,0,True,True
-2020-03-18,GRC,Greece,Pieria,,,1,0,0,1,,,True,True
-2020-03-18,GRC,Greece,Pireas,,,1,0,0,1,,,True,True
-2020-03-08,GRC,Greece,Prevezas,,,2,0,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Rethymnon,,,2,0,0,2,0,0,True,True
-2020-03-08,GRC,Greece,Rodopi,,,7,0,0,7,0,0,True,True
-2020-03-18,GRC,Greece,Serron,,,7,0,0,7,0,0,True,True
-2020-03-18,GRC,Greece,Tessaloniki,,,11,0,0,11,,,True,True
-2020-03-08,GRC,Greece,Trikalon,,,1,0,0,1,0,0,True,True
+2020-03-18,GRC,Greece,Kozani,40381888039300000,21628163337700000,4,1,0,3,,,True,True
+2020-03-18,GRC,Greece,Larissa,39701311418900000,22397230141100000,3,0,0,3,,,True,True
+2020-03-18,GRC,Greece,Lesbos,39074583060100000,26223748207100000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Magnesia,39216469516400000,22704790592200000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Messinia,37094459008900000,21774145603200000,2,0,0,2,,,True,True
+2020-03-18,GRC,Greece,Pieria,40257021999900000,22439796162600000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Pireas,37496654449100000,23343614578200000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Serron,41091379699500000,23523619907900000,7,0,0,7,0,0,True,True
+2020-03-18,GRC,Greece,Tessaloniki,40687596813400000,23115933351100000,11,0,0,11,,,True,True
 2020-03-12,GRC,Greece,Unknown,,,99,0,0,99,,,True,True
-2020-03-18,GRC,Greece,West Attica,,,1,0,0,1,,,True,True
-2020-03-08,GRC,Greece,Xanthis,,,21,5,0,16,0,0,True,True
-2020-03-18,GRC,Greece,Zakynthos,,,5,1,0,4,,,True,True
-2020-03-18,HUN,Hungary,Hungary,,,55,0,0,55,0,0,True,True
+2020-03-18,GRC,Greece,West Attica,38092940959400000,23395354828600000,1,0,0,1,,,True,True
+2020-03-18,GRC,Greece,Zakynthos,37785044508000000,20774552821000000,5,1,0,4,,,True,True
+2020-03-18,HUN,Hungary,Hungary,47.164638,19.508944,55,0,0,55,0,0,True,True
 2020-03-18,HUN,Hungary,NOT SPECIFIED,,,0,1,0,-1,0,0,True,True
-2020-03-18,ISL,Iceland,Greater Reykjavík,,,224,0,0,224,,,False,True
-2020-03-18,ISL,Iceland,Northeast Iceland,,,1,0,0,1,,,False,True
-2020-03-18,ISL,Iceland,Northwest Iceland,,,1,0,0,1,,,False,True
+2020-03-18,ISL,Iceland,Greater Reykjavík,64155049319400010,-21636153221500000,224,0,0,224,,,False,True
+2020-03-18,ISL,Iceland,Northeast Iceland,65534497504700000,-17118685384200000,1,0,0,1,,,False,True
+2020-03-18,ISL,Iceland,Northwest Iceland,65367006216799990,-19676714125000000,1,0,0,1,,,False,True
 2020-03-18,ISL,Iceland,NOT SPECIFIED,,,3,0,0,3,,,False,True
-2020-03-18,ISL,Iceland,South Iceland,,,16,0,0,16,,,False,True
-2020-03-18,ISL,Iceland,Suðurnes Peninsula,,,5,0,0,5,,,False,True
-2020-03-18,IRL,Ireland,Ireland,,,366,2,0,364,,,True,True
-2020-03-18,ITA,Italy,Abruzzo,,,263,7,7,249,140,41,True,True
-2020-03-18,ITA,Italy,Basilicata,,,27,0,0,27,11,2,True,True
-2020-03-18,ITA,Italy,Bolzano,,,376,9,1,366,97,18,True,True
-2020-03-18,ITA,Italy,Calabria,,,129,1,2,126,56,11,True,True
-2020-03-18,ITA,Italy,Campania,,,460,9,28,423,151,24,True,True
-2020-03-18,ITA,Italy,Emilia-Romagna,,,4525,458,152,3915,2031,247,True,True
-2020-03-18,ITA,Italy,Friuli Venezia Giulia,,,462,31,15,416,155,27,True,True
-2020-03-18,ITA,Italy,Lazio,,,724,32,42,650,418,44,True,True
-2020-03-18,ITA,Italy,Liguria,,,887,73,70,744,501,100,True,True
-2020-03-18,ITA,Italy,Lombardia,,,17713,1959,3488,12266,8209,924,True,True
-2020-03-18,ITA,Italy,Marche,,,1568,92,0,1476,757,119,True,True
-2020-03-18,ITA,Italy,Molise,,,28,1,6,21,13,6,True,True
-2020-03-18,ITA,Italy,Piemonte,,,2341,154,0,2187,2007,227,True,True
-2020-03-18,ITA,Italy,Puglia,,,383,19,2,362,186,30,True,True
-2020-03-18,ITA,Italy,Sardegna,,,134,2,0,132,49,7,True,True
-2020-03-18,ITA,Italy,Sicilia,,,282,3,12,267,129,29,True,True
-2020-03-18,ITA,Italy,Toscana,,,1330,22,17,1291,587,160,True,True
-2020-03-18,ITA,Italy,Trento,,,455,7,12,436,163,22,True,True
-2020-03-18,ITA,Italy,Umbria,,,247,2,4,241,75,21,True,True
-2020-03-18,ITA,Italy,Valle d'Aosta,,,165,3,0,162,44,3,True,True
-2020-03-18,ITA,Italy,Veneto,,,3214,94,167,2953,841,195,True,True
-2020-03-18,LVA,Latvia,Latvia,,,71,0,0,71,,,True,True
-2020-03-18,LIE,Liechtenstein,Liechtenstein,,,7,0,0,7,,,False,False
-2020-03-18,LTU,Lithuania,Lithuania,,,33,0,0,33,,,True,True
-2020-03-18,LUX,Luxembourg,Luxembourg,,,140,1,0,139,,,True,True
-2020-03-18,MLT,Malta,Malta,,,46,0,0,46,,,True,True
-2020-03-18,MDA,Moldova,Moldova,,,30,0,0,30,,,False,False
-2020-03-18,MCO,Monaco,Monaco,,,9,0,0,9,,,False,False
-2020-03-18,MNE,Montenegro,Montenegro,,,2,0,0,2,,,False,True
-2020-03-18,NOR,Norway,Agder,,,67,0,0,67,,,False,True
-2020-03-18,NOR,Norway,Innlandet,,,97,0,0,97,,,False,True
-2020-03-18,NOR,Norway,Møre og Romsdal,,,20,0,0,20,,,False,True
-2020-03-18,NOR,Norway,Nordland,,,12,0,0,12,,,False,True
+2020-03-18,ISL,Iceland,South Iceland,64135333591000010,-19242939332200000,16,0,0,16,,,False,True
+2020-03-18,ISL,Iceland,Suðurnes Peninsula,63930366191200000,-22310028220300000,5,0,0,5,,,False,True
+2020-03-18,IRL,Ireland,Ireland,53.41975,-8.240472,366,2,0,364,,,True,True
+2020-03-18,ITA,Italy,Abruzzo,42228034295700000,13855137318600000,263,7,7,249,140,41,True,True
+2020-03-18,ITA,Italy,Basilicata,40500665311700000,16082246492500000,27,0,0,27,11,2,True,True
+2020-03-18,ITA,Italy,Bolzano,46697344154600000,11417082230600000,376,9,1,366,97,18,True,True
+2020-03-18,ITA,Italy,Calabria,39225584513600000,16418473720500000,129,1,2,126,56,11,True,True
+2020-03-18,ITA,Italy,Campania,41059944859300000,14785096645500000,460,9,28,423,151,24,True,True
+2020-03-18,ITA,Italy,Emilia-Romagna,44536562775300000,11019909165800000,4525,458,152,3915,2031,247,True,True
+2020-03-18,ITA,Italy,Friuli Venezia Giulia,46155667037500000,13058635844500000,462,31,15,416,155,27,True,True
+2020-03-18,ITA,Italy,Lazio,41981132233700000,12767224222400000,724,32,42,650,418,44,True,True
+2020-03-18,ITA,Italy,Liguria,44144781196100000,8140492081750001,887,73,70,744,501,100,True,True
+2020-03-18,ITA,Italy,Lombardia,45622479492900000,9770823890640000,17713,1959,3488,12266,8209,924,True,True
+2020-03-18,ITA,Italy,Marche,43366623686200000,13106677638500000,1568,92,0,1476,757,119,True,True
+2020-03-18,ITA,Italy,Molise,41597834096500000,14548702240000000,28,1,6,21,13,6,True,True
+2020-03-18,ITA,Italy,Piemonte,45060965025900000,7926835630320000,2341,154,0,2187,2007,227,True,True
+2020-03-18,ITA,Italy,Puglia,40984631392500000,16620463915900000,383,19,2,362,186,30,True,True
+2020-03-18,ITA,Italy,Sardegna,40090224500700000,9036223468450000,134,2,0,132,49,7,True,True
+2020-03-18,ITA,Italy,Sicilia,37587634586000000,14155496504900000,282,3,12,267,129,29,True,True
+2020-03-18,ITA,Italy,Toscana,43459992765100000,11136697352100000,1330,22,17,1291,587,160,True,True
+2020-03-18,ITA,Italy,Trento,46139153342700000,10830790520000000,455,7,12,436,163,22,True,True
+2020-03-18,ITA,Italy,Umbria,42966780765500000,12490940411600000,247,2,4,241,75,21,True,True
+2020-03-18,ITA,Italy,Valle d'Aosta,45732414334000000,7393650853490000,165,3,0,162,44,3,True,True
+2020-03-18,ITA,Italy,Veneto,45664735334700000,11842349612600000,3214,94,167,2953,841,195,True,True
+2020-03-18,LVA,Latvia,Latvia,56.875584,24.607722,71,0,0,71,,,True,True
+2020-03-18,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,7,0,0,7,,,False,False
+2020-03-18,LTU,Lithuania,Lithuania,55.174112,23.906736,33,0,0,33,,,True,True
+2020-03-18,LUX,Luxembourg,Luxembourg,49.815764,6.131514,140,1,0,139,,,True,True
+2020-03-18,MLT,Malta,Malta,35.946151,14.384612,46,0,0,46,,,True,True
+2020-03-18,MDA,Moldova,Moldova,46.979527,28.377195,30,0,0,30,,,False,False
+2020-03-18,MCO,Monaco,Monaco,43.738348,7.424451,9,0,0,9,,,False,False
+2020-03-18,MNE,Montenegro,Montenegro,42.710152,19.410069,2,0,0,2,,,False,True
+2020-03-18,NOR,Norway,Agder,58699660843400000,7618402959790000,67,0,0,67,,,False,True
+2020-03-18,NOR,Norway,Innlandet,61433539708800000,10427143607300000,97,0,0,97,,,False,True
+2020-03-18,NOR,Norway,Møre og Romsdal,62543568915300000,8540539264500000,20,0,0,20,,,False,True
+2020-03-18,NOR,Norway,Nordland,66679716060600000,14635752439500000,12,0,0,12,,,False,True
 2020-03-18,NOR,Norway,NOT SPECIFIED,,,0,3,0,-3,,,False,True
-2020-03-18,NOR,Norway,Oslo,,,348,0,0,348,,,False,True
-2020-03-18,NOR,Norway,Rogaland,,,161,0,0,161,,,False,True
-2020-03-18,NOR,Norway,Troms og Finnmark,,,28,0,0,28,,,False,True
-2020-03-18,NOR,Norway,Trøndelag,,,70,0,0,70,,,False,True
-2020-03-18,NOR,Norway,Vestfold og Telemark,,,63,0,0,63,,,False,True
-2020-03-18,NOR,Norway,Vestland,,,147,0,0,147,,,False,True
-2020-03-18,NOR,Norway,Viken,,,410,0,0,410,,,False,True
-2020-03-18,PRT,Portugal,Açores,,,3,,,,,,True,True
-2020-03-18,PRT,Portugal,Alentejo,,,2,,,,,,True,True
-2020-03-18,PRT,Portugal,Algarve,,,21,,,,,,True,True
-2020-03-18,PRT,Portugal,Centro,,,74,,,,,,True,True
+2020-03-18,NOR,Norway,Oslo,59979682911200000,10738335047600000,348,0,0,348,,,False,True
+2020-03-18,NOR,Norway,Rogaland,58587089687300000,6206791877500000,161,0,0,161,,,False,True
+2020-03-18,NOR,Norway,Troms og Finnmark,70239335457500010,26129349708500000,28,0,0,28,,,False,True
+2020-03-18,NOR,Norway,Trøndelag,63421183333600000,11529950618500000,70,0,0,70,,,False,True
+2020-03-18,NOR,Norway,Vestfold og Telemark,59493612313300000,8722187684320000,63,0,0,63,,,False,True
+2020-03-18,NOR,Norway,Vestland,60952728950800000,6513828453530000,147,0,0,147,,,False,True
+2020-03-18,NOR,Norway,Viken,60020274146300000,9849655270750000,410,0,0,410,,,False,True
+2020-03-18,PRT,Portugal,Açores,37775524940700000,-25494927406500000,3,,,,,,True,True
+2020-03-18,PRT,Portugal,Alentejo,38485498824400000,-8006668204420000,2,,,,,,True,True
+2020-03-18,PRT,Portugal,Algarve,37218388760200000,-8198488473999999,21,,,,,,True,True
+2020-03-18,PRT,Portugal,Centro,40111812062400000,-8012768402530000,74,,,,,,True,True
 2020-03-18,PRT,Portugal,Estrageiro,,,9,,,,,,True,True
-2020-03-18,PRT,Portugal,Lisbon,,,243,,,,,,True,True
-2020-03-18,PRT,Portugal,Madeira,,,1,,,,,,True,True
-2020-03-18,PRT,Portugal,Norte,,,289,,,,,,True,True
-2020-03-18,SMR,San Marino,San Marino,,,104,11,0,93,,,False,False
-2020-03-18,SRB,Serbia,Serbia,,,89,0,0,89,0,0,False,True
-2020-03-18,SVK,Slovakia,Banská Bystrica,,,7,0,0,7,,,True,True
-2020-03-18,SVK,Slovakia,Bratislava,,,44,0,0,44,,,True,True
-2020-03-18,SVK,Slovakia,Košice,,,5,0,0,5,,,True,True
-2020-03-18,SVK,Slovakia,Nitra,,,7,0,0,7,,,True,True
-2020-03-18,SVK,Slovakia,Prešov,,,5,0,0,5,,,True,True
-2020-03-18,SVK,Slovakia,Trencín,,,6,0,0,6,,,True,True
-2020-03-18,SVK,Slovakia,Trnava,,,9,0,0,9,,,True,True
-2020-03-18,SVK,Slovakia,Zilina,,,14,0,0,14,,,True,True
-2020-03-18,SVN,Slovenia,Slovenia,,,275,1,0,274,,,True,True
-2020-03-18,ESP,Spain,Andalucía,,,859,19,0,840,0,21,True,True
-2020-03-18,ESP,Spain,Aragón,,,226,13,0,213,0,9,True,True
-2020-03-18,ESP,Spain,Canarias,,,181,3,0,178,0,17,True,True
-2020-03-18,ESP,Spain,Cantabria,,,68,1,0,67,0,3,True,True
-2020-03-18,ESP,Spain,Castilla y León,,,668,22,0,646,0,43,True,True
-2020-03-18,ESP,Spain,Castilla-La Mancha,,,675,28,0,647,0,29,True,True
-2020-03-18,ESP,Spain,Cataluña,,,1866,41,0,1825,0,33,True,True
-2020-03-18,ESP,Spain,Ciudad Autónoma de Ceuta,,,1,0,0,1,0,0,True,True
-2020-03-18,ESP,Spain,Ciudad Autónoma de Melilla,,,20,0,0,20,0,0,True,True
-2020-03-18,ESP,Spain,Comunidad de Madrid,,,5637,390,0,5247,0,491,True,True
-2020-03-18,ESP,Spain,Comunidad Foral de Navarra,,,386,3,0,383,0,10,True,True
-2020-03-18,ESP,Spain,Comunidad Valenciana,,,726,22,0,704,0,40,True,True
-2020-03-18,ESP,Spain,Extremadura,,,194,6,0,188,0,3,True,True
-2020-03-18,ESP,Spain,Galicia,,,341,3,0,338,0,12,True,True
-2020-03-18,ESP,Spain,Illes Balears,,,112,1,0,111,0,4,True,True
-2020-03-18,ESP,Spain,La Rioja,,,419,5,0,414,0,13,True,True
-2020-03-18,ESP,Spain,País Vasco,,,973,40,0,933,0,37,True,True
-2020-03-18,ESP,Spain,Principado de Asturias,,,242,1,0,241,0,5,True,True
-2020-03-18,ESP,Spain,Región de Murcia,,,122,0,0,122,0,4,True,True
-2020-03-18,SWE,Sweden,Blekinge,,,11,0,0,11,,,True,True
-2020-03-18,SWE,Sweden,Dalarna,,,8,0,0,8,,,True,True
-2020-03-18,SWE,Sweden,Gävleborg,,,13,0,0,13,,,True,True
-2020-03-18,SWE,Sweden,Gotland,,,3,0,0,3,,,True,True
-2020-03-18,SWE,Sweden,Halland,,,46,0,0,46,,,True,True
-2020-03-18,SWE,Sweden,Jämtland,,,22,0,0,22,,,True,True
-2020-03-18,SWE,Sweden,Jönköping,,,44,0,0,44,,,True,True
-2020-03-18,SWE,Sweden,Kalmar,,,7,0,0,7,,,True,True
-2020-03-18,SWE,Sweden,Kronoberg,,,16,0,0,16,,,True,True
-2020-03-18,SWE,Sweden,Norrbotten,,,7,0,0,7,,,True,True
+2020-03-18,PRT,Portugal,Lisbon,38623842874000000,-8884359683900000,243,,,,,,True,True
+2020-03-18,PRT,Portugal,Madeira,32736251933600000,-16972662925500000,1,,,,,,True,True
+2020-03-18,PRT,Portugal,Norte,41457206113900000,-7678152655410000,289,,,,,,True,True
+2020-03-18,SMR,San Marino,San Marino,43.942973,12.460035,104,11,0,93,,,False,False
+2020-03-18,SRB,Serbia,Serbia,44.206802,20.911009,89,0,0,89,0,0,False,True
+2020-03-18,SVK,Slovakia,Banská Bystrica,48515680093700000,19499999268100000,7,0,0,7,,,True,True
+2020-03-18,SVK,Slovakia,Bratislava,48319002599600000,17174810423600000,44,0,0,44,,,True,True
+2020-03-18,SVK,Slovakia,Košice,48771357565600000,20721930981000000,5,0,0,5,,,True,True
+2020-03-18,SVK,Slovakia,Nitra,48140652449600000,18303110253900000,7,0,0,7,,,True,True
+2020-03-18,SVK,Slovakia,Prešov,49126441214000000,21221320730400000,5,0,0,5,,,True,True
+2020-03-18,SVK,Slovakia,Trencín,48858563754800000,18202195689700000,6,0,0,6,,,True,True
+2020-03-18,SVK,Slovakia,Trnava,48222651431400000,17707847118299998,9,0,0,9,,,True,True
+2020-03-18,SVK,Slovakia,Zilina,49178516829000000,19167162572500000,14,0,0,14,,,True,True
+2020-03-18,SVN,Slovenia,Slovenia,46.145528,14.974542,275,1,0,274,,,True,True
+2020-03-18,ESP,Spain,Andalucía,37463629855500000,-4573551667950000,859,19,0,840,0,21,True,True
+2020-03-18,ESP,Spain,Aragón,41519884406300000,-660301685104000,226,13,0,213,0,9,True,True
+2020-03-18,ESP,Spain,Canarias,28291062398000000,-16556310093700000,181,3,0,178,0,17,True,True
+2020-03-18,ESP,Spain,Cantabria,43196325715200000,-4034400523450000,68,1,0,67,0,3,True,True
+2020-03-18,ESP,Spain,Castilla y León,41751204988900000,-4788185181250000,668,22,0,646,0,43,True,True
+2020-03-18,ESP,Spain,Castilla-La Mancha,39254442317900000,-3160862624500000,675,28,0,647,0,29,True,True
+2020-03-18,ESP,Spain,Cataluña,41798000184500000,1528533601050000,1866,41,0,1825,0,33,True,True
+2020-03-18,ESP,Spain,Ciudad Autónoma de Ceuta,35895759332600000,-5358194470000000,1,0,0,1,0,0,True,True
+2020-03-18,ESP,Spain,Ciudad Autónoma de Melilla,35298248761200000,-2948652563560000,20,0,0,20,0,0,True,True
+2020-03-18,ESP,Spain,Comunidad de Madrid,40494962162700000,-3716056778760000,5637,390,0,5247,0,491,True,True
+2020-03-18,ESP,Spain,Comunidad Foral de Navarra,42667549004200000,-1647657685120000,386,3,0,383,0,10,True,True
+2020-03-18,ESP,Spain,Comunidad Valenciana,39390435152900000,-543006669452000,726,22,0,704,0,40,True,True
+2020-03-18,ESP,Spain,Extremadura,39191409312800000,-6150691752810000,194,6,0,188,0,3,True,True
+2020-03-18,ESP,Spain,Galicia,42757078975000000,-7910384474700000,341,3,0,338,0,12,True,True
+2020-03-18,ESP,Spain,Illes Balears,39613451923300000,2956607126340000,112,1,0,111,0,4,True,True
+2020-03-18,ESP,Spain,La Rioja,42275075476200000,-2517176826500000,419,5,0,414,0,13,True,True
+2020-03-18,ESP,Spain,País Vasco,43032148865300000,-2621659726460000,973,40,0,933,0,37,True,True
+2020-03-18,ESP,Spain,Principado de Asturias,43292312140600000,-5992987579530000,242,1,0,241,0,5,True,True
+2020-03-18,ESP,Spain,Región de Murcia,38002068806900000,-1485218655230000,122,0,0,122,0,4,True,True
+2020-03-18,SWE,Sweden,Blekinge,56279696017600000,15193246082200000,11,0,0,11,,,True,True
+2020-03-18,SWE,Sweden,Dalarna,60952954798500000,14350603002500000,8,0,0,8,,,True,True
+2020-03-18,SWE,Sweden,Gävleborg,61440898671700000,16291104723099998,13,0,0,13,,,True,True
+2020-03-18,SWE,Sweden,Gotland,57487050520100000,18510063221800000,3,0,0,3,,,True,True
+2020-03-18,SWE,Sweden,Halland,56953554555800000,12842897825700000,46,0,0,46,,,True,True
+2020-03-18,SWE,Sweden,Jämtland,63251956183800000,14312746767300000,22,0,0,22,,,True,True
+2020-03-18,SWE,Sweden,Jönköping,57499911447000000,14436577182300000,44,0,0,44,,,True,True
+2020-03-18,SWE,Sweden,Kalmar,57245032665100000,16053939208200000,7,0,0,7,,,True,True
+2020-03-18,SWE,Sweden,Kronoberg,56786938051900000,14574735992100000,16,0,0,16,,,True,True
+2020-03-18,SWE,Sweden,Norrbotten,66954122121100000,20083057187200000,7,0,0,7,,,True,True
 2020-03-18,SWE,Sweden,NOT SPECIFIED,,,0,8,0,-8,,,True,True
-2020-03-18,SWE,Sweden,Örebro,,,23,0,0,23,,,True,True
-2020-03-18,SWE,Sweden,Östergötland,,,52,0,0,52,,,True,True
-2020-03-18,SWE,Sweden,Skåne,,,209,0,0,209,,,True,True
-2020-03-18,SWE,Sweden,Södermanland,,,37,0,0,37,,,True,True
-2020-03-18,SWE,Sweden,Stockholm,,,446,2,0,444,,,True,True
-2020-03-18,SWE,Sweden,Uppsala,,,52,0,0,52,,,True,True
-2020-03-18,SWE,Sweden,Värmland,,,34,0,0,34,,,True,True
-2020-03-18,SWE,Sweden,Västerbotten,,,19,0,0,19,,,True,True
-2020-03-18,SWE,Sweden,Västernorrland,,,13,0,0,13,,,True,True
-2020-03-18,SWE,Sweden,Västmanland,,,18,0,0,18,,,True,True
-2020-03-18,SWE,Sweden,Västra Götaland,,,199,1,0,198,,,True,True
-2020-03-18,CHE,Switzerland,Aargau,,,101,0,4,97,6,0,False,False
-2020-03-18,CHE,Switzerland,Appenzell Ausserrhoden,,,11,0,0,11,3,0,False,False
-2020-03-18,CHE,Switzerland,Appenzell Innerrhoden,,,5,0,0,5,0,0,False,False
+2020-03-18,SWE,Sweden,Örebro,59350248819900000,14974991651300000,23,0,0,23,,,True,True
+2020-03-18,SWE,Sweden,Östergötland,58354622113400000,15661532556400000,52,0,0,52,,,True,True
+2020-03-18,SWE,Sweden,Skåne,55948710903000000,13596415080900000,209,0,0,209,,,True,True
+2020-03-18,SWE,Sweden,Södermanland,59077751367500000,16685977130000000,37,0,0,37,,,True,True
+2020-03-18,SWE,Sweden,Stockholm,59370877409700000,17711873531300000,446,2,0,444,,,True,True
+2020-03-18,SWE,Sweden,Uppsala,60039134086200000,17672886972800000,52,0,0,52,,,True,True
+2020-03-18,SWE,Sweden,Värmland,59768907775800000,13153805774100000,34,0,0,34,,,True,True
+2020-03-18,SWE,Sweden,Västerbotten,64862069312800000,17819193748699998,19,0,0,19,,,True,True
+2020-03-18,SWE,Sweden,Västernorrland,63096634797500000,17251240708000000,13,0,0,13,,,True,True
+2020-03-18,SWE,Sweden,Västmanland,59801594706400000,16318207639000000,18,0,0,18,,,True,True
+2020-03-18,SWE,Sweden,Västra Götaland,58303302141100000,12891495736100000,199,1,0,198,,,True,True
+2020-03-18,CHE,Switzerland,Aargau,47410913826000000,8159107457859999,101,0,4,97,6,0,False,False
+2020-03-18,CHE,Switzerland,Appenzell Ausserrhoden,47387403683700000,9413371086000000,11,0,0,11,3,0,False,False
+2020-03-18,CHE,Switzerland,Appenzell Innerrhoden,47308616762300000,9403543809090000,5,0,0,5,0,0,False,False
 2020-03-18,CHE,Switzerland,Basel City,,,182,4,36,142,40,2,False,False
 2020-03-18,CHE,Switzerland,Basel Country,,,116,2,16,98,0,0,False,False
-2020-03-18,CHE,Switzerland,Bern,,,193,1,0,192,0,0,False,False
-2020-03-18,CHE,Switzerland,Fribourg,,,86,1,0,85,11,5,False,False
-2020-03-18,CHE,Switzerland,Geneva,,,751,6,0,745,78,20,False,False
-2020-03-18,CHE,Switzerland,Glarus,,,10,0,0,10,0,0,False,False
-2020-03-18,CHE,Switzerland,Graubünden,,,116,1,0,115,13,0,False,False
-2020-03-18,CHE,Switzerland,Jura,,,26,0,0,26,6,0,False,False
-2020-03-18,CHE,Switzerland,Liechtenstein,,,28,0,1,27,0,0,False,False
-2020-03-18,CHE,Switzerland,Lucerne,,,65,0,0,65,0,0,False,False
-2020-03-18,CHE,Switzerland,Nidwalden,,,4,0,0,4,0,0,False,False
-2020-03-18,CHE,Switzerland,Obwalden,,,1,0,0,1,0,0,False,False
-2020-03-18,CHE,Switzerland,Schaffhausen,,,61,0,0,61,0,0,False,False
-2020-03-18,CHE,Switzerland,Solothurn,,,43,0,0,43,0,0,False,False
-2020-03-18,CHE,Switzerland,St. Gallen,,,13,0,0,13,1,0,False,False
-2020-03-18,CHE,Switzerland,Thurgau,,,32,0,0,32,0,0,False,False
-2020-03-18,CHE,Switzerland,Ticino,,,511,14,0,497,65,13,False,False
-2020-03-18,CHE,Switzerland,Uri,,,5,0,0,5,0,0,False,False
-2020-03-18,CHE,Switzerland,Valais,,,225,3,3,219,33,2,False,False
-2020-03-18,CHE,Switzerland,Vaud,,,796,5,16,775,128,34,False,False
-2020-03-18,CHE,Switzerland,Zug,,,24,0,0,24,0,0,False,False
-2020-03-18,CHE,Switzerland,Zurich,,,424,1,0,423,0,0,False,False
-2020-03-18,TUR,Turkey,Turkey,,,98,0,0,98,,,False,True
-2020-03-18,UKR,Ukraine,Chernivtsi,,,10,1,0,9,,,False,False
-2020-03-18,UKR,Ukraine,Kyiv,,,3,0,0,3,,,False,False
-2020-03-18,UKR,Ukraine,Zhytomyr,,,1,1,0,0,,,False,False
+2020-03-18,CHE,Switzerland,Bern,46825005667500000,7626925335820000,193,1,0,192,0,0,False,False
+2020-03-18,CHE,Switzerland,Fribourg,46710333596100000,7099220473910000,86,1,0,85,11,5,False,False
+2020-03-18,CHE,Switzerland,Geneva,46217113833500000,6131254929710000,751,6,0,745,78,20,False,False
+2020-03-18,CHE,Switzerland,Glarus,46980517531400000,9065544003090000,10,0,0,10,0,0,False,False
+2020-03-18,CHE,Switzerland,Graubünden,46658175977300000,9629923252930000,116,1,0,115,13,0,False,False
+2020-03-18,CHE,Switzerland,Jura,47368327446400000,7198732853000000,26,0,0,26,6,0,False,False
+2020-03-18,CHE,Switzerland,Liechtenstein,47.164696,9.555,28,0,1,27,0,0,False,False
+2020-03-18,CHE,Switzerland,Lucerne,47068830356900000,8116991122829999,65,0,0,65,0,0,False,False
+2020-03-18,CHE,Switzerland,Nidwalden,46922198237000000,8419374922379999,4,0,0,4,0,0,False,False
+2020-03-18,CHE,Switzerland,Obwalden,46857772392300000,8209745187690000,1,0,0,1,0,0,False,False
+2020-03-18,CHE,Switzerland,Schaffhausen,47721853458300000,8563862904590000,61,0,0,61,0,0,False,False
+2020-03-18,CHE,Switzerland,Solothurn,47336647796400000,7686943769500000,43,0,0,43,0,0,False,False
+2020-03-18,CHE,Switzerland,St. Gallen,47305024744600000,9019368410000000,13,0,0,13,1,0,False,False
+2020-03-18,CHE,Switzerland,Thurgau,47567204723100000,9112572473190000,32,0,0,32,0,0,False,False
+2020-03-18,CHE,Switzerland,Ticino,46297962908800000,8808447087599999,511,14,0,497,65,13,False,False
+2020-03-18,CHE,Switzerland,Uri,46775402201200000,8627444341640000,5,0,0,5,0,0,False,False
+2020-03-18,CHE,Switzerland,Valais,46211633059500000,7611267430720000,225,3,3,219,33,2,False,False
+2020-03-18,CHE,Switzerland,Vaud,46561760055800000,6648929212710000,796,5,16,775,128,34,False,False
+2020-03-18,CHE,Switzerland,Zug,47161402316600000,8538864211500000,24,0,0,24,0,0,False,False
+2020-03-18,CHE,Switzerland,Zurich,47417407460500000,8655987523600000,424,1,0,423,0,0,False,False
+2020-03-18,TUR,Turkey,Turkey,38.961515,35.25175,98,0,0,98,,,False,True
+2020-03-18,UKR,Ukraine,Chernivtsi,48269840881600000,25971090221500000,10,1,0,9,,,False,False
+2020-03-18,UKR,Ukraine,Kyiv,50427074110000000,30530672073500000,3,0,0,3,,,False,False
+2020-03-18,UKR,Ukraine,Zhytomyr,50642611646600000,28484557318100000,1,1,0,0,,,False,False
