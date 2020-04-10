@@ -30,23 +30,23 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,14,0,0,14,,,True,True
 2020-03-19,CZE,Czech Republic,Liberecký,50.732038,14.973755,6,0,0,6,,,True,True
 2020-03-19,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,51,0,0,51,,,True,True
+2020-03-19,CZE,Czech Republic,NOT SPECIFIED,,,193,0,0,193,,,True,True
 2020-03-19,CZE,Czech Republic,Olomoucký,49.823636,17.016472,54,0,0,54,,,True,True
 2020-03-19,CZE,Czech Republic,Pardubický,49.877869,16.495746,16,0,0,16,,,True,True
 2020-03-19,CZE,Czech Republic,Plzenský,49.590906,13.23222,16,0,0,16,,,True,True
 2020-03-19,CZE,Czech Republic,Prague,50.063699,14.476403,198,0,0,198,,,True,True
 2020-03-19,CZE,Czech Republic,Stredoceský,50.101074,15.003747,56,0,0,56,,,True,True
-2020-03-19,CZE,Czech Republic,Unknown,,,193,0,0,193,,,True,True
 2020-03-19,CZE,Czech Republic,Ústecký,50.488308,13.816736,26,0,0,26,,,True,True
 2020-03-19,CZE,Czech Republic,Vysocina,49.40736,15.689937,9,0,0,9,,,True,True
 2020-03-19,CZE,Czech Republic,Zlínský,49.239654,17.770218,40,0,0,40,,,True,True
 2020-03-19,DNK,Denmark,Faroe,62.194921,-7.096614,76,0,0,76,0,0,True,True
-2020-03-19,DNK,Denmark,Hovedstaden,,,545,0,0,545,0,0,True,True
+2020-03-19,DNK,Denmark,Hovedstaden,55.675758,12.56902,545,0,0,545,0,0,True,True
 2020-03-15,DNK,Denmark,Mainland,56.031924,9.317572,860,0,0,860,0,0,True,True
-2020-03-19,DNK,Denmark,Midtjylland,,,212,0,0,212,0,0,True,True
-2020-03-19,DNK,Denmark,Nordjylland,,,63,0,0,63,0,0,True,True
+2020-03-19,DNK,Denmark,Midtjylland,56.302139,9.302777,212,0,0,212,0,0,True,True
+2020-03-19,DNK,Denmark,Nordjylland,56.830742,9.493053,63,0,0,63,0,0,True,True
 2020-03-19,DNK,Denmark,NOT SPECIFIED,,,0,6,0,-6,0,0,True,True
-2020-03-19,DNK,Denmark,Sjælland,,,159,0,0,159,0,0,True,True
-2020-03-19,DNK,Denmark,Syddanmark,,,153,0,0,153,0,0,True,True
+2020-03-19,DNK,Denmark,Sjælland,55.92481,11.67126,159,0,0,159,0,0,True,True
+2020-03-19,DNK,Denmark,Syddanmark,55.675758,12.56902,153,0,0,153,0,0,True,True
 2020-03-19,EST,Estonia,Estonia,58.596209,25.023778,267,0,0,267,0,0,True,True
 2020-03-19,FIN,Finland,Etelä-Karjala,61.217899,28.550289,2,0,0,2,,,True,True
 2020-03-19,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,4,0,0,4,,,True,True
@@ -70,14 +70,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,1014,22,132,860,385,79,True,True
 2020-03-19,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,696,14,50,632,194,47,True,True
 2020-03-19,FRA,France,Bretagne,48.181767,-2.840778,297,9,77,211,77,26,True,True
-2020-03-19,FRA,France,Centre-Val de Loire,,,157,1,1,155,31,10,True,True
+2020-03-19,FRA,France,Centre-Val de Loire,47.751569,1.675063,157,1,1,155,31,10,True,True
 2020-03-19,FRA,France,Corse,42.151732,9.105559,162,1,1,160,1,0,True,True
 2020-03-19,FRA,France,Grand Est,48.688738,5.613275,2643,148,187,2308,1109,241,True,True
 2020-03-19,FRA,France,Guadeloupe,16.192207,-61.272382,45,0,0,45,0,0,True,True
 2020-03-19,FRA,France,Guyane,3.926082,-53.245309,15,0,0,15,0,0,True,True
 2020-03-19,FRA,France,Hauts-de-France,49.96966,2.770434,700,40,129,531,394,105,True,True
 2020-03-19,FRA,France,Île-de-France,48.709229,2.503473,3384,56,213,3115,1356,360,True,True
-2020-03-19,FRA,France,La Réunion,,,19,0,0,19,2,2,True,True
+2020-03-19,FRA,France,La Réunion,-20.89066,55.455054,19,0,0,19,2,2,True,True
 2020-03-19,FRA,France,Martinique,14.63554,-61.022814,32,1,0,31,17,5,True,True
 2020-03-19,FRA,France,Mayotte,-12.824511,45.165455,6,0,0,6,0,0,True,True
 2020-03-19,FRA,France,Normandie,48.880101,-0.073045,241,5,9,227,46,6,True,True
@@ -120,11 +120,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,GRC,Greece,Lesbos,39.074583,26.223748,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Magnesia,39.21647,22.704791,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Messinia,37.094459,21.774146,2,0,0,2,,,True,True
+2020-03-12,GRC,Greece,NOT SPECIFIED,,,99,0,0,99,,,True,True
 2020-03-19,GRC,Greece,Pieria,40.257022,22.439796,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Pireas,37.496654,23.343615,1,0,0,1,,,True,True
 2020-03-18,GRC,Greece,Serron,41.09138,23.52362,7,0,0,7,0,0,True,True
 2020-03-19,GRC,Greece,Tessaloniki,40.687597,23.115933,11,0,0,11,,,True,True
-2020-03-12,GRC,Greece,Unknown,,,99,0,0,99,,,True,True
 2020-03-19,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Xanthis,41.168776,24.88364,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
@@ -241,8 +241,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,CHE,Switzerland,Aargau,47.410914,8.159107,118,0,4,114,17,6,False,False
 2020-03-19,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,11,0,0,11,3,0,False,False
 2020-03-19,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,6,0,0,6,1,0,False,False
-2020-03-19,CHE,Switzerland,Basel City,,,222,4,44,174,40,2,False,False
-2020-03-19,CHE,Switzerland,Basel Country,,,134,2,16,116,0,0,False,False
+2020-03-19,CHE,Switzerland,Basel City,47.561925,7.592768,222,4,44,174,40,2,False,False
+2020-03-19,CHE,Switzerland,Basel Country,47.441812,7.7644,134,2,16,116,0,0,False,False
 2020-03-19,CHE,Switzerland,Bern,46.825006,7.626925,282,1,0,281,0,0,False,False
 2020-03-19,CHE,Switzerland,Fribourg,46.710334,7.09922,111,1,0,110,12,5,False,False
 2020-03-19,CHE,Switzerland,Geneva,46.217114,6.131255,961,6,0,955,92,19,False,False

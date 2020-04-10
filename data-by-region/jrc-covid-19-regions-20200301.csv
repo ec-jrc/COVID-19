@@ -37,8 +37,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-01,ESP,Spain,País Vasco,43.032149,-2.62166,9,,,,,,True,True
 2020-03-01,ESP,Spain,Principado de Asturias,43.292312,-5.992988,1,,,,,,True,True
 2020-03-01,CHE,Switzerland,Aargau,47.410914,8.159107,1,0,0,1,0,0,False,False
-2020-03-01,CHE,Switzerland,Basel City,,,1,0,0,1,0,0,False,False
-2020-03-01,CHE,Switzerland,Basel Country,,,2,0,0,2,0,0,False,False
+2020-03-01,CHE,Switzerland,Basel City,47.561925,7.592768,1,0,0,1,0,0,False,False
+2020-03-01,CHE,Switzerland,Basel Country,47.441812,7.7644,2,0,0,2,0,0,False,False
 2020-03-01,CHE,Switzerland,Bern,46.825006,7.626925,2,0,0,2,0,0,False,False
 2020-03-01,CHE,Switzerland,Fribourg,46.710334,7.09922,1,0,0,1,0,0,False,False
 2020-03-01,CHE,Switzerland,Geneva,46.217114,6.131255,7,0,0,7,3,0,False,False

@@ -25,13 +25,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,HRV,Croatia,Zadarska,44.347845,15.959404,1,0,0,1,,,True,True
 2020-03-17,CYP,Cyprus,Cyprus,35.167406,33.435499,49,0,0,49,,,True,True
 2020-03-17,DNK,Denmark,Faroe,62.194921,-7.096614,47,0,0,47,0,0,True,True
-2020-03-17,DNK,Denmark,Hovedstaden,,,420,0,0,420,0,0,True,True
+2020-03-17,DNK,Denmark,Hovedstaden,55.675758,12.56902,420,0,0,420,0,0,True,True
 2020-03-15,DNK,Denmark,Mainland,56.031924,9.317572,860,0,0,860,0,0,True,True
-2020-03-17,DNK,Denmark,Midtjylland,,,196,0,0,196,0,0,True,True
-2020-03-17,DNK,Denmark,Nordjylland,,,54,0,0,54,0,0,True,True
+2020-03-17,DNK,Denmark,Midtjylland,56.302139,9.302777,196,0,0,196,0,0,True,True
+2020-03-17,DNK,Denmark,Nordjylland,56.830742,9.493053,54,0,0,54,0,0,True,True
 2020-03-17,DNK,Denmark,NOT SPECIFIED,,,0,4,0,-4,0,0,True,True
-2020-03-17,DNK,Denmark,Sjælland,,,141,0,0,141,0,0,True,True
-2020-03-17,DNK,Denmark,Syddanmark,,,149,0,0,149,0,0,True,True
+2020-03-17,DNK,Denmark,Sjælland,55.92481,11.67126,141,0,0,141,0,0,True,True
+2020-03-17,DNK,Denmark,Syddanmark,55.675758,12.56902,149,0,0,149,0,0,True,True
 2020-03-17,EST,Estonia,Estonia,58.596209,25.023778,225,0,0,225,0,0,True,True
 2020-03-17,FIN,Finland,Etelä-Karjala,61.217899,28.550289,4,0,0,4,,,True,True
 2020-03-17,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,5,0,0,5,,,True,True
@@ -55,14 +55,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,710,0,0,710,0,0,True,True
 2020-03-17,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,549,0,0,549,0,0,True,True
 2020-03-17,FRA,France,Bretagne,48.181767,-2.840778,247,0,0,247,0,0,True,True
-2020-03-17,FRA,France,Centre-Val de Loire,,,103,0,0,103,0,0,True,True
+2020-03-17,FRA,France,Centre-Val de Loire,47.751569,1.675063,103,0,0,103,0,0,True,True
 2020-03-17,FRA,France,Corse,42.151732,9.105559,145,0,0,145,0,0,True,True
 2020-03-17,FRA,France,Grand Est,48.688738,5.613275,1820,0,0,1820,0,0,True,True
 2020-03-17,FRA,France,Guadeloupe,16.192207,-61.272382,27,0,0,27,0,0,True,True
 2020-03-17,FRA,France,Guyane,3.926082,-53.245309,11,0,0,11,0,0,True,True
 2020-03-17,FRA,France,Hauts-de-France,49.96966,2.770434,612,0,0,612,0,0,True,True
 2020-03-17,FRA,France,Île-de-France,48.709229,2.503473,2177,0,0,2177,0,0,True,True
-2020-03-17,FRA,France,La Réunion,,,12,0,0,12,0,0,True,True
+2020-03-17,FRA,France,La Réunion,-20.89066,55.455054,12,0,0,12,0,0,True,True
 2020-03-17,FRA,France,Martinique,14.63554,-61.022814,19,0,0,19,0,0,True,True
 2020-03-17,FRA,France,Mayotte,-12.824511,45.165455,3,0,0,3,0,0,True,True
 2020-03-17,FRA,France,Normandie,48.880101,-0.073045,174,0,0,174,0,0,True,True
@@ -101,11 +101,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,GRC,Greece,Larissa,39.701311,22.39723,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Lesbos,39.074583,26.223748,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Messinia,37.094459,21.774146,1,0,0,1,,,True,True
+2020-03-12,GRC,Greece,NOT SPECIFIED,,,99,0,0,99,,,True,True
 2020-03-17,GRC,Greece,Pieria,40.257022,22.439796,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Pireas,37.496654,23.343615,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Serron,41.09138,23.52362,7,0,0,7,0,0,True,True
 2020-03-17,GRC,Greece,Tessaloniki,40.687597,23.115933,11,0,0,11,,,True,True
-2020-03-12,GRC,Greece,Unknown,,,99,0,0,99,,,True,True
 2020-03-17,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
 2020-03-17,HUN,Hungary,Hungary,47.164638,19.508944,47,0,0,47,0,0,True,True
@@ -209,8 +209,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,CHE,Switzerland,Aargau,47.410914,8.159107,67,0,4,63,2,0,False,False
 2020-03-17,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,5,0,0,5,0,0,False,False
 2020-03-17,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,5,0,0,5,0,0,False,False
-2020-03-17,CHE,Switzerland,Basel City,,,165,4,25,136,30,2,False,False
-2020-03-17,CHE,Switzerland,Basel Country,,,89,2,13,74,0,0,False,False
+2020-03-17,CHE,Switzerland,Basel City,47.561925,7.592768,165,4,25,136,30,2,False,False
+2020-03-17,CHE,Switzerland,Basel Country,47.441812,7.7644,89,2,13,74,0,0,False,False
 2020-03-17,CHE,Switzerland,Bern,46.825006,7.626925,123,1,0,122,0,0,False,False
 2020-03-17,CHE,Switzerland,Fribourg,46.710334,7.09922,59,0,0,59,0,0,False,False
 2020-03-17,CHE,Switzerland,Geneva,46.217114,6.131255,619,4,0,615,75,19,False,False

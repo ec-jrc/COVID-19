@@ -9,7 +9,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-05,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,64,0,0,64,0,0,True,True
 2020-03-05,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,39,0,0,39,0,0,True,True
 2020-03-05,FRA,France,Bretagne,48.181767,-2.840778,29,0,0,29,0,0,True,True
-2020-03-05,FRA,France,Centre-Val de Loire,,,2,0,0,2,0,0,True,True
+2020-03-05,FRA,France,Centre-Val de Loire,47.751569,1.675063,2,0,0,2,0,0,True,True
 2020-03-05,FRA,France,Corse,42.151732,9.105559,3,0,0,3,0,0,True,True
 2020-03-05,FRA,France,Grand Est,48.688738,5.613275,77,0,0,77,0,0,True,True
 2020-03-03,FRA,France,Guadeloupe,16.192207,-61.272382,3,0,0,3,0,0,True,True
@@ -86,8 +86,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-04,ESP,Spain,Región de Murcia,38.002069,-1.485219,0,0,3,-3,0,0,True,True
 2020-03-05,CHE,Switzerland,Aargau,47.410914,8.159107,9,0,0,9,0,0,False,False
 2020-03-05,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,1,0,0,1,0,0,False,False
-2020-03-05,CHE,Switzerland,Basel City,,,8,0,0,8,0,0,False,False
-2020-03-05,CHE,Switzerland,Basel Country,,,6,0,0,6,0,0,False,False
+2020-03-05,CHE,Switzerland,Basel City,47.561925,7.592768,8,0,0,8,0,0,False,False
+2020-03-05,CHE,Switzerland,Basel Country,47.441812,7.7644,6,0,0,6,0,0,False,False
 2020-03-05,CHE,Switzerland,Bern,46.825006,7.626925,6,0,0,6,0,0,False,False
 2020-03-05,CHE,Switzerland,Fribourg,46.710334,7.09922,6,0,0,6,0,0,False,False
 2020-03-05,CHE,Switzerland,Geneva,46.217114,6.131255,13,0,0,13,5,0,False,False
