@@ -374,6 +374,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-20,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-20,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -404,6 +405,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-20,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-20,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-20,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -967,6 +969,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-21,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-21,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -997,6 +1000,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-21,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-21,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-21,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -1560,6 +1564,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-22,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-22,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -1590,6 +1595,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-22,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-22,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-22,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -2153,6 +2159,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-23,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-23,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -2183,6 +2190,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-23,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-23,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-23,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -2746,6 +2754,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-24,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-24,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -2776,6 +2785,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-24,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-24,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-24,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -3339,6 +3349,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-25,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-25,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -3369,6 +3380,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-25,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-25,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-25,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -3932,6 +3944,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-26,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-26,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -3962,6 +3975,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-26,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-26,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-26,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -4525,6 +4539,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-27,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-27,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -4555,6 +4570,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-27,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-27,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-27,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -5118,6 +5134,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-28,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-28,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -5148,6 +5165,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-28,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-28,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-28,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -5711,6 +5729,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-29,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-02-29,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -5741,6 +5760,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-29,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-02-29,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-02-29,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -6304,6 +6324,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-01,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-01,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -6334,6 +6355,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-01,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-01,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-01,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -6897,6 +6919,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-02,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-02,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -6927,6 +6950,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-02,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-02,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-02,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -7490,6 +7514,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-03,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-03,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -7520,6 +7545,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-03,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-03,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-03,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -8083,6 +8109,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-04,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-04,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -8113,6 +8140,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-04,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-04,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-04,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -8676,6 +8704,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-05,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-05,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -8706,6 +8735,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-05,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-05,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-05,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -9269,6 +9299,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-06,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-06,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -9299,6 +9330,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-06,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-06,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-06,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -9862,6 +9894,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-07,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-07,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -9892,6 +9925,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-07,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-07,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-07,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -10455,6 +10489,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-08,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-08,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -10485,6 +10520,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-08,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-08,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-08,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -11048,6 +11084,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-09,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-09,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -11078,6 +11115,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-09,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-09,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-09,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -11641,6 +11679,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-10,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-10,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -11671,6 +11710,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-10,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-10,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-10,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -12234,6 +12274,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-11,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-11,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -12264,6 +12305,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-11,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-11,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-11,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -12827,6 +12869,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-12,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-12,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -12857,6 +12900,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-12,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-12,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-12,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -13420,6 +13464,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-13,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-13,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -13450,6 +13495,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-13,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-13,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-13,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -14013,6 +14059,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-14,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-14,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -14043,6 +14090,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-14,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-14,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-14,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -14606,6 +14654,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-15,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-15,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -14636,6 +14685,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-15,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-15,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-15,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -15199,6 +15249,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-16,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-16,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -15229,6 +15280,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-16,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-16,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-16,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -15792,6 +15844,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-17,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -15822,6 +15875,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-17,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-17,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -16385,6 +16439,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-18,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-18,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -16415,6 +16470,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-18,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-18,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-18,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -16978,6 +17034,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-19,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -17008,6 +17065,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-03-19,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-19,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -17571,6 +17629,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-20,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-03-20,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-20,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -17601,6 +17660,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-20,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Moscow,55.644315,37.666104,115,0,0,115,0,0,False,False
 2020-03-20,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-20,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,Nizhny Novgorod,56.279395,44.645749,3,0,0,3,0,0,False,False
 2020-03-20,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-20,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -18164,6 +18224,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-21,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
+2020-03-21,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-21,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -18194,6 +18255,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-21,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Moscow,55.644315,37.666104,149,0,0,149,0,0,False,False
 2020-03-21,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-21,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,Nizhny Novgorod,56.279395,44.645749,7,0,0,7,0,0,False,False
 2020-03-21,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-21,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -18757,6 +18819,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
+2020-03-22,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-22,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -18787,6 +18850,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Moscow,55.644315,37.666104,172,0,0,172,0,0,False,False
 2020-03-22,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-22,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,Nizhny Novgorod,56.279395,44.645749,7,0,0,7,0,0,False,False
 2020-03-22,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-22,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -19351,6 +19415,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-23,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
+2020-03-23,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-23,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -19381,6 +19446,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-23,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Moscow,55.644315,37.666104,226,0,0,226,0,0,False,False
 2020-03-23,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-23,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,Nizhny Novgorod,56.279395,44.645749,7,0,0,7,0,0,False,False
 2020-03-23,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-23,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -19945,6 +20011,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-24,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
+2020-03-24,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-24,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -19975,6 +20042,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-24,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Moscow,55.644315,37.666104,297,0,0,297,0,0,False,False
 2020-03-24,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-24,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,Nizhny Novgorod,56.279395,44.645749,7,0,0,7,0,0,False,False
 2020-03-24,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-24,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -20538,6 +20606,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,Chechnya,43.26872,45.799182,1,0,0,1,0,0,False,False
 2020-03-25,RUS,,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
+2020-03-25,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-25,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -20568,6 +20637,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,Moscow,55.644315,37.666104,325,0,0,325,0,0,False,False
 2020-03-25,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-25,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,Nizhny Novgorod,56.279395,44.645749,7,0,0,7,0,0,False,False
 2020-03-25,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-25,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -21131,6 +21201,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-26,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,Chechnya,43.26872,45.799182,1,0,0,1,0,0,False,False
 2020-03-26,RUS,,Chelyabinsk,54.475139,60.413177,2,0,0,2,0,0,False,False
+2020-03-26,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-26,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -21161,6 +21232,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-26,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,Moscow,55.644315,37.666104,451,0,0,451,0,0,False,False
 2020-03-26,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-26,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,Nizhny Novgorod,56.279395,44.645749,8,0,0,8,0,0,False,False
 2020-03-26,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-26,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -21724,6 +21796,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-27,RUS,,Buryatia,54.550455,112.36994,2,0,0,2,0,0,False,False
 2020-03-27,RUS,,Chechnya,43.26872,45.799182,1,0,0,1,0,0,False,False
 2020-03-27,RUS,,Chelyabinsk,54.475139,60.413177,5,0,0,5,0,0,False,False
+2020-03-27,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-27,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-27,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
 2020-03-27,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -21754,6 +21827,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-27,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
 2020-03-27,RUS,,Moscow,55.644315,37.666104,587,0,0,587,0,0,False,False
 2020-03-27,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-27,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-27,RUS,,Nizhny Novgorod,56.279395,44.645749,8,0,0,8,0,0,False,False
 2020-03-27,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-27,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -22317,6 +22391,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-28,RUS,,Buryatia,54.550455,112.36994,8,0,0,8,0,0,False,False
 2020-03-28,RUS,,Chechnya,43.26872,45.799182,5,0,0,5,0,0,False,False
 2020-03-28,RUS,,Chelyabinsk,54.475139,60.413177,9,0,0,9,0,0,False,False
+2020-03-28,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-28,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-28,RUS,,Dagestan,43.035568,46.873874,1,0,0,1,0,0,False,False
 2020-03-28,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -22347,6 +22422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-28,RUS,,Mordovia,54.520508,45.58471,2,0,0,2,0,0,False,False
 2020-03-28,RUS,,Moscow,55.644315,37.666104,903,0,0,903,0,0,False,False
 2020-03-28,RUS,,Murmansk,67.805244,34.572247,1,0,0,1,0,0,False,False
+2020-03-28,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-28,RUS,,Nizhny Novgorod,56.279395,44.645749,11,0,0,11,0,0,False,False
 2020-03-28,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-28,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -22910,6 +22986,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-29,RUS,,Buryatia,54.550455,112.36994,8,0,0,8,0,0,False,False
 2020-03-29,RUS,,Chechnya,43.26872,45.799182,9,0,0,9,0,0,False,False
 2020-03-29,RUS,,Chelyabinsk,54.475139,60.413177,12,0,0,12,0,0,False,False
+2020-03-29,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-29,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-29,RUS,,Dagestan,43.035568,46.873874,1,0,0,1,0,0,False,False
 2020-03-29,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -22940,6 +23017,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-29,RUS,,Mordovia,54.520508,45.58471,3,0,0,3,0,0,False,False
 2020-03-29,RUS,,Moscow,55.644315,37.666104,1127,0,0,1127,0,0,False,False
 2020-03-29,RUS,,Murmansk,67.805244,34.572247,3,0,0,3,0,0,False,False
+2020-03-29,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-29,RUS,,Nizhny Novgorod,56.279395,44.645749,11,0,0,11,0,0,False,False
 2020-03-29,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-29,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -23503,6 +23581,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-30,RUS,,Buryatia,54.550455,112.36994,13,0,0,13,0,0,False,False
 2020-03-30,RUS,,Chechnya,43.26872,45.799182,9,0,0,9,0,0,False,False
 2020-03-30,RUS,,Chelyabinsk,54.475139,60.413177,14,0,0,14,0,0,False,False
+2020-03-30,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-30,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-30,RUS,,Dagestan,43.035568,46.873874,4,0,0,4,0,0,False,False
 2020-03-30,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -23533,6 +23612,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-30,RUS,,Mordovia,54.520508,45.58471,3,0,0,3,0,0,False,False
 2020-03-30,RUS,,Moscow,55.644315,37.666104,1345,0,0,1345,0,0,False,False
 2020-03-30,RUS,,Murmansk,67.805244,34.572247,5,0,0,5,0,0,False,False
+2020-03-30,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-30,RUS,,Nizhny Novgorod,56.279395,44.645749,11,0,0,11,0,0,False,False
 2020-03-30,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-30,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -24096,6 +24176,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-31,RUS,,Buryatia,54.550455,112.36994,19,0,0,19,0,0,False,False
 2020-03-31,RUS,,Chechnya,43.26872,45.799182,9,0,0,9,0,0,False,False
 2020-03-31,RUS,,Chelyabinsk,54.475139,60.413177,14,0,0,14,0,0,False,False
+2020-03-31,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-03-31,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-03-31,RUS,,Dagestan,43.035568,46.873874,13,0,0,13,0,0,False,False
 2020-03-31,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -24126,6 +24207,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-31,RUS,,Mordovia,54.520508,45.58471,3,0,0,3,0,0,False,False
 2020-03-31,RUS,,Moscow,55.644315,37.666104,1732,0,0,1732,0,0,False,False
 2020-03-31,RUS,,Murmansk,67.805244,34.572247,11,0,0,11,0,0,False,False
+2020-03-31,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-03-31,RUS,,Nizhny Novgorod,56.279395,44.645749,12,0,0,12,0,0,False,False
 2020-03-31,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
 2020-03-31,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -24689,6 +24771,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-01,RUS,,Buryatia,54.550455,112.36994,25,0,0,25,0,0,False,False
 2020-04-01,RUS,,Chechnya,43.26872,45.799182,10,0,0,10,0,0,False,False
 2020-04-01,RUS,,Chelyabinsk,54.475139,60.413177,21,0,0,21,0,0,False,False
+2020-04-01,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-01,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-01,RUS,,Dagestan,43.035568,46.873874,15,0,0,15,0,0,False,False
 2020-04-01,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -24719,6 +24802,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-01,RUS,,Mordovia,54.520508,45.58471,4,0,0,4,0,0,False,False
 2020-04-01,RUS,,Moscow,55.644315,37.666104,2014,0,0,2014,0,0,False,False
 2020-04-01,RUS,,Murmansk,67.805244,34.572247,11,0,0,11,0,0,False,False
+2020-04-01,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-01,RUS,,Nizhny Novgorod,56.279395,44.645749,12,0,0,12,0,0,False,False
 2020-04-01,RUS,,North Ossetia-Alania,43.053883,44.325278,2,0,0,2,0,0,False,False
 2020-04-01,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
@@ -25282,6 +25366,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-02,RUS,,Buryatia,54.550455,112.36994,30,0,0,30,0,0,False,False
 2020-04-02,RUS,,Chechnya,43.26872,45.799182,10,0,0,10,0,0,False,False
 2020-04-02,RUS,,Chelyabinsk,54.475139,60.413177,21,0,0,21,0,0,False,False
+2020-04-02,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-02,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-02,RUS,,Dagestan,43.035568,46.873874,25,0,0,25,0,0,False,False
 2020-04-02,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -25312,6 +25397,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-02,RUS,,Mordovia,54.520508,45.58471,4,0,0,4,0,0,False,False
 2020-04-02,RUS,,Moscow,55.644315,37.666104,2652,0,0,2652,0,0,False,False
 2020-04-02,RUS,,Murmansk,67.805244,34.572247,15,0,0,15,0,0,False,False
+2020-04-02,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-02,RUS,,Nizhny Novgorod,56.279395,44.645749,25,0,0,25,0,0,False,False
 2020-04-02,RUS,,North Ossetia-Alania,43.053883,44.325278,4,0,0,4,0,0,False,False
 2020-04-02,RUS,,NOT SPECIFIED,,,0,30,0,-30,0,0,False,False
@@ -25875,6 +25961,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-03,RUS,,Buryatia,54.550455,112.36994,30,0,0,30,0,0,False,False
 2020-04-03,RUS,,Chechnya,43.26872,45.799182,10,0,0,10,0,0,False,False
 2020-04-03,RUS,,Chelyabinsk,54.475139,60.413177,21,0,0,21,0,0,False,False
+2020-04-03,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-03,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-03,RUS,,Dagestan,43.035568,46.873874,25,0,0,25,0,0,False,False
 2020-04-03,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
@@ -25905,6 +25992,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-03,RUS,,Mordovia,54.520508,45.58471,4,0,0,4,0,0,False,False
 2020-04-03,RUS,,Moscow,55.644315,37.666104,2652,0,0,2652,0,0,False,False
 2020-04-03,RUS,,Murmansk,67.805244,34.572247,15,0,0,15,0,0,False,False
+2020-04-03,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-03,RUS,,Nizhny Novgorod,56.279395,44.645749,25,0,0,25,0,0,False,False
 2020-04-03,RUS,,North Ossetia-Alania,43.053883,44.325278,4,0,0,4,0,0,False,False
 2020-04-03,RUS,,NOT SPECIFIED,,,0,30,0,-30,0,0,False,False
@@ -26468,6 +26556,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-04,RUS,,Buryatia,54.550455,112.36994,31,0,0,31,0,0,False,False
 2020-04-04,RUS,,Chechnya,43.26872,45.799182,12,0,0,12,0,0,False,False
 2020-04-04,RUS,,Chelyabinsk,54.475139,60.413177,23,0,0,23,0,0,False,False
+2020-04-04,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-04,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-04,RUS,,Dagestan,43.035568,46.873874,25,0,0,25,0,0,False,False
 2020-04-04,RUS,,Ingushetia,43.40517,44.8203,1,0,0,1,0,0,False,False
@@ -26498,6 +26587,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-04,RUS,,Mordovia,54.520508,45.58471,4,0,0,4,0,0,False,False
 2020-04-04,RUS,,Moscow,55.644315,37.666104,3134,0,0,3134,0,0,False,False
 2020-04-04,RUS,,Murmansk,67.805244,34.572247,15,0,0,15,0,0,False,False
+2020-04-04,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-04,RUS,,Nizhny Novgorod,56.279395,44.645749,47,0,0,47,0,0,False,False
 2020-04-04,RUS,,North Ossetia-Alania,43.053883,44.325278,4,0,0,4,0,0,False,False
 2020-04-04,RUS,,NOT SPECIFIED,,,0,34,0,-34,0,0,False,False
@@ -27061,6 +27151,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-05,RUS,,Buryatia,54.550455,112.36994,35,0,0,35,0,0,False,False
 2020-04-05,RUS,,Chechnya,43.26872,45.799182,15,0,0,15,0,0,False,False
 2020-04-05,RUS,,Chelyabinsk,54.475139,60.413177,26,0,0,26,0,0,False,False
+2020-04-05,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-05,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-05,RUS,,Dagestan,43.035568,46.873874,25,0,0,25,0,0,False,False
 2020-04-05,RUS,,Ingushetia,43.40517,44.8203,1,0,0,1,0,0,False,False
@@ -27091,6 +27182,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-05,RUS,,Mordovia,54.520508,45.58471,5,0,0,5,0,0,False,False
 2020-04-05,RUS,,Moscow,55.644315,37.666104,3617,0,0,3617,0,0,False,False
 2020-04-05,RUS,,Murmansk,67.805244,34.572247,15,0,0,15,0,0,False,False
+2020-04-05,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-05,RUS,,Nizhny Novgorod,56.279395,44.645749,25,0,0,25,0,0,False,False
 2020-04-05,RUS,,North Ossetia-Alania,43.053883,44.325278,5,0,0,5,0,0,False,False
 2020-04-05,RUS,,NOT SPECIFIED,,,0,43,0,-43,0,0,False,False
@@ -27654,6 +27746,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-06,RUS,,Buryatia,54.550455,112.36994,35,0,0,35,0,0,False,False
 2020-04-06,RUS,,Chechnya,43.26872,45.799182,15,0,0,15,0,0,False,False
 2020-04-06,RUS,,Chelyabinsk,54.475139,60.413177,27,0,0,27,0,0,False,False
+2020-04-06,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-06,RUS,,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
 2020-04-06,RUS,,Dagestan,43.035568,46.873874,25,0,0,25,0,0,False,False
 2020-04-06,RUS,,Ingushetia,43.40517,44.8203,1,0,0,1,0,0,False,False
@@ -27684,6 +27777,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-06,RUS,,Mordovia,54.520508,45.58471,5,0,0,5,0,0,False,False
 2020-04-06,RUS,,Moscow,55.644315,37.666104,4198,0,0,4198,0,0,False,False
 2020-04-06,RUS,,Murmansk,67.805244,34.572247,15,0,0,15,0,0,False,False
+2020-04-06,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-06,RUS,,Nizhny Novgorod,56.279395,44.645749,47,0,0,47,0,0,False,False
 2020-04-06,RUS,,North Ossetia-Alania,43.053883,44.325278,5,0,0,5,0,0,False,False
 2020-04-06,RUS,,NOT SPECIFIED,,,0,45,0,-45,0,0,False,False
@@ -28247,6 +28341,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-07,RUS,,Buryatia,54.550455,112.36994,43,0,0,43,0,0,False,False
 2020-04-07,RUS,,Chechnya,43.26872,45.799182,16,0,0,16,0,0,False,False
 2020-04-07,RUS,,Chelyabinsk,54.475139,60.413177,31,0,0,31,0,0,False,False
+2020-04-07,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-07,RUS,,Chuvashia,55.507419,47.102483,3,0,0,3,0,0,False,False
 2020-04-07,RUS,,Dagestan,43.035568,46.873874,30,0,0,30,0,0,False,False
 2020-04-07,RUS,,Ingushetia,43.40517,44.8203,1,0,0,1,0,0,False,False
@@ -28277,6 +28372,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-07,RUS,,Mordovia,54.520508,45.58471,6,0,0,6,0,0,False,False
 2020-04-07,RUS,,Moscow,55.644315,37.666104,4871,0,0,4871,0,0,False,False
 2020-04-07,RUS,,Murmansk,67.805244,34.572247,18,0,0,18,0,0,False,False
+2020-04-07,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-07,RUS,,Nizhny Novgorod,56.279395,44.645749,56,0,0,56,0,0,False,False
 2020-04-07,RUS,,North Ossetia-Alania,43.053883,44.325278,8,0,0,8,0,0,False,False
 2020-04-07,RUS,,NOT SPECIFIED,,,0,47,0,-47,0,0,False,False
@@ -28840,6 +28936,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-08,RUS,,Buryatia,54.550455,112.36994,50,0,0,50,0,0,False,False
 2020-04-08,RUS,,Chechnya,43.26872,45.799182,22,0,0,22,0,0,False,False
 2020-04-08,RUS,,Chelyabinsk,54.475139,60.413177,32,0,0,32,0,0,False,False
+2020-04-08,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-08,RUS,,Chuvashia,55.507419,47.102483,15,0,0,15,0,0,False,False
 2020-04-08,RUS,,Dagestan,43.035568,46.873874,43,0,0,43,0,0,False,False
 2020-04-08,RUS,,Ingushetia,43.40517,44.8203,25,0,0,25,0,0,False,False
@@ -28870,6 +28967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-08,RUS,,Mordovia,54.520508,45.58471,13,0,0,13,0,0,False,False
 2020-04-08,RUS,,Moscow,55.644315,37.666104,6390,0,0,6390,0,0,False,False
 2020-04-08,RUS,,Murmansk,67.805244,34.572247,43,0,0,43,0,0,False,False
+2020-04-08,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-08,RUS,,Nizhny Novgorod,56.279395,44.645749,80,0,0,80,0,0,False,False
 2020-04-08,RUS,,North Ossetia-Alania,43.053883,44.325278,15,0,0,15,0,0,False,False
 2020-04-08,RUS,,NOT SPECIFIED,,,0,63,0,-63,0,0,False,False
@@ -29433,6 +29531,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-09,RUS,,Buryatia,54.550455,112.36994,54,0,0,54,0,0,False,False
 2020-04-09,RUS,,Chechnya,43.26872,45.799182,22,0,0,22,0,0,False,False
 2020-04-09,RUS,,Chelyabinsk,54.475139,60.413177,32,0,0,32,0,0,False,False
+2020-04-09,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-09,RUS,,Chuvashia,55.507419,47.102483,15,0,0,15,0,0,False,False
 2020-04-09,RUS,,Dagestan,43.035568,46.873874,43,0,0,43,0,0,False,False
 2020-04-09,RUS,,Ingushetia,43.40517,44.8203,25,0,0,25,0,0,False,False
@@ -29463,6 +29562,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-09,RUS,,Mordovia,54.520508,45.58471,13,0,0,13,0,0,False,False
 2020-04-09,RUS,,Moscow,55.644315,37.666104,6390,0,0,6390,0,0,False,False
 2020-04-09,RUS,,Murmansk,67.805244,34.572247,43,0,0,43,0,0,False,False
+2020-04-09,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-09,RUS,,Nizhny Novgorod,56.279395,44.645749,80,0,0,80,0,0,False,False
 2020-04-09,RUS,,North Ossetia-Alania,43.053883,44.325278,15,0,0,15,0,0,False,False
 2020-04-09,RUS,,NOT SPECIFIED,,,0,63,0,-63,0,0,False,False
@@ -30026,6 +30126,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-10,RUS,,Buryatia,54.550455,112.36994,60,0,0,60,0,0,False,False
 2020-04-10,RUS,,Chechnya,43.26872,45.799182,22,0,0,22,0,0,False,False
 2020-04-10,RUS,,Chelyabinsk,54.475139,60.413177,34,0,0,34,0,0,False,False
+2020-04-10,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-10,RUS,,Chuvashia,55.507419,47.102483,32,0,0,32,0,0,False,False
 2020-04-10,RUS,,Dagestan,43.035568,46.873874,57,0,0,57,0,0,False,False
 2020-04-10,RUS,,Ingushetia,43.40517,44.8203,29,0,0,29,0,0,False,False
@@ -30056,6 +30157,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-10,RUS,,Mordovia,54.520508,45.58471,19,0,0,19,0,0,False,False
 2020-04-10,RUS,,Moscow,55.644315,37.666104,8752,0,0,8752,0,0,False,False
 2020-04-10,RUS,,Murmansk,67.805244,34.572247,67,0,0,67,0,0,False,False
+2020-04-10,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-10,RUS,,Nizhny Novgorod,56.279395,44.645749,119,0,0,119,0,0,False,False
 2020-04-10,RUS,,North Ossetia-Alania,43.053883,44.325278,27,0,0,27,0,0,False,False
 2020-04-10,RUS,,NOT SPECIFIED,,,0,94,0,-94,0,0,False,False
@@ -30619,6 +30721,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-11,RUS,,Buryatia,54.550455,112.36994,73,0,0,73,0,0,False,False
 2020-04-11,RUS,,Chechnya,43.26872,45.799182,30,0,0,30,0,0,False,False
 2020-04-11,RUS,,Chelyabinsk,54.475139,60.413177,40,0,0,40,0,0,False,False
+2020-04-11,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-11,RUS,,Chuvashia,55.507419,47.102483,39,0,0,39,0,0,False,False
 2020-04-11,RUS,,Dagestan,43.035568,46.873874,83,0,0,83,0,0,False,False
 2020-04-11,RUS,,Ingushetia,43.40517,44.8203,29,0,0,29,0,0,False,False
@@ -30649,6 +30752,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-11,RUS,,Mordovia,54.520508,45.58471,19,0,0,19,0,0,False,False
 2020-04-11,RUS,,Moscow,55.644315,37.666104,9934,0,0,9934,0,0,False,False
 2020-04-11,RUS,,Murmansk,67.805244,34.572247,67,0,0,67,0,0,False,False
+2020-04-11,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-11,RUS,,Nizhny Novgorod,56.279395,44.645749,152,0,0,152,0,0,False,False
 2020-04-11,RUS,,North Ossetia-Alania,43.053883,44.325278,27,0,0,27,0,0,False,False
 2020-04-11,RUS,,NOT SPECIFIED,,,0,106,0,-106,0,0,False,False
@@ -31212,6 +31316,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,RUS,,Buryatia,54.550455,112.36994,77,0,0,77,0,0,False,False
 2020-04-12,RUS,,Chechnya,43.26872,45.799182,47,0,0,47,0,0,False,False
 2020-04-12,RUS,,Chelyabinsk,54.475139,60.413177,40,0,0,40,0,0,False,False
+2020-04-12,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-12,RUS,,Chuvashia,55.507419,47.102483,50,0,0,50,0,0,False,False
 2020-04-12,RUS,,Dagestan,43.035568,46.873874,83,0,0,83,0,0,False,False
 2020-04-12,RUS,,Ingushetia,43.40517,44.8203,29,0,0,29,0,0,False,False
@@ -31242,6 +31347,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,RUS,,Mordovia,54.520508,45.58471,42,0,0,42,0,0,False,False
 2020-04-12,RUS,,Moscow,55.644315,37.666104,11518,0,0,11518,0,0,False,False
 2020-04-12,RUS,,Murmansk,67.805244,34.572247,128,0,0,128,0,0,False,False
+2020-04-12,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-12,RUS,,Nizhny Novgorod,56.279395,44.645749,194,0,0,194,0,0,False,False
 2020-04-12,RUS,,North Ossetia-Alania,43.053883,44.325278,34,0,0,34,0,0,False,False
 2020-04-12,RUS,,NOT SPECIFIED,,,0,130,0,-130,0,0,False,False
@@ -31805,6 +31911,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-13,RUS,,Buryatia,54.550455,112.36994,77,0,0,77,0,0,False,False
 2020-04-13,RUS,,Chechnya,43.26872,45.799182,49,0,0,49,0,0,False,False
 2020-04-13,RUS,,Chelyabinsk,54.475139,60.413177,43,0,0,43,0,0,False,False
+2020-04-13,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-13,RUS,,Chuvashia,55.507419,47.102483,65,0,0,65,0,0,False,False
 2020-04-13,RUS,,Dagestan,43.035568,46.873874,83,0,0,83,0,0,False,False
 2020-04-13,RUS,,Ingushetia,43.40517,44.8203,34,0,0,34,0,0,False,False
@@ -31835,6 +31942,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-13,RUS,,Mordovia,54.520508,45.58471,58,0,0,58,0,0,False,False
 2020-04-13,RUS,,Moscow,55.644315,37.666104,13368,0,0,13368,0,0,False,False
 2020-04-13,RUS,,Murmansk,67.805244,34.572247,128,0,0,128,0,0,False,False
+2020-04-13,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-13,RUS,,Nizhny Novgorod,56.279395,44.645749,224,0,0,224,0,0,False,False
 2020-04-13,RUS,,North Ossetia-Alania,43.053883,44.325278,34,0,0,34,0,0,False,False
 2020-04-13,RUS,,NOT SPECIFIED,,,0,148,0,-148,0,0,False,False
@@ -32146,25 +32254,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,FIN,,Vaasa,63.077479,22.196054,38,0,0,38,0,0,True,True
 2020-04-14,FIN,,Varsinais-Suomi,60.590424,22.623677,175,0,0,175,0,0,True,True
 2020-04-14,FIN,,West North,,,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Auvergne-Rhône-Alpes,45.283026,4.624017,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Bourgogne-Franche-Comté,47.234197,4.806917,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Bretagne,48.181767,-2.840778,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Centre-Val de Loire,47.751569,1.675063,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Corse,42.151732,9.105559,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Grand Est,48.688738,5.613275,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Guadeloupe,16.192207,-61.272382,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Guyane,3.926082,-53.245309,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Hauts-de-France,49.96966,2.770434,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Île-de-France,48.709229,2.503473,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,La Réunion,-20.89066,55.455054,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Martinique,14.63554,-61.022814,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Mayotte,-12.824511,45.165455,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Normandie,48.880101,-0.073045,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Nouvelle-Aquitaine,45.479897,0.410462,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Occitanie,43.703195,2.143601,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Pays de la Loire,47.479115,-0.811996,0,0,0,0,0,0,True,True
-2020-04-14,FRA,,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,0,0,0,0,0,True,True
+2020-04-14,FRA,,Auvergne-Rhône-Alpes,45.283026,4.624017,0,836,3081,-3917,3044,659,True,True
+2020-04-14,FRA,,Bourgogne-Franche-Comté,47.234197,4.806917,0,551,1488,-2039,1361,285,True,True
+2020-04-14,FRA,,Bretagne,48.181767,-2.840778,0,149,511,-660,514,117,True,True
+2020-04-14,FRA,,Centre-Val de Loire,47.751569,1.675063,0,227,629,-856,996,188,True,True
+2020-04-14,FRA,,Corse,42.151732,9.105559,0,38,129,-167,74,16,True,True
+2020-04-14,FRA,,Grand Est,48.688738,5.613275,0,2166,4928,-7094,4993,872,True,True
+2020-04-14,FRA,,Guadeloupe,16.192207,-61.272382,0,10,51,-61,41,18,True,True
+2020-04-14,FRA,,Guyane,3.926082,-53.245309,0,0,13,-13,18,1,True,True
+2020-04-14,FRA,,Hauts-de-France,49.96966,2.770434,0,920,2184,-3104,2552,538,True,True
+2020-04-14,FRA,,Île-de-France,48.709229,2.503473,0,3937,9790,-13727,13209,2599,True,True
+2020-04-14,FRA,,La Réunion,-20.89066,55.455054,0,0,72,-72,28,3,True,True
+2020-04-14,FRA,,Martinique,14.63554,-61.022814,0,6,52,-58,39,16,True,True
+2020-04-14,FRA,,Mayotte,-12.824511,45.165455,0,3,35,-38,15,3,True,True
+2020-04-14,FRA,,Normandie,48.880101,-0.073045,0,230,626,-856,705,177,True,True
+2020-04-14,FRA,,NOT SPECIFIED,,,103573,0,1,103572,161,131,True,True
+2020-04-14,FRA,,Nouvelle-Aquitaine,45.479897,0.410462,0,207,866,-1073,866,251,True,True
+2020-04-14,FRA,,Occitanie,43.703195,2.143601,0,266,1360,-1626,962,279,True,True
+2020-04-14,FRA,,Pays de la Loire,47.479115,-0.811996,0,209,749,-958,820,155,True,True
+2020-04-14,FRA,,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,374,2240,-2614,1894,422,True,True
 2020-04-14,DEU,,Baden-Württemberg,48.537648,9.049199,25040,711,0,24329,0,0,True,True
 2020-04-14,DEU,,Bayern,48.947574,11.419913,33569,872,0,32697,0,0,True,True
 2020-04-14,DEU,,Berlin,52.501532,13.40185,4668,56,0,4612,0,0,True,True
@@ -32340,14 +32448,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,POL,,Warmińsko-mazurskie,53.835464,20.758506,122,1,0,121,0,0,True,True
 2020-04-14,POL,,Wielkopolskie,52.283858,17.248218,677,41,0,636,0,0,True,True
 2020-04-14,POL,,Zachodniopomorskie,53.582707,15.634824,209,2,0,207,0,0,True,True
-2020-04-14,PRT,,Açores,37.775525,-25.494927,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Alentejo,38.485499,-8.006668,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Algarve,37.218389,-8.198488,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Centro,40.111812,-8.012768,0,0,0,0,0,0,True,True
+2020-04-14,PRT,,Açores,37.775525,-25.494927,100,4,0,96,0,0,True,True
+2020-04-14,PRT,,Alentejo,38.485499,-8.006668,155,0,0,155,0,0,True,True
+2020-04-14,PRT,,Algarve,37.218389,-8.198488,289,9,0,280,0,0,True,True
+2020-04-14,PRT,,Centro,40.111812,-8.012768,2549,131,0,2418,0,0,True,True
 2020-04-14,PRT,,Estrageiro,,,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Lisbon,38.623843,-8.88436,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Madeira,32.736252,-16.972663,0,0,0,0,0,0,True,True
-2020-04-14,PRT,,Norte,41.457206,-7.678153,0,0,0,0,0,0,True,True
+2020-04-14,PRT,,Lisbon,38.623843,-8.88436,3994,102,0,3892,0,0,True,True
+2020-04-14,PRT,,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
+2020-04-14,PRT,,Norte,41.457206,-7.678153,10302,321,0,9981,0,0,True,True
 2020-04-14,ROU,,Alba,46.172367,23.487279,118,0,0,118,0,0,True,True
 2020-04-14,ROU,,Arad,46.273235,21.758454,280,0,0,280,0,0,True,True
 2020-04-14,ROU,,Bacau,46.42171,26.773519,76,0,0,76,0,0,True,True
@@ -32398,6 +32506,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,RUS,,Buryatia,54.550455,112.36994,92,0,0,92,0,0,False,False
 2020-04-14,RUS,,Chechnya,43.26872,45.799182,64,0,0,64,0,0,False,False
 2020-04-14,RUS,,Chelyabinsk,54.475139,60.413177,48,0,0,48,0,0,False,False
+2020-04-14,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
 2020-04-14,RUS,,Chuvashia,55.507419,47.102483,65,0,0,65,0,0,False,False
 2020-04-14,RUS,,Dagestan,43.035568,46.873874,100,0,0,100,0,0,False,False
 2020-04-14,RUS,,Ingushetia,43.40517,44.8203,34,0,0,34,0,0,False,False
@@ -32428,6 +32537,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,RUS,,Mordovia,54.520508,45.58471,71,0,0,71,0,0,False,False
 2020-04-14,RUS,,Moscow,55.644315,37.666104,15317,0,0,15317,0,0,False,False
 2020-04-14,RUS,,Murmansk,67.805244,34.572247,128,0,0,128,0,0,False,False
+2020-04-14,RUS,,Nenets,,,0,0,0,0,0,0,False,False
 2020-04-14,RUS,,Nizhny Novgorod,56.279395,44.645749,292,0,0,292,0,0,False,False
 2020-04-14,RUS,,North Ossetia-Alania,43.053883,44.325278,52,0,0,52,0,0,False,False
 2020-04-14,RUS,,NOT SPECIFIED,,,0,170,0,-170,0,0,False,False
@@ -32637,11 +32747,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,AUT,,Vorarlberg,47.240149,9.896366,846,0,0,846,0,0,True,True
 2020-04-15,AUT,,Wien,48.21141,16.380038,2084,0,0,2084,0,0,True,True
 2020-04-15,BLR,,Belarus,53.711111,27.973847,3281,33,0,3248,0,0,False,False
-2020-04-15,BEL,,Brussels,50.836426,4.367415,0,0,0,0,0,0,True,True
-2020-04-15,BEL,,Flanders,51.036569,4.234165,0,0,0,0,0,0,True,True
+2020-04-15,BEL,,Brussels,50.836426,4.367415,3393,674,0,2719,0,0,True,True
+2020-04-15,BEL,,Flanders,51.036569,4.234165,19648,2243,0,17405,0,0,True,True
 2020-04-15,BEL,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,BEL,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,BEL,,Wallonia,50.312074,5.019093,0,0,0,0,0,0,True,True
+2020-04-15,BEL,,NOT SPECIFIED,,,557,0,0,557,0,0,True,True
+2020-04-15,BEL,,Wallonia,50.312074,5.019093,9975,1523,0,8452,0,0,True,True
 2020-04-15,BIH,,Bosnia and Herzegovina,43.892652,17.670584,0,0,0,0,0,0,False,False
 2020-04-15,BGR,,Blagoevgrad,41.72282,23.424299,0,0,0,0,0,0,True,True
 2020-04-15,BGR,,Burgas,42.491848,27.306892,0,0,0,0,0,0,True,True
@@ -32668,28 +32778,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,BGR,,Veliko Tarnovo,43.189524,25.649275,0,0,0,0,0,0,True,True
 2020-04-15,BGR,,Vidin,43.797295,22.68621,0,0,0,0,0,0,True,True
 2020-04-15,BGR,,Vratsa,43.395067,23.759152,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Bjelovarsko-bilogorska,45.739855,16.976657,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Brodsko-Posavska,45.142404,17.821388,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Dubrovačko-neretvanska,42.662368,18.15083,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Grad Zagreb,45.742196,16.008116,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Istarska,45.203521,13.895312,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Karlovačka,45.292126,15.46427,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Koprivničko-križevačka,46.066232,16.571467,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Krapinsko-zagorska županija,46.09492,15.919072,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Ličko-senjska,44.69075,15.422344,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Međimurska,46.410728,16.508315,0,0,0,0,0,0,True,True
+2020-04-15,HRV,,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
+2020-04-15,HRV,,Brodsko-Posavska,45.142404,17.821388,18,1,0,17,0,0,True,True
+2020-04-15,HRV,,Dubrovačko-neretvanska,42.662368,18.15083,96,3,0,93,0,0,True,True
+2020-04-15,HRV,,Grad Zagreb,45.742196,16.008116,421,11,0,410,0,0,True,True
+2020-04-15,HRV,,Istarska,45.203521,13.895312,86,2,0,84,0,0,True,True
+2020-04-15,HRV,,Karlovačka,45.292126,15.46427,28,1,0,27,0,0,True,True
+2020-04-15,HRV,,Koprivničko-križevačka,46.066232,16.571467,28,0,0,28,0,0,True,True
+2020-04-15,HRV,,Krapinsko-zagorska županija,46.09492,15.919072,112,1,0,111,0,0,True,True
+2020-04-15,HRV,,Ličko-senjska,44.69075,15.422344,14,0,0,14,0,0,True,True
+2020-04-15,HRV,,Međimurska,46.410728,16.508315,8,0,0,8,0,0,True,True
 2020-04-15,HRV,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Osječko-baranjska,45.56139,18.442456,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Požeško-slavonska,45.404899,17.562893,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Primorsko-Goranska,45.367738,14.701448,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Šibensko-kninska,43.89492,16.07332,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Sisačko-moslavačka,45.365583,16.424137,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Splitsko-Dalmatinska,43.613438,16.730085,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Varaždinska,46.250434,16.293818,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Virovitičko-podravska,45.831646,17.385543,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Vukovarsko-srijemska,45.179126,18.877963,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Zadarska,44.347845,15.959404,0,0,0,0,0,0,True,True
-2020-04-15,HRV,,Zagrebačka,45.82762,16.381796,0,0,0,0,0,0,True,True
+2020-04-15,HRV,,Osječko-baranjska,45.56139,18.442456,99,5,0,94,0,0,True,True
+2020-04-15,HRV,,Požeško-slavonska,45.404899,17.562893,3,0,0,3,0,0,True,True
+2020-04-15,HRV,,Primorsko-Goranska,45.367738,14.701448,78,1,0,77,0,0,True,True
+2020-04-15,HRV,,Šibensko-kninska,43.89492,16.07332,77,1,0,76,0,0,True,True
+2020-04-15,HRV,,Sisačko-moslavačka,45.365583,16.424137,30,0,0,30,0,0,True,True
+2020-04-15,HRV,,Splitsko-Dalmatinska,43.613438,16.730085,365,6,0,359,0,0,True,True
+2020-04-15,HRV,,Varaždinska,46.250434,16.293818,35,0,0,35,0,0,True,True
+2020-04-15,HRV,,Virovitičko-podravska,45.831646,17.385543,4,0,0,4,0,0,True,True
+2020-04-15,HRV,,Vukovarsko-srijemska,45.179126,18.877963,36,0,0,36,0,0,True,True
+2020-04-15,HRV,,Zadarska,44.347845,15.959404,74,1,0,73,0,0,True,True
+2020-04-15,HRV,,Zagrebačka,45.82762,16.381796,117,0,0,117,0,0,True,True
 2020-04-15,CYP,,Cyprus,35.167406,33.435499,695,17,0,678,0,0,True,True
 2020-04-15,CZE,,Jihoceský,49.093362,14.439278,156,0,0,156,0,0,True,True
 2020-04-15,CZE,,Jihomoravský,49.079446,16.663916,352,0,0,352,0,0,True,True
@@ -32739,25 +32849,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,FIN,,Vaasa,63.077479,22.196054,38,0,0,38,0,0,True,True
 2020-04-15,FIN,,Varsinais-Suomi,60.590424,22.623677,185,0,0,185,0,0,True,True
 2020-04-15,FIN,,West North,,,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Auvergne-Rhône-Alpes,45.283026,4.624017,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Bourgogne-Franche-Comté,47.234197,4.806917,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Bretagne,48.181767,-2.840778,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Centre-Val de Loire,47.751569,1.675063,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Corse,42.151732,9.105559,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Grand Est,48.688738,5.613275,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Guadeloupe,16.192207,-61.272382,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Guyane,3.926082,-53.245309,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Hauts-de-France,49.96966,2.770434,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Île-de-France,48.709229,2.503473,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,La Réunion,-20.89066,55.455054,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Martinique,14.63554,-61.022814,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Mayotte,-12.824511,45.165455,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Normandie,48.880101,-0.073045,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Nouvelle-Aquitaine,45.479897,0.410462,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Occitanie,43.703195,2.143601,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Pays de la Loire,47.479115,-0.811996,0,0,0,0,0,0,True,True
-2020-04-15,FRA,,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,0,0,0,0,0,True,True
+2020-04-15,FRA,,Auvergne-Rhône-Alpes,45.283026,4.624017,0,885,3317,-4202,3004,639,True,True
+2020-04-15,FRA,,Bourgogne-Franche-Comté,47.234197,4.806917,0,581,1594,-2175,1341,274,True,True
+2020-04-15,FRA,,Bretagne,48.181767,-2.840778,0,159,540,-699,504,106,True,True
+2020-04-15,FRA,,Centre-Val de Loire,47.751569,1.675063,0,245,687,-932,996,180,True,True
+2020-04-15,FRA,,Corse,42.151732,9.105559,0,41,131,-172,83,16,True,True
+2020-04-15,FRA,,Grand Est,48.688738,5.613275,0,2249,5324,-7573,4877,833,True,True
+2020-04-15,FRA,,Guadeloupe,16.192207,-61.272382,0,10,57,-67,35,17,True,True
+2020-04-15,FRA,,Guyane,3.926082,-53.245309,0,0,14,-14,19,0,True,True
+2020-04-15,FRA,,Hauts-de-France,49.96966,2.770434,0,975,2371,-3346,2536,533,True,True
+2020-04-15,FRA,,Île-de-France,48.709229,2.503473,0,4140,10544,-14684,13018,2494,True,True
+2020-04-15,FRA,,La Réunion,-20.89066,55.455054,0,0,76,-76,24,3,True,True
+2020-04-15,FRA,,Martinique,14.63554,-61.022814,0,6,53,-59,38,16,True,True
+2020-04-15,FRA,,Mayotte,-12.824511,45.165455,0,3,37,-40,18,4,True,True
+2020-04-15,FRA,,Normandie,48.880101,-0.073045,0,242,667,-909,686,167,True,True
+2020-04-15,FRA,,NOT SPECIFIED,,,106206,0,43,106163,156,126,True,True
+2020-04-15,FRA,,Nouvelle-Aquitaine,45.479897,0.410462,0,214,924,-1138,828,236,True,True
+2020-04-15,FRA,,Occitanie,43.703195,2.143601,0,278,1454,-1732,913,265,True,True
+2020-04-15,FRA,,Pays de la Loire,47.479115,-0.811996,0,222,817,-1039,794,145,True,True
+2020-04-15,FRA,,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,393,2345,-2738,1909,403,True,True
 2020-04-15,DEU,,Baden-Württemberg,48.537648,9.049199,25438,767,0,24671,0,0,True,True
 2020-04-15,DEU,,Bayern,48.947574,11.419913,34294,954,0,33340,0,0,True,True
 2020-04-15,DEU,,Berlin,52.501532,13.40185,4722,62,0,4660,0,0,True,True
@@ -32776,57 +32886,57 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,DEU,,Sachsen-Anhalt,52.013193,11.700691,1223,26,0,1197,0,0,True,True
 2020-04-15,DEU,,Schleswig Holstein,54.0295,9.705555,2245,54,0,2191,0,0,True,True
 2020-04-15,DEU,,Thüringen,50.903878,11.02488,1550,38,0,1512,0,0,True,True
-2020-04-15,GRC,,Achaea,38.116381,21.862704,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Aitolia and Akarnania,38.666667,21.416667,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Argolis,37.596538,22.863975,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Arkadias,37.461206,22.327779,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Arta,39.245971,21.103804,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Athens,37.997492,23.762727,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Athos,40.326111,24.094376,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Beozia,38.367847,23.088513,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Chania,35.380719,23.918626,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Corfu,39.709041,19.751814,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Corinth,37.911732,22.70582,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Cyclades,37.061014,25.483998,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Dodecaneso,36.184828,27.952756,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Drama,41.297502,24.181932,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,East Attica,37.920984,23.858621,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Elis,37.73,21.56521,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Euboea,38.555118,23.793427,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Evros,41.064778,26.12942,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Florina,40.750526,21.428093,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Fthiotis,38.985561,22.212806,0,0,0,0,0,0,True,True
+2020-04-15,GRC,,Achaea,38.116381,21.862704,22,3,0,19,0,0,True,True
+2020-04-15,GRC,,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
+2020-04-15,GRC,,Argolis,37.596538,22.863975,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
+2020-04-15,GRC,,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
+2020-04-15,GRC,,Athens,37.997492,23.762727,852,54,0,798,0,0,True,True
+2020-04-15,GRC,,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
+2020-04-15,GRC,,Beozia,38.367847,23.088513,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Corfu,39.709041,19.751814,3,1,0,2,0,0,True,True
+2020-04-15,GRC,,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Cyclades,37.061014,25.483998,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
+2020-04-15,GRC,,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
+2020-04-15,GRC,,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
+2020-04-15,GRC,,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
+2020-04-15,GRC,,Evros,41.064778,26.12942,14,4,0,10,0,0,True,True
+2020-04-15,GRC,,Florina,40.750526,21.428093,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Fthiotis,38.985561,22.212806,1,0,0,1,0,0,True,True
 2020-04-15,GRC,,Grevenon,40.022103,21.432045,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Heraklion,35.138839,25.118682,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Ikaria,37.596723,26.112308,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Ioannina,39.810149,20.805055,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Kastoria,40.461316,21.154636,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Kavalas,41.053007,24.573321,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Kefalonia,38.222972,20.574409,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Khalkidiki,40.318124,23.552648,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Khios,38.385418,26.079931,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Kilkis,41.025631,22.75541,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Kozani,40.381888,21.628163,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Laconia,36.918108,22.710877,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Larissa,39.701311,22.39723,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Lasithi,35.171255,25.627696,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Lefkadas,38.708067,20.647757,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Lesbos,39.074583,26.223748,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Magnesia,39.21647,22.704791,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Messinia,37.094459,21.774146,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Pella,40.884899,22.128273,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Pieria,40.257022,22.439796,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Pireas,37.496654,23.343615,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Prevezas,39.309766,20.375076,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Rethymnon,35.265379,24.62573,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Rodopi,41.111377,25.506941,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Serron,41.09138,23.52362,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Tessaloniki,40.687597,23.115933,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Trikalon,39.63943,21.598219,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,West Attica,38.092941,23.395355,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Xanthis,41.168776,24.88364,0,0,0,0,0,0,True,True
-2020-04-15,GRC,,Zakynthos,37.785045,20.774553,0,0,0,0,0,0,True,True
+2020-04-15,GRC,,Heraklion,35.138839,25.118682,10,1,0,9,0,0,True,True
+2020-04-15,GRC,,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Ioannina,39.810149,20.805055,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Kastoria,40.461316,21.154636,61,10,0,51,0,0,True,True
+2020-04-15,GRC,,Kavalas,41.053007,24.573321,4,0,0,4,0,0,True,True
+2020-04-15,GRC,,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
+2020-04-15,GRC,,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
+2020-04-15,GRC,,Kozani,40.381888,21.628163,56,7,0,49,0,0,True,True
+2020-04-15,GRC,,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Larissa,39.701311,22.39723,39,0,0,39,0,0,True,True
+2020-04-15,GRC,,Lasithi,35.171255,25.627696,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,Lesbos,39.074583,26.223748,6,1,0,5,0,0,True,True
+2020-04-15,GRC,,Magnesia,39.21647,22.704791,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
+2020-04-15,GRC,,NOT SPECIFIED,,,673,0,0,673,0,0,True,True
+2020-04-15,GRC,,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
+2020-04-15,GRC,,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
+2020-04-15,GRC,,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
+2020-04-15,GRC,,Prevezas,39.309766,20.375076,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Rethymnon,35.265379,24.62573,2,0,0,2,0,0,True,True
+2020-04-15,GRC,,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
+2020-04-15,GRC,,Serron,41.09138,23.52362,9,0,0,9,0,0,True,True
+2020-04-15,GRC,,Tessaloniki,40.687597,23.115933,32,10,0,22,0,0,True,True
+2020-04-15,GRC,,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
+2020-04-15,GRC,,West Attica,38.092941,23.395355,4,0,0,4,0,0,True,True
+2020-04-15,GRC,,Xanthis,41.168776,24.88364,21,5,0,16,0,0,True,True
+2020-04-15,GRC,,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
 2020-04-15,HUN,,Bács-Kiskun,46.563665,19.374746,22,0,0,22,0,0,True,True
 2020-04-15,HUN,,Baranya,46.043048,18.197022,29,0,0,29,0,0,True,True
 2020-04-15,HUN,,Békés,46.735413,21.006326,12,0,0,12,0,0,True,True
@@ -32849,44 +32959,44 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,HUN,,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
 2020-04-15,HUN,,Veszprém,47.131402,17.65231,32,0,0,32,0,0,True,True
 2020-04-15,HUN,,Zala,46.692149,16.903237,31,0,0,31,0,0,True,True
-2020-04-15,ISL,,Abroad,,,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,East Iceland,64.832997,-15.743398,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,Greater Reykjavík,64.155049,-21.636153,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,Northeast Iceland,65.534498,-17.118685,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,Northwest Iceland,65.367006,-19.676714,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,South Iceland,64.135334,-19.242939,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,Suðurnes Peninsula,63.930366,-22.310028,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,West Fjords,65.820831,-21.86654,0,0,0,0,0,0,False,True
-2020-04-15,ISL,,West Iceland,64.843136,-21.691436,0,0,0,0,0,0,False,True
+2020-04-15,ISL,,Abroad,,,1,0,0,1,0,0,False,True
+2020-04-15,ISL,,East Iceland,64.832997,-15.743398,7,0,0,7,0,0,False,True
+2020-04-15,ISL,,Greater Reykjavík,64.155049,-21.636153,1237,0,0,1237,0,0,False,True
+2020-04-15,ISL,,Northeast Iceland,65.534498,-17.118685,47,0,0,47,0,0,False,True
+2020-04-15,ISL,,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-04-15,ISL,,NOT SPECIFIED,,,50,0,0,50,0,0,False,True
+2020-04-15,ISL,,South Iceland,64.135334,-19.242939,168,0,0,168,0,0,False,True
+2020-04-15,ISL,,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-04-15,ISL,,West Fjords,65.820831,-21.86654,75,0,0,75,0,0,False,True
+2020-04-15,ISL,,West Iceland,64.843136,-21.691436,30,0,0,30,0,0,False,True
 2020-04-15,IRL,,Ireland,53.41975,-8.240472,11479,406,0,11073,0,0,True,True
-2020-04-15,ITA,,Abruzzo,42.228034,13.855137,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Basilicata,40.500665,16.082246,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Bolzano,46.697344,11.417082,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Calabria,39.225585,16.418474,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Campania,41.059945,14.785097,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Emilia-Romagna,44.536563,11.019909,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Friuli Venezia Giulia,46.155667,13.058636,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Lazio,41.981132,12.767224,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Liguria,44.144781,8.140492,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Lombardia,45.622479,9.770824,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Marche,43.366624,13.106678,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Molise,41.597834,14.548702,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Piemonte,45.060965,7.926836,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Puglia,40.984631,16.620464,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Sardegna,40.090225,9.036223,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Sicilia,37.587635,14.155497,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Toscana,43.459993,11.136697,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Trento,46.139153,10.830791,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Umbria,42.966781,12.49094,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Valle d'Aosta,45.732414,7.393651,0,0,0,0,0,0,True,True
-2020-04-15,ITA,,Veneto,45.664735,11.84235,0,0,0,0,0,0,True,True
+2020-04-15,ITA,,Abruzzo,42.228034,13.855137,2274,240,224,1810,385,44,True,True
+2020-04-15,ITA,,Basilicata,40.500665,16.082246,320,21,38,261,72,12,True,True
+2020-04-15,ITA,,Bolzano,46.697344,11.417082,2224,223,425,1576,198,32,True,True
+2020-04-15,ITA,,Calabria,39.225585,16.418474,971,71,81,819,167,11,True,True
+2020-04-15,ITA,,Campania,41.059945,14.785097,3807,278,442,3087,693,86,True,True
+2020-04-15,ITA,,Emilia-Romagna,44.536563,11.019909,21029,2788,4664,13577,3713,325,True,True
+2020-04-15,ITA,,Friuli Venezia Giulia,46.155667,13.058636,2544,212,938,1394,187,24,True,True
+2020-04-15,ITA,,Lazio,41.981132,12.767224,5232,311,874,4047,1538,196,True,True
+2020-04-15,ITA,,Liguria,44.144781,8.140492,5936,807,1665,3464,1079,120,True,True
+2020-04-15,ITA,,Lombardia,45.622479,9.770824,62153,11377,17855,32921,13117,1074,True,True
+2020-04-15,ITA,,Marche,43.366624,13.106678,5503,746,1660,3097,994,106,True,True
+2020-04-15,ITA,,Molise,41.597834,14.548702,263,15,42,206,31,4,True,True
+2020-04-15,ITA,,Piemonte,45.060965,7.926836,18229,2015,3019,13195,3704,366,True,True
+2020-04-15,ITA,,Puglia,40.984631,16.620464,3184,288,323,2573,665,73,True,True
+2020-04-15,ITA,,Sardegna,40.090225,9.036223,1161,83,208,870,133,26,True,True
+2020-04-15,ITA,,Sicilia,37.587635,14.155497,2535,181,273,2081,590,49,True,True
+2020-04-15,ITA,,Toscana,43.459993,11.136697,7666,556,693,6417,1193,216,True,True
+2020-04-15,ITA,,Trento,46.139153,10.830791,3220,318,798,2104,360,48,True,True
+2020-04-15,ITA,,Umbria,42.966781,12.49094,1322,54,686,582,159,37,True,True
+2020-04-15,ITA,,Valle d'Aosta,45.732414,7.393651,958,121,289,548,123,11,True,True
+2020-04-15,ITA,,Veneto,45.664735,11.84235,14624,940,2895,10789,1621,219,True,True
 2020-04-15,LVA,,Latvia,56.875584,24.607722,657,5,0,652,0,0,True,True
 2020-04-15,LIE,,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-15,LIE,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
 2020-04-15,LTU,,Lithuania,55.174112,23.906736,1070,24,0,1046,0,0,True,True
-2020-04-15,LUX,,Luxembourg,49.815764,6.131514,0,0,0,0,0,0,True,True
-2020-04-15,MLT,,Malta,35.946151,14.384612,0,0,0,0,0,0,True,True
+2020-04-15,LUX,,Luxembourg,49.815764,6.131514,3373,69,526,2778,158,33,True,True
+2020-04-15,MLT,,Malta,35.946151,14.384612,399,3,44,352,0,0,True,True
 2020-04-15,MDA,,Moldova,46.979527,28.377195,1934,40,0,1894,0,0,False,False
 2020-04-15,MCO,,Monaco,43.738348,7.424451,93,2,0,91,0,0,False,False
 2020-04-15,MNE,,Montenegro,42.710152,19.410069,283,4,0,279,0,0,False,True
@@ -32917,30 +33027,30 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,NOR,,Vestfold og Telemark,59.493612,8.722188,250,0,0,250,0,0,False,True
 2020-04-15,NOR,,Vestland,60.952729,6.513828,729,0,0,729,0,0,False,True
 2020-04-15,NOR,,Viken,60.020274,9.849655,1836,0,0,1836,0,0,False,True
-2020-04-15,POL,,Dolnośląskie,51.07994,16.381483,754,25,0,729,0,0,True,True
-2020-04-15,POL,,Kujawsko-pomorskie,53.022235,18.502175,355,11,0,344,0,0,True,True
-2020-04-15,POL,,Łódzkie,51.559579,19.408271,567,9,0,558,0,0,True,True
+2020-04-15,POL,,Dolnośląskie,51.07994,16.381483,764,25,0,739,0,0,True,True
+2020-04-15,POL,,Kujawsko-pomorskie,53.022235,18.502175,359,12,0,347,0,0,True,True
+2020-04-15,POL,,Łódzkie,51.559579,19.408271,572,9,0,563,0,0,True,True
 2020-04-15,POL,,Lubelskie,51.247253,22.908895,270,10,0,260,0,0,True,True
 2020-04-15,POL,,Lubuskie,52.206458,15.345515,79,0,0,79,0,0,True,True
-2020-04-15,POL,,Małopolskie,49.842031,20.300847,551,14,0,537,0,0,True,True
-2020-04-15,POL,,Mazowieckie,52.309134,21.081201,1715,75,0,1640,0,0,True,True
-2020-04-15,POL,,Opolskie,50.621436,17.876844,216,7,0,209,0,0,True,True
-2020-04-15,POL,,Podkarpackie,49.962818,22.225966,237,13,0,224,0,0,True,True
-2020-04-15,POL,,Podlaskie,53.28395,22.895092,258,2,0,256,0,0,True,True
-2020-04-15,POL,,Pomorskie,54.129033,18.012613,177,1,0,176,0,0,True,True
-2020-04-15,POL,,Śląskie,50.318293,18.999987,980,53,0,927,0,0,True,True
-2020-04-15,POL,,Świętokrzyskie,50.734202,20.797295,161,2,0,159,0,0,True,True
-2020-04-15,POL,,Warmińsko-mazurskie,53.835464,20.758506,124,1,0,123,0,0,True,True
-2020-04-15,POL,,Wielkopolskie,52.283858,17.248218,750,43,0,707,0,0,True,True
-2020-04-15,POL,,Zachodniopomorskie,53.582707,15.634824,214,2,0,212,0,0,True,True
-2020-04-15,PRT,,Açores,37.775525,-25.494927,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Alentejo,38.485499,-8.006668,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Algarve,37.218389,-8.198488,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Centro,40.111812,-8.012768,0,0,0,0,0,0,True,True
+2020-04-15,POL,,Małopolskie,49.842031,20.300847,561,15,0,546,0,0,True,True
+2020-04-15,POL,,Mazowieckie,52.309134,21.081201,1792,83,0,1709,0,0,True,True
+2020-04-15,POL,,Opolskie,50.621436,17.876844,219,9,0,210,0,0,True,True
+2020-04-15,POL,,Podkarpackie,49.962818,22.225966,243,14,0,229,0,0,True,True
+2020-04-15,POL,,Podlaskie,53.28395,22.895092,259,2,0,257,0,0,True,True
+2020-04-15,POL,,Pomorskie,54.129033,18.012613,179,1,0,178,0,0,True,True
+2020-04-15,POL,,Śląskie,50.318293,18.999987,988,58,0,930,0,0,True,True
+2020-04-15,POL,,Świętokrzyskie,50.734202,20.797295,170,2,0,168,0,0,True,True
+2020-04-15,POL,,Warmińsko-mazurskie,53.835464,20.758506,125,1,0,124,0,0,True,True
+2020-04-15,POL,,Wielkopolskie,52.283858,17.248218,785,43,0,742,0,0,True,True
+2020-04-15,POL,,Zachodniopomorskie,53.582707,15.634824,217,2,0,215,0,0,True,True
+2020-04-15,PRT,,Açores,37.775525,-25.494927,100,4,0,96,0,0,True,True
+2020-04-15,PRT,,Alentejo,38.485499,-8.006668,155,0,0,155,0,0,True,True
+2020-04-15,PRT,,Algarve,37.218389,-8.198488,295,9,0,286,0,0,True,True
+2020-04-15,PRT,,Centro,40.111812,-8.012768,2629,136,0,2493,0,0,True,True
 2020-04-15,PRT,,Estrageiro,,,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Lisbon,38.623843,-8.88436,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Madeira,32.736252,-16.972663,0,0,0,0,0,0,True,True
-2020-04-15,PRT,,Norte,41.457206,-7.678153,0,0,0,0,0,0,True,True
+2020-04-15,PRT,,Lisbon,38.623843,-8.88436,4102,111,0,3991,0,0,True,True
+2020-04-15,PRT,,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
+2020-04-15,PRT,,Norte,41.457206,-7.678153,10751,339,0,10412,0,0,True,True
 2020-04-15,ROU,,Alba,46.172367,23.487279,0,0,0,0,0,0,True,True
 2020-04-15,ROU,,Arad,46.273235,21.758454,0,0,0,0,0,0,True,True
 2020-04-15,ROU,,Bacau,46.42171,26.773519,0,0,0,0,0,0,True,True
@@ -32980,87 +33090,89 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,ROU,,Tulcea,44.986929,28.858105,0,0,0,0,0,0,True,True
 2020-04-15,ROU,,Valcea,45.096033,24.110629,0,0,0,0,0,0,True,True
 2020-04-15,ROU,,Vrancea,45.788059,26.980214,0,0,0,0,0,0,True,True
-2020-04-15,RUS,,Adygea,44.448835,40.254013,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Altai,52.477021,83.868816,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Amur,53.418482,127.711639,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Arkhangelsk,63.448461,43.404188,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Astrakhan,47.116641,47.337406,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Bashkortostan,54.282013,56.528301,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Belgorod,50.881793,37.359083,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Bryansk,52.910301,33.406285,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Irkutsk,57.084283,106.290867,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Ivanovo,56.999219,41.726645,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Jewish AO,48.480815,131.765737,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kabardino-Balkaria,43.346964,43.521389,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kaliningrad,54.706026,21.456853,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kalmykia,46.421462,45.383808,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kaluga,54.355521,35.465025,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kamchatka,61.434398,166.788413,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Karachay-Cherkessia,43.884514,41.730394,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kemerovo,54.775411,87.209993,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Khabarovsk,50.88285,138.828598,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Khakassia,53.363558,89.854091,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Khanty-Mansi AO,61.853095,70.345732,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kirov,58.699332,49.846004,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Komi Republic,64.131117,54.772128,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kostroma,58.452918,43.818089,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Krasnodar,44.412298,39.233582,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Krasnoyarsk,67.008246,95.991218,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kurgan,55.471375,64.816337,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Kursk,51.702506,36.127326,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Leningrad,59.999111,31.74764,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Lipetsk,52.634465,39.187179,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Magadan,62.70596,154.035695,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Mari El,56.601523,47.942953,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Novgorod,58.280449,32.556615,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Novosibirsk,55.268094,79.765183,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Omsk,56.091609,73.362497,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Orenburg,52.670841,53.546526,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Oryol,52.792407,36.484837,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Penza,53.186558,44.659811,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Perm,59.150725,56.240625,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Primorsky,45.185147,134.763918,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Pskov,57.223881,29.258821,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Republic of Crimea,45.332961,34.380235,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Republic of Karelia,63.15587,32.990555,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Rostov,47.737084,41.33971,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Ryazan,54.306865,40.654571,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Saint Petersburg,59.771022,30.094098,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Sakhalin,50.334829,142.702744,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Samara,53.288173,50.470943,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Saratov,51.590364,46.830634,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Smolensk,54.928337,33.012683,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Stavropol,44.927805,43.400088,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Sverdlovsk,58.614763,61.561667,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tambov,52.657489,41.637192,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tatarstan,55.380928,50.93665,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tomsk,58.476777,82.134382,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tula,53.879118,37.584039,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tuva,94.79304,51.591419,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tver,57.063361,34.74855,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Tyumen,57.665236,69.167506,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Udmurtia,57.189719,52.811319,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Ulyanovsk,53.904749,47.963072,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Vladimir,55.994787,40.691957,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Volgograd,49.599612,44.184682,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Vologda,59.970929,40.523416,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Voronezh,50.959752,40.309955,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Yakutia,65.300749,134.148224,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Yamalo-Nenets AO,65.264795,74.023346,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Yaroslavl,57.862116,39.167901,0,0,0,0,0,0,False,False
-2020-04-15,RUS,,Zabaykalsky,52.83932,116.196137,0,0,0,0,0,0,False,False
+2020-04-15,RUS,,Adygea,44.448835,40.254013,27,0,0,27,0,0,False,False
+2020-04-15,RUS,,Altai,52.477021,83.868816,39,0,0,39,0,0,False,False
+2020-04-15,RUS,,Amur,53.418482,127.711639,6,0,0,6,0,0,False,False
+2020-04-15,RUS,,Arkhangelsk,63.448461,43.404188,32,0,0,32,0,0,False,False
+2020-04-15,RUS,,Astrakhan,47.116641,47.337406,47,0,0,47,0,0,False,False
+2020-04-15,RUS,,Bashkortostan,54.282013,56.528301,149,0,0,149,0,0,False,False
+2020-04-15,RUS,,Belgorod,50.881793,37.359083,45,0,0,45,0,0,False,False
+2020-04-15,RUS,,Bryansk,52.910301,33.406285,164,0,0,164,0,0,False,False
+2020-04-15,RUS,,Buryatia,54.550455,112.36994,98,0,0,98,0,0,False,False
+2020-04-15,RUS,,Chechnya,43.26872,45.799182,105,0,0,105,0,0,False,False
+2020-04-15,RUS,,Chelyabinsk,54.475139,60.413177,51,0,0,51,0,0,False,False
+2020-04-15,RUS,,Chukotka,,,1,0,0,1,0,0,False,False
+2020-04-15,RUS,,Chuvashia,55.507419,47.102483,78,0,0,78,0,0,False,False
+2020-04-15,RUS,,Dagestan,43.035568,46.873874,105,0,0,105,0,0,False,False
+2020-04-15,RUS,,Ingushetia,43.40517,44.8203,90,0,0,90,0,0,False,False
+2020-04-15,RUS,,Irkutsk,57.084283,106.290867,39,0,0,39,0,0,False,False
+2020-04-15,RUS,,Ivanovo,56.999219,41.726645,121,0,0,121,0,0,False,False
+2020-04-15,RUS,,Jewish AO,48.480815,131.765737,9,0,0,9,0,0,False,False
+2020-04-15,RUS,,Kabardino-Balkaria,43.346964,43.521389,50,0,0,50,0,0,False,False
+2020-04-15,RUS,,Kaliningrad,54.706026,21.456853,84,0,0,84,0,0,False,False
+2020-04-15,RUS,,Kalmykia,46.421462,45.383808,35,0,0,35,0,0,False,False
+2020-04-15,RUS,,Kaluga,54.355521,35.465025,74,0,0,74,0,0,False,False
+2020-04-15,RUS,,Kamchatka,61.434398,166.788413,10,0,0,10,0,0,False,False
+2020-04-15,RUS,,Karachay-Cherkessia,43.884514,41.730394,23,0,0,23,0,0,False,False
+2020-04-15,RUS,,Kemerovo,54.775411,87.209993,15,0,0,15,0,0,False,False
+2020-04-15,RUS,,Khabarovsk,50.88285,138.828598,77,0,0,77,0,0,False,False
+2020-04-15,RUS,,Khakassia,53.363558,89.854091,26,0,0,26,0,0,False,False
+2020-04-15,RUS,,Khanty-Mansi AO,61.853095,70.345732,71,0,0,71,0,0,False,False
+2020-04-15,RUS,,Kirov,58.699332,49.846004,64,0,0,64,0,0,False,False
+2020-04-15,RUS,,Komi Republic,64.131117,54.772128,402,0,0,402,0,0,False,False
+2020-04-15,RUS,,Kostroma,58.452918,43.818089,27,0,0,27,0,0,False,False
+2020-04-15,RUS,,Krasnodar,44.412298,39.233582,239,0,0,239,0,0,False,False
+2020-04-15,RUS,,Krasnoyarsk,67.008246,95.991218,142,0,0,142,0,0,False,False
+2020-04-15,RUS,,Kurgan,55.471375,64.816337,10,0,0,10,0,0,False,False
+2020-04-15,RUS,,Kursk,51.702506,36.127326,89,0,0,89,0,0,False,False
+2020-04-15,RUS,,Leningrad,59.999111,31.74764,298,0,0,298,0,0,False,False
+2020-04-15,RUS,,Lipetsk,52.634465,39.187179,85,0,0,85,0,0,False,False
+2020-04-15,RUS,,Magadan,62.70596,154.035695,3,0,0,3,0,0,False,False
+2020-04-15,RUS,,Mari El,56.601523,47.942953,118,0,0,118,0,0,False,False
+2020-04-15,RUS,,Mordovia,54.520508,45.58471,71,0,0,71,0,0,False,False
+2020-04-15,RUS,,Moscow,55.644315,37.666104,17363,0,0,17363,0,0,False,False
+2020-04-15,RUS,,Murmansk,67.805244,34.572247,265,0,0,265,0,0,False,False
+2020-04-15,RUS,,Nenets,,,1,0,0,1,0,0,False,False
+2020-04-15,RUS,,Nizhny Novgorod,56.279395,44.645749,339,0,0,339,0,0,False,False
+2020-04-15,RUS,,North Ossetia-Alania,43.053883,44.325278,52,0,0,52,0,0,False,False
+2020-04-15,RUS,,NOT SPECIFIED,,,0,198,0,-198,0,0,False,False
+2020-04-15,RUS,,Novgorod,58.280449,32.556615,26,0,0,26,0,0,False,False
+2020-04-15,RUS,,Novosibirsk,55.268094,79.765183,53,0,0,53,0,0,False,False
+2020-04-15,RUS,,Omsk,56.091609,73.362497,22,0,0,22,0,0,False,False
+2020-04-15,RUS,,Orenburg,52.670841,53.546526,54,0,0,54,0,0,False,False
+2020-04-15,RUS,,Oryol,52.792407,36.484837,41,0,0,41,0,0,False,False
+2020-04-15,RUS,,Penza,53.186558,44.659811,100,0,0,100,0,0,False,False
+2020-04-15,RUS,,Perm,59.150725,56.240625,114,0,0,114,0,0,False,False
+2020-04-15,RUS,,Primorsky,45.185147,134.763918,36,0,0,36,0,0,False,False
+2020-04-15,RUS,,Pskov,57.223881,29.258821,27,0,0,27,0,0,False,False
+2020-04-15,RUS,,Republic of Crimea,45.332961,34.380235,42,0,0,42,0,0,False,False
+2020-04-15,RUS,,Republic of Karelia,63.15587,32.990555,7,0,0,7,0,0,False,False
+2020-04-15,RUS,,Rostov,47.737084,41.33971,104,0,0,104,0,0,False,False
+2020-04-15,RUS,,Ryazan,54.306865,40.654571,116,0,0,116,0,0,False,False
+2020-04-15,RUS,,Saint Petersburg,59.771022,30.094098,929,0,0,929,0,0,False,False
+2020-04-15,RUS,,Sakhalin,50.334829,142.702744,12,0,0,12,0,0,False,False
+2020-04-15,RUS,,Samara,53.288173,50.470943,40,0,0,40,0,0,False,False
+2020-04-15,RUS,,Saratov,51.590364,46.830634,56,0,0,56,0,0,False,False
+2020-04-15,RUS,,Smolensk,54.928337,33.012683,106,0,0,106,0,0,False,False
+2020-04-15,RUS,,Stavropol,44.927805,43.400088,115,0,0,115,0,0,False,False
+2020-04-15,RUS,,Sverdlovsk,58.614763,61.561667,105,0,0,105,0,0,False,False
+2020-04-15,RUS,,Tambov,52.657489,41.637192,83,0,0,83,0,0,False,False
+2020-04-15,RUS,,Tatarstan,55.380928,50.93665,107,0,0,107,0,0,False,False
+2020-04-15,RUS,,Tomsk,58.476777,82.134382,15,0,0,15,0,0,False,False
+2020-04-15,RUS,,Tula,53.879118,37.584039,130,0,0,130,0,0,False,False
+2020-04-15,RUS,,Tuva,94.79304,51.591419,6,0,0,6,0,0,False,False
+2020-04-15,RUS,,Tver,57.063361,34.74855,117,0,0,117,0,0,False,False
+2020-04-15,RUS,,Tyumen,57.665236,69.167506,85,0,0,85,0,0,False,False
+2020-04-15,RUS,,Udmurtia,57.189719,52.811319,27,0,0,27,0,0,False,False
+2020-04-15,RUS,,Ulyanovsk,53.904749,47.963072,104,0,0,104,0,0,False,False
+2020-04-15,RUS,,Vladimir,55.994787,40.691957,145,0,0,145,0,0,False,False
+2020-04-15,RUS,,Volgograd,49.599612,44.184682,47,0,0,47,0,0,False,False
+2020-04-15,RUS,,Vologda,59.970929,40.523416,52,0,0,52,0,0,False,False
+2020-04-15,RUS,,Voronezh,50.959752,40.309955,75,0,0,75,0,0,False,False
+2020-04-15,RUS,,Yakutia,65.300749,134.148224,33,0,0,33,0,0,False,False
+2020-04-15,RUS,,Yamalo-Nenets AO,65.264795,74.023346,73,0,0,73,0,0,False,False
+2020-04-15,RUS,,Yaroslavl,57.862116,39.167901,39,0,0,39,0,0,False,False
+2020-04-15,RUS,,Zabaykalsky,52.83932,116.196137,14,0,0,14,0,0,False,False
 2020-04-15,SMR,,San Marino,43.942973,12.460035,372,36,0,336,0,0,False,False
 2020-04-15,SRB,,Serbia,44.206802,20.911009,4054,84,0,3970,0,0,False,True
 2020-04-15,SVK,,Banská Bystrica,48.51568,19.499999,0,0,0,0,0,0,True,True
@@ -33106,28 +33218,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,ESP,,País Vasco,43.032149,-2.62166,11475,902,5428,5145,5750,471,True,True
 2020-04-15,ESP,,Principado de Asturias,43.292312,-5.992988,2096,166,487,1443,1387,114,True,True
 2020-04-15,ESP,,Región de Murcia,38.002069,-1.485219,1520,109,513,898,574,97,True,True
-2020-04-15,SWE,,Blekinge,56.279696,15.193246,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Dalarna,60.952955,14.350603,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Gävleborg,61.440899,16.291105,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Gotland,57.487051,18.510063,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Halland,56.953555,12.842898,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Jämtland,63.251956,14.312747,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Jönköping,57.499911,14.436577,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Kalmar,57.245033,16.053939,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Kronoberg,56.786938,14.574736,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Norrbotten,66.954122,20.083057,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Örebro,59.350249,14.974992,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Östergötland,58.354622,15.661533,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Skåne,55.948711,13.596415,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Södermanland,59.077751,16.685977,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Stockholm,59.370877,17.711874,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Uppsala,60.039134,17.672887,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Värmland,59.768908,13.153806,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Västerbotten,64.862069,17.819194,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Västernorrland,63.096635,17.251241,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Västmanland,59.801595,16.318208,0,0,0,0,0,0,True,True
-2020-04-15,SWE,,Västra Götaland,58.303302,12.891496,0,0,0,0,0,0,True,True
+2020-04-15,SWE,,Blekinge,56.279696,15.193246,43,0,0,43,0,0,True,True
+2020-04-15,SWE,,Dalarna,60.952955,14.350603,378,0,0,378,0,0,True,True
+2020-04-15,SWE,,Gävleborg,61.440899,16.291105,316,0,0,316,0,0,True,True
+2020-04-15,SWE,,Gotland,57.487051,18.510063,16,0,0,16,0,0,True,True
+2020-04-15,SWE,,Halland,56.953555,12.842898,194,0,0,194,0,0,True,True
+2020-04-15,SWE,,Jämtland,63.251956,14.312747,155,0,0,155,0,0,True,True
+2020-04-15,SWE,,Jönköping,57.499911,14.436577,367,0,0,367,0,0,True,True
+2020-04-15,SWE,,Kalmar,57.245033,16.053939,82,0,0,82,0,0,True,True
+2020-04-15,SWE,,Kronoberg,56.786938,14.574736,109,0,0,109,0,0,True,True
+2020-04-15,SWE,,Norrbotten,66.954122,20.083057,158,0,0,158,0,0,True,True
+2020-04-15,SWE,,NOT SPECIFIED,,,0,1203,0,-1203,0,954,True,True
+2020-04-15,SWE,,Örebro,59.350249,14.974992,401,0,0,401,0,0,True,True
+2020-04-15,SWE,,Östergötland,58.354622,15.661533,1041,0,0,1041,0,0,True,True
+2020-04-15,SWE,,Skåne,55.948711,13.596415,481,0,0,481,0,0,True,True
+2020-04-15,SWE,,Södermanland,59.077751,16.685977,711,0,0,711,0,0,True,True
+2020-04-15,SWE,,Stockholm,59.370877,17.711874,4990,0,0,4990,0,0,True,True
+2020-04-15,SWE,,Uppsala,60.039134,17.672887,517,0,0,517,0,0,True,True
+2020-04-15,SWE,,Värmland,59.768908,13.153806,84,0,0,84,0,0,True,True
+2020-04-15,SWE,,Västerbotten,64.862069,17.819194,192,0,0,192,0,0,True,True
+2020-04-15,SWE,,Västernorrland,63.096635,17.251241,117,0,0,117,0,0,True,True
+2020-04-15,SWE,,Västmanland,59.801595,16.318208,404,0,0,404,0,0,True,True
+2020-04-15,SWE,,Västra Götaland,58.303302,12.891496,1171,0,0,1171,0,0,True,True
 2020-04-15,CHE,,Aargau,47.410914,8.159107,912,19,400,493,78,22,False,False
 2020-04-15,CHE,,Appenzell Ausserrhoden,47.387404,9.413371,79,3,0,76,6,0,False,False
 2020-04-15,CHE,,Appenzell Innerrhoden,47.308617,9.403544,24,0,0,24,1,0,False,False
@@ -33156,7 +33268,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,CHE,,Zug,47.161402,8.538864,171,5,92,74,13,9,False,False
 2020-04-15,CHE,,Zurich,47.417407,8.655988,3067,78,0,2989,149,0,False,False
 2020-04-15,TUR,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-04-15,TUR,,Turkey,38.961515,35.25175,0,0,0,0,0,0,False,True
+2020-04-15,TUR,,Turkey,38.961515,35.25175,69392,1518,0,67874,0,0,False,True
 2020-04-15,UKR,,Cherkasy,49.253559,31.378329,105,0,0,105,0,0,False,False
 2020-04-15,UKR,,Chernihiv,51.347162,32.016707,10,0,0,10,0,0,False,False
 2020-04-15,UKR,,Chernivtsi,48.269841,25.97109,589,0,0,589,0,0,False,False
@@ -33183,29 +33295,624 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,UKR,,Volyn,51.202858,24.883489,100,0,0,100,0,0,False,False
 2020-04-15,UKR,,Zaporizhzhia,47.251409,35.699543,99,0,0,99,0,0,False,False
 2020-04-15,UKR,,Zhytomyr,50.642612,28.484557,130,0,0,130,0,0,False,False
-2020-04-15,GBR,,Ayrshire and Arran,55.426356,-4.533604,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Borders,55.572787,-2.786355,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Dumfries and Galloway,55.076034,-3.953164,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,East of England,52.248898,0.548756,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Eileanan Siar (Western Isles),57.759892,-7.019403,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,England,,,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Fife,56.228968,-3.118568,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Forth Valley,56.211063,-4.237248,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Grampian,57.299016,-2.780773,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Greater Glasgow and Clyde,55.88154,-4.438215,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Highland,57.363501,-4.733034,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Lanarkshire,55.666656,-3.832477,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,London,51.497136,-0.100571,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Lothian,55.946009,-2.728265,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Midlands,52.718351,-1.45667,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,North East and Yorkshire,54.022719,-1.268789,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,North West,53.524488,-2.333125,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Northern Ireland,54.787715,-6.492314,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Orkney,58.98094,-2.960521,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Scotland,56.490671,-4.202646,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Shetland,60.29623,-1.346738,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,South East,51.291417,-0.521902,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,South West,51.239761,-2.54375,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Tayside,56.610323,-3.555213,0,0,0,0,0,0,False,True
-2020-04-15,GBR,,Wales,52.302413,-3.738347,0,0,0,0,0,0,False,True
+2020-04-15,GBR,,Ayrshire and Arran,55.426356,-4.533604,457,0,0,457,0,0,False,True
+2020-04-15,GBR,,Borders,55.572787,-2.786355,215,0,0,215,0,0,False,True
+2020-04-15,GBR,,Dumfries and Galloway,55.076034,-3.953164,207,0,0,207,0,0,False,True
+2020-04-15,GBR,,East of England,52.248898,0.548756,6232,0,0,6232,0,0,False,True
+2020-04-15,GBR,,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-04-15,GBR,,England,,,3003,11656,0,-8653,0,0,False,True
+2020-04-15,GBR,,Fife,56.228968,-3.118568,424,0,0,424,0,0,False,True
+2020-04-15,GBR,,Forth Valley,56.211063,-4.237248,380,0,0,380,0,0,False,True
+2020-04-15,GBR,,Grampian,57.299016,-2.780773,357,0,0,357,0,0,False,True
+2020-04-15,GBR,,Greater Glasgow and Clyde,55.88154,-4.438215,1661,0,0,1661,0,0,False,True
+2020-04-15,GBR,,Highland,57.363501,-4.733034,180,0,0,180,0,0,False,True
+2020-04-15,GBR,,Lanarkshire,55.666656,-3.832477,873,0,0,873,0,0,False,True
+2020-04-15,GBR,,London,51.497136,-0.100571,18951,0,0,18951,0,0,False,True
+2020-04-15,GBR,,Lothian,55.946009,-2.728265,1040,0,0,1040,0,0,False,True
+2020-04-15,GBR,,Midlands,52.718351,-1.45667,12396,0,0,12396,0,0,False,True
+2020-04-15,GBR,,North East and Yorkshire,54.022719,-1.268789,10210,0,0,10210,0,0,False,True
+2020-04-15,GBR,,North West,53.524488,-2.333125,11591,0,0,11591,0,0,False,True
+2020-04-15,GBR,,Northern Ireland,54.787715,-6.492314,2088,134,0,1954,0,0,False,True
+2020-04-15,GBR,,NOT SPECIFIED,,,7151,0,0,7151,0,0,False,True
+2020-04-15,GBR,,Orkney,58.98094,-2.960521,5,0,0,5,0,0,False,True
+2020-04-15,GBR,,Scotland,56.490671,-4.202646,0,615,0,-615,0,0,False,True
+2020-04-15,GBR,,Shetland,60.29623,-1.346738,45,0,0,45,0,0,False,True
+2020-04-15,GBR,,South East,51.291417,-0.521902,10214,0,0,10214,0,0,False,True
+2020-04-15,GBR,,South West,51.239761,-2.54375,3774,0,0,3774,0,0,False,True
+2020-04-15,GBR,,Tayside,56.610323,-3.555213,898,0,0,898,0,0,False,True
+2020-04-15,GBR,,Wales,52.302413,-3.738347,6118,463,0,5655,0,0,False,True
+2020-04-16,ALB,,Berat,40.6285,20.090775,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Durrës,41.518365,19.651766,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Elbasan,41.040028,20.186454,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Fier,40.774633,19.620528,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Korçë,40.62883,20.666004,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Kukës,42.066696,20.419467,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Lezhë,41.801452,19.845695,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Shkodër,42.17682,19.719451,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Tiranë,41.268583,19.793936,0,0,0,0,0,0,False,False
+2020-04-16,ALB,,Vlorë,40.162418,19.793592,0,0,0,0,0,0,False,False
+2020-04-16,AND,,Andorra,42.542268,1.596865,0,0,0,0,0,0,False,False
+2020-04-16,AUT,,Burgenland,47.541449,16.520206,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Kärnten,46.715832,14.455532,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Niederösterreich,48.27051,15.763245,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Oberösterreich,48.138166,13.964295,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Salzburg,47.254051,13.032653,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Steiermark,47.187361,15.518046,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Tirol,47.209023,11.397603,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Vorarlberg,47.240149,9.896366,0,0,0,0,0,0,True,True
+2020-04-16,AUT,,Wien,48.21141,16.380038,0,0,0,0,0,0,True,True
+2020-04-16,BLR,,Belarus,53.711111,27.973847,0,0,0,0,0,0,False,False
+2020-04-16,BEL,,Brussels,50.836426,4.367415,0,0,0,0,0,0,True,True
+2020-04-16,BEL,,Flanders,51.036569,4.234165,0,0,0,0,0,0,True,True
+2020-04-16,BEL,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,BEL,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,BEL,,Wallonia,50.312074,5.019093,0,0,0,0,0,0,True,True
+2020-04-16,BIH,,Bosnia and Herzegovina,43.892652,17.670584,0,0,0,0,0,0,False,False
+2020-04-16,BGR,,Blagoevgrad,41.72282,23.424299,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Burgas,42.491848,27.306892,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Dobrich,43.65074,27.936751,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Gabrovo,42.931879,25.247163,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Haskovo,41.849113,25.942349,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Kardzhali,41.527042,25.441477,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Kyustendil,42.255307,22.869974,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Lovech,43.035259,24.5688,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Montana,43.496677,23.192363,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Pazardzhik,42.133682,24.140941,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Pernik,42.613861,22.853171,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Pleven,43.486117,24.610919,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Plovdiv,42.257364,24.824903,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Ruse,43.54059,25.759217,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Shumen,43.296516,27.004814,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Silistra,43.946163,27.044927,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Sliven,42.67034,26.241026,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Smolyan,41.628892,24.668089,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Sofia City,42.286287,23.616846,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Stara Zagora,42.411912,25.567329,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Varna,43.186206,27.59493,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Veliko Tarnovo,43.189524,25.649275,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Vidin,43.797295,22.68621,0,0,0,0,0,0,True,True
+2020-04-16,BGR,,Vratsa,43.395067,23.759152,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Bjelovarsko-bilogorska,45.739855,16.976657,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Brodsko-Posavska,45.142404,17.821388,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Dubrovačko-neretvanska,42.662368,18.15083,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Grad Zagreb,45.742196,16.008116,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Istarska,45.203521,13.895312,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Karlovačka,45.292126,15.46427,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Koprivničko-križevačka,46.066232,16.571467,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Krapinsko-zagorska županija,46.09492,15.919072,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Ličko-senjska,44.69075,15.422344,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Međimurska,46.410728,16.508315,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Osječko-baranjska,45.56139,18.442456,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Požeško-slavonska,45.404899,17.562893,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Primorsko-Goranska,45.367738,14.701448,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Šibensko-kninska,43.89492,16.07332,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Sisačko-moslavačka,45.365583,16.424137,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Splitsko-Dalmatinska,43.613438,16.730085,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Varaždinska,46.250434,16.293818,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Virovitičko-podravska,45.831646,17.385543,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Vukovarsko-srijemska,45.179126,18.877963,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Zadarska,44.347845,15.959404,0,0,0,0,0,0,True,True
+2020-04-16,HRV,,Zagrebačka,45.82762,16.381796,0,0,0,0,0,0,True,True
+2020-04-16,CYP,,Cyprus,35.167406,33.435499,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Jihoceský,49.093362,14.439278,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Jihomoravský,49.079446,16.663916,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Karlovarský,50.170136,12.763213,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Královéhradecký,50.385055,15.865137,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Liberecký,50.732038,14.973755,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Moravskoslezský,49.780617,18.000931,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Olomoucký,49.823636,17.016472,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Pardubický,49.877869,16.495746,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Plzenský,49.590906,13.23222,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Prague,50.063699,14.476403,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Stredoceský,50.101074,15.003747,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Ústecký,50.488308,13.816736,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Vysocina,49.40736,15.689937,0,0,0,0,0,0,True,True
+2020-04-16,CZE,,Zlínský,49.239654,17.770218,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Faroe,62.194921,-7.096614,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Greenland,71.702379,-42.177174,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Hovedstaden,55.675758,12.56902,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Midtjylland,56.302139,9.302777,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Nordjylland,56.830742,9.493053,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Sjælland,55.92481,11.67126,0,0,0,0,0,0,True,True
+2020-04-16,DNK,,Syddanmark,55.675758,12.56902,0,0,0,0,0,0,True,True
+2020-04-16,EST,,Estonia,58.596209,25.023778,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Ahvenanmaa,60.240625,19.966666,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Etelä-Karjala,61.217899,28.550289,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Etelä-Pohjanmaa,62.833356,23.05691,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Etelä-Savo,61.813578,27.347685,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,HUS,60.408524,24.7817,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Itä-Savo,62.073919,28.846114,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Kainuu,64.373656,28.743748,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Kanta-Häme,60.921424,24.354383,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Keski-Pohjanmaa,63.626887,24.066596,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Keski-Suomi,62.629133,25.476526,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Kymenlaakso,60.826543,26.889951,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Länsi-Pohja,66.133479,24.762611,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Lappi,67.847438,26.444542,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Päijät-Häme,61.217271,25.721465,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Pirkanmaa,61.715017,23.913902,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Pohjois-Karjala,62.918285,29.941761,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Pohjois-Pohjanmaa,64.217762,25.29512,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Pohjois-Savo,63.173162,27.465765,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Satakunta,61.527072,22.157717,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Vaasa,63.077479,22.196054,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,Varsinais-Suomi,60.590424,22.623677,0,0,0,0,0,0,True,True
+2020-04-16,FIN,,West North,,,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Auvergne-Rhône-Alpes,45.283026,4.624017,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Bourgogne-Franche-Comté,47.234197,4.806917,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Bretagne,48.181767,-2.840778,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Centre-Val de Loire,47.751569,1.675063,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Corse,42.151732,9.105559,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Grand Est,48.688738,5.613275,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Guadeloupe,16.192207,-61.272382,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Guyane,3.926082,-53.245309,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Hauts-de-France,49.96966,2.770434,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Île-de-France,48.709229,2.503473,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,La Réunion,-20.89066,55.455054,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Martinique,14.63554,-61.022814,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Mayotte,-12.824511,45.165455,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Normandie,48.880101,-0.073045,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Nouvelle-Aquitaine,45.479897,0.410462,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Occitanie,43.703195,2.143601,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Pays de la Loire,47.479115,-0.811996,0,0,0,0,0,0,True,True
+2020-04-16,FRA,,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Baden-Württemberg,48.537648,9.049199,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Bayern,48.947574,11.419913,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Berlin,52.501532,13.40185,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Brandenburg,53.109014,12.140724,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Bremen,53.108678,8.785951,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Hamburg,53.54464,10.027798,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Hessen,50.603242,9.031057,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Mecklenburg-Vorpommern,53.721962,12.496035,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Niedersachsen,52.765527,9.162019,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Nordrhein-Westfalen,51.479706,7.56208,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Repatriierte,,,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Rheinland-Pfalz,49.50932,7.909356,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Saarland,49.384368,6.953135,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Sachsen,51.052334,13.348561,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Sachsen-Anhalt,52.013193,11.700691,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Schleswig Holstein,54.0295,9.705555,0,0,0,0,0,0,True,True
+2020-04-16,DEU,,Thüringen,50.903878,11.02488,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Achaea,38.116381,21.862704,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Aitolia and Akarnania,38.666667,21.416667,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Argolis,37.596538,22.863975,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Arkadias,37.461206,22.327779,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Arta,39.245971,21.103804,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Athens,37.997492,23.762727,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Athos,40.326111,24.094376,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Beozia,38.367847,23.088513,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Chania,35.380719,23.918626,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Corfu,39.709041,19.751814,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Corinth,37.911732,22.70582,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Cyclades,37.061014,25.483998,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Dodecaneso,36.184828,27.952756,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Drama,41.297502,24.181932,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,East Attica,37.920984,23.858621,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Elis,37.73,21.56521,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Euboea,38.555118,23.793427,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Evros,41.064778,26.12942,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Florina,40.750526,21.428093,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Fthiotis,38.985561,22.212806,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Grevenon,40.022103,21.432045,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Heraklion,35.138839,25.118682,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Ikaria,37.596723,26.112308,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Ioannina,39.810149,20.805055,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Kastoria,40.461316,21.154636,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Kavalas,41.053007,24.573321,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Kefalonia,38.222972,20.574409,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Khalkidiki,40.318124,23.552648,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Khios,38.385418,26.079931,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Kilkis,41.025631,22.75541,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Kozani,40.381888,21.628163,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Laconia,36.918108,22.710877,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Larissa,39.701311,22.39723,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Lasithi,35.171255,25.627696,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Lefkadas,38.708067,20.647757,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Lesbos,39.074583,26.223748,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Magnesia,39.21647,22.704791,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Messinia,37.094459,21.774146,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Pella,40.884899,22.128273,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Pieria,40.257022,22.439796,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Pireas,37.496654,23.343615,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Prevezas,39.309766,20.375076,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Rethymnon,35.265379,24.62573,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Rodopi,41.111377,25.506941,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Serron,41.09138,23.52362,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Tessaloniki,40.687597,23.115933,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Trikalon,39.63943,21.598219,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,West Attica,38.092941,23.395355,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Xanthis,41.168776,24.88364,0,0,0,0,0,0,True,True
+2020-04-16,GRC,,Zakynthos,37.785045,20.774553,0,0,0,0,0,0,True,True
+2020-04-16,HUN,,Bács-Kiskun,46.563665,19.374746,22,0,0,22,0,0,True,True
+2020-04-16,HUN,,Baranya,46.043048,18.197022,32,0,0,32,0,0,True,True
+2020-04-16,HUN,,Békés,46.735413,21.006326,12,0,0,12,0,0,True,True
+2020-04-16,HUN,,Borsod-Abaúj-Zemplén,48.200164,20.962472,50,0,0,50,0,0,True,True
+2020-04-16,HUN,,Budapest,47.486226,19.102958,805,0,0,805,0,0,True,True
+2020-04-16,HUN,,Csongrád,46.429441,20.23317,52,0,0,52,0,0,True,True
+2020-04-16,HUN,,Fejér,47.130985,18.532031,122,0,0,122,0,0,True,True
+2020-04-16,HUN,,Győr-Moson-Sopron,47.642476,17.280184,62,0,0,62,0,0,True,True
+2020-04-16,HUN,,Hajdú-Bihar,47.472629,21.459389,19,0,0,19,0,0,True,True
+2020-04-16,HUN,,Heves,47.856454,20.175008,13,0,0,13,0,0,True,True
+2020-04-16,HUN,,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-04-16,HUN,,Jász-Nagykun-Szolnok,47.112794,20.341909,16,0,0,16,0,0,True,True
+2020-04-16,HUN,,Komárom-Esztergom,47.610748,18.309797,21,0,0,21,0,0,True,True
+2020-04-16,HUN,,Nógrád,47.988372,19.52022,19,0,0,19,0,0,True,True
+2020-04-16,HUN,,NOT SPECIFIED,,,0,142,0,-142,0,0,True,True
+2020-04-16,HUN,,Pest,47.252834,19.743062,249,0,0,249,0,0,True,True
+2020-04-16,HUN,,Somogy,46.452574,17.603217,21,0,0,21,0,0,True,True
+2020-04-16,HUN,,Szabolcs-Szatmár-Bereg,47.998398,22.083465,42,0,0,42,0,0,True,True
+2020-04-16,HUN,,Tolna,46.512422,18.535403,14,0,0,14,0,0,True,True
+2020-04-16,HUN,,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
+2020-04-16,HUN,,Veszprém,47.131402,17.65231,34,0,0,34,0,0,True,True
+2020-04-16,HUN,,Zala,46.692149,16.903237,33,0,0,33,0,0,True,True
+2020-04-16,ISL,,Abroad,,,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,East Iceland,64.832997,-15.743398,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,Greater Reykjavík,64.155049,-21.636153,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,Northeast Iceland,65.534498,-17.118685,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,Northwest Iceland,65.367006,-19.676714,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,South Iceland,64.135334,-19.242939,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,Suðurnes Peninsula,63.930366,-22.310028,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,West Fjords,65.820831,-21.86654,0,0,0,0,0,0,False,True
+2020-04-16,ISL,,West Iceland,64.843136,-21.691436,0,0,0,0,0,0,False,True
+2020-04-16,IRL,,Ireland,53.41975,-8.240472,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Abruzzo,42.228034,13.855137,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Basilicata,40.500665,16.082246,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Bolzano,46.697344,11.417082,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Calabria,39.225585,16.418474,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Campania,41.059945,14.785097,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Emilia-Romagna,44.536563,11.019909,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Friuli Venezia Giulia,46.155667,13.058636,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Lazio,41.981132,12.767224,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Liguria,44.144781,8.140492,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Lombardia,45.622479,9.770824,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Marche,43.366624,13.106678,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Molise,41.597834,14.548702,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Piemonte,45.060965,7.926836,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Puglia,40.984631,16.620464,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Sardegna,40.090225,9.036223,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Sicilia,37.587635,14.155497,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Toscana,43.459993,11.136697,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Trento,46.139153,10.830791,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Umbria,42.966781,12.49094,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Valle d'Aosta,45.732414,7.393651,0,0,0,0,0,0,True,True
+2020-04-16,ITA,,Veneto,45.664735,11.84235,0,0,0,0,0,0,True,True
+2020-04-16,LVA,,Latvia,56.875584,24.607722,0,0,0,0,0,0,True,True
+2020-04-16,LIE,,Liechtenstein,47.164696,9.555,0,0,0,0,0,0,False,False
+2020-04-16,LIE,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
+2020-04-16,LTU,,Lithuania,55.174112,23.906736,0,0,0,0,0,0,True,True
+2020-04-16,LUX,,Luxembourg,49.815764,6.131514,0,0,0,0,0,0,True,True
+2020-04-16,MLT,,Malta,35.946151,14.384612,0,0,0,0,0,0,True,True
+2020-04-16,MDA,,Moldova,46.979527,28.377195,0,0,0,0,0,0,False,False
+2020-04-16,MCO,,Monaco,43.738348,7.424451,0,0,0,0,0,0,False,False
+2020-04-16,MNE,,Montenegro,42.710152,19.410069,0,0,0,0,0,0,False,True
+2020-04-16,NLD,,Drenthe,52.863149,6.623756,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Flevoland,52.436257,5.519078,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Friesland,53.089388,5.871457,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Gelderland,52.061726,5.945178,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Groningen,53.291466,6.700488,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Limburg,51.207579,5.936318,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,North Brabant,51.527534,5.590194,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,North Holland,52.551824,4.876581,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Overijssel,52.445136,6.4476,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,South Holland,51.968696,4.541274,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Utrecht,52.078728,5.214048,0,0,0,0,0,0,True,True
+2020-04-16,NLD,,Zeeland,51.312779,3.786651,0,0,0,0,0,0,True,True
+2020-04-16,MKD,,North Macedonia,41.611,21.751417,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Agder,58.699661,7.618403,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Innlandet,61.43354,10.427144,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Møre og Romsdal,62.543569,8.540539,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Nordland,66.679716,14.635752,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Oslo,59.979683,10.738335,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Outside mainland Norway,,,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Rogaland,58.58709,6.206792,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Troms og Finnmark,70.239335,26.12935,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Trøndelag,63.421183,11.529951,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Vestfold og Telemark,59.493612,8.722188,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Vestland,60.952729,6.513828,0,0,0,0,0,0,False,True
+2020-04-16,NOR,,Viken,60.020274,9.849655,0,0,0,0,0,0,False,True
+2020-04-16,POL,,Dolnośląskie,51.07994,16.381483,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Kujawsko-pomorskie,53.022235,18.502175,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Łódzkie,51.559579,19.408271,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Lubelskie,51.247253,22.908895,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Lubuskie,52.206458,15.345515,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Małopolskie,49.842031,20.300847,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Mazowieckie,52.309134,21.081201,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Opolskie,50.621436,17.876844,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Podkarpackie,49.962818,22.225966,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Podlaskie,53.28395,22.895092,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Pomorskie,54.129033,18.012613,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Śląskie,50.318293,18.999987,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Świętokrzyskie,50.734202,20.797295,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Warmińsko-mazurskie,53.835464,20.758506,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Wielkopolskie,52.283858,17.248218,0,0,0,0,0,0,True,True
+2020-04-16,POL,,Zachodniopomorskie,53.582707,15.634824,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Açores,37.775525,-25.494927,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Alentejo,38.485499,-8.006668,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Algarve,37.218389,-8.198488,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Centro,40.111812,-8.012768,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Estrageiro,,,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Lisbon,38.623843,-8.88436,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Madeira,32.736252,-16.972663,0,0,0,0,0,0,True,True
+2020-04-16,PRT,,Norte,41.457206,-7.678153,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Alba,46.172367,23.487279,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Arad,46.273235,21.758454,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Bacau,46.42171,26.773519,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Bihor,46.942178,22.210795,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Bistrița-Năsăud,47.237306,24.522034,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Botosani,47.85927,26.763139,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Bralia,45.0878,27.673222,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Brasov,45.765228,25.302188,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Bucuresti,44.442674,26.08861,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Buzau,45.245475,26.750309,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Calarasi,44.313456,27.020712,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Caras-Severin,45.150492,22.042977,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Cluj,46.812237,23.53594,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Constanta,44.244926,28.247767,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Covasna,45.938093,25.990767,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Dambovita,44.864944,25.496775,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Dolj,44.140792,23.613526,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Galati,45.792748,27.75769,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Giurgiu,44.144127,25.881413,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Gorj,45.004246,23.322863,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Hunedoara,45.753652,22.938806,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Ialomita,44.627356,27.256013,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Iasi,47.221224,27.311502,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Ilfov,44.286638,26.144699,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Maramureș,47.671302,23.981463,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Mehedinti,44.365324,22.737138,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Mures,46.609503,24.697133,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Neamt,46.969735,26.375809,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Olt,44.272504,24.439351,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Prahova,45.114672,26.015788,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Salaj,47.18438,23.106887,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Satu Mare,47.705953,22.898922,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Suceava,47.637703,25.82751,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Teleorman,44.027822,25.197899,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Timis,45.743832,21.377998,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Tulcea,44.986929,28.858105,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Valcea,45.096033,24.110629,0,0,0,0,0,0,True,True
+2020-04-16,ROU,,Vrancea,45.788059,26.980214,0,0,0,0,0,0,True,True
+2020-04-16,RUS,,Adygea,44.448835,40.254013,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Altai,52.477021,83.868816,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Amur,53.418482,127.711639,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Arkhangelsk,63.448461,43.404188,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Astrakhan,47.116641,47.337406,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Bashkortostan,54.282013,56.528301,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Belgorod,50.881793,37.359083,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Bryansk,52.910301,33.406285,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Buryatia,54.550455,112.36994,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Chechnya,43.26872,45.799182,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Chelyabinsk,54.475139,60.413177,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Chukotka,,,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Chuvashia,55.507419,47.102483,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Dagestan,43.035568,46.873874,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Ingushetia,43.40517,44.8203,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Irkutsk,57.084283,106.290867,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Ivanovo,56.999219,41.726645,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Jewish AO,48.480815,131.765737,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kabardino-Balkaria,43.346964,43.521389,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kaliningrad,54.706026,21.456853,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kalmykia,46.421462,45.383808,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kaluga,54.355521,35.465025,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kamchatka,61.434398,166.788413,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Karachay-Cherkessia,43.884514,41.730394,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kemerovo,54.775411,87.209993,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Khabarovsk,50.88285,138.828598,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Khakassia,53.363558,89.854091,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Khanty-Mansi AO,61.853095,70.345732,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kirov,58.699332,49.846004,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Komi Republic,64.131117,54.772128,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kostroma,58.452918,43.818089,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Krasnodar,44.412298,39.233582,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Krasnoyarsk,67.008246,95.991218,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kurgan,55.471375,64.816337,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Kursk,51.702506,36.127326,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Leningrad,59.999111,31.74764,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Lipetsk,52.634465,39.187179,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Magadan,62.70596,154.035695,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Mari El,56.601523,47.942953,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Mordovia,54.520508,45.58471,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Moscow,55.644315,37.666104,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Murmansk,67.805244,34.572247,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Nenets,,,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Nizhny Novgorod,56.279395,44.645749,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,North Ossetia-Alania,43.053883,44.325278,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Novgorod,58.280449,32.556615,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Novosibirsk,55.268094,79.765183,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Omsk,56.091609,73.362497,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Orenburg,52.670841,53.546526,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Oryol,52.792407,36.484837,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Penza,53.186558,44.659811,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Perm,59.150725,56.240625,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Primorsky,45.185147,134.763918,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Pskov,57.223881,29.258821,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Republic of Crimea,45.332961,34.380235,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Republic of Karelia,63.15587,32.990555,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Rostov,47.737084,41.33971,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Ryazan,54.306865,40.654571,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Saint Petersburg,59.771022,30.094098,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Sakhalin,50.334829,142.702744,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Samara,53.288173,50.470943,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Saratov,51.590364,46.830634,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Smolensk,54.928337,33.012683,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Stavropol,44.927805,43.400088,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Sverdlovsk,58.614763,61.561667,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tambov,52.657489,41.637192,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tatarstan,55.380928,50.93665,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tomsk,58.476777,82.134382,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tula,53.879118,37.584039,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tuva,94.79304,51.591419,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tver,57.063361,34.74855,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Tyumen,57.665236,69.167506,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Udmurtia,57.189719,52.811319,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Ulyanovsk,53.904749,47.963072,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Vladimir,55.994787,40.691957,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Volgograd,49.599612,44.184682,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Vologda,59.970929,40.523416,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Voronezh,50.959752,40.309955,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Yakutia,65.300749,134.148224,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Yamalo-Nenets AO,65.264795,74.023346,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Yaroslavl,57.862116,39.167901,0,0,0,0,0,0,False,False
+2020-04-16,RUS,,Zabaykalsky,52.83932,116.196137,0,0,0,0,0,0,False,False
+2020-04-16,SMR,,San Marino,43.942973,12.460035,0,0,0,0,0,0,False,False
+2020-04-16,SRB,,Serbia,44.206802,20.911009,0,0,0,0,0,0,False,True
+2020-04-16,SVK,,Banská Bystrica,48.51568,19.499999,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Bratislava,48.319003,17.17481,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Košice,48.771358,20.721931,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Nitra,48.140652,18.30311,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Prešov,49.126441,21.221321,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Trencín,48.858564,18.202196,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Trnava,48.222651,17.707847,0,0,0,0,0,0,True,True
+2020-04-16,SVK,,Zilina,49.178517,19.167163,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,"Obalno-kraške,",45.62157,13.972922,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,"Podravske,",46.474579,15.744954,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Pomurske,46.669889,16.174305,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Posavske,45.959782,15.434177,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Primorsko-notranjske,45.691165,14.290304,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Savinjske,46.263351,15.195189,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Slovenia,46.145528,14.974542,0,0,0,0,0,0,True,True
+2020-04-16,SVN,,Zasavske,46.133255,15.086872,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Andalucía,37.46363,-4.573552,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Aragón,41.519884,-0.660302,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Canarias,28.291062,-16.55631,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Cantabria,43.196326,-4.034401,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Castilla y León,41.751205,-4.788185,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Castilla-La Mancha,39.254442,-3.160863,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Cataluña,41.798,1.528534,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Ciudad Autónoma de Ceuta,35.895759,-5.358194,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Ciudad Autónoma de Melilla,35.298249,-2.948653,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Comunidad de Madrid,40.494962,-3.716057,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Comunidad Foral de Navarra,42.667549,-1.647658,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Comunidad Valenciana,39.390435,-0.543007,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Extremadura,39.191409,-6.150692,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Galicia,42.757079,-7.910384,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Illes Balears,39.613452,2.956607,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,La Rioja,42.275075,-2.517177,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,País Vasco,43.032149,-2.62166,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Principado de Asturias,43.292312,-5.992988,0,0,0,0,0,0,True,True
+2020-04-16,ESP,,Región de Murcia,38.002069,-1.485219,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Blekinge,56.279696,15.193246,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Dalarna,60.952955,14.350603,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Gävleborg,61.440899,16.291105,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Gotland,57.487051,18.510063,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Halland,56.953555,12.842898,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Jämtland,63.251956,14.312747,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Jönköping,57.499911,14.436577,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Kalmar,57.245033,16.053939,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Kronoberg,56.786938,14.574736,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Norrbotten,66.954122,20.083057,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Örebro,59.350249,14.974992,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Östergötland,58.354622,15.661533,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Skåne,55.948711,13.596415,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Södermanland,59.077751,16.685977,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Stockholm,59.370877,17.711874,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Uppsala,60.039134,17.672887,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Värmland,59.768908,13.153806,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Västerbotten,64.862069,17.819194,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Västernorrland,63.096635,17.251241,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Västmanland,59.801595,16.318208,0,0,0,0,0,0,True,True
+2020-04-16,SWE,,Västra Götaland,58.303302,12.891496,0,0,0,0,0,0,True,True
+2020-04-16,CHE,,Aargau,47.410914,8.159107,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Appenzell Ausserrhoden,47.387404,9.413371,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Appenzell Innerrhoden,47.308617,9.403544,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Basel City,47.561925,7.592768,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Basel Country,47.441812,7.7644,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Bern,46.825006,7.626925,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Fribourg,46.710334,7.09922,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Geneva,46.217114,6.131255,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Glarus,46.980518,9.065544,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Graubünden,46.658176,9.629923,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Jura,47.368327,7.198733,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Liechtenstein,47.164696,9.555,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Lucerne,47.06883,8.116991,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Neuchâtel,46.997282,6.782288,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Nidwalden,46.922198,8.419375,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Obwalden,46.857772,8.209745,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Schaffhausen,47.721853,8.563863,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Schwyz,47.06411,8.761568,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Solothurn,47.336648,7.686944,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,St. Gallen,47.305025,9.019368,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Thurgau,47.567205,9.112572,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Ticino,46.297963,8.808447,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Uri,46.775402,8.627444,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Valais,46.211633,7.611267,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Vaud,46.56176,6.648929,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Zug,47.161402,8.538864,0,0,0,0,0,0,False,False
+2020-04-16,CHE,,Zurich,47.417407,8.655988,0,0,0,0,0,0,False,False
+2020-04-16,TUR,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
+2020-04-16,TUR,,Turkey,38.961515,35.25175,0,0,0,0,0,0,False,True
+2020-04-16,UKR,,Cherkasy,49.253559,31.378329,110,0,0,110,0,0,False,False
+2020-04-16,UKR,,Chernihiv,51.347162,32.016707,11,0,0,11,0,0,False,False
+2020-04-16,UKR,,Chernivtsi,48.269841,25.97109,662,0,0,662,0,0,False,False
+2020-04-16,UKR,,Dnipropetrovsk,48.166611,33.952679,78,0,0,78,0,0,False,False
+2020-04-16,UKR,,Donetsk,48.04733,37.669412,12,0,0,12,0,0,False,False
+2020-04-16,UKR,,Ivano-Frankivsk,48.705101,24.609296,401,0,0,401,0,0,False,False
+2020-04-16,UKR,,Kharkiv,49.612761,36.514406,40,0,0,40,0,0,False,False
+2020-04-16,UKR,,Kherson,46.66268,33.577394,44,0,0,44,0,0,False,False
+2020-04-16,UKR,,Khmelnytsky,49.422983,26.987133,37,0,0,37,0,0,False,False
+2020-04-16,UKR,,Kiev region,49.843123,30.727949,234,0,0,234,0,0,False,False
+2020-04-16,UKR,,Kirovograd,48.507933,32.262317,198,0,0,198,0,0,False,False
+2020-04-16,UKR,,Kyiv,50.427074,30.530672,644,0,0,644,0,0,False,False
+2020-04-16,UKR,,Lugansk,48.574041,39.307815,4,0,0,4,0,0,False,False
+2020-04-16,UKR,,Lviv,49.724836,23.921202,166,0,0,166,0,0,False,False
+2020-04-16,UKR,,Mykolaiv,47.369854,31.706007,22,0,0,22,0,0,False,False
+2020-04-16,UKR,,NOT SPECIFIED,,,0,116,0,-116,0,0,False,False
+2020-04-16,UKR,,Odessa,46.891548,30.547979,73,0,0,73,0,0,False,False
+2020-04-16,UKR,,Poltava,49.713595,33.811322,27,0,0,27,0,0,False,False
+2020-04-16,UKR,,Rivne,51.043432,26.397584,204,0,0,204,0,0,False,False
+2020-04-16,UKR,,Sumy,51.393248,33.665627,80,0,0,80,0,0,False,False
+2020-04-16,UKR,,Ternopil,49.402562,25.640005,333,0,0,333,0,0,False,False
+2020-04-16,UKR,,Transcarpathian,48.405051,23.281219,116,0,0,116,0,0,False,False
+2020-04-16,UKR,,Vinnytsia,48.926546,28.692087,279,0,0,279,0,0,False,False
+2020-04-16,UKR,,Volyn,51.202858,24.883489,109,0,0,109,0,0,False,False
+2020-04-16,UKR,,Zaporizhzhia,47.251409,35.699543,115,0,0,115,0,0,False,False
+2020-04-16,UKR,,Zhytomyr,50.642612,28.484557,162,0,0,162,0,0,False,False
+2020-04-16,GBR,,Ayrshire and Arran,55.426356,-4.533604,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Borders,55.572787,-2.786355,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Dumfries and Galloway,55.076034,-3.953164,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,East of England,52.248898,0.548756,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Eileanan Siar (Western Isles),57.759892,-7.019403,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,England,,,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Fife,56.228968,-3.118568,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Forth Valley,56.211063,-4.237248,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Grampian,57.299016,-2.780773,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Greater Glasgow and Clyde,55.88154,-4.438215,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Highland,57.363501,-4.733034,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Lanarkshire,55.666656,-3.832477,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,London,51.497136,-0.100571,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Lothian,55.946009,-2.728265,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Midlands,52.718351,-1.45667,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,North East and Yorkshire,54.022719,-1.268789,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,North West,53.524488,-2.333125,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Northern Ireland,54.787715,-6.492314,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Orkney,58.98094,-2.960521,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Scotland,56.490671,-4.202646,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Shetland,60.29623,-1.346738,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,South East,51.291417,-0.521902,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,South West,51.239761,-2.54375,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Tayside,56.610323,-3.555213,0,0,0,0,0,0,False,True
+2020-04-16,GBR,,Wales,52.302413,-3.738347,0,0,0,0,0,0,False,True
