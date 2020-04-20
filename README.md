@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/ec-jrc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/ec-jrc/COVID-19)](https://github.com/ec-jrc/COVID-19/commits/master)
 
-## Overall introduction - <a href="https://webcritech.jrc.ec.europa.eu/covidSt/Home/Dashboard">ECML Covid</a>
+## Overall introduction - <a href="https://jrc-covid.azurewebsites.net/">ECML Covid</a>
 Since the outbreak of the COVID-19 crisis, the Joint Research Centre (JRC) has been supporting the European Commission in multidisciplinary areas to understand the COVID-19 emergency, anticipate its impacts, and support contingency planning. This activity forms part of a broader effort by JRC to contribute through crisis coordination mechanisms with the detection, monitoring and analysis of the COVID-19 outbreak.
 
 This website provides an overview of the monitoring in the area of the 34 UCPM Participating States plus Switzerland, related to:
