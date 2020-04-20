@@ -1,4 +1,4 @@
-Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-04-19,ALB,Albania,Berat,40.6285,20.090775,2,0,0,2,0,0,False,False
 2020-04-19,ALB,Albania,Durrës,41.518365,19.651766,60,0,0,60,0,0,False,False
 2020-04-19,ALB,Albania,Elbasan,41.040028,20.186454,16,0,0,16,0,0,False,False
