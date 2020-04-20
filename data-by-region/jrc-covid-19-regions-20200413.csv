@@ -1,4 +1,4 @@
-Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-04-13,ALB,Albania,Berat,40.6285,20.090775,2,0,0,2,0,0,False,False
 2020-04-13,ALB,Albania,Durrës,41.518365,19.651766,48,3,0,45,0,0,False,False
 2020-04-13,ALB,Albania,Elbasan,41.040028,20.186454,15,0,0,15,0,0,False,False
@@ -486,7 +486,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-13,SWE,Sweden,Kalmar,57.245033,16.053939,76,0,0,76,0,0,True,True
 2020-04-13,SWE,Sweden,Kronoberg,56.786938,14.574736,104,0,0,104,0,0,True,True
 2020-04-13,SWE,Sweden,Norrbotten,66.954122,20.083057,154,0,0,154,0,0,True,True
-2020-04-13,SWE,Sweden,NOT SPECIFIED,,,0,1033,0,-1033,0,915,True,True
+2020-04-13,SWE,Sweden,NOT SPECIFIED,,,0,1215,0,-1215,0,915,True,True
 2020-04-13,SWE,Sweden,Örebro,59.350249,14.974992,388,0,0,388,0,0,True,True
 2020-04-13,SWE,Sweden,Östergötland,58.354622,15.661533,1004,0,0,1004,0,0,True,True
 2020-04-13,SWE,Sweden,Skåne,55.948711,13.596415,458,0,0,458,0,0,True,True

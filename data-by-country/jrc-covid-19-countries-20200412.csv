@@ -1,4 +1,4 @@
-Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-04-12,ALB,Albania,41.156986,20.181222,446,23,0,423,0,0,False,False
 2020-04-12,AND,Andorra,42.542268,1.596865,622,28,0,594,0,0,False,False
 2020-04-12,AUT,Austria,47.697542,13.349319,13945,0,0,13945,0,0,True,True
@@ -13,7 +13,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-12,EST,Estonia,58.596209,25.023778,1309,25,0,1284,0,0,True,True
 2020-04-12,FIN,Finland,64.952416,26.068944,2996,0,0,2996,0,0,True,True
 2020-04-12,FRA,France,46.232193,2.209667,95403,9253,27186,58964,31826,6845,True,True
-2020-04-12,DEU,Germany,51.165706,10.452764,120481,1902,0,118579,0,0,True,True
+2020-04-12,DEU,Germany,51.165706,10.452764,120481,2673,60300,57508,0,0,True,True
 2020-04-12,GRC,Greece,38.275283,23.810343,2114,98,0,2016,0,0,True,True
 2020-04-12,HUN,Hungary,47.164638,19.508944,1849,99,0,1750,0,0,True,True
 2020-04-12,ISL,Iceland,64.963942,-19.021169,1701,0,0,1701,0,0,False,True
@@ -35,10 +35,10 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-12,RUS,Russian Fed.,61.523111,-74.9,15774,130,0,15644,0,0,False,False
 2020-04-12,SMR,San Marino,43.942973,12.460035,356,35,0,321,0,0,False,False
 2020-04-12,SRB,Serbia,44.206802,20.911009,3380,74,0,3306,0,0,False,True
-2020-04-12,SVK,Slovakia,48.665639,19.709097,769,2,0,767,0,0,True,True
+2020-04-12,SVK,Slovakia,48.665639,19.709097,769,0,0,769,0,0,True,True
 2020-04-12,SVN,Slovenia,46.145528,14.974541,2012,12,0,2000,0,0,True,True
 2020-04-12,ESP,Spain,39.896027,-2.487694,166019,16972,62391,86656,73465,7554,True,True
-2020-04-12,SWE,Sweden,62.199806,17.637493,10483,899,0,9584,0,839,True,True
+2020-04-12,SWE,Sweden,62.199806,17.637493,10483,1160,0,9323,0,839,True,True
 2020-04-12,CHE,Switzerland,46.815514,8.224472,25177,1051,3241,20885,1975,386,False,False
 2020-04-12,TUR,Turkey,38.961516,35.25175,56956,1198,0,55758,0,0,False,True
 2020-04-12,UKR,Ukraine,48.379888,31.168139,2777,83,0,2694,0,0,False,False

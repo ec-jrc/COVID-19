@@ -1,8 +1,9 @@
-Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-03-19,ALB,Albania,41.156986,20.181222,50,0,0,50,0,0,False,False
 2020-03-19,AND,Andorra,42.542268,1.596865,53,0,0,53,,,False,False
 2020-03-19,AUT,Austria,47.697542,13.349319,2013,,,,,,True,True
 2020-03-19,BLR,Belarus,53.711111,27.973847,46,0,0,46,0,0,False,False
+2020-03-19,BEL,Belgium,50.499527,4.475402,1795,21,0,1774,,,True,True
 2020-03-19,BIH,Bosnia and Herzegovina,43.892652,17.670584,17,0,0,17,0,0,False,False
 2020-03-18,HRV,Croatia,44.48732,16.460306,64,0,0,64,,,True,True
 2020-03-19,CYP,Cyprus,35.167406,33.435499,58,0,0,58,,,True,True
@@ -11,8 +12,8 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-03-19,EST,Estonia,58.596209,25.023778,267,0,0,267,0,0,True,True
 2020-03-19,FIN,Finland,64.952416,26.068944,309,0,0,309,,,True,True
 2020-03-19,FRA,France,46.232193,2.209667,10995,372,1300,9323,4461,1122,True,True
-2020-03-19,DEU,Germany,51.165706,10.452764,11001,20,,,,,True,True
-2020-03-19,GRC,Greece,38.275283,23.810343,436,9,0,427,0,0,True,True
+2020-03-19,DEU,Germany,51.165706,10.452764,11001,20,2040,8941,0,0,True,True
+2020-03-19,GRC,Greece,38.275283,23.810343,380,5,0,375,0,0,True,True
 2020-03-19,HUN,Hungary,47.164638,19.508944,70,1,0,69,0,0,True,True
 2020-03-19,ISL,Iceland,64.963942,-19.021169,330,0,0,330,,,False,True
 2020-03-19,IRL,Ireland,53.41975,-8.240472,557,3,0,554,,,True,True
@@ -32,7 +33,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-03-19,SVK,Slovakia,48.665639,19.709097,123,0,0,123,,,True,True
 2020-03-19,SVN,Slovenia,46.145528,14.974541,286,1,0,285,,,True,True
 2020-03-19,ESP,Spain,39.896027,-2.487694,17147,767,0,16380,0,939,True,True
-2020-03-19,SWE,Sweden,62.199806,17.637493,1423,10,0,1413,,,True,True
+2020-03-19,SWE,Sweden,62.199806,17.637493,1423,24,0,1399,0,0,True,True
 2020-03-19,CHE,Switzerland,46.815514,8.224472,5052,44,120,4888,527,99,False,False
 2020-03-19,TUR,Turkey,38.961516,35.25175,151,2,0,149,,,False,True
 2020-03-19,UKR,Ukraine,48.379888,31.168139,14,2,0,12,,,False,False

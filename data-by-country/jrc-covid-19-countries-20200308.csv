@@ -1,9 +1,8 @@
-Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-03-08,AUT,Austria,47.697542,13.349319,102,,,,,,True,True
-2020-03-04,CYP,Cyprus,35.167406,33.435499,744,14,0,730,0,0,True,True
-2020-03-07,FRA,France,46.232193,2.209667,952,16,0,936,0,45,True,True
-2020-03-08,DEU,Germany,51.165706,10.452764,904,,,,,,True,True
-2020-03-08,GRC,Greece,38.275283,23.810343,1498,81,0,1417,0,0,True,True
+2020-03-08,BEL,Belgium,50.499527,4.475402,200,,,,,,True,True
+2020-03-07,FRA,France,46.232193,2.209667,949,0,0,949,0,0,True,True
+2020-03-08,DEU,Germany,51.165706,10.452764,904,0,0,904,0,0,True,True
 2020-03-08,HUN,Hungary,47.164638,19.508944,7,0,0,7,0,0,True,True
 2020-03-08,ITA,Italy,41.873987,12.564167,7375,366,622,6387,4207,650,True,True
 2020-02-20,LVA,Latvia,56.875584,24.607722,-1,0,0,-1,,,True,True

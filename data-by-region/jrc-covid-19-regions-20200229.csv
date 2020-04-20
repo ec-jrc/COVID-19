@@ -1,4 +1,13 @@
-Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+2020-02-28,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,11,0,0,11,0,0,True,True
+2020-02-28,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,4,0,0,4,0,0,True,True
+2020-02-28,FRA,France,Bretagne,48.181767,-2.840778,1,0,0,1,0,0,True,True
+2020-02-28,FRA,France,Grand Est,48.688738,5.613275,1,0,0,1,0,0,True,True
+2020-02-28,FRA,France,Hauts-de-France,49.96966,2.770434,9,0,0,9,0,0,True,True
+2020-02-28,FRA,France,Île-de-France,48.709229,2.503473,9,0,0,9,0,0,True,True
+2020-02-28,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,0,0,True,True
+2020-02-28,FRA,France,Occitanie,43.703195,2.143601,1,0,0,1,0,0,True,True
+2020-02-28,FRA,France,Pays de la Loire,47.479115,-0.811996,1,0,0,1,0,0,True,True
 2020-02-29,DEU,Germany,Baden-Württemberg,48.537648,9.049199,14,,,,,,True,True
 2020-02-29,DEU,Germany,Bayern,48.947574,11.419913,15,,,,,,True,True
 2020-02-29,DEU,Germany,Hessen,50.603242,9.031057,3,,,,,,True,True

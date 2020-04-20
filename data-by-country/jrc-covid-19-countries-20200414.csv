@@ -1,4 +1,4 @@
-Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-04-13,ALB,Albania,41.156986,20.181222,467,24,0,443,0,0,False,False
 2020-04-14,AND,Andorra,42.542268,1.596865,646,29,0,617,0,0,False,False
 2020-04-14,AUT,Austria,47.697542,13.349319,14159,0,0,14159,0,0,True,True
@@ -12,7 +12,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-14,DNK,Denmark,56.155403,11.617223,6691,299,0,6392,0,0,True,True
 2020-04-14,EST,Estonia,58.596209,25.023778,1373,31,0,1342,0,0,True,True
 2020-04-14,FIN,Finland,64.952416,26.068944,3183,0,0,3183,0,0,True,True
-2020-04-13,FRA,France,46.232193,2.209667,98076,9588,27718,60770,32113,6821,True,True
+2020-04-14,FRA,France,46.232193,2.209667,103573,10129,28805,64639,32292,6730,True,True
 2020-04-14,DEU,Germany,51.165706,10.452764,125100,2969,70000,52131,0,0,True,True
 2020-04-14,GRC,Greece,38.275283,23.810343,2170,101,0,2069,0,0,True,True
 2020-04-14,HUN,Hungary,47.164638,19.508944,1512,122,0,1390,0,0,True,True
@@ -30,7 +30,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-14,MKD,North Macedonia,41.611,21.751417,854,38,0,816,0,0,False,True
 2020-04-13,NOR,Norway,64.583013,17.86411,6489,114,0,6375,0,0,False,True
 2020-04-14,POL,Poland,51.92275,19.136875,7049,251,0,6798,0,0,True,True
-2020-04-13,PRT,Portugal,39.553444,-7.839319,16955,535,0,16420,0,0,True,True
+2020-04-14,PRT,Portugal,39.553444,-7.839319,17469,567,0,16902,0,0,True,True
 2020-04-14,ROU,Romania,45.947125,24.980514,6879,0,0,6879,0,0,True,True
 2020-04-14,RUS,Russian Fed.,61.523111,-74.9,21108,170,0,20938,0,0,False,False
 2020-04-14,SMR,San Marino,43.942973,12.460035,356,36,0,320,0,0,False,False
@@ -38,7 +38,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-12,SVK,Slovakia,48.665639,19.709097,769,0,0,769,0,0,True,True
 2020-04-14,SVN,Slovenia,46.145528,14.974541,2026,12,0,2014,0,0,True,True
 2020-04-14,ESP,Spain,39.896027,-2.487694,172541,18056,67504,86981,75752,7851,True,True
-2020-04-14,SWE,Sweden,62.199806,17.637493,11445,1033,0,10412,0,915,True,True
+2020-04-14,SWE,Sweden,62.199806,17.637493,11445,1264,0,10181,0,915,True,True
 2020-04-14,CHE,Switzerland,46.815514,8.224472,25906,1157,3437,21312,1904,357,False,False
 2020-04-14,TUR,Turkey,38.961516,35.25175,65111,1403,0,63708,0,0,False,True
 2020-04-14,UKR,Ukraine,48.379888,31.168139,3372,98,0,3274,0,0,False,False

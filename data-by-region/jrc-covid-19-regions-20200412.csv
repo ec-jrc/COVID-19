@@ -1,4 +1,4 @@
-Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-04-12,ALB,Albania,Berat,40.6285,20.090775,2,0,0,2,0,0,False,False
 2020-04-12,ALB,Albania,Durrës,41.518365,19.651766,47,3,0,44,0,0,False,False
 2020-04-12,ALB,Albania,Elbasan,41.040028,20.186454,15,0,0,15,0,0,False,False
@@ -141,25 +141,26 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,FRA,France,Occitanie,43.703195,2.143601,0,239,1287,-1526,954,294,True,True
 2020-04-12,FRA,France,Pays de la Loire,47.479115,-0.811996,0,182,703,-885,810,167,True,True
 2020-04-12,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,328,2097,-2425,1830,438,True,True
-2020-04-12,DEU,Germany,Baden-Württemberg,48.537648,9.049199,24078,218,0,23860,0,0,True,True
-2020-04-12,DEU,Germany,Bayern,48.947574,11.419913,32282,247,0,32035,0,0,True,True
-2020-04-12,DEU,Germany,Berlin,52.501532,13.40185,4567,122,0,4445,0,0,True,True
-2020-04-12,DEU,Germany,Brandenburg,53.109014,12.140724,1857,74,0,1783,0,0,True,True
-2020-04-12,DEU,Germany,Bremen,53.108678,8.785951,480,70,0,410,0,0,True,True
-2020-04-12,DEU,Germany,Hamburg,53.54464,10.027798,3742,203,0,3539,0,0,True,True
-2020-04-12,DEU,Germany,Hessen,50.603242,9.031057,5859,94,0,5765,0,0,True,True
-2020-04-12,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,605,38,0,567,0,0,True,True
-2020-04-12,DEU,Germany,Niedersachsen,52.765527,9.162019,7602,95,0,7507,0,0,True,True
-2020-04-12,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,24267,135,0,24132,0,0,True,True
+2020-04-12,DEU,Germany,Baden-Württemberg,48.537648,9.049199,24078,649,0,23429,0,0,True,True
+2020-04-12,DEU,Germany,Bayern,48.947574,11.419913,32282,786,0,31496,0,0,True,True
+2020-04-12,DEU,Germany,Berlin,52.501532,13.40185,4567,50,0,4517,0,0,True,True
+2020-04-12,DEU,Germany,Brandenburg,53.109014,12.140724,1857,38,0,1819,0,0,True,True
+2020-04-12,DEU,Germany,Bremen,53.108678,8.785951,480,15,0,465,0,0,True,True
+2020-04-12,DEU,Germany,Hamburg,53.54464,10.027798,3742,56,0,3686,0,0,True,True
+2020-04-12,DEU,Germany,Hessen,50.603242,9.031057,5859,123,0,5736,0,0,True,True
+2020-04-12,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,605,11,0,594,0,0,True,True
+2020-04-12,DEU,Germany,Niedersachsen,52.765527,9.162019,7602,189,0,7413,0,0,True,True
+2020-04-12,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,24267,495,0,23772,0,0,True,True
+2020-04-12,DEU,Germany,NOT SPECIFIED,,,0,0,60300,-60300,0,0,True,True
 2020-03-03,DEU,Germany,Repatriierte,,,2,,,,,,True,True
-2020-04-12,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,4734,116,0,4618,0,0,True,True
-2020-04-12,DEU,Germany,Saarland,49.384368,6.953135,2058,208,0,1850,0,0,True,True
-2020-04-12,DEU,Germany,Sachsen,51.052334,13.348561,3600,88,0,3512,0,0,True,True
-2020-04-12,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1166,53,0,1113,0,0,True,True
-2020-04-12,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2118,73,0,2045,0,0,True,True
-2020-04-12,DEU,Germany,Thüringen,50.903878,11.02488,1464,68,0,1396,0,0,True,True
+2020-04-12,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,4734,64,0,4670,0,0,True,True
+2020-04-12,DEU,Germany,Saarland,49.384368,6.953135,2058,43,0,2015,0,0,True,True
+2020-04-12,DEU,Germany,Sachsen,51.052334,13.348561,3600,67,0,3533,0,0,True,True
+2020-04-12,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1166,21,0,1145,0,0,True,True
+2020-04-12,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2118,41,0,2077,0,0,True,True
+2020-04-12,DEU,Germany,Thüringen,50.903878,11.02488,1464,25,0,1439,0,0,True,True
 2020-04-12,GRC,Greece,Achaea,38.116381,21.862704,22,3,0,19,0,0,True,True
-2020-04-12,GRC,Greece,Aitolia and Akarnania,,,1,0,0,1,0,0,True,True
+2020-04-12,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,1,0,0,1,0,0,True,True
 2020-04-12,GRC,Greece,Argolis,37.596538,22.863975,1,0,0,1,0,0,True,True
 2020-04-12,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
 2020-04-12,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
@@ -417,7 +418,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,73,0,0,73,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Tomsk,58.476777,82.134382,4,0,0,4,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Tula,53.879118,37.584039,75,0,0,75,0,0,False,False
-2020-04-12,RUS,Russian Fed.,Tuva,,,6,0,0,6,0,0,False,False
+2020-04-12,RUS,Russian Fed.,Tuva,94.79304,51.591419,6,0,0,6,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Tver,57.063361,34.74855,31,0,0,31,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Tyumen,57.665236,69.167506,39,0,0,39,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,13,0,0,13,0,0,False,False
@@ -432,15 +433,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,8,0,0,8,0,0,False,False
 2020-04-12,SMR,San Marino,San Marino,43.942973,12.460035,356,35,0,321,0,0,False,False
 2020-04-12,SRB,Serbia,Serbia,44.206802,20.911009,3380,74,0,3306,0,0,False,True
-2020-04-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,35,0,0,35,0,0,True,True
-2020-04-12,SVK,Slovakia,Bratislava,48.319003,17.17481,269,0,0,269,0,0,True,True
-2020-04-12,SVK,Slovakia,Košice,48.771358,20.721931,52,0,0,52,0,0,True,True
-2020-04-12,SVK,Slovakia,Nitra,48.140652,18.30311,42,0,0,42,0,0,True,True
-2020-04-12,SVK,Slovakia,NOT SPECIFIED,,,61,2,0,59,0,0,True,True
-2020-04-12,SVK,Slovakia,Prešov,49.126441,21.221321,61,0,0,61,0,0,True,True
-2020-04-12,SVK,Slovakia,Trencín,48.858564,18.202196,91,0,0,91,0,0,True,True
+2020-04-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,39,0,0,39,0,0,True,True
+2020-04-12,SVK,Slovakia,Bratislava,48.319003,17.17481,272,0,0,272,0,0,True,True
+2020-04-12,SVK,Slovakia,Košice,48.771358,20.721931,56,0,0,56,0,0,True,True
+2020-04-12,SVK,Slovakia,Nitra,48.140652,18.30311,45,0,0,45,0,0,True,True
+2020-04-12,SVK,Slovakia,NOT SPECIFIED,,,34,0,0,34,0,0,True,True
+2020-04-12,SVK,Slovakia,Prešov,49.126441,21.221321,67,0,0,67,0,0,True,True
+2020-04-12,SVK,Slovakia,Trencín,48.858564,18.202196,93,0,0,93,0,0,True,True
 2020-04-12,SVK,Slovakia,Trnava,48.222651,17.707847,81,0,0,81,0,0,True,True
-2020-04-12,SVK,Slovakia,Zilina,49.178517,19.167163,77,0,0,77,0,0,True,True
+2020-04-12,SVK,Slovakia,Zilina,49.178517,19.167163,82,0,0,82,0,0,True,True
 2020-04-12,SVN,Slovenia,Gorenjske,46.304671,14.137367,74,0,0,74,0,0,True,True
 2020-04-12,SVN,Slovenia,Goriške,46.097666,13.774357,20,0,0,20,0,0,True,True
 2020-04-12,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,125,0,0,125,0,0,True,True
@@ -485,7 +486,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,SWE,Sweden,Kalmar,57.245033,16.053939,68,0,0,68,0,0,True,True
 2020-04-12,SWE,Sweden,Kronoberg,56.786938,14.574736,97,0,0,97,0,0,True,True
 2020-04-12,SWE,Sweden,Norrbotten,66.954122,20.083057,134,0,0,134,0,0,True,True
-2020-04-12,SWE,Sweden,NOT SPECIFIED,,,0,899,0,-899,0,839,True,True
+2020-04-12,SWE,Sweden,NOT SPECIFIED,,,0,1160,0,-1160,0,839,True,True
 2020-04-12,SWE,Sweden,Örebro,59.350249,14.974992,316,0,0,316,0,0,True,True
 2020-04-12,SWE,Sweden,Östergötland,58.354622,15.661533,951,0,0,951,0,0,True,True
 2020-04-12,SWE,Sweden,Skåne,55.948711,13.596415,435,0,0,435,0,0,True,True

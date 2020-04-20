@@ -1,12 +1,11 @@
-Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CuurentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
+Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-03-02,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,37,0,0,37,0,0,True,True
 2020-03-02,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,8,0,0,8,0,0,True,True
 2020-03-02,FRA,France,Bretagne,48.181767,-2.840778,13,0,0,13,0,0,True,True
-2020-03-02,FRA,France,Grand Est,48.688738,5.613275,5,0,0,5,0,0,True,True
+2020-03-02,FRA,France,Grand Est,48.688738,5.613275,12,0,0,12,0,0,True,True
 2020-03-02,FRA,France,Hauts-de-France,49.96966,2.770434,45,0,0,45,0,0,True,True
 2020-03-02,FRA,France,Île-de-France,48.709229,2.503473,34,0,0,34,0,0,True,True
 2020-03-02,FRA,France,Normandie,48.880101,-0.073045,2,0,0,2,0,0,True,True
-2020-03-02,FRA,France,NOT SPECIFIED,,,23,3,0,20,0,0,True,True
 2020-03-02,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,4,0,0,4,0,0,True,True
 2020-03-02,FRA,France,Occitanie,43.703195,2.143601,6,0,0,6,0,0,True,True
 2020-03-02,FRA,France,Pays de la Loire,47.479115,-0.811996,5,0,0,5,0,0,True,True
