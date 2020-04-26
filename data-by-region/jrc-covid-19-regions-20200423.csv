@@ -305,14 +305,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-23,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,145,1,0,144,0,0,True,True
 2020-04-23,POL,Poland,Wielkopolskie,52.283858,17.248218,1166,68,0,1098,0,0,True,True
 2020-04-23,POL,Poland,Zachodniopomorskie,53.582707,15.634824,304,4,0,300,0,0,True,True
-2020-04-22,PRT,Portugal,Açores,37.775525,-25.494927,109,6,0,103,0,0,True,True
-2020-04-22,PRT,Portugal,Alentejo,38.485499,-8.006668,176,1,0,175,0,0,True,True
-2020-04-22,PRT,Portugal,Algarve,37.218389,-8.198488,316,11,0,305,0,0,True,True
-2020-04-22,PRT,Portugal,Centro,40.111812,-8.012768,3053,175,0,2878,0,0,True,True
+2020-04-23,PRT,Portugal,Açores,37.775525,-25.494927,109,8,0,101,0,0,True,True
+2020-04-23,PRT,Portugal,Alentejo,38.485499,-8.006668,181,1,0,180,0,0,True,True
+2020-04-23,PRT,Portugal,Algarve,37.218389,-8.198488,318,11,0,307,0,0,True,True
+2020-04-23,PRT,Portugal,Centro,40.111812,-8.012768,3084,179,0,2905,0,0,True,True
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True
-2020-04-22,PRT,Portugal,Lisbon,38.623843,-8.88436,5093,138,0,4955,0,0,True,True
-2020-04-22,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
-2020-04-22,PRT,Portugal,Norte,41.457206,-7.678153,13150,454,0,12696,0,0,True,True
+2020-04-23,PRT,Portugal,Lisbon,38.623843,-8.88436,5194,146,0,5048,0,0,True,True
+2020-04-23,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
+2020-04-23,PRT,Portugal,Norte,41.457206,-7.678153,13382,475,0,12907,0,0,True,True
 2020-04-18,PRT,Portugal,NOT SPECIFIED,,,0,687,610,-1297,0,228,True,True
 2020-04-23,ROU,Romania,Alba,46.172367,23.487279,160,0,0,160,0,0,True,True
 2020-04-23,ROU,Romania,Arad,46.273235,21.758454,421,0,0,421,0,0,True,True
@@ -452,7 +452,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True
-2020-04-22,SVN,Slovenia,NOT SPECIFIED,,,1366,79,6,1281,80,23,True,True
+2020-04-23,SVN,Slovenia,NOT SPECIFIED,,,1373,80,4,1289,78,24,True,True
 2020-04-05,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,19,0,0,19,0,0,True,True
 2020-04-14,SVN,Slovenia,"Obalno-kraške,",45.62157,13.972922,20,0,0,20,0,0,True,True
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True
