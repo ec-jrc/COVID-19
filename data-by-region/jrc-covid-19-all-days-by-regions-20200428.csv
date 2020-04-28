@@ -22125,6 +22125,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-27,UKR,Ukraine,Volyn,51.202858,24.883489,254,0,0,254,0,0,False,False
 2020-04-27,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,204,0,0,204,0,0,False,False
 2020-04-27,UKR,Ukraine,Zhytomyr,50.642612,28.484557,351,0,0,351,0,0,False,False
+2020-04-27,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,721,0,0,721,0,0,False,True
+2020-04-27,GBR,United Kingdom,Borders,55.572787,-2.786355,269,0,0,269,0,0,False,True
+2020-04-27,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,243,0,0,243,0,0,False,True
+2020-04-27,GBR,United Kingdom,East of England,52.248898,0.548756,9569,0,0,9569,0,0,False,True
+2020-04-27,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-04-27,GBR,United Kingdom,England,,,4901,18748,0,-13847,0,0,False,True
+2020-04-27,GBR,United Kingdom,Fife,56.228968,-3.118568,681,0,0,681,0,0,False,True
+2020-04-27,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,680,0,0,680,0,0,False,True
+2020-04-27,GBR,United Kingdom,Grampian,57.299016,-2.780773,771,0,0,771,0,0,False,True
+2020-04-27,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,2531,0,0,2531,0,0,False,True
+2020-04-27,GBR,United Kingdom,Highland,57.363501,-4.733034,228,0,0,228,0,0,False,True
+2020-04-27,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1265,0,0,1265,0,0,False,True
+2020-04-27,GBR,United Kingdom,London,51.497136,-0.100571,23833,0,0,23833,0,0,False,True
+2020-04-27,GBR,United Kingdom,Lothian,55.946009,-2.728265,1804,0,0,1804,0,0,False,True
+2020-04-27,GBR,United Kingdom,Midlands,52.718351,-1.45667,18359,0,0,18359,0,0,False,True
+2020-04-27,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,16292,0,0,16292,0,0,False,True
+2020-04-27,GBR,United Kingdom,North West,53.524488,-2.333125,17483,0,0,17483,0,0,False,True
+2020-04-27,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,3374,299,0,3075,0,0,False,True
+2020-04-27,GBR,United Kingdom,NOT SPECIFIED,,,21507,0,0,21507,0,0,False,True
+2020-04-27,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
+2020-04-27,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,1249,0,-1249,0,0,False,True
+2020-04-27,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-04-27,GBR,United Kingdom,South East,51.291417,-0.521902,16128,0,0,16128,0,0,False,True
+2020-04-27,GBR,United Kingdom,South West,51.239761,-2.54375,5902,0,0,5902,0,0,False,True
+2020-04-27,GBR,United Kingdom,Tayside,56.610323,-3.555213,1261,0,0,1261,0,0,False,True
+2020-04-27,GBR,United Kingdom,Wales,52.302413,-3.738347,9280,796,0,8484,0,0,False,True
+2020-04-28,DEU,Germany,Baden-Württemberg,48.537648,9.049199,31196,1269,0,29927,0,0,True,True
+2020-04-28,DEU,Germany,Bayern,48.947574,11.419913,41406,1681,0,39725,0,0,True,True
+2020-04-28,DEU,Germany,Berlin,52.501532,13.40185,5669,127,0,5542,0,0,True,True
+2020-04-28,DEU,Germany,Brandenburg,53.109014,12.140724,2747,106,0,2641,0,0,True,True
+2020-04-28,DEU,Germany,Bremen,53.108678,8.785951,759,27,0,732,0,0,True,True
+2020-04-28,DEU,Germany,Hamburg,53.54464,10.027798,4505,142,0,4363,0,0,True,True
+2020-04-28,DEU,Germany,Hessen,50.603242,9.031057,8026,333,0,7693,0,0,True,True
+2020-04-28,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,675,17,0,658,0,0,True,True
+2020-04-28,DEU,Germany,Niedersachsen,52.765527,9.162019,9926,394,0,9532,0,0,True,True
+2020-04-28,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,32184,1171,0,31013,0,0,True,True
+2020-04-28,DEU,Germany,NOT SPECIFIED,,,0,0,117400,-117400,0,0,True,True
+2020-04-28,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,5928,157,0,5771,0,0,True,True
+2020-04-28,DEU,Germany,Saarland,49.384368,6.953135,2509,123,0,2386,0,0,True,True
+2020-04-28,DEU,Germany,Sachsen,51.052334,13.348561,4490,148,0,4342,0,0,True,True
+2020-04-28,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1520,39,0,1481,0,0,True,True
+2020-04-28,DEU,Germany,Schleswig-Holstein,54.219367,9.696117,2653,101,0,2552,0,0,True,True
+2020-04-28,DEU,Germany,Thüringen,50.903878,11.02488,2144,78,0,2066,0,0,True,True
 2020-04-28,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,23,0,0,23,0,0,True,True
 2020-04-28,HUN,Hungary,Baranya,46.043048,18.197022,33,0,0,33,0,0,True,True
 2020-04-28,HUN,Hungary,Békés,46.735413,21.006326,14,0,0,14,0,0,True,True
