@@ -3141,7 +3141,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-04-29,RUS,Russian Fed.,61.523111,-74.9,0,0,0,0,0,0,False,False
 2020-04-29,SMR,San Marino,43.942973,12.460035,0,0,0,0,0,0,False,False
 2020-04-29,SRB,Serbia,44.206802,20.911009,0,0,0,0,0,0,False,True
-2020-04-29,SVK,Slovakia,48.665639,19.709097,0,0,0,0,0,0,True,True
+2020-04-29,SVK,Slovakia,48.665639,19.709097,1391,22,484,885,180,8,True,True
 2020-04-29,SVN,Slovenia,46.145528,14.974541,0,0,0,0,0,0,True,True
 2020-04-29,ESP,Spain,39.896027,-2.487694,0,0,0,0,0,0,True,True
 2020-04-29,SWE,Sweden,62.199806,17.637493,0,0,0,0,0,0,True,True
