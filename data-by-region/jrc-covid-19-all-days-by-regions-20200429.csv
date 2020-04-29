@@ -20431,6 +20431,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-24,BEL,Belgium,NOT SPECIFIED,,,865,0,0,865,0,0,True,True
 2020-04-24,BEL,Belgium,Wallonia,50.312074,5.019093,14293,2399,0,11894,0,0,True,True
 2020-04-24,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,786,32,0,754,0,0,False,False
+2020-04-24,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,33,3,0,30,0,0,True,True
+2020-04-24,BGR,Bulgaria,Burgas,42.491848,27.306892,43,0,0,43,0,0,True,True
+2020-04-24,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
+2020-04-24,BGR,Bulgaria,Gabrovo,42.931879,25.247163,4,0,0,4,0,0,True,True
+2020-04-24,BGR,Bulgaria,Haskovo,41.849113,25.942349,15,1,0,14,0,0,True,True
+2020-04-24,BGR,Bulgaria,Kardzhali,41.527042,25.441477,13,0,0,13,0,0,True,True
+2020-04-24,BGR,Bulgaria,Kyustendil,42.255307,22.869974,35,3,0,32,0,0,True,True
+2020-04-24,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,0,2,0,0,True,True
+2020-04-24,BGR,Bulgaria,Montana,43.496677,23.192363,18,0,0,18,0,0,True,True
+2020-04-24,BGR,Bulgaria,NOT SPECIFIED,,,0,2,0,-2,0,0,True,True
+2020-04-24,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,21,2,0,19,0,0,True,True
+2020-04-24,BGR,Bulgaria,Pernik,42.613861,22.853171,10,0,0,10,0,0,True,True
+2020-04-24,BGR,Bulgaria,Pleven,43.486117,24.610919,94,0,0,94,0,0,True,True
+2020-04-24,BGR,Bulgaria,Plovdiv,42.257364,24.824903,43,1,0,42,0,0,True,True
+2020-04-24,BGR,Bulgaria,Ruse,43.54059,25.759217,10,0,0,10,0,0,True,True
+2020-04-24,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,0,3,0,0,True,True
+2020-04-24,BGR,Bulgaria,Silistra,43.946163,27.044927,3,0,0,3,0,0,True,True
+2020-04-24,BGR,Bulgaria,Sliven,42.67034,26.241026,35,3,0,32,0,0,True,True
+2020-04-24,BGR,Bulgaria,Smolyan,41.628892,24.668089,33,3,0,30,0,0,True,True
+2020-04-24,BGR,Bulgaria,Sofia City,42.286287,23.616846,625,33,0,592,0,0,True,True
+2020-04-24,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,32,1,0,31,0,0,True,True
+2020-04-24,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,0,26,0,0,True,True
+2020-04-24,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,17,1,0,16,0,0,True,True
+2020-04-24,BGR,Bulgaria,Vidin,43.797295,22.68621,50,0,0,50,0,0,True,True
+2020-04-24,BGR,Bulgaria,Vratsa,43.395067,23.759152,3,0,0,3,0,0,True,True
+2020-04-24,BGR,Bulgaria,Yambol,,,6,0,0,6,0,0,True,True
 2020-04-24,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-24,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
 2020-04-24,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,105,6,0,99,0,0,True,True
@@ -20877,13 +20903,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-24,GBR,United Kingdom,Tayside,56.610323,-3.555213,1199,0,0,1199,0,0,False,True
 2020-04-24,GBR,United Kingdom,Wales,52.302413,-3.738347,8601,751,0,7850,0,0,False,True
 2020-04-25,ALB,Albania,Berat,40.6285,20.090775,3,0,0,3,0,0,False,False
+2020-04-25,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
 2020-04-25,ALB,Albania,Durrës,41.518365,19.651766,125,0,0,125,0,0,False,False
 2020-04-25,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
 2020-04-25,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
 2020-04-25,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
 2020-04-25,ALB,Albania,Kukës,42.066696,20.419467,36,0,0,36,0,0,False,False
 2020-04-25,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
-2020-04-25,ALB,Albania,NOT SPECIFIED,,,1,27,0,-26,0,0,False,False
+2020-04-25,ALB,Albania,NOT SPECIFIED,,,0,27,0,-27,0,0,False,False
 2020-04-25,ALB,Albania,Shkodër,42.17682,19.719451,108,0,0,108,0,0,False,False
 2020-04-25,ALB,Albania,Tiranë,41.268583,19.793936,302,0,0,302,0,0,False,False
 2020-04-25,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
@@ -20904,6 +20931,31 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-25,BEL,Belgium,NOT SPECIFIED,,,921,0,0,921,0,0,True,True
 2020-04-25,BEL,Belgium,Wallonia,50.312074,5.019093,14673,2458,0,12215,0,0,True,True
 2020-04-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,811,32,0,779,0,0,False,False
+2020-04-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,38,3,0,35,0,0,True,True
+2020-04-25,BGR,Bulgaria,Burgas,42.491848,27.306892,47,0,0,47,0,0,True,True
+2020-04-25,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
+2020-04-25,BGR,Bulgaria,Gabrovo,42.931879,25.247163,4,0,0,4,0,0,True,True
+2020-04-25,BGR,Bulgaria,Haskovo,41.849113,25.942349,15,1,0,14,0,0,True,True
+2020-04-25,BGR,Bulgaria,Kardzhali,41.527042,25.441477,13,0,0,13,0,0,True,True
+2020-04-25,BGR,Bulgaria,Kyustendil,42.255307,22.869974,38,3,0,35,0,0,True,True
+2020-04-25,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,0,2,0,0,True,True
+2020-04-25,BGR,Bulgaria,Montana,43.496677,23.192363,18,0,0,18,0,0,True,True
+2020-04-25,BGR,Bulgaria,NOT SPECIFIED,,,0,2,0,-2,0,0,True,True
+2020-04-25,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,23,2,0,21,0,0,True,True
+2020-04-25,BGR,Bulgaria,Pernik,42.613861,22.853171,11,0,0,11,0,0,True,True
+2020-04-25,BGR,Bulgaria,Pleven,43.486117,24.610919,98,0,0,98,0,0,True,True
+2020-04-25,BGR,Bulgaria,Plovdiv,42.257364,24.824903,44,1,0,43,0,0,True,True
+2020-04-25,BGR,Bulgaria,Ruse,43.54059,25.759217,10,0,0,10,0,0,True,True
+2020-04-25,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,0,3,0,0,True,True
+2020-04-25,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
+2020-04-25,BGR,Bulgaria,Sliven,42.67034,26.241026,35,3,0,32,0,0,True,True
+2020-04-25,BGR,Bulgaria,Smolyan,41.628892,24.668089,33,3,0,30,0,0,True,True
+2020-04-25,BGR,Bulgaria,Sofia City,42.286287,23.616846,646,34,0,612,0,0,True,True
+2020-04-25,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,35,1,0,34,0,0,True,True
+2020-04-25,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,0,26,0,0,True,True
+2020-04-25,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,17,1,0,16,0,0,True,True
+2020-04-25,BGR,Bulgaria,Vidin,43.797295,22.68621,62,0,0,62,0,0,True,True
+2020-04-25,BGR,Bulgaria,Vratsa,43.395067,23.759152,3,0,0,3,0,0,True,True
 2020-04-25,BGR,Bulgaria,Yambol,,,7,0,0,7,0,0,True,True
 2020-04-25,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-25,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
@@ -21365,13 +21417,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-25,GBR,United Kingdom,Tayside,56.610323,-3.555213,1224,0,0,1224,0,0,False,True
 2020-04-25,GBR,United Kingdom,Wales,52.302413,-3.738347,8900,774,0,8126,0,0,False,True
 2020-04-26,ALB,Albania,Berat,40.6285,20.090775,3,0,0,3,0,0,False,False
+2020-04-26,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
 2020-04-26,ALB,Albania,Durrës,41.518365,19.651766,134,0,0,134,0,0,False,False
 2020-04-26,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
 2020-04-26,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
 2020-04-26,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
 2020-04-26,ALB,Albania,Kukës,42.066696,20.419467,36,0,0,36,0,0,False,False
 2020-04-26,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
-2020-04-26,ALB,Albania,NOT SPECIFIED,,,1,28,0,-27,0,0,False,False
+2020-04-26,ALB,Albania,NOT SPECIFIED,,,0,28,0,-28,0,0,False,False
 2020-04-26,ALB,Albania,Shkodër,42.17682,19.719451,109,0,0,109,0,0,False,False
 2020-04-26,ALB,Albania,Tiranë,41.268583,19.793936,306,0,0,306,0,0,False,False
 2020-04-26,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
@@ -21392,6 +21445,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-26,BEL,Belgium,NOT SPECIFIED,,,1006,0,0,1006,0,0,True,True
 2020-04-26,BEL,Belgium,Wallonia,50.312074,5.019093,14998,2509,0,12489,0,0,True,True
 2020-04-26,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,830,32,0,798,0,0,False,False
+2020-04-26,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,41,3,0,38,0,0,True,True
+2020-04-26,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
+2020-04-26,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
+2020-04-26,BGR,Bulgaria,Gabrovo,42.931879,25.247163,4,0,0,4,0,0,True,True
+2020-04-26,BGR,Bulgaria,Haskovo,41.849113,25.942349,15,1,0,14,0,0,True,True
+2020-04-26,BGR,Bulgaria,Kardzhali,41.527042,25.441477,13,0,0,13,0,0,True,True
+2020-04-26,BGR,Bulgaria,Kyustendil,42.255307,22.869974,53,3,0,50,0,0,True,True
+2020-04-26,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,0,2,0,0,True,True
+2020-04-26,BGR,Bulgaria,Montana,43.496677,23.192363,18,0,0,18,0,0,True,True
+2020-04-26,BGR,Bulgaria,NOT SPECIFIED,,,0,2,0,-2,0,0,True,True
+2020-04-26,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,24,2,0,22,0,0,True,True
+2020-04-26,BGR,Bulgaria,Pernik,42.613861,22.853171,11,0,0,11,0,0,True,True
+2020-04-26,BGR,Bulgaria,Pleven,43.486117,24.610919,101,0,0,101,0,0,True,True
+2020-04-26,BGR,Bulgaria,Plovdiv,42.257364,24.824903,44,1,0,43,0,0,True,True
+2020-04-26,BGR,Bulgaria,Ruse,43.54059,25.759217,12,0,0,12,0,0,True,True
+2020-04-26,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,0,3,0,0,True,True
+2020-04-26,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
+2020-04-26,BGR,Bulgaria,Sliven,42.67034,26.241026,39,3,0,36,0,0,True,True
+2020-04-26,BGR,Bulgaria,Smolyan,41.628892,24.668089,33,3,0,30,0,0,True,True
+2020-04-26,BGR,Bulgaria,Sofia City,42.286287,23.616846,668,34,0,634,0,0,True,True
+2020-04-26,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,36,1,0,35,0,0,True,True
+2020-04-26,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,0,26,0,0,True,True
+2020-04-26,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,18,1,0,17,0,0,True,True
+2020-04-26,BGR,Bulgaria,Vidin,43.797295,22.68621,62,0,0,62,0,0,True,True
+2020-04-26,BGR,Bulgaria,Vratsa,43.395067,23.759152,3,0,0,3,0,0,True,True
+2020-04-26,BGR,Bulgaria,Yambol,,,8,0,0,8,0,0,True,True
 2020-04-26,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-26,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
 2020-04-26,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,105,6,0,99,0,0,True,True
@@ -21866,13 +21945,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-26,GBR,United Kingdom,Tayside,56.610323,-3.555213,1251,0,0,1251,0,0,False,True
 2020-04-26,GBR,United Kingdom,Wales,52.302413,-3.738347,9078,788,0,8290,0,0,False,True
 2020-04-27,ALB,Albania,Berat,40.6285,20.090775,3,0,0,3,0,0,False,False
+2020-04-27,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
 2020-04-27,ALB,Albania,Durrës,41.518365,19.651766,134,0,0,134,0,0,False,False
 2020-04-27,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
 2020-04-27,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
 2020-04-27,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
 2020-04-27,ALB,Albania,Kukës,42.066696,20.419467,36,0,0,36,0,0,False,False
 2020-04-27,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
-2020-04-27,ALB,Albania,NOT SPECIFIED,,,1,28,0,-27,0,0,False,False
+2020-04-27,ALB,Albania,NOT SPECIFIED,,,0,28,0,-28,0,0,False,False
 2020-04-27,ALB,Albania,Shkodër,42.17682,19.719451,110,0,0,110,0,0,False,False
 2020-04-27,ALB,Albania,Tiranë,41.268583,19.793936,315,0,0,315,0,0,False,False
 2020-04-27,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
@@ -21893,6 +21973,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-27,BEL,Belgium,NOT SPECIFIED,,,938,0,0,938,0,0,True,True
 2020-04-27,BEL,Belgium,Wallonia,50.312074,5.019093,15213,2548,0,12665,0,0,True,True
 2020-04-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,840,32,0,808,0,0,False,False
+2020-04-27,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,41,3,0,38,0,0,True,True
+2020-04-27,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
+2020-04-27,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
+2020-04-27,BGR,Bulgaria,Gabrovo,42.931879,25.247163,4,0,0,4,0,0,True,True
+2020-04-27,BGR,Bulgaria,Haskovo,41.849113,25.942349,15,1,0,14,0,0,True,True
+2020-04-27,BGR,Bulgaria,Kardzhali,41.527042,25.441477,13,0,0,13,0,0,True,True
+2020-04-27,BGR,Bulgaria,Kyustendil,42.255307,22.869974,59,3,0,56,0,0,True,True
+2020-04-27,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,0,2,0,0,True,True
+2020-04-27,BGR,Bulgaria,Montana,43.496677,23.192363,18,0,0,18,0,0,True,True
+2020-04-27,BGR,Bulgaria,NOT SPECIFIED,,,0,2,0,-2,0,0,True,True
+2020-04-27,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,24,2,0,22,0,0,True,True
+2020-04-27,BGR,Bulgaria,Pernik,42.613861,22.853171,11,0,0,11,0,0,True,True
+2020-04-27,BGR,Bulgaria,Pleven,43.486117,24.610919,124,0,0,124,0,0,True,True
+2020-04-27,BGR,Bulgaria,Plovdiv,42.257364,24.824903,46,1,0,45,0,0,True,True
+2020-04-27,BGR,Bulgaria,Ruse,43.54059,25.759217,12,0,0,12,0,0,True,True
+2020-04-27,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,0,3,0,0,True,True
+2020-04-27,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
+2020-04-27,BGR,Bulgaria,Sliven,42.67034,26.241026,40,3,0,37,0,0,True,True
+2020-04-27,BGR,Bulgaria,Smolyan,41.628892,24.668089,33,3,0,30,0,0,True,True
+2020-04-27,BGR,Bulgaria,Sofia City,42.286287,23.616846,683,34,0,649,0,0,True,True
+2020-04-27,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,36,1,0,35,0,0,True,True
+2020-04-27,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,0,26,0,0,True,True
+2020-04-27,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,22,1,0,21,0,0,True,True
+2020-04-27,BGR,Bulgaria,Vidin,43.797295,22.68621,73,2,0,71,0,0,True,True
+2020-04-27,BGR,Bulgaria,Vratsa,43.395067,23.759152,3,0,0,3,0,0,True,True
+2020-04-27,BGR,Bulgaria,Yambol,,,9,0,0,9,0,0,True,True
 2020-04-27,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-27,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
 2020-04-27,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,105,6,0,99,0,0,True,True
@@ -22366,14 +22472,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-27,GBR,United Kingdom,Tayside,56.610323,-3.555213,1261,0,0,1261,0,0,False,True
 2020-04-27,GBR,United Kingdom,Wales,52.302413,-3.738347,9280,796,0,8484,0,0,False,True
 2020-04-28,ALB,Albania,Berat,40.6285,20.090775,3,0,0,3,0,0,False,False
-2020-04-28,ALB,Albania,Dibër,,,0,0,0,0,0,0,False,False
+2020-04-28,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
 2020-04-28,ALB,Albania,Durrës,41.518365,19.651766,139,0,0,139,0,0,False,False
 2020-04-28,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
 2020-04-28,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
 2020-04-28,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
 2020-04-28,ALB,Albania,Kukës,42.066696,20.419467,36,0,0,36,0,0,False,False
 2020-04-28,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
-2020-04-28,ALB,Albania,NOT SPECIFIED,,,1,30,0,-29,0,0,False,False
+2020-04-28,ALB,Albania,NOT SPECIFIED,,,0,30,0,-30,0,0,False,False
 2020-04-28,ALB,Albania,Shkodër,42.17682,19.719451,112,0,0,112,0,0,False,False
 2020-04-28,ALB,Albania,Tiranë,41.268583,19.793936,322,0,0,322,0,0,False,False
 2020-04-28,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
@@ -22394,6 +22500,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-28,BEL,Belgium,NOT SPECIFIED,,,947,0,0,947,0,0,True,True
 2020-04-28,BEL,Belgium,Wallonia,50.312074,5.019093,15519,2586,0,12933,0,0,True,True
 2020-04-28,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,857,33,0,824,0,0,False,False
+2020-04-28,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,42,3,0,39,0,0,True,True
+2020-04-28,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
+2020-04-28,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
+2020-04-28,BGR,Bulgaria,Gabrovo,42.931879,25.247163,5,0,0,5,0,0,True,True
+2020-04-28,BGR,Bulgaria,Haskovo,41.849113,25.942349,16,1,0,15,0,0,True,True
+2020-04-28,BGR,Bulgaria,Kardzhali,41.527042,25.441477,13,0,0,13,0,0,True,True
+2020-04-28,BGR,Bulgaria,Kyustendil,42.255307,22.869974,63,3,0,60,0,0,True,True
+2020-04-28,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,0,2,0,0,True,True
+2020-04-28,BGR,Bulgaria,Montana,43.496677,23.192363,18,0,0,18,0,0,True,True
+2020-04-28,BGR,Bulgaria,NOT SPECIFIED,,,0,2,0,-2,0,0,True,True
+2020-04-28,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,26,2,0,24,0,0,True,True
+2020-04-28,BGR,Bulgaria,Pernik,42.613861,22.853171,11,0,0,11,0,0,True,True
+2020-04-28,BGR,Bulgaria,Pleven,43.486117,24.610919,125,0,0,125,0,0,True,True
+2020-04-28,BGR,Bulgaria,Plovdiv,42.257364,24.824903,50,1,0,49,0,0,True,True
+2020-04-28,BGR,Bulgaria,Ruse,43.54059,25.759217,12,0,0,12,0,0,True,True
+2020-04-28,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,0,3,0,0,True,True
+2020-04-28,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
+2020-04-28,BGR,Bulgaria,Sliven,42.67034,26.241026,42,3,0,39,0,0,True,True
+2020-04-28,BGR,Bulgaria,Smolyan,41.628892,24.668089,33,3,0,30,0,0,True,True
+2020-04-28,BGR,Bulgaria,Sofia City,42.286287,23.616846,694,34,0,660,0,0,True,True
+2020-04-28,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,36,1,0,35,0,0,True,True
+2020-04-28,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,0,26,0,0,True,True
+2020-04-28,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,22,1,0,21,0,0,True,True
+2020-04-28,BGR,Bulgaria,Vidin,43.797295,22.68621,82,2,0,80,0,0,True,True
+2020-04-28,BGR,Bulgaria,Vratsa,43.395067,23.759152,3,0,0,3,0,0,True,True
+2020-04-28,BGR,Bulgaria,Yambol,,,9,0,0,9,0,0,True,True
 2020-04-28,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-28,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
 2020-04-28,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,106,6,0,100,0,0,True,True
