@@ -2482,6 +2482,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,PRT,Portugal,Estrageiro,,,6,0,0,0,0,0,True,True
 2020-03-17,PRT,Portugal,Lisbon,38.623843,-8.88436,180,0,0,0,0,0,True,True
 2020-03-17,PRT,Portugal,Norte,41.457206,-7.678153,196,0,0,0,0,0,True,True
+2020-03-17,ROU,Romania,NOT SPECIFIED,,,217,0,19,198,0,0,True,True
 2020-03-17,SMR,San Marino,San Marino,43.942973,12.460035,102,9,0,93,0,0,False,False
 2020-03-17,SRB,Serbia,Serbia,44.206802,20.911009,72,0,0,72,0,0,False,True
 2020-03-17,SVN,Slovenia,Slovenia,46.145528,14.974542,275,0,0,275,0,0,True,True
@@ -2753,6 +2754,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-18,PRT,Portugal,Lisbon,38.623843,-8.88436,243,0,0,0,0,0,True,True
 2020-03-18,PRT,Portugal,Madeira,32.736252,-16.972663,1,0,0,0,0,0,True,True
 2020-03-18,PRT,Portugal,Norte,41.457206,-7.678153,289,0,0,0,0,0,True,True
+2020-03-18,ROU,Romania,NOT SPECIFIED,,,260,0,19,241,0,0,True,True
 2020-03-18,SMR,San Marino,San Marino,43.942973,12.460035,104,11,0,93,0,0,False,False
 2020-03-18,SRB,Serbia,Serbia,44.206802,20.911009,89,0,0,89,0,0,False,True
 2020-03-18,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,7,0,0,7,0,0,True,True
@@ -3037,6 +3039,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,65,0,0,65,0,0,False,True
 2020-03-19,NOR,Norway,Vestland,60.952729,6.513828,153,0,0,153,0,0,False,True
 2020-03-19,NOR,Norway,Viken,60.020274,9.849655,445,0,0,445,0,0,False,True
+2020-03-19,ROU,Romania,NOT SPECIFIED,,,277,0,25,252,0,0,True,True
 2020-03-19,SMR,San Marino,San Marino,43.942973,12.460035,109,14,0,95,0,0,False,False
 2020-03-19,SRB,Serbia,Serbia,44.206802,20.911009,103,0,0,103,0,0,False,True
 2020-03-19,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,10,0,0,10,0,0,True,True
@@ -3301,6 +3304,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-20,PRT,Portugal,Lisbon,38.623843,-8.88436,278,2,0,276,0,0,True,True
 2020-03-20,PRT,Portugal,Madeira,32.736252,-16.972663,1,0,0,1,0,0,True,True
 2020-03-20,PRT,Portugal,Norte,41.457206,-7.678153,381,0,0,381,0,0,True,True
+2020-03-20,ROU,Romania,NOT SPECIFIED,,,308,0,31,277,0,0,True,True
 2020-03-20,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,1,0,0,1,0,0,False,False
 2020-03-20,RUS,Russian Fed.,Belgorod,50.881793,37.359083,1,0,0,1,0,0,False,False
 2020-03-20,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,1,0,0,1,0,0,False,False
@@ -3580,6 +3584,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-21,PRT,Portugal,Lisbon,38.623843,-8.88436,448,3,0,445,0,0,True,True
 2020-03-21,PRT,Portugal,Madeira,32.736252,-16.972663,5,0,0,5,0,0,True,True
 2020-03-21,PRT,Portugal,Norte,41.457206,-7.678153,644,4,0,640,0,0,True,True
+2020-03-21,ROU,Romania,NOT SPECIFIED,,,367,0,52,315,0,0,True,True
 2020-03-21,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,1,0,0,1,0,0,False,False
 2020-03-21,RUS,Russian Fed.,Belgorod,50.881793,37.359083,1,0,0,1,0,0,False,False
 2020-03-21,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
@@ -3881,6 +3886,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,PRT,Portugal,Lisbon,38.623843,-8.88436,534,4,0,530,0,0,True,True
 2020-03-22,PRT,Portugal,Madeira,32.736252,-16.972663,7,0,0,7,0,0,True,True
 2020-03-22,PRT,Portugal,Norte,41.457206,-7.678153,825,5,0,820,0,0,True,True
+2020-03-22,ROU,Romania,NOT SPECIFIED,,,433,2,64,367,0,0,True,True
 2020-03-22,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,1,0,0,1,0,0,False,False
 2020-03-22,RUS,Russian Fed.,Belgorod,50.881793,37.359083,1,0,0,1,0,0,False,False
 2020-03-22,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,1,0,0,1,0,0,False,False
@@ -4292,6 +4298,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-23,ROU,Romania,Mures,46.609503,24.697133,4,0,0,4,0,0,True,True
 2020-03-23,ROU,Romania,Neamt,46.969735,26.375809,5,1,0,4,0,0,True,True
 2020-03-23,ROU,Romania,NOT SPECIFIED,,,300,0,0,300,0,0,True,True
+2020-03-23,ROU,Romania,NOT SPECIFIED,,,576,4,73,499,0,0,True,True
 2020-03-23,ROU,Romania,Olt,44.272504,24.439351,2,0,0,2,0,0,True,True
 2020-03-23,ROU,Romania,Prahova,45.114672,26.015788,2,0,0,2,0,0,True,True
 2020-03-23,ROU,Romania,Salaj,47.18438,23.106887,1,0,0,1,0,0,True,True
@@ -4720,6 +4727,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-24,ROU,Romania,Mures,46.609503,24.697133,6,0,0,6,0,0,True,True
 2020-03-24,ROU,Romania,Neamt,46.969735,26.375809,14,1,0,13,0,0,True,True
 2020-03-24,ROU,Romania,NOT SPECIFIED,,,363,0,0,363,0,0,True,True
+2020-03-24,ROU,Romania,NOT SPECIFIED,,,762,8,79,675,0,0,True,True
 2020-03-24,ROU,Romania,Olt,44.272504,24.439351,2,0,0,2,0,0,True,True
 2020-03-24,ROU,Romania,Prahova,45.114672,26.015788,2,0,0,2,0,0,True,True
 2020-03-24,ROU,Romania,Salaj,47.18438,23.106887,1,0,0,1,0,0,True,True
@@ -5163,6 +5171,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,ROU,Romania,Mures,46.609503,24.697133,6,0,0,6,0,0,True,True
 2020-03-25,ROU,Romania,Neamt,46.969735,26.375809,15,1,0,14,0,0,True,True
 2020-03-25,ROU,Romania,NOT SPECIFIED,,,473,0,0,473,0,0,True,True
+2020-03-25,ROU,Romania,NOT SPECIFIED,,,906,17,86,803,0,0,True,True
 2020-03-25,ROU,Romania,Olt,44.272504,24.439351,2,0,0,2,0,0,True,True
 2020-03-25,ROU,Romania,Prahova,45.114672,26.015788,2,0,0,2,0,0,True,True
 2020-03-25,ROU,Romania,Salaj,47.18438,23.106887,1,0,0,1,0,0,True,True
@@ -5614,6 +5623,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-26,PRT,Portugal,Lisbon,38.623843,-8.88436,1082,18,0,1064,0,0,True,True
 2020-03-26,PRT,Portugal,Madeira,32.736252,-16.972663,15,0,0,15,0,0,True,True
 2020-03-26,PRT,Portugal,Norte,41.457206,-7.678153,1858,28,0,1830,0,0,True,True
+2020-03-26,ROU,Romania,NOT SPECIFIED,,,1029,23,94,912,0,0,True,True
 2020-03-26,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,3,0,0,3,0,0,False,False
 2020-03-26,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,4,0,0,4,0,0,False,False
 2020-03-26,RUS,Russian Fed.,Belgorod,50.881793,37.359083,1,0,0,1,0,0,False,False
@@ -6056,6 +6066,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-27,ROU,Romania,Mures,46.609503,24.697133,6,0,0,6,0,0,True,True
 2020-03-27,ROU,Romania,Neamt,46.969735,26.375809,17,3,0,14,0,0,True,True
 2020-03-27,ROU,Romania,NOT SPECIFIED,,,779,0,0,779,0,0,True,True
+2020-03-27,ROU,Romania,NOT SPECIFIED,,,1292,26,115,1151,0,0,True,True
 2020-03-27,ROU,Romania,Olt,44.272504,24.439351,2,0,0,2,0,0,True,True
 2020-03-27,ROU,Romania,Prahova,45.114672,26.015788,2,0,0,2,0,0,True,True
 2020-03-27,ROU,Romania,Salaj,47.18438,23.106887,1,0,0,1,0,0,True,True
@@ -6461,6 +6472,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-28,PRT,Portugal,Lisbon,38.623843,-8.88436,1287,27,0,1260,0,0,True,True
 2020-03-28,PRT,Portugal,Madeira,32.736252,-16.972663,31,0,0,31,0,0,True,True
 2020-03-28,PRT,Portugal,Norte,41.457206,-7.678153,3035,44,0,2991,0,0,True,True
+2020-03-28,ROU,Romania,NOT SPECIFIED,,,1452,37,139,1276,0,0,True,True
 2020-03-28,RUS,Russian Fed.,Adygea,44.448835,40.254013,1,0,0,1,0,0,False,False
 2020-03-28,RUS,Russian Fed.,Amur,53.418482,127.711639,0,0,0,0,0,0,False,False
 2020-03-28,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,3,0,0,3,0,0,False,False
@@ -6888,6 +6900,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-29,PRT,Portugal,Lisbon,38.623843,-8.88436,1478,28,0,1450,0,0,True,True
 2020-03-29,PRT,Portugal,Madeira,32.736252,-16.972663,43,0,0,43,0,0,True,True
 2020-03-29,PRT,Portugal,Norte,41.457206,-7.678153,3550,61,0,3489,0,0,True,True
+2020-03-29,ROU,Romania,NOT SPECIFIED,,,1760,43,169,1548,0,0,True,True
 2020-03-29,RUS,Russian Fed.,Adygea,44.448835,40.254013,1,0,0,1,0,0,False,False
 2020-03-29,RUS,Russian Fed.,Amur,53.418482,127.711639,1,0,0,1,0,0,False,False
 2020-03-29,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,3,0,0,3,0,0,False,False
@@ -7352,6 +7365,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-30,PRT,Portugal,Lisbon,38.623843,-8.88436,1577,30,0,1547,0,0,True,True
 2020-03-30,PRT,Portugal,Madeira,32.736252,-16.972663,44,0,0,44,0,0,True,True
 2020-03-30,PRT,Portugal,Norte,41.457206,-7.678153,3801,74,0,3727,0,0,True,True
+2020-03-30,ROU,Romania,NOT SPECIFIED,,,1952,65,180,1707,0,0,True,True
 2020-03-30,RUS,Russian Fed.,Adygea,44.448835,40.254013,4,0,0,4,0,0,False,False
 2020-03-30,RUS,Russian Fed.,Altai,52.477021,83.868816,1,0,0,1,0,0,False,False
 2020-03-30,RUS,Russian Fed.,Amur,53.418482,127.711639,1,0,0,1,0,0,False,False
@@ -7857,6 +7871,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-31,ROU,Romania,Mehedinti,44.365324,22.737138,0,1,0,-1,0,0,True,True
 2020-03-31,ROU,Romania,Neamt,46.969735,26.375809,0,3,0,-3,0,0,True,True
 2020-03-31,ROU,Romania,NOT SPECIFIED,,,2245,0,0,2245,0,0,True,True
+2020-03-31,ROU,Romania,NOT SPECIFIED,,,2245,82,220,1943,0,0,True,True
 2020-03-31,ROU,Romania,Satu Mare,47.705953,22.898922,0,3,0,-3,0,0,True,True
 2020-03-31,ROU,Romania,Suceava,47.637703,25.82751,0,31,0,-31,0,0,True,True
 2020-03-31,ROU,Romania,Timis,45.743832,21.377998,0,5,0,-5,0,0,True,True
@@ -8394,6 +8409,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-01,ROU,Romania,Mures,46.609503,24.697133,0,1,0,-1,0,0,True,True
 2020-04-01,ROU,Romania,Neamt,46.969735,26.375809,0,4,0,-4,0,0,True,True
 2020-04-01,ROU,Romania,NOT SPECIFIED,,,2460,3,0,2457,0,0,True,True
+2020-04-01,ROU,Romania,NOT SPECIFIED,,,2460,92,252,2116,0,0,True,True
 2020-04-01,ROU,Romania,Satu Mare,47.705953,22.898922,0,2,0,-2,0,0,True,True
 2020-04-01,ROU,Romania,Suceava,47.637703,25.82751,0,32,0,-32,0,0,True,True
 2020-04-01,ROU,Romania,Timis,45.743832,21.377998,0,6,0,-6,0,0,True,True
@@ -8917,27 +8933,70 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-02,PRT,Portugal,Lisbon,38.623843,-8.88436,2207,44,0,2163,0,0,True,True
 2020-04-02,PRT,Portugal,Madeira,32.736252,-16.972663,48,0,0,48,0,0,True,True
 2020-04-02,PRT,Portugal,Norte,41.457206,-7.678153,5338,107,0,5231,0,0,True,True
+2020-04-02,ROU,Romania,Alba,46.172367,23.487279,9,0,0,9,0,0,True,True
+2020-04-02,ROU,Romania,Arad,46.273235,21.758454,110,0,0,110,0,0,True,True
 2020-04-02,ROU,Romania,Arad,46.273235,21.758454,0,7,0,-7,0,0,True,True
+2020-04-02,ROU,Romania,Argeș,,,10,0,0,10,0,0,True,True
 2020-04-02,ROU,Romania,Bacau,46.42171,26.773519,0,3,0,-3,0,0,True,True
+2020-04-02,ROU,Romania,Bacău,,,19,0,0,19,0,0,True,True
+2020-04-02,ROU,Romania,Bihor,46.942178,22.210795,39,0,0,39,0,0,True,True
+2020-04-02,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,22,0,0,22,0,0,True,True
 2020-04-02,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Botoșani,,,40,0,0,40,0,0,True,True
 2020-04-02,ROU,Romania,Botosani,47.85927,26.763139,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Brăila,,,11,0,0,11,0,0,True,True
+2020-04-02,ROU,Romania,Brașov,,,117,0,0,117,0,0,True,True
 2020-04-02,ROU,Romania,Bucuresti,44.442674,26.08861,0,9,0,-9,0,0,True,True
+2020-04-02,ROU,Romania,București,,,505,0,0,505,0,0,True,True
+2020-04-02,ROU,Romania,Buzău,,,12,0,0,12,0,0,True,True
+2020-04-02,ROU,Romania,Călărași,,,17,0,0,17,0,0,True,True
+2020-04-02,ROU,Romania,Caraș-Severin,,,13,0,0,13,0,0,True,True
 2020-04-02,ROU,Romania,Caras-Severin,45.150492,22.042977,0,1,0,-1,0,0,True,True
 2020-04-02,ROU,Romania,Cluj,46.812237,23.53594,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Cluj,46.812237,23.53594,105,0,0,105,0,0,True,True
 2020-04-02,ROU,Romania,Constanta,44.244926,28.247767,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Costanza,,,111,0,0,111,0,0,True,True
+2020-04-02,ROU,Romania,Covasna,45.938093,25.990767,34,0,0,34,0,0,True,True
 2020-04-02,ROU,Romania,Covasna,45.938093,25.990767,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Dâmbovița,,,19,0,0,19,0,0,True,True
 2020-04-02,ROU,Romania,Dambovita,44.864944,25.496775,0,1,0,-1,0,0,True,True
 2020-04-02,ROU,Romania,Dolj,44.140792,23.613526,0,2,0,-2,0,0,True,True
+2020-04-02,ROU,Romania,Dolj,44.140792,23.613526,22,0,0,22,0,0,True,True
+2020-04-02,ROU,Romania,Galați,,,82,0,0,82,0,0,True,True
+2020-04-02,ROU,Romania,Giurgiu,44.144127,25.881413,19,0,0,19,0,0,True,True
+2020-04-02,ROU,Romania,Gorj,45.004246,23.322863,7,0,0,7,0,0,True,True
+2020-04-02,ROU,Romania,Harghita,46.549997,25.558475,0,0,0,0,0,0,True,True
+2020-04-02,ROU,Romania,Hunedoara,45.753652,22.938806,100,0,0,100,0,0,True,True
 2020-04-02,ROU,Romania,Hunedoara,45.753652,22.938806,0,9,0,-9,0,0,True,True
+2020-04-02,ROU,Romania,Iași,,,54,0,0,54,0,0,True,True
+2020-04-02,ROU,Romania,Ialomița,,,37,0,0,37,0,0,True,True
 2020-04-02,ROU,Romania,Ialomita,44.627356,27.256013,0,6,0,-6,0,0,True,True
 2020-04-02,ROU,Romania,Iasi,47.221224,27.311502,0,2,0,-2,0,0,True,True
+2020-04-02,ROU,Romania,Ilfov,44.286638,26.144699,54,0,0,54,0,0,True,True
+2020-04-02,ROU,Romania,Maramureș,47.671302,23.981463,39,0,0,39,0,0,True,True
+2020-04-02,ROU,Romania,Mehedinți,,,10,0,0,10,0,0,True,True
 2020-04-02,ROU,Romania,Mehedinti,44.365324,22.737138,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Mureș,,,38,0,0,38,0,0,True,True
 2020-04-02,ROU,Romania,Mures,46.609503,24.697133,0,1,0,-1,0,0,True,True
+2020-04-02,ROU,Romania,Neamț,,,107,0,0,107,0,0,True,True
 2020-04-02,ROU,Romania,Neamt,46.969735,26.375809,0,5,0,-5,0,0,True,True
 2020-04-02,ROU,Romania,NOT SPECIFIED,,,2736,2,0,2734,0,0,True,True
+2020-04-02,ROU,Romania,NOT SPECIFIED,,,0,115,267,-382,0,0,True,True
+2020-04-02,ROU,Romania,Olt,44.272504,24.439351,8,0,0,8,0,0,True,True
+2020-04-02,ROU,Romania,Prahova,45.114672,26.015788,27,0,0,27,0,0,True,True
+2020-04-02,ROU,Romania,Sălaj,,,6,0,0,6,0,0,True,True
+2020-04-02,ROU,Romania,Satu Mare,47.705953,22.898922,16,0,0,16,0,0,True,True
 2020-04-02,ROU,Romania,Satu Mare,47.705953,22.898922,0,2,0,-2,0,0,True,True
+2020-04-02,ROU,Romania,Sibiu,45.85906,24.245264,22,0,0,22,0,0,True,True
+2020-04-02,ROU,Romania,Suceava,47.637703,25.82751,701,0,0,701,0,0,True,True
 2020-04-02,ROU,Romania,Suceava,47.637703,25.82751,0,32,0,-32,0,0,True,True
+2020-04-02,ROU,Romania,Teleorman,44.027822,25.197899,16,0,0,16,0,0,True,True
+2020-04-02,ROU,Romania,Timiș,,,98,0,0,98,0,0,True,True
 2020-04-02,ROU,Romania,Timis,45.743832,21.377998,0,6,0,-6,0,0,True,True
+2020-04-02,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-02,ROU,Romania,Vâlcea,,,7,0,0,7,0,0,True,True
+2020-04-02,ROU,Romania,Vaslui,46.526869,27.769395,9,0,0,9,0,0,True,True
+2020-04-02,ROU,Romania,Vrancea,45.788059,26.980214,60,0,0,60,0,0,True,True
 2020-04-02,RUS,Russian Fed.,Adygea,44.448835,40.254013,5,0,0,5,0,0,False,False
 2020-04-02,RUS,Russian Fed.,Altai,52.477021,83.868816,4,0,0,4,0,0,False,False
 2020-04-02,RUS,Russian Fed.,Amur,53.418482,127.711639,1,0,0,1,0,0,False,False
@@ -9463,30 +9522,73 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-03,PRT,Portugal,Lisbon,38.623843,-8.88436,2347,51,0,2296,0,0,True,True
 2020-04-03,PRT,Portugal,Madeira,32.736252,-16.972663,50,0,0,50,0,0,True,True
 2020-04-03,PRT,Portugal,Norte,41.457206,-7.678153,5899,130,0,5769,0,0,True,True
+2020-04-03,ROU,Romania,Alba,46.172367,23.487279,13,0,0,13,0,0,True,True
+2020-04-03,ROU,Romania,Arad,46.273235,21.758454,110,0,0,110,0,0,True,True
 2020-04-03,ROU,Romania,Arad,46.273235,21.758454,0,11,0,-11,0,0,True,True
+2020-04-03,ROU,Romania,Argeș,,,12,0,0,12,0,0,True,True
 2020-04-03,ROU,Romania,Bacau,46.42171,26.773519,0,4,0,-4,0,0,True,True
+2020-04-03,ROU,Romania,Bacău,,,24,0,0,24,0,0,True,True
+2020-04-03,ROU,Romania,Bihor,46.942178,22.210795,44,0,0,44,0,0,True,True
+2020-04-03,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,27,0,0,27,0,0,True,True
 2020-04-03,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,0,5,0,-5,0,0,True,True
+2020-04-03,ROU,Romania,Botoșani,,,44,0,0,44,0,0,True,True
 2020-04-03,ROU,Romania,Botosani,47.85927,26.763139,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Brăila,,,13,0,0,13,0,0,True,True
+2020-04-03,ROU,Romania,Brașov,,,124,0,0,124,0,0,True,True
 2020-04-03,ROU,Romania,Bucuresti,44.442674,26.08861,0,12,0,-12,0,0,True,True
+2020-04-03,ROU,Romania,București,,,544,0,0,544,0,0,True,True
+2020-04-03,ROU,Romania,Buzău,,,12,0,0,12,0,0,True,True
+2020-04-03,ROU,Romania,Călărași,,,26,0,0,26,0,0,True,True
+2020-04-03,ROU,Romania,Caraș-Severin,,,17,0,0,17,0,0,True,True
 2020-04-03,ROU,Romania,Caras-Severin,45.150492,22.042977,0,2,0,-2,0,0,True,True
 2020-04-03,ROU,Romania,Cluj,46.812237,23.53594,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Cluj,46.812237,23.53594,108,0,0,108,0,0,True,True
 2020-04-03,ROU,Romania,Constanta,44.244926,28.247767,0,2,0,-2,0,0,True,True
+2020-04-03,ROU,Romania,Costanza,,,117,0,0,117,0,0,True,True
+2020-04-03,ROU,Romania,Covasna,45.938093,25.990767,38,0,0,38,0,0,True,True
 2020-04-03,ROU,Romania,Covasna,45.938093,25.990767,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Dâmbovița,,,19,0,0,19,0,0,True,True
 2020-04-03,ROU,Romania,Dambovita,44.864944,25.496775,0,2,0,-2,0,0,True,True
 2020-04-03,ROU,Romania,Dolj,44.140792,23.613526,0,2,0,-2,0,0,True,True
+2020-04-03,ROU,Romania,Dolj,44.140792,23.613526,27,0,0,27,0,0,True,True
+2020-04-03,ROU,Romania,Galați,,,90,0,0,90,0,0,True,True
 2020-04-03,ROU,Romania,Galati,45.792748,27.75769,0,2,0,-2,0,0,True,True
+2020-04-03,ROU,Romania,Giurgiu,44.144127,25.881413,22,0,0,22,0,0,True,True
+2020-04-03,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-03,ROU,Romania,Harghita,46.549997,25.558475,1,0,0,1,0,0,True,True
+2020-04-03,ROU,Romania,Hunedoara,45.753652,22.938806,108,0,0,108,0,0,True,True
 2020-04-03,ROU,Romania,Hunedoara,45.753652,22.938806,0,11,0,-11,0,0,True,True
+2020-04-03,ROU,Romania,Iași,,,72,0,0,72,0,0,True,True
+2020-04-03,ROU,Romania,Ialomița,,,45,0,0,45,0,0,True,True
 2020-04-03,ROU,Romania,Ialomita,44.627356,27.256013,0,9,0,-9,0,0,True,True
 2020-04-03,ROU,Romania,Iasi,47.221224,27.311502,0,2,0,-2,0,0,True,True
 2020-04-03,ROU,Romania,Ilfov,44.286638,26.144699,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Ilfov,44.286638,26.144699,60,0,0,60,0,0,True,True
+2020-04-03,ROU,Romania,Maramureș,47.671302,23.981463,46,0,0,46,0,0,True,True
+2020-04-03,ROU,Romania,Mehedinți,,,11,0,0,11,0,0,True,True
 2020-04-03,ROU,Romania,Mehedinti,44.365324,22.737138,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Mureș,,,55,0,0,55,0,0,True,True
 2020-04-03,ROU,Romania,Mures,46.609503,24.697133,0,2,0,-2,0,0,True,True
+2020-04-03,ROU,Romania,Neamț,,,150,0,0,150,0,0,True,True
 2020-04-03,ROU,Romania,Neamt,46.969735,26.375809,0,6,0,-6,0,0,True,True
 2020-04-03,ROU,Romania,NOT SPECIFIED,,,3183,4,0,3179,0,0,True,True
+2020-04-03,ROU,Romania,NOT SPECIFIED,,,0,133,283,-416,0,0,True,True
+2020-04-03,ROU,Romania,Olt,44.272504,24.439351,8,0,0,8,0,0,True,True
+2020-04-03,ROU,Romania,Prahova,45.114672,26.015788,27,0,0,27,0,0,True,True
+2020-04-03,ROU,Romania,Sălaj,,,7,0,0,7,0,0,True,True
+2020-04-03,ROU,Romania,Satu Mare,47.705953,22.898922,16,0,0,16,0,0,True,True
 2020-04-03,ROU,Romania,Satu Mare,47.705953,22.898922,0,2,0,-2,0,0,True,True
+2020-04-03,ROU,Romania,Sibiu,45.85906,24.245264,27,0,0,27,0,0,True,True
+2020-04-03,ROU,Romania,Suceava,47.637703,25.82751,866,0,0,866,0,0,True,True
 2020-04-03,ROU,Romania,Suceava,47.637703,25.82751,0,41,0,-41,0,0,True,True
 2020-04-03,ROU,Romania,Teleorman,44.027822,25.197899,0,1,0,-1,0,0,True,True
+2020-04-03,ROU,Romania,Teleorman,44.027822,25.197899,24,0,0,24,0,0,True,True
+2020-04-03,ROU,Romania,Timiș,,,126,0,0,126,0,0,True,True
 2020-04-03,ROU,Romania,Timis,45.743832,21.377998,0,7,0,-7,0,0,True,True
+2020-04-03,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-03,ROU,Romania,Vâlcea,,,8,0,0,8,0,0,True,True
+2020-04-03,ROU,Romania,Vaslui,46.526869,27.769395,11,0,0,11,0,0,True,True
+2020-04-03,ROU,Romania,Vrancea,45.788059,26.980214,70,0,0,70,0,0,True,True
 2020-04-03,ROU,Romania,Vrancea,45.788059,26.980214,0,1,0,-1,0,0,True,True
 2020-04-03,RUS,Russian Fed.,Adygea,44.448835,40.254013,5,0,0,5,0,0,False,False
 2020-04-03,RUS,Russian Fed.,Altai,52.477021,83.868816,4,0,0,4,0,0,False,False
@@ -9968,7 +10070,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-04,PRT,Portugal,Lisbon,38.623843,-8.88436,2513,54,0,2459,0,0,True,True
 2020-04-04,PRT,Portugal,Madeira,32.736252,-16.972663,51,0,0,51,0,0,True,True
 2020-04-04,PRT,Portugal,Norte,41.457206,-7.678153,6280,141,0,6139,0,0,True,True
+2020-04-04,ROU,Romania,Alba,46.172367,23.487279,15,0,0,15,0,0,True,True
+2020-04-04,ROU,Romania,Arad,46.273235,21.758454,128,0,0,128,0,0,True,True
+2020-04-04,ROU,Romania,Argeș,,,14,0,0,14,0,0,True,True
+2020-04-04,ROU,Romania,Bacău,,,27,0,0,27,0,0,True,True
+2020-04-04,ROU,Romania,Bihor,46.942178,22.210795,46,0,0,46,0,0,True,True
+2020-04-04,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,28,0,0,28,0,0,True,True
+2020-04-04,ROU,Romania,Botoșani,,,48,0,0,48,0,0,True,True
+2020-04-04,ROU,Romania,Brăila,,,11,0,0,11,0,0,True,True
+2020-04-04,ROU,Romania,Brașov,,,127,0,0,127,0,0,True,True
+2020-04-04,ROU,Romania,București,,,550,0,0,550,0,0,True,True
+2020-04-04,ROU,Romania,Buzău,,,12,0,0,12,0,0,True,True
+2020-04-04,ROU,Romania,Călărași,,,29,0,0,29,0,0,True,True
+2020-04-04,ROU,Romania,Caraș-Severin,,,17,0,0,17,0,0,True,True
+2020-04-04,ROU,Romania,Cluj,46.812237,23.53594,121,0,0,121,0,0,True,True
+2020-04-04,ROU,Romania,Costanza,,,110,0,0,110,0,0,True,True
+2020-04-04,ROU,Romania,Covasna,45.938093,25.990767,37,0,0,37,0,0,True,True
+2020-04-04,ROU,Romania,Dâmbovița,,,27,0,0,27,0,0,True,True
+2020-04-04,ROU,Romania,Dolj,44.140792,23.613526,27,0,0,27,0,0,True,True
+2020-04-04,ROU,Romania,Galați,,,101,0,0,101,0,0,True,True
+2020-04-04,ROU,Romania,Giurgiu,44.144127,25.881413,23,0,0,23,0,0,True,True
+2020-04-04,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-04,ROU,Romania,Harghita,46.549997,25.558475,1,0,0,1,0,0,True,True
+2020-04-04,ROU,Romania,Hunedoara,45.753652,22.938806,123,0,0,123,0,0,True,True
+2020-04-04,ROU,Romania,Iași,,,81,0,0,81,0,0,True,True
+2020-04-04,ROU,Romania,Ialomița,,,50,0,0,50,0,0,True,True
+2020-04-04,ROU,Romania,Ilfov,44.286638,26.144699,64,0,0,64,0,0,True,True
+2020-04-04,ROU,Romania,Maramureș,47.671302,23.981463,42,0,0,42,0,0,True,True
+2020-04-04,ROU,Romania,Mehedinți,,,13,0,0,13,0,0,True,True
+2020-04-04,ROU,Romania,Mureș,,,57,0,0,57,0,0,True,True
+2020-04-04,ROU,Romania,Neamț,,,148,0,0,148,0,0,True,True
+2020-04-04,ROU,Romania,NOT SPECIFIED,,,225,146,329,-250,0,0,True,True
 2020-04-04,ROU,Romania,NOT SPECIFIED,,,3393,329,0,3064,0,0,True,True
+2020-04-04,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-04,ROU,Romania,Prahova,45.114672,26.015788,25,0,0,25,0,0,True,True
+2020-04-04,ROU,Romania,Sălaj,,,5,0,0,5,0,0,True,True
+2020-04-04,ROU,Romania,Satu Mare,47.705953,22.898922,15,0,0,15,0,0,True,True
+2020-04-04,ROU,Romania,Sibiu,45.85906,24.245264,27,0,0,27,0,0,True,True
+2020-04-04,ROU,Romania,Suceava,47.637703,25.82751,967,0,0,967,0,0,True,True
+2020-04-04,ROU,Romania,Teleorman,44.027822,25.197899,21,0,0,21,0,0,True,True
+2020-04-04,ROU,Romania,Timiș,,,136,0,0,136,0,0,True,True
+2020-04-04,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-04,ROU,Romania,Vâlcea,,,9,0,0,9,0,0,True,True
+2020-04-04,ROU,Romania,Vaslui,46.526869,27.769395,11,0,0,11,0,0,True,True
+2020-04-04,ROU,Romania,Vrancea,45.788059,26.980214,70,0,0,70,0,0,True,True
 2020-04-04,RUS,Russian Fed.,Adygea,44.448835,40.254013,5,0,0,5,0,0,False,False
 2020-04-04,RUS,Russian Fed.,Altai,52.477021,83.868816,4,0,0,4,0,0,False,False
 2020-04-04,RUS,Russian Fed.,Amur,53.418482,127.711639,1,0,0,1,0,0,False,False
@@ -10456,7 +10601,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-05,PRT,Portugal,Lisbon,38.623843,-8.88436,2904,58,0,2846,0,0,True,True
 2020-04-05,PRT,Portugal,Madeira,32.736252,-16.972663,52,0,0,52,0,0,True,True
 2020-04-05,PRT,Portugal,Norte,41.457206,-7.678153,6530,158,0,6372,0,0,True,True
+2020-04-05,ROU,Romania,Alba,46.172367,23.487279,33,0,0,33,0,0,True,True
+2020-04-05,ROU,Romania,Arad,46.273235,21.758454,150,0,0,150,0,0,True,True
+2020-04-05,ROU,Romania,Argeș,,,25,0,0,25,0,0,True,True
+2020-04-05,ROU,Romania,Bacău,,,38,0,0,38,0,0,True,True
+2020-04-05,ROU,Romania,Bihor,46.942178,22.210795,46,0,0,46,0,0,True,True
+2020-04-05,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,42,0,0,42,0,0,True,True
+2020-04-05,ROU,Romania,Botoșani,,,68,0,0,68,0,0,True,True
+2020-04-05,ROU,Romania,Brăila,,,11,0,0,11,0,0,True,True
+2020-04-05,ROU,Romania,Brașov,,,131,0,0,131,0,0,True,True
+2020-04-05,ROU,Romania,București,,,552,0,0,552,0,0,True,True
+2020-04-05,ROU,Romania,Buzău,,,12,0,0,12,0,0,True,True
+2020-04-05,ROU,Romania,Călărași,,,30,0,0,30,0,0,True,True
+2020-04-05,ROU,Romania,Caraș-Severin,,,21,0,0,21,0,0,True,True
+2020-04-05,ROU,Romania,Cluj,46.812237,23.53594,110,0,0,110,0,0,True,True
+2020-04-05,ROU,Romania,Costanza,,,114,0,0,114,0,0,True,True
+2020-04-05,ROU,Romania,Covasna,45.938093,25.990767,47,0,0,47,0,0,True,True
+2020-04-05,ROU,Romania,Dâmbovița,,,23,0,0,23,0,0,True,True
+2020-04-05,ROU,Romania,Dolj,44.140792,23.613526,27,0,0,27,0,0,True,True
+2020-04-05,ROU,Romania,Galați,,,101,0,0,101,0,0,True,True
+2020-04-05,ROU,Romania,Giurgiu,44.144127,25.881413,24,0,0,24,0,0,True,True
+2020-04-05,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-05,ROU,Romania,Harghita,46.549997,25.558475,1,0,0,1,0,0,True,True
+2020-04-05,ROU,Romania,Hunedoara,45.753652,22.938806,124,0,0,124,0,0,True,True
+2020-04-05,ROU,Romania,Iași,,,88,0,0,88,0,0,True,True
+2020-04-05,ROU,Romania,Ialomița,,,56,0,0,56,0,0,True,True
+2020-04-05,ROU,Romania,Ilfov,44.286638,26.144699,78,0,0,78,0,0,True,True
+2020-04-05,ROU,Romania,Maramureș,47.671302,23.981463,42,0,0,42,0,0,True,True
+2020-04-05,ROU,Romania,Mehedinți,,,12,0,0,12,0,0,True,True
+2020-04-05,ROU,Romania,Mureș,,,57,0,0,57,0,0,True,True
+2020-04-05,ROU,Romania,Neamț,,,160,0,0,160,0,0,True,True
+2020-04-05,ROU,Romania,NOT SPECIFIED,,,0,151,374,-525,0,0,True,True
 2020-04-05,ROU,Romania,NOT SPECIFIED,,,3864,374,0,3490,0,0,True,True
+2020-04-05,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-05,ROU,Romania,Prahova,45.114672,26.015788,26,0,0,26,0,0,True,True
+2020-04-05,ROU,Romania,Sălaj,,,8,0,0,8,0,0,True,True
+2020-04-05,ROU,Romania,Satu Mare,47.705953,22.898922,21,0,0,21,0,0,True,True
+2020-04-05,ROU,Romania,Sibiu,45.85906,24.245264,49,0,0,49,0,0,True,True
+2020-04-05,ROU,Romania,Suceava,47.637703,25.82751,1215,0,0,1215,0,0,True,True
+2020-04-05,ROU,Romania,Teleorman,44.027822,25.197899,21,0,0,21,0,0,True,True
+2020-04-05,ROU,Romania,Timiș,,,176,0,0,176,0,0,True,True
+2020-04-05,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-05,ROU,Romania,Vâlcea,,,8,0,0,8,0,0,True,True
+2020-04-05,ROU,Romania,Vaslui,46.526869,27.769395,13,0,0,13,0,0,True,True
+2020-04-05,ROU,Romania,Vrancea,45.788059,26.980214,79,0,0,79,0,0,True,True
 2020-04-05,RUS,Russian Fed.,Adygea,44.448835,40.254013,7,0,0,7,0,0,False,False
 2020-04-05,RUS,Russian Fed.,Altai,52.477021,83.868816,7,0,0,7,0,0,False,False
 2020-04-05,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -10990,7 +11178,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-06,PRT,Portugal,Lisbon,38.623843,-8.88436,3070,60,0,3010,0,0,True,True
 2020-04-06,PRT,Portugal,Madeira,32.736252,-16.972663,52,0,0,52,0,0,True,True
 2020-04-06,PRT,Portugal,Norte,41.457206,-7.678153,6706,168,0,6538,0,0,True,True
+2020-04-06,ROU,Romania,Alba,46.172367,23.487279,34,0,0,34,0,0,True,True
+2020-04-06,ROU,Romania,Arad,46.273235,21.758454,157,0,0,157,0,0,True,True
+2020-04-06,ROU,Romania,Argeș,,,27,0,0,27,0,0,True,True
+2020-04-06,ROU,Romania,Bacău,,,39,0,0,39,0,0,True,True
+2020-04-06,ROU,Romania,Bihor,46.942178,22.210795,52,0,0,52,0,0,True,True
+2020-04-06,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,58,0,0,58,0,0,True,True
+2020-04-06,ROU,Romania,Botoșani,,,84,0,0,84,0,0,True,True
+2020-04-06,ROU,Romania,Brăila,,,11,0,0,11,0,0,True,True
+2020-04-06,ROU,Romania,Brașov,,,138,0,0,138,0,0,True,True
+2020-04-06,ROU,Romania,București,,,566,0,0,566,0,0,True,True
+2020-04-06,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-06,ROU,Romania,Călărași,,,31,0,0,31,0,0,True,True
+2020-04-06,ROU,Romania,Caraș-Severin,,,21,0,0,21,0,0,True,True
+2020-04-06,ROU,Romania,Cluj,46.812237,23.53594,114,0,0,114,0,0,True,True
+2020-04-06,ROU,Romania,Costanza,,,117,0,0,117,0,0,True,True
+2020-04-06,ROU,Romania,Covasna,45.938093,25.990767,52,0,0,52,0,0,True,True
+2020-04-06,ROU,Romania,Dâmbovița,,,24,0,0,24,0,0,True,True
+2020-04-06,ROU,Romania,Dolj,44.140792,23.613526,29,0,0,29,0,0,True,True
+2020-04-06,ROU,Romania,Galați,,,119,0,0,119,0,0,True,True
+2020-04-06,ROU,Romania,Giurgiu,44.144127,25.881413,32,0,0,32,0,0,True,True
+2020-04-06,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-06,ROU,Romania,Harghita,46.549997,25.558475,3,0,0,3,0,0,True,True
+2020-04-06,ROU,Romania,Hunedoara,45.753652,22.938806,138,0,0,138,0,0,True,True
+2020-04-06,ROU,Romania,Iași,,,87,0,0,87,0,0,True,True
+2020-04-06,ROU,Romania,Ialomița,,,63,0,0,63,0,0,True,True
+2020-04-06,ROU,Romania,Ilfov,44.286638,26.144699,89,0,0,89,0,0,True,True
+2020-04-06,ROU,Romania,Maramureș,47.671302,23.981463,42,0,0,42,0,0,True,True
+2020-04-06,ROU,Romania,Mehedinți,,,13,0,0,13,0,0,True,True
+2020-04-06,ROU,Romania,Mureș,,,56,0,0,56,0,0,True,True
+2020-04-06,ROU,Romania,Neamț,,,160,0,0,160,0,0,True,True
+2020-04-06,ROU,Romania,NOT SPECIFIED,,,0,176,406,-582,0,0,True,True
 2020-04-06,ROU,Romania,NOT SPECIFIED,,,4057,406,0,3651,0,0,True,True
+2020-04-06,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-06,ROU,Romania,Prahova,45.114672,26.015788,33,0,0,33,0,0,True,True
+2020-04-06,ROU,Romania,Sălaj,,,10,0,0,10,0,0,True,True
+2020-04-06,ROU,Romania,Satu Mare,47.705953,22.898922,25,0,0,25,0,0,True,True
+2020-04-06,ROU,Romania,Sibiu,45.85906,24.245264,55,0,0,55,0,0,True,True
+2020-04-06,ROU,Romania,Suceava,47.637703,25.82751,1228,0,0,1228,0,0,True,True
+2020-04-06,ROU,Romania,Teleorman,44.027822,25.197899,30,0,0,30,0,0,True,True
+2020-04-06,ROU,Romania,Timiș,,,181,0,0,181,0,0,True,True
+2020-04-06,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-06,ROU,Romania,Vâlcea,,,8,0,0,8,0,0,True,True
+2020-04-06,ROU,Romania,Vaslui,46.526869,27.769395,14,0,0,14,0,0,True,True
+2020-04-06,ROU,Romania,Vrancea,45.788059,26.980214,79,0,0,79,0,0,True,True
 2020-04-06,RUS,Russian Fed.,Adygea,44.448835,40.254013,7,0,0,7,0,0,False,False
 2020-04-06,RUS,Russian Fed.,Altai,52.477021,83.868816,7,0,0,7,0,0,False,False
 2020-04-06,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -11524,7 +11755,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-07,PRT,Portugal,Lisbon,38.623843,-8.88436,3185,64,0,3121,0,0,True,True
 2020-04-07,PRT,Portugal,Madeira,32.736252,-16.972663,52,0,0,52,0,0,True,True
 2020-04-07,PRT,Portugal,Norte,41.457206,-7.678153,7052,186,0,6866,0,0,True,True
+2020-04-07,ROU,Romania,Alba,46.172367,23.487279,50,0,0,50,0,0,True,True
+2020-04-07,ROU,Romania,Arad,46.273235,21.758454,161,0,0,161,0,0,True,True
+2020-04-07,ROU,Romania,Argeș,,,31,0,0,31,0,0,True,True
+2020-04-07,ROU,Romania,Bacău,,,47,0,0,47,0,0,True,True
+2020-04-07,ROU,Romania,Bihor,46.942178,22.210795,55,0,0,55,0,0,True,True
+2020-04-07,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,70,0,0,70,0,0,True,True
+2020-04-07,ROU,Romania,Botoșani,,,86,0,0,86,0,0,True,True
+2020-04-07,ROU,Romania,Brăila,,,12,0,0,12,0,0,True,True
+2020-04-07,ROU,Romania,Brașov,,,156,0,0,156,0,0,True,True
+2020-04-07,ROU,Romania,București,,,598,0,0,598,0,0,True,True
+2020-04-07,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-07,ROU,Romania,Călărași,,,33,0,0,33,0,0,True,True
+2020-04-07,ROU,Romania,Caraș-Severin,,,23,0,0,23,0,0,True,True
+2020-04-07,ROU,Romania,Cluj,46.812237,23.53594,119,0,0,119,0,0,True,True
+2020-04-07,ROU,Romania,Costanza,,,119,0,0,119,0,0,True,True
+2020-04-07,ROU,Romania,Covasna,45.938093,25.990767,55,0,0,55,0,0,True,True
+2020-04-07,ROU,Romania,Dâmbovița,,,25,0,0,25,0,0,True,True
+2020-04-07,ROU,Romania,Dolj,44.140792,23.613526,29,0,0,29,0,0,True,True
+2020-04-07,ROU,Romania,Galați,,,133,0,0,133,0,0,True,True
+2020-04-07,ROU,Romania,Giurgiu,44.144127,25.881413,34,0,0,34,0,0,True,True
+2020-04-07,ROU,Romania,Gorj,45.004246,23.322863,7,0,0,7,0,0,True,True
+2020-04-07,ROU,Romania,Harghita,46.549997,25.558475,3,0,0,3,0,0,True,True
+2020-04-07,ROU,Romania,Hunedoara,45.753652,22.938806,158,0,0,158,0,0,True,True
+2020-04-07,ROU,Romania,Iași,,,92,0,0,92,0,0,True,True
+2020-04-07,ROU,Romania,Ialomița,,,72,0,0,72,0,0,True,True
+2020-04-07,ROU,Romania,Ilfov,44.286638,26.144699,99,0,0,99,0,0,True,True
+2020-04-07,ROU,Romania,Maramureș,47.671302,23.981463,43,0,0,43,0,0,True,True
+2020-04-07,ROU,Romania,Mehedinți,,,13,0,0,13,0,0,True,True
+2020-04-07,ROU,Romania,Mureș,,,92,0,0,92,0,0,True,True
+2020-04-07,ROU,Romania,Neamț,,,182,0,0,182,0,0,True,True
+2020-04-07,ROU,Romania,NOT SPECIFIED,,,0,197,460,-657,0,0,True,True
 2020-04-07,ROU,Romania,NOT SPECIFIED,,,4417,460,0,3957,0,0,True,True
+2020-04-07,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-07,ROU,Romania,Prahova,45.114672,26.015788,36,0,0,36,0,0,True,True
+2020-04-07,ROU,Romania,Sălaj,,,11,0,0,11,0,0,True,True
+2020-04-07,ROU,Romania,Satu Mare,47.705953,22.898922,27,0,0,27,0,0,True,True
+2020-04-07,ROU,Romania,Sibiu,45.85906,24.245264,69,0,0,69,0,0,True,True
+2020-04-07,ROU,Romania,Suceava,47.637703,25.82751,1322,0,0,1322,0,0,True,True
+2020-04-07,ROU,Romania,Teleorman,44.027822,25.197899,31,0,0,31,0,0,True,True
+2020-04-07,ROU,Romania,Timiș,,,191,0,0,191,0,0,True,True
+2020-04-07,ROU,Romania,Tulcea,44.986929,28.858105,6,0,0,6,0,0,True,True
+2020-04-07,ROU,Romania,Vâlcea,,,9,0,0,9,0,0,True,True
+2020-04-07,ROU,Romania,Vaslui,46.526869,27.769395,15,0,0,15,0,0,True,True
+2020-04-07,ROU,Romania,Vrancea,45.788059,26.980214,79,0,0,79,0,0,True,True
 2020-04-07,RUS,Russian Fed.,Adygea,44.448835,40.254013,13,0,0,13,0,0,False,False
 2020-04-07,RUS,Russian Fed.,Altai,52.477021,83.868816,12,0,0,12,0,0,False,False
 2020-04-07,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -12058,7 +12332,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-08,PRT,Portugal,Lisbon,38.623843,-8.88436,3424,68,0,3356,0,0,True,True
 2020-04-08,PRT,Portugal,Madeira,32.736252,-16.972663,52,0,0,52,0,0,True,True
 2020-04-08,PRT,Portugal,Norte,41.457206,-7.678153,7386,208,0,7178,0,0,True,True
+2020-04-08,ROU,Romania,Alba,46.172367,23.487279,83,0,0,83,0,0,True,True
+2020-04-08,ROU,Romania,Arad,46.273235,21.758454,161,0,0,161,0,0,True,True
+2020-04-08,ROU,Romania,Argeș,,,33,0,0,33,0,0,True,True
+2020-04-08,ROU,Romania,Bacău,,,51,0,0,51,0,0,True,True
+2020-04-08,ROU,Romania,Bihor,46.942178,22.210795,58,0,0,58,0,0,True,True
+2020-04-08,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,72,0,0,72,0,0,True,True
+2020-04-08,ROU,Romania,Botoșani,,,88,0,0,88,0,0,True,True
+2020-04-08,ROU,Romania,Brăila,,,14,0,0,14,0,0,True,True
+2020-04-08,ROU,Romania,Brașov,,,161,0,0,161,0,0,True,True
+2020-04-08,ROU,Romania,București,,,637,0,0,637,0,0,True,True
+2020-04-08,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-08,ROU,Romania,Călărași,,,35,0,0,35,0,0,True,True
+2020-04-08,ROU,Romania,Caraș-Severin,,,28,0,0,28,0,0,True,True
+2020-04-08,ROU,Romania,Cluj,46.812237,23.53594,129,0,0,129,0,0,True,True
+2020-04-08,ROU,Romania,Costanza,,,114,0,0,114,0,0,True,True
+2020-04-08,ROU,Romania,Covasna,45.938093,25.990767,57,0,0,57,0,0,True,True
+2020-04-08,ROU,Romania,Dâmbovița,,,27,0,0,27,0,0,True,True
+2020-04-08,ROU,Romania,Dolj,44.140792,23.613526,39,0,0,39,0,0,True,True
+2020-04-08,ROU,Romania,Galați,,,128,0,0,128,0,0,True,True
+2020-04-08,ROU,Romania,Giurgiu,44.144127,25.881413,36,0,0,36,0,0,True,True
+2020-04-08,ROU,Romania,Gorj,45.004246,23.322863,7,0,0,7,0,0,True,True
+2020-04-08,ROU,Romania,Harghita,46.549997,25.558475,3,0,0,3,0,0,True,True
+2020-04-08,ROU,Romania,Hunedoara,45.753652,22.938806,174,0,0,174,0,0,True,True
+2020-04-08,ROU,Romania,Iași,,,106,0,0,106,0,0,True,True
+2020-04-08,ROU,Romania,Ialomița,,,79,0,0,79,0,0,True,True
+2020-04-08,ROU,Romania,Ilfov,44.286638,26.144699,99,0,0,99,0,0,True,True
+2020-04-08,ROU,Romania,Maramureș,47.671302,23.981463,41,0,0,41,0,0,True,True
+2020-04-08,ROU,Romania,Mehedinți,,,13,0,0,13,0,0,True,True
+2020-04-08,ROU,Romania,Mureș,,,103,0,0,103,0,0,True,True
+2020-04-08,ROU,Romania,Neamț,,,196,0,0,196,0,0,True,True
+2020-04-08,ROU,Romania,NOT SPECIFIED,,,1,220,528,-747,0,0,True,True
 2020-04-08,ROU,Romania,NOT SPECIFIED,,,4761,528,0,4233,0,0,True,True
+2020-04-08,ROU,Romania,Olt,44.272504,24.439351,12,0,0,12,0,0,True,True
+2020-04-08,ROU,Romania,Prahova,45.114672,26.015788,36,0,0,36,0,0,True,True
+2020-04-08,ROU,Romania,Sălaj,,,11,0,0,11,0,0,True,True
+2020-04-08,ROU,Romania,Satu Mare,47.705953,22.898922,25,0,0,25,0,0,True,True
+2020-04-08,ROU,Romania,Sibiu,45.85906,24.245264,72,0,0,72,0,0,True,True
+2020-04-08,ROU,Romania,Suceava,47.637703,25.82751,1430,0,0,1430,0,0,True,True
+2020-04-08,ROU,Romania,Teleorman,44.027822,25.197899,36,0,0,36,0,0,True,True
+2020-04-08,ROU,Romania,Timiș,,,227,0,0,227,0,0,True,True
+2020-04-08,ROU,Romania,Tulcea,44.986929,28.858105,10,0,0,10,0,0,True,True
+2020-04-08,ROU,Romania,Vâlcea,,,9,0,0,9,0,0,True,True
+2020-04-08,ROU,Romania,Vaslui,46.526869,27.769395,17,0,0,17,0,0,True,True
+2020-04-08,ROU,Romania,Vrancea,45.788059,26.980214,90,0,0,90,0,0,True,True
 2020-04-08,RUS,Russian Fed.,Adygea,44.448835,40.254013,13,0,0,13,0,0,False,False
 2020-04-08,RUS,Russian Fed.,Altai,52.477021,83.868816,18,0,0,18,0,0,False,False
 2020-04-08,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -12594,7 +12911,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-09,PRT,Portugal,Lisbon,38.623843,-8.88436,3451,72,0,3379,0,0,True,True
 2020-04-09,PRT,Portugal,Madeira,32.736252,-16.972663,53,0,0,53,0,0,True,True
 2020-04-09,PRT,Portugal,Norte,41.457206,-7.678153,8102,224,0,7878,0,0,True,True
+2020-04-09,ROU,Romania,Alba,46.172367,23.487279,90,0,0,90,0,0,True,True
+2020-04-09,ROU,Romania,Arad,46.273235,21.758454,162,0,0,162,0,0,True,True
+2020-04-09,ROU,Romania,Argeș,,,32,0,0,32,0,0,True,True
+2020-04-09,ROU,Romania,Bacău,,,56,0,0,56,0,0,True,True
+2020-04-09,ROU,Romania,Bihor,46.942178,22.210795,66,0,0,66,0,0,True,True
+2020-04-09,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,76,0,0,76,0,0,True,True
+2020-04-09,ROU,Romania,Botoșani,,,106,0,0,106,0,0,True,True
+2020-04-09,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
+2020-04-09,ROU,Romania,Brașov,,,175,0,0,175,0,0,True,True
+2020-04-09,ROU,Romania,București,,,659,0,0,659,0,0,True,True
+2020-04-09,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-09,ROU,Romania,Călărași,,,34,0,0,34,0,0,True,True
+2020-04-09,ROU,Romania,Caraș-Severin,,,34,0,0,34,0,0,True,True
+2020-04-09,ROU,Romania,Cluj,46.812237,23.53594,148,0,0,148,0,0,True,True
+2020-04-09,ROU,Romania,Costanza,,,124,0,0,124,0,0,True,True
+2020-04-09,ROU,Romania,Covasna,45.938093,25.990767,62,0,0,62,0,0,True,True
+2020-04-09,ROU,Romania,Dâmbovița,,,28,0,0,28,0,0,True,True
+2020-04-09,ROU,Romania,Dolj,44.140792,23.613526,39,0,0,39,0,0,True,True
+2020-04-09,ROU,Romania,Galați,,,175,0,0,175,0,0,True,True
+2020-04-09,ROU,Romania,Giurgiu,44.144127,25.881413,46,0,0,46,0,0,True,True
+2020-04-09,ROU,Romania,Gorj,45.004246,23.322863,9,0,0,9,0,0,True,True
+2020-04-09,ROU,Romania,Harghita,46.549997,25.558475,4,0,0,4,0,0,True,True
+2020-04-09,ROU,Romania,Hunedoara,45.753652,22.938806,212,0,0,212,0,0,True,True
+2020-04-09,ROU,Romania,Iași,,,131,0,0,131,0,0,True,True
+2020-04-09,ROU,Romania,Ialomița,,,81,0,0,81,0,0,True,True
+2020-04-09,ROU,Romania,Ilfov,44.286638,26.144699,107,0,0,107,0,0,True,True
+2020-04-09,ROU,Romania,Maramureș,47.671302,23.981463,43,0,0,43,0,0,True,True
+2020-04-09,ROU,Romania,Mehedinți,,,15,0,0,15,0,0,True,True
+2020-04-09,ROU,Romania,Mureș,,,146,0,0,146,0,0,True,True
+2020-04-09,ROU,Romania,Neamț,,,202,0,0,202,0,0,True,True
+2020-04-09,ROU,Romania,NOT SPECIFIED,,,0,248,647,-895,0,0,True,True
 2020-04-09,ROU,Romania,NOT SPECIFIED,,,5202,229,0,4973,0,0,True,True
+2020-04-09,ROU,Romania,Olt,44.272504,24.439351,12,0,0,12,0,0,True,True
+2020-04-09,ROU,Romania,Prahova,45.114672,26.015788,36,0,0,36,0,0,True,True
+2020-04-09,ROU,Romania,Sălaj,,,12,0,0,12,0,0,True,True
+2020-04-09,ROU,Romania,Satu Mare,47.705953,22.898922,28,0,0,28,0,0,True,True
+2020-04-09,ROU,Romania,Sibiu,45.85906,24.245264,90,0,0,90,0,0,True,True
+2020-04-09,ROU,Romania,Suceava,47.637703,25.82751,1487,0,0,1487,0,0,True,True
+2020-04-09,ROU,Romania,Teleorman,44.027822,25.197899,41,0,0,41,0,0,True,True
+2020-04-09,ROU,Romania,Timiș,,,252,0,0,252,0,0,True,True
+2020-04-09,ROU,Romania,Tulcea,44.986929,28.858105,11,0,0,11,0,0,True,True
+2020-04-09,ROU,Romania,Vâlcea,,,11,0,0,11,0,0,True,True
+2020-04-09,ROU,Romania,Vaslui,46.526869,27.769395,36,0,0,36,0,0,True,True
+2020-04-09,ROU,Romania,Vrancea,45.788059,26.980214,95,0,0,95,0,0,True,True
 2020-04-09,RUS,Russian Fed.,Adygea,44.448835,40.254013,13,0,0,13,0,0,False,False
 2020-04-09,RUS,Russian Fed.,Altai,52.477021,83.868816,18,0,0,18,0,0,False,False
 2020-04-09,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -13131,7 +13491,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-10,PRT,Portugal,Lisbon,38.623843,-8.88436,3821,78,0,3743,0,0,True,True
 2020-04-10,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-10,PRT,Portugal,Norte,41.457206,-7.678153,8897,240,0,8657,0,0,True,True
+2020-04-10,ROU,Romania,Alba,46.172367,23.487279,100,0,0,100,0,0,True,True
+2020-04-10,ROU,Romania,Arad,46.273235,21.758454,179,0,0,179,0,0,True,True
+2020-04-10,ROU,Romania,Argeș,,,52,0,0,52,0,0,True,True
+2020-04-10,ROU,Romania,Bacău,,,58,0,0,58,0,0,True,True
+2020-04-10,ROU,Romania,Bihor,46.942178,22.210795,70,0,0,70,0,0,True,True
+2020-04-10,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,78,0,0,78,0,0,True,True
+2020-04-10,ROU,Romania,Botoșani,,,119,0,0,119,0,0,True,True
+2020-04-10,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
+2020-04-10,ROU,Romania,Brașov,,,190,0,0,190,0,0,True,True
+2020-04-10,ROU,Romania,București,,,688,0,0,688,0,0,True,True
+2020-04-10,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-10,ROU,Romania,Călărași,,,35,0,0,35,0,0,True,True
+2020-04-10,ROU,Romania,Caraș-Severin,,,38,0,0,38,0,0,True,True
+2020-04-10,ROU,Romania,Cluj,46.812237,23.53594,152,0,0,152,0,0,True,True
+2020-04-10,ROU,Romania,Costanza,,,124,0,0,124,0,0,True,True
+2020-04-10,ROU,Romania,Covasna,45.938093,25.990767,79,0,0,79,0,0,True,True
+2020-04-10,ROU,Romania,Dâmbovița,,,30,0,0,30,0,0,True,True
+2020-04-10,ROU,Romania,Dolj,44.140792,23.613526,40,0,0,40,0,0,True,True
+2020-04-10,ROU,Romania,Galați,,,182,0,0,182,0,0,True,True
+2020-04-10,ROU,Romania,Giurgiu,44.144127,25.881413,46,0,0,46,0,0,True,True
+2020-04-10,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-10,ROU,Romania,Harghita,46.549997,25.558475,5,0,0,5,0,0,True,True
+2020-04-10,ROU,Romania,Hunedoara,45.753652,22.938806,227,0,0,227,0,0,True,True
+2020-04-10,ROU,Romania,Iași,,,99,0,0,99,0,0,True,True
+2020-04-10,ROU,Romania,Ialomița,,,85,0,0,85,0,0,True,True
+2020-04-10,ROU,Romania,Ilfov,44.286638,26.144699,115,0,0,115,0,0,True,True
+2020-04-10,ROU,Romania,Maramureș,47.671302,23.981463,43,0,0,43,0,0,True,True
+2020-04-10,ROU,Romania,Mehedinți,,,16,0,0,16,0,0,True,True
+2020-04-10,ROU,Romania,Mureș,,,161,0,0,161,0,0,True,True
+2020-04-10,ROU,Romania,Neamț,,,234,0,0,234,0,0,True,True
+2020-04-10,ROU,Romania,NOT SPECIFIED,,,0,270,729,-999,0,0,True,True
 2020-04-10,ROU,Romania,NOT SPECIFIED,,,5467,257,0,5210,0,0,True,True
+2020-04-10,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-10,ROU,Romania,Prahova,45.114672,26.015788,38,0,0,38,0,0,True,True
+2020-04-10,ROU,Romania,Sălaj,,,13,0,0,13,0,0,True,True
+2020-04-10,ROU,Romania,Satu Mare,47.705953,22.898922,30,0,0,30,0,0,True,True
+2020-04-10,ROU,Romania,Sibiu,45.85906,24.245264,94,0,0,94,0,0,True,True
+2020-04-10,ROU,Romania,Suceava,47.637703,25.82751,1529,0,0,1529,0,0,True,True
+2020-04-10,ROU,Romania,Teleorman,44.027822,25.197899,56,0,0,56,0,0,True,True
+2020-04-10,ROU,Romania,Timiș,,,259,0,0,259,0,0,True,True
+2020-04-10,ROU,Romania,Tulcea,44.986929,28.858105,12,0,0,12,0,0,True,True
+2020-04-10,ROU,Romania,Vâlcea,,,11,0,0,11,0,0,True,True
+2020-04-10,ROU,Romania,Vaslui,46.526869,27.769395,35,0,0,35,0,0,True,True
+2020-04-10,ROU,Romania,Vrancea,45.788059,26.980214,95,0,0,95,0,0,True,True
 2020-04-10,RUS,Russian Fed.,Adygea,44.448835,40.254013,20,0,0,20,0,0,False,False
 2020-04-10,RUS,Russian Fed.,Altai,52.477021,83.868816,21,0,0,21,0,0,False,False
 2020-04-10,RUS,Russian Fed.,Amur,53.418482,127.711639,4,0,0,4,0,0,False,False
@@ -13648,7 +14051,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-11,PRT,Portugal,Lisbon,38.623843,-8.88436,3834,87,0,3747,0,0,True,True
 2020-04-11,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-11,PRT,Portugal,Norte,41.457206,-7.678153,9264,258,0,9006,0,0,True,True
+2020-04-11,ROU,Romania,Alba,46.172367,23.487279,103,0,0,103,0,0,True,True
+2020-04-11,ROU,Romania,Arad,46.273235,21.758454,229,0,0,229,0,0,True,True
+2020-04-11,ROU,Romania,Argeș,,,51,0,0,51,0,0,True,True
+2020-04-11,ROU,Romania,Bacău,,,65,0,0,65,0,0,True,True
+2020-04-11,ROU,Romania,Bihor,46.942178,22.210795,83,0,0,83,0,0,True,True
+2020-04-11,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,82,0,0,82,0,0,True,True
+2020-04-11,ROU,Romania,Botoșani,,,155,0,0,155,0,0,True,True
+2020-04-11,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
+2020-04-11,ROU,Romania,Brașov,,,219,0,0,219,0,0,True,True
+2020-04-11,ROU,Romania,București,,,730,0,0,730,0,0,True,True
+2020-04-11,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-11,ROU,Romania,Călărași,,,35,0,0,35,0,0,True,True
+2020-04-11,ROU,Romania,Caraș-Severin,,,48,0,0,48,0,0,True,True
+2020-04-11,ROU,Romania,Cluj,46.812237,23.53594,177,0,0,177,0,0,True,True
+2020-04-11,ROU,Romania,Costanza,,,155,0,0,155,0,0,True,True
+2020-04-11,ROU,Romania,Covasna,45.938093,25.990767,91,0,0,91,0,0,True,True
+2020-04-11,ROU,Romania,Dâmbovița,,,30,0,0,30,0,0,True,True
+2020-04-11,ROU,Romania,Dolj,44.140792,23.613526,43,0,0,43,0,0,True,True
+2020-04-11,ROU,Romania,Galați,,,183,0,0,183,0,0,True,True
+2020-04-11,ROU,Romania,Giurgiu,44.144127,25.881413,47,0,0,47,0,0,True,True
+2020-04-11,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-11,ROU,Romania,Harghita,46.549997,25.558475,6,0,0,6,0,0,True,True
+2020-04-11,ROU,Romania,Hunedoara,45.753652,22.938806,254,0,0,254,0,0,True,True
+2020-04-11,ROU,Romania,Iași,,,107,0,0,107,0,0,True,True
+2020-04-11,ROU,Romania,Ialomița,,,89,0,0,89,0,0,True,True
+2020-04-11,ROU,Romania,Ilfov,44.286638,26.144699,117,0,0,117,0,0,True,True
+2020-04-11,ROU,Romania,Maramureș,47.671302,23.981463,45,0,0,45,0,0,True,True
+2020-04-11,ROU,Romania,Mehedinți,,,17,0,0,17,0,0,True,True
+2020-04-11,ROU,Romania,Mureș,,,203,0,0,203,0,0,True,True
+2020-04-11,ROU,Romania,Neamț,,,265,0,0,265,0,0,True,True
+2020-04-11,ROU,Romania,NOT SPECIFIED,,,0,291,758,-1049,0,0,True,True
 2020-04-11,ROU,Romania,NOT SPECIFIED,,,5590,282,0,5308,0,0,True,True
+2020-04-11,ROU,Romania,Olt,44.272504,24.439351,11,0,0,11,0,0,True,True
+2020-04-11,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
+2020-04-11,ROU,Romania,Sălaj,,,13,0,0,13,0,0,True,True
+2020-04-11,ROU,Romania,Satu Mare,47.705953,22.898922,32,0,0,32,0,0,True,True
+2020-04-11,ROU,Romania,Sibiu,45.85906,24.245264,101,0,0,101,0,0,True,True
+2020-04-11,ROU,Romania,Suceava,47.637703,25.82751,1614,0,0,1614,0,0,True,True
+2020-04-11,ROU,Romania,Teleorman,44.027822,25.197899,59,0,0,59,0,0,True,True
+2020-04-11,ROU,Romania,Timiș,,,275,0,0,275,0,0,True,True
+2020-04-11,ROU,Romania,Tulcea,44.986929,28.858105,13,0,0,13,0,0,True,True
+2020-04-11,ROU,Romania,Vâlcea,,,13,0,0,13,0,0,True,True
+2020-04-11,ROU,Romania,Vaslui,46.526869,27.769395,38,0,0,38,0,0,True,True
+2020-04-11,ROU,Romania,Vrancea,45.788059,26.980214,116,0,0,116,0,0,True,True
 2020-04-11,RUS,Russian Fed.,Adygea,44.448835,40.254013,20,0,0,20,0,0,False,False
 2020-04-11,RUS,Russian Fed.,Altai,52.477021,83.868816,29,0,0,29,0,0,False,False
 2020-04-11,RUS,Russian Fed.,Amur,53.418482,127.711639,6,0,0,6,0,0,False,False
@@ -14167,8 +14613,51 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,PRT,Portugal,Lisbon,38.623843,-8.88436,3841,91,0,3750,0,0,True,True
 2020-04-12,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-12,PRT,Portugal,Norte,41.457206,-7.678153,9747,280,0,9467,0,0,True,True
+2020-04-12,ROU,Romania,Alba,46.172367,23.487279,108,0,0,108,0,0,True,True
+2020-04-12,ROU,Romania,Arad,46.273235,21.758454,249,0,0,249,0,0,True,True
+2020-04-12,ROU,Romania,Argeș,,,57,0,0,57,0,0,True,True
+2020-04-12,ROU,Romania,Bacău,,,69,0,0,69,0,0,True,True
+2020-04-12,ROU,Romania,Bihor,46.942178,22.210795,83,0,0,83,0,0,True,True
+2020-04-12,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,82,0,0,82,0,0,True,True
+2020-04-12,ROU,Romania,Botoșani,,,156,0,0,156,0,0,True,True
+2020-04-12,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
+2020-04-12,ROU,Romania,Brașov,,,238,0,0,238,0,0,True,True
+2020-04-12,ROU,Romania,București,,,751,0,0,751,0,0,True,True
+2020-04-12,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-12,ROU,Romania,Călărași,,,35,0,0,35,0,0,True,True
+2020-04-12,ROU,Romania,Caraș-Severin,,,51,0,0,51,0,0,True,True
+2020-04-12,ROU,Romania,Cluj,46.812237,23.53594,183,0,0,183,0,0,True,True
+2020-04-12,ROU,Romania,Costanza,,,157,0,0,157,0,0,True,True
+2020-04-12,ROU,Romania,Covasna,45.938093,25.990767,117,0,0,117,0,0,True,True
+2020-04-12,ROU,Romania,Dâmbovița,,,30,0,0,30,0,0,True,True
+2020-04-12,ROU,Romania,Dolj,44.140792,23.613526,43,0,0,43,0,0,True,True
+2020-04-12,ROU,Romania,Galați,,,190,0,0,190,0,0,True,True
+2020-04-12,ROU,Romania,Giurgiu,44.144127,25.881413,49,0,0,49,0,0,True,True
+2020-04-12,ROU,Romania,Gorj,45.004246,23.322863,8,0,0,8,0,0,True,True
+2020-04-12,ROU,Romania,Harghita,46.549997,25.558475,7,0,0,7,0,0,True,True
+2020-04-12,ROU,Romania,Hunedoara,45.753652,22.938806,303,0,0,303,0,0,True,True
+2020-04-12,ROU,Romania,Iași,,,113,0,0,113,0,0,True,True
+2020-04-12,ROU,Romania,Ialomița,,,100,0,0,100,0,0,True,True
+2020-04-12,ROU,Romania,Ilfov,44.286638,26.144699,119,0,0,119,0,0,True,True
+2020-04-12,ROU,Romania,Maramureș,47.671302,23.981463,49,0,0,49,0,0,True,True
+2020-04-12,ROU,Romania,Mehedinți,,,17,0,0,17,0,0,True,True
+2020-04-12,ROU,Romania,Mureș,,,217,0,0,217,0,0,True,True
+2020-04-12,ROU,Romania,Neamț,,,285,0,0,285,0,0,True,True
 2020-04-12,ROU,Romania,Neamt,46.969735,26.375809,0,0,0,0,0,0,True,True
 2020-04-12,ROU,Romania,NOT SPECIFIED,,,6300,306,0,5994,0,0,True,True
+2020-04-12,ROU,Romania,NOT SPECIFIED,,,0,314,852,-1166,0,0,True,True
+2020-04-12,ROU,Romania,Olt,44.272504,24.439351,12,0,0,12,0,0,True,True
+2020-04-12,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
+2020-04-12,ROU,Romania,Sălaj,,,17,0,0,17,0,0,True,True
+2020-04-12,ROU,Romania,Satu Mare,47.705953,22.898922,37,0,0,37,0,0,True,True
+2020-04-12,ROU,Romania,Sibiu,45.85906,24.245264,109,0,0,109,0,0,True,True
+2020-04-12,ROU,Romania,Suceava,47.637703,25.82751,1661,0,0,1661,0,0,True,True
+2020-04-12,ROU,Romania,Teleorman,44.027822,25.197899,62,0,0,62,0,0,True,True
+2020-04-12,ROU,Romania,Timiș,,,284,0,0,284,0,0,True,True
+2020-04-12,ROU,Romania,Tulcea,44.986929,28.858105,14,0,0,14,0,0,True,True
+2020-04-12,ROU,Romania,Vâlcea,,,13,0,0,13,0,0,True,True
+2020-04-12,ROU,Romania,Vaslui,46.526869,27.769395,40,0,0,40,0,0,True,True
+2020-04-12,ROU,Romania,Vrancea,45.788059,26.980214,117,0,0,117,0,0,True,True
 2020-04-12,RUS,Russian Fed.,Adygea,44.448835,40.254013,20,0,0,20,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Altai,52.477021,83.868816,29,0,0,29,0,0,False,False
 2020-04-12,RUS,Russian Fed.,Amur,53.418482,127.711639,17,0,0,17,0,0,False,False
@@ -14693,43 +15182,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-13,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-13,PRT,Portugal,Norte,41.457206,-7.678153,9984,303,0,9681,0,0,True,True
 2020-04-13,ROU,Romania,Alba,46.172367,23.487279,109,0,0,109,0,0,True,True
+2020-04-13,ROU,Romania,Alba,46.172367,23.487279,109,0,0,109,0,0,True,True
 2020-04-13,ROU,Romania,Arad,46.273235,21.758454,270,0,0,270,0,0,True,True
+2020-04-13,ROU,Romania,Arad,46.273235,21.758454,270,0,0,270,0,0,True,True
+2020-04-13,ROU,Romania,Argeș,,,57,0,0,57,0,0,True,True
 2020-04-13,ROU,Romania,Bacau,46.42171,26.773519,76,0,0,76,0,0,True,True
+2020-04-13,ROU,Romania,Bacău,,,76,0,0,76,0,0,True,True
+2020-04-13,ROU,Romania,Bihor,46.942178,22.210795,176,0,0,176,0,0,True,True
 2020-04-13,ROU,Romania,Bihor,46.942178,22.210795,176,0,0,176,0,0,True,True
 2020-04-13,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,82,0,0,82,0,0,True,True
+2020-04-13,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,82,0,0,82,0,0,True,True
+2020-04-13,ROU,Romania,Botoșani,,,156,0,0,156,0,0,True,True
 2020-04-13,ROU,Romania,Botosani,47.85927,26.763139,156,0,0,156,0,0,True,True
+2020-04-13,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
 2020-04-13,ROU,Romania,Bralia,45.0878,27.673222,16,0,0,16,0,0,True,True
+2020-04-13,ROU,Romania,Brașov,,,253,0,0,253,0,0,True,True
 2020-04-13,ROU,Romania,Brasov,45.765228,25.302188,253,0,0,253,0,0,True,True
 2020-04-13,ROU,Romania,Bucuresti,44.442674,26.08861,774,0,0,774,0,0,True,True
+2020-04-13,ROU,Romania,București,,,774,0,0,774,0,0,True,True
 2020-04-13,ROU,Romania,Buzau,45.245475,26.750309,13,0,0,13,0,0,True,True
+2020-04-13,ROU,Romania,Buzău,,,13,0,0,13,0,0,True,True
+2020-04-13,ROU,Romania,Călărași,,,39,0,0,39,0,0,True,True
 2020-04-13,ROU,Romania,Calarasi,44.313456,27.020712,39,0,0,39,0,0,True,True
+2020-04-13,ROU,Romania,Caraș-Severin,,,53,0,0,53,0,0,True,True
 2020-04-13,ROU,Romania,Caras-Severin,45.150492,22.042977,53,0,0,53,0,0,True,True
 2020-04-13,ROU,Romania,Cluj,46.812237,23.53594,187,0,0,187,0,0,True,True
+2020-04-13,ROU,Romania,Cluj,46.812237,23.53594,187,0,0,187,0,0,True,True
 2020-04-13,ROU,Romania,Constanta,44.244926,28.247767,151,0,0,151,0,0,True,True
+2020-04-13,ROU,Romania,Costanza,,,151,0,0,151,0,0,True,True
 2020-04-13,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-13,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-13,ROU,Romania,Dâmbovița,,,31,0,0,31,0,0,True,True
 2020-04-13,ROU,Romania,Dambovita,44.864944,25.496775,31,0,0,31,0,0,True,True
 2020-04-13,ROU,Romania,Dolj,44.140792,23.613526,44,0,0,44,0,0,True,True
+2020-04-13,ROU,Romania,Dolj,44.140792,23.613526,44,0,0,44,0,0,True,True
+2020-04-13,ROU,Romania,Galați,,,195,0,0,195,0,0,True,True
 2020-04-13,ROU,Romania,Galati,45.792748,27.75769,195,0,0,195,0,0,True,True
 2020-04-13,ROU,Romania,Giurgiu,44.144127,25.881413,64,0,0,64,0,0,True,True
+2020-04-13,ROU,Romania,Giurgiu,44.144127,25.881413,64,0,0,64,0,0,True,True
 2020-04-13,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-13,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-13,ROU,Romania,Harghita,46.549997,25.558475,7,0,0,7,0,0,True,True
 2020-04-13,ROU,Romania,Hunedoara,45.753652,22.938806,303,0,0,303,0,0,True,True
+2020-04-13,ROU,Romania,Hunedoara,45.753652,22.938806,303,0,0,303,0,0,True,True
+2020-04-13,ROU,Romania,Iași,,,118,0,0,118,0,0,True,True
+2020-04-13,ROU,Romania,Ialomița,,,102,0,0,102,0,0,True,True
 2020-04-13,ROU,Romania,Ialomita,44.627356,27.256013,102,0,0,102,0,0,True,True
 2020-04-13,ROU,Romania,Iasi,47.221224,27.311502,118,0,0,118,0,0,True,True
 2020-04-13,ROU,Romania,Ilfov,44.286638,26.144699,126,0,0,126,0,0,True,True
+2020-04-13,ROU,Romania,Ilfov,44.286638,26.144699,126,0,0,126,0,0,True,True
 2020-04-13,ROU,Romania,Maramureș,47.671302,23.981463,49,0,0,49,0,0,True,True
+2020-04-13,ROU,Romania,Maramureș,47.671302,23.981463,49,0,0,49,0,0,True,True
+2020-04-13,ROU,Romania,Mehedinți,,,19,0,0,19,0,0,True,True
 2020-04-13,ROU,Romania,Mehedinti,44.365324,22.737138,19,0,0,19,0,0,True,True
+2020-04-13,ROU,Romania,Mureș,,,222,0,0,222,0,0,True,True
 2020-04-13,ROU,Romania,Mures,46.609503,24.697133,222,0,0,222,0,0,True,True
+2020-04-13,ROU,Romania,Neamț,,,286,0,0,286,0,0,True,True
 2020-04-13,ROU,Romania,Neamt,46.969735,26.375809,286,0,0,286,0,0,True,True
 2020-04-13,ROU,Romania,NOT SPECIFIED,,,222,318,0,-96,0,0,True,True
+2020-04-13,ROU,Romania,NOT SPECIFIED,,,0,331,914,-1245,0,0,True,True
+2020-04-13,ROU,Romania,Olt,44.272504,24.439351,12,0,0,12,0,0,True,True
 2020-04-13,ROU,Romania,Olt,44.272504,24.439351,12,0,0,12,0,0,True,True
 2020-04-13,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
+2020-04-13,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
 2020-04-13,ROU,Romania,Salaj,47.18438,23.106887,17,0,0,17,0,0,True,True
+2020-04-13,ROU,Romania,Sălaj,,,17,0,0,17,0,0,True,True
 2020-04-13,ROU,Romania,Satu Mare,47.705953,22.898922,37,0,0,37,0,0,True,True
+2020-04-13,ROU,Romania,Satu Mare,47.705953,22.898922,37,0,0,37,0,0,True,True
+2020-04-13,ROU,Romania,Sibiu,45.85906,24.245264,111,0,0,111,0,0,True,True
+2020-04-13,ROU,Romania,Suceava,47.637703,25.82751,1731,0,0,1731,0,0,True,True
 2020-04-13,ROU,Romania,Suceava,47.637703,25.82751,1731,0,0,1731,0,0,True,True
 2020-04-13,ROU,Romania,Teleorman,44.027822,25.197899,65,0,0,65,0,0,True,True
+2020-04-13,ROU,Romania,Teleorman,44.027822,25.197899,65,0,0,65,0,0,True,True
+2020-04-13,ROU,Romania,Timiș,,,300,0,0,300,0,0,True,True
 2020-04-13,ROU,Romania,Timis,45.743832,21.377998,300,0,0,300,0,0,True,True
 2020-04-13,ROU,Romania,Tulcea,44.986929,28.858105,16,0,0,16,0,0,True,True
+2020-04-13,ROU,Romania,Tulcea,44.986929,28.858105,16,0,0,16,0,0,True,True
 2020-04-13,ROU,Romania,Valcea,45.096033,24.110629,13,0,0,13,0,0,True,True
+2020-04-13,ROU,Romania,Vâlcea,,,13,0,0,13,0,0,True,True
+2020-04-13,ROU,Romania,Vaslui,46.526869,27.769395,47,0,0,47,0,0,True,True
+2020-04-13,ROU,Romania,Vrancea,45.788059,26.980214,134,0,0,134,0,0,True,True
 2020-04-13,ROU,Romania,Vrancea,45.788059,26.980214,134,0,0,134,0,0,True,True
 2020-04-13,RUS,Russian Fed.,Adygea,44.448835,40.254013,20,0,0,20,0,0,False,False
 2020-04-13,RUS,Russian Fed.,Altai,52.477021,83.868816,31,0,0,31,0,0,False,False
@@ -15239,43 +15771,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-14,PRT,Portugal,Norte,41.457206,-7.678153,10302,321,0,9981,0,0,True,True
 2020-04-14,ROU,Romania,Alba,46.172367,23.487279,118,0,0,118,0,0,True,True
+2020-04-14,ROU,Romania,Alba,46.172367,23.487279,118,0,0,118,0,0,True,True
 2020-04-14,ROU,Romania,Arad,46.273235,21.758454,280,0,0,280,0,0,True,True
+2020-04-14,ROU,Romania,Arad,46.273235,21.758454,280,0,0,280,0,0,True,True
+2020-04-14,ROU,Romania,Argeș,,,59,0,0,59,0,0,True,True
 2020-04-14,ROU,Romania,Bacau,46.42171,26.773519,76,0,0,76,0,0,True,True
+2020-04-14,ROU,Romania,Bacău,,,76,0,0,76,0,0,True,True
+2020-04-14,ROU,Romania,Bihor,46.942178,22.210795,190,0,0,190,0,0,True,True
 2020-04-14,ROU,Romania,Bihor,46.942178,22.210795,190,0,0,190,0,0,True,True
 2020-04-14,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,89,0,0,89,0,0,True,True
+2020-04-14,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,89,0,0,89,0,0,True,True
+2020-04-14,ROU,Romania,Botoșani,,,172,0,0,172,0,0,True,True
 2020-04-14,ROU,Romania,Botosani,47.85927,26.763139,172,0,0,172,0,0,True,True
+2020-04-14,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
 2020-04-14,ROU,Romania,Bralia,45.0878,27.673222,16,0,0,16,0,0,True,True
+2020-04-14,ROU,Romania,Brașov,,,263,0,0,263,0,0,True,True
 2020-04-14,ROU,Romania,Brasov,45.765228,25.302188,263,0,0,263,0,0,True,True
 2020-04-14,ROU,Romania,Bucuresti,44.442674,26.08861,789,0,0,789,0,0,True,True
+2020-04-14,ROU,Romania,București,,,789,0,0,789,0,0,True,True
 2020-04-14,ROU,Romania,Buzau,45.245475,26.750309,14,0,0,14,0,0,True,True
+2020-04-14,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-14,ROU,Romania,Călărași,,,39,0,0,39,0,0,True,True
 2020-04-14,ROU,Romania,Calarasi,44.313456,27.020712,39,0,0,39,0,0,True,True
+2020-04-14,ROU,Romania,Caraș-Severin,,,57,0,0,57,0,0,True,True
 2020-04-14,ROU,Romania,Caras-Severin,45.150492,22.042977,57,0,0,57,0,0,True,True
 2020-04-14,ROU,Romania,Cluj,46.812237,23.53594,198,0,0,198,0,0,True,True
+2020-04-14,ROU,Romania,Cluj,46.812237,23.53594,198,0,0,198,0,0,True,True
 2020-04-14,ROU,Romania,Constanta,44.244926,28.247767,158,0,0,158,0,0,True,True
+2020-04-14,ROU,Romania,Costanza,,,158,0,0,158,0,0,True,True
 2020-04-14,ROU,Romania,Covasna,45.938093,25.990767,124,0,0,124,0,0,True,True
+2020-04-14,ROU,Romania,Covasna,45.938093,25.990767,124,0,0,124,0,0,True,True
+2020-04-14,ROU,Romania,Dâmbovița,,,31,0,0,31,0,0,True,True
 2020-04-14,ROU,Romania,Dambovita,44.864944,25.496775,31,0,0,31,0,0,True,True
 2020-04-14,ROU,Romania,Dolj,44.140792,23.613526,43,0,0,43,0,0,True,True
+2020-04-14,ROU,Romania,Dolj,44.140792,23.613526,43,0,0,43,0,0,True,True
+2020-04-14,ROU,Romania,Galați,,,204,0,0,204,0,0,True,True
 2020-04-14,ROU,Romania,Galati,45.792748,27.75769,204,0,0,204,0,0,True,True
 2020-04-14,ROU,Romania,Giurgiu,44.144127,25.881413,74,0,0,74,0,0,True,True
+2020-04-14,ROU,Romania,Giurgiu,44.144127,25.881413,74,0,0,74,0,0,True,True
 2020-04-14,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-14,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-14,ROU,Romania,Harghita,46.549997,25.558475,7,0,0,7,0,0,True,True
 2020-04-14,ROU,Romania,Hunedoara,45.753652,22.938806,320,0,0,320,0,0,True,True
+2020-04-14,ROU,Romania,Hunedoara,45.753652,22.938806,320,0,0,320,0,0,True,True
+2020-04-14,ROU,Romania,Iași,,,119,0,0,119,0,0,True,True
+2020-04-14,ROU,Romania,Ialomița,,,108,0,0,108,0,0,True,True
 2020-04-14,ROU,Romania,Ialomita,44.627356,27.256013,108,0,0,108,0,0,True,True
 2020-04-14,ROU,Romania,Iasi,47.221224,27.311502,119,0,0,119,0,0,True,True
 2020-04-14,ROU,Romania,Ilfov,44.286638,26.144699,132,0,0,132,0,0,True,True
+2020-04-14,ROU,Romania,Ilfov,44.286638,26.144699,132,0,0,132,0,0,True,True
 2020-04-14,ROU,Romania,Maramureș,47.671302,23.981463,51,0,0,51,0,0,True,True
+2020-04-14,ROU,Romania,Maramureș,47.671302,23.981463,51,0,0,51,0,0,True,True
+2020-04-14,ROU,Romania,Mehedinți,,,22,0,0,22,0,0,True,True
 2020-04-14,ROU,Romania,Mehedinti,44.365324,22.737138,22,0,0,22,0,0,True,True
+2020-04-14,ROU,Romania,Mureș,,,229,0,0,229,0,0,True,True
 2020-04-14,ROU,Romania,Mures,46.609503,24.697133,229,0,0,229,0,0,True,True
+2020-04-14,ROU,Romania,Neamț,,,304,0,0,304,0,0,True,True
 2020-04-14,ROU,Romania,Neamt,46.969735,26.375809,304,0,0,304,0,0,True,True
 2020-04-14,ROU,Romania,NOT SPECIFIED,,,231,0,0,231,0,0,True,True
+2020-04-14,ROU,Romania,NOT SPECIFIED,,,0,351,1051,-1402,0,0,True,True
+2020-04-14,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-14,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-14,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
+2020-04-14,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
 2020-04-14,ROU,Romania,Salaj,47.18438,23.106887,18,0,0,18,0,0,True,True
+2020-04-14,ROU,Romania,Sălaj,,,18,0,0,18,0,0,True,True
 2020-04-14,ROU,Romania,Satu Mare,47.705953,22.898922,37,0,0,37,0,0,True,True
+2020-04-14,ROU,Romania,Satu Mare,47.705953,22.898922,37,0,0,37,0,0,True,True
+2020-04-14,ROU,Romania,Sibiu,45.85906,24.245264,116,0,0,116,0,0,True,True
+2020-04-14,ROU,Romania,Suceava,47.637703,25.82751,1733,0,0,1733,0,0,True,True
 2020-04-14,ROU,Romania,Suceava,47.637703,25.82751,1733,0,0,1733,0,0,True,True
 2020-04-14,ROU,Romania,Teleorman,44.027822,25.197899,70,0,0,70,0,0,True,True
+2020-04-14,ROU,Romania,Teleorman,44.027822,25.197899,70,0,0,70,0,0,True,True
+2020-04-14,ROU,Romania,Timiș,,,318,0,0,318,0,0,True,True
 2020-04-14,ROU,Romania,Timis,45.743832,21.377998,318,0,0,318,0,0,True,True
 2020-04-14,ROU,Romania,Tulcea,44.986929,28.858105,18,0,0,18,0,0,True,True
+2020-04-14,ROU,Romania,Tulcea,44.986929,28.858105,18,0,0,18,0,0,True,True
 2020-04-14,ROU,Romania,Valcea,45.096033,24.110629,15,0,0,15,0,0,True,True
+2020-04-14,ROU,Romania,Vâlcea,,,15,0,0,15,0,0,True,True
+2020-04-14,ROU,Romania,Vaslui,46.526869,27.769395,49,0,0,49,0,0,True,True
+2020-04-14,ROU,Romania,Vrancea,45.788059,26.980214,157,0,0,157,0,0,True,True
 2020-04-14,ROU,Romania,Vrancea,45.788059,26.980214,157,0,0,157,0,0,True,True
 2020-04-14,RUS,Russian Fed.,Adygea,44.448835,40.254013,27,0,0,27,0,0,False,False
 2020-04-14,RUS,Russian Fed.,Altai,52.477021,83.868816,36,0,0,36,0,0,False,False
@@ -15759,6 +16334,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,PRT,Portugal,Lisbon,38.623843,-8.88436,4102,111,0,3991,0,0,True,True
 2020-04-15,PRT,Portugal,Madeira,32.736252,-16.972663,59,0,0,59,0,0,True,True
 2020-04-15,PRT,Portugal,Norte,41.457206,-7.678153,10751,339,0,10412,0,0,True,True
+2020-04-15,ROU,Romania,Alba,46.172367,23.487279,133,0,0,133,0,0,True,True
+2020-04-15,ROU,Romania,Arad,46.273235,21.758454,312,0,0,312,0,0,True,True
+2020-04-15,ROU,Romania,Argeș,,,62,0,0,62,0,0,True,True
+2020-04-15,ROU,Romania,Bacău,,,81,0,0,81,0,0,True,True
+2020-04-15,ROU,Romania,Bihor,46.942178,22.210795,198,0,0,198,0,0,True,True
+2020-04-15,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,93,0,0,93,0,0,True,True
+2020-04-15,ROU,Romania,Botoșani,,,231,0,0,231,0,0,True,True
+2020-04-15,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
+2020-04-15,ROU,Romania,Brașov,,,270,0,0,270,0,0,True,True
+2020-04-15,ROU,Romania,București,,,824,0,0,824,0,0,True,True
+2020-04-15,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-15,ROU,Romania,Călărași,,,41,0,0,41,0,0,True,True
+2020-04-15,ROU,Romania,Caraș-Severin,,,57,0,0,57,0,0,True,True
+2020-04-15,ROU,Romania,Cluj,46.812237,23.53594,203,0,0,203,0,0,True,True
+2020-04-15,ROU,Romania,Costanza,,,163,0,0,163,0,0,True,True
+2020-04-15,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-15,ROU,Romania,Dâmbovița,,,31,0,0,31,0,0,True,True
+2020-04-15,ROU,Romania,Dolj,44.140792,23.613526,55,0,0,55,0,0,True,True
+2020-04-15,ROU,Romania,Galați,,,229,0,0,229,0,0,True,True
+2020-04-15,ROU,Romania,Giurgiu,44.144127,25.881413,75,0,0,75,0,0,True,True
+2020-04-15,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-15,ROU,Romania,Harghita,46.549997,25.558475,7,0,0,7,0,0,True,True
+2020-04-15,ROU,Romania,Hunedoara,45.753652,22.938806,320,0,0,320,0,0,True,True
+2020-04-15,ROU,Romania,Iași,,,121,0,0,121,0,0,True,True
+2020-04-15,ROU,Romania,Ialomița,,,110,0,0,110,0,0,True,True
+2020-04-15,ROU,Romania,Ilfov,44.286638,26.144699,135,0,0,135,0,0,True,True
+2020-04-15,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-15,ROU,Romania,Mehedinți,,,22,0,0,22,0,0,True,True
+2020-04-15,ROU,Romania,Mureș,,,243,0,0,243,0,0,True,True
+2020-04-15,ROU,Romania,Neamț,,,344,0,0,344,0,0,True,True
+2020-04-15,ROU,Romania,NOT SPECIFIED,,,0,372,1217,-1589,0,0,True,True
+2020-04-15,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
+2020-04-15,ROU,Romania,Prahova,45.114672,26.015788,39,0,0,39,0,0,True,True
+2020-04-15,ROU,Romania,Sălaj,,,18,0,0,18,0,0,True,True
+2020-04-15,ROU,Romania,Satu Mare,47.705953,22.898922,39,0,0,39,0,0,True,True
+2020-04-15,ROU,Romania,Sibiu,45.85906,24.245264,120,0,0,120,0,0,True,True
+2020-04-15,ROU,Romania,Suceava,47.637703,25.82751,1763,0,0,1763,0,0,True,True
+2020-04-15,ROU,Romania,Teleorman,44.027822,25.197899,74,0,0,74,0,0,True,True
+2020-04-15,ROU,Romania,Timiș,,,322,0,0,322,0,0,True,True
+2020-04-15,ROU,Romania,Tulcea,44.986929,28.858105,23,0,0,23,0,0,True,True
+2020-04-15,ROU,Romania,Vâlcea,,,15,0,0,15,0,0,True,True
+2020-04-15,ROU,Romania,Vaslui,46.526869,27.769395,52,0,0,52,0,0,True,True
+2020-04-15,ROU,Romania,Vrancea,45.788059,26.980214,160,0,0,160,0,0,True,True
 2020-04-15,RUS,Russian Fed.,Adygea,44.448835,40.254013,27,0,0,27,0,0,False,False
 2020-04-15,RUS,Russian Fed.,Altai,52.477021,83.868816,39,0,0,39,0,0,False,False
 2020-04-15,RUS,Russian Fed.,Amur,53.418482,127.711639,6,0,0,6,0,0,False,False
@@ -16269,43 +16887,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-16,PRT,Portugal,Madeira,32.736252,-16.972663,53,0,0,53,0,0,True,True
 2020-04-16,PRT,Portugal,Norte,41.457206,-7.678153,11237,355,0,10882,0,0,True,True
 2020-04-16,ROU,Romania,Alba,46.172367,23.487279,141,0,0,141,0,0,True,True
+2020-04-16,ROU,Romania,Alba,46.172367,23.487279,141,0,0,141,0,0,True,True
 2020-04-16,ROU,Romania,Arad,46.273235,21.758454,339,0,0,339,0,0,True,True
+2020-04-16,ROU,Romania,Arad,46.273235,21.758454,339,0,0,339,0,0,True,True
+2020-04-16,ROU,Romania,Argeș,,,67,0,0,67,0,0,True,True
 2020-04-16,ROU,Romania,Bacau,46.42171,26.773519,94,0,0,94,0,0,True,True
+2020-04-16,ROU,Romania,Bacău,,,94,0,0,94,0,0,True,True
+2020-04-16,ROU,Romania,Bihor,46.942178,22.210795,219,0,0,219,0,0,True,True
 2020-04-16,ROU,Romania,Bihor,46.942178,22.210795,219,0,0,219,0,0,True,True
 2020-04-16,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,93,0,0,93,0,0,True,True
+2020-04-16,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,93,0,0,93,0,0,True,True
+2020-04-16,ROU,Romania,Botoșani,,,290,0,0,290,0,0,True,True
 2020-04-16,ROU,Romania,Botosani,47.85927,26.763139,290,0,0,290,0,0,True,True
+2020-04-16,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
 2020-04-16,ROU,Romania,Bralia,45.0878,27.673222,16,0,0,16,0,0,True,True
+2020-04-16,ROU,Romania,Brașov,,,286,0,0,286,0,0,True,True
 2020-04-16,ROU,Romania,Brasov,45.765228,25.302188,286,0,0,286,0,0,True,True
 2020-04-16,ROU,Romania,Bucuresti,44.442674,26.08861,866,0,0,866,0,0,True,True
+2020-04-16,ROU,Romania,București,,,866,0,0,866,0,0,True,True
 2020-04-16,ROU,Romania,Buzau,45.245475,26.750309,14,0,0,14,0,0,True,True
+2020-04-16,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-16,ROU,Romania,Călărași,,,41,0,0,41,0,0,True,True
 2020-04-16,ROU,Romania,Calarasi,44.313456,27.020712,41,0,0,41,0,0,True,True
+2020-04-16,ROU,Romania,Caraș-Severin,,,58,0,0,58,0,0,True,True
 2020-04-16,ROU,Romania,Caras-Severin,45.150492,22.042977,58,0,0,58,0,0,True,True
 2020-04-16,ROU,Romania,Cluj,46.812237,23.53594,215,0,0,215,0,0,True,True
+2020-04-16,ROU,Romania,Cluj,46.812237,23.53594,215,0,0,215,0,0,True,True
 2020-04-16,ROU,Romania,Constanta,44.244926,28.247767,168,0,0,168,0,0,True,True
+2020-04-16,ROU,Romania,Costanza,,,168,0,0,168,0,0,True,True
 2020-04-16,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-16,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-16,ROU,Romania,Dâmbovița,,,31,0,0,31,0,0,True,True
 2020-04-16,ROU,Romania,Dambovita,44.864944,25.496775,31,0,0,31,0,0,True,True
 2020-04-16,ROU,Romania,Dolj,44.140792,23.613526,55,0,0,55,0,0,True,True
+2020-04-16,ROU,Romania,Dolj,44.140792,23.613526,55,0,0,55,0,0,True,True
+2020-04-16,ROU,Romania,Galați,,,240,0,0,240,0,0,True,True
 2020-04-16,ROU,Romania,Galati,45.792748,27.75769,240,0,0,240,0,0,True,True
 2020-04-16,ROU,Romania,Giurgiu,44.144127,25.881413,80,0,0,80,0,0,True,True
+2020-04-16,ROU,Romania,Giurgiu,44.144127,25.881413,80,0,0,80,0,0,True,True
 2020-04-16,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-16,ROU,Romania,Gorj,45.004246,23.322863,10,0,0,10,0,0,True,True
+2020-04-16,ROU,Romania,Harghita,46.549997,25.558475,9,0,0,9,0,0,True,True
 2020-04-16,ROU,Romania,Hunedoara,45.753652,22.938806,333,0,0,333,0,0,True,True
+2020-04-16,ROU,Romania,Hunedoara,45.753652,22.938806,333,0,0,333,0,0,True,True
+2020-04-16,ROU,Romania,Iași,,,130,0,0,130,0,0,True,True
+2020-04-16,ROU,Romania,Ialomița,,,114,0,0,114,0,0,True,True
 2020-04-16,ROU,Romania,Ialomita,44.627356,27.256013,114,0,0,114,0,0,True,True
 2020-04-16,ROU,Romania,Iasi,47.221224,27.311502,130,0,0,130,0,0,True,True
 2020-04-16,ROU,Romania,Ilfov,44.286638,26.144699,154,0,0,154,0,0,True,True
+2020-04-16,ROU,Romania,Ilfov,44.286638,26.144699,154,0,0,154,0,0,True,True
 2020-04-16,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-16,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-16,ROU,Romania,Mehedinți,,,28,0,0,28,0,0,True,True
 2020-04-16,ROU,Romania,Mehedinti,44.365324,22.737138,28,0,0,28,0,0,True,True
+2020-04-16,ROU,Romania,Mureș,,,250,0,0,250,0,0,True,True
 2020-04-16,ROU,Romania,Mures,46.609503,24.697133,250,0,0,250,0,0,True,True
+2020-04-16,ROU,Romania,Neamț,,,348,0,0,348,0,0,True,True
 2020-04-16,ROU,Romania,Neamt,46.969735,26.375809,348,0,0,348,0,0,True,True
 2020-04-16,ROU,Romania,NOT SPECIFIED,,,255,387,0,-132,0,0,True,True
+2020-04-16,ROU,Romania,NOT SPECIFIED,,,0,392,1357,-1749,0,0,True,True
+2020-04-16,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-16,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-16,ROU,Romania,Prahova,45.114672,26.015788,48,0,0,48,0,0,True,True
+2020-04-16,ROU,Romania,Prahova,45.114672,26.015788,48,0,0,48,0,0,True,True
 2020-04-16,ROU,Romania,Salaj,47.18438,23.106887,19,0,0,19,0,0,True,True
+2020-04-16,ROU,Romania,Sălaj,,,19,0,0,19,0,0,True,True
 2020-04-16,ROU,Romania,Satu Mare,47.705953,22.898922,41,0,0,41,0,0,True,True
+2020-04-16,ROU,Romania,Satu Mare,47.705953,22.898922,41,0,0,41,0,0,True,True
+2020-04-16,ROU,Romania,Sibiu,45.85906,24.245264,125,0,0,125,0,0,True,True
+2020-04-16,ROU,Romania,Suceava,47.637703,25.82751,1910,0,0,1910,0,0,True,True
 2020-04-16,ROU,Romania,Suceava,47.637703,25.82751,1910,0,0,1910,0,0,True,True
 2020-04-16,ROU,Romania,Teleorman,44.027822,25.197899,76,0,0,76,0,0,True,True
+2020-04-16,ROU,Romania,Teleorman,44.027822,25.197899,76,0,0,76,0,0,True,True
+2020-04-16,ROU,Romania,Timiș,,,341,0,0,341,0,0,True,True
 2020-04-16,ROU,Romania,Timis,45.743832,21.377998,341,0,0,341,0,0,True,True
 2020-04-16,ROU,Romania,Tulcea,44.986929,28.858105,24,0,0,24,0,0,True,True
+2020-04-16,ROU,Romania,Tulcea,44.986929,28.858105,24,0,0,24,0,0,True,True
 2020-04-16,ROU,Romania,Valcea,45.096033,24.110629,15,0,0,15,0,0,True,True
+2020-04-16,ROU,Romania,Vâlcea,,,15,0,0,15,0,0,True,True
+2020-04-16,ROU,Romania,Vaslui,46.526869,27.769395,54,0,0,54,0,0,True,True
+2020-04-16,ROU,Romania,Vrancea,45.788059,26.980214,174,0,0,174,0,0,True,True
 2020-04-16,ROU,Romania,Vrancea,45.788059,26.980214,174,0,0,174,0,0,True,True
 2020-04-16,RUS,Russian Fed.,Adygea,44.448835,40.254013,43,0,0,43,0,0,False,False
 2020-04-16,RUS,Russian Fed.,Altai,52.477021,83.868816,48,0,0,48,0,0,False,False
@@ -16808,43 +17469,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-17,PRT,Portugal,Madeira,32.736252,-16.972663,53,0,0,53,0,0,True,True
 2020-04-17,PRT,Portugal,Norte,41.457206,-7.678153,11324,377,0,10947,0,0,True,True
 2020-04-17,ROU,Romania,Alba,46.172367,23.487279,141,0,0,141,0,0,True,True
+2020-04-17,ROU,Romania,Alba,46.172367,23.487279,141,0,0,141,0,0,True,True
 2020-04-17,ROU,Romania,Arad,46.273235,21.758454,360,0,0,360,0,0,True,True
+2020-04-17,ROU,Romania,Arad,46.273235,21.758454,360,0,0,360,0,0,True,True
+2020-04-17,ROU,Romania,Argeș,,,73,0,0,73,0,0,True,True
 2020-04-17,ROU,Romania,Bacau,46.42171,26.773519,107,0,0,107,0,0,True,True
+2020-04-17,ROU,Romania,Bacău,,,107,0,0,107,0,0,True,True
+2020-04-17,ROU,Romania,Bihor,46.942178,22.210795,222,0,0,222,0,0,True,True
 2020-04-17,ROU,Romania,Bihor,46.942178,22.210795,222,0,0,222,0,0,True,True
 2020-04-17,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,94,0,0,94,0,0,True,True
+2020-04-17,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,94,0,0,94,0,0,True,True
+2020-04-17,ROU,Romania,Botoșani,,,310,0,0,310,0,0,True,True
 2020-04-17,ROU,Romania,Botosani,47.85927,26.763139,310,0,0,310,0,0,True,True
+2020-04-17,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
 2020-04-17,ROU,Romania,Bralia,45.0878,27.673222,16,0,0,16,0,0,True,True
+2020-04-17,ROU,Romania,Brașov,,,299,0,0,299,0,0,True,True
 2020-04-17,ROU,Romania,Brasov,45.765228,25.302188,299,0,0,299,0,0,True,True
 2020-04-17,ROU,Romania,Bucuresti,44.442674,26.08861,942,0,0,942,0,0,True,True
+2020-04-17,ROU,Romania,București,,,942,0,0,942,0,0,True,True
 2020-04-17,ROU,Romania,Buzau,45.245475,26.750309,14,0,0,14,0,0,True,True
+2020-04-17,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-17,ROU,Romania,Călărași,,,40,0,0,40,0,0,True,True
 2020-04-17,ROU,Romania,Calarasi,44.313456,27.020712,41,0,0,41,0,0,True,True
+2020-04-17,ROU,Romania,Caraș-Severin,,,58,0,0,58,0,0,True,True
 2020-04-17,ROU,Romania,Caras-Severin,45.150492,22.042977,58,0,0,58,0,0,True,True
 2020-04-17,ROU,Romania,Cluj,46.812237,23.53594,224,0,0,224,0,0,True,True
+2020-04-17,ROU,Romania,Cluj,46.812237,23.53594,224,0,0,224,0,0,True,True
 2020-04-17,ROU,Romania,Constanta,44.244926,28.247767,172,0,0,172,0,0,True,True
+2020-04-17,ROU,Romania,Costanza,,,172,0,0,172,0,0,True,True
 2020-04-17,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-17,ROU,Romania,Covasna,45.938093,25.990767,123,0,0,123,0,0,True,True
+2020-04-17,ROU,Romania,Dâmbovița,,,73,0,0,73,0,0,True,True
 2020-04-17,ROU,Romania,Dambovita,44.864944,25.496775,73,0,0,73,0,0,True,True
 2020-04-17,ROU,Romania,Dolj,44.140792,23.613526,57,0,0,57,0,0,True,True
+2020-04-17,ROU,Romania,Dolj,44.140792,23.613526,57,0,0,57,0,0,True,True
+2020-04-17,ROU,Romania,Galați,,,260,0,0,260,0,0,True,True
 2020-04-17,ROU,Romania,Galati,45.792748,27.75769,260,0,0,260,0,0,True,True
 2020-04-17,ROU,Romania,Giurgiu,44.144127,25.881413,83,0,0,83,0,0,True,True
+2020-04-17,ROU,Romania,Giurgiu,44.144127,25.881413,83,0,0,83,0,0,True,True
 2020-04-17,ROU,Romania,Gorj,45.004246,23.322863,12,0,0,12,0,0,True,True
+2020-04-17,ROU,Romania,Gorj,45.004246,23.322863,12,0,0,12,0,0,True,True
+2020-04-17,ROU,Romania,Harghita,46.549997,25.558475,11,0,0,11,0,0,True,True
 2020-04-17,ROU,Romania,Hunedoara,45.753652,22.938806,372,0,0,372,0,0,True,True
+2020-04-17,ROU,Romania,Hunedoara,45.753652,22.938806,372,0,0,372,0,0,True,True
+2020-04-17,ROU,Romania,Iași,,,149,0,0,149,0,0,True,True
+2020-04-17,ROU,Romania,Ialomița,,,114,0,0,114,0,0,True,True
 2020-04-17,ROU,Romania,Ialomita,44.627356,27.256013,114,0,0,114,0,0,True,True
 2020-04-17,ROU,Romania,Iasi,47.221224,27.311502,149,0,0,149,0,0,True,True
 2020-04-17,ROU,Romania,Ilfov,44.286638,26.144699,160,0,0,160,0,0,True,True
+2020-04-17,ROU,Romania,Ilfov,44.286638,26.144699,160,0,0,160,0,0,True,True
 2020-04-17,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-17,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-17,ROU,Romania,Mehedinți,,,35,0,0,35,0,0,True,True
 2020-04-17,ROU,Romania,Mehedinti,44.365324,22.737138,35,0,0,35,0,0,True,True
+2020-04-17,ROU,Romania,Mureș,,,250,0,0,250,0,0,True,True
 2020-04-17,ROU,Romania,Mures,46.609503,24.697133,250,0,0,250,0,0,True,True
+2020-04-17,ROU,Romania,Neamț,,,350,0,0,350,0,0,True,True
 2020-04-17,ROU,Romania,Neamt,46.969735,26.375809,350,0,0,350,0,0,True,True
 2020-04-17,ROU,Romania,NOT SPECIFIED,,,267,400,0,-133,0,0,True,True
+2020-04-17,ROU,Romania,NOT SPECIFIED,,,0,411,1508,-1919,0,0,True,True
+2020-04-17,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-17,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-17,ROU,Romania,Prahova,45.114672,26.015788,50,0,0,50,0,0,True,True
+2020-04-17,ROU,Romania,Prahova,45.114672,26.015788,50,0,0,50,0,0,True,True
 2020-04-17,ROU,Romania,Salaj,47.18438,23.106887,19,0,0,19,0,0,True,True
+2020-04-17,ROU,Romania,Sălaj,,,19,0,0,19,0,0,True,True
 2020-04-17,ROU,Romania,Satu Mare,47.705953,22.898922,42,0,0,42,0,0,True,True
+2020-04-17,ROU,Romania,Satu Mare,47.705953,22.898922,42,0,0,42,0,0,True,True
+2020-04-17,ROU,Romania,Sibiu,45.85906,24.245264,126,0,0,126,0,0,True,True
+2020-04-17,ROU,Romania,Suceava,47.637703,25.82751,1924,0,0,1924,0,0,True,True
 2020-04-17,ROU,Romania,Suceava,47.637703,25.82751,1924,0,0,1924,0,0,True,True
 2020-04-17,ROU,Romania,Teleorman,44.027822,25.197899,77,0,0,77,0,0,True,True
+2020-04-17,ROU,Romania,Teleorman,44.027822,25.197899,77,0,0,77,0,0,True,True
+2020-04-17,ROU,Romania,Timiș,,,354,0,0,354,0,0,True,True
 2020-04-17,ROU,Romania,Timis,45.743832,21.377998,354,0,0,354,0,0,True,True
 2020-04-17,ROU,Romania,Tulcea,44.986929,28.858105,25,0,0,25,0,0,True,True
+2020-04-17,ROU,Romania,Tulcea,44.986929,28.858105,25,0,0,25,0,0,True,True
 2020-04-17,ROU,Romania,Valcea,45.096033,24.110629,17,0,0,17,0,0,True,True
+2020-04-17,ROU,Romania,Vâlcea,,,17,0,0,17,0,0,True,True
+2020-04-17,ROU,Romania,Vaslui,46.526869,27.769395,58,0,0,58,0,0,True,True
+2020-04-17,ROU,Romania,Vrancea,45.788059,26.980214,186,0,0,186,0,0,True,True
 2020-04-17,ROU,Romania,Vrancea,45.788059,26.980214,186,0,0,186,0,0,True,True
 2020-04-17,RUS,Russian Fed.,Adygea,44.448835,40.254013,79,0,0,79,0,0,False,False
 2020-04-17,RUS,Russian Fed.,Altai,52.477021,83.868816,53,0,0,53,0,0,False,False
@@ -17372,43 +18076,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-18,PRT,Portugal,Norte,41.457206,-7.678153,11762,0,0,11762,0,0,True,True
 2020-04-18,PRT,Portugal,NOT SPECIFIED,,,0,687,610,-1297,0,228,True,True
 2020-04-18,ROU,Romania,Alba,46.172367,23.487279,154,0,0,154,0,0,True,True
+2020-04-18,ROU,Romania,Alba,46.172367,23.487279,154,0,0,154,0,0,True,True
 2020-04-18,ROU,Romania,Arad,46.273235,21.758454,391,0,0,391,0,0,True,True
+2020-04-18,ROU,Romania,Arad,46.273235,21.758454,391,0,0,391,0,0,True,True
+2020-04-18,ROU,Romania,Argeș,,,74,0,0,74,0,0,True,True
 2020-04-18,ROU,Romania,Bacau,46.42171,26.773519,102,0,0,102,0,0,True,True
+2020-04-18,ROU,Romania,Bacău,,,102,0,0,102,0,0,True,True
+2020-04-18,ROU,Romania,Bihor,46.942178,22.210795,233,0,0,233,0,0,True,True
 2020-04-18,ROU,Romania,Bihor,46.942178,22.210795,233,0,0,233,0,0,True,True
 2020-04-18,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,104,0,0,104,0,0,True,True
+2020-04-18,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,104,0,0,104,0,0,True,True
+2020-04-18,ROU,Romania,Botoșani,,,308,0,0,308,0,0,True,True
 2020-04-18,ROU,Romania,Botosani,47.85927,26.763139,308,0,0,308,0,0,True,True
+2020-04-18,ROU,Romania,Brăila,,,16,0,0,16,0,0,True,True
 2020-04-18,ROU,Romania,Bralia,45.0878,27.673222,16,0,0,16,0,0,True,True
+2020-04-18,ROU,Romania,Brașov,,,308,0,0,308,0,0,True,True
 2020-04-18,ROU,Romania,Brasov,45.765228,25.302188,308,0,0,308,0,0,True,True
 2020-04-18,ROU,Romania,Bucuresti,44.442674,26.08861,977,0,0,977,0,0,True,True
+2020-04-18,ROU,Romania,București,,,977,0,0,977,0,0,True,True
 2020-04-18,ROU,Romania,Buzau,45.245475,26.750309,15,0,0,15,0,0,True,True
+2020-04-18,ROU,Romania,Buzău,,,15,0,0,15,0,0,True,True
+2020-04-18,ROU,Romania,Călărași,,,40,0,0,40,0,0,True,True
 2020-04-18,ROU,Romania,Calarasi,44.313456,27.020712,40,0,0,40,0,0,True,True
+2020-04-18,ROU,Romania,Caraș-Severin,,,64,0,0,64,0,0,True,True
 2020-04-18,ROU,Romania,Caras-Severin,45.150492,22.042977,64,0,0,64,0,0,True,True
 2020-04-18,ROU,Romania,Cluj,46.812237,23.53594,227,0,0,227,0,0,True,True
+2020-04-18,ROU,Romania,Cluj,46.812237,23.53594,237,0,0,237,0,0,True,True
 2020-04-18,ROU,Romania,Constanta,44.244926,28.247767,181,0,0,181,0,0,True,True
+2020-04-18,ROU,Romania,Costanza,,,181,0,0,181,0,0,True,True
 2020-04-18,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-18,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-18,ROU,Romania,Dâmbovița,,,73,0,0,73,0,0,True,True
 2020-04-18,ROU,Romania,Dambovita,44.864944,25.496775,73,0,0,73,0,0,True,True
 2020-04-18,ROU,Romania,Dolj,44.140792,23.613526,59,0,0,59,0,0,True,True
+2020-04-18,ROU,Romania,Dolj,44.140792,23.613526,59,0,0,59,0,0,True,True
+2020-04-18,ROU,Romania,Galați,,,262,0,0,262,0,0,True,True
 2020-04-18,ROU,Romania,Galati,45.792748,27.75769,262,0,0,262,0,0,True,True
 2020-04-18,ROU,Romania,Giurgiu,44.144127,25.881413,91,0,0,91,0,0,True,True
+2020-04-18,ROU,Romania,Giurgiu,44.144127,25.881413,91,0,0,91,0,0,True,True
 2020-04-18,ROU,Romania,Gorj,45.004246,23.322863,12,0,0,12,0,0,True,True
+2020-04-18,ROU,Romania,Gorj,45.004246,23.322863,12,0,0,12,0,0,True,True
+2020-04-18,ROU,Romania,Harghita,46.549997,25.558475,16,0,0,16,0,0,True,True
 2020-04-18,ROU,Romania,Hunedoara,45.753652,22.938806,385,0,0,385,0,0,True,True
+2020-04-18,ROU,Romania,Hunedoara,45.753652,22.938806,385,0,0,385,0,0,True,True
+2020-04-18,ROU,Romania,Iași,,,154,0,0,154,0,0,True,True
+2020-04-18,ROU,Romania,Ialomița,,,115,0,0,115,0,0,True,True
 2020-04-18,ROU,Romania,Ialomita,44.627356,27.256013,115,0,0,115,0,0,True,True
 2020-04-18,ROU,Romania,Iasi,47.221224,27.311502,154,0,0,154,0,0,True,True
 2020-04-18,ROU,Romania,Ilfov,44.286638,26.144699,159,0,0,159,0,0,True,True
+2020-04-18,ROU,Romania,Ilfov,44.286638,26.144699,159,0,0,159,0,0,True,True
 2020-04-18,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-18,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-18,ROU,Romania,Mehedinți,,,35,0,0,35,0,0,True,True
 2020-04-18,ROU,Romania,Mehedinti,44.365324,22.737138,35,0,0,35,0,0,True,True
+2020-04-18,ROU,Romania,Mureș,,,268,0,0,268,0,0,True,True
 2020-04-18,ROU,Romania,Mures,46.609503,24.697133,268,0,0,268,0,0,True,True
+2020-04-18,ROU,Romania,Neamț,,,357,0,0,357,0,0,True,True
 2020-04-18,ROU,Romania,Neamt,46.969735,26.375809,357,0,0,357,0,0,True,True
 2020-04-18,ROU,Romania,NOT SPECIFIED,,,297,417,0,-120,0,0,True,True
+2020-04-18,ROU,Romania,NOT SPECIFIED,,,0,421,1730,-2151,0,0,True,True
+2020-04-18,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-18,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-18,ROU,Romania,Prahova,45.114672,26.015788,51,0,0,51,0,0,True,True
+2020-04-18,ROU,Romania,Prahova,45.114672,26.015788,51,0,0,51,0,0,True,True
 2020-04-18,ROU,Romania,Salaj,47.18438,23.106887,20,0,0,20,0,0,True,True
+2020-04-18,ROU,Romania,Sălaj,,,20,0,0,20,0,0,True,True
 2020-04-18,ROU,Romania,Satu Mare,47.705953,22.898922,44,0,0,44,0,0,True,True
+2020-04-18,ROU,Romania,Satu Mare,47.705953,22.898922,44,0,0,44,0,0,True,True
+2020-04-18,ROU,Romania,Sibiu,45.85906,24.245264,139,0,0,139,0,0,True,True
+2020-04-18,ROU,Romania,Suceava,47.637703,25.82751,2019,0,0,2019,0,0,True,True
 2020-04-18,ROU,Romania,Suceava,47.637703,25.82751,2019,0,0,2019,0,0,True,True
 2020-04-18,ROU,Romania,Teleorman,44.027822,25.197899,79,0,0,79,0,0,True,True
+2020-04-18,ROU,Romania,Teleorman,44.027822,25.197899,79,0,0,79,0,0,True,True
+2020-04-18,ROU,Romania,Timiș,,,361,0,0,361,0,0,True,True
 2020-04-18,ROU,Romania,Timis,45.743832,21.377998,361,0,0,361,0,0,True,True
 2020-04-18,ROU,Romania,Tulcea,44.986929,28.858105,31,0,0,31,0,0,True,True
+2020-04-18,ROU,Romania,Tulcea,44.986929,28.858105,31,0,0,31,0,0,True,True
 2020-04-18,ROU,Romania,Valcea,45.096033,24.110629,18,0,0,18,0,0,True,True
+2020-04-18,ROU,Romania,Vâlcea,,,18,0,0,18,0,0,True,True
+2020-04-18,ROU,Romania,Vaslui,46.526869,27.769395,58,0,0,58,0,0,True,True
+2020-04-18,ROU,Romania,Vrancea,45.788059,26.980214,186,0,0,186,0,0,True,True
 2020-04-18,ROU,Romania,Vrancea,45.788059,26.980214,186,0,0,186,0,0,True,True
 2020-04-18,RUS,Russian Fed.,Adygea,44.448835,40.254013,84,0,0,84,0,0,False,False
 2020-04-18,RUS,Russian Fed.,Altai,52.477021,83.868816,63,0,0,63,0,0,False,False
@@ -17933,43 +18680,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-19,PRT,Portugal,Madeira,32.736252,-16.972663,61,0,0,61,0,0,True,True
 2020-04-19,PRT,Portugal,Norte,41.457206,-7.678153,12148,409,0,11739,0,0,True,True
 2020-04-19,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
+2020-04-19,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
 2020-04-19,ROU,Romania,Arad,46.273235,21.758454,402,0,0,402,0,0,True,True
+2020-04-19,ROU,Romania,Arad,46.273235,21.758454,402,0,0,402,0,0,True,True
+2020-04-19,ROU,Romania,Argeș,,,90,0,0,90,0,0,True,True
 2020-04-19,ROU,Romania,Bacau,46.42171,26.773519,105,0,0,105,0,0,True,True
+2020-04-19,ROU,Romania,Bacău,,,105,0,0,105,0,0,True,True
+2020-04-19,ROU,Romania,Bihor,46.942178,22.210795,237,0,0,237,0,0,True,True
 2020-04-19,ROU,Romania,Bihor,46.942178,22.210795,237,0,0,237,0,0,True,True
 2020-04-19,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,109,0,0,109,0,0,True,True
+2020-04-19,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,109,0,0,109,0,0,True,True
+2020-04-19,ROU,Romania,Botoșani,,,308,0,0,308,0,0,True,True
 2020-04-19,ROU,Romania,Botosani,47.85927,26.763139,308,0,0,308,0,0,True,True
+2020-04-19,ROU,Romania,Brăila,,,18,0,0,18,0,0,True,True
 2020-04-19,ROU,Romania,Bralia,45.0878,27.673222,18,0,0,18,0,0,True,True
+2020-04-19,ROU,Romania,Brașov,,,315,0,0,315,0,0,True,True
 2020-04-19,ROU,Romania,Brasov,45.765228,25.302188,315,0,0,315,0,0,True,True
 2020-04-19,ROU,Romania,Bucuresti,44.442674,26.08861,1001,0,0,1001,0,0,True,True
+2020-04-19,ROU,Romania,București,,,1001,0,0,1001,0,0,True,True
 2020-04-19,ROU,Romania,Buzau,45.245475,26.750309,15,0,0,15,0,0,True,True
+2020-04-19,ROU,Romania,Buzău,,,15,0,0,15,0,0,True,True
+2020-04-19,ROU,Romania,Călărași,,,40,0,0,40,0,0,True,True
 2020-04-19,ROU,Romania,Calarasi,44.313456,27.020712,40,0,0,40,0,0,True,True
+2020-04-19,ROU,Romania,Caraș-Severin,,,64,0,0,64,0,0,True,True
 2020-04-19,ROU,Romania,Caras-Severin,45.150492,22.042977,64,0,0,64,0,0,True,True
 2020-04-19,ROU,Romania,Cluj,46.812237,23.53594,248,0,0,248,0,0,True,True
+2020-04-19,ROU,Romania,Cluj,46.812237,23.53594,248,0,0,248,0,0,True,True
 2020-04-19,ROU,Romania,Constanta,44.244926,28.247767,183,0,0,183,0,0,True,True
+2020-04-19,ROU,Romania,Costanza,,,183,0,0,183,0,0,True,True
 2020-04-19,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-19,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-19,ROU,Romania,Dâmbovița,,,82,0,0,82,0,0,True,True
 2020-04-19,ROU,Romania,Dambovita,44.864944,25.496775,82,0,0,82,0,0,True,True
 2020-04-19,ROU,Romania,Dolj,44.140792,23.613526,61,0,0,61,0,0,True,True
+2020-04-19,ROU,Romania,Dolj,44.140792,23.613526,61,0,0,61,0,0,True,True
+2020-04-19,ROU,Romania,Galați,,,276,0,0,276,0,0,True,True
 2020-04-19,ROU,Romania,Galati,45.792748,27.75769,276,0,0,276,0,0,True,True
 2020-04-19,ROU,Romania,Giurgiu,44.144127,25.881413,98,0,0,98,0,0,True,True
+2020-04-19,ROU,Romania,Giurgiu,44.144127,25.881413,98,0,0,98,0,0,True,True
 2020-04-19,ROU,Romania,Gorj,45.004246,23.322863,17,0,0,17,0,0,True,True
+2020-04-19,ROU,Romania,Gorj,45.004246,23.322863,17,0,0,17,0,0,True,True
+2020-04-19,ROU,Romania,Harghita,46.549997,25.558475,16,0,0,16,0,0,True,True
 2020-04-19,ROU,Romania,Hunedoara,45.753652,22.938806,391,0,0,391,0,0,True,True
+2020-04-19,ROU,Romania,Hunedoara,45.753652,22.938806,391,0,0,391,0,0,True,True
+2020-04-19,ROU,Romania,Iași,,,156,0,0,156,0,0,True,True
+2020-04-19,ROU,Romania,Ialomița,,,115,0,0,115,0,0,True,True
 2020-04-19,ROU,Romania,Ialomita,44.627356,27.256013,115,0,0,115,0,0,True,True
 2020-04-19,ROU,Romania,Iasi,47.221224,27.311502,156,0,0,156,0,0,True,True
 2020-04-19,ROU,Romania,Ilfov,44.286638,26.144699,186,0,0,186,0,0,True,True
+2020-04-19,ROU,Romania,Ilfov,44.286638,26.144699,186,0,0,186,0,0,True,True
 2020-04-19,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-19,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-19,ROU,Romania,Mehedinți,,,37,0,0,37,0,0,True,True
 2020-04-19,ROU,Romania,Mehedinti,44.365324,22.737138,37,0,0,37,0,0,True,True
+2020-04-19,ROU,Romania,Mureș,,,268,0,0,268,0,0,True,True
 2020-04-19,ROU,Romania,Mures,46.609503,24.697133,268,0,0,268,0,0,True,True
+2020-04-19,ROU,Romania,Neamț,,,364,0,0,364,0,0,True,True
 2020-04-19,ROU,Romania,Neamt,46.969735,26.375809,364,0,0,364,0,0,True,True
 2020-04-19,ROU,Romania,NOT SPECIFIED,,,0,434,0,-434,0,0,True,True
+2020-04-19,ROU,Romania,NOT SPECIFIED,,,0,451,1892,-2343,0,0,True,True
+2020-04-19,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-19,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-19,ROU,Romania,Prahova,45.114672,26.015788,52,0,0,52,0,0,True,True
+2020-04-19,ROU,Romania,Prahova,45.114672,26.015788,52,0,0,52,0,0,True,True
 2020-04-19,ROU,Romania,Salaj,47.18438,23.106887,20,0,0,20,0,0,True,True
+2020-04-19,ROU,Romania,Sălaj,,,20,0,0,20,0,0,True,True
 2020-04-19,ROU,Romania,Satu Mare,47.705953,22.898922,45,0,0,45,0,0,True,True
+2020-04-19,ROU,Romania,Satu Mare,47.705953,22.898922,45,0,0,45,0,0,True,True
+2020-04-19,ROU,Romania,Sibiu,45.85906,24.245264,166,0,0,166,0,0,True,True
+2020-04-19,ROU,Romania,Suceava,47.637703,25.82751,2105,0,0,2105,0,0,True,True
 2020-04-19,ROU,Romania,Suceava,47.637703,25.82751,2105,0,0,2105,0,0,True,True
 2020-04-19,ROU,Romania,Teleorman,44.027822,25.197899,79,0,0,79,0,0,True,True
+2020-04-19,ROU,Romania,Teleorman,44.027822,25.197899,79,0,0,79,0,0,True,True
+2020-04-19,ROU,Romania,Timiș,,,376,0,0,376,0,0,True,True
 2020-04-19,ROU,Romania,Timis,45.743832,21.377998,376,0,0,376,0,0,True,True
 2020-04-19,ROU,Romania,Tulcea,44.986929,28.858105,31,0,0,31,0,0,True,True
+2020-04-19,ROU,Romania,Tulcea,44.986929,28.858105,31,0,0,31,0,0,True,True
 2020-04-19,ROU,Romania,Valcea,45.096033,24.110629,19,0,0,19,0,0,True,True
+2020-04-19,ROU,Romania,Vâlcea,,,19,0,0,19,0,0,True,True
+2020-04-19,ROU,Romania,Vaslui,46.526869,27.769395,59,0,0,59,0,0,True,True
+2020-04-19,ROU,Romania,Vrancea,45.788059,26.980214,215,0,0,215,0,0,True,True
 2020-04-19,ROU,Romania,Vrancea,45.788059,26.980214,215,0,0,215,0,0,True,True
 2020-04-19,RUS,Russian Fed.,Adygea,44.448835,40.254013,91,0,0,91,0,0,False,False
 2020-04-19,RUS,Russian Fed.,Altai,52.477021,83.868816,72,0,0,72,0,0,False,False
@@ -18504,43 +19294,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-20,PRT,Portugal,Madeira,32.736252,-16.972663,80,0,0,80,0,0,True,True
 2020-04-20,PRT,Portugal,Norte,41.457206,-7.678153,12543,424,0,12119,0,0,True,True
 2020-04-20,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
+2020-04-20,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
 2020-04-20,ROU,Romania,Arad,46.273235,21.758454,410,0,0,410,0,0,True,True
+2020-04-20,ROU,Romania,Arad,46.273235,21.758454,410,0,0,410,0,0,True,True
+2020-04-20,ROU,Romania,Argeș,,,96,0,0,96,0,0,True,True
 2020-04-20,ROU,Romania,Bacau,46.42171,26.773519,113,0,0,113,0,0,True,True
+2020-04-20,ROU,Romania,Bacău,,,113,0,0,113,0,0,True,True
+2020-04-20,ROU,Romania,Bihor,46.942178,22.210795,259,0,0,259,0,0,True,True
 2020-04-20,ROU,Romania,Bihor,46.942178,22.210795,259,0,0,259,0,0,True,True
 2020-04-20,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,109,0,0,109,0,0,True,True
+2020-04-20,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,109,0,0,109,0,0,True,True
+2020-04-20,ROU,Romania,Botoșani,,,308,0,0,308,0,0,True,True
 2020-04-20,ROU,Romania,Botosani,47.85927,26.763139,308,0,0,308,0,0,True,True
+2020-04-20,ROU,Romania,Brăila,,,18,0,0,18,0,0,True,True
 2020-04-20,ROU,Romania,Bralia,45.0878,27.673222,18,0,0,18,0,0,True,True
+2020-04-20,ROU,Romania,Brașov,,,340,0,0,340,0,0,True,True
 2020-04-20,ROU,Romania,Brasov,45.765228,25.302188,340,0,0,340,0,0,True,True
 2020-04-20,ROU,Romania,Bucuresti,44.442674,26.08861,1023,0,0,1023,0,0,True,True
+2020-04-20,ROU,Romania,București,,,1023,0,0,1023,0,0,True,True
 2020-04-20,ROU,Romania,Buzau,45.245475,26.750309,15,0,0,15,0,0,True,True
+2020-04-20,ROU,Romania,Buzău,,,15,0,0,15,0,0,True,True
+2020-04-20,ROU,Romania,Călărași,,,44,0,0,44,0,0,True,True
 2020-04-20,ROU,Romania,Calarasi,44.313456,27.020712,44,0,0,44,0,0,True,True
+2020-04-20,ROU,Romania,Caraș-Severin,,,64,0,0,64,0,0,True,True
 2020-04-20,ROU,Romania,Caras-Severin,45.150492,22.042977,64,0,0,64,0,0,True,True
 2020-04-20,ROU,Romania,Cluj,46.812237,23.53594,259,0,0,259,0,0,True,True
+2020-04-20,ROU,Romania,Cluj,46.812237,23.53594,259,0,0,259,0,0,True,True
 2020-04-20,ROU,Romania,Constanta,44.244926,28.247767,186,0,0,186,0,0,True,True
+2020-04-20,ROU,Romania,Costanza,,,186,0,0,186,0,0,True,True
 2020-04-20,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-20,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-20,ROU,Romania,Dâmbovița,,,82,0,0,82,0,0,True,True
 2020-04-20,ROU,Romania,Dambovita,44.864944,25.496775,82,0,0,82,0,0,True,True
 2020-04-20,ROU,Romania,Dolj,44.140792,23.613526,61,0,0,61,0,0,True,True
+2020-04-20,ROU,Romania,Dolj,44.140792,23.613526,61,0,0,61,0,0,True,True
+2020-04-20,ROU,Romania,Galați,,,287,0,0,287,0,0,True,True
 2020-04-20,ROU,Romania,Galati,45.792748,27.75769,287,0,0,287,0,0,True,True
 2020-04-20,ROU,Romania,Giurgiu,44.144127,25.881413,101,0,0,101,0,0,True,True
+2020-04-20,ROU,Romania,Giurgiu,44.144127,25.881413,101,0,0,101,0,0,True,True
 2020-04-20,ROU,Romania,Gorj,45.004246,23.322863,17,0,0,17,0,0,True,True
+2020-04-20,ROU,Romania,Gorj,45.004246,23.322863,17,0,0,17,0,0,True,True
+2020-04-20,ROU,Romania,Harghita,46.549997,25.558475,17,0,0,17,0,0,True,True
 2020-04-20,ROU,Romania,Hunedoara,45.753652,22.938806,392,0,0,392,0,0,True,True
+2020-04-20,ROU,Romania,Hunedoara,45.753652,22.938806,392,0,0,392,0,0,True,True
+2020-04-20,ROU,Romania,Iași,,,155,0,0,155,0,0,True,True
+2020-04-20,ROU,Romania,Ialomița,,,119,0,0,119,0,0,True,True
 2020-04-20,ROU,Romania,Ialomita,44.627356,27.256013,119,0,0,119,0,0,True,True
 2020-04-20,ROU,Romania,Iasi,47.221224,27.311502,155,0,0,155,0,0,True,True
 2020-04-20,ROU,Romania,Ilfov,44.286638,26.144699,189,0,0,189,0,0,True,True
+2020-04-20,ROU,Romania,Ilfov,44.286638,26.144699,189,0,0,189,0,0,True,True
 2020-04-20,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-20,ROU,Romania,Maramureș,47.671302,23.981463,55,0,0,55,0,0,True,True
+2020-04-20,ROU,Romania,Mehedinți,,,37,0,0,37,0,0,True,True
 2020-04-20,ROU,Romania,Mehedinti,44.365324,22.737138,37,0,0,37,0,0,True,True
+2020-04-20,ROU,Romania,Mureș,,,295,0,0,295,0,0,True,True
 2020-04-20,ROU,Romania,Mures,46.609503,24.697133,295,0,0,295,0,0,True,True
+2020-04-20,ROU,Romania,Neamț,,,368,0,0,368,0,0,True,True
 2020-04-20,ROU,Romania,Neamt,46.969735,26.375809,368,0,0,368,0,0,True,True
 2020-04-20,ROU,Romania,NOT SPECIFIED,,,309,451,0,-142,0,0,True,True
+2020-04-20,ROU,Romania,NOT SPECIFIED,,,0,478,2017,-2495,0,0,True,True
+2020-04-20,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-20,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-20,ROU,Romania,Prahova,45.114672,26.015788,52,0,0,52,0,0,True,True
+2020-04-20,ROU,Romania,Prahova,45.114672,26.015788,52,0,0,52,0,0,True,True
 2020-04-20,ROU,Romania,Salaj,47.18438,23.106887,20,0,0,20,0,0,True,True
+2020-04-20,ROU,Romania,Sălaj,,,20,0,0,20,0,0,True,True
 2020-04-20,ROU,Romania,Satu Mare,47.705953,22.898922,45,0,0,45,0,0,True,True
+2020-04-20,ROU,Romania,Satu Mare,47.705953,22.898922,45,0,0,45,0,0,True,True
+2020-04-20,ROU,Romania,Sibiu,45.85906,24.245264,177,0,0,177,0,0,True,True
+2020-04-20,ROU,Romania,Suceava,47.637703,25.82751,2115,0,0,2115,0,0,True,True
 2020-04-20,ROU,Romania,Suceava,47.637703,25.82751,2115,0,0,2115,0,0,True,True
 2020-04-20,ROU,Romania,Teleorman,44.027822,25.197899,80,0,0,80,0,0,True,True
+2020-04-20,ROU,Romania,Teleorman,44.027822,25.197899,80,0,0,80,0,0,True,True
+2020-04-20,ROU,Romania,Timiș,,,377,0,0,377,0,0,True,True
 2020-04-20,ROU,Romania,Timis,45.743832,21.377998,377,0,0,377,0,0,True,True
 2020-04-20,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
+2020-04-20,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
 2020-04-20,ROU,Romania,Valcea,45.096033,24.110629,19,0,0,19,0,0,True,True
+2020-04-20,ROU,Romania,Vâlcea,,,19,0,0,19,0,0,True,True
+2020-04-20,ROU,Romania,Vaslui,46.526869,27.769395,61,0,0,61,0,0,True,True
+2020-04-20,ROU,Romania,Vrancea,45.788059,26.980214,214,0,0,214,0,0,True,True
 2020-04-20,ROU,Romania,Vrancea,45.788059,26.980214,214,0,0,214,0,0,True,True
 2020-04-20,RUS,Russian Fed.,Adygea,44.448835,40.254013,100,0,0,100,0,0,False,False
 2020-04-20,RUS,Russian Fed.,Altai,52.477021,83.868816,84,0,0,84,0,0,False,False
@@ -19064,43 +19897,86 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-21,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
 2020-04-21,PRT,Portugal,Norte,41.457206,-7.678153,12806,441,0,12365,0,0,True,True
 2020-04-21,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
+2020-04-21,ROU,Romania,Alba,46.172367,23.487279,155,0,0,155,0,0,True,True
 2020-04-21,ROU,Romania,Arad,46.273235,21.758454,423,0,0,423,0,0,True,True
+2020-04-21,ROU,Romania,Arad,46.273235,21.758454,423,0,0,423,0,0,True,True
+2020-04-21,ROU,Romania,Argeș,,,98,0,0,98,0,0,True,True
 2020-04-21,ROU,Romania,Bacau,46.42171,26.773519,117,0,0,117,0,0,True,True
+2020-04-21,ROU,Romania,Bacău,,,117,0,0,117,0,0,True,True
+2020-04-21,ROU,Romania,Bihor,46.942178,22.210795,294,0,0,294,0,0,True,True
 2020-04-21,ROU,Romania,Bihor,46.942178,22.210795,294,0,0,294,0,0,True,True
 2020-04-21,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,116,0,0,116,0,0,True,True
+2020-04-21,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,116,0,0,116,0,0,True,True
+2020-04-21,ROU,Romania,Botoșani,,,314,0,0,314,0,0,True,True
 2020-04-21,ROU,Romania,Botosani,47.85927,26.763139,314,0,0,314,0,0,True,True
+2020-04-21,ROU,Romania,Brăila,,,18,0,0,18,0,0,True,True
 2020-04-21,ROU,Romania,Bralia,45.0878,27.673222,18,0,0,18,0,0,True,True
+2020-04-21,ROU,Romania,Brașov,,,345,0,0,345,0,0,True,True
 2020-04-21,ROU,Romania,Brasov,45.765228,25.302188,345,0,0,345,0,0,True,True
 2020-04-21,ROU,Romania,Bucuresti,44.442674,26.08861,1033,0,0,1033,0,0,True,True
+2020-04-21,ROU,Romania,București,,,1033,0,0,1033,0,0,True,True
 2020-04-21,ROU,Romania,Buzau,45.245475,26.750309,15,0,0,15,0,0,True,True
+2020-04-21,ROU,Romania,Buzău,,,15,0,0,15,0,0,True,True
+2020-04-21,ROU,Romania,Călărași,,,47,0,0,47,0,0,True,True
 2020-04-21,ROU,Romania,Calarasi,44.313456,27.020712,47,0,0,47,0,0,True,True
+2020-04-21,ROU,Romania,Caraș-Severin,,,64,0,0,64,0,0,True,True
 2020-04-21,ROU,Romania,Caras-Severin,45.150492,22.042977,64,0,0,64,0,0,True,True
 2020-04-21,ROU,Romania,Cluj,46.812237,23.53594,263,0,0,263,0,0,True,True
+2020-04-21,ROU,Romania,Cluj,46.812237,23.53594,263,0,0,263,0,0,True,True
 2020-04-21,ROU,Romania,Constanta,44.244926,28.247767,198,0,0,198,0,0,True,True
+2020-04-21,ROU,Romania,Costanza,,,198,0,0,198,0,0,True,True
 2020-04-21,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-21,ROU,Romania,Covasna,45.938093,25.990767,154,0,0,154,0,0,True,True
+2020-04-21,ROU,Romania,Dâmbovița,,,85,0,0,85,0,0,True,True
 2020-04-21,ROU,Romania,Dambovita,44.864944,25.496775,85,0,0,85,0,0,True,True
 2020-04-21,ROU,Romania,Dolj,44.140792,23.613526,63,0,0,63,0,0,True,True
+2020-04-21,ROU,Romania,Dolj,44.140792,23.613526,63,0,0,63,0,0,True,True
+2020-04-21,ROU,Romania,Galați,,,297,0,0,297,0,0,True,True
 2020-04-21,ROU,Romania,Galati,45.792748,27.75769,297,0,0,297,0,0,True,True
 2020-04-21,ROU,Romania,Giurgiu,44.144127,25.881413,104,0,0,104,0,0,True,True
+2020-04-21,ROU,Romania,Giurgiu,44.144127,25.881413,104,0,0,104,0,0,True,True
 2020-04-21,ROU,Romania,Gorj,45.004246,23.322863,23,0,0,23,0,0,True,True
+2020-04-21,ROU,Romania,Gorj,45.004246,23.322863,23,0,0,23,0,0,True,True
+2020-04-21,ROU,Romania,Harghita,46.549997,25.558475,17,0,0,17,0,0,True,True
 2020-04-21,ROU,Romania,Hunedoara,45.753652,22.938806,392,0,0,392,0,0,True,True
+2020-04-21,ROU,Romania,Hunedoara,45.753652,22.938806,392,0,0,392,0,0,True,True
+2020-04-21,ROU,Romania,Iași,,,161,0,0,161,0,0,True,True
+2020-04-21,ROU,Romania,Ialomița,,,128,0,0,128,0,0,True,True
 2020-04-21,ROU,Romania,Ialomita,44.627356,27.256013,128,0,0,128,0,0,True,True
 2020-04-21,ROU,Romania,Iasi,47.221224,27.311502,161,0,0,161,0,0,True,True
 2020-04-21,ROU,Romania,Ilfov,44.286638,26.144699,193,0,0,193,0,0,True,True
+2020-04-21,ROU,Romania,Ilfov,44.286638,26.144699,193,0,0,193,0,0,True,True
 2020-04-21,ROU,Romania,Maramureș,47.671302,23.981463,57,0,0,57,0,0,True,True
+2020-04-21,ROU,Romania,Maramureș,47.671302,23.981463,57,0,0,57,0,0,True,True
+2020-04-21,ROU,Romania,Mehedinți,,,43,0,0,43,0,0,True,True
 2020-04-21,ROU,Romania,Mehedinti,44.365324,22.737138,43,0,0,43,0,0,True,True
+2020-04-21,ROU,Romania,Mureș,,,303,0,0,303,0,0,True,True
 2020-04-21,ROU,Romania,Mures,46.609503,24.697133,303,0,0,303,0,0,True,True
+2020-04-21,ROU,Romania,Neamț,,,368,0,0,368,0,0,True,True
 2020-04-21,ROU,Romania,Neamt,46.969735,26.375809,368,0,0,368,0,0,True,True
 2020-04-21,ROU,Romania,NOT SPECIFIED,,,357,482,0,-125,0,0,True,True
+2020-04-21,ROU,Romania,NOT SPECIFIED,,,0,498,2153,-2651,0,0,True,True
+2020-04-21,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-21,ROU,Romania,Olt,44.272504,24.439351,13,0,0,13,0,0,True,True
 2020-04-21,ROU,Romania,Prahova,45.114672,26.015788,54,0,0,54,0,0,True,True
+2020-04-21,ROU,Romania,Prahova,45.114672,26.015788,54,0,0,54,0,0,True,True
 2020-04-21,ROU,Romania,Salaj,47.18438,23.106887,23,0,0,23,0,0,True,True
+2020-04-21,ROU,Romania,Sălaj,,,23,0,0,23,0,0,True,True
 2020-04-21,ROU,Romania,Satu Mare,47.705953,22.898922,46,0,0,46,0,0,True,True
+2020-04-21,ROU,Romania,Satu Mare,47.705953,22.898922,46,0,0,46,0,0,True,True
+2020-04-21,ROU,Romania,Sibiu,45.85906,24.245264,182,0,0,182,0,0,True,True
+2020-04-21,ROU,Romania,Suceava,47.637703,25.82751,2238,0,0,2238,0,0,True,True
 2020-04-21,ROU,Romania,Suceava,47.637703,25.82751,2238,0,0,2238,0,0,True,True
 2020-04-21,ROU,Romania,Teleorman,44.027822,25.197899,80,0,0,80,0,0,True,True
+2020-04-21,ROU,Romania,Teleorman,44.027822,25.197899,80,0,0,80,0,0,True,True
+2020-04-21,ROU,Romania,Timiș,,,389,0,0,389,0,0,True,True
 2020-04-21,ROU,Romania,Timis,45.743832,21.377998,389,0,0,389,0,0,True,True
 2020-04-21,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
+2020-04-21,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
 2020-04-21,ROU,Romania,Valcea,45.096033,24.110629,20,0,0,20,0,0,True,True
+2020-04-21,ROU,Romania,Vâlcea,,,20,0,0,20,0,0,True,True
+2020-04-21,ROU,Romania,Vaslui,46.526869,27.769395,60,0,0,60,0,0,True,True
+2020-04-21,ROU,Romania,Vrancea,45.788059,26.980214,214,0,0,214,0,0,True,True
 2020-04-21,ROU,Romania,Vrancea,45.788059,26.980214,214,0,0,214,0,0,True,True
 2020-04-21,RUS,Russian Fed.,Adygea,44.448835,40.254013,108,0,0,108,0,0,False,False
 2020-04-21,RUS,Russian Fed.,Altai,52.477021,83.868816,127,0,0,127,0,0,False,False
@@ -19635,15 +20511,58 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-22,PRT,Portugal,Lisbon,38.623843,-8.88436,5093,138,0,4955,0,0,True,True
 2020-04-22,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
 2020-04-22,PRT,Portugal,Norte,41.457206,-7.678153,13150,454,0,12696,0,0,True,True
+2020-04-22,ROU,Romania,Alba,46.172367,23.487279,160,0,0,160,0,0,True,True
+2020-04-22,ROU,Romania,Arad,46.273235,21.758454,421,0,0,421,0,0,True,True
+2020-04-22,ROU,Romania,Argeș,,,110,0,0,110,0,0,True,True
+2020-04-22,ROU,Romania,Bacău,,,150,0,0,150,0,0,True,True
+2020-04-22,ROU,Romania,Bihor,46.942178,22.210795,336,0,0,336,0,0,True,True
+2020-04-22,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,137,0,0,137,0,0,True,True
+2020-04-22,ROU,Romania,Botoșani,,,338,0,0,338,0,0,True,True
+2020-04-22,ROU,Romania,Brăila,,,19,0,0,19,0,0,True,True
+2020-04-22,ROU,Romania,Brașov,,,348,0,0,348,0,0,True,True
+2020-04-22,ROU,Romania,București,,,1050,0,0,1050,0,0,True,True
+2020-04-22,ROU,Romania,Buzău,,,18,0,0,18,0,0,True,True
+2020-04-22,ROU,Romania,Călărași,,,47,0,0,47,0,0,True,True
+2020-04-22,ROU,Romania,Caraș-Severin,,,70,0,0,70,0,0,True,True
+2020-04-22,ROU,Romania,Cluj,46.812237,23.53594,261,0,0,261,0,0,True,True
+2020-04-22,ROU,Romania,Costanza,,,213,0,0,213,0,0,True,True
+2020-04-22,ROU,Romania,Covasna,45.938093,25.990767,168,0,0,168,0,0,True,True
+2020-04-22,ROU,Romania,Dâmbovița,,,89,0,0,89,0,0,True,True
+2020-04-22,ROU,Romania,Dolj,44.140792,23.613526,69,0,0,69,0,0,True,True
+2020-04-22,ROU,Romania,Galați,,,287,0,0,287,0,0,True,True
+2020-04-22,ROU,Romania,Giurgiu,44.144127,25.881413,109,0,0,109,0,0,True,True
+2020-04-22,ROU,Romania,Gorj,45.004246,23.322863,25,0,0,25,0,0,True,True
+2020-04-22,ROU,Romania,Harghita,46.549997,25.558475,19,0,0,19,0,0,True,True
+2020-04-22,ROU,Romania,Hunedoara,45.753652,22.938806,405,0,0,405,0,0,True,True
+2020-04-22,ROU,Romania,Iași,,,179,0,0,179,0,0,True,True
+2020-04-22,ROU,Romania,Ialomița,,,141,0,0,141,0,0,True,True
+2020-04-22,ROU,Romania,Ilfov,44.286638,26.144699,207,0,0,207,0,0,True,True
+2020-04-22,ROU,Romania,Maramureș,47.671302,23.981463,65,0,0,65,0,0,True,True
+2020-04-22,ROU,Romania,Mehedinți,,,47,0,0,47,0,0,True,True
+2020-04-22,ROU,Romania,Mureș,,,312,0,0,312,0,0,True,True
+2020-04-22,ROU,Romania,Neamț,,,384,0,0,384,0,0,True,True
+2020-04-22,ROU,Romania,NOT SPECIFIED,,,0,524,2406,-2930,0,0,True,True
 2020-04-22,ROU,Romania,NOT SPECIFIED,,,0,508,0,-508,0,0,True,True
+2020-04-22,ROU,Romania,Olt,44.272504,24.439351,17,0,0,17,0,0,True,True
+2020-04-22,ROU,Romania,Prahova,45.114672,26.015788,51,0,0,51,0,0,True,True
 2020-04-22,ROU,Romania,Prahova,45.114672,26.015788,51,0,0,51,0,0,True,True
 2020-04-22,ROU,Romania,Salaj,47.18438,23.106887,27,0,0,27,0,0,True,True
+2020-04-22,ROU,Romania,Sălaj,,,27,0,0,27,0,0,True,True
 2020-04-22,ROU,Romania,Satu Mare,47.705953,22.898922,48,0,0,48,0,0,True,True
+2020-04-22,ROU,Romania,Satu Mare,47.705953,22.898922,48,0,0,48,0,0,True,True
+2020-04-22,ROU,Romania,Sibiu,45.85906,24.245264,195,0,0,195,0,0,True,True
+2020-04-22,ROU,Romania,Suceava,47.637703,25.82751,2372,0,0,2372,0,0,True,True
 2020-04-22,ROU,Romania,Suceava,47.637703,25.82751,2372,0,0,2372,0,0,True,True
 2020-04-22,ROU,Romania,Teleorman,44.027822,25.197899,95,0,0,95,0,0,True,True
+2020-04-22,ROU,Romania,Teleorman,44.027822,25.197899,95,0,0,95,0,0,True,True
+2020-04-22,ROU,Romania,Timiș,,,385,0,0,385,0,0,True,True
 2020-04-22,ROU,Romania,Timis,45.743832,21.377998,385,0,0,385,0,0,True,True
 2020-04-22,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
+2020-04-22,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
 2020-04-22,ROU,Romania,Valcea,45.096033,24.110629,22,0,0,22,0,0,True,True
+2020-04-22,ROU,Romania,Vâlcea,,,22,0,0,22,0,0,True,True
+2020-04-22,ROU,Romania,Vaslui,46.526869,27.769395,68,0,0,68,0,0,True,True
+2020-04-22,ROU,Romania,Vrancea,45.788059,26.980214,211,0,0,211,0,0,True,True
 2020-04-22,ROU,Romania,Vrancea,45.788059,26.980214,211,0,0,211,0,0,True,True
 2020-04-22,RUS,Russian Fed.,Adygea,44.448835,40.254013,113,0,0,113,0,0,False,False
 2020-04-22,RUS,Russian Fed.,Altai,52.477021,83.868816,136,0,0,136,0,0,False,False
@@ -20177,35 +21096,78 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-23,PRT,Portugal,Lisbon,38.623843,-8.88436,5194,146,0,5048,0,0,True,True
 2020-04-23,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
 2020-04-23,PRT,Portugal,Norte,41.457206,-7.678153,13382,475,0,12907,0,0,True,True
+2020-04-23,ROU,Romania,Alba,46.172367,23.487279,161,0,0,161,0,0,True,True
 2020-04-23,ROU,Romania,Alba,46.172367,23.487279,160,0,0,160,0,0,True,True
 2020-04-23,ROU,Romania,Arad,46.273235,21.758454,421,0,0,421,0,0,True,True
+2020-04-23,ROU,Romania,Arad,46.273235,21.758454,439,0,0,439,0,0,True,True
+2020-04-23,ROU,Romania,Argeș,,,114,0,0,114,0,0,True,True
 2020-04-23,ROU,Romania,Bacau,46.42171,26.773519,150,0,0,150,0,0,True,True
+2020-04-23,ROU,Romania,Bacău,,,134,0,0,134,0,0,True,True
+2020-04-23,ROU,Romania,Bihor,46.942178,22.210795,348,0,0,348,0,0,True,True
 2020-04-23,ROU,Romania,Bihor,46.942178,22.210795,336,0,0,336,0,0,True,True
 2020-04-23,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,137,0,0,137,0,0,True,True
+2020-04-23,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,148,0,0,148,0,0,True,True
+2020-04-23,ROU,Romania,Botoșani,,,393,0,0,393,0,0,True,True
 2020-04-23,ROU,Romania,Botosani,47.85927,26.763139,338,0,0,338,0,0,True,True
+2020-04-23,ROU,Romania,Brăila,,,19,0,0,19,0,0,True,True
 2020-04-23,ROU,Romania,Bralia,45.0878,27.673222,19,0,0,19,0,0,True,True
+2020-04-23,ROU,Romania,Brașov,,,373,0,0,373,0,0,True,True
 2020-04-23,ROU,Romania,Brasov,45.765228,25.302188,348,0,0,348,0,0,True,True
 2020-04-23,ROU,Romania,Bucuresti,44.442674,26.08861,1050,0,0,1050,0,0,True,True
+2020-04-23,ROU,Romania,București,,,1100,0,0,1100,0,0,True,True
 2020-04-23,ROU,Romania,Buzau,45.245475,26.750309,18,0,0,18,0,0,True,True
+2020-04-23,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-23,ROU,Romania,Călărași,,,49,0,0,49,0,0,True,True
 2020-04-23,ROU,Romania,Calarasi,44.313456,27.020712,47,0,0,47,0,0,True,True
+2020-04-23,ROU,Romania,Caraș-Severin,,,78,0,0,78,0,0,True,True
 2020-04-23,ROU,Romania,Caras-Severin,45.150492,22.042977,70,0,0,70,0,0,True,True
 2020-04-23,ROU,Romania,Cluj,46.812237,23.53594,261,0,0,261,0,0,True,True
+2020-04-23,ROU,Romania,Cluj,46.812237,23.53594,278,0,0,278,0,0,True,True
 2020-04-23,ROU,Romania,Constanta,44.244926,28.247767,213,0,0,213,0,0,True,True
+2020-04-23,ROU,Romania,Costanza,,,222,0,0,222,0,0,True,True
+2020-04-23,ROU,Romania,Covasna,45.938093,25.990767,165,0,0,165,0,0,True,True
 2020-04-23,ROU,Romania,Covasna,45.938093,25.990767,168,0,0,168,0,0,True,True
+2020-04-23,ROU,Romania,Dâmbovița,,,88,0,0,88,0,0,True,True
 2020-04-23,ROU,Romania,Dambovita,44.864944,25.496775,89,0,0,89,0,0,True,True
 2020-04-23,ROU,Romania,Dolj,44.140792,23.613526,69,0,0,69,0,0,True,True
+2020-04-23,ROU,Romania,Dolj,44.140792,23.613526,65,0,0,65,0,0,True,True
+2020-04-23,ROU,Romania,Galați,,,296,0,0,296,0,0,True,True
 2020-04-23,ROU,Romania,Galati,45.792748,27.75769,287,0,0,287,0,0,True,True
 2020-04-23,ROU,Romania,Giurgiu,44.144127,25.881413,109,0,0,109,0,0,True,True
+2020-04-23,ROU,Romania,Giurgiu,44.144127,25.881413,111,0,0,111,0,0,True,True
+2020-04-23,ROU,Romania,Gorj,45.004246,23.322863,26,0,0,26,0,0,True,True
 2020-04-23,ROU,Romania,Gorj,45.004246,23.322863,25,0,0,25,0,0,True,True
+2020-04-23,ROU,Romania,Harghita,46.549997,25.558475,18,0,0,18,0,0,True,True
+2020-04-23,ROU,Romania,Hunedoara,45.753652,22.938806,437,0,0,437,0,0,True,True
 2020-04-23,ROU,Romania,Hunedoara,45.753652,22.938806,405,0,0,405,0,0,True,True
+2020-04-23,ROU,Romania,Iași,,,195,0,0,195,0,0,True,True
+2020-04-23,ROU,Romania,Ialomița,,,148,0,0,148,0,0,True,True
 2020-04-23,ROU,Romania,Ialomita,44.627356,27.256013,141,0,0,141,0,0,True,True
 2020-04-23,ROU,Romania,Iasi,47.221224,27.311502,179,0,0,179,0,0,True,True
 2020-04-23,ROU,Romania,Ilfov,44.286638,26.144699,207,0,0,207,0,0,True,True
+2020-04-23,ROU,Romania,Ilfov,44.286638,26.144699,214,0,0,214,0,0,True,True
+2020-04-23,ROU,Romania,Maramureș,47.671302,23.981463,67,0,0,67,0,0,True,True
 2020-04-23,ROU,Romania,Maramureș,47.671302,23.981463,65,0,0,65,0,0,True,True
+2020-04-23,ROU,Romania,Mehedinți,,,48,0,0,48,0,0,True,True
 2020-04-23,ROU,Romania,Mehedinti,44.365324,22.737138,47,0,0,47,0,0,True,True
+2020-04-23,ROU,Romania,Mureș,,,325,0,0,325,0,0,True,True
 2020-04-23,ROU,Romania,Mures,46.609503,24.697133,312,0,0,312,0,0,True,True
+2020-04-23,ROU,Romania,Neamț,,,405,0,0,405,0,0,True,True
 2020-04-23,ROU,Romania,Neamt,46.969735,26.375809,384,0,0,384,0,0,True,True
+2020-04-23,ROU,Romania,NOT SPECIFIED,,,7,545,2478,-3016,0,0,True,True
+2020-04-23,ROU,Romania,Olt,44.272504,24.439351,20,0,0,20,0,0,True,True
 2020-04-23,ROU,Romania,Olt,44.272504,24.439351,17,0,0,17,0,0,True,True
+2020-04-23,ROU,Romania,Prahova,45.114672,26.015788,52,0,0,52,0,0,True,True
+2020-04-23,ROU,Romania,Sălaj,,,28,0,0,28,0,0,True,True
+2020-04-23,ROU,Romania,Satu Mare,47.705953,22.898922,53,0,0,53,0,0,True,True
+2020-04-23,ROU,Romania,Sibiu,45.85906,24.245264,209,0,0,209,0,0,True,True
+2020-04-23,ROU,Romania,Suceava,47.637703,25.82751,2417,0,0,2417,0,0,True,True
+2020-04-23,ROU,Romania,Teleorman,44.027822,25.197899,96,0,0,96,0,0,True,True
+2020-04-23,ROU,Romania,Timiș,,,403,0,0,403,0,0,True,True
+2020-04-23,ROU,Romania,Tulcea,44.986929,28.858105,35,0,0,35,0,0,True,True
+2020-04-23,ROU,Romania,Vâlcea,,,22,0,0,22,0,0,True,True
+2020-04-23,ROU,Romania,Vaslui,46.526869,27.769395,69,0,0,69,0,0,True,True
+2020-04-23,ROU,Romania,Vrancea,45.788059,26.980214,207,0,0,207,0,0,True,True
 2020-04-23,RUS,Russian Fed.,Adygea,44.448835,40.254013,114,0,0,114,0,0,False,False
 2020-04-23,RUS,Russian Fed.,Altai,52.477021,83.868816,144,0,0,144,0,0,False,False
 2020-04-23,RUS,Russian Fed.,Altai Republic,,,9,0,0,9,0,0,False,False
@@ -20720,6 +21682,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-24,PRT,Portugal,Lisbon,38.623843,-8.88436,5277,160,0,5117,0,0,True,True
 2020-04-24,PRT,Portugal,Madeira,32.736252,-16.972663,85,0,0,85,0,0,True,True
 2020-04-24,PRT,Portugal,Norte,41.457206,-7.678153,13707,491,0,13216,0,0,True,True
+2020-04-24,ROU,Romania,Alba,46.172367,23.487279,159,0,0,159,0,0,True,True
+2020-04-24,ROU,Romania,Arad,46.273235,21.758454,471,0,0,471,0,0,True,True
+2020-04-24,ROU,Romania,Argeș,,,117,0,0,117,0,0,True,True
+2020-04-24,ROU,Romania,Bacău,,,136,0,0,136,0,0,True,True
+2020-04-24,ROU,Romania,Bihor,46.942178,22.210795,360,0,0,360,0,0,True,True
+2020-04-24,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,150,0,0,150,0,0,True,True
+2020-04-24,ROU,Romania,Botoșani,,,407,0,0,407,0,0,True,True
+2020-04-24,ROU,Romania,Brăila,,,20,0,0,20,0,0,True,True
+2020-04-24,ROU,Romania,Brașov,,,382,0,0,382,0,0,True,True
+2020-04-24,ROU,Romania,București,,,1133,0,0,1133,0,0,True,True
+2020-04-24,ROU,Romania,Buzău,,,14,0,0,14,0,0,True,True
+2020-04-24,ROU,Romania,Călărași,,,51,0,0,51,0,0,True,True
+2020-04-24,ROU,Romania,Caraș-Severin,,,79,0,0,79,0,0,True,True
+2020-04-24,ROU,Romania,Cluj,46.812237,23.53594,292,0,0,292,0,0,True,True
+2020-04-24,ROU,Romania,Costanza,,,222,0,0,222,0,0,True,True
+2020-04-24,ROU,Romania,Covasna,45.938093,25.990767,168,0,0,168,0,0,True,True
+2020-04-24,ROU,Romania,Dâmbovița,,,91,0,0,91,0,0,True,True
+2020-04-24,ROU,Romania,Dolj,44.140792,23.613526,66,0,0,66,0,0,True,True
+2020-04-24,ROU,Romania,Galați,,,324,0,0,324,0,0,True,True
+2020-04-24,ROU,Romania,Giurgiu,44.144127,25.881413,123,0,0,123,0,0,True,True
+2020-04-24,ROU,Romania,Gorj,45.004246,23.322863,31,0,0,31,0,0,True,True
+2020-04-24,ROU,Romania,Harghita,46.549997,25.558475,19,0,0,19,0,0,True,True
+2020-04-24,ROU,Romania,Hunedoara,45.753652,22.938806,447,0,0,447,0,0,True,True
+2020-04-24,ROU,Romania,Iași,,,207,0,0,207,0,0,True,True
+2020-04-24,ROU,Romania,Ialomița,,,148,0,0,148,0,0,True,True
+2020-04-24,ROU,Romania,Ilfov,44.286638,26.144699,218,0,0,218,0,0,True,True
+2020-04-24,ROU,Romania,Maramureș,47.671302,23.981463,68,0,0,68,0,0,True,True
+2020-04-24,ROU,Romania,Mehedinți,,,49,0,0,49,0,0,True,True
+2020-04-24,ROU,Romania,Mureș,,,335,0,0,335,0,0,True,True
+2020-04-24,ROU,Romania,Neamț,,,415,0,0,415,0,0,True,True
+2020-04-24,ROU,Romania,NOT SPECIFIED,,,11,567,2817,-3373,0,0,True,True
+2020-04-24,ROU,Romania,Olt,44.272504,24.439351,23,0,0,23,0,0,True,True
+2020-04-24,ROU,Romania,Prahova,45.114672,26.015788,55,0,0,55,0,0,True,True
+2020-04-24,ROU,Romania,Sălaj,,,28,0,0,28,0,0,True,True
+2020-04-24,ROU,Romania,Satu Mare,47.705953,22.898922,53,0,0,53,0,0,True,True
+2020-04-24,ROU,Romania,Sibiu,45.85906,24.245264,228,0,0,228,0,0,True,True
+2020-04-24,ROU,Romania,Suceava,47.637703,25.82751,2477,0,0,2477,0,0,True,True
+2020-04-24,ROU,Romania,Teleorman,44.027822,25.197899,96,0,0,96,0,0,True,True
+2020-04-24,ROU,Romania,Timiș,,,408,0,0,408,0,0,True,True
+2020-04-24,ROU,Romania,Tulcea,44.986929,28.858105,37,0,0,37,0,0,True,True
+2020-04-24,ROU,Romania,Vâlcea,,,23,0,0,23,0,0,True,True
+2020-04-24,ROU,Romania,Vaslui,46.526869,27.769395,69,0,0,69,0,0,True,True
+2020-04-24,ROU,Romania,Vrancea,45.788059,26.980214,207,0,0,207,0,0,True,True
 2020-04-24,RUS,Russian Fed.,Adygea,44.448835,40.254013,117,0,0,117,0,0,False,False
 2020-04-24,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,137,0,0,137,0,0,False,False
 2020-04-24,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,186,0,0,186,0,0,False,False
@@ -21208,6 +22213,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-25,PRT,Portugal,Lisbon,38.623843,-8.88436,5435,170,0,5265,0,0,True,True
 2020-04-25,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
 2020-04-25,PRT,Portugal,Norte,41.457206,-7.678153,14072,502,0,13570,0,0,True,True
+2020-04-25,ROU,Romania,Alba,46.172367,23.487279,158,0,0,158,0,0,True,True
+2020-04-25,ROU,Romania,Arad,46.273235,21.758454,495,0,0,495,0,0,True,True
+2020-04-25,ROU,Romania,Argeș,,,118,0,0,118,0,0,True,True
+2020-04-25,ROU,Romania,Bacău,,,143,0,0,143,0,0,True,True
+2020-04-25,ROU,Romania,Bihor,46.942178,22.210795,364,0,0,364,0,0,True,True
+2020-04-25,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,151,0,0,151,0,0,True,True
+2020-04-25,ROU,Romania,Botoșani,,,410,0,0,410,0,0,True,True
+2020-04-25,ROU,Romania,Brăila,,,20,0,0,20,0,0,True,True
+2020-04-25,ROU,Romania,Brașov,,,386,0,0,386,0,0,True,True
+2020-04-25,ROU,Romania,București,,,1150,0,0,1150,0,0,True,True
+2020-04-25,ROU,Romania,Buzău,,,15,0,0,15,0,0,True,True
+2020-04-25,ROU,Romania,Călărași,,,51,0,0,51,0,0,True,True
+2020-04-25,ROU,Romania,Caraș-Severin,,,83,0,0,83,0,0,True,True
+2020-04-25,ROU,Romania,Cluj,46.812237,23.53594,299,0,0,299,0,0,True,True
+2020-04-25,ROU,Romania,Costanza,,,223,0,0,223,0,0,True,True
+2020-04-25,ROU,Romania,Covasna,45.938093,25.990767,173,0,0,173,0,0,True,True
+2020-04-25,ROU,Romania,Dâmbovița,,,90,0,0,90,0,0,True,True
+2020-04-25,ROU,Romania,Dolj,44.140792,23.613526,70,0,0,70,0,0,True,True
+2020-04-25,ROU,Romania,Galați,,,333,0,0,333,0,0,True,True
+2020-04-25,ROU,Romania,Giurgiu,44.144127,25.881413,126,0,0,126,0,0,True,True
+2020-04-25,ROU,Romania,Gorj,45.004246,23.322863,31,0,0,31,0,0,True,True
+2020-04-25,ROU,Romania,Harghita,46.549997,25.558475,19,0,0,19,0,0,True,True
+2020-04-25,ROU,Romania,Hunedoara,45.753652,22.938806,455,0,0,455,0,0,True,True
+2020-04-25,ROU,Romania,Iași,,,216,0,0,216,0,0,True,True
+2020-04-25,ROU,Romania,Ialomița,,,149,0,0,149,0,0,True,True
+2020-04-25,ROU,Romania,Ilfov,44.286638,26.144699,224,0,0,224,0,0,True,True
+2020-04-25,ROU,Romania,Maramureș,47.671302,23.981463,69,0,0,69,0,0,True,True
+2020-04-25,ROU,Romania,Mehedinți,,,49,0,0,49,0,0,True,True
+2020-04-25,ROU,Romania,Mureș,,,351,0,0,351,0,0,True,True
+2020-04-25,ROU,Romania,Neamț,,,428,0,0,428,0,0,True,True
+2020-04-25,ROU,Romania,NOT SPECIFIED,,,19,601,2890,-3472,0,0,True,True
+2020-04-25,ROU,Romania,Olt,44.272504,24.439351,22,0,0,22,0,0,True,True
+2020-04-25,ROU,Romania,Prahova,45.114672,26.015788,58,0,0,58,0,0,True,True
+2020-04-25,ROU,Romania,Sălaj,,,29,0,0,29,0,0,True,True
+2020-04-25,ROU,Romania,Satu Mare,47.705953,22.898922,53,0,0,53,0,0,True,True
+2020-04-25,ROU,Romania,Sibiu,45.85906,24.245264,238,0,0,238,0,0,True,True
+2020-04-25,ROU,Romania,Suceava,47.637703,25.82751,2499,0,0,2499,0,0,True,True
+2020-04-25,ROU,Romania,Teleorman,44.027822,25.197899,95,0,0,95,0,0,True,True
+2020-04-25,ROU,Romania,Timiș,,,418,0,0,418,0,0,True,True
+2020-04-25,ROU,Romania,Tulcea,44.986929,28.858105,39,0,0,39,0,0,True,True
+2020-04-25,ROU,Romania,Vâlcea,,,23,0,0,23,0,0,True,True
+2020-04-25,ROU,Romania,Vaslui,46.526869,27.769395,88,0,0,88,0,0,True,True
+2020-04-25,ROU,Romania,Vrancea,45.788059,26.980214,205,0,0,205,0,0,True,True
 2020-04-25,RUS,Russian Fed.,Adygea,44.448835,40.254013,119,0,0,119,0,0,False,False
 2020-04-25,RUS,Russian Fed.,Altai,52.477021,83.868816,152,0,0,152,0,0,False,False
 2020-04-25,RUS,Russian Fed.,Altai Republic,,,9,0,0,9,0,0,False,False
@@ -21734,6 +22782,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-26,PRT,Portugal,Lisbon,38.623843,-8.88436,5531,175,0,5356,0,0,True,True
 2020-04-26,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
 2020-04-26,PRT,Portugal,Norte,41.457206,-7.678153,14386,519,0,13867,0,0,True,True
+2020-04-26,ROU,Romania,Alba,46.172367,23.487279,161,0,0,161,0,0,True,True
+2020-04-26,ROU,Romania,Arad,46.273235,21.758454,508,0,0,508,0,0,True,True
+2020-04-26,ROU,Romania,Argeș,,,124,0,0,124,0,0,True,True
+2020-04-26,ROU,Romania,Bacău,,,161,0,0,161,0,0,True,True
+2020-04-26,ROU,Romania,Bihor,46.942178,22.210795,376,0,0,376,0,0,True,True
+2020-04-26,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,156,0,0,156,0,0,True,True
+2020-04-26,ROU,Romania,Botoșani,,,414,0,0,414,0,0,True,True
+2020-04-26,ROU,Romania,Brăila,,,20,0,0,20,0,0,True,True
+2020-04-26,ROU,Romania,Brașov,,,396,0,0,396,0,0,True,True
+2020-04-26,ROU,Romania,București,,,1167,0,0,1167,0,0,True,True
+2020-04-26,ROU,Romania,Buzău,,,16,0,0,16,0,0,True,True
+2020-04-26,ROU,Romania,Călărași,,,51,0,0,51,0,0,True,True
+2020-04-26,ROU,Romania,Caraș-Severin,,,83,0,0,83,0,0,True,True
+2020-04-26,ROU,Romania,Cluj,46.812237,23.53594,305,0,0,305,0,0,True,True
+2020-04-26,ROU,Romania,Costanza,,,224,0,0,224,0,0,True,True
+2020-04-26,ROU,Romania,Covasna,45.938093,25.990767,177,0,0,177,0,0,True,True
+2020-04-26,ROU,Romania,Dâmbovița,,,95,0,0,95,0,0,True,True
+2020-04-26,ROU,Romania,Dolj,44.140792,23.613526,80,0,0,80,0,0,True,True
+2020-04-26,ROU,Romania,Galați,,,346,0,0,346,0,0,True,True
+2020-04-26,ROU,Romania,Giurgiu,44.144127,25.881413,127,0,0,127,0,0,True,True
+2020-04-26,ROU,Romania,Gorj,45.004246,23.322863,34,0,0,34,0,0,True,True
+2020-04-26,ROU,Romania,Harghita,46.549997,25.558475,20,0,0,20,0,0,True,True
+2020-04-26,ROU,Romania,Hunedoara,45.753652,22.938806,472,0,0,472,0,0,True,True
+2020-04-26,ROU,Romania,Iași,,,222,0,0,222,0,0,True,True
+2020-04-26,ROU,Romania,Ialomița,,,154,0,0,154,0,0,True,True
+2020-04-26,ROU,Romania,Ilfov,44.286638,26.144699,231,0,0,231,0,0,True,True
+2020-04-26,ROU,Romania,Maramureș,47.671302,23.981463,69,0,0,69,0,0,True,True
+2020-04-26,ROU,Romania,Mehedinți,,,52,0,0,52,0,0,True,True
+2020-04-26,ROU,Romania,Mureș,,,389,0,0,389,0,0,True,True
+2020-04-26,ROU,Romania,Neamț,,,434,0,0,434,0,0,True,True
+2020-04-26,ROU,Romania,NOT SPECIFIED,,,60,619,3054,-3613,0,0,True,True
+2020-04-26,ROU,Romania,Olt,44.272504,24.439351,33,0,0,33,0,0,True,True
+2020-04-26,ROU,Romania,Prahova,45.114672,26.015788,59,0,0,59,0,0,True,True
+2020-04-26,ROU,Romania,Sălaj,,,30,0,0,30,0,0,True,True
+2020-04-26,ROU,Romania,Satu Mare,47.705953,22.898922,55,0,0,55,0,0,True,True
+2020-04-26,ROU,Romania,Sibiu,45.85906,24.245264,238,0,0,238,0,0,True,True
+2020-04-26,ROU,Romania,Suceava,47.637703,25.82751,2613,0,0,2613,0,0,True,True
+2020-04-26,ROU,Romania,Teleorman,44.027822,25.197899,96,0,0,96,0,0,True,True
+2020-04-26,ROU,Romania,Timiș,,,430,0,0,430,0,0,True,True
+2020-04-26,ROU,Romania,Tulcea,44.986929,28.858105,38,0,0,38,0,0,True,True
+2020-04-26,ROU,Romania,Vâlcea,,,24,0,0,24,0,0,True,True
+2020-04-26,ROU,Romania,Vaslui,46.526869,27.769395,91,0,0,91,0,0,True,True
+2020-04-26,ROU,Romania,Vrancea,45.788059,26.980214,205,0,0,205,0,0,True,True
 2020-04-26,RUS,Russian Fed.,Adygea,44.448835,40.254013,134,0,0,134,0,0,False,False
 2020-04-26,RUS,Russian Fed.,Altai,52.477021,83.868816,283,0,0,283,0,0,False,False
 2020-04-26,RUS,Russian Fed.,Altai Republic,,,15,0,0,15,0,0,False,False
@@ -22262,6 +23353,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-27,PRT,Portugal,Lisbon,38.623843,-8.88436,5556,179,0,5377,0,0,True,True
 2020-04-27,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
 2020-04-27,PRT,Portugal,Norte,41.457206,-7.678153,14496,536,0,13960,0,0,True,True
+2020-04-27,ROU,Romania,Alba,46.172367,23.487279,165,0,0,165,0,0,True,True
+2020-04-27,ROU,Romania,Arad,46.273235,21.758454,522,0,0,522,0,0,True,True
+2020-04-27,ROU,Romania,Argeș,,,131,0,0,131,0,0,True,True
+2020-04-27,ROU,Romania,Bacău,,,172,0,0,172,0,0,True,True
+2020-04-27,ROU,Romania,Bihor,46.942178,22.210795,416,0,0,416,0,0,True,True
+2020-04-27,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,158,0,0,158,0,0,True,True
+2020-04-27,ROU,Romania,Botoșani,,,431,0,0,431,0,0,True,True
+2020-04-27,ROU,Romania,Brăila,,,22,0,0,22,0,0,True,True
+2020-04-27,ROU,Romania,Brașov,,,416,0,0,416,0,0,True,True
+2020-04-27,ROU,Romania,București,,,1190,0,0,1190,0,0,True,True
+2020-04-27,ROU,Romania,Buzău,,,17,0,0,17,0,0,True,True
+2020-04-27,ROU,Romania,Călărași,,,51,0,0,51,0,0,True,True
+2020-04-27,ROU,Romania,Caraș-Severin,,,87,0,0,87,0,0,True,True
+2020-04-27,ROU,Romania,Cluj,46.812237,23.53594,308,0,0,308,0,0,True,True
+2020-04-27,ROU,Romania,Costanza,,,233,0,0,233,0,0,True,True
+2020-04-27,ROU,Romania,Covasna,45.938093,25.990767,179,0,0,179,0,0,True,True
+2020-04-27,ROU,Romania,Dâmbovița,,,96,0,0,96,0,0,True,True
+2020-04-27,ROU,Romania,Dolj,44.140792,23.613526,82,0,0,82,0,0,True,True
+2020-04-27,ROU,Romania,Galați,,,354,0,0,354,0,0,True,True
+2020-04-27,ROU,Romania,Giurgiu,44.144127,25.881413,127,0,0,127,0,0,True,True
+2020-04-27,ROU,Romania,Gorj,45.004246,23.322863,38,0,0,38,0,0,True,True
+2020-04-27,ROU,Romania,Harghita,46.549997,25.558475,19,0,0,19,0,0,True,True
+2020-04-27,ROU,Romania,Hunedoara,45.753652,22.938806,472,0,0,472,0,0,True,True
+2020-04-27,ROU,Romania,Iași,,,230,0,0,230,0,0,True,True
+2020-04-27,ROU,Romania,Ialomița,,,154,0,0,154,0,0,True,True
+2020-04-27,ROU,Romania,Ilfov,44.286638,26.144699,246,0,0,246,0,0,True,True
+2020-04-27,ROU,Romania,Maramureș,47.671302,23.981463,70,0,0,70,0,0,True,True
+2020-04-27,ROU,Romania,Mehedinți,,,58,0,0,58,0,0,True,True
+2020-04-27,ROU,Romania,Mureș,,,407,0,0,407,0,0,True,True
+2020-04-27,ROU,Romania,Neamț,,,435,0,0,435,0,0,True,True
+2020-04-27,ROU,Romania,NOT SPECIFIED,,,18,646,3141,-3769,0,0,True,True
+2020-04-27,ROU,Romania,Olt,44.272504,24.439351,36,0,0,36,0,0,True,True
+2020-04-27,ROU,Romania,Prahova,45.114672,26.015788,66,0,0,66,0,0,True,True
+2020-04-27,ROU,Romania,Sălaj,,,30,0,0,30,0,0,True,True
+2020-04-27,ROU,Romania,Satu Mare,47.705953,22.898922,55,0,0,55,0,0,True,True
+2020-04-27,ROU,Romania,Sibiu,45.85906,24.245264,259,0,0,259,0,0,True,True
+2020-04-27,ROU,Romania,Suceava,47.637703,25.82751,2650,0,0,2650,0,0,True,True
+2020-04-27,ROU,Romania,Teleorman,44.027822,25.197899,96,0,0,96,0,0,True,True
+2020-04-27,ROU,Romania,Timiș,,,443,0,0,443,0,0,True,True
+2020-04-27,ROU,Romania,Tulcea,44.986929,28.858105,40,0,0,40,0,0,True,True
+2020-04-27,ROU,Romania,Vâlcea,,,24,0,0,24,0,0,True,True
+2020-04-27,ROU,Romania,Vaslui,46.526869,27.769395,91,0,0,91,0,0,True,True
+2020-04-27,ROU,Romania,Vrancea,45.788059,26.980214,245,0,0,245,0,0,True,True
 2020-04-27,RUS,Russian Fed.,Adygea,44.448835,40.254013,142,0,0,142,0,0,False,False
 2020-04-27,RUS,Russian Fed.,Altai,52.477021,83.868816,310,0,0,310,0,0,False,False
 2020-04-27,RUS,Russian Fed.,Altai Republic,,,27,0,0,27,0,0,False,False
@@ -22789,6 +23923,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-28,PRT,Portugal,Lisbon,38.623843,-8.88436,5593,185,0,5408,0,0,True,True
 2020-04-28,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
 2020-04-28,PRT,Portugal,Norte,41.457206,-7.678153,14702,546,0,14156,0,0,True,True
+2020-04-28,ROU,Romania,Alba,46.172367,23.487279,167,0,0,167,0,0,True,True
+2020-04-28,ROU,Romania,Arad,46.273235,21.758454,541,0,0,541,0,0,True,True
+2020-04-28,ROU,Romania,Argeș,,,134,0,0,134,0,0,True,True
+2020-04-28,ROU,Romania,Bacău,,,180,0,0,180,0,0,True,True
+2020-04-28,ROU,Romania,Bihor,46.942178,22.210795,438,0,0,438,0,0,True,True
+2020-04-28,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,172,0,0,172,0,0,True,True
+2020-04-28,ROU,Romania,Botoșani,,,442,0,0,442,0,0,True,True
+2020-04-28,ROU,Romania,Brăila,,,22,0,0,22,0,0,True,True
+2020-04-28,ROU,Romania,Brașov,,,422,0,0,422,0,0,True,True
+2020-04-28,ROU,Romania,București,,,1222,0,0,1222,0,0,True,True
+2020-04-28,ROU,Romania,Buzău,,,20,0,0,20,0,0,True,True
+2020-04-28,ROU,Romania,Călărași,,,48,0,0,48,0,0,True,True
+2020-04-28,ROU,Romania,Caraș-Severin,,,88,0,0,88,0,0,True,True
+2020-04-28,ROU,Romania,Cluj,46.812237,23.53594,315,0,0,315,0,0,True,True
+2020-04-28,ROU,Romania,Costanza,,,229,0,0,229,0,0,True,True
+2020-04-28,ROU,Romania,Covasna,45.938093,25.990767,178,0,0,178,0,0,True,True
+2020-04-28,ROU,Romania,Dâmbovița,,,96,0,0,96,0,0,True,True
+2020-04-28,ROU,Romania,Dolj,44.140792,23.613526,100,0,0,100,0,0,True,True
+2020-04-28,ROU,Romania,Galați,,,362,0,0,362,0,0,True,True
+2020-04-28,ROU,Romania,Giurgiu,44.144127,25.881413,128,0,0,128,0,0,True,True
+2020-04-28,ROU,Romania,Gorj,45.004246,23.322863,39,0,0,39,0,0,True,True
+2020-04-28,ROU,Romania,Harghita,46.549997,25.558475,19,0,0,19,0,0,True,True
+2020-04-28,ROU,Romania,Hunedoara,45.753652,22.938806,488,0,0,488,0,0,True,True
+2020-04-28,ROU,Romania,Iași,,,237,0,0,237,0,0,True,True
+2020-04-28,ROU,Romania,Ialomița,,,160,0,0,160,0,0,True,True
+2020-04-28,ROU,Romania,Ilfov,44.286638,26.144699,252,0,0,252,0,0,True,True
+2020-04-28,ROU,Romania,Maramureș,47.671302,23.981463,71,0,0,71,0,0,True,True
+2020-04-28,ROU,Romania,Mehedinți,,,58,0,0,58,0,0,True,True
+2020-04-28,ROU,Romania,Mureș,,,412,0,0,412,0,0,True,True
+2020-04-28,ROU,Romania,Neamț,,,451,0,0,451,0,0,True,True
+2020-04-28,ROU,Romania,NOT SPECIFIED,,,19,663,3404,-4048,0,0,True,True
+2020-04-28,ROU,Romania,Olt,44.272504,24.439351,36,0,0,36,0,0,True,True
+2020-04-28,ROU,Romania,Prahova,45.114672,26.015788,67,0,0,67,0,0,True,True
+2020-04-28,ROU,Romania,Sălaj,,,31,0,0,31,0,0,True,True
+2020-04-28,ROU,Romania,Satu Mare,47.705953,22.898922,55,0,0,55,0,0,True,True
+2020-04-28,ROU,Romania,Sibiu,45.85906,24.245264,270,0,0,270,0,0,True,True
+2020-04-28,ROU,Romania,Suceava,47.637703,25.82751,2695,0,0,2695,0,0,True,True
+2020-04-28,ROU,Romania,Teleorman,44.027822,25.197899,95,0,0,95,0,0,True,True
+2020-04-28,ROU,Romania,Timiș,,,445,0,0,445,0,0,True,True
+2020-04-28,ROU,Romania,Tulcea,44.986929,28.858105,44,0,0,44,0,0,True,True
+2020-04-28,ROU,Romania,Vâlcea,,,25,0,0,25,0,0,True,True
+2020-04-28,ROU,Romania,Vaslui,46.526869,27.769395,92,0,0,92,0,0,True,True
+2020-04-28,ROU,Romania,Vrancea,45.788059,26.980214,251,0,0,251,0,0,True,True
 2020-04-28,SMR,San Marino,San Marino,43.942973,12.460035,538,41,0,497,0,0,False,False
 2020-04-28,SRB,Serbia,Serbia,44.206802,20.911009,8275,162,0,8113,0,0,False,True
 2020-04-28,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,92,0,0,92,0,0,True,True
@@ -23047,7 +24224,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-29,ROU,Romania,Mehedinți,,,59,0,0,59,0,0,True,True
 2020-04-29,ROU,Romania,Mureș,,,423,0,0,423,0,0,True,True
 2020-04-29,ROU,Romania,Neamț,,,461,0,0,461,0,0,True,True
-2020-04-29,ROU,Romania,NOT SPECIFIED,,,0,681,3569,-4250,0,0,True,True
+2020-04-29,ROU,Romania,NOT SPECIFIED,,,160,681,3569,-4090,0,0,True,True
 2020-04-29,ROU,Romania,Olt,44.272504,24.439351,38,0,0,38,0,0,True,True
 2020-04-29,ROU,Romania,Prahova,45.114672,26.015788,68,0,0,68,0,0,True,True
 2020-04-29,ROU,Romania,Sălaj,,,31,0,0,31,0,0,True,True
