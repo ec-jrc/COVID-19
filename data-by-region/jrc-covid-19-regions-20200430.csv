@@ -93,15 +93,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-30,CZE,Czech Republic,Ústecký,50.488308,13.816736,490,0,0,490,0,0,True,True
 2020-04-30,CZE,Czech Republic,Vysocina,49.40736,15.689937,175,0,0,175,0,0,True,True
 2020-04-30,CZE,Czech Republic,Zlínský,49.239654,17.770218,327,0,0,327,0,0,True,True
-2020-04-29,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
-2020-04-29,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
-2020-04-29,DNK,Denmark,Hovedstaden,55.675758,12.56902,4940,0,0,4940,0,0,True,True
+2020-04-30,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-04-30,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-04-30,DNK,Denmark,Hovedstaden,55.675758,12.56902,5040,0,0,5040,0,0,True,True
 2020-04-10,DNK,Denmark,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
-2020-04-29,DNK,Denmark,Midtjylland,56.302139,9.302777,1405,0,0,1405,0,0,True,True
-2020-04-29,DNK,Denmark,Nordjylland,56.830742,9.493053,381,0,0,381,0,0,True,True
-2020-04-29,DNK,Denmark,NOT SPECIFIED,,,46,443,0,-397,0,0,True,True
-2020-04-29,DNK,Denmark,Sjælland,55.92481,11.67126,1369,0,0,1369,0,0,True,True
-2020-04-29,DNK,Denmark,Syddanmark,55.675758,12.56902,867,0,0,867,0,0,True,True
+2020-04-30,DNK,Denmark,Midtjylland,56.302139,9.302777,1423,0,0,1423,0,0,True,True
+2020-04-30,DNK,Denmark,Nordjylland,56.830742,9.493053,381,0,0,381,0,0,True,True
+2020-04-30,DNK,Denmark,NOT SPECIFIED,,,46,452,0,-406,0,0,True,True
+2020-04-30,DNK,Denmark,Sjælland,55.92481,11.67126,1394,0,0,1394,0,0,True,True
+2020-04-30,DNK,Denmark,Syddanmark,55.675758,12.56902,874,0,0,874,0,0,True,True
 2020-04-30,EST,Estonia,Estonia,58.596209,25.023778,1689,52,0,1637,0,0,True,True
 2020-04-30,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-04-30,FIN,Finland,Etelä-Karjala,61.217899,28.550289,14,0,0,14,0,0,True,True
@@ -307,14 +307,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-30,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,148,1,0,147,0,0,True,True
 2020-04-30,POL,Poland,Wielkopolskie,52.283858,17.248218,1436,86,0,1350,0,0,True,True
 2020-04-30,POL,Poland,Zachodniopomorskie,53.582707,15.634824,387,10,0,377,0,0,True,True
-2020-04-28,PRT,Portugal,Açores,37.775525,-25.494927,121,10,0,111,0,0,True,True
-2020-04-28,PRT,Portugal,Alentejo,38.485499,-8.006668,201,1,0,200,0,0,True,True
-2020-04-28,PRT,Portugal,Algarve,37.218389,-8.198488,330,12,0,318,0,0,True,True
-2020-04-28,PRT,Portugal,Centro,40.111812,-8.012768,3289,194,0,3095,0,0,True,True
+2020-04-30,PRT,Portugal,Açores,37.775525,-25.494927,127,12,0,115,0,0,True,True
+2020-04-30,PRT,Portugal,Alentejo,38.485499,-8.006668,218,1,0,217,0,0,True,True
+2020-04-30,PRT,Portugal,Algarve,37.218389,-8.198488,331,13,0,318,0,0,True,True
+2020-04-30,PRT,Portugal,Centro,40.111812,-8.012768,3389,198,0,3191,0,0,True,True
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True
-2020-04-28,PRT,Portugal,Lisbon,38.623843,-8.88436,5593,185,0,5408,0,0,True,True
-2020-04-28,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
-2020-04-28,PRT,Portugal,Norte,41.457206,-7.678153,14702,546,0,14156,0,0,True,True
+2020-04-30,PRT,Portugal,Lisbon,38.623843,-8.88436,5815,199,0,5616,0,0,True,True
+2020-04-30,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
+2020-04-30,PRT,Portugal,Norte,41.457206,-7.678153,15090,566,0,14524,0,0,True,True
 2020-04-18,PRT,Portugal,NOT SPECIFIED,,,0,687,610,-1297,0,228,True,True
 2020-04-30,ROU,Romania,Alba,46.172367,23.487279,195,0,0,195,0,0,True,True
 2020-04-30,ROU,Romania,Arad,46.273235,21.758454,565,0,0,565,0,0,True,True
