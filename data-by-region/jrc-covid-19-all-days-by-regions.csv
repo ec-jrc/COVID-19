@@ -43760,25 +43760,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-02,FIN,Finland,Vaasa,63.077479,22.196054,50,0,0,50,0,0,True,True
 2020-05-02,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,276,0,0,276,0,0,True,True
 2020-05-02,FIN,Finland,West North,,,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Bretagne,48.181767,-2.840778,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Centre-Val de Loire,47.751569,1.675063,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Corse,42.151732,9.105559,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Grand Est,48.688738,5.613275,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Guadeloupe,16.192207,-61.272382,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Guyane,3.926082,-53.245309,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Hauts-de-France,49.96966,2.770434,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Île-de-France,48.709229,2.503473,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,La Réunion,-20.89066,55.455054,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Martinique,14.63554,-61.022814,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Mayotte,-12.824511,45.165455,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Normandie,48.880101,-0.073045,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Occitanie,43.703195,2.143601,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Pays de la Loire,47.479115,-0.811996,0,0,0,0,0,0,True,True
-2020-05-02,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,0,0,0,0,0,True,True
+2020-05-02,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1355,5154,-6509,2474,359,True,True
+2020-05-02,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,850,2492,-3342,1139,172,True,True
+2020-05-02,FRA,France,Bretagne,48.181767,-2.840778,0,216,855,-1071,373,45,True,True
+2020-05-02,FRA,France,Centre-Val de Loire,47.751569,1.675063,0,397,1229,-1626,984,112,True,True
+2020-05-02,FRA,France,Corse,42.151732,9.105559,0,50,191,-241,57,8,True,True
+2020-05-02,FRA,France,Grand Est,48.688738,5.613275,0,2937,8253,-11190,3817,514,True,True
+2020-05-02,FRA,France,Guadeloupe,16.192207,-61.272382,0,17,72,-89,16,6,True,True
+2020-05-02,FRA,France,Guyane,3.926082,-53.245309,0,1,36,-37,2,0,True,True
+2020-05-02,FRA,France,Hauts-de-France,49.96966,2.770434,0,1396,4152,-5548,2231,346,True,True
+2020-05-02,FRA,France,Île-de-France,48.709229,2.503473,0,6085,17970,-24055,10715,1552,True,True
+2020-05-02,FRA,France,La Réunion,-20.89066,55.455054,0,0,110,-110,5,2,True,True
+2020-05-02,FRA,France,Martinique,14.63554,-61.022814,0,14,77,-91,21,8,True,True
+2020-05-02,FRA,France,Mayotte,-12.824511,45.165455,0,8,96,-104,31,5,True,True
+2020-05-02,FRA,France,Normandie,48.880101,-0.073045,0,350,1094,-1444,574,87,True,True
+2020-05-02,FRA,France,NOT SPECIFIED,,,130979,19,8,130952,76,57,True,True
+2020-05-02,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,327,1474,-1801,592,109,True,True
+2020-05-02,FRA,France,Occitanie,43.703195,2.143601,0,409,2123,-2532,603,137,True,True
+2020-05-02,FRA,France,Pays de la Loire,47.479115,-0.811996,0,348,1286,-1634,624,70,True,True
+2020-05-02,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,708,3890,-4598,1493,238,True,True
 2020-05-02,DEU,Germany,Baden-Württemberg,48.537648,9.049199,32146,1402,0,30744,0,0,True,True
 2020-05-02,DEU,Germany,Bayern,48.947574,11.419913,42658,1885,0,40773,0,0,True,True
 2020-05-02,DEU,Germany,Berlin,52.501532,13.40185,5943,152,0,5791,0,0,True,True
