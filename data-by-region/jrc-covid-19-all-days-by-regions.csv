@@ -43870,16 +43870,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-02,HUN,Hungary,Vas,47.147868,16.751348,0,0,0,0,0,0,True,True
 2020-05-02,HUN,Hungary,Veszprém,47.131402,17.65231,0,0,0,0,0,0,True,True
 2020-05-02,HUN,Hungary,Zala,46.692149,16.903237,0,0,0,0,0,0,True,True
-2020-05-02,ISL,Iceland,Abroad,,,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,East Iceland,64.832997,-15.743398,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,South Iceland,64.135334,-19.242939,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,West Fjords,65.820831,-21.86654,0,0,0,0,0,0,False,True
-2020-05-02,ISL,Iceland,West Iceland,64.843136,-21.691436,0,0,0,0,0,0,False,True
+2020-05-02,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-05-02,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-05-02,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1312,0,0,1312,0,0,False,True
+2020-05-02,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-05-02,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-05-02,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-05-02,ISL,Iceland,South Iceland,64.135334,-19.242939,178,0,0,178,0,0,False,True
+2020-05-02,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-05-02,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-05-02,ISL,Iceland,West Iceland,64.843136,-21.691436,42,0,0,42,0,0,False,True
 2020-05-02,IRL,Ireland,Ireland,53.41975,-8.240472,20833,1265,0,19568,0,0,True,True
 2020-05-02,ITA,Italy,Abruzzo,42.228034,13.855137,0,0,0,0,0,0,True,True
 2020-05-02,ITA,Italy,Basilicata,40.500665,16.082246,0,0,0,0,0,0,True,True
@@ -43954,14 +43954,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-02,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,148,1,0,147,0,0,True,True
 2020-05-02,POL,Poland,Wielkopolskie,52.283858,17.248218,1494,90,0,1404,0,0,True,True
 2020-05-02,POL,Poland,Zachodniopomorskie,53.582707,15.634824,406,10,0,396,0,0,True,True
-2020-05-02,PRT,Portugal,Açores,37.775525,-25.494927,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Alentejo,38.485499,-8.006668,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Algarve,37.218389,-8.198488,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Centro,40.111812,-8.012768,0,0,0,0,0,0,True,True
+2020-05-02,PRT,Portugal,Açores,37.775525,-25.494927,131,13,0,118,0,0,True,True
+2020-05-02,PRT,Portugal,Alentejo,38.485499,-8.006668,218,1,0,217,0,0,True,True
+2020-05-02,PRT,Portugal,Algarve,37.218389,-8.198488,331,13,0,318,0,0,True,True
+2020-05-02,PRT,Portugal,Centro,40.111812,-8.012768,3426,206,0,3220,0,0,True,True
 2020-05-02,PRT,Portugal,Estrageiro,,,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Lisbon,38.623843,-8.88436,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Madeira,32.736252,-16.972663,0,0,0,0,0,0,True,True
-2020-05-02,PRT,Portugal,Norte,41.457206,-7.678153,0,0,0,0,0,0,True,True
+2020-05-02,PRT,Portugal,Lisbon,38.623843,-8.88436,6047,205,0,5842,0,0,True,True
+2020-05-02,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
+2020-05-02,PRT,Portugal,Norte,41.457206,-7.678153,14951,585,0,14366,0,0,True,True
 2020-05-02,PRT,Portugal,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
 2020-05-02,ROU,Romania,Alba,46.172367,23.487279,204,0,0,204,0,0,True,True
 2020-05-02,ROU,Romania,Arad,46.273235,21.758454,574,0,0,574,0,0,True,True
