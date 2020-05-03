@@ -44251,7 +44251,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,ALB,Albania,Shkodër,42.17682,19.719451,0,0,0,0,0,0,False,False
 2020-05-03,ALB,Albania,Tiranë,41.268583,19.793936,0,0,0,0,0,0,False,False
 2020-05-03,ALB,Albania,Vlorë,40.162418,19.793592,0,0,0,0,0,0,False,False
-2020-05-03,AND,Andorra,Andorra,42.542268,1.596865,0,0,0,0,0,0,False,False
+2020-05-03,AND,Andorra,Andorra,42.542268,1.596865,747,44,0,703,0,0,False,False
 2020-05-03,AUT,Austria,Burgenland,47.541449,16.520206,330,10,256,64,0,0,True,True
 2020-05-03,AUT,Austria,Kärnten,46.715832,14.455532,411,13,381,17,0,0,True,True
 2020-05-03,AUT,Austria,Niederösterreich,48.27051,15.763245,2620,86,2238,296,0,0,True,True
@@ -44318,21 +44318,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,HRV,Croatia,Zadarska,44.347845,15.959404,0,0,0,0,0,0,True,True
 2020-05-03,HRV,Croatia,Zagrebačka,45.82762,16.381796,0,0,0,0,0,0,True,True
 2020-05-03,CYP,Cyprus,Cyprus,35.167406,33.435499,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Jihoceský,49.093362,14.439278,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Karlovarský,50.170136,12.763213,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Liberecký,50.732038,14.973755,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Olomoucký,49.823636,17.016472,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Pardubický,49.877869,16.495746,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Plzenský,49.590906,13.23222,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Prague,50.063699,14.476403,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Stredoceský,50.101074,15.003747,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Ústecký,50.488308,13.816736,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Vysocina,49.40736,15.689937,0,0,0,0,0,0,True,True
-2020-05-03,CZE,Czech Republic,Zlínský,49.239654,17.770218,0,0,0,0,0,0,True,True
+2020-05-03,CZE,Czech Republic,Jihoceský,49.093362,14.439278,173,0,0,173,0,0,True,True
+2020-05-03,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,449,0,0,449,0,0,True,True
+2020-05-03,CZE,Czech Republic,Karlovarský,50.170136,12.763213,377,0,0,377,0,0,True,True
+2020-05-03,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,179,0,0,179,0,0,True,True
+2020-05-03,CZE,Czech Republic,Liberecký,50.732038,14.973755,195,0,0,195,0,0,True,True
+2020-05-03,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,1071,0,0,1071,0,0,True,True
+2020-05-03,CZE,Czech Republic,NOT SPECIFIED,,,67,245,3471,-3649,0,0,True,True
+2020-05-03,CZE,Czech Republic,Olomoucký,49.823636,17.016472,698,0,0,698,0,0,True,True
+2020-05-03,CZE,Czech Republic,Pardubický,49.877869,16.495746,272,0,0,272,0,0,True,True
+2020-05-03,CZE,Czech Republic,Plzenský,49.590906,13.23222,612,0,0,612,0,0,True,True
+2020-05-03,CZE,Czech Republic,Prague,50.063699,14.476403,1751,0,0,1751,0,0,True,True
+2020-05-03,CZE,Czech Republic,Stredoceský,50.101074,15.003747,911,0,0,911,0,0,True,True
+2020-05-03,CZE,Czech Republic,Ústecký,50.488308,13.816736,496,0,0,496,0,0,True,True
+2020-05-03,CZE,Czech Republic,Vysocina,49.40736,15.689937,175,0,0,175,0,0,True,True
+2020-05-03,CZE,Czech Republic,Zlínský,49.239654,17.770218,329,0,0,329,0,0,True,True
 2020-05-03,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,0,0,0,0,True,True
 2020-05-03,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,0,0,0,0,True,True
 2020-05-03,DNK,Denmark,Hovedstaden,55.675758,12.56902,0,0,0,0,0,0,True,True
@@ -44793,32 +44793,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,CHE,Switzerland,Zurich,47.417407,8.655988,0,0,0,0,0,0,False,False
 2020-05-03,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-03,TUR,Turkey,Turkey,38.961515,35.25175,0,0,0,0,0,0,False,True
-2020-05-03,UKR,Ukraine,Cherkasy,49.253559,31.378329,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Chernihiv,51.347162,32.016707,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Chernivtsi,48.269841,25.97109,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Donetsk,48.04733,37.669412,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Kharkiv,49.612761,36.514406,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Kherson,46.66268,33.577394,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Kiev region,49.843123,30.727949,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Kirovograd,48.507933,32.262317,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Kyiv,50.427074,30.530672,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Lugansk,48.574041,39.307815,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Lviv,49.724836,23.921202,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Mykolaiv,47.369854,31.706007,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Odessa,46.891548,30.547979,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Poltava,49.713595,33.811322,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Rivne,51.043432,26.397584,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Sumy,51.393248,33.665627,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Ternopil,49.402562,25.640005,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Transcarpathian,48.405051,23.281219,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Vinnytsia,48.926546,28.692087,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Volyn,51.202858,24.883489,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,0,0,0,0,0,0,False,False
-2020-05-03,UKR,Ukraine,Zhytomyr,50.642612,28.484557,0,0,0,0,0,0,False,False
+2020-05-03,UKR,Ukraine,Cherkasy,49.253559,31.378329,308,0,0,308,0,0,False,False
+2020-05-03,UKR,Ukraine,Chernihiv,51.347162,32.016707,54,0,0,54,0,0,False,False
+2020-05-03,UKR,Ukraine,Chernivtsi,48.269841,25.97109,1818,0,0,1818,0,0,False,False
+2020-05-03,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,448,0,0,448,0,0,False,False
+2020-05-03,UKR,Ukraine,Donetsk,48.04733,37.669412,70,0,0,70,0,0,False,False
+2020-05-03,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,965,0,0,965,0,0,False,False
+2020-05-03,UKR,Ukraine,Kharkiv,49.612761,36.514406,348,0,0,348,0,0,False,False
+2020-05-03,UKR,Ukraine,Kherson,46.66268,33.577394,136,0,0,136,0,0,False,False
+2020-05-03,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,115,0,0,115,0,0,False,False
+2020-05-03,UKR,Ukraine,Kiev region,49.843123,30.727949,784,0,0,784,0,0,False,False
+2020-05-03,UKR,Ukraine,Kirovograd,48.507933,32.262317,397,0,0,397,0,0,False,False
+2020-05-03,UKR,Ukraine,Kyiv,50.427074,30.530672,1511,0,0,1511,0,0,False,False
+2020-05-03,UKR,Ukraine,Lugansk,48.574041,39.307815,37,0,0,37,0,0,False,False
+2020-05-03,UKR,Ukraine,Lviv,49.724836,23.921202,473,0,0,473,0,0,False,False
+2020-05-03,UKR,Ukraine,Mykolaiv,47.369854,31.706007,149,0,0,149,0,0,False,False
+2020-05-03,UKR,Ukraine,NOT SPECIFIED,,,0,288,0,-288,0,0,False,False
+2020-05-03,UKR,Ukraine,Odessa,46.891548,30.547979,409,0,0,409,0,0,False,False
+2020-05-03,UKR,Ukraine,Poltava,49.713595,33.811322,222,0,0,222,0,0,False,False
+2020-05-03,UKR,Ukraine,Rivne,51.043432,26.397584,726,0,0,726,0,0,False,False
+2020-05-03,UKR,Ukraine,Sumy,51.393248,33.665627,110,0,0,110,0,0,False,False
+2020-05-03,UKR,Ukraine,Ternopil,49.402562,25.640005,868,0,0,868,0,0,False,False
+2020-05-03,UKR,Ukraine,Transcarpathian,48.405051,23.281219,508,0,0,508,0,0,False,False
+2020-05-03,UKR,Ukraine,Vinnytsia,48.926546,28.692087,435,0,0,435,0,0,False,False
+2020-05-03,UKR,Ukraine,Volyn,51.202858,24.883489,324,0,0,324,0,0,False,False
+2020-05-03,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,275,0,0,275,0,0,False,False
+2020-05-03,UKR,Ukraine,Zhytomyr,50.642612,28.484557,423,0,0,423,0,0,False,False
 2020-05-03,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,0,0,0,0,0,0,False,True
 2020-05-03,GBR,United Kingdom,Borders,55.572787,-2.786355,0,0,0,0,0,0,False,True
 2020-05-03,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,0,0,0,0,0,0,False,True
