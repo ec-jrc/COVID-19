@@ -43348,14 +43348,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-01,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,148,1,0,147,0,0,True,True
 2020-05-01,POL,Poland,Wielkopolskie,52.283858,17.248218,1443,86,0,1357,0,0,True,True
 2020-05-01,POL,Poland,Zachodniopomorskie,53.582707,15.634824,401,10,0,391,0,0,True,True
-2020-05-01,PRT,Portugal,Açores,37.775525,-25.494927,127,12,0,115,0,0,True,True
-2020-05-01,PRT,Portugal,Alentejo,38.485499,-8.006668,218,1,0,217,0,0,True,True
-2020-05-01,PRT,Portugal,Algarve,37.218389,-8.198488,331,13,0,318,0,0,True,True
-2020-05-01,PRT,Portugal,Centro,40.111812,-8.012768,3419,201,0,3218,0,0,True,True
+2020-05-01,PRT,Portugal,Açores,37.775525,-25.494927,127,127,127,-127,0,0,True,True
+2020-05-01,PRT,Portugal,Alentejo,38.485499,-8.006668,218,218,218,-218,0,0,True,True
+2020-05-01,PRT,Portugal,Algarve,37.218389,-8.198488,331,331,331,-331,0,0,True,True
+2020-05-01,PRT,Portugal,Centro,40.111812,-8.012768,3419,3419,3419,-3419,0,0,True,True
 2020-05-01,PRT,Portugal,Estrageiro,,,0,0,0,0,0,0,True,True
-2020-05-01,PRT,Portugal,Lisbon,38.623843,-8.88436,5939,202,0,5737,0,0,True,True
-2020-05-01,PRT,Portugal,Madeira,32.736252,-16.972663,86,0,0,86,0,0,True,True
-2020-05-01,PRT,Portugal,Norte,41.457206,-7.678153,15231,578,0,14653,0,0,True,True
+2020-05-01,PRT,Portugal,Lisbon,38.623843,-8.88436,5939,5939,5939,-5939,0,0,True,True
+2020-05-01,PRT,Portugal,Madeira,32.736252,-16.972663,86,86,86,-86,0,0,True,True
+2020-05-01,PRT,Portugal,Norte,41.457206,-7.678153,14687,14687,14687,-14687,0,0,True,True
 2020-05-01,PRT,Portugal,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
 2020-05-01,ROU,Romania,Alba,46.172367,23.487279,195,0,0,195,0,0,True,True
 2020-05-01,ROU,Romania,Arad,46.273235,21.758454,565,0,0,565,0,0,True,True
@@ -44560,14 +44560,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,148,1,0,147,0,0,True,True
 2020-05-03,POL,Poland,Wielkopolskie,52.283858,17.248218,1518,93,0,1425,0,0,True,True
 2020-05-03,POL,Poland,Zachodniopomorskie,53.582707,15.634824,414,10,0,404,0,0,True,True
-2020-05-03,PRT,Portugal,Açores,37.775525,-25.494927,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Alentejo,38.485499,-8.006668,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Algarve,37.218389,-8.198488,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Centro,40.111812,-8.012768,0,0,0,0,0,0,True,True
+2020-05-03,PRT,Portugal,Açores,37.775525,-25.494927,132,132,132,-132,0,0,True,True
+2020-05-03,PRT,Portugal,Alentejo,38.485499,-8.006668,218,218,218,-218,0,0,True,True
+2020-05-03,PRT,Portugal,Algarve,37.218389,-8.198488,331,331,331,-331,0,0,True,True
+2020-05-03,PRT,Portugal,Centro,40.111812,-8.012768,3447,3447,3447,-3447,0,0,True,True
 2020-05-03,PRT,Portugal,Estrageiro,,,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Lisbon,38.623843,-8.88436,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Madeira,32.736252,-16.972663,0,0,0,0,0,0,True,True
-2020-05-03,PRT,Portugal,Norte,41.457206,-7.678153,0,0,0,0,0,0,True,True
+2020-05-03,PRT,Portugal,Lisbon,38.623843,-8.88436,6047,6047,6047,-6047,0,0,True,True
+2020-05-03,PRT,Portugal,Madeira,32.736252,-16.972663,86,86,86,-86,0,0,True,True
+2020-05-03,PRT,Portugal,Norte,41.457206,-7.678153,15021,15021,15021,-15021,0,0,True,True
 2020-05-03,PRT,Portugal,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
 2020-05-03,ROU,Romania,Alba,46.172367,23.487279,206,0,0,206,0,0,True,True
 2020-05-03,ROU,Romania,Arad,46.273235,21.758454,576,0,0,576,0,0,True,True
