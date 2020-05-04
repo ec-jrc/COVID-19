@@ -272,7 +272,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False
 2020-05-04,LTU,Lithuania,Lithuania,55.174112,23.906736,1410,46,0,1364,0,0,True,True
-2020-05-03,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3824,96,850,2878,93,22,True,True
+2020-05-04,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3828,96,851,2881,92,21,True,True
 2020-05-04,MLT,Malta,Malta,35.946151,14.384612,480,4,399,77,0,0,True,True
 2020-05-04,MDA,Moldova,Moldova,46.979527,28.377195,4121,125,0,3996,0,0,False,False
 2020-05-04,MCO,Monaco,Monaco,43.738348,7.424451,95,4,0,91,0,0,False,False
@@ -291,22 +291,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,276,0,0,276,0,0,False,True
 2020-05-04,NOR,Norway,Vestland,60.952729,6.513828,866,0,0,866,0,0,False,True
 2020-05-04,NOR,Norway,Viken,60.020274,9.849655,2099,0,0,2099,0,0,False,True
-2020-05-04,POL,Poland,Dolnośląskie,51.07994,16.381483,1720,52,0,1668,0,0,True,True
+2020-05-04,POL,Poland,Dolnośląskie,51.07994,16.381483,1723,53,0,1670,0,0,True,True
 2020-05-04,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,557,30,0,527,0,0,True,True
-2020-05-04,POL,Poland,Łódzkie,51.559579,19.408271,1049,34,0,1015,0,0,True,True
+2020-05-04,POL,Poland,Łódzkie,51.559579,19.408271,1068,33,0,1035,0,0,True,True
 2020-05-04,POL,Poland,Lubelskie,51.247253,22.908895,374,14,0,360,0,0,True,True
 2020-05-04,POL,Poland,Lubuskie,52.206458,15.345515,90,0,0,90,0,0,True,True
-2020-05-04,POL,Poland,Małopolskie,49.842031,20.300847,974,31,0,943,0,0,True,True
-2020-05-04,POL,Poland,Mazowieckie,52.309134,21.081201,2541,208,0,2333,0,0,True,True
-2020-05-04,POL,Poland,Opolskie,50.621436,17.876844,429,28,0,401,0,0,True,True
-2020-05-04,POL,Poland,Podkarpackie,49.962818,22.225966,356,24,0,332,0,0,True,True
+2020-05-04,POL,Poland,Małopolskie,49.842031,20.300847,976,31,0,945,0,0,True,True
+2020-05-04,POL,Poland,Mazowieckie,52.309134,21.081201,2553,211,0,2342,0,0,True,True
+2020-05-04,POL,Poland,Opolskie,50.621436,17.876844,435,29,0,406,0,0,True,True
+2020-05-04,POL,Poland,Podkarpackie,49.962818,22.225966,363,24,0,339,0,0,True,True
 2020-05-04,POL,Poland,Podlaskie,53.28395,22.895092,378,5,0,373,0,0,True,True
-2020-05-04,POL,Poland,Pomorskie,54.129033,18.012613,444,17,0,427,0,0,True,True
-2020-05-04,POL,Poland,Śląskie,50.318293,18.999987,2637,128,0,2509,0,0,True,True
+2020-05-04,POL,Poland,Pomorskie,54.129033,18.012613,444,18,0,426,0,0,True,True
+2020-05-04,POL,Poland,Śląskie,50.318293,18.999987,2656,132,0,2524,0,0,True,True
 2020-05-04,POL,Poland,Świętokrzyskie,50.734202,20.797295,282,8,0,274,0,0,True,True
 2020-05-04,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,150,1,0,149,0,0,True,True
-2020-05-04,POL,Poland,Wielkopolskie,52.283858,17.248218,1529,93,0,1436,0,0,True,True
-2020-05-04,POL,Poland,Zachodniopomorskie,53.582707,15.634824,427,10,0,417,0,0,True,True
+2020-05-04,POL,Poland,Wielkopolskie,52.283858,17.248218,1529,95,0,1434,0,0,True,True
+2020-05-04,POL,Poland,Zachodniopomorskie,53.582707,15.634824,428,14,0,414,0,0,True,True
 2020-05-02,PRT,Portugal,Açores,37.775525,-25.494927,131,13,0,118,0,0,True,True
 2020-05-02,PRT,Portugal,Alentejo,38.485499,-8.006668,218,1,0,217,0,0,True,True
 2020-05-02,PRT,Portugal,Algarve,37.218389,-8.198488,331,13,0,318,0,0,True,True
