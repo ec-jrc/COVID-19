@@ -1,16 +1,16 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-05-03,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
-2020-05-03,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
-2020-05-03,ALB,Albania,Durrës,41.518365,19.651766,157,0,0,157,0,0,False,False
-2020-05-03,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
-2020-05-03,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
-2020-05-03,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
-2020-05-03,ALB,Albania,Kukës,42.066696,20.419467,37,0,0,37,0,0,False,False
-2020-05-03,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
-2020-05-03,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
-2020-05-03,ALB,Albania,Shkodër,42.17682,19.719451,115,0,0,115,0,0,False,False
-2020-05-03,ALB,Albania,Tiranë,41.268583,19.793936,342,0,0,342,0,0,False,False
-2020-05-03,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
+2020-05-04,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
+2020-05-04,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
+2020-05-04,ALB,Albania,Durrës,41.518365,19.651766,156,0,0,156,0,0,False,False
+2020-05-04,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
+2020-05-04,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
+2020-05-04,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
+2020-05-04,ALB,Albania,Kukës,42.066696,20.419467,39,0,0,39,0,0,False,False
+2020-05-04,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
+2020-05-04,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
+2020-05-04,ALB,Albania,Shkodër,42.17682,19.719451,115,0,0,115,0,0,False,False
+2020-05-04,ALB,Albania,Tiranë,41.268583,19.793936,349,0,0,349,0,0,False,False
+2020-05-04,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
 2020-05-04,AND,Andorra,Andorra,42.542268,1.596865,748,45,0,703,0,0,False,False
 2020-05-04,AUT,Austria,Burgenland,47.541449,16.520206,334,11,261,62,0,0,True,True
 2020-05-04,AUT,Austria,Kärnten,46.715832,14.455532,410,13,382,15,0,0,True,True
@@ -163,57 +163,57 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1578,45,0,1533,0,0,True,True
 2020-05-04,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2788,113,0,2675,0,0,True,True
 2020-05-04,DEU,Germany,Thüringen,50.903878,11.02488,2355,96,0,2259,0,0,True,True
-2020-05-03,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,0,True,True
-2020-05-03,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
-2020-05-03,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
-2020-05-03,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
-2020-05-03,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
-2020-05-03,GRC,Greece,Athens,37.997492,23.762727,1100,75,0,1025,0,0,True,True
-2020-05-03,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
-2020-05-03,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
-2020-05-03,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
-2020-05-03,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
-2020-05-03,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
-2020-05-03,GRC,Greece,Evros,41.064778,26.12942,14,8,0,6,0,0,True,True
-2020-05-03,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,0,True,True
+2020-05-04,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
+2020-05-04,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
+2020-05-04,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
+2020-05-04,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
+2020-05-04,GRC,Greece,Athens,37.997492,23.762727,1100,77,0,1023,0,0,True,True
+2020-05-04,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
+2020-05-04,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
+2020-05-04,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
+2020-05-04,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
+2020-05-04,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
+2020-05-04,GRC,Greece,Evros,41.064778,26.12942,14,8,0,6,0,0,True,True
+2020-05-04,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,0,True,True
 2020-04-11,GRC,Greece,Grevenon,40.022103,21.432045,0,0,0,0,0,0,True,True
-2020-05-03,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,0,True,True
-2020-05-03,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,0,True,True
-2020-05-03,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,0,True,True
-2020-05-03,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
-2020-05-03,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
-2020-05-03,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,0,True,True
-2020-05-03,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Larissa,39.701311,22.39723,50,0,0,50,0,0,True,True
-2020-05-03,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,0,True,True
-2020-05-03,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
-2020-05-03,GRC,Greece,NOT SPECIFIED,,,568,0,0,568,0,0,True,True
-2020-05-03,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
-2020-05-03,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
-2020-05-03,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
-2020-05-03,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,0,True,True
-2020-05-03,GRC,Greece,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
-2020-05-03,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,0,True,True
-2020-05-03,GRC,Greece,Tessaloniki,40.687597,23.115933,85,16,0,69,0,0,True,True
-2020-05-03,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
-2020-05-03,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
-2020-05-03,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
-2020-05-03,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
+2020-05-04,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,0,True,True
+2020-05-04,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,0,True,True
+2020-05-04,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,0,True,True
+2020-05-04,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
+2020-05-04,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
+2020-05-04,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,0,True,True
+2020-05-04,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Larissa,39.701311,22.39723,50,0,0,50,0,0,True,True
+2020-05-04,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,0,True,True
+2020-05-04,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
+2020-05-04,GRC,Greece,NOT SPECIFIED,,,574,0,0,574,0,0,True,True
+2020-05-04,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
+2020-05-04,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
+2020-05-04,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
+2020-05-04,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,0,True,True
+2020-05-04,GRC,Greece,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
+2020-05-04,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,0,True,True
+2020-05-04,GRC,Greece,Tessaloniki,40.687597,23.115933,85,16,0,69,0,0,True,True
+2020-05-04,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
+2020-05-04,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
+2020-05-04,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
+2020-05-04,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
 2020-05-04,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,23,0,0,23,0,0,True,True
 2020-05-04,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
 2020-05-04,HUN,Hungary,Békés,46.735413,21.006326,16,0,0,16,0,0,True,True
@@ -539,7 +539,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,CHE,Switzerland,Zug,47.161402,8.538864,189,8,136,45,4,1,False,False
 2020-05-04,CHE,Switzerland,Zurich,47.417407,8.655988,3493,123,0,3370,42,0,False,False
 2020-05-01,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-03,TUR,Turkey,Turkey,38.961515,35.25175,126045,3397,0,122648,0,0,False,True
+2020-05-04,TUR,Turkey,Turkey,38.961515,35.25175,127659,3461,0,124198,0,0,False,True
 2020-05-04,UKR,Ukraine,Cherkasy,49.253559,31.378329,312,0,0,312,0,0,False,False
 2020-05-04,UKR,Ukraine,Chernihiv,51.347162,32.016707,64,0,0,64,0,0,False,False
 2020-05-04,UKR,Ukraine,Chernivtsi,48.269841,25.97109,1887,0,0,1887,0,0,False,False
