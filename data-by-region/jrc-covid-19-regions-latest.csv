@@ -1,15 +1,15 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-05-03,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
 2020-05-03,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
-2020-05-03,ALB,Albania,Durrës,41.518365,19.651766,155,0,0,155,0,0,False,False
+2020-05-03,ALB,Albania,Durrës,41.518365,19.651766,157,0,0,157,0,0,False,False
 2020-05-03,ALB,Albania,Elbasan,41.040028,20.186454,18,0,0,18,0,0,False,False
 2020-05-03,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
 2020-05-03,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
-2020-05-03,ALB,Albania,Kukës,42.066696,20.419467,39,0,0,39,0,0,False,False
-2020-05-03,ALB,Albania,Lezhë,41.801452,19.845695,50,0,0,50,0,0,False,False
+2020-05-03,ALB,Albania,Kukës,42.066696,20.419467,37,0,0,37,0,0,False,False
+2020-05-03,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
 2020-05-03,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
 2020-05-03,ALB,Albania,Shkodër,42.17682,19.719451,115,0,0,115,0,0,False,False
-2020-05-03,ALB,Albania,Tiranë,41.268583,19.793936,344,0,0,344,0,0,False,False
+2020-05-03,ALB,Albania,Tiranë,41.268583,19.793936,342,0,0,342,0,0,False,False
 2020-05-03,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
 2020-05-04,AND,Andorra,Andorra,42.542268,1.596865,748,45,0,703,0,0,False,False
 2020-05-04,AUT,Austria,Burgenland,47.541449,16.520206,334,10,258,66,0,0,True,True
@@ -93,15 +93,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,CZE,Czech Republic,Ústecký,50.488308,13.816736,496,0,0,496,0,0,True,True
 2020-05-04,CZE,Czech Republic,Vysocina,49.40736,15.689937,175,0,0,175,0,0,True,True
 2020-05-04,CZE,Czech Republic,Zlínský,49.239654,17.770218,328,0,0,328,0,0,True,True
-2020-05-03,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
-2020-05-03,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
-2020-05-03,DNK,Denmark,Hovedstaden,55.675758,12.56902,5265,0,0,5265,0,0,True,True
+2020-05-04,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-04,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-05-04,DNK,Denmark,Hovedstaden,55.675758,12.56902,5356,0,0,5356,0,0,True,True
 2020-04-10,DNK,Denmark,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
-2020-05-03,DNK,Denmark,Midtjylland,56.302139,9.302777,1473,0,0,1473,0,0,True,True
-2020-05-03,DNK,Denmark,Nordjylland,56.830742,9.493053,393,0,0,393,0,0,True,True
-2020-05-03,DNK,Denmark,NOT SPECIFIED,,,50,484,0,-434,0,0,True,True
-2020-05-03,DNK,Denmark,Sjælland,55.92481,11.67126,1460,0,0,1460,0,0,True,True
-2020-05-03,DNK,Denmark,Syddanmark,55.675758,12.56902,882,0,0,882,0,0,True,True
+2020-05-04,DNK,Denmark,Midtjylland,56.302139,9.302777,1493,0,0,1493,0,0,True,True
+2020-05-04,DNK,Denmark,Nordjylland,56.830742,9.493053,404,0,0,404,0,0,True,True
+2020-05-04,DNK,Denmark,NOT SPECIFIED,,,50,493,0,-443,0,0,True,True
+2020-05-04,DNK,Denmark,Sjælland,55.92481,11.67126,1476,0,0,1476,0,0,True,True
+2020-05-04,DNK,Denmark,Syddanmark,55.675758,12.56902,891,0,0,891,0,0,True,True
 2020-05-04,EST,Estonia,Estonia,58.596209,25.023778,1703,55,0,1648,0,0,True,True
 2020-05-04,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-04,FIN,Finland,Etelä-Karjala,61.217899,28.550289,14,0,0,14,0,0,True,True
@@ -214,28 +214,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
 2020-05-03,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
 2020-05-03,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
-2020-05-03,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,23,0,0,23,0,0,True,True
-2020-05-03,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
-2020-05-03,HUN,Hungary,Békés,46.735413,21.006326,16,0,0,16,0,0,True,True
-2020-05-03,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,65,0,0,65,0,0,True,True
-2020-05-03,HUN,Hungary,Budapest,47.486226,19.102958,1473,0,0,1473,0,0,True,True
-2020-05-03,HUN,Hungary,Csongrád,46.429441,20.23317,101,0,0,101,0,0,True,True
-2020-05-03,HUN,Hungary,Fejér,47.130985,18.532031,300,0,0,300,0,0,True,True
-2020-05-03,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,79,0,0,79,0,0,True,True
-2020-05-03,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,23,0,0,23,0,0,True,True
-2020-05-03,HUN,Hungary,Heves,47.856454,20.175008,17,0,0,17,0,0,True,True
+2020-05-04,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,23,0,0,23,0,0,True,True
+2020-05-04,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
+2020-05-04,HUN,Hungary,Békés,46.735413,21.006326,16,0,0,16,0,0,True,True
+2020-05-04,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,65,0,0,65,0,0,True,True
+2020-05-04,HUN,Hungary,Budapest,47.486226,19.102958,1484,0,0,1484,0,0,True,True
+2020-05-04,HUN,Hungary,Csongrád,46.429441,20.23317,101,0,0,101,0,0,True,True
+2020-05-04,HUN,Hungary,Fejér,47.130985,18.532031,304,0,0,304,0,0,True,True
+2020-05-04,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,79,0,0,79,0,0,True,True
+2020-05-04,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,23,0,0,23,0,0,True,True
+2020-05-04,HUN,Hungary,Heves,47.856454,20.175008,17,0,0,17,0,0,True,True
 2020-04-14,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
-2020-05-03,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,22,0,0,22,0,0,True,True
-2020-05-03,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,132,0,0,132,0,0,True,True
-2020-05-03,HUN,Hungary,Nógrád,47.988372,19.52022,24,0,0,24,0,0,True,True
-2020-05-03,HUN,Hungary,NOT SPECIFIED,,,0,340,0,-340,0,0,True,True
-2020-05-03,HUN,Hungary,Pest,47.252834,19.743062,400,0,0,400,0,0,True,True
-2020-05-03,HUN,Hungary,Somogy,46.452574,17.603217,28,0,0,28,0,0,True,True
-2020-05-03,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,47,0,0,47,0,0,True,True
-2020-05-03,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
-2020-05-03,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
-2020-05-03,HUN,Hungary,Veszprém,47.131402,17.65231,58,0,0,58,0,0,True,True
-2020-05-03,HUN,Hungary,Zala,46.692149,16.903237,123,0,0,123,0,0,True,True
+2020-05-04,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,22,0,0,22,0,0,True,True
+2020-05-04,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,137,0,0,137,0,0,True,True
+2020-05-04,HUN,Hungary,Nógrád,47.988372,19.52022,24,0,0,24,0,0,True,True
+2020-05-04,HUN,Hungary,NOT SPECIFIED,,,0,351,0,-351,0,0,True,True
+2020-05-04,HUN,Hungary,Pest,47.252834,19.743062,401,0,0,401,0,0,True,True
+2020-05-04,HUN,Hungary,Somogy,46.452574,17.603217,28,0,0,28,0,0,True,True
+2020-05-04,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,47,0,0,47,0,0,True,True
+2020-05-04,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
+2020-05-04,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
+2020-05-04,HUN,Hungary,Veszprém,47.131402,17.65231,58,0,0,58,0,0,True,True
+2020-05-04,HUN,Hungary,Zala,46.692149,16.903237,139,0,0,139,0,0,True,True
 2020-05-04,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
 2020-05-04,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
 2020-05-04,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1312,0,0,1312,0,0,False,True
