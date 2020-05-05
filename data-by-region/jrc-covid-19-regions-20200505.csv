@@ -1,16 +1,16 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-05-04,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
-2020-05-04,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
-2020-05-04,ALB,Albania,Durrës,41.518365,19.651766,158,0,0,158,0,0,False,False
-2020-05-04,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
-2020-05-04,ALB,Albania,Fier,40.774633,19.620528,45,0,0,45,0,0,False,False
-2020-05-04,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
-2020-05-04,ALB,Albania,Kukës,42.066696,20.419467,37,0,0,37,0,0,False,False
-2020-05-04,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
+2020-05-05,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
+2020-05-05,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
+2020-05-05,ALB,Albania,Durrës,41.518365,19.651766,163,6,0,157,0,0,False,False
+2020-05-05,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
+2020-05-05,ALB,Albania,Fier,40.774633,19.620528,45,3,0,42,0,0,False,False
+2020-05-05,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
+2020-05-05,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
+2020-05-05,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
 2020-05-04,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
-2020-05-04,ALB,Albania,Shkodër,42.17682,19.719451,115,0,0,115,0,0,False,False
-2020-05-04,ALB,Albania,Tiranë,41.268583,19.793936,347,0,0,347,0,0,False,False
-2020-05-04,ALB,Albania,Vlorë,40.162418,19.793592,5,0,0,5,0,0,False,False
+2020-05-05,ALB,Albania,Shkodër,42.17682,19.719451,115,2,0,113,0,0,False,False
+2020-05-05,ALB,Albania,Tiranë,41.268583,19.793936,359,18,0,341,0,0,False,False
+2020-05-05,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
 2020-05-05,AND,Andorra,Andorra,42.542268,1.596865,750,45,0,705,0,0,False,False
 2020-05-05,AUT,Austria,Burgenland,47.541449,16.520206,334,11,261,62,0,0,True,True
 2020-05-05,AUT,Austria,Kärnten,46.715832,14.455532,410,13,383,14,0,0,True,True
