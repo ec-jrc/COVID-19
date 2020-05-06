@@ -27579,6 +27579,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,BGR,Bulgaria,Kyustendil,42.255307,22.869974,77,3,7,67,0,0,True,True
 2020-05-06,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,1,1,0,0,True,True
 2020-05-06,BGR,Bulgaria,Montana,43.496677,23.192363,20,0,0,20,0,0,True,True
+2020-05-06,BGR,Bulgaria,NOT SPECIFIED,,,0,2,30,-32,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,47,2,13,32,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pernik,42.613861,22.853171,19,0,1,18,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pleven,43.486117,24.610919,171,2,2,167,0,0,True,True
@@ -27694,6 +27695,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
 2020-05-06,HUN,Hungary,Veszprém,47.131402,17.65231,58,0,0,58,0,0,True,True
 2020-05-06,HUN,Hungary,Zala,46.692149,16.903237,140,0,0,140,0,0,True,True
+2020-05-06,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-05-06,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-05-06,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1312,0,0,1312,0,0,False,True
+2020-05-06,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-05-06,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-05-06,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-05-06,ISL,Iceland,South Iceland,64.135334,-19.242939,178,0,0,178,0,0,False,True
+2020-05-06,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-05-06,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-05-06,ISL,Iceland,West Iceland,64.843136,-21.691436,43,0,0,43,0,0,False,True
 2020-05-06,IRL,Ireland,Ireland,53.41975,-8.240472,21983,1339,0,20644,0,0,True,True
 2020-05-06,LVA,Latvia,Latvia,56.875584,24.607722,896,17,0,879,0,0,True,True
 2020-05-06,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
