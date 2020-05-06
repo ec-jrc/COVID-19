@@ -38,7 +38,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,BGR,Bulgaria,Kyustendil,42.255307,22.869974,77,3,7,67,0,0,True,True
 2020-05-06,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,1,1,0,0,True,True
 2020-05-06,BGR,Bulgaria,Montana,43.496677,23.192363,20,0,0,20,0,0,True,True
-2020-05-06,BGR,Bulgaria,NOT SPECIFIED,,,0,2,30,-32,0,0,True,True
+2020-05-06,BGR,Bulgaria,NOT SPECIFIED,,,0,1,30,-31,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,47,2,13,32,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pernik,42.613861,22.853171,19,0,1,18,0,0,True,True
 2020-05-06,BGR,Bulgaria,Pleven,43.486117,24.610919,171,2,2,167,0,0,True,True
@@ -47,7 +47,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,BGR,Bulgaria,Ruse,43.54059,25.759217,15,0,1,14,0,0,True,True
 2020-05-06,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,1,2,0,0,True,True
 2020-05-06,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
-2020-05-06,BGR,Bulgaria,Sliven,42.67034,26.241026,55,7,17,31,0,0,True,True
+2020-05-06,BGR,Bulgaria,Sliven,42.67034,26.241026,55,8,17,30,0,0,True,True
 2020-05-06,BGR,Bulgaria,Smolyan,41.628892,24.668089,38,4,22,12,0,0,True,True
 2020-05-06,BGR,Bulgaria,Sofia,,,0,0,0,0,0,0,True,True
 2020-05-06,BGR,Bulgaria,Sofia City,42.286287,23.616846,760,38,184,538,0,0,True,True
@@ -95,15 +95,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,CZE,Czech Republic,Ústecký,50.488308,13.816736,497,0,0,497,0,0,True,True
 2020-05-06,CZE,Czech Republic,Vysocina,49.40736,15.689937,177,0,0,177,0,0,True,True
 2020-05-06,CZE,Czech Republic,Zlínský,49.239654,17.770218,329,0,0,329,0,0,True,True
-2020-05-05,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
-2020-05-05,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
-2020-05-05,DNK,Denmark,Hovedstaden,55.675758,12.56902,5454,0,0,5454,0,0,True,True
+2020-05-06,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-06,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-05-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,5535,0,0,5535,0,0,True,True
 2020-04-10,DNK,Denmark,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
-2020-05-05,DNK,Denmark,Midtjylland,56.302139,9.302777,1499,0,0,1499,0,0,True,True
-2020-05-05,DNK,Denmark,Nordjylland,56.830742,9.493053,404,0,0,404,0,0,True,True
-2020-05-05,DNK,Denmark,NOT SPECIFIED,,,50,503,0,-453,0,0,True,True
-2020-05-05,DNK,Denmark,Sjælland,55.92481,11.67126,1520,0,0,1520,0,0,True,True
-2020-05-05,DNK,Denmark,Syddanmark,55.675758,12.56902,894,0,0,894,0,0,True,True
+2020-05-06,DNK,Denmark,Midtjylland,56.302139,9.302777,1503,0,0,1503,0,0,True,True
+2020-05-06,DNK,Denmark,Nordjylland,56.830742,9.493053,413,0,0,413,0,0,True,True
+2020-05-06,DNK,Denmark,NOT SPECIFIED,,,52,506,0,-454,0,0,True,True
+2020-05-06,DNK,Denmark,Sjælland,55.92481,11.67126,1538,0,0,1538,0,0,True,True
+2020-05-06,DNK,Denmark,Syddanmark,55.675758,12.56902,897,0,0,897,0,0,True,True
 2020-05-06,EST,Estonia,Estonia,58.596209,25.023778,1713,55,0,1658,0,0,True,True
 2020-05-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,16,0,0,16,0,0,True,True
