@@ -27435,6 +27435,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-05,SVK,Slovakia,Trencín,48.858564,18.202196,157,0,0,157,0,0,True,True
 2020-05-05,SVK,Slovakia,Trnava,48.222651,17.707847,116,0,0,116,0,0,True,True
 2020-05-05,SVK,Slovakia,Zilina,49.178517,19.167163,183,0,0,183,0,0,True,True
+2020-05-05,SVN,Slovenia,NOT SPECIFIED,,,1448,99,247,1102,53,14,True,True
 2020-05-05,ESP,Spain,Andalucía,37.46363,-4.573552,12210,1267,7230,3713,5983,738,True,True
 2020-05-05,ESP,Spain,Aragón,41.519884,-0.660302,5207,770,2704,1733,2539,260,True,True
 2020-05-05,ESP,Spain,Canarias,28.291062,-16.55631,2231,142,1190,899,920,176,True,True
@@ -27568,6 +27569,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,828,39,0,0,True,True
 2020-05-06,AUT,Austria,Wien,48.21141,16.380038,2600,135,1902,563,0,0,True,True
 2020-05-06,BLR,Belarus,Belarus,53.711111,27.973847,18350,107,0,18243,0,0,False,False
+2020-05-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,952,33,0,919,0,0,False,False
 2020-05-06,CYP,Cyprus,Cyprus,35.167406,33.435499,878,20,0,858,0,0,True,True
 2020-05-06,CZE,Czech Republic,Jihoceský,49.093362,14.439278,174,0,0,174,0,0,True,True
 2020-05-06,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,458,0,0,458,0,0,True,True
@@ -27584,6 +27586,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,CZE,Czech Republic,Ústecký,50.488308,13.816736,497,0,0,497,0,0,True,True
 2020-05-06,CZE,Czech Republic,Vysocina,49.40736,15.689937,177,0,0,177,0,0,True,True
 2020-05-06,CZE,Czech Republic,Zlínský,49.239654,17.770218,329,0,0,329,0,0,True,True
+2020-05-06,EST,Estonia,Estonia,58.596209,25.023778,1713,55,0,1658,0,0,True,True
 2020-05-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,16,0,0,16,0,0,True,True
 2020-05-06,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,37,0,0,37,0,0,True,True
@@ -27652,6 +27655,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,MCO,Monaco,Monaco,43.738348,7.424451,95,4,0,91,0,0,False,False
 2020-05-06,MNE,Montenegro,Montenegro,42.710152,19.410069,324,8,0,316,0,0,False,True
 2020-05-06,MKD,North Macedonia,North Macedonia,41.611,21.751417,1526,86,0,1440,0,0,False,True
+2020-05-06,NOR,Norway,NOT SPECIFIED,,,0,209,0,-209,0,0,False,True
 2020-05-06,POL,Poland,Dolnośląskie,51.07994,16.381483,1786,57,0,1729,0,0,True,True
 2020-05-06,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,561,30,0,531,0,0,True,True
 2020-05-06,POL,Poland,Łódzkie,51.559579,19.408271,1088,36,0,1052,0,0,True,True
