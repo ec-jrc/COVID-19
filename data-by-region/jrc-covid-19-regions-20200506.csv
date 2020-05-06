@@ -23,11 +23,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,828,39,0,0,True,True
 2020-05-06,AUT,Austria,Wien,48.21141,16.380038,2600,135,1902,563,0,0,True,True
 2020-05-06,BLR,Belarus,Belarus,53.711111,27.973847,18350,107,0,18243,0,0,False,False
-2020-05-05,BEL,Belgium,Brussels,50.836426,4.367415,5176,1247,0,3929,0,0,True,True
-2020-05-05,BEL,Belgium,Flanders,51.036569,4.234165,27925,3987,0,23938,0,0,True,True
-2020-05-05,BEL,Belgium,NOT SPECIFIED,,,992,0,0,992,0,0,True,True
+2020-05-06,BEL,Belgium,Brussels,50.836426,4.367415,5186,1300,0,3886,0,0,True,True
+2020-05-06,BEL,Belgium,Flanders,51.036569,4.234165,28124,4115,0,24009,0,0,True,True
+2020-05-06,BEL,Belgium,NOT SPECIFIED,,,993,0,0,993,0,0,True,True
 2020-04-09,BEL,Belgium,NOT SPECIFIED,,,389,0,0,389,0,0,True,True
-2020-05-05,BEL,Belgium,Wallonia,50.312074,5.019093,16416,2782,0,13634,0,0,True,True
+2020-05-06,BEL,Belgium,Wallonia,50.312074,5.019093,16478,2924,0,13554,0,0,True,True
 2020-05-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,952,33,0,919,0,0,False,False
 2020-05-06,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,62,4,2,56,0,0,True,True
 2020-05-06,BGR,Bulgaria,Burgas,42.491848,27.306892,48,1,14,33,0,0,True,True
@@ -49,7 +49,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,BGR,Bulgaria,Silistra,43.946163,27.044927,5,0,0,5,0,0,True,True
 2020-05-06,BGR,Bulgaria,Sliven,42.67034,26.241026,55,8,17,30,0,0,True,True
 2020-05-06,BGR,Bulgaria,Smolyan,41.628892,24.668089,38,4,22,12,0,0,True,True
-2020-05-06,BGR,Bulgaria,Sofia,,,0,0,0,0,0,0,True,True
 2020-05-06,BGR,Bulgaria,Sofia City,42.286287,23.616846,774,38,184,552,0,0,True,True
 2020-05-06,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,39,1,0,38,0,0,True,True
 2020-05-06,BGR,Bulgaria,Varna,43.186206,27.59493,26,0,11,15,0,0,True,True
@@ -274,7 +273,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False
 2020-05-06,LTU,Lithuania,Lithuania,55.174112,23.906736,1423,46,0,1377,0,0,True,True
-2020-05-05,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3840,96,856,2888,89,22,True,True
+2020-05-06,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3851,98,860,2893,98,20,True,True
 2020-05-06,MLT,Malta,Malta,35.946151,14.384612,484,5,407,72,0,0,True,True
 2020-05-06,MDA,Moldova,Moldova,46.979527,28.377195,4363,136,0,4227,0,0,False,False
 2020-05-06,MCO,Monaco,Monaco,43.738348,7.424451,95,4,0,91,0,0,False,False
