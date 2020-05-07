@@ -28280,6 +28280,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
 2020-05-07,FIN,Finland,Vaasa,63.077479,22.196054,51,0,0,51,0,0,True,True
 2020-05-07,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,296,0,0,296,0,0,True,True
+2020-05-07,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1462,5596,-7058,2206,276,True,True
+2020-05-07,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,906,2702,-3608,1049,112,True,True
+2020-05-07,FRA,France,Bretagne,48.181767,-2.840778,0,224,914,-1138,339,41,True,True
+2020-05-07,FRA,France,Centre-Val de Loire,47.751569,1.675063,0,434,1392,-1826,901,88,True,True
+2020-05-07,FRA,France,Corse,42.151732,9.105559,0,52,197,-249,52,6,True,True
+2020-05-07,FRA,France,Grand Est,48.688738,5.613275,0,3060,8726,-11786,3434,379,True,True
+2020-05-07,FRA,France,Guadeloupe,16.192207,-61.272382,0,18,72,-90,15,5,True,True
+2020-05-07,FRA,France,Guyane,3.926082,-53.245309,0,1,36,-37,8,0,True,True
+2020-05-07,FRA,France,Hauts-de-France,49.96966,2.770434,0,1496,4562,-6058,2024,242,True,True
+2020-05-07,FRA,France,Île-de-France,48.709229,2.503473,0,6390,19909,-26299,9564,1254,True,True
+2020-05-07,FRA,France,La Réunion,-20.89066,55.455054,0,0,111,-111,8,3,True,True
+2020-05-07,FRA,France,Martinique,14.63554,-61.022814,0,14,78,-92,19,7,True,True
+2020-05-07,FRA,France,Mayotte,-12.824511,45.165455,0,12,115,-127,52,8,True,True
+2020-05-07,FRA,France,Normandie,48.880101,-0.073045,0,367,1169,-1536,553,60,True,True
+2020-05-07,FRA,France,NOT SPECIFIED,,,137779,19,9,137751,69,50,True,True
+2020-05-07,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,347,1589,-1936,521,85,True,True
+2020-05-07,FRA,France,Occitanie,43.703195,2.143601,0,448,2290,-2738,466,103,True,True
+2020-05-07,FRA,France,Pays de la Loire,47.479115,-0.811996,0,372,1373,-1745,591,58,True,True
+2020-05-07,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,764,4187,-4951,1337,184,True,True
 2020-05-07,DEU,Germany,Baden-Württemberg,48.537648,9.049199,32762,1497,0,31265,0,0,True,True
 2020-05-07,DEU,Germany,Bayern,48.947574,11.419913,43658,2050,0,41608,0,0,True,True
 2020-05-07,DEU,Germany,Berlin,52.501532,13.40185,6149,162,0,5987,0,0,True,True
@@ -28302,7 +28321,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
 2020-05-07,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
 2020-05-07,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,1,0,True,True
-2020-05-07,GRC,Greece,Athens,37.997492,23.762727,1100,78,260,762,260,0,True,True
+2020-05-07,GRC,Greece,Athens,37.997492,23.762727,1100,79,260,761,260,0,True,True
 2020-05-07,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
 2020-05-07,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
 2020-05-07,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
@@ -28334,7 +28353,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,GRC,Greece,Lesbos,39.074583,26.223748,6,1,1,4,0,0,True,True
 2020-05-07,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,1,0,True,True
 2020-05-07,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
-2020-05-07,GRC,Greece,NOT SPECIFIED,,,584,0,0,584,13,0,True,True
+2020-05-07,GRC,Greece,NOT SPECIFIED,,,620,0,0,620,13,0,True,True
 2020-05-07,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
 2020-05-07,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
 2020-05-07,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
@@ -28403,6 +28422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,LVA,Latvia,Latvia,56.875584,24.607722,900,17,0,883,0,0,True,True
 2020-05-07,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-07,LTU,Lithuania,Lithuania,55.174112,23.906736,1428,48,0,1380,0,0,True,True
+2020-05-07,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3859,100,868,2891,90,21,True,True
 2020-05-07,MLT,Malta,Malta,35.946151,14.384612,486,5,413,68,0,0,True,True
 2020-05-07,MDA,Moldova,Moldova,46.979527,28.377195,4476,143,0,4333,0,0,False,False
 2020-05-07,MCO,Monaco,Monaco,43.738348,7.424451,95,4,0,91,0,0,False,False
