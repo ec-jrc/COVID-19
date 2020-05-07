@@ -28048,6 +28048,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,GBR,United Kingdom,South West,51.239761,-2.54375,6726,0,0,6726,0,0,False,True
 2020-05-06,GBR,United Kingdom,Tayside,56.610323,-3.555213,1445,0,0,1445,0,0,False,True
 2020-05-06,GBR,United Kingdom,Wales,52.302413,-3.738347,10764,1044,0,9720,0,0,False,True
+2020-05-07,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
+2020-05-07,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
+2020-05-07,ALB,Albania,Durrës,41.518365,19.651766,166,6,0,160,0,0,False,False
+2020-05-07,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
+2020-05-07,ALB,Albania,Fier,40.774633,19.620528,48,3,0,45,0,0,False,False
+2020-05-07,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
+2020-05-07,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
+2020-05-07,ALB,Albania,Lezhë,41.801452,19.845695,51,0,0,51,0,0,False,False
+2020-05-07,ALB,Albania,Shkodër,42.17682,19.719451,117,2,0,115,0,0,False,False
+2020-05-07,ALB,Albania,Tiranë,41.268583,19.793936,364,18,0,346,0,0,False,False
+2020-05-07,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
+2020-05-07,AUT,Austria,Burgenland,47.541449,16.520206,336,11,264,61,0,0,True,True
+2020-05-07,AUT,Austria,Kärnten,46.715832,14.455532,411,13,385,13,0,0,True,True
+2020-05-07,AUT,Austria,Niederösterreich,48.27051,15.763245,2646,88,2369,189,0,0,True,True
+2020-05-07,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,374,104,True,True
+2020-05-07,AUT,Austria,Oberösterreich,48.138166,13.964295,2253,52,2131,70,0,0,True,True
+2020-05-07,AUT,Austria,Salzburg,47.254051,13.032653,1235,35,1132,68,0,0,True,True
+2020-05-07,AUT,Austria,Steiermark,47.187361,15.518046,1766,122,1333,311,0,0,True,True
+2020-05-07,AUT,Austria,Tirol,47.209023,11.397603,3513,104,3271,138,0,0,True,True
+2020-05-07,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,826,40,0,0,True,True
+2020-05-07,AUT,Austria,Wien,48.21141,16.380038,2611,136,1928,547,0,0,True,True
 2020-05-07,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,64,4,2,58,0,0,True,True
 2020-05-07,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,14,36,0,0,True,True
 2020-05-07,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -28092,3 +28113,46 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1602,48,0,1554,0,0,True,True
 2020-05-07,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2834,120,0,2714,0,0,True,True
 2020-05-07,DEU,Germany,Thüringen,50.903878,11.02488,2452,109,0,2343,0,0,True,True
+2020-05-07,ROU,Romania,Alba,46.172367,23.487279,214,0,0,214,0,0,True,True
+2020-05-07,ROU,Romania,Arad,46.273235,21.758454,625,0,0,625,0,0,True,True
+2020-05-07,ROU,Romania,Argeș,,,161,0,0,161,0,0,True,True
+2020-05-07,ROU,Romania,Bacău,,,349,0,0,349,0,0,True,True
+2020-05-07,ROU,Romania,Bihor,46.942178,22.210795,478,0,0,478,0,0,True,True
+2020-05-07,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,239,0,0,239,0,0,True,True
+2020-05-07,ROU,Romania,Botoșani,,,545,0,0,545,0,0,True,True
+2020-05-07,ROU,Romania,Brăila,,,24,0,0,24,0,0,True,True
+2020-05-07,ROU,Romania,Brașov,,,519,0,0,519,0,0,True,True
+2020-05-07,ROU,Romania,București,,,1410,0,0,1410,0,0,True,True
+2020-05-07,ROU,Romania,Buzău,,,48,0,0,48,0,0,True,True
+2020-05-07,ROU,Romania,Călărași,,,62,0,0,62,0,0,True,True
+2020-05-07,ROU,Romania,Caraș-Severin,,,108,0,0,108,0,0,True,True
+2020-05-07,ROU,Romania,Cluj,46.812237,23.53594,447,0,0,447,0,0,True,True
+2020-05-07,ROU,Romania,Costanza,,,245,0,0,245,0,0,True,True
+2020-05-07,ROU,Romania,Covasna,45.938093,25.990767,205,0,0,205,0,0,True,True
+2020-05-07,ROU,Romania,Dâmbovița,,,121,0,0,121,0,0,True,True
+2020-05-07,ROU,Romania,Dolj,44.140792,23.613526,132,0,0,132,0,0,True,True
+2020-05-07,ROU,Romania,Galați,,,431,0,0,431,0,0,True,True
+2020-05-07,ROU,Romania,Giurgiu,44.144127,25.881413,148,0,0,148,0,0,True,True
+2020-05-07,ROU,Romania,Gorj,45.004246,23.322863,70,0,0,70,0,0,True,True
+2020-05-07,ROU,Romania,Harghita,46.549997,25.558475,21,0,0,21,0,0,True,True
+2020-05-07,ROU,Romania,Hunedoara,45.753652,22.938806,546,0,0,546,0,0,True,True
+2020-05-07,ROU,Romania,Iași,,,305,0,0,305,0,0,True,True
+2020-05-07,ROU,Romania,Ialomița,,,266,0,0,266,0,0,True,True
+2020-05-07,ROU,Romania,Ilfov,44.286638,26.144699,324,0,0,324,0,0,True,True
+2020-05-07,ROU,Romania,Maramureș,47.671302,23.981463,67,0,0,67,0,0,True,True
+2020-05-07,ROU,Romania,Mehedinți,,,73,0,0,73,0,0,True,True
+2020-05-07,ROU,Romania,Mureș,,,535,0,0,535,0,0,True,True
+2020-05-07,ROU,Romania,Neamț,,,548,0,0,548,0,0,True,True
+2020-05-07,ROU,Romania,NOT SPECIFIED,,,55,868,5788,-6601,0,0,True,True
+2020-05-07,ROU,Romania,Olt,44.272504,24.439351,48,0,0,48,0,0,True,True
+2020-05-07,ROU,Romania,Prahova,45.114672,26.015788,72,0,0,72,0,0,True,True
+2020-05-07,ROU,Romania,Sălaj,,,45,0,0,45,0,0,True,True
+2020-05-07,ROU,Romania,Satu Mare,47.705953,22.898922,53,0,0,53,0,0,True,True
+2020-05-07,ROU,Romania,Sibiu,45.85906,24.245264,373,0,0,373,0,0,True,True
+2020-05-07,ROU,Romania,Suceava,47.637703,25.82751,3035,0,0,3035,0,0,True,True
+2020-05-07,ROU,Romania,Teleorman,44.027822,25.197899,94,0,0,94,0,0,True,True
+2020-05-07,ROU,Romania,Timiș,,,474,0,0,474,0,0,True,True
+2020-05-07,ROU,Romania,Tulcea,44.986929,28.858105,62,0,0,62,0,0,True,True
+2020-05-07,ROU,Romania,Vâlcea,,,24,0,0,24,0,0,True,True
+2020-05-07,ROU,Romania,Vaslui,46.526869,27.769395,119,0,0,119,0,0,True,True
+2020-05-07,ROU,Romania,Vrancea,45.788059,26.980214,387,0,0,387,0,0,True,True
