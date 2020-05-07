@@ -164,57 +164,57 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1602,48,0,1554,0,0,True,True
 2020-05-07,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2834,120,0,2714,0,0,True,True
 2020-05-07,DEU,Germany,Thüringen,50.903878,11.02488,2452,109,0,2343,0,0,True,True
-2020-05-06,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,0,True,True
-2020-05-06,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
-2020-05-06,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
-2020-05-06,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
-2020-05-06,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
-2020-05-06,GRC,Greece,Athens,37.997492,23.762727,1100,78,0,1022,0,0,True,True
-2020-05-06,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
-2020-05-06,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
-2020-05-06,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
-2020-05-06,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
-2020-05-06,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
-2020-05-06,GRC,Greece,Evros,41.064778,26.12942,14,8,0,6,0,0,True,True
-2020-05-06,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,0,True,True
+2020-05-07,GRC,Greece,Achaea,38.116381,21.862704,22,4,3,15,2,0,True,True
+2020-05-07,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
+2020-05-07,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
+2020-05-07,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
+2020-05-07,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,1,0,True,True
+2020-05-07,GRC,Greece,Athens,37.997492,23.762727,1100,78,260,762,260,0,True,True
+2020-05-07,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
+2020-05-07,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
+2020-05-07,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
+2020-05-07,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
+2020-05-07,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
+2020-05-07,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
+2020-05-07,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
+2020-05-07,GRC,Greece,Evros,41.064778,26.12942,14,8,0,6,0,0,True,True
+2020-05-07,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,2,0,True,True
+2020-05-07,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,0,True,True
 2020-04-11,GRC,Greece,Grevenon,40.022103,21.432045,0,0,0,0,0,0,True,True
-2020-05-06,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,0,True,True
-2020-05-06,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,0,True,True
-2020-05-06,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,0,True,True
-2020-05-06,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
-2020-05-06,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
-2020-05-06,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,0,True,True
-2020-05-06,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Larissa,39.701311,22.39723,50,0,0,50,0,0,True,True
-2020-05-06,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,0,True,True
-2020-05-06,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
-2020-05-06,GRC,Greece,NOT SPECIFIED,,,584,0,0,584,0,0,True,True
-2020-05-06,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
-2020-05-06,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
-2020-05-06,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
-2020-05-06,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,0,True,True
-2020-05-06,GRC,Greece,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
-2020-05-06,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,0,True,True
-2020-05-06,GRC,Greece,Tessaloniki,40.687597,23.115933,85,16,0,69,0,0,True,True
-2020-05-06,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
-2020-05-06,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
-2020-05-06,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
-2020-05-06,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
+2020-05-07,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,4,0,True,True
+2020-05-07,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,7,0,True,True
+2020-05-07,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,4,0,True,True
+2020-05-07,GRC,Greece,Kavalas,41.053007,24.573321,4,0,3,1,0,0,True,True
+2020-05-07,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
+2020-05-07,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
+2020-05-07,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,12,0,True,True
+2020-05-07,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Larissa,39.701311,22.39723,50,0,0,50,8,0,True,True
+2020-05-07,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,Lesbos,39.074583,26.223748,6,1,1,4,0,0,True,True
+2020-05-07,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
+2020-05-07,GRC,Greece,NOT SPECIFIED,,,584,0,0,584,13,0,True,True
+2020-05-07,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
+2020-05-07,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
+2020-05-07,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
+2020-05-07,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,1,0,True,True
+2020-05-07,GRC,Greece,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
+2020-05-07,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,2,0,True,True
+2020-05-07,GRC,Greece,Tessaloniki,40.687597,23.115933,85,16,3,66,9,0,True,True
+2020-05-07,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
+2020-05-07,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
+2020-05-07,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
+2020-05-07,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
 2020-05-07,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,23,0,0,23,0,0,True,True
 2020-05-07,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
 2020-05-07,HUN,Hungary,Békés,46.735413,21.006326,17,0,0,17,0,0,True,True
@@ -239,7 +239,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,HUN,Hungary,Zala,46.692149,16.903237,147,0,0,147,0,0,True,True
 2020-05-07,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
 2020-05-07,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
-2020-05-07,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1312,0,0,1312,0,0,False,True
+2020-05-07,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1314,0,0,1314,0,0,False,True
 2020-05-07,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
 2020-05-07,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
 2020-05-07,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
