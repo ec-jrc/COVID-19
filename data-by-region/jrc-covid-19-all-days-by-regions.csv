@@ -7,7 +7,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-01-26,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,1,0,True,True
 2020-01-27,FRA,France,Île-de-France,48.709229,2.503473,2,0,0,2,2,0,True,True
 2020-01-27,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,1,0,True,True
-2020-01-27,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,1,0,True,True
 2020-01-28,FRA,France,Île-de-France,48.709229,2.503473,3,0,0,3,3,0,True,True
 2020-01-28,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,1,0,True,True
 2020-01-29,FRA,France,Île-de-France,48.709229,2.503473,4,0,0,4,4,0,True,True
@@ -30,8 +29,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-07,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,1,0,True,True
 2020-02-08,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,5,0,0,5,0,0,True,True
 2020-02-08,FRA,France,Île-de-France,48.709229,2.503473,5,0,0,5,0,0,True,True
-2020-02-08,FRA,France,Île-de-France,48.709229,2.503473,5,0,0,5,0,0,True,True
-2020-02-08,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,0,0,True,True
 2020-02-08,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,1,0,0,1,0,0,True,True
 2020-02-10,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,5,0,0,5,5,0,True,True
 2020-02-10,FRA,France,Île-de-France,48.709229,2.503473,5,0,0,5,5,0,True,True
@@ -30404,6 +30401,31 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
 2020-05-11,HUN,Hungary,Veszprém,47.131402,17.65231,60,0,0,60,0,0,True,True
 2020-05-11,HUN,Hungary,Zala,46.692149,16.903237,170,0,0,170,0,0,True,True
+2020-05-11,POL,Poland,Dolnośląskie,51.07994,16.381483,2018,68,0,1950,0,0,True,True
+2020-05-11,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,577,32,0,545,0,0,True,True
+2020-05-11,POL,Poland,Łódzkie,51.559579,19.408271,1178,40,0,1138,0,0,True,True
+2020-05-11,POL,Poland,Lubelskie,51.247253,22.908895,388,14,0,374,0,0,True,True
+2020-05-11,POL,Poland,Lubuskie,52.206458,15.345515,92,0,0,92,0,0,True,True
+2020-05-11,POL,Poland,Małopolskie,49.842031,20.300847,1061,35,0,1026,0,0,True,True
+2020-05-11,POL,Poland,Mazowieckie,52.309134,21.081201,2791,222,0,2569,0,0,True,True
+2020-05-11,POL,Poland,Opolskie,50.621436,17.876844,495,34,0,461,0,0,True,True
+2020-05-11,POL,Poland,Podkarpackie,49.962818,22.225966,371,29,0,342,0,0,True,True
+2020-05-11,POL,Poland,Podlaskie,53.28395,22.895092,384,7,0,377,0,0,True,True
+2020-05-11,POL,Poland,Pomorskie,54.129033,18.012613,485,26,0,459,0,0,True,True
+2020-05-11,POL,Poland,Śląskie,50.318293,18.999987,3708,150,0,3558,0,0,True,True
+2020-05-11,POL,Poland,Świętokrzyskie,50.734202,20.797295,325,12,0,313,0,0,True,True
+2020-05-11,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,162,1,0,161,0,0,True,True
+2020-05-11,POL,Poland,Wielkopolskie,52.283858,17.248218,1697,117,0,1580,0,0,True,True
+2020-05-11,POL,Poland,Zachodniopomorskie,53.582707,15.634824,474,16,0,458,0,0,True,True
+2020-05-11,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,99,0,0,99,0,0,True,True
+2020-05-11,SVK,Slovakia,Bratislava,48.319003,17.17481,361,0,0,361,0,0,True,True
+2020-05-11,SVK,Slovakia,Košice,48.771358,20.721931,237,0,0,237,0,0,True,True
+2020-05-11,SVK,Slovakia,Nitra,48.140652,18.30311,114,0,0,114,0,0,True,True
+2020-05-11,SVK,Slovakia,NOT SPECIFIED,,,0,26,959,-985,118,5,True,True
+2020-05-11,SVK,Slovakia,Prešov,49.126441,21.221321,175,0,0,175,0,0,True,True
+2020-05-11,SVK,Slovakia,Trencín,48.858564,18.202196,167,0,0,167,0,0,True,True
+2020-05-11,SVK,Slovakia,Trnava,48.222651,17.707847,116,0,0,116,0,0,True,True
+2020-05-11,SVK,Slovakia,Zilina,49.178517,19.167163,188,0,0,188,0,0,True,True
 2020-05-11,CHE,Switzerland,Aargau,47.410914,8.159107,1149,37,990,122,16,3,False,False
 2020-05-11,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,97,3,0,94,5,2,False,False
 2020-05-11,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
