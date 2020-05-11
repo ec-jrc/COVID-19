@@ -1,16 +1,16 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-05-10,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
-2020-05-10,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
-2020-05-10,ALB,Albania,Durrës,41.518365,19.651766,174,6,0,168,0,0,False,False
-2020-05-10,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
-2020-05-10,ALB,Albania,Fier,40.774633,19.620528,49,3,0,46,0,0,False,False
-2020-05-10,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
-2020-05-10,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
-2020-05-10,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
+2020-05-11,ALB,Albania,Berat,40.6285,20.090775,4,0,0,4,0,0,False,False
+2020-05-11,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
+2020-05-11,ALB,Albania,Durrës,41.518365,19.651766,175,6,0,169,0,0,False,False
+2020-05-11,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
+2020-05-11,ALB,Albania,Fier,40.774633,19.620528,50,3,0,47,0,0,False,False
+2020-05-11,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
+2020-05-11,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
+2020-05-11,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
 2020-05-04,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
-2020-05-10,ALB,Albania,Shkodër,42.17682,19.719451,120,2,0,118,0,0,False,False
-2020-05-10,ALB,Albania,Tiranë,41.268583,19.793936,375,18,0,357,0,0,False,False
-2020-05-10,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
+2020-05-11,ALB,Albania,Shkodër,42.17682,19.719451,121,2,0,119,0,0,False,False
+2020-05-11,ALB,Albania,Tiranë,41.268583,19.793936,388,18,0,370,0,0,False,False
+2020-05-11,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
 2020-05-11,AND,Andorra,Andorra,42.542268,1.596865,755,48,0,707,0,0,False,False
 2020-05-11,AUT,Austria,Burgenland,47.541449,16.520206,337,11,282,44,0,0,True,True
 2020-05-11,AUT,Austria,Kärnten,46.715832,14.455532,411,13,388,10,0,0,True,True
@@ -237,16 +237,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
 2020-05-11,HUN,Hungary,Veszprém,47.131402,17.65231,60,0,0,60,0,0,True,True
 2020-05-11,HUN,Hungary,Zala,46.692149,16.903237,170,0,0,170,0,0,True,True
-2020-05-10,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
-2020-05-10,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
-2020-05-10,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1314,0,0,1314,0,0,False,True
-2020-05-10,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
-2020-05-10,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
-2020-05-10,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
-2020-05-10,ISL,Iceland,South Iceland,64.135334,-19.242939,178,0,0,178,0,0,False,True
-2020-05-10,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
-2020-05-10,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
-2020-05-10,ISL,Iceland,West Iceland,64.843136,-21.691436,43,0,0,43,0,0,False,True
+2020-05-11,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-05-11,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-05-11,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1314,0,0,1314,0,0,False,True
+2020-05-11,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-05-11,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-05-11,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-05-11,ISL,Iceland,South Iceland,64.135334,-19.242939,178,0,0,178,0,0,False,True
+2020-05-11,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-05-11,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-05-11,ISL,Iceland,West Iceland,64.843136,-21.691436,43,0,0,43,0,0,False,True
 2020-05-11,IRL,Ireland,Ireland,53.41975,-8.240472,22996,1458,0,21538,0,0,True,True
 2020-05-10,ITA,Italy,Abruzzo,42.228034,13.855137,3103,359,1073,1671,243,10,True,True
 2020-05-10,ITA,Italy,Basilicata,40.500665,16.082246,385,27,215,143,46,1,True,True
@@ -278,19 +278,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,MDA,Moldova,Moldova,46.979527,28.377195,4927,169,0,4758,0,0,False,False
 2020-05-11,MCO,Monaco,Monaco,43.738348,7.424451,96,4,0,92,0,0,False,False
 2020-05-11,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
-2020-05-10,NLD,Netherlands,Drenthe,52.863149,6.623756,494,0,0,494,0,0,True,True
-2020-05-10,NLD,Netherlands,Flevoland,52.436257,5.519078,833,0,0,833,0,0,True,True
-2020-05-10,NLD,Netherlands,Friesland,53.089388,5.871457,571,0,0,571,0,0,True,True
-2020-05-10,NLD,Netherlands,Gelderland,52.061726,5.945178,5449,0,0,5449,0,0,True,True
-2020-05-10,NLD,Netherlands,Groningen,53.291466,6.700488,348,0,0,348,0,0,True,True
-2020-05-10,NLD,Netherlands,Limburg,51.207579,5.936318,4408,0,0,4408,0,0,True,True
-2020-05-10,NLD,Netherlands,North Brabant,51.527534,5.590194,8659,0,0,8659,0,0,True,True
-2020-05-10,NLD,Netherlands,North Holland,52.551824,4.876581,6250,0,0,6250,0,0,True,True
-2020-05-10,NLD,Netherlands,NOT SPECIFIED,,,0,5440,0,-5440,0,0,True,True
-2020-05-10,NLD,Netherlands,Overijssel,52.445136,6.4476,2870,0,0,2870,0,0,True,True
-2020-05-10,NLD,Netherlands,South Holland,51.968696,4.541274,8911,0,0,8911,0,0,True,True
-2020-05-10,NLD,Netherlands,Utrecht,52.078728,5.214048,3212,0,0,3212,0,0,True,True
-2020-05-10,NLD,Netherlands,Zeeland,51.312779,3.786651,622,0,0,622,0,0,True,True
+2020-05-11,NLD,Netherlands,Drenthe,52.863149,6.623756,495,0,0,495,0,0,True,True
+2020-05-11,NLD,Netherlands,Flevoland,52.436257,5.519078,834,0,0,834,0,0,True,True
+2020-05-11,NLD,Netherlands,Friesland,53.089388,5.871457,577,0,0,577,0,0,True,True
+2020-05-11,NLD,Netherlands,Gelderland,52.061726,5.945178,5472,0,0,5472,0,0,True,True
+2020-05-11,NLD,Netherlands,Groningen,53.291466,6.700488,351,0,0,351,0,0,True,True
+2020-05-11,NLD,Netherlands,Limburg,51.207579,5.936318,4426,0,0,4426,0,0,True,True
+2020-05-11,NLD,Netherlands,North Brabant,51.527534,5.590194,8678,0,0,8678,0,0,True,True
+2020-05-11,NLD,Netherlands,North Holland,52.551824,4.876581,6286,0,0,6286,0,0,True,True
+2020-05-11,NLD,Netherlands,NOT SPECIFIED,,,0,5456,0,-5456,0,0,True,True
+2020-05-11,NLD,Netherlands,Overijssel,52.445136,6.4476,2864,0,0,2864,0,0,True,True
+2020-05-11,NLD,Netherlands,South Holland,51.968696,4.541274,8957,0,0,8957,0,0,True,True
+2020-05-11,NLD,Netherlands,Utrecht,52.078728,5.214048,3224,0,0,3224,0,0,True,True
+2020-05-11,NLD,Netherlands,Zeeland,51.312779,3.786651,624,0,0,624,0,0,True,True
 2020-05-11,MKD,North Macedonia,North Macedonia,41.611,21.751417,1642,91,0,1551,0,0,False,True
 2020-05-11,NOR,Norway,Agder,58.699661,7.618403,333,0,0,333,0,0,False,True
 2020-05-11,NOR,Norway,Innlandet,61.43354,10.427144,453,0,0,453,0,0,False,True
@@ -321,14 +321,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,162,1,0,161,0,0,True,True
 2020-05-11,POL,Poland,Wielkopolskie,52.283858,17.248218,1697,117,0,1580,0,0,True,True
 2020-05-11,POL,Poland,Zachodniopomorskie,53.582707,15.634824,474,16,0,458,0,0,True,True
-2020-05-08,PRT,Portugal,Açores,37.775525,-25.494927,135,14,0,121,0,0,True,True
-2020-05-08,PRT,Portugal,Alentejo,38.485499,-8.006668,232,1,0,231,0,0,True,True
-2020-05-08,PRT,Portugal,Algarve,37.218389,-8.198488,345,13,0,332,0,0,True,True
-2020-05-08,PRT,Portugal,Centro,40.111812,-8.012768,3564,214,0,3350,0,0,True,True
+2020-05-11,PRT,Portugal,Açores,37.775525,-25.494927,135,14,0,121,0,0,True,True
+2020-05-11,PRT,Portugal,Alentejo,38.485499,-8.006668,237,1,0,236,0,0,True,True
+2020-05-11,PRT,Portugal,Algarve,37.218389,-8.198488,348,14,0,334,0,0,True,True
+2020-05-11,PRT,Portugal,Centro,40.111812,-8.012768,3545,216,0,3329,0,0,True,True
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True
-2020-05-08,PRT,Portugal,Lisbon,38.623843,-8.88436,7093,233,0,6860,0,0,True,True
-2020-05-08,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
-2020-05-08,PRT,Portugal,Norte,41.457206,-7.678153,15809,639,0,15170,0,0,True,True
+2020-05-11,PRT,Portugal,Lisbon,38.623843,-8.88436,7316,248,0,7068,0,0,True,True
+2020-05-11,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-05-11,PRT,Portugal,Norte,41.457206,-7.678153,16008,651,0,15357,0,0,True,True
 2020-04-18,PRT,Portugal,NOT SPECIFIED,,,0,687,610,-1297,0,228,True,True
 2020-05-11,ROU,Romania,Alba,46.172367,23.487279,237,0,0,237,0,0,True,True
 2020-05-11,ROU,Romania,Arad,46.273235,21.758454,678,0,0,678,0,0,True,True
@@ -553,32 +553,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,CHE,Switzerland,Zurich,47.417407,8.655988,3553,125,0,3428,40,0,False,False
 2020-05-01,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-11,TUR,Turkey,Turkey,38.961515,35.25175,138657,3786,0,134871,0,0,False,True
-2020-05-10,UKR,Ukraine,Cherkasy,49.253559,31.378329,341,0,0,341,0,0,False,False
-2020-05-10,UKR,Ukraine,Chernihiv,51.347162,32.016707,73,0,0,73,0,0,False,False
-2020-05-10,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2268,0,0,2268,0,0,False,False
-2020-05-10,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,704,0,0,704,0,0,False,False
-2020-05-10,UKR,Ukraine,Donetsk,48.04733,37.669412,100,0,0,100,0,0,False,False
-2020-05-10,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,1116,0,0,1116,0,0,False,False
-2020-05-10,UKR,Ukraine,Kharkiv,49.612761,36.514406,572,0,0,572,0,0,False,False
-2020-05-10,UKR,Ukraine,Kherson,46.66268,33.577394,159,0,0,159,0,0,False,False
-2020-05-10,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,175,0,0,175,0,0,False,False
-2020-05-10,UKR,Ukraine,Kiev region,49.843123,30.727949,972,0,0,972,0,0,False,False
-2020-05-10,UKR,Ukraine,Kirovograd,48.507933,32.262317,416,0,0,416,0,0,False,False
-2020-05-10,UKR,Ukraine,Kyiv,50.427074,30.530672,1805,0,0,1805,0,0,False,False
-2020-05-10,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
-2020-05-10,UKR,Ukraine,Lviv,49.724836,23.921202,753,0,0,753,0,0,False,False
-2020-05-10,UKR,Ukraine,Mykolaiv,47.369854,31.706007,221,0,0,221,0,0,False,False
-2020-05-10,UKR,Ukraine,NOT SPECIFIED,,,0,391,3060,-3451,0,0,False,False
-2020-05-10,UKR,Ukraine,Odessa,46.891548,30.547979,636,0,0,636,0,0,False,False
-2020-05-10,UKR,Ukraine,Poltava,49.713595,33.811322,246,0,0,246,0,0,False,False
-2020-05-10,UKR,Ukraine,Rivne,51.043432,26.397584,926,0,0,926,0,0,False,False
-2020-05-10,UKR,Ukraine,Sumy,51.393248,33.665627,154,0,0,154,0,0,False,False
-2020-05-10,UKR,Ukraine,Ternopil,49.402562,25.640005,999,0,0,999,0,0,False,False
-2020-05-10,UKR,Ukraine,Transcarpathian,48.405051,23.281219,695,0,0,695,0,0,False,False
-2020-05-10,UKR,Ukraine,Vinnytsia,48.926546,28.692087,544,0,0,544,0,0,False,False
-2020-05-10,UKR,Ukraine,Volyn,51.202858,24.883489,470,0,0,470,0,0,False,False
-2020-05-10,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,328,0,0,328,0,0,False,False
-2020-05-10,UKR,Ukraine,Zhytomyr,50.642612,28.484557,517,0,0,517,0,0,False,False
+2020-05-11,UKR,Ukraine,Cherkasy,49.253559,31.378329,342,0,0,342,0,0,False,False
+2020-05-11,UKR,Ukraine,Chernihiv,51.347162,32.016707,77,0,0,77,0,0,False,False
+2020-05-11,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2324,0,0,2324,0,0,False,False
+2020-05-11,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,731,0,0,731,0,0,False,False
+2020-05-11,UKR,Ukraine,Donetsk,48.04733,37.669412,100,0,0,100,0,0,False,False
+2020-05-11,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,1126,0,0,1126,0,0,False,False
+2020-05-11,UKR,Ukraine,Kharkiv,49.612761,36.514406,595,0,0,595,0,0,False,False
+2020-05-11,UKR,Ukraine,Kherson,46.66268,33.577394,161,0,0,161,0,0,False,False
+2020-05-11,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,178,0,0,178,0,0,False,False
+2020-05-11,UKR,Ukraine,Kiev region,49.843123,30.727949,1000,0,0,1000,0,0,False,False
+2020-05-11,UKR,Ukraine,Kirovograd,48.507933,32.262317,420,0,0,420,0,0,False,False
+2020-05-11,UKR,Ukraine,Kyiv,50.427074,30.530672,1871,0,0,1871,0,0,False,False
+2020-05-11,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
+2020-05-11,UKR,Ukraine,Lviv,49.724836,23.921202,798,0,0,798,0,0,False,False
+2020-05-11,UKR,Ukraine,Mykolaiv,47.369854,31.706007,223,0,0,223,0,0,False,False
+2020-05-11,UKR,Ukraine,NOT SPECIFIED,,,0,0,3288,-3288,0,0,False,False
+2020-05-11,UKR,Ukraine,Odessa,46.891548,30.547979,646,0,0,646,0,0,False,False
+2020-05-11,UKR,Ukraine,Poltava,49.713595,33.811322,247,0,0,247,0,0,False,False
+2020-05-11,UKR,Ukraine,Rivne,51.043432,26.397584,978,0,0,978,0,0,False,False
+2020-05-11,UKR,Ukraine,Sumy,51.393248,33.665627,154,0,0,154,0,0,False,False
+2020-05-11,UKR,Ukraine,Ternopil,49.402562,25.640005,1018,0,0,1018,0,0,False,False
+2020-05-11,UKR,Ukraine,Transcarpathian,48.405051,23.281219,730,0,0,730,0,0,False,False
+2020-05-11,UKR,Ukraine,Vinnytsia,48.926546,28.692087,553,0,0,553,0,0,False,False
+2020-05-11,UKR,Ukraine,Volyn,51.202858,24.883489,482,0,0,482,0,0,False,False
+2020-05-11,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,329,0,0,329,0,0,False,False
+2020-05-11,UKR,Ukraine,Zhytomyr,50.642612,28.484557,523,0,0,523,0,0,False,False
 2020-05-10,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,904,0,0,904,0,0,False,True
 2020-05-10,GBR,United Kingdom,Borders,55.572787,-2.786355,286,0,0,286,0,0,False,True
 2020-05-10,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
