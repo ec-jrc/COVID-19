@@ -30819,6 +30819,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,UKR,Ukraine,Volyn,51.202858,24.883489,482,0,0,482,0,0,False,False
 2020-05-11,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,329,0,0,329,0,0,False,False
 2020-05-11,UKR,Ukraine,Zhytomyr,50.642612,28.484557,523,0,0,523,0,0,False,False
+2020-05-12,AUT,Austria,Burgenland,47.541449,16.520206,337,11,283,43,0,0,True,True
+2020-05-12,AUT,Austria,Kärnten,46.715832,14.455532,411,13,389,9,0,0,True,True
+2020-05-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2682,90,2418,174,0,0,True,True
+2020-05-12,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,69,True,True
+2020-05-12,AUT,Austria,Oberösterreich,48.138166,13.964295,2264,53,2169,42,0,0,True,True
+2020-05-12,AUT,Austria,Salzburg,47.254051,13.032653,1234,36,1162,36,0,0,True,True
+2020-05-12,AUT,Austria,Steiermark,47.187361,15.518046,1800,126,1423,251,0,0,True,True
+2020-05-12,AUT,Austria,Tirol,47.209023,11.397603,3516,100,3317,99,0,0,True,True
+2020-05-12,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,839,27,0,0,True,True
+2020-05-12,AUT,Austria,Wien,48.21141,16.380038,2725,144,2061,520,0,0,True,True
 2020-05-12,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,88,5,2,81,0,0,True,True
 2020-05-12,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,16,35,0,0,True,True
 2020-05-12,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -30847,6 +30857,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,BGR,Bulgaria,Vidin,43.797295,22.68621,169,9,3,157,0,0,True,True
 2020-05-12,BGR,Bulgaria,Vratsa,43.395067,23.759152,13,0,2,11,0,0,True,True
 2020-05-12,BGR,Bulgaria,Yambol,,,74,6,5,63,0,0,True,True
+2020-05-12,CZE,Czech Republic,Jihoceský,49.093362,14.439278,179,0,0,179,0,0,True,True
+2020-05-12,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,493,0,0,493,0,0,True,True
+2020-05-12,CZE,Czech Republic,Karlovarský,50.170136,12.763213,430,0,0,430,0,0,True,True
+2020-05-12,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,191,0,0,191,0,0,True,True
+2020-05-12,CZE,Czech Republic,Liberecký,50.732038,14.973755,197,0,0,197,0,0,True,True
+2020-05-12,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,1149,0,0,1149,0,0,True,True
+2020-05-12,CZE,Czech Republic,NOT SPECIFIED,,,85,283,4738,-4936,0,0,True,True
+2020-05-12,CZE,Czech Republic,Olomoucký,49.823636,17.016472,719,0,0,719,0,0,True,True
+2020-05-12,CZE,Czech Republic,Pardubický,49.877869,16.495746,279,0,0,279,0,0,True,True
+2020-05-12,CZE,Czech Republic,Plzenský,49.590906,13.23222,634,0,0,634,0,0,True,True
+2020-05-12,CZE,Czech Republic,Prague,50.063699,14.476403,1847,0,0,1847,0,0,True,True
+2020-05-12,CZE,Czech Republic,Stredoceský,50.101074,15.003747,954,0,0,954,0,0,True,True
+2020-05-12,CZE,Czech Republic,Ústecký,50.488308,13.816736,506,0,0,506,0,0,True,True
+2020-05-12,CZE,Czech Republic,Vysocina,49.40736,15.689937,178,0,0,178,0,0,True,True
+2020-05-12,CZE,Czech Republic,Zlínský,49.239654,17.770218,336,0,0,336,0,0,True,True
 2020-05-12,DEU,Germany,Baden-Württemberg,48.537648,9.049199,33359,1568,0,31791,0,0,True,True
 2020-05-12,DEU,Germany,Bayern,48.947574,11.419913,44593,2182,0,42411,0,0,True,True
 2020-05-12,DEU,Germany,Berlin,52.501532,13.40185,6274,165,0,6109,0,0,True,True
@@ -30885,3 +30910,30 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
 2020-05-12,HUN,Hungary,Veszprém,47.131402,17.65231,62,0,0,62,0,0,True,True
 2020-05-12,HUN,Hungary,Zala,46.692149,16.903237,175,0,0,175,0,0,True,True
+2020-05-12,CHE,Switzerland,Aargau,47.410914,8.159107,1163,38,1030,95,14,2,False,False
+2020-05-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,98,3,0,95,7,2,False,False
+2020-05-12,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
+2020-05-12,CHE,Switzerland,Basel City,47.561925,7.592768,970,50,884,36,19,4,False,False
+2020-05-12,CHE,Switzerland,Basel Country,47.441812,7.7644,836,34,785,17,3,1,False,False
+2020-05-12,CHE,Switzerland,Bern,46.825006,7.626925,1835,92,0,1743,36,7,False,False
+2020-05-12,CHE,Switzerland,Fribourg,46.710334,7.09922,1129,83,137,909,26,5,False,False
+2020-05-12,CHE,Switzerland,Geneva,46.217114,6.131255,4976,267,709,4000,196,7,False,False
+2020-05-12,CHE,Switzerland,Glarus,46.980518,9.065544,127,12,0,115,2,0,False,False
+2020-05-12,CHE,Switzerland,Graubünden,46.658176,9.629923,820,45,0,775,11,0,False,False
+2020-05-12,CHE,Switzerland,Jura,47.368327,7.198733,202,7,0,195,4,3,False,False
+2020-05-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,1,80,0,0,False,False
+2020-05-12,CHE,Switzerland,Lucerne,47.06883,8.116991,713,19,0,694,29,5,False,False
+2020-05-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,709,77,0,632,13,1,False,False
+2020-05-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,117,3,0,114,1,1,False,False
+2020-05-12,CHE,Switzerland,Obwalden,46.857772,8.209745,79,0,1,78,2,0,False,False
+2020-05-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,802,36,210,556,22,1,False,False
+2020-05-12,CHE,Switzerland,Schwyz,47.06411,8.761568,78,6,0,72,4,3,False,False
+2020-05-12,CHE,Switzerland,Solothurn,47.336648,7.686944,421,15,0,406,12,0,False,False
+2020-05-12,CHE,Switzerland,St. Gallen,47.305025,9.019368,306,23,272,11,1,0,False,False
+2020-05-12,CHE,Switzerland,Thurgau,47.567205,9.112572,376,17,0,359,11,5,False,False
+2020-05-12,CHE,Switzerland,Ticino,46.297963,8.808447,3265,340,847,2078,77,10,False,False
+2020-05-12,CHE,Switzerland,Uri,46.775402,8.627444,92,7,75,10,1,0,False,False
+2020-05-12,CHE,Switzerland,Valais,46.211633,7.611267,1910,148,0,1762,42,9,False,False
+2020-05-12,CHE,Switzerland,Vaud,46.56176,6.648929,4844,389,0,4455,71,17,False,False
+2020-05-12,CHE,Switzerland,Zug,47.161402,8.538864,193,8,152,33,1,1,False,False
+2020-05-12,CHE,Switzerland,Zurich,47.417407,8.655988,3558,126,0,3432,44,0,False,False
