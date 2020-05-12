@@ -29832,7 +29832,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-09,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
 2020-05-09,UKR,Ukraine,Lviv,49.724836,23.921202,699,0,0,699,0,0,False,False
 2020-05-09,UKR,Ukraine,Mykolaiv,47.369854,31.706007,204,0,0,204,0,0,False,False
-2020-05-09,UKR,Ukraine,NOT SPECIFIED,,,0,0,2909,-2909,0,0,False,False
+2020-05-09,UKR,Ukraine,NOT SPECIFIED,,,0,376,2909,-3285,0,0,False,False
 2020-05-09,UKR,Ukraine,Odessa,46.891548,30.547979,619,0,0,619,0,0,False,False
 2020-05-09,UKR,Ukraine,Poltava,49.713595,33.811322,240,0,0,240,0,0,False,False
 2020-05-09,UKR,Ukraine,Rivne,51.043432,26.397584,877,0,0,877,0,0,False,False
@@ -30809,7 +30809,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
 2020-05-11,UKR,Ukraine,Lviv,49.724836,23.921202,798,0,0,798,0,0,False,False
 2020-05-11,UKR,Ukraine,Mykolaiv,47.369854,31.706007,223,0,0,223,0,0,False,False
-2020-05-11,UKR,Ukraine,NOT SPECIFIED,,,0,0,3288,-3288,0,0,False,False
+2020-05-11,UKR,Ukraine,NOT SPECIFIED,,,0,408,3288,-3696,0,0,False,False
 2020-05-11,UKR,Ukraine,Odessa,46.891548,30.547979,646,0,0,646,0,0,False,False
 2020-05-11,UKR,Ukraine,Poltava,49.713595,33.811322,247,0,0,247,0,0,False,False
 2020-05-11,UKR,Ukraine,Rivne,51.043432,26.397584,978,0,0,978,0,0,False,False
@@ -30846,6 +30846,17 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,GBR,United Kingdom,South West,51.239761,-2.54375,7044,0,0,7044,0,0,False,True
 2020-05-11,GBR,United Kingdom,Tayside,56.610323,-3.555213,1497,0,0,1497,0,0,False,True
 2020-05-11,GBR,United Kingdom,Wales,52.302413,-3.738347,11468,1116,0,10352,0,0,False,True
+2020-05-12,ALB,Albania,Berat,40.6285,20.090775,5,0,0,5,0,0,False,False
+2020-05-12,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
+2020-05-12,ALB,Albania,Durrës,41.518365,19.651766,177,6,0,171,0,0,False,False
+2020-05-12,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
+2020-05-12,ALB,Albania,Fier,40.774633,19.620528,50,3,0,47,0,0,False,False
+2020-05-12,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
+2020-05-12,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
+2020-05-12,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
+2020-05-12,ALB,Albania,Shkodër,42.17682,19.719451,121,2,0,119,0,0,False,False
+2020-05-12,ALB,Albania,Tiranë,41.268583,19.793936,389,18,0,371,0,0,False,False
+2020-05-12,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
 2020-05-12,AUT,Austria,Burgenland,47.541449,16.520206,337,11,290,36,0,0,True,True
 2020-05-12,AUT,Austria,Kärnten,46.715832,14.455532,411,13,388,10,0,0,True,True
 2020-05-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2697,90,2433,174,0,0,True,True
