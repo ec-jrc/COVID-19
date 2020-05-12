@@ -23,10 +23,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,839,27,0,0,True,True
 2020-05-12,AUT,Austria,Wien,48.21141,16.380038,2725,144,2061,520,0,0,True,True
 2020-05-11,BLR,Belarus,Belarus,53.711111,27.973847,22973,131,0,22842,0,0,False,False
-2020-05-11,BEL,Belgium,Brussels,50.836426,4.367415,5460,1348,0,4112,2411,0,True,True
-2020-05-11,BEL,Belgium,Flanders,51.036569,4.234165,29767,4320,0,25447,8961,0,True,True
-2020-05-11,BEL,Belgium,NOT SPECIFIED,,,1040,0,0,1040,0,0,True,True
-2020-05-11,BEL,Belgium,Wallonia,50.312074,5.019093,17182,3039,0,14143,4907,0,True,True
+2020-05-12,BEL,Belgium,Brussels,50.836426,4.367415,5485,1353,0,4132,2420,0,True,True
+2020-05-12,BEL,Belgium,Flanders,51.036569,4.234165,29915,4353,0,25562,8987,0,True,True
+2020-05-12,BEL,Belgium,NOT SPECIFIED,,,1042,0,0,1042,0,0,True,True
+2020-05-12,BEL,Belgium,Wallonia,50.312074,5.019093,17337,3055,0,14282,4915,0,True,True
 2020-05-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,994,35,0,959,0,0,False,False
 2020-05-12,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,88,5,2,81,0,0,True,True
 2020-05-12,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,16,35,0,0,True,True
@@ -553,32 +553,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,CHE,Switzerland,Zurich,47.417407,8.655988,3558,126,0,3432,44,0,False,False
 2020-05-01,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-11,TUR,Turkey,Turkey,38.961515,35.25175,139771,3841,0,135930,0,0,False,True
-2020-05-11,UKR,Ukraine,Cherkasy,49.253559,31.378329,342,0,0,342,0,0,False,False
-2020-05-11,UKR,Ukraine,Chernihiv,51.347162,32.016707,77,0,0,77,0,0,False,False
-2020-05-11,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2324,0,0,2324,0,0,False,False
-2020-05-11,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,731,0,0,731,0,0,False,False
-2020-05-11,UKR,Ukraine,Donetsk,48.04733,37.669412,100,0,0,100,0,0,False,False
-2020-05-11,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,1126,0,0,1126,0,0,False,False
-2020-05-11,UKR,Ukraine,Kharkiv,49.612761,36.514406,595,0,0,595,0,0,False,False
-2020-05-11,UKR,Ukraine,Kherson,46.66268,33.577394,161,0,0,161,0,0,False,False
-2020-05-11,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,178,0,0,178,0,0,False,False
-2020-05-11,UKR,Ukraine,Kiev region,49.843123,30.727949,1000,0,0,1000,0,0,False,False
-2020-05-11,UKR,Ukraine,Kirovograd,48.507933,32.262317,420,0,0,420,0,0,False,False
-2020-05-11,UKR,Ukraine,Kyiv,50.427074,30.530672,1871,0,0,1871,0,0,False,False
-2020-05-11,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
-2020-05-11,UKR,Ukraine,Lviv,49.724836,23.921202,798,0,0,798,0,0,False,False
-2020-05-11,UKR,Ukraine,Mykolaiv,47.369854,31.706007,223,0,0,223,0,0,False,False
-2020-05-11,UKR,Ukraine,NOT SPECIFIED,,,0,0,3288,-3288,0,0,False,False
-2020-05-11,UKR,Ukraine,Odessa,46.891548,30.547979,646,0,0,646,0,0,False,False
-2020-05-11,UKR,Ukraine,Poltava,49.713595,33.811322,247,0,0,247,0,0,False,False
-2020-05-11,UKR,Ukraine,Rivne,51.043432,26.397584,978,0,0,978,0,0,False,False
-2020-05-11,UKR,Ukraine,Sumy,51.393248,33.665627,154,0,0,154,0,0,False,False
-2020-05-11,UKR,Ukraine,Ternopil,49.402562,25.640005,1018,0,0,1018,0,0,False,False
-2020-05-11,UKR,Ukraine,Transcarpathian,48.405051,23.281219,730,0,0,730,0,0,False,False
-2020-05-11,UKR,Ukraine,Vinnytsia,48.926546,28.692087,553,0,0,553,0,0,False,False
-2020-05-11,UKR,Ukraine,Volyn,51.202858,24.883489,482,0,0,482,0,0,False,False
-2020-05-11,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,329,0,0,329,0,0,False,False
-2020-05-11,UKR,Ukraine,Zhytomyr,50.642612,28.484557,523,0,0,523,0,0,False,False
+2020-05-12,UKR,Ukraine,Cherkasy,49.253559,31.378329,343,0,0,343,0,0,False,False
+2020-05-12,UKR,Ukraine,Chernihiv,51.347162,32.016707,79,0,0,79,0,0,False,False
+2020-05-12,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2396,0,0,2396,0,0,False,False
+2020-05-12,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,748,0,0,748,0,0,False,False
+2020-05-12,UKR,Ukraine,Donetsk,48.04733,37.669412,100,0,0,100,0,0,False,False
+2020-05-12,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,1133,0,0,1133,0,0,False,False
+2020-05-12,UKR,Ukraine,Kharkiv,49.612761,36.514406,623,0,0,623,0,0,False,False
+2020-05-12,UKR,Ukraine,Kherson,46.66268,33.577394,162,0,0,162,0,0,False,False
+2020-05-12,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,182,0,0,182,0,0,False,False
+2020-05-12,UKR,Ukraine,Kiev region,49.843123,30.727949,1023,0,0,1023,0,0,False,False
+2020-05-12,UKR,Ukraine,Kirovograd,48.507933,32.262317,425,0,0,425,0,0,False,False
+2020-05-12,UKR,Ukraine,Kyiv,50.427074,30.530672,1930,0,0,1930,0,0,False,False
+2020-05-12,UKR,Ukraine,Lugansk,48.574041,39.307815,42,0,0,42,0,0,False,False
+2020-05-12,UKR,Ukraine,Lviv,49.724836,23.921202,825,0,0,825,0,0,False,False
+2020-05-12,UKR,Ukraine,Mykolaiv,47.369854,31.706007,225,0,0,225,0,0,False,False
+2020-05-12,UKR,Ukraine,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
+2020-05-12,UKR,Ukraine,Odessa,46.891548,30.547979,653,0,0,653,0,0,False,False
+2020-05-12,UKR,Ukraine,Poltava,49.713595,33.811322,248,0,0,248,0,0,False,False
+2020-05-12,UKR,Ukraine,Rivne,51.043432,26.397584,1028,0,0,1028,0,0,False,False
+2020-05-12,UKR,Ukraine,Sumy,51.393248,33.665627,157,0,0,157,0,0,False,False
+2020-05-12,UKR,Ukraine,Ternopil,49.402562,25.640005,1021,0,0,1021,0,0,False,False
+2020-05-12,UKR,Ukraine,Transcarpathian,48.405051,23.281219,748,0,0,748,0,0,False,False
+2020-05-12,UKR,Ukraine,Vinnytsia,48.926546,28.692087,580,0,0,580,0,0,False,False
+2020-05-12,UKR,Ukraine,Volyn,51.202858,24.883489,496,0,0,496,0,0,False,False
+2020-05-12,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,331,0,0,331,0,0,False,False
+2020-05-12,UKR,Ukraine,Zhytomyr,50.642612,28.484557,525,0,0,525,0,0,False,False
 2020-05-11,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,912,0,0,912,0,0,False,True
 2020-05-11,GBR,United Kingdom,Borders,55.572787,-2.786355,292,0,0,292,0,0,False,True
 2020-05-11,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
