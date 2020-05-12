@@ -30819,6 +30819,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,UKR,Ukraine,Volyn,51.202858,24.883489,482,0,0,482,0,0,False,False
 2020-05-11,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,329,0,0,329,0,0,False,False
 2020-05-11,UKR,Ukraine,Zhytomyr,50.642612,28.484557,523,0,0,523,0,0,False,False
+2020-05-11,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,912,0,0,912,0,0,False,True
+2020-05-11,GBR,United Kingdom,Borders,55.572787,-2.786355,292,0,0,292,0,0,False,True
+2020-05-11,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
+2020-05-11,GBR,United Kingdom,East of England,52.248898,0.548756,12295,0,0,12295,0,0,False,True
+2020-05-11,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-05-11,GBR,United Kingdom,England,,,5691,28657,0,-22966,0,0,False,True
+2020-05-11,GBR,United Kingdom,Fife,56.228968,-3.118568,813,0,0,813,0,0,False,True
+2020-05-11,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,839,0,0,839,0,0,False,True
+2020-05-11,GBR,United Kingdom,Grampian,57.299016,-2.780773,1078,0,0,1078,0,0,False,True
+2020-05-11,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3479,0,0,3479,0,0,False,True
+2020-05-11,GBR,United Kingdom,Highland,57.363501,-4.733034,322,0,0,322,0,0,False,True
+2020-05-11,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1693,0,0,1693,0,0,False,True
+2020-05-11,GBR,United Kingdom,London,51.497136,-0.100571,25891,0,0,25891,0,0,False,True
+2020-05-11,GBR,United Kingdom,Lothian,55.946009,-2.728265,2380,0,0,2380,0,0,False,True
+2020-05-11,GBR,United Kingdom,Midlands,52.718351,-1.45667,22688,0,0,22688,0,0,False,True
+2020-05-11,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,21410,0,0,21410,0,0,False,True
+2020-05-11,GBR,United Kingdom,North West,53.524488,-2.333125,22510,0,0,22510,0,0,False,True
+2020-05-11,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4149,435,0,3714,0,0,False,True
+2020-05-11,GBR,United Kingdom,NOT SPECIFIED,,,56943,0,0,56943,0,0,False,True
+2020-05-11,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
+2020-05-11,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,1857,0,-1857,0,0,False,True
+2020-05-11,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-05-11,GBR,United Kingdom,South East,51.291417,-0.521902,19344,0,0,19344,0,0,False,True
+2020-05-11,GBR,United Kingdom,South West,51.239761,-2.54375,7044,0,0,7044,0,0,False,True
+2020-05-11,GBR,United Kingdom,Tayside,56.610323,-3.555213,1497,0,0,1497,0,0,False,True
+2020-05-11,GBR,United Kingdom,Wales,52.302413,-3.738347,11468,1116,0,10352,0,0,False,True
 2020-05-12,AUT,Austria,Burgenland,47.541449,16.520206,337,11,283,43,0,0,True,True
 2020-05-12,AUT,Austria,Kärnten,46.715832,14.455532,411,13,389,9,0,0,True,True
 2020-05-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2682,90,2418,174,0,0,True,True
@@ -30872,6 +30898,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,CZE,Czech Republic,Ústecký,50.488308,13.816736,506,0,0,506,0,0,True,True
 2020-05-12,CZE,Czech Republic,Vysocina,49.40736,15.689937,178,0,0,178,0,0,True,True
 2020-05-12,CZE,Czech Republic,Zlínský,49.239654,17.770218,336,0,0,336,0,0,True,True
+2020-05-12,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
+2020-05-12,FIN,Finland,Etelä-Karjala,61.217899,28.550289,18,0,0,18,0,0,True,True
+2020-05-12,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,42,0,0,42,0,0,True,True
+2020-05-12,FIN,Finland,Etelä-Savo,61.813578,27.347685,48,0,0,48,0,0,True,True
+2020-05-12,FIN,Finland,HUS,60.408524,24.7817,4278,0,0,4278,0,0,True,True
+2020-05-12,FIN,Finland,Itä-Savo,62.073919,28.846114,10,0,0,10,0,0,True,True
+2020-05-12,FIN,Finland,Kainuu,64.373656,28.743748,64,0,0,64,0,0,True,True
+2020-05-12,FIN,Finland,Kanta-Häme,60.921424,24.354383,103,0,0,103,0,0,True,True
+2020-05-12,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,17,0,0,17,0,0,True,True
+2020-05-12,FIN,Finland,Keski-Suomi,62.629133,25.476526,129,0,0,129,0,0,True,True
+2020-05-12,FIN,Finland,Kymenlaakso,60.826543,26.889951,40,0,0,40,0,0,True,True
+2020-05-12,FIN,Finland,Länsi-Pohja,66.133479,24.762611,138,0,0,138,0,0,True,True
+2020-05-12,FIN,Finland,Lappi,67.847438,26.444542,71,0,0,71,0,0,True,True
+2020-05-12,FIN,Finland,Päijät-Häme,61.217271,25.721465,87,0,0,87,0,0,True,True
+2020-05-12,FIN,Finland,Pirkanmaa,61.715017,23.913902,250,0,0,250,0,0,True,True
+2020-05-12,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,0,0,24,0,0,True,True
+2020-05-12,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,130,0,0,130,0,0,True,True
+2020-05-12,FIN,Finland,Pohjois-Savo,63.173162,27.465765,130,0,0,130,0,0,True,True
+2020-05-12,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
+2020-05-12,FIN,Finland,Vaasa,63.077479,22.196054,52,0,0,52,0,0,True,True
+2020-05-12,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,308,0,0,308,0,0,True,True
 2020-05-12,DEU,Germany,Baden-Württemberg,48.537648,9.049199,33359,1568,0,31791,0,0,True,True
 2020-05-12,DEU,Germany,Bayern,48.947574,11.419913,44593,2182,0,42411,0,0,True,True
 2020-05-12,DEU,Germany,Berlin,52.501532,13.40185,6274,165,0,6109,0,0,True,True
