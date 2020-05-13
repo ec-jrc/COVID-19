@@ -31438,6 +31438,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,CZE,Czech Republic,Ústecký,50.488308,13.816736,511,0,0,511,0,0,True,True
 2020-05-13,CZE,Czech Republic,Vysocina,49.40736,15.689937,178,0,0,178,0,0,True,True
 2020-05-13,CZE,Czech Republic,Zlínský,49.239654,17.770218,342,0,0,342,0,0,True,True
+2020-05-13,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
+2020-05-13,FIN,Finland,Etelä-Karjala,61.217899,28.550289,18,0,0,18,0,0,True,True
+2020-05-13,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,44,0,0,44,0,0,True,True
+2020-05-13,FIN,Finland,Etelä-Savo,61.813578,27.347685,48,0,0,48,0,0,True,True
+2020-05-13,FIN,Finland,HUS,60.408524,24.7817,4314,0,0,4314,0,0,True,True
+2020-05-13,FIN,Finland,Itä-Savo,62.073919,28.846114,10,0,0,10,0,0,True,True
+2020-05-13,FIN,Finland,Kainuu,64.373656,28.743748,64,0,0,64,0,0,True,True
+2020-05-13,FIN,Finland,Kanta-Häme,60.921424,24.354383,104,0,0,104,0,0,True,True
+2020-05-13,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,18,0,0,18,0,0,True,True
+2020-05-13,FIN,Finland,Keski-Suomi,62.629133,25.476526,130,0,0,130,0,0,True,True
+2020-05-13,FIN,Finland,Kymenlaakso,60.826543,26.889951,40,0,0,40,0,0,True,True
+2020-05-13,FIN,Finland,Länsi-Pohja,66.133479,24.762611,140,0,0,140,0,0,True,True
+2020-05-13,FIN,Finland,Lappi,67.847438,26.444542,71,0,0,71,0,0,True,True
+2020-05-13,FIN,Finland,Päijät-Häme,61.217271,25.721465,90,0,0,90,0,0,True,True
+2020-05-13,FIN,Finland,Pirkanmaa,61.715017,23.913902,250,0,0,250,0,0,True,True
+2020-05-13,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,0,0,24,0,0,True,True
+2020-05-13,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,131,0,0,131,0,0,True,True
+2020-05-13,FIN,Finland,Pohjois-Savo,63.173162,27.465765,131,0,0,131,0,0,True,True
+2020-05-13,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
+2020-05-13,FIN,Finland,Vaasa,63.077479,22.196054,52,0,0,52,0,0,True,True
+2020-05-13,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,311,0,0,311,0,0,True,True
 2020-05-13,DEU,Germany,Baden-Württemberg,48.537648,9.049199,33518,1594,0,31924,0,0,True,True
 2020-05-13,DEU,Germany,Bayern,48.947574,11.419913,44802,2209,0,42593,0,0,True,True
 2020-05-13,DEU,Germany,Berlin,52.501532,13.40185,6298,170,0,6128,0,0,True,True
@@ -31455,6 +31476,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1650,52,0,1598,0,0,True,True
 2020-05-13,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2972,125,0,2847,0,0,True,True
 2020-05-13,DEU,Germany,Thüringen,50.903878,11.02488,2622,126,0,2496,0,0,True,True
+2020-05-13,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
+2020-05-13,HUN,Hungary,B�cs-Kiskun,,,23,0,0,23,0,0,True,True
+2020-05-13,HUN,Hungary,B�k�s,,,11,0,0,11,0,0,True,True
+2020-05-13,HUN,Hungary,Borsod-Aba�j-Zempl�n,,,64,0,0,64,0,0,True,True
+2020-05-13,HUN,Hungary,Budapest,47.486226,19.102958,1609,0,0,1609,0,0,True,True
+2020-05-13,HUN,Hungary,Csongr�d,,,113,0,0,113,0,0,True,True
+2020-05-13,HUN,Hungary,Fej�r,,,338,0,0,338,0,0,True,True
+2020-05-13,HUN,Hungary,Gy?r-Moson-Sopron,,,83,0,0,83,0,0,True,True
+2020-05-13,HUN,Hungary,Hajd�-Bihar,,,23,0,0,23,0,0,True,True
+2020-05-13,HUN,Hungary,Heves,47.856454,20.175008,17,0,0,17,0,0,True,True
+2020-05-13,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-05-13,HUN,Hungary,J�sz-Nagykun-Szolnok,,,23,0,0,23,0,0,True,True
+2020-05-13,HUN,Hungary,Kom�rom-Esztergom,,,176,0,0,176,0,0,True,True
+2020-05-13,HUN,Hungary,N�gr�d,,,25,0,0,25,0,0,True,True
+2020-05-13,HUN,Hungary,NOT SPECIFIED,,,0,430,950,-1380,688,45,True,True
+2020-05-13,HUN,Hungary,Pest,47.252834,19.743062,456,0,0,456,0,0,True,True
+2020-05-13,HUN,Hungary,Somogy,46.452574,17.603217,28,0,0,28,0,0,True,True
+2020-05-13,HUN,Hungary,Szabolcs-Szatm�r-Bereg,,,47,0,0,47,0,0,True,True
+2020-05-13,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
+2020-05-13,HUN,Hungary,Vas,47.147868,16.751348,14,0,0,14,0,0,True,True
+2020-05-13,HUN,Hungary,Veszpr�m,,,62,0,0,62,0,0,True,True
+2020-05-13,HUN,Hungary,Zala,46.692149,16.903237,176,0,0,176,0,0,True,True
 2020-05-13,IRL,Ireland,Ireland,53.41975,-8.240472,23242,1488,0,21754,0,0,True,True
 2020-05-13,LVA,Latvia,Latvia,56.875584,24.607722,950,18,0,932,0,0,True,True
 2020-05-13,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
