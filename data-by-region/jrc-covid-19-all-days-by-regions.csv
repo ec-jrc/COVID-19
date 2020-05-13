@@ -31551,6 +31551,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,UKR,Ukraine,Volyn,51.202858,24.883489,496,0,0,496,0,0,False,False
 2020-05-12,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,331,0,0,331,0,0,False,False
 2020-05-12,UKR,Ukraine,Zhytomyr,50.642612,28.484557,525,0,0,525,0,0,False,False
+2020-05-12,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,925,0,0,925,0,0,False,True
+2020-05-12,GBR,United Kingdom,Borders,55.572787,-2.786355,294,0,0,294,0,0,False,True
+2020-05-12,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
+2020-05-12,GBR,United Kingdom,East of England,52.248898,0.548756,12376,0,0,12376,0,0,False,True
+2020-05-12,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-05-12,GBR,United Kingdom,England,,,5763,29260,0,-23497,0,0,False,True
+2020-05-12,GBR,United Kingdom,Fife,56.228968,-3.118568,813,0,0,813,0,0,False,True
+2020-05-12,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,856,0,0,856,0,0,False,True
+2020-05-12,GBR,United Kingdom,Grampian,57.299016,-2.780773,1102,0,0,1102,0,0,False,True
+2020-05-12,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3510,0,0,3510,0,0,False,True
+2020-05-12,GBR,United Kingdom,Highland,57.363501,-4.733034,324,0,0,324,0,0,False,True
+2020-05-12,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1715,0,0,1715,0,0,False,True
+2020-05-12,GBR,United Kingdom,London,51.497136,-0.100571,25980,0,0,25980,0,0,False,True
+2020-05-12,GBR,United Kingdom,Lothian,55.946009,-2.728265,2397,0,0,2397,0,0,False,True
+2020-05-12,GBR,United Kingdom,Midlands,52.718351,-1.45667,22982,0,0,22982,0,0,False,True
+2020-05-12,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,21632,0,0,21632,0,0,False,True
+2020-05-12,GBR,United Kingdom,North West,53.524488,-2.333125,22666,0,0,22666,0,0,False,True
+2020-05-12,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4193,438,0,3755,0,0,False,True
+2020-05-12,GBR,United Kingdom,NOT SPECIFIED,,,58994,0,0,58994,0,0,False,True
+2020-05-12,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
+2020-05-12,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,1862,0,-1862,0,0,False,True
+2020-05-12,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-05-12,GBR,United Kingdom,South East,51.291417,-0.521902,19449,0,0,19449,0,0,False,True
+2020-05-12,GBR,United Kingdom,South West,51.239761,-2.54375,7092,0,0,7092,0,0,False,True
+2020-05-12,GBR,United Kingdom,Tayside,56.610323,-3.555213,1505,0,0,1505,0,0,False,True
+2020-05-12,GBR,United Kingdom,Wales,52.302413,-3.738347,11573,1132,0,10441,0,0,False,True
 2020-05-13,AND,Andorra,Andorra,42.542268,1.596865,758,48,0,710,0,0,False,False
 2020-05-13,AUT,Austria,Burgenland,47.541449,16.520206,337,11,290,36,0,0,True,True
 2020-05-13,AUT,Austria,Kärnten,46.715832,14.455532,411,13,388,10,0,0,True,True
@@ -31607,6 +31633,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,CZE,Czech Republic,Ústecký,50.488308,13.816736,511,0,0,511,0,0,True,True
 2020-05-13,CZE,Czech Republic,Vysocina,49.40736,15.689937,178,0,0,178,0,0,True,True
 2020-05-13,CZE,Czech Republic,Zlínský,49.239654,17.770218,342,0,0,342,0,0,True,True
+2020-05-13,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-13,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-05-13,DNK,Denmark,Hovedstaden,55.675758,12.56902,6002,308,0,5694,0,0,True,True
+2020-05-13,DNK,Denmark,Midtjylland,56.302139,9.302777,1546,69,0,1477,0,0,True,True
+2020-05-13,DNK,Denmark,Nordjylland,56.830742,9.493053,423,21,0,402,0,0,True,True
+2020-05-13,DNK,Denmark,NOT SPECIFIED,,,59,0,0,59,0,0,True,True
+2020-05-13,DNK,Denmark,Sjælland,55.92481,11.67126,1705,106,0,1599,0,0,True,True
+2020-05-13,DNK,Denmark,Syddanmark,55.675758,12.56902,932,29,0,903,0,0,True,True
 2020-05-13,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-13,FIN,Finland,Etelä-Karjala,61.217899,28.550289,18,0,0,18,0,0,True,True
 2020-05-13,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,44,0,0,44,0,0,True,True
@@ -31671,10 +31705,23 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,LVA,Latvia,Latvia,56.875584,24.607722,950,18,0,932,0,0,True,True
 2020-05-13,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-13,LTU,Lithuania,Lithuania,55.174112,23.906736,1491,50,0,1441,0,0,True,True
+2020-05-13,MLT,Malta,Malta,35.946151,14.384612,508,6,436,66,0,0,True,True
 2020-05-13,MDA,Moldova,Moldova,46.979527,28.377195,5154,182,0,4972,0,0,False,False
 2020-05-13,MCO,Monaco,Monaco,43.738348,7.424451,96,4,0,92,0,0,False,False
 2020-05-13,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
 2020-05-13,MKD,North Macedonia,North Macedonia,41.611,21.751417,1674,92,0,1582,0,0,False,True
+2020-05-13,NOR,Norway,Agder,58.699661,7.618403,336,0,0,336,0,0,False,True
+2020-05-13,NOR,Norway,Innlandet,61.43354,10.427144,467,0,0,467,0,0,False,True
+2020-05-13,NOR,Norway,Møre og Romsdal,62.543569,8.540539,129,0,0,129,0,0,False,True
+2020-05-13,NOR,Norway,Nordland,66.679716,14.635752,116,0,0,116,0,0,False,True
+2020-05-13,NOR,Norway,NOT SPECIFIED,,,0,229,0,-229,0,0,False,True
+2020-05-13,NOR,Norway,Oslo,59.979683,10.738335,2537,0,0,2537,0,0,False,True
+2020-05-13,NOR,Norway,Rogaland,58.58709,6.206792,437,0,0,437,0,0,False,True
+2020-05-13,NOR,Norway,Troms og Finnmark,70.239335,26.12935,251,0,0,251,0,0,False,True
+2020-05-13,NOR,Norway,Trøndelag,63.421183,11.529951,519,0,0,519,0,0,False,True
+2020-05-13,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,279,0,0,279,0,0,False,True
+2020-05-13,NOR,Norway,Vestland,60.952729,6.513828,877,0,0,877,0,0,False,True
+2020-05-13,NOR,Norway,Viken,60.020274,9.849655,2187,0,0,2187,0,0,False,True
 2020-05-13,POL,Poland,Dolnośląskie,51.07994,16.381483,2088,78,0,2010,0,0,True,True
 2020-05-13,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,577,38,0,539,0,0,True,True
 2020-05-13,POL,Poland,Łódzkie,51.559579,19.408271,1201,45,0,1156,0,0,True,True

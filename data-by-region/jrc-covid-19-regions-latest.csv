@@ -94,15 +94,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,CZE,Czech Republic,Ústecký,50.488308,13.816736,511,0,0,511,0,0,True,True
 2020-05-13,CZE,Czech Republic,Vysocina,49.40736,15.689937,178,0,0,178,0,0,True,True
 2020-05-13,CZE,Czech Republic,Zlínský,49.239654,17.770218,342,0,0,342,0,0,True,True
-2020-05-12,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
-2020-05-12,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
-2020-05-12,DNK,Denmark,Hovedstaden,55.675758,12.56902,5958,303,0,5655,0,0,True,True
+2020-05-13,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-13,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-05-13,DNK,Denmark,Hovedstaden,55.675758,12.56902,6002,308,0,5694,0,0,True,True
 2020-04-10,DNK,Denmark,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
-2020-05-12,DNK,Denmark,Midtjylland,56.302139,9.302777,1544,69,0,1475,0,0,True,True
-2020-05-12,DNK,Denmark,Nordjylland,56.830742,9.493053,421,21,0,400,0,0,True,True
-2020-05-12,DNK,Denmark,NOT SPECIFIED,,,58,0,0,58,0,0,True,True
-2020-05-12,DNK,Denmark,Sjælland,55.92481,11.67126,1689,105,0,1584,0,0,True,True
-2020-05-12,DNK,Denmark,Syddanmark,55.675758,12.56902,921,29,0,892,0,0,True,True
+2020-05-13,DNK,Denmark,Midtjylland,56.302139,9.302777,1546,69,0,1477,0,0,True,True
+2020-05-13,DNK,Denmark,Nordjylland,56.830742,9.493053,423,21,0,402,0,0,True,True
+2020-05-13,DNK,Denmark,NOT SPECIFIED,,,59,0,0,59,0,0,True,True
+2020-05-13,DNK,Denmark,Sjælland,55.92481,11.67126,1705,106,0,1599,0,0,True,True
+2020-05-13,DNK,Denmark,Syddanmark,55.675758,12.56902,932,29,0,903,0,0,True,True
 2020-05-11,EST,Estonia,Estonia,58.596209,25.023778,1741,61,0,1680,0,0,True,True
 2020-05-13,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-13,FIN,Finland,Etelä-Karjala,61.217899,28.550289,18,0,0,18,0,0,True,True
@@ -591,29 +591,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,UKR,Ukraine,Volyn,51.202858,24.883489,496,0,0,496,0,0,False,False
 2020-05-12,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,331,0,0,331,0,0,False,False
 2020-05-12,UKR,Ukraine,Zhytomyr,50.642612,28.484557,525,0,0,525,0,0,False,False
-2020-05-11,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,912,0,0,912,0,0,False,True
-2020-05-11,GBR,United Kingdom,Borders,55.572787,-2.786355,292,0,0,292,0,0,False,True
-2020-05-11,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
-2020-05-11,GBR,United Kingdom,East of England,52.248898,0.548756,12295,0,0,12295,0,0,False,True
-2020-05-11,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
-2020-05-11,GBR,United Kingdom,England,,,5691,28657,0,-22966,0,0,False,True
-2020-05-11,GBR,United Kingdom,Fife,56.228968,-3.118568,813,0,0,813,0,0,False,True
-2020-05-11,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,839,0,0,839,0,0,False,True
-2020-05-11,GBR,United Kingdom,Grampian,57.299016,-2.780773,1078,0,0,1078,0,0,False,True
-2020-05-11,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3479,0,0,3479,0,0,False,True
-2020-05-11,GBR,United Kingdom,Highland,57.363501,-4.733034,322,0,0,322,0,0,False,True
-2020-05-11,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1693,0,0,1693,0,0,False,True
-2020-05-11,GBR,United Kingdom,London,51.497136,-0.100571,25891,0,0,25891,0,0,False,True
-2020-05-11,GBR,United Kingdom,Lothian,55.946009,-2.728265,2380,0,0,2380,0,0,False,True
-2020-05-11,GBR,United Kingdom,Midlands,52.718351,-1.45667,22688,0,0,22688,0,0,False,True
-2020-05-11,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,21410,0,0,21410,0,0,False,True
-2020-05-11,GBR,United Kingdom,North West,53.524488,-2.333125,22510,0,0,22510,0,0,False,True
-2020-05-11,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4149,435,0,3714,0,0,False,True
-2020-05-11,GBR,United Kingdom,NOT SPECIFIED,,,56943,0,0,56943,0,0,False,True
-2020-05-11,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
-2020-05-11,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,1857,0,-1857,0,0,False,True
-2020-05-11,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
-2020-05-11,GBR,United Kingdom,South East,51.291417,-0.521902,19344,0,0,19344,0,0,False,True
-2020-05-11,GBR,United Kingdom,South West,51.239761,-2.54375,7044,0,0,7044,0,0,False,True
-2020-05-11,GBR,United Kingdom,Tayside,56.610323,-3.555213,1497,0,0,1497,0,0,False,True
-2020-05-11,GBR,United Kingdom,Wales,52.302413,-3.738347,11468,1116,0,10352,0,0,False,True
+2020-05-12,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,925,0,0,925,0,0,False,True
+2020-05-12,GBR,United Kingdom,Borders,55.572787,-2.786355,294,0,0,294,0,0,False,True
+2020-05-12,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
+2020-05-12,GBR,United Kingdom,East of England,52.248898,0.548756,12376,0,0,12376,0,0,False,True
+2020-05-12,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-05-12,GBR,United Kingdom,England,,,5763,29260,0,-23497,0,0,False,True
+2020-05-12,GBR,United Kingdom,Fife,56.228968,-3.118568,813,0,0,813,0,0,False,True
+2020-05-12,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,856,0,0,856,0,0,False,True
+2020-05-12,GBR,United Kingdom,Grampian,57.299016,-2.780773,1102,0,0,1102,0,0,False,True
+2020-05-12,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3510,0,0,3510,0,0,False,True
+2020-05-12,GBR,United Kingdom,Highland,57.363501,-4.733034,324,0,0,324,0,0,False,True
+2020-05-12,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1715,0,0,1715,0,0,False,True
+2020-05-12,GBR,United Kingdom,London,51.497136,-0.100571,25980,0,0,25980,0,0,False,True
+2020-05-12,GBR,United Kingdom,Lothian,55.946009,-2.728265,2397,0,0,2397,0,0,False,True
+2020-05-12,GBR,United Kingdom,Midlands,52.718351,-1.45667,22982,0,0,22982,0,0,False,True
+2020-05-12,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,21632,0,0,21632,0,0,False,True
+2020-05-12,GBR,United Kingdom,North West,53.524488,-2.333125,22666,0,0,22666,0,0,False,True
+2020-05-12,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4193,438,0,3755,0,0,False,True
+2020-05-12,GBR,United Kingdom,NOT SPECIFIED,,,58994,0,0,58994,0,0,False,True
+2020-05-12,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
+2020-05-12,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,1862,0,-1862,0,0,False,True
+2020-05-12,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-05-12,GBR,United Kingdom,South East,51.291417,-0.521902,19449,0,0,19449,0,0,False,True
+2020-05-12,GBR,United Kingdom,South West,51.239761,-2.54375,7092,0,0,7092,0,0,False,True
+2020-05-12,GBR,United Kingdom,Tayside,56.610323,-3.555213,1505,0,0,1505,0,0,False,True
+2020-05-12,GBR,United Kingdom,Wales,52.302413,-3.738347,11573,1132,0,10441,0,0,False,True
