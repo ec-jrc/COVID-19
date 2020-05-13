@@ -31299,6 +31299,34 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,UKR,Ukraine,Volyn,51.202858,24.883489,496,0,0,496,0,0,False,False
 2020-05-12,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,331,0,0,331,0,0,False,False
 2020-05-12,UKR,Ukraine,Zhytomyr,50.642612,28.484557,525,0,0,525,0,0,False,False
+2020-05-13,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,96,5,2,89,0,0,True,True
+2020-05-13,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,16,35,0,0,True,True
+2020-05-13,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
+2020-05-13,BGR,Bulgaria,Gabrovo,42.931879,25.247163,7,1,2,4,0,0,True,True
+2020-05-13,BGR,Bulgaria,Haskovo,41.849113,25.942349,27,1,2,24,0,0,True,True
+2020-05-13,BGR,Bulgaria,Kardzhali,41.527042,25.441477,15,0,4,11,0,0,True,True
+2020-05-13,BGR,Bulgaria,Kyustendil,42.255307,22.869974,85,3,16,66,0,0,True,True
+2020-05-13,BGR,Bulgaria,Lovech,43.035259,24.5688,2,0,1,1,0,0,True,True
+2020-05-13,BGR,Bulgaria,Montana,43.496677,23.192363,22,0,0,22,0,0,True,True
+2020-05-13,BGR,Bulgaria,NOT SPECIFIED,,,2,1,16,-15,0,0,True,True
+2020-05-13,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,65,3,13,49,0,0,True,True
+2020-05-13,BGR,Bulgaria,Pernik,42.613861,22.853171,26,0,1,25,0,0,True,True
+2020-05-13,BGR,Bulgaria,Pleven,43.486117,24.610919,198,2,2,194,0,0,True,True
+2020-05-13,BGR,Bulgaria,Plovdiv,42.257364,24.824903,85,2,35,48,0,0,True,True
+2020-05-13,BGR,Bulgaria,Razgrad,,,8,0,0,8,0,0,True,True
+2020-05-13,BGR,Bulgaria,Ruse,43.54059,25.759217,16,0,1,15,0,0,True,True
+2020-05-13,BGR,Bulgaria,Shumen,43.296516,27.004814,4,1,1,2,0,0,True,True
+2020-05-13,BGR,Bulgaria,Silistra,43.946163,27.044927,6,1,0,5,0,0,True,True
+2020-05-13,BGR,Bulgaria,Sliven,42.67034,26.241026,63,8,45,10,0,0,True,True
+2020-05-13,BGR,Bulgaria,Smolyan,41.628892,24.668089,38,4,25,9,0,0,True,True
+2020-05-13,BGR,Bulgaria,Sofia City,42.286287,23.616846,877,43,292,542,0,0,True,True
+2020-05-13,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,40,1,0,39,0,0,True,True
+2020-05-13,BGR,Bulgaria,Targovishte,,,1,0,0,1,0,0,True,True
+2020-05-13,BGR,Bulgaria,Varna,43.186206,27.59493,28,0,11,17,0,0,True,True
+2020-05-13,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,25,3,2,20,0,0,True,True
+2020-05-13,BGR,Bulgaria,Vidin,43.797295,22.68621,175,10,3,162,0,0,True,True
+2020-05-13,BGR,Bulgaria,Vratsa,43.395067,23.759152,13,0,2,11,0,0,True,True
+2020-05-13,BGR,Bulgaria,Yambol,,,80,6,5,69,0,0,True,True
 2020-05-13,DEU,Germany,Baden-Württemberg,48.537648,9.049199,33518,1594,0,31924,0,0,True,True
 2020-05-13,DEU,Germany,Bayern,48.947574,11.419913,44802,2209,0,42593,0,0,True,True
 2020-05-13,DEU,Germany,Berlin,52.501532,13.40185,6298,170,0,6128,0,0,True,True
