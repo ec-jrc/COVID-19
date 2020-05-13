@@ -11,7 +11,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,ALB,Albania,Shkodër,42.17682,19.719451,121,2,0,119,0,0,False,False
 2020-05-12,ALB,Albania,Tiranë,41.268583,19.793936,389,18,0,371,0,0,False,False
 2020-05-12,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
-2020-05-11,AND,Andorra,Andorra,42.542268,1.596865,755,48,0,707,0,0,False,False
+2020-05-13,AND,Andorra,Andorra,42.542268,1.596865,758,48,0,710,0,0,False,False
 2020-05-12,AUT,Austria,Burgenland,47.541449,16.520206,337,11,290,36,0,0,True,True
 2020-05-12,AUT,Austria,Kärnten,46.715832,14.455532,411,13,388,10,0,0,True,True
 2020-05-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2697,90,2433,174,0,0,True,True
@@ -22,7 +22,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,AUT,Austria,Tirol,47.209023,11.397603,3517,100,3329,88,0,0,True,True
 2020-05-12,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,843,23,0,0,True,True
 2020-05-12,AUT,Austria,Wien,48.21141,16.380038,2790,144,2081,565,0,0,True,True
-2020-05-11,BLR,Belarus,Belarus,53.711111,27.973847,22973,131,0,22842,0,0,False,False
+2020-05-13,BLR,Belarus,Belarus,53.711111,27.973847,24873,142,0,24731,0,0,False,False
 2020-05-12,BEL,Belgium,Brussels,50.836426,4.367415,5485,1353,0,4132,2420,0,True,True
 2020-05-12,BEL,Belgium,Flanders,51.036569,4.234165,29915,4353,0,25562,8987,0,True,True
 2020-05-12,BEL,Belgium,NOT SPECIFIED,,,1042,0,0,1042,0,0,True,True
@@ -78,7 +78,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,40,0,0,40,0,0,True,True
 2020-05-12,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
 2020-05-12,HRV,Croatia,Zagrebačka,45.82762,16.381796,130,0,0,130,0,0,True,True
-2020-05-11,CYP,Cyprus,Cyprus,35.167406,33.435499,898,22,0,876,0,0,True,True
+2020-05-13,CYP,Cyprus,Cyprus,35.167406,33.435499,903,23,0,880,0,0,True,True
 2020-05-12,CZE,Czech Republic,Jihoceský,49.093362,14.439278,179,0,0,179,0,0,True,True
 2020-05-12,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,493,0,0,493,0,0,True,True
 2020-05-12,CZE,Czech Republic,Karlovarský,50.170136,12.763213,430,0,0,430,0,0,True,True
@@ -247,7 +247,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
 2020-05-12,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
 2020-05-12,ISL,Iceland,West Iceland,64.843136,-21.691436,43,0,0,43,0,0,False,True
-2020-05-11,IRL,Ireland,Ireland,53.41975,-8.240472,22996,1458,0,21538,0,0,True,True
+2020-05-13,IRL,Ireland,Ireland,53.41975,-8.240472,23242,1488,0,21754,0,0,True,True
 2020-05-12,ITA,Italy,Abruzzo,42.228034,13.855137,3115,370,1197,1548,230,8,True,True
 2020-05-12,ITA,Italy,Basilicata,40.500665,16.082246,387,27,220,140,48,1,True,True
 2020-05-12,ITA,Italy,Bolzano,46.697344,11.417082,2572,290,1845,437,63,7,True,True
@@ -269,15 +269,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,ITA,Italy,Umbria,42.966781,12.49094,1419,71,1239,109,45,4,True,True
 2020-05-12,ITA,Italy,Valle d'Aosta,45.732414,7.393651,1160,140,916,104,45,0,True,True
 2020-05-12,ITA,Italy,Veneto,45.664735,11.84235,18782,1686,11906,5190,426,33,True,True
-2020-05-11,LVA,Latvia,Latvia,56.875584,24.607722,939,18,0,921,0,0,True,True
-2020-05-11,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
+2020-05-13,LVA,Latvia,Latvia,56.875584,24.607722,950,18,0,932,0,0,True,True
+2020-05-13,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False
-2020-05-11,LTU,Lithuania,Lithuania,55.174112,23.906736,1479,50,0,1429,0,0,True,True
+2020-05-13,LTU,Lithuania,Lithuania,55.174112,23.906736,1491,50,0,1441,0,0,True,True
 2020-05-12,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3894,102,886,2906,66,22,True,True
 2020-05-11,MLT,Malta,Malta,35.946151,14.384612,503,5,434,64,0,0,True,True
-2020-05-11,MDA,Moldova,Moldova,46.979527,28.377195,4927,169,0,4758,0,0,False,False
-2020-05-11,MCO,Monaco,Monaco,43.738348,7.424451,96,4,0,92,0,0,False,False
-2020-05-11,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
+2020-05-13,MDA,Moldova,Moldova,46.979527,28.377195,5154,182,0,4972,0,0,False,False
+2020-05-13,MCO,Monaco,Monaco,43.738348,7.424451,96,4,0,92,0,0,False,False
+2020-05-13,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
 2020-05-12,NLD,Netherlands,Drenthe,52.863149,6.623756,496,0,0,496,0,0,True,True
 2020-05-12,NLD,Netherlands,Flevoland,52.436257,5.519078,842,0,0,842,0,0,True,True
 2020-05-12,NLD,Netherlands,Friesland,53.089388,5.871457,583,0,0,583,0,0,True,True
@@ -291,7 +291,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,NLD,Netherlands,South Holland,51.968696,4.541274,9017,0,0,9017,0,0,True,True
 2020-05-12,NLD,Netherlands,Utrecht,52.078728,5.214048,3234,0,0,3234,0,0,True,True
 2020-05-12,NLD,Netherlands,Zeeland,51.312779,3.786651,625,0,0,625,0,0,True,True
-2020-05-11,MKD,North Macedonia,North Macedonia,41.611,21.751417,1642,91,0,1551,0,0,False,True
+2020-05-13,MKD,North Macedonia,North Macedonia,41.611,21.751417,1674,92,0,1582,0,0,False,True
 2020-05-12,NOR,Norway,Agder,58.699661,7.618403,336,0,0,336,0,0,False,True
 2020-05-12,NOR,Norway,Innlandet,61.43354,10.427144,467,0,0,467,0,0,False,True
 2020-05-12,NOR,Norway,Møre og Romsdal,62.543569,8.540539,129,0,0,129,0,0,False,True
@@ -330,49 +330,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
 2020-05-12,PRT,Portugal,Norte,41.457206,-7.678153,16053,660,0,15393,0,0,True,True
 2020-05-12,PRT,Portugal,NOT SPECIFIED,,,0,0,3013,-3013,709,113,True,True
-2020-05-12,ROU,Romania,Alba,46.172367,23.487279,235,0,0,235,0,0,True,True
-2020-05-12,ROU,Romania,Arad,46.273235,21.758454,679,0,0,679,0,0,True,True
-2020-05-12,ROU,Romania,Argeș,,,179,0,0,179,0,0,True,True
-2020-05-12,ROU,Romania,Bacău,,,384,0,0,384,0,0,True,True
-2020-05-12,ROU,Romania,Bihor,46.942178,22.210795,485,0,0,485,0,0,True,True
-2020-05-12,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,266,0,0,266,0,0,True,True
-2020-05-12,ROU,Romania,Botoșani,,,593,0,0,593,0,0,True,True
-2020-05-12,ROU,Romania,Brăila,,,19,0,0,19,0,0,True,True
-2020-05-12,ROU,Romania,Brașov,,,577,0,0,577,0,0,True,True
-2020-05-12,ROU,Romania,București,,,1519,0,0,1519,0,0,True,True
-2020-05-12,ROU,Romania,Buzău,,,66,0,0,66,0,0,True,True
-2020-05-12,ROU,Romania,Călărași,,,63,0,0,63,0,0,True,True
-2020-05-12,ROU,Romania,Caraș-Severin,,,109,0,0,109,0,0,True,True
-2020-05-12,ROU,Romania,Cluj,46.812237,23.53594,514,0,0,514,0,0,True,True
-2020-05-12,ROU,Romania,Costanza,,,251,0,0,251,0,0,True,True
-2020-05-12,ROU,Romania,Covasna,45.938093,25.990767,221,0,0,221,0,0,True,True
-2020-05-12,ROU,Romania,Dâmbovița,,,148,0,0,148,0,0,True,True
-2020-05-12,ROU,Romania,Dolj,44.140792,23.613526,145,0,0,145,0,0,True,True
-2020-05-12,ROU,Romania,Galați,,,514,0,0,514,0,0,True,True
-2020-05-12,ROU,Romania,Giurgiu,44.144127,25.881413,201,0,0,201,0,0,True,True
-2020-05-12,ROU,Romania,Gorj,45.004246,23.322863,78,0,0,78,0,0,True,True
-2020-05-12,ROU,Romania,Harghita,46.549997,25.558475,24,0,0,24,0,0,True,True
-2020-05-12,ROU,Romania,Hunedoara,45.753652,22.938806,565,0,0,565,0,0,True,True
-2020-05-12,ROU,Romania,Iași,,,311,0,0,311,0,0,True,True
-2020-05-12,ROU,Romania,Ialomița,,,289,0,0,289,0,0,True,True
-2020-05-12,ROU,Romania,Ilfov,44.286638,26.144699,375,0,0,375,0,0,True,True
-2020-05-12,ROU,Romania,Maramureș,47.671302,23.981463,71,0,0,71,0,0,True,True
-2020-05-12,ROU,Romania,Mehedinți,,,82,0,0,82,0,0,True,True
-2020-05-12,ROU,Romania,Mureș,,,602,0,0,602,0,0,True,True
-2020-05-12,ROU,Romania,Neamț,,,760,0,0,760,0,0,True,True
-2020-05-12,ROU,Romania,NOT SPECIFIED,,,60,991,7245,-8176,0,0,True,True
-2020-05-12,ROU,Romania,Olt,44.272504,24.439351,53,0,0,53,0,0,True,True
-2020-05-12,ROU,Romania,Prahova,45.114672,26.015788,76,0,0,76,0,0,True,True
-2020-05-12,ROU,Romania,Sălaj,,,50,0,0,50,0,0,True,True
-2020-05-12,ROU,Romania,Satu Mare,47.705953,22.898922,54,0,0,54,0,0,True,True
-2020-05-12,ROU,Romania,Sibiu,45.85906,24.245264,416,0,0,416,0,0,True,True
-2020-05-12,ROU,Romania,Suceava,47.637703,25.82751,3272,0,0,3272,0,0,True,True
-2020-05-12,ROU,Romania,Teleorman,44.027822,25.197899,101,0,0,101,0,0,True,True
-2020-05-12,ROU,Romania,Timiș,,,472,0,0,472,0,0,True,True
-2020-05-12,ROU,Romania,Tulcea,44.986929,28.858105,88,0,0,88,0,0,True,True
-2020-05-12,ROU,Romania,Vâlcea,,,26,0,0,26,0,0,True,True
-2020-05-12,ROU,Romania,Vaslui,46.526869,27.769395,133,0,0,133,0,0,True,True
-2020-05-12,ROU,Romania,Vrancea,45.788059,26.980214,462,0,0,462,0,0,True,True
+2020-05-13,ROU,Romania,Alba,46.172367,23.487279,250,0,0,250,0,0,True,True
+2020-05-13,ROU,Romania,Arad,46.273235,21.758454,680,0,0,680,0,0,True,True
+2020-05-13,ROU,Romania,Argeș,,,181,0,0,181,0,0,True,True
+2020-05-13,ROU,Romania,Bacău,,,388,0,0,388,0,0,True,True
+2020-05-13,ROU,Romania,Bihor,46.942178,22.210795,489,0,0,489,0,0,True,True
+2020-05-13,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,272,0,0,272,0,0,True,True
+2020-05-13,ROU,Romania,Botoșani,,,622,0,0,622,0,0,True,True
+2020-05-13,ROU,Romania,Brăila,,,19,0,0,19,0,0,True,True
+2020-05-13,ROU,Romania,Brașov,,,578,0,0,578,0,0,True,True
+2020-05-13,ROU,Romania,București,,,1528,0,0,1528,0,0,True,True
+2020-05-13,ROU,Romania,Buzău,,,83,0,0,83,0,0,True,True
+2020-05-13,ROU,Romania,Călărași,,,64,0,0,64,0,0,True,True
+2020-05-13,ROU,Romania,Caraș-Severin,,,109,0,0,109,0,0,True,True
+2020-05-13,ROU,Romania,Cluj,46.812237,23.53594,514,0,0,514,0,0,True,True
+2020-05-13,ROU,Romania,Costanza,,,252,0,0,252,0,0,True,True
+2020-05-13,ROU,Romania,Covasna,45.938093,25.990767,222,0,0,222,0,0,True,True
+2020-05-13,ROU,Romania,Dâmbovița,,,152,0,0,152,0,0,True,True
+2020-05-13,ROU,Romania,Dolj,44.140792,23.613526,150,0,0,150,0,0,True,True
+2020-05-13,ROU,Romania,Galați,,,519,0,0,519,0,0,True,True
+2020-05-13,ROU,Romania,Giurgiu,44.144127,25.881413,205,0,0,205,0,0,True,True
+2020-05-13,ROU,Romania,Gorj,45.004246,23.322863,82,0,0,82,0,0,True,True
+2020-05-13,ROU,Romania,Harghita,46.549997,25.558475,24,0,0,24,0,0,True,True
+2020-05-13,ROU,Romania,Hunedoara,45.753652,22.938806,568,0,0,568,0,0,True,True
+2020-05-13,ROU,Romania,Iași,,,325,0,0,325,0,0,True,True
+2020-05-13,ROU,Romania,Ialomița,,,296,0,0,296,0,0,True,True
+2020-05-13,ROU,Romania,Ilfov,44.286638,26.144699,379,0,0,379,0,0,True,True
+2020-05-13,ROU,Romania,Maramureș,47.671302,23.981463,71,0,0,71,0,0,True,True
+2020-05-13,ROU,Romania,Mehedinți,,,82,0,0,82,0,0,True,True
+2020-05-13,ROU,Romania,Mureș,,,608,0,0,608,0,0,True,True
+2020-05-13,ROU,Romania,Neamț,,,773,0,0,773,0,0,True,True
+2020-05-13,ROU,Romania,NOT SPECIFIED,,,58,1007,7685,-8634,0,0,True,True
+2020-05-13,ROU,Romania,Olt,44.272504,24.439351,51,0,0,51,0,0,True,True
+2020-05-13,ROU,Romania,Prahova,45.114672,26.015788,78,0,0,78,0,0,True,True
+2020-05-13,ROU,Romania,Sălaj,,,51,0,0,51,0,0,True,True
+2020-05-13,ROU,Romania,Satu Mare,47.705953,22.898922,54,0,0,54,0,0,True,True
+2020-05-13,ROU,Romania,Sibiu,45.85906,24.245264,424,0,0,424,0,0,True,True
+2020-05-13,ROU,Romania,Suceava,47.637703,25.82751,3283,0,0,3283,0,0,True,True
+2020-05-13,ROU,Romania,Teleorman,44.027822,25.197899,106,0,0,106,0,0,True,True
+2020-05-13,ROU,Romania,Timiș,,,472,0,0,472,0,0,True,True
+2020-05-13,ROU,Romania,Tulcea,44.986929,28.858105,90,0,0,90,0,0,True,True
+2020-05-13,ROU,Romania,Vâlcea,,,26,0,0,26,0,0,True,True
+2020-05-13,ROU,Romania,Vaslui,46.526869,27.769395,135,0,0,135,0,0,True,True
+2020-05-13,ROU,Romania,Vrancea,45.788059,26.980214,465,0,0,465,0,0,True,True
 2020-05-09,RUS,Russian Fed.,Adygea,44.448835,40.254013,220,0,0,220,0,0,False,False
 2020-05-09,RUS,Russian Fed.,Altai,52.477021,83.868816,641,0,0,641,0,0,False,False
 2020-05-09,RUS,Russian Fed.,Altai Republic,,,51,0,0,51,0,0,False,False
@@ -457,8 +457,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-09,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,1105,0,0,1105,0,0,False,False
 2020-05-09,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,1051,0,0,1051,0,0,False,False
 2020-05-09,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,272,0,0,272,0,0,False,False
-2020-05-11,SMR,San Marino,San Marino,43.942973,12.460035,628,41,0,587,0,0,False,False
-2020-05-11,SRB,Serbia,Serbia,44.206802,20.911009,10114,215,0,9899,0,0,False,True
+2020-05-13,SMR,San Marino,San Marino,43.942973,12.460035,638,41,0,597,0,0,False,False
+2020-05-13,SRB,Serbia,Serbia,44.206802,20.911009,10243,220,0,10023,0,0,False,True
 2020-05-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,99,0,0,99,0,0,True,True
 2020-05-12,SVK,Slovakia,Bratislava,48.319003,17.17481,361,0,0,361,0,0,True,True
 2020-05-12,SVK,Slovakia,Košice,48.771358,20.721931,237,0,0,237,0,0,True,True
@@ -524,35 +524,35 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,SWE,Sweden,Västernorrland,63.096635,17.251241,355,0,0,355,0,0,True,True
 2020-05-12,SWE,Sweden,Västmanland,59.801595,16.318208,928,0,0,928,0,0,True,True
 2020-05-12,SWE,Sweden,Västra Götaland,58.303302,12.891496,3679,0,0,3679,0,0,True,True
-2020-05-12,CHE,Switzerland,Aargau,47.410914,8.159107,1163,38,1030,95,14,2,False,False
-2020-05-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,98,3,0,95,7,2,False,False
-2020-05-12,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
-2020-05-12,CHE,Switzerland,Basel City,47.561925,7.592768,970,50,884,36,19,4,False,False
-2020-05-12,CHE,Switzerland,Basel Country,47.441812,7.7644,836,34,785,17,3,1,False,False
-2020-05-12,CHE,Switzerland,Bern,46.825006,7.626925,1835,92,0,1743,36,7,False,False
-2020-05-12,CHE,Switzerland,Fribourg,46.710334,7.09922,1129,83,137,909,26,5,False,False
-2020-05-12,CHE,Switzerland,Geneva,46.217114,6.131255,4976,267,709,4000,196,7,False,False
-2020-05-12,CHE,Switzerland,Glarus,46.980518,9.065544,127,12,0,115,2,0,False,False
-2020-05-12,CHE,Switzerland,Graubünden,46.658176,9.629923,820,45,0,775,11,0,False,False
-2020-05-12,CHE,Switzerland,Jura,47.368327,7.198733,202,7,0,195,4,3,False,False
-2020-05-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,1,80,0,0,False,False
-2020-05-12,CHE,Switzerland,Lucerne,47.06883,8.116991,713,19,0,694,29,5,False,False
-2020-05-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,709,77,0,632,13,1,False,False
-2020-05-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,117,3,0,114,1,1,False,False
-2020-05-12,CHE,Switzerland,Obwalden,46.857772,8.209745,79,0,1,78,2,0,False,False
-2020-05-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,802,36,210,556,22,1,False,False
-2020-05-12,CHE,Switzerland,Schwyz,47.06411,8.761568,78,6,0,72,4,3,False,False
-2020-05-12,CHE,Switzerland,Solothurn,47.336648,7.686944,421,15,0,406,12,0,False,False
-2020-05-12,CHE,Switzerland,St. Gallen,47.305025,9.019368,306,23,272,11,1,0,False,False
-2020-05-12,CHE,Switzerland,Thurgau,47.567205,9.112572,376,17,0,359,11,5,False,False
-2020-05-12,CHE,Switzerland,Ticino,46.297963,8.808447,3265,340,847,2078,77,10,False,False
-2020-05-12,CHE,Switzerland,Uri,46.775402,8.627444,92,7,75,10,1,0,False,False
-2020-05-12,CHE,Switzerland,Valais,46.211633,7.611267,1910,148,0,1762,42,9,False,False
-2020-05-12,CHE,Switzerland,Vaud,46.56176,6.648929,4844,389,0,4455,71,17,False,False
-2020-05-12,CHE,Switzerland,Zug,47.161402,8.538864,193,8,152,33,1,1,False,False
-2020-05-12,CHE,Switzerland,Zurich,47.417407,8.655988,3558,126,0,3432,44,0,False,False
+2020-05-13,CHE,Switzerland,Aargau,47.410914,8.159107,1167,42,1040,85,9,2,False,False
+2020-05-13,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,98,3,0,95,5,2,False,False
+2020-05-13,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
+2020-05-13,CHE,Switzerland,Basel City,47.561925,7.592768,970,50,892,28,15,3,False,False
+2020-05-13,CHE,Switzerland,Basel Country,47.441812,7.7644,837,34,789,14,3,1,False,False
+2020-05-13,CHE,Switzerland,Bern,46.825006,7.626925,1840,93,0,1747,35,6,False,False
+2020-05-13,CHE,Switzerland,Fribourg,46.710334,7.09922,1138,83,138,917,26,6,False,False
+2020-05-13,CHE,Switzerland,Geneva,46.217114,6.131255,4976,267,709,4000,196,7,False,False
+2020-05-13,CHE,Switzerland,Glarus,46.980518,9.065544,127,12,0,115,2,0,False,False
+2020-05-13,CHE,Switzerland,Graubünden,46.658176,9.629923,820,46,0,774,12,0,False,False
+2020-05-13,CHE,Switzerland,Jura,47.368327,7.198733,202,7,0,195,4,3,False,False
+2020-05-13,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,1,80,0,0,False,False
+2020-05-13,CHE,Switzerland,Lucerne,47.06883,8.116991,715,19,0,696,32,5,False,False
+2020-05-13,CHE,Switzerland,Neuchâtel,46.997282,6.782288,712,82,0,630,13,1,False,False
+2020-05-13,CHE,Switzerland,Nidwalden,46.922198,8.419375,118,3,0,115,1,1,False,False
+2020-05-13,CHE,Switzerland,Obwalden,46.857772,8.209745,79,0,1,78,2,0,False,False
+2020-05-13,CHE,Switzerland,Schaffhausen,47.721853,8.563863,802,36,210,556,22,1,False,False
+2020-05-13,CHE,Switzerland,Schwyz,47.06411,8.761568,78,6,0,72,8,3,False,False
+2020-05-13,CHE,Switzerland,Solothurn,47.336648,7.686944,421,15,0,406,12,0,False,False
+2020-05-13,CHE,Switzerland,St. Gallen,47.305025,9.019368,306,23,277,6,1,0,False,False
+2020-05-13,CHE,Switzerland,Thurgau,47.567205,9.112572,376,17,0,359,12,5,False,False
+2020-05-13,CHE,Switzerland,Ticino,46.297963,8.808447,3268,340,849,2079,79,9,False,False
+2020-05-13,CHE,Switzerland,Uri,46.775402,8.627444,92,7,75,10,3,0,False,False
+2020-05-13,CHE,Switzerland,Valais,46.211633,7.611267,1912,149,0,1763,41,9,False,False
+2020-05-13,CHE,Switzerland,Vaud,46.56176,6.648929,4844,399,0,4445,71,15,False,False
+2020-05-13,CHE,Switzerland,Zug,47.161402,8.538864,195,8,161,26,1,1,False,False
+2020-05-13,CHE,Switzerland,Zurich,47.417407,8.655988,3560,126,0,3434,44,0,False,False
 2020-05-01,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-12,TUR,Turkey,Turkey,38.961515,35.25175,141475,3894,0,137581,0,0,False,True
+2020-05-13,TUR,Turkey,Turkey,38.961515,35.25175,141475,3894,0,137581,0,0,False,True
 2020-05-12,UKR,Ukraine,Cherkasy,49.253559,31.378329,343,0,0,343,0,0,False,False
 2020-05-12,UKR,Ukraine,Chernihiv,51.347162,32.016707,79,0,0,79,0,0,False,False
 2020-05-12,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2396,0,0,2396,0,0,False,False
