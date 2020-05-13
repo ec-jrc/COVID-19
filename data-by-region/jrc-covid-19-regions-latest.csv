@@ -431,7 +431,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,RUS,Russian Fed.,Nenets,,,50,0,1,49,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,5087,32,744,4311,0,0,False,False
 2020-05-12,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,1723,12,305,1406,0,0,False,False
-2020-05-09,RUS,Russian Fed.,NOT SPECIFIED,,,0,1827,0,-1827,0,0,False,False
+2020-05-11,RUS,Russian Fed.,NOT SPECIFIED,,,0,2116,0,-2116,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Novgorod,58.280449,32.556615,541,5,117,419,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,1226,16,338,872,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Omsk,56.091609,73.362497,332,7,59,266,0,0,False,False
@@ -466,8 +466,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,RUS,Russian Fed.,Vologda,59.970929,40.523416,317,1,106,210,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Voronezh,50.959752,40.309955,943,12,355,576,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Yakutia,65.300749,134.148224,606,4,139,463,0,0,False,False
-2020-05-12,RUS,Russian Fed.,Yamalo-Nenets,,,1311,3,179,1129,0,0,False,False
-2020-05-09,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,1105,0,0,1105,0,0,False,False
+2020-05-12,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,1311,3,179,1129,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,1275,11,198,1066,0,0,False,False
 2020-05-12,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,364,1,132,231,0,0,False,False
 2020-05-13,SMR,San Marino,San Marino,43.942973,12.460035,638,41,0,597,0,0,False,False
