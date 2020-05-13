@@ -1,16 +1,18 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-05-12,ALB,Albania,Berat,40.6285,20.090775,5,0,0,5,0,0,False,False
-2020-05-12,ALB,Albania,Dibër,,,1,0,0,1,0,0,False,False
-2020-05-12,ALB,Albania,Durrës,41.518365,19.651766,177,6,0,171,0,0,False,False
-2020-05-12,ALB,Albania,Elbasan,41.040028,20.186454,20,0,0,20,0,0,False,False
-2020-05-12,ALB,Albania,Fier,40.774633,19.620528,50,3,0,47,0,0,False,False
+2020-05-13,ALB,Albania,Berat,40.6285,20.090775,5,0,4,1,0,0,False,False
+2020-05-13,ALB,Albania,Dibër,,,1,0,1,0,0,0,False,False
+2020-05-13,ALB,Albania,Durrës,41.518365,19.651766,177,6,119,52,8,0,False,False
+2020-05-13,ALB,Albania,Elbasan,41.040028,20.186454,20,0,18,2,1,0,False,False
+2020-05-13,ALB,Albania,Fier,40.774633,19.620528,50,3,42,5,3,0,False,False
+2020-05-13,ALB,Albania,Gjirokastër,,,0,0,0,0,0,0,False,False
+2020-05-13,ALB,Albania,Korçe,,,19,0,18,1,0,0,False,False
 2020-05-12,ALB,Albania,Korçë,40.62883,20.666004,19,0,0,19,0,0,False,False
-2020-05-12,ALB,Albania,Kukës,42.066696,20.419467,37,1,0,36,0,0,False,False
-2020-05-12,ALB,Albania,Lezhë,41.801452,19.845695,52,0,0,52,0,0,False,False
+2020-05-13,ALB,Albania,Kukës,42.066696,20.419467,37,1,36,0,0,0,False,False
+2020-05-13,ALB,Albania,Lezhë,41.801452,19.845695,52,0,48,4,0,0,False,False
 2020-05-04,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
-2020-05-12,ALB,Albania,Shkodër,42.17682,19.719451,121,2,0,119,0,0,False,False
-2020-05-12,ALB,Albania,Tiranë,41.268583,19.793936,389,18,0,371,0,0,False,False
-2020-05-12,ALB,Albania,Vlorë,40.162418,19.793592,5,1,0,4,0,0,False,False
+2020-05-13,ALB,Albania,Shkodër,42.17682,19.719451,121,2,103,16,0,1,False,False
+2020-05-13,ALB,Albania,Tiranë,41.268583,19.793936,389,18,289,82,11,0,False,False
+2020-05-13,ALB,Albania,Vlorë,40.162418,19.793592,5,1,4,0,0,0,False,False
 2020-05-13,AND,Andorra,Andorra,42.542268,1.596865,758,48,0,710,0,0,False,False
 2020-05-13,AUT,Austria,Burgenland,47.541449,16.520206,336,11,297,28,0,0,True,True
 2020-05-13,AUT,Austria,Kärnten,46.715832,14.455532,411,13,388,10,0,0,True,True
@@ -278,19 +280,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,MDA,Moldova,Moldova,46.979527,28.377195,5154,182,0,4972,0,0,False,False
 2020-05-13,MCO,Monaco,Monaco,43.738348,7.424451,96,4,0,92,0,0,False,False
 2020-05-13,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
-2020-05-12,NLD,Netherlands,Drenthe,52.863149,6.623756,496,0,0,496,0,0,True,True
-2020-05-12,NLD,Netherlands,Flevoland,52.436257,5.519078,842,0,0,842,0,0,True,True
-2020-05-12,NLD,Netherlands,Friesland,53.089388,5.871457,583,0,0,583,0,0,True,True
-2020-05-12,NLD,Netherlands,Gelderland,52.061726,5.945178,5497,0,0,5497,0,0,True,True
-2020-05-12,NLD,Netherlands,Groningen,53.291466,6.700488,351,0,0,351,0,0,True,True
-2020-05-12,NLD,Netherlands,Limburg,51.207579,5.936318,4434,0,0,4434,0,0,True,True
-2020-05-12,NLD,Netherlands,North Brabant,51.527534,5.590194,8718,0,0,8718,0,0,True,True
-2020-05-12,NLD,Netherlands,North Holland,52.551824,4.876581,6311,0,0,6311,0,0,True,True
-2020-05-12,NLD,Netherlands,NOT SPECIFIED,,,0,5510,0,-5510,0,0,True,True
-2020-05-12,NLD,Netherlands,Overijssel,52.445136,6.4476,2876,0,0,2876,0,0,True,True
-2020-05-12,NLD,Netherlands,South Holland,51.968696,4.541274,9017,0,0,9017,0,0,True,True
-2020-05-12,NLD,Netherlands,Utrecht,52.078728,5.214048,3234,0,0,3234,0,0,True,True
-2020-05-12,NLD,Netherlands,Zeeland,51.312779,3.786651,625,0,0,625,0,0,True,True
+2020-05-13,NLD,Netherlands,Drenthe,52.863149,6.623756,497,0,0,497,0,0,True,True
+2020-05-13,NLD,Netherlands,Flevoland,52.436257,5.519078,845,0,0,845,0,0,True,True
+2020-05-13,NLD,Netherlands,Friesland,53.089388,5.871457,585,0,0,585,0,0,True,True
+2020-05-13,NLD,Netherlands,Gelderland,52.061726,5.945178,5516,0,0,5516,0,0,True,True
+2020-05-13,NLD,Netherlands,Groningen,53.291466,6.700488,351,0,0,351,0,0,True,True
+2020-05-13,NLD,Netherlands,Limburg,51.207579,5.936318,4455,0,0,4455,0,0,True,True
+2020-05-13,NLD,Netherlands,North Brabant,51.527534,5.590194,8736,0,0,8736,0,0,True,True
+2020-05-13,NLD,Netherlands,North Holland,52.551824,4.876581,6343,0,0,6343,0,0,True,True
+2020-05-13,NLD,Netherlands,NOT SPECIFIED,,,0,5562,0,-5562,0,0,True,True
+2020-05-13,NLD,Netherlands,Overijssel,52.445136,6.4476,2889,0,0,2889,0,0,True,True
+2020-05-13,NLD,Netherlands,South Holland,51.968696,4.541274,9114,0,0,9114,0,0,True,True
+2020-05-13,NLD,Netherlands,Utrecht,52.078728,5.214048,3254,0,0,3254,0,0,True,True
+2020-05-13,NLD,Netherlands,Zeeland,51.312779,3.786651,626,0,0,626,0,0,True,True
 2020-05-13,MKD,North Macedonia,North Macedonia,41.611,21.751417,1674,92,0,1582,0,0,False,True
 2020-05-13,NOR,Norway,Agder,58.699661,7.618403,336,0,0,336,0,0,False,True
 2020-05-13,NOR,Norway,Innlandet,61.43354,10.427144,467,0,0,467,0,0,False,True
@@ -552,7 +554,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,CHE,Switzerland,Zug,47.161402,8.538864,195,8,161,26,1,1,False,False
 2020-05-13,CHE,Switzerland,Zurich,47.417407,8.655988,3560,126,0,3434,44,0,False,False
 2020-05-01,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-13,TUR,Turkey,Turkey,38.961515,35.25175,141475,3894,0,137581,0,0,False,True
+2020-05-13,TUR,Turkey,Turkey,38.961515,35.25175,143114,3952,0,139162,0,0,False,True
 2020-05-13,UKR,Ukraine,Cherkasy,49.253559,31.378329,346,0,0,346,0,0,False,False
 2020-05-13,UKR,Ukraine,Chernihiv,51.347162,32.016707,79,0,0,79,0,0,False,False
 2020-05-13,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2444,0,0,2444,0,0,False,False
