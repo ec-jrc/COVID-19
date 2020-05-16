@@ -33216,6 +33216,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-15,UKR,Ukraine,Volyn,51.202858,24.883489,582,0,0,582,0,0,False,False
 2020-05-15,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,356,0,0,356,0,0,False,False
 2020-05-15,UKR,Ukraine,Zhytomyr,50.642612,28.484557,538,0,0,538,0,0,False,False
+2020-05-15,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,964,0,0,964,0,0,False,True
+2020-05-15,GBR,United Kingdom,Borders,55.572787,-2.786355,304,0,0,304,0,0,False,True
+2020-05-15,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,255,0,0,255,0,0,False,True
+2020-05-15,GBR,United Kingdom,East of England,52.248898,0.548756,12871,0,0,12871,0,0,False,True
+2020-05-15,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-05-15,GBR,United Kingdom,England,,,5849,30364,0,-24515,0,0,False,True
+2020-05-15,GBR,United Kingdom,Fife,56.228968,-3.118568,824,0,0,824,0,0,False,True
+2020-05-15,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,867,0,0,867,0,0,False,True
+2020-05-15,GBR,United Kingdom,Grampian,57.299016,-2.780773,1152,0,0,1152,0,0,False,True
+2020-05-15,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3663,0,0,3663,0,0,False,True
+2020-05-15,GBR,United Kingdom,Highland,57.363501,-4.733034,331,0,0,331,0,0,False,True
+2020-05-15,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1781,0,0,1781,0,0,False,True
+2020-05-15,GBR,United Kingdom,London,51.497136,-0.100571,26193,0,0,26193,0,0,False,True
+2020-05-15,GBR,United Kingdom,Lothian,55.946009,-2.728265,2497,0,0,2497,0,0,False,True
+2020-05-15,GBR,United Kingdom,Midlands,52.718351,-1.45667,23658,0,0,23658,0,0,False,True
+2020-05-15,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,22352,0,0,22352,0,0,False,True
+2020-05-15,GBR,United Kingdom,North West,53.524488,-2.333125,23302,0,0,23302,0,0,False,True
+2020-05-15,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4317,454,0,3863,0,0,False,True
+2020-05-15,GBR,United Kingdom,NOT SPECIFIED,,,64787,0,0,64787,0,0,False,True
+2020-05-15,GBR,United Kingdom,Orkney,58.98094,-2.960521,7,0,0,7,0,0,False,True
+2020-05-15,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2007,0,-2007,0,0,False,True
+2020-05-15,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-05-15,GBR,United Kingdom,South East,51.291417,-0.521902,19935,0,0,19935,0,0,False,True
+2020-05-15,GBR,United Kingdom,South West,51.239761,-2.54375,7227,0,0,7227,0,0,False,True
+2020-05-15,GBR,United Kingdom,Tayside,56.610323,-3.555213,1555,0,0,1555,0,0,False,True
+2020-05-15,GBR,United Kingdom,Wales,52.302413,-3.738347,11960,1173,0,10787,0,0,False,True
 2020-05-16,AND,Andorra,Andorra,42.542268,1.596865,761,49,0,712,0,0,False,False
 2020-05-16,AUT,Austria,Burgenland,47.541449,16.520206,337,11,308,18,0,0,True,True
 2020-05-16,AUT,Austria,Kärnten,46.715832,14.455532,411,13,390,8,0,0,True,True
@@ -33297,8 +33323,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-16,CZE,Czech Republic,Ústecký,50.488308,13.816736,518,0,0,518,0,0,True,True
 2020-05-16,CZE,Czech Republic,Vysocina,49.40736,15.689937,181,0,0,181,0,0,True,True
 2020-05-16,CZE,Czech Republic,Zlínský,49.239654,17.770218,344,0,0,344,0,0,True,True
-2020-05-16,DNK,Denmark,Faroe,62.194921,-7.096614,8837,187,0,8650,0,0,True,True
-2020-05-16,DNK,Denmark,Greenland,71.702379,-42.177174,1629,11,0,1618,0,0,True,True
+2020-05-16,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-16,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
 2020-05-16,DNK,Denmark,Hovedstaden,55.675758,12.56902,6107,314,0,5793,0,0,True,True
 2020-05-16,DNK,Denmark,Midtjylland,56.302139,9.302777,1555,69,0,1486,0,0,True,True
 2020-05-16,DNK,Denmark,Nordjylland,56.830742,9.493053,424,21,0,403,0,0,True,True
@@ -33379,6 +33405,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-16,LVA,Latvia,Latvia,56.875584,24.607722,970,19,0,951,0,0,True,True
 2020-05-16,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-16,LTU,Lithuania,Lithuania,55.174112,23.906736,1523,54,0,1469,0,0,True,True
+2020-05-16,LUX,Luxembourg,Luxembourg,49.815764,6.131514,3930,104,900,2926,58,15,True,True
 2020-05-16,MLT,Malta,Malta,35.946151,14.384612,546,6,450,90,0,0,True,True
 2020-05-16,MDA,Moldova,Moldova,46.979527,28.377195,5745,197,0,5548,0,0,False,False
 2020-05-16,MCO,Monaco,Monaco,43.738348,7.424451,96,5,0,91,0,0,False,False
