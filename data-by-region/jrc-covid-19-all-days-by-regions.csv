@@ -457,7 +457,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-04,DEU,Germany,Sachsen,51.052334,13.348561,1,,,,,,True,True
 2020-03-04,DEU,Germany,Schleswig Holstein,54.0295,9.705555,2,,,,,,True,True
 2020-03-04,DEU,Germany,Thüringen,50.903878,11.02488,1,,,,,,True,True
-2020-03-04,HUN,Hungary,Hungary,47.164638,19.508944,2,0,0,2,0,0,True,True
+2020-03-04,HUN,Hungary,NOT SPECIFIED,,,2,0,0,2,0,0,True,True
 2020-03-04,ITA,Italy,Abruzzo,42.228034,13.855137,7,0,0,7,7,0,True,True
 2020-03-04,ITA,Italy,Basilicata,40.500665,16.082246,1,0,0,1,0,0,True,True
 2020-03-04,ITA,Italy,Bolzano,46.697344,11.417082,1,0,0,1,1,0,True,True
@@ -590,7 +590,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-05,DEU,Germany,Sachsen,51.052334,13.348561,1,,,,,,True,True
 2020-03-05,DEU,Germany,Schleswig Holstein,54.0295,9.705555,7,,,,,,True,True
 2020-03-05,DEU,Germany,Thüringen,50.903878,11.02488,1,,,,,,True,True
-2020-03-05,HUN,Hungary,Hungary,47.164638,19.508944,4,0,0,4,0,0,True,True
+2020-03-05,HUN,Hungary,NOT SPECIFIED,,,4,0,0,4,0,0,True,True
 2020-03-05,ITA,Italy,Abruzzo,42.228034,13.855137,8,0,0,8,8,0,True,True
 2020-03-05,ITA,Italy,Basilicata,40.500665,16.082246,1,0,0,1,0,0,True,True
 2020-03-05,ITA,Italy,Bolzano,46.697344,11.417082,1,0,0,1,1,0,True,True
@@ -710,7 +710,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-06,DEU,Germany,Sachsen,51.052334,13.348561,2,,,,,,True,True
 2020-03-06,DEU,Germany,Schleswig Holstein,54.0295,9.705555,7,,,,,,True,True
 2020-03-06,DEU,Germany,Thüringen,50.903878,11.02488,1,,,,,,True,True
-2020-03-06,HUN,Hungary,Hungary,47.164638,19.508944,4,0,0,4,0,0,True,True
+2020-03-06,HUN,Hungary,NOT SPECIFIED,,,4,0,0,4,0,0,True,True
 2020-03-06,ITA,Italy,Abruzzo,42.228034,13.855137,9,0,0,9,9,0,True,True
 2020-03-06,ITA,Italy,Basilicata,40.500665,16.082246,3,0,0,3,1,0,True,True
 2020-03-06,ITA,Italy,Bolzano,46.697344,11.417082,4,0,0,4,4,0,True,True
@@ -831,7 +831,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-07,DEU,Germany,Sachsen,51.052334,13.348561,4,,,,,,True,True
 2020-03-07,DEU,Germany,Schleswig Holstein,54.0295,9.705555,8,,,,,,True,True
 2020-03-07,DEU,Germany,Thüringen,50.903878,11.02488,2,,,,,,True,True
-2020-03-07,HUN,Hungary,Hungary,47.164638,19.508944,5,0,0,5,0,0,True,True
+2020-03-07,HUN,Hungary,NOT SPECIFIED,,,5,0,0,5,0,0,True,True
 2020-03-07,ITA,Italy,Abruzzo,42.228034,13.855137,11,0,0,11,11,0,True,True
 2020-03-07,ITA,Italy,Basilicata,40.500665,16.082246,3,0,0,3,1,0,True,True
 2020-03-07,ITA,Italy,Bolzano,46.697344,11.417082,9,0,0,9,8,0,True,True
@@ -924,7 +924,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-08,DEU,Germany,Sachsen,51.052334,13.348561,7,,,,,,True,True
 2020-03-08,DEU,Germany,Schleswig Holstein,54.0295,9.705555,9,,,,,,True,True
 2020-03-08,DEU,Germany,Thüringen,50.903878,11.02488,2,,,,,,True,True
-2020-03-08,HUN,Hungary,Hungary,47.164638,19.508944,7,0,0,7,0,0,True,True
+2020-03-08,HUN,Hungary,NOT SPECIFIED,,,7,0,0,7,0,0,True,True
 2020-03-08,ITA,Italy,Abruzzo,42.228034,13.855137,17,0,0,17,14,0,True,True
 2020-03-08,ITA,Italy,Basilicata,40.500665,16.082246,4,0,0,4,2,0,True,True
 2020-03-08,ITA,Italy,Bolzano,46.697344,11.417082,9,0,0,9,8,0,True,True
@@ -1021,7 +1021,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-09,DEU,Germany,Sachsen,51.052334,13.348561,12,,,,,,True,True
 2020-03-09,DEU,Germany,Schleswig Holstein,54.0295,9.705555,9,,,,,,True,True
 2020-03-09,DEU,Germany,Thüringen,50.903878,11.02488,2,,,,,,True,True
-2020-03-09,HUN,Hungary,Hungary,47.164638,19.508944,9,0,0,9,0,0,True,True
+2020-03-09,HUN,Hungary,NOT SPECIFIED,,,9,0,0,9,0,0,True,True
 2020-03-09,ITA,Italy,Abruzzo,42.228034,13.855137,30,0,0,30,25,0,True,True
 2020-03-09,ITA,Italy,Basilicata,40.500665,16.082246,5,0,0,5,2,0,True,True
 2020-03-09,ITA,Italy,Bolzano,46.697344,11.417082,9,0,0,9,8,0,True,True
@@ -1151,7 +1151,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-10,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,7,,,,,,True,True
 2020-03-10,DEU,Germany,Schleswig Holstein,54.0295,9.705555,9,,,,,,True,True
 2020-03-10,DEU,Germany,Thüringen,50.903878,11.02488,4,,,,,,True,True
-2020-03-10,HUN,Hungary,Hungary,47.164638,19.508944,12,0,0,12,0,0,True,True
+2020-03-10,HUN,Hungary,NOT SPECIFIED,,,12,0,0,12,0,0,True,True
 2020-03-10,IRL,Ireland,Ireland,53.41975,-8.240472,34,0,0,34,,,True,True
 2020-03-10,ITA,Italy,Abruzzo,42.228034,13.855137,38,1,0,37,26,9,True,True
 2020-03-10,ITA,Italy,Basilicata,40.500665,16.082246,7,0,0,7,2,0,True,True
@@ -1308,7 +1308,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-11,DEU,Germany,Schleswig Holstein,54.0295,9.705555,27,,,,,,True,True
 2020-03-11,DEU,Germany,Thüringen,50.903878,11.02488,10,,,,,,True,True
 2020-03-11,GRC,Greece,NOT SPECIFIED,,,99,0,0,99,,,True,True
-2020-03-11,HUN,Hungary,Hungary,47.164638,19.508944,13,0,0,13,0,0,True,True
+2020-03-11,HUN,Hungary,NOT SPECIFIED,,,13,0,0,13,0,0,True,True
 2020-03-11,IRL,Ireland,Ireland,53.41975,-8.240472,43,0,0,43,,,True,True
 2020-03-11,ITA,Italy,Abruzzo,42.228034,13.855137,38,1,0,37,26,9,True,True
 2020-03-11,ITA,Italy,Basilicata,40.500665,16.082246,8,0,0,8,2,1,True,True
@@ -1497,7 +1497,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-12,DEU,Germany,Schleswig Holstein,54.0295,9.705555,31,,,,,,True,True
 2020-03-12,DEU,Germany,Thüringen,50.903878,11.02488,14,,,,,,True,True
 2020-03-12,GRC,Greece,NOT SPECIFIED,,,99,0,0,99,,,True,True
-2020-03-12,HUN,Hungary,Hungary,47.164638,19.508944,15,0,0,15,0,0,True,True
+2020-03-12,HUN,Hungary,NOT SPECIFIED,,,15,0,0,15,0,0,True,True
 2020-03-12,ITA,Italy,Abruzzo,42.228034,13.855137,84,2,4,78,59,12,True,True
 2020-03-12,ITA,Italy,Basilicata,40.500665,16.082246,8,0,0,8,2,1,True,True
 2020-03-12,ITA,Italy,Bolzano,46.697344,11.417082,104,1,0,103,25,4,True,True
@@ -1676,7 +1676,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-13,GRC,Greece,Serron,41.09138,23.52362,7,0,0,7,0,0,True,True
 2020-03-13,GRC,Greece,Tessaloniki,40.687597,23.115933,8,0,0,8,,,True,True
 2020-03-13,GRC,Greece,Zakynthos,37.785045,20.774553,4,0,0,4,,,True,True
-2020-03-13,HUN,Hungary,Hungary,47.164638,19.508944,18,0,0,18,0,0,True,True
+2020-03-13,HUN,Hungary,NOT SPECIFIED,,,18,0,0,18,0,0,True,True
 2020-03-13,IRL,Ireland,Ireland,53.41975,-8.240472,70,1,0,69,,,True,True
 2020-03-13,ITA,Italy,Abruzzo,42.228034,13.855137,89,2,4,83,56,14,True,True
 2020-03-13,ITA,Italy,Basilicata,40.500665,16.082246,10,0,0,10,2,1,True,True
@@ -1869,7 +1869,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-14,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,45,,,,,,True,True
 2020-03-14,DEU,Germany,Schleswig Holstein,54.0295,9.705555,60,,,,,,True,True
 2020-03-14,DEU,Germany,Thüringen,50.903878,11.02488,46,,,,,,True,True
-2020-03-14,HUN,Hungary,Hungary,47.164638,19.508944,29,0,0,29,0,0,True,True
+2020-03-14,HUN,Hungary,NOT SPECIFIED,,,29,0,0,29,0,0,True,True
 2020-03-14,ITA,Italy,Abruzzo,42.228034,13.855137,112,2,4,106,65,14,True,True
 2020-03-14,ITA,Italy,Basilicata,40.500665,16.082246,10,0,0,10,2,2,True,True
 2020-03-14,ITA,Italy,Bolzano,46.697344,11.417082,173,3,0,170,33,7,True,True
@@ -2014,7 +2014,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-15,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,47,,,,,,True,True
 2020-03-15,DEU,Germany,Schleswig Holstein,54.0295,9.705555,103,,,,,,True,True
 2020-03-15,DEU,Germany,Thüringen,50.903878,11.02488,51,,,,,,True,True
-2020-03-15,HUN,Hungary,Hungary,47.164638,19.508944,30,0,0,30,0,0,True,True
+2020-03-15,HUN,Hungary,NOT SPECIFIED,,,30,0,0,30,0,0,True,True
 2020-03-15,ITA,Italy,Abruzzo,42.228034,13.855137,137,3,6,128,100,28,True,True
 2020-03-15,ITA,Italy,Basilicata,40.500665,16.082246,11,0,0,11,2,2,True,True
 2020-03-15,ITA,Italy,Bolzano,46.697344,11.417082,204,5,0,199,54,4,True,True
@@ -2183,8 +2183,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-16,GRC,Greece,Tessaloniki,40.687597,23.115933,11,0,0,11,,,True,True
 2020-03-16,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-16,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-16,HUN,Hungary,Hungary,47.164638,19.508944,36,0,0,36,0,0,True,True
-2020-03-16,HUN,Hungary,NOT SPECIFIED,,,0,1,0,-1,0,0,True,True
+2020-03-16,HUN,Hungary,NOT SPECIFIED,,,36,1,0,35,0,0,True,True
 2020-03-16,IRL,Ireland,Ireland,53.41975,-8.240472,169,1,0,168,,,True,True
 2020-03-16,ITA,Italy,Abruzzo,42.228034,13.855137,176,4,7,165,108,37,True,True
 2020-03-16,ITA,Italy,Basilicata,40.500665,16.082246,12,0,0,12,3,2,True,True
@@ -2437,8 +2436,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,GRC,Greece,Tessaloniki,40.687597,23.115933,11,0,0,11,,,True,True
 2020-03-17,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-17,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-17,HUN,Hungary,Hungary,47.164638,19.508944,47,0,0,47,0,0,True,True
-2020-03-17,HUN,Hungary,NOT SPECIFIED,,,0,1,0,-1,0,0,True,True
+2020-03-17,HUN,Hungary,NOT SPECIFIED,,,47,1,0,46,0,0,True,True
 2020-03-17,ITA,Italy,Abruzzo,42.228034,13.855137,229,6,7,216,126,32,True,True
 2020-03-17,ITA,Italy,Basilicata,40.500665,16.082246,20,0,0,20,7,2,True,True
 2020-03-17,ITA,Italy,Bolzano,46.697344,11.417082,291,8,1,282,82,11,True,True
@@ -2697,8 +2695,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-18,GRC,Greece,Tessaloniki,40.687597,23.115933,11,0,0,11,,,True,True
 2020-03-18,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-18,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-18,HUN,Hungary,Hungary,47.164638,19.508944,55,0,0,55,0,0,True,True
-2020-03-18,HUN,Hungary,NOT SPECIFIED,,,0,1,0,-1,0,0,True,True
+2020-03-18,HUN,Hungary,NOT SPECIFIED,,,55,1,0,54,0,0,True,True
 2020-03-18,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,224,0,0,224,,,False,True
 2020-03-18,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,1,0,0,1,,,False,True
 2020-03-18,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,1,0,0,1,,,False,True
@@ -2990,8 +2987,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Xanthis,41.168776,24.88364,1,0,0,1,,,True,True
 2020-03-19,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-19,HUN,Hungary,Hungary,47.164638,19.508944,70,0,0,70,0,0,True,True
-2020-03-19,HUN,Hungary,NOT SPECIFIED,,,0,1,0,-1,0,0,True,True
+2020-03-19,HUN,Hungary,NOT SPECIFIED,,,70,1,0,69,0,0,True,True
 2020-03-19,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,287,0,0,287,,,False,True
 2020-03-19,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,2,0,0,2,,,False,True
 2020-03-19,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,1,0,0,1,,,False,True
@@ -3261,8 +3257,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-20,GRC,Greece,West Attica,38.092941,23.395355,1,0,0,1,,,True,True
 2020-03-20,GRC,Greece,Xanthis,41.168776,24.88364,1,0,0,1,,,True,True
 2020-03-20,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-20,HUN,Hungary,Hungary,47.164638,19.508944,74,0,0,74,0,0,True,True
-2020-03-20,HUN,Hungary,NOT SPECIFIED,,,0,4,0,-4,0,0,True,True
+2020-03-20,HUN,Hungary,NOT SPECIFIED,,,74,4,0,70,0,0,True,True
 2020-03-20,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,349,0,0,349,,,False,True
 2020-03-20,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,2,0,0,2,,,False,True
 2020-03-20,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,2,0,0,2,,,False,True
@@ -3540,8 +3535,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-21,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,188,,,,,,True,True
 2020-03-21,DEU,Germany,Schleswig Holstein,54.0295,9.705555,308,1,,,,,True,True
 2020-03-21,DEU,Germany,Thüringen,50.903878,11.02488,187,,,,,,True,True
-2020-03-21,HUN,Hungary,Hungary,47.164638,19.508944,92,0,0,92,0,0,True,True
-2020-03-21,HUN,Hungary,NOT SPECIFIED,,,0,4,0,-4,0,0,True,True
+2020-03-21,HUN,Hungary,NOT SPECIFIED,,,92,4,0,88,0,0,True,True
 2020-03-21,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,404,0,0,404,,,False,True
 2020-03-21,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,2,0,0,2,,,False,True
 2020-03-21,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,4,0,0,4,,,False,True
@@ -3826,8 +3820,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,211,0,0,211,,,True,True
 2020-03-22,DEU,Germany,Schleswig Holstein,54.0295,9.705555,347,1,0,346,,,True,True
 2020-03-22,DEU,Germany,Thüringen,50.903878,11.02488,216,0,0,216,,,True,True
-2020-03-22,HUN,Hungary,Hungary,47.164638,19.508944,109,0,0,109,0,0,True,True
-2020-03-22,HUN,Hungary,NOT SPECIFIED,,,0,6,0,-6,0,0,True,True
+2020-03-22,HUN,Hungary,NOT SPECIFIED,,,109,6,0,103,0,0,True,True
 2020-03-22,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,464,0,0,464,,,False,True
 2020-03-22,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,5,0,0,5,,,False,True
 2020-03-22,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,5,0,0,5,,,False,True
@@ -4194,8 +4187,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-23,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,,,True,True
 2020-03-23,GRC,Greece,Xanthis,41.168776,24.88364,4,0,0,4,,,True,True
 2020-03-23,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-23,HUN,Hungary,Hungary,47.164638,19.508944,138,0,0,138,0,0,True,True
-2020-03-23,HUN,Hungary,NOT SPECIFIED,,,0,8,0,-8,0,0,True,True
+2020-03-23,HUN,Hungary,NOT SPECIFIED,,,138,8,0,130,0,0,True,True
 2020-03-23,ISL,Iceland,Abroad,,,0,0,0,0,,,False,True
 2020-03-23,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,473,0,0,473,,,False,True
 2020-03-23,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,5,0,0,5,,,False,True
@@ -4588,8 +4580,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-24,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,,,True,True
 2020-03-24,GRC,Greece,Xanthis,41.168776,24.88364,4,0,0,4,,,True,True
 2020-03-24,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-24,HUN,Hungary,Hungary,47.164638,19.508944,157,0,0,157,0,0,True,True
-2020-03-24,HUN,Hungary,NOT SPECIFIED,,,0,9,0,-9,0,0,True,True
+2020-03-24,HUN,Hungary,NOT SPECIFIED,,,157,9,0,148,0,0,True,True
 2020-03-24,ISL,Iceland,East Iceland,64.832997,-15.743398,1,0,0,1,,,False,True
 2020-03-24,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,509,0,0,509,,,False,True
 2020-03-24,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,8,0,0,8,,,False,True
@@ -4994,8 +4985,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,,,True,True
 2020-03-25,GRC,Greece,Xanthis,41.168776,24.88364,4,0,0,4,,,True,True
 2020-03-25,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,,,True,True
-2020-03-25,HUN,Hungary,Hungary,47.164638,19.508944,195,0,0,195,0,0,True,True
-2020-03-25,HUN,Hungary,NOT SPECIFIED,,,0,10,0,-10,0,0,True,True
+2020-03-25,HUN,Hungary,NOT SPECIFIED,,,195,10,0,185,0,0,True,True
 2020-03-25,ISL,Iceland,East Iceland,64.832997,-15.743398,2,0,0,2,,,False,True
 2020-03-25,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,578,0,0,578,,,False,True
 2020-03-25,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,11,0,0,11,,,False,True
@@ -5433,8 +5423,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-26,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,0,0,True,True
 2020-03-26,GRC,Greece,Xanthis,41.168776,24.88364,8,2,0,6,0,0,True,True
 2020-03-26,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-26,HUN,Hungary,Hungary,47.164638,19.508944,223,0,0,223,0,0,True,True
-2020-03-26,HUN,Hungary,NOT SPECIFIED,,,0,10,0,-10,0,0,True,True
+2020-03-26,HUN,Hungary,NOT SPECIFIED,,,223,10,0,213,0,0,True,True
 2020-03-26,ISL,Iceland,East Iceland,64.832997,-15.743398,3,0,0,3,0,0,False,True
 2020-03-26,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,620,0,0,620,0,0,False,True
 2020-03-26,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,13,0,0,13,0,0,False,True
@@ -5848,8 +5837,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-27,GRC,Greece,West Attica,38.092941,23.395355,5,0,0,5,0,0,True,True
 2020-03-27,GRC,Greece,Xanthis,41.168776,24.88364,11,2,0,9,0,0,True,True
 2020-03-27,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-27,HUN,Hungary,Hungary,47.164638,19.508944,256,0,0,256,0,0,True,True
-2020-03-27,HUN,Hungary,NOT SPECIFIED,,,0,10,0,-10,0,0,True,True
+2020-03-27,HUN,Hungary,NOT SPECIFIED,,,256,10,0,246,0,0,True,True
 2020-03-27,ISL,Iceland,East Iceland,64.832997,-15.743398,3,0,0,3,0,0,False,True
 2020-03-27,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,686,0,0,686,0,0,False,True
 2020-03-27,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,16,0,0,16,0,0,False,True
@@ -6246,8 +6234,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-28,GRC,Greece,West Attica,38.092941,23.395355,5,0,0,5,0,0,True,True
 2020-03-28,GRC,Greece,Xanthis,41.168776,24.88364,11,2,0,9,0,0,True,True
 2020-03-28,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-28,HUN,Hungary,Hungary,47.164638,19.508944,298,0,0,298,0,0,True,True
-2020-03-28,HUN,Hungary,NOT SPECIFIED,,,0,11,0,-11,0,0,True,True
+2020-03-28,HUN,Hungary,NOT SPECIFIED,,,298,11,0,287,0,0,True,True
 2020-03-28,ISL,Iceland,East Iceland,64.832997,-15.743398,4,0,0,4,0,0,False,True
 2020-03-28,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,739,0,0,739,0,0,False,True
 2020-03-28,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,19,0,0,19,0,0,False,True
@@ -6670,8 +6657,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-29,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,0,0,True,True
 2020-03-29,GRC,Greece,Xanthis,41.168776,24.88364,14,3,0,11,0,0,True,True
 2020-03-29,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-29,HUN,Hungary,Hungary,47.164638,19.508944,361,0,0,361,0,0,True,True
-2020-03-29,HUN,Hungary,NOT SPECIFIED,,,0,13,0,-13,0,0,True,True
+2020-03-29,HUN,Hungary,NOT SPECIFIED,,,361,13,0,348,0,0,True,True
 2020-03-29,ISL,Iceland,East Iceland,64.832997,-15.743398,5,0,0,5,0,0,False,True
 2020-03-29,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,773,0,0,773,0,0,False,True
 2020-03-29,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,22,0,0,22,0,0,False,True
@@ -7133,8 +7119,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-30,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,0,0,True,True
 2020-03-30,GRC,Greece,Xanthis,41.168776,24.88364,14,4,0,10,0,0,True,True
 2020-03-30,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-30,HUN,Hungary,Hungary,47.164638,19.508944,398,0,0,398,0,0,True,True
-2020-03-30,HUN,Hungary,NOT SPECIFIED,,,0,15,0,-15,0,0,True,True
+2020-03-30,HUN,Hungary,NOT SPECIFIED,,,398,15,0,383,0,0,True,True
 2020-03-30,ISL,Iceland,East Iceland,64.832997,-15.743398,5,0,0,5,0,0,False,True
 2020-03-30,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,822,0,0,822,0,0,False,True
 2020-03-30,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,31,0,0,31,0,0,False,True
@@ -7625,8 +7610,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-31,GRC,Greece,West Attica,38.092941,23.395355,4,0,0,4,0,0,True,True
 2020-03-31,GRC,Greece,Xanthis,41.168776,24.88364,14,4,0,10,0,0,True,True
 2020-03-31,GRC,Greece,Zakynthos,37.785045,20.774553,5,1,0,4,0,0,True,True
-2020-03-31,HUN,Hungary,Hungary,47.164638,19.508944,439,0,0,439,0,0,True,True
-2020-03-31,HUN,Hungary,NOT SPECIFIED,,,0,16,0,-16,0,0,True,True
+2020-03-31,HUN,Hungary,NOT SPECIFIED,,,439,16,0,423,0,0,True,True
 2020-03-31,ISL,Iceland,East Iceland,64.832997,-15.743398,5,0,0,5,0,0,False,True
 2020-03-31,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,853,0,0,853,0,0,False,True
 2020-03-31,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,33,0,0,33,0,0,False,True
