@@ -1,5 +1,5 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-05-17,ALB,Albania,Berat,40.6285,20.090775,4,0,4,0,0,0,False,False
+2020-05-17,ALB,Albania,Berat,40.6285,20.090775,14,0,4,10,0,0,False,False
 2020-05-17,ALB,Albania,Dib?r,,,1,0,1,0,0,0,False,False
 2020-05-13,ALB,Albania,Dibër,,,1,0,1,0,0,0,False,False
 2020-05-17,ALB,Albania,Durr?s,,,200,6,131,63,5,1,False,False
@@ -17,7 +17,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,ALB,Albania,NOT SPECIFIED,,,0,31,0,-31,0,0,False,False
 2020-05-17,ALB,Albania,Shkod?r,,,121,2,104,15,0,1,False,False
 2020-05-13,ALB,Albania,Shkodër,42.17682,19.719451,121,2,103,16,0,1,False,False
-2020-05-17,ALB,Albania,Tiran?,,,141,18,306,-183,7,1,False,False
+2020-05-17,ALB,Albania,Tiran?,,,414,18,306,90,7,1,False,False
 2020-05-13,ALB,Albania,Tiranë,41.268583,19.793936,402,18,291,93,8,1,False,False
 2020-05-17,ALB,Albania,Vlor?,,,5,1,4,0,0,0,False,False
 2020-05-13,ALB,Albania,Vlorë,40.162418,19.793592,5,1,4,0,0,0,False,False
