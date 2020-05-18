@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-18,BEL,Belgium,Flanders,51.036569,4.234165,31023,4515,0,26508,9195,0,True,True
 2020-05-18,BEL,Belgium,NOT SPECIFIED,,,1050,0,0,1050,0,0,True,True
 2020-05-18,BEL,Belgium,Wallonia,50.312074,5.019093,17829,3165,0,14664,5040,0,True,True
-2020-05-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1004,31,0,973,0,0,False,False
+2020-05-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1006,37,0,969,0,0,False,False
 2020-05-18,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,116,7,2,107,0,0,True,True
 2020-05-18,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
 2020-05-18,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -104,7 +104,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-18,DNK,Denmark,NOT SPECIFIED,,,65,0,0,65,0,0,True,True
 2020-05-18,DNK,Denmark,Sjælland,55.92481,11.67126,1761,111,0,1650,0,0,True,True
 2020-05-18,DNK,Denmark,Syddanmark,55.675758,12.56902,968,30,0,938,0,0,True,True
-2020-05-17,EST,Estonia,Estonia,58.596209,25.023778,1774,63,0,1711,0,0,True,True
+2020-05-18,EST,Estonia,Estonia,58.596209,25.023778,1784,64,0,1720,0,0,True,True
 2020-05-18,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-18,FIN,Finland,Etelä-Karjala,61.217899,28.550289,18,0,0,18,0,0,True,True
 2020-05-18,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,44,0,0,44,0,0,True,True
@@ -279,19 +279,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-18,MDA,Moldova,Moldova,46.979527,28.377195,6060,211,0,5849,0,0,False,False
 2020-05-18,MCO,Monaco,Monaco,43.738348,7.424451,96,5,0,91,0,0,False,False
 2020-05-18,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
-2020-05-17,NLD,Netherlands,Drenthe,52.863149,6.623756,498,0,0,498,0,0,True,True
-2020-05-17,NLD,Netherlands,Flevoland,52.436257,5.519078,863,0,0,863,0,0,True,True
-2020-05-17,NLD,Netherlands,Friesland,53.089388,5.871457,592,0,0,592,0,0,True,True
-2020-05-17,NLD,Netherlands,Gelderland,52.061726,5.945178,5597,0,0,5597,0,0,True,True
-2020-05-17,NLD,Netherlands,Groningen,53.291466,6.700488,352,0,0,352,0,0,True,True
-2020-05-17,NLD,Netherlands,Limburg,51.207579,5.936318,4534,0,0,4534,0,0,True,True
-2020-05-17,NLD,Netherlands,North Brabant,51.527534,5.590194,8849,0,0,8849,0,0,True,True
-2020-05-17,NLD,Netherlands,North Holland,52.551824,4.876581,6477,0,0,6477,0,0,True,True
-2020-05-17,NLD,Netherlands,NOT SPECIFIED,,,0,5680,0,-5680,11552,0,True,True
-2020-05-17,NLD,Netherlands,Overijssel,52.445136,6.4476,2921,0,0,2921,0,0,True,True
-2020-05-17,NLD,Netherlands,South Holland,51.968696,4.541274,9349,0,0,9349,0,0,True,True
-2020-05-17,NLD,Netherlands,Utrecht,52.078728,5.214048,3330,0,0,3330,0,0,True,True
-2020-05-17,NLD,Netherlands,Zeeland,51.312779,3.786651,633,0,0,633,0,0,True,True
+2020-05-18,NLD,Netherlands,Drenthe,52.863149,6.623756,499,0,0,499,0,0,True,True
+2020-05-18,NLD,Netherlands,Flevoland,52.436257,5.519078,865,0,0,865,0,0,True,True
+2020-05-18,NLD,Netherlands,Friesland,53.089388,5.871457,594,0,0,594,0,0,True,True
+2020-05-18,NLD,Netherlands,Gelderland,52.061726,5.945178,5609,0,0,5609,0,0,True,True
+2020-05-18,NLD,Netherlands,Groningen,53.291466,6.700488,352,0,0,352,0,0,True,True
+2020-05-18,NLD,Netherlands,Limburg,51.207579,5.936318,4545,0,0,4545,0,0,True,True
+2020-05-18,NLD,Netherlands,North Brabant,51.527534,5.590194,8868,0,0,8868,0,0,True,True
+2020-05-18,NLD,Netherlands,North Holland,52.551824,4.876581,6491,0,0,6491,0,0,True,True
+2020-05-18,NLD,Netherlands,NOT SPECIFIED,,,0,5694,0,-5694,11579,0,True,True
+2020-05-18,NLD,Netherlands,Overijssel,52.445136,6.4476,2922,0,0,2922,0,0,True,True
+2020-05-18,NLD,Netherlands,South Holland,51.968696,4.541274,9413,0,0,9413,0,0,True,True
+2020-05-18,NLD,Netherlands,Utrecht,52.078728,5.214048,3347,0,0,3347,0,0,True,True
+2020-05-18,NLD,Netherlands,Zeeland,51.312779,3.786651,636,0,0,636,0,0,True,True
 2020-05-18,MKD,North Macedonia,North Macedonia,41.611,21.751417,1792,101,0,1691,0,0,False,True
 2020-05-18,NOR,Norway,Agder,58.699661,7.618403,338,0,0,338,0,0,False,True
 2020-05-18,NOR,Norway,Innlandet,61.43354,10.427144,480,0,0,480,0,0,False,True
