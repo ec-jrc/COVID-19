@@ -297,7 +297,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-19,NOR,Norway,Innlandet,61.43354,10.427144,480,0,0,480,0,0,False,True
 2020-05-19,NOR,Norway,Møre og Romsdal,62.543569,8.540539,133,0,0,133,0,0,False,True
 2020-05-19,NOR,Norway,Nordland,66.679716,14.635752,117,0,0,117,0,0,False,True
-2020-05-19,NOR,Norway,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
+2020-05-19,NOR,Norway,NOT SPECIFIED,,,0,233,0,-233,867,219,False,True
 2020-05-19,NOR,Norway,Oslo,59.979683,10.738335,2572,0,0,2572,0,0,False,True
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True
 2020-05-19,NOR,Norway,Rogaland,58.58709,6.206792,438,0,0,438,0,0,False,True
