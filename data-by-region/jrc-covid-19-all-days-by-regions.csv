@@ -36189,6 +36189,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-21,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
 2020-05-21,FIN,Finland,Vaasa,63.077479,22.196054,53,0,0,53,0,0,True,True
 2020-05-21,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,329,0,0,329,0,0,True,True
+2020-05-21,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1608,6550,-8158,1542,159,True,True
+2020-05-21,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,983,3141,-4124,684,67,True,True
+2020-05-21,FRA,France,Bretagne,48.181767,-2.840778,0,241,1081,-1322,232,20,True,True
+2020-05-21,FRA,France,Centre-Val de Loire,47.751569,1.675063,0,492,1650,-2142,695,51,True,True
+2020-05-21,FRA,France,Corse,42.151732,9.105559,0,57,217,-274,36,4,True,True
+2020-05-21,FRA,France,Grand Est,48.688738,5.613275,0,3335,10100,-13435,2586,218,True,True
+2020-05-21,FRA,France,Guadeloupe,16.192207,-61.272382,0,16,73,-89,13,2,True,True
+2020-05-21,FRA,France,Guyane,3.926082,-53.245309,0,1,51,-52,12,0,True,True
+2020-05-21,FRA,France,Hauts-de-France,49.96966,2.770434,0,1664,5346,-7010,1641,160,True,True
+2020-05-21,FRA,France,Île-de-France,48.709229,2.503473,0,6867,23204,-30071,7422,728,True,True
+2020-05-21,FRA,France,La Réunion,-20.89066,55.455054,0,1,116,-117,11,1,True,True
+2020-05-21,FRA,France,Martinique,14.63554,-61.022814,0,14,81,-95,18,1,True,True
+2020-05-21,FRA,France,Mayotte,-12.824511,45.165455,0,18,198,-216,48,13,True,True
+2020-05-21,FRA,France,Normandie,48.880101,-0.073045,0,407,1357,-1764,436,31,True,True
+2020-05-21,FRA,France,NOT SPECIFIED,,,144163,19,9,144135,56,37,True,True
+2020-05-21,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,380,1801,-2181,382,56,True,True
+2020-05-21,FRA,France,Occitanie,43.703195,2.143601,0,478,2584,-3062,292,65,True,True
+2020-05-21,FRA,France,Pays de la Loire,47.479115,-0.811996,0,420,1613,-2033,451,33,True,True
+2020-05-21,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,869,4686,-5555,1026,99,True,True
 2020-05-21,DEU,Germany,Baden-Württemberg,48.537648,9.049199,34175,1680,0,32495,0,0,True,True
 2020-05-21,DEU,Germany,Bayern,48.947574,11.419913,45929,2348,0,43581,0,0,True,True
 2020-05-21,DEU,Germany,Berlin,52.501532,13.40185,6555,186,0,6369,0,0,True,True
@@ -36317,6 +36336,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-21,MDA,Moldova,Moldova,46.979527,28.377195,6553,228,0,6325,0,0,False,False
 2020-05-21,MCO,Monaco,Monaco,43.738348,7.424451,97,5,0,92,0,0,False,False
 2020-05-21,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
+2020-05-21,NLD,Netherlands,Drenthe,52.863149,6.623756,503,0,0,503,0,0,True,True
+2020-05-21,NLD,Netherlands,Flevoland,52.436257,5.519078,894,0,0,894,0,0,True,True
+2020-05-21,NLD,Netherlands,Friesland,53.089388,5.871457,604,0,0,604,0,0,True,True
+2020-05-21,NLD,Netherlands,Gelderland,52.061726,5.945178,5692,0,0,5692,0,0,True,True
+2020-05-21,NLD,Netherlands,Groningen,53.291466,6.700488,347,0,0,347,0,0,True,True
+2020-05-21,NLD,Netherlands,Limburg,51.207579,5.936318,4579,0,0,4579,0,0,True,True
+2020-05-21,NLD,Netherlands,North Brabant,51.527534,5.590194,8900,0,0,8900,0,0,True,True
+2020-05-21,NLD,Netherlands,North Holland,52.551824,4.876581,6551,0,0,6551,0,0,True,True
+2020-05-21,NLD,Netherlands,NOT SPECIFIED,,,0,5775,0,-5775,11640,0,True,True
+2020-05-21,NLD,Netherlands,Overijssel,52.445136,6.4476,2941,0,0,2941,0,0,True,True
+2020-05-21,NLD,Netherlands,South Holland,51.968696,4.541274,9618,0,0,9618,0,0,True,True
+2020-05-21,NLD,Netherlands,Utrecht,52.078728,5.214048,3416,0,0,3416,0,0,True,True
+2020-05-21,NLD,Netherlands,Zeeland,51.312779,3.786651,655,0,0,655,0,0,True,True
 2020-05-21,MKD,North Macedonia,North Macedonia,41.611,21.751417,1858,110,0,1748,0,0,False,True
 2020-05-21,POL,Poland,Dolnośląskie,51.07994,16.381483,2295,94,0,2201,0,0,True,True
 2020-05-21,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,587,44,0,543,0,0,True,True
