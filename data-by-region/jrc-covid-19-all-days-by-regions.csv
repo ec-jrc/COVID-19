@@ -35593,8 +35593,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-20,CZE,Czech Republic,Ústecký,50.488308,13.816736,530,0,0,530,0,0,True,True
 2020-05-20,CZE,Czech Republic,Vysocina,49.40736,15.689937,181,0,0,181,0,0,True,True
 2020-05-20,CZE,Czech Republic,Zlínský,49.239654,17.770218,346,0,0,346,0,0,True,True
-2020-05-20,DNK,Denmark,Faroe,62.194921,-7.096614,9084,0,0,9084,0,0,True,True
-2020-05-20,DNK,Denmark,Greenland,71.702379,-42.177174,1803,0,0,1803,0,0,True,True
+2020-05-20,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-20,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
 2020-05-20,DNK,Denmark,Hovedstaden,55.675758,12.56902,6288,319,0,5969,0,0,True,True
 2020-05-20,DNK,Denmark,Midtjylland,56.302139,9.302777,1576,69,0,1507,0,0,True,True
 2020-05-20,DNK,Denmark,Nordjylland,56.830742,9.493053,427,21,0,406,0,0,True,True
@@ -36520,6 +36520,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-21,SVK,Slovakia,Trencín,48.858564,18.202196,175,0,0,175,0,0,True,True
 2020-05-21,SVK,Slovakia,Trnava,48.222651,17.707847,121,0,0,121,0,0,True,True
 2020-05-21,SVK,Slovakia,Zilina,49.178517,19.167163,189,0,0,189,0,0,True,True
+2020-05-21,SVN,Slovenia,NOT SPECIFIED,,,1468,106,279,1083,21,4,True,True
 2020-05-21,ESP,Spain,Andalucía,37.46363,-4.573552,12547,1375,0,11172,6210,766,True,True
 2020-05-21,ESP,Spain,Aragón,41.519884,-0.660302,5588,848,0,4740,2442,256,True,True
 2020-05-21,ESP,Spain,Canarias,28.291062,-16.55631,2307,155,0,2152,944,179,True,True
