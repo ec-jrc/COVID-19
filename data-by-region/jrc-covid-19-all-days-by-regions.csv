@@ -37274,6 +37274,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-23,MDA,Moldova,Moldova,46.979527,28.377195,6847,237,0,6610,0,0,False,False
 2020-05-23,MCO,Monaco,Monaco,43.738348,7.424451,97,5,0,92,0,0,False,False
 2020-05-23,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
+2020-05-23,MKD,North Macedonia,North Macedonia,41.611,21.751417,1921,112,0,1809,0,0,False,True
 2020-05-23,POL,Poland,Dolnośląskie,51.07994,16.381483,2378,96,0,2282,0,0,True,True
 2020-05-23,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,591,45,0,546,0,0,True,True
 2020-05-23,POL,Poland,Łódzkie,51.559579,19.408271,1316,58,0,1258,0,0,True,True
@@ -37290,6 +37291,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-23,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,175,1,0,174,0,0,True,True
 2020-05-23,POL,Poland,Wielkopolskie,52.283858,17.248218,1953,145,0,1808,0,0,True,True
 2020-05-23,POL,Poland,Zachodniopomorskie,53.582707,15.634824,521,19,0,502,0,0,True,True
+2020-05-23,SMR,San Marino,San Marino,43.942973,12.460035,661,41,0,620,0,0,False,False
+2020-05-23,SRB,Serbia,Serbia,44.206802,20.911009,11024,237,0,10787,0,0,False,True
 2020-05-23,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,101,0,0,101,0,0,True,True
 2020-05-23,SVK,Slovakia,Bratislava,48.319003,17.17481,363,0,0,363,0,0,True,True
 2020-05-23,SVK,Slovakia,Košice,48.771358,20.721931,259,0,0,259,0,0,True,True
@@ -37326,3 +37329,4 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-23,CHE,Switzerland,Vaud,46.56176,6.648929,5418,406,0,5012,51,14,False,False
 2020-05-23,CHE,Switzerland,Zug,47.161402,8.538864,199,8,171,20,1,1,False,False
 2020-05-23,CHE,Switzerland,Zurich,47.417407,8.655988,3592,128,0,3464,31,0,False,False
+2020-05-23,TUR,Turkey,Turkey,38.961515,35.25175,154500,4276,0,150224,0,0,False,True
