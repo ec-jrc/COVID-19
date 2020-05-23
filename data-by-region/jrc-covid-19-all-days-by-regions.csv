@@ -37171,6 +37171,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-22,UKR,Ukraine,Volyn,51.202858,24.883489,740,0,0,740,0,0,False,False
 2020-05-22,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,401,0,0,401,0,0,False,False
 2020-05-22,UKR,Ukraine,Zhytomyr,50.642612,28.484557,607,0,0,607,0,0,False,False
+2020-05-23,AUT,Austria,Burgenland,47.541449,16.520206,340,11,318,11,0,0,True,True
+2020-05-23,AUT,Austria,Kärnten,46.715832,14.455532,411,13,393,5,0,0,True,True
+2020-05-23,AUT,Austria,Niederösterreich,48.27051,15.763245,2803,92,2574,137,0,0,True,True
+2020-05-23,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,35,True,True
+2020-05-23,AUT,Austria,Oberösterreich,48.138166,13.964295,2283,56,2199,28,0,0,True,True
+2020-05-23,AUT,Austria,Salzburg,47.254051,13.032653,1238,37,1191,10,0,0,True,True
+2020-05-23,AUT,Austria,Steiermark,47.187361,15.518046,1822,132,1592,98,0,0,True,True
+2020-05-23,AUT,Austria,Tirol,47.209023,11.397603,3534,101,3396,37,0,0,True,True
+2020-05-23,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,862,18,0,0,True,True
+2020-05-23,AUT,Austria,Wien,48.21141,16.380038,3078,146,2480,452,0,0,True,True
 2020-05-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,122,9,2,111,0,0,True,True
 2020-05-23,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
 2020-05-23,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
