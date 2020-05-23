@@ -1422,7 +1422,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-11,CHE,Switzerland,Vaud,46.56176,6.648929,108,1,0,107,38,7,False,False
 2020-03-11,CHE,Switzerland,Zug,47.161402,8.538864,3,0,0,3,0,0,False,False
 2020-03-11,CHE,Switzerland,Zurich,47.417407,8.655988,59,0,0,59,0,0,False,False
-2020-03-11,TUR,Turkey,Turkey,38.961515,35.25175,1,0,0,1,0,0,False,True
 2020-03-11,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,3,0,0,3,,,False,True
 2020-03-11,GBR,United Kingdom,Borders,55.572787,-2.786355,2,0,0,2,,,False,True
 2020-03-11,GBR,United Kingdom,England,,,456,3,0,453,,,False,True
@@ -4016,7 +4015,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,CHE,Switzerland,Vaud,46.56176,6.648929,1782,16,75,1691,203,23,False,False
 2020-03-22,CHE,Switzerland,Zug,47.161402,8.538864,48,0,5,43,1,0,False,False
 2020-03-22,CHE,Switzerland,Zurich,47.417407,8.655988,773,3,0,770,0,0,False,False
-2020-03-22,TUR,Turkey,Turkey,38.961515,35.25175,1236,30,0,1206,,,False,True
+2020-03-22,TUR,Turkey,Turkey,38.961515,35.25175,1236,30,0,1206,0,0,False,True
 2020-03-22,UKR,Ukraine,Chernivtsi,48.269841,25.97109,25,1,0,24,,,False,False
 2020-03-22,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,2,0,0,2,,,False,False
 2020-03-22,UKR,Ukraine,Donetsk,48.04733,37.669412,1,0,0,1,,,False,False
@@ -33190,7 +33189,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-15,CHE,Switzerland,Vaud,46.56176,6.648929,4844,400,0,4444,67,13,False,False
 2020-05-15,CHE,Switzerland,Zug,47.161402,8.538864,198,8,163,27,3,1,False,False
 2020-05-15,CHE,Switzerland,Zurich,47.417407,8.655988,3569,126,0,3443,36,0,False,False
-2020-05-15,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-15,TUR,Turkey,Turkey,38.961515,35.25175,146457,4055,0,142402,0,0,False,True
 2020-05-15,UKR,Ukraine,Cherkasy,49.253559,31.378329,350,0,0,350,0,0,False,False
 2020-05-15,UKR,Ukraine,Chernihiv,51.347162,32.016707,96,0,0,96,0,0,False,False
@@ -33729,7 +33727,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-16,CHE,Switzerland,Vaud,46.56176,6.648929,4844,401,0,4443,63,14,False,False
 2020-05-16,CHE,Switzerland,Zug,47.161402,8.538864,198,8,163,27,3,1,False,False
 2020-05-16,CHE,Switzerland,Zurich,47.417407,8.655988,3571,127,0,3444,33,0,False,False
-2020-05-16,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-16,TUR,Turkey,Turkey,38.961515,35.25175,148067,4096,0,143971,0,0,False,True
 2020-05-16,UKR,Ukraine,Cherkasy,49.253559,31.378329,363,0,0,363,0,0,False,False
 2020-05-16,UKR,Ukraine,Chernihiv,51.347162,32.016707,105,0,0,105,0,0,False,False
@@ -34299,8 +34296,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-17,CHE,Switzerland,Vaud,46.56176,6.648929,4844,401,0,4443,63,14,False,False
 2020-05-17,CHE,Switzerland,Zug,47.161402,8.538864,198,8,163,27,3,1,False,False
 2020-05-17,CHE,Switzerland,Zurich,47.417407,8.655988,3576,127,0,3449,32,0,False,False
-2020-05-17,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-17,TUR,Turkey,Turkey,38.961515,35.25175,149435,4140,0,145295,0,0,False,True
+2020-05-17,TUR,Turkey,Turkey,38.961515,35.25175,148067,4096,0,143971,0,0,False,True
 2020-05-17,UKR,Ukraine,Cherkasy,49.253559,31.378329,372,0,0,372,0,0,False,False
 2020-05-17,UKR,Ukraine,Chernihiv,51.347162,32.016707,108,0,0,108,0,0,False,False
 2020-05-17,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2694,0,0,2694,0,0,False,False
@@ -34882,8 +34878,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-18,CHE,Switzerland,Vaud,46.56176,6.648929,4844,401,0,4443,63,14,False,False
 2020-05-18,CHE,Switzerland,Zug,47.161402,8.538864,199,8,169,22,1,1,False,False
 2020-05-18,CHE,Switzerland,Zurich,47.417407,8.655988,3578,127,0,3451,33,0,False,False
-2020-05-18,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
-2020-05-18,TUR,Turkey,Turkey,38.961515,35.25175,150593,4171,0,146422,0,0,False,True
+2020-05-18,TUR,Turkey,Turkey,38.961515,35.25175,149435,4140,0,145295,0,0,False,True
 2020-05-18,UKR,Ukraine,Cherkasy,49.253559,31.378329,372,0,0,372,0,0,False,False
 2020-05-18,UKR,Ukraine,Chernihiv,51.347162,32.016707,108,0,0,108,0,0,False,False
 2020-05-18,UKR,Ukraine,Chernivtsi,48.269841,25.97109,2713,0,0,2713,0,0,False,False

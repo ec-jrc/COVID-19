@@ -460,15 +460,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-22,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,684,10,341,333,0,0,False,False
 2020-05-22,SMR,San Marino,San Marino,43.942973,12.460035,658,41,0,617,0,0,False,False
 2020-05-22,SRB,Serbia,Serbia,44.206802,20.911009,10919,237,0,10682,0,0,False,True
-2020-05-22,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,101,0,0,101,0,0,True,True
-2020-05-22,SVK,Slovakia,Bratislava,48.319003,17.17481,363,0,0,363,0,0,True,True
-2020-05-22,SVK,Slovakia,Košice,48.771358,20.721931,259,0,0,259,0,0,True,True
-2020-05-22,SVK,Slovakia,Nitra,48.140652,18.30311,117,0,0,117,0,0,True,True
-2020-05-22,SVK,Slovakia,NOT SPECIFIED,,,0,28,1256,-1284,76,2,True,True
-2020-05-22,SVK,Slovakia,Prešov,49.126441,21.221321,178,0,0,178,0,0,True,True
-2020-05-22,SVK,Slovakia,Trencín,48.858564,18.202196,175,0,0,175,0,0,True,True
-2020-05-22,SVK,Slovakia,Trnava,48.222651,17.707847,121,0,0,121,0,0,True,True
-2020-05-22,SVK,Slovakia,Zilina,49.178517,19.167163,189,0,0,189,0,0,True,True
+2020-05-23,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,101,0,0,101,0,0,True,True
+2020-05-23,SVK,Slovakia,Bratislava,48.319003,17.17481,363,0,0,363,0,0,True,True
+2020-05-23,SVK,Slovakia,Košice,48.771358,20.721931,259,0,0,259,0,0,True,True
+2020-05-23,SVK,Slovakia,Nitra,48.140652,18.30311,118,0,0,118,0,0,True,True
+2020-05-23,SVK,Slovakia,NOT SPECIFIED,,,0,28,1280,-1308,60,1,True,True
+2020-05-23,SVK,Slovakia,Prešov,49.126441,21.221321,178,0,0,178,0,0,True,True
+2020-05-23,SVK,Slovakia,Trencín,48.858564,18.202196,175,0,0,175,0,0,True,True
+2020-05-23,SVK,Slovakia,Trnava,48.222651,17.707847,121,0,0,121,0,0,True,True
+2020-05-23,SVK,Slovakia,Zilina,49.178517,19.167163,189,0,0,189,0,0,True,True
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True
@@ -550,7 +550,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-22,CHE,Switzerland,Vaud,46.56176,6.648929,5418,401,0,5017,55,13,False,False
 2020-05-22,CHE,Switzerland,Zug,47.161402,8.538864,199,8,171,20,1,1,False,False
 2020-05-22,CHE,Switzerland,Zurich,47.417407,8.655988,3589,128,0,3461,29,0,False,False
-2020-05-18,TUR,Turkey,NOT SPECIFIED,,,0,0,0,0,0,0,False,True
 2020-05-22,TUR,Turkey,Turkey,38.961515,35.25175,153548,4249,0,149299,0,0,False,True
 2020-05-22,UKR,Ukraine,Cherkasy,49.253559,31.378329,383,0,0,383,0,0,False,False
 2020-05-22,UKR,Ukraine,Chernihiv,51.347162,32.016707,119,0,0,119,0,0,False,False
