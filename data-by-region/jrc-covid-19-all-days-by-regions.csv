@@ -38258,6 +38258,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-24,UKR,Ukraine,Volyn,51.202858,24.883489,771,0,0,771,0,0,False,False
 2020-05-24,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,410,0,0,410,0,0,False,False
 2020-05-24,UKR,Ukraine,Zhytomyr,50.642612,28.484557,626,0,0,626,0,0,False,False
+2020-05-25,AUT,Austria,Burgenland,47.541449,16.520206,342,11,318,13,0,0,True,True
+2020-05-25,AUT,Austria,Kärnten,46.715832,14.455532,411,13,395,3,0,0,True,True
+2020-05-25,AUT,Austria,Niederösterreich,48.27051,15.763245,2823,92,2596,135,0,0,True,True
+2020-05-25,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,35,True,True
+2020-05-25,AUT,Austria,Oberösterreich,48.138166,13.964295,2285,56,2203,26,0,0,True,True
+2020-05-25,AUT,Austria,Salzburg,47.254051,13.032653,1238,37,1192,9,0,0,True,True
+2020-05-25,AUT,Austria,Steiermark,47.187361,15.518046,1821,133,1602,86,0,0,True,True
+2020-05-25,AUT,Austria,Tirol,47.209023,11.397603,3535,101,3398,36,0,0,True,True
+2020-05-25,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,864,16,0,0,True,True
+2020-05-25,AUT,Austria,Wien,48.21141,16.380038,3118,147,2495,476,0,0,True,True
 2020-05-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-25,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
 2020-05-25,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -38303,3 +38313,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1694,54,0,1640,0,0,True,True
 2020-05-25,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3062,137,0,2925,0,0,True,True
 2020-05-25,DEU,Germany,Thüringen,50.903878,11.02488,2871,152,0,2719,0,0,True,True
+2020-05-25,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,24,0,0,24,0,0,True,True
+2020-05-25,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
+2020-05-25,HUN,Hungary,Békés,46.735413,21.006326,11,0,0,11,0,0,True,True
+2020-05-25,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,61,0,0,61,0,0,True,True
+2020-05-25,HUN,Hungary,Budapest,47.486226,19.102958,1784,0,0,1784,0,0,True,True
+2020-05-25,HUN,Hungary,Csongrád,46.429441,20.23317,114,0,0,114,0,0,True,True
+2020-05-25,HUN,Hungary,Fejér,47.130985,18.532031,368,0,0,368,0,0,True,True
+2020-05-25,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,84,0,0,84,0,0,True,True
+2020-05-25,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,24,0,0,24,0,0,True,True
+2020-05-25,HUN,Hungary,Heves,47.856454,20.175008,13,0,0,13,0,0,True,True
+2020-05-25,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-05-25,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,26,0,0,26,0,0,True,True
+2020-05-25,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,243,0,0,243,0,0,True,True
+2020-05-25,HUN,Hungary,Nógrád,47.988372,19.52022,32,0,0,32,0,0,True,True
+2020-05-25,HUN,Hungary,NOT SPECIFIED,,,0,491,1711,-2202,0,0,True,True
+2020-05-25,HUN,Hungary,Pest,47.252834,19.743062,527,0,0,527,0,0,True,True
+2020-05-25,HUN,Hungary,Somogy,46.452574,17.603217,28,0,0,28,0,0,True,True
+2020-05-25,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,38,0,0,38,0,0,True,True
+2020-05-25,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
+2020-05-25,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
+2020-05-25,HUN,Hungary,Veszprém,47.131402,17.65231,64,0,0,64,0,0,True,True
+2020-05-25,HUN,Hungary,Zala,46.692149,16.903237,245,0,0,245,0,0,True,True
