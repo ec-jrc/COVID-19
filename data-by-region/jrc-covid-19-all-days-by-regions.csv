@@ -38354,6 +38354,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,864,16,0,0,True,True
 2020-05-25,AUT,Austria,Wien,48.21141,16.380038,3118,147,2495,476,0,0,True,True
 2020-05-25,BLR,Belarus,Belarus,53.711111,27.973847,36198,199,0,35999,0,0,False,False
+2020-05-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1022,38,0,984,0,0,False,False
 2020-05-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-25,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
 2020-05-25,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -38426,6 +38427,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,DNK,Denmark,Nordjylland,56.830742,9.493053,434,22,0,412,0,0,True,True
 2020-05-25,DNK,Denmark,Sjælland,55.92481,11.67126,1826,116,0,1710,0,0,True,True
 2020-05-25,DNK,Denmark,Syddanmark,55.675758,12.56902,991,32,0,959,0,0,True,True
+2020-05-25,EST,Estonia,Estonia,58.596209,25.023778,1824,65,0,1759,0,0,True,True
 2020-05-25,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-25,FIN,Finland,Etelä-Karjala,61.217899,28.550289,19,0,0,19,0,0,True,True
 2020-05-25,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,44,0,0,44,0,0,True,True
@@ -38572,7 +38574,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,ROU,Romania,Mehedinți,,,107,0,0,107,0,0,True,True
 2020-05-25,ROU,Romania,Mureș,,,661,0,0,661,0,0,True,True
 2020-05-25,ROU,Romania,Neamț,,,870,0,0,870,0,0,True,True
-2020-05-25,ROU,Romania,NOT SPECIFIED,,,35,1197,11630,-12792,0,0,True,True
+2020-05-25,ROU,Romania,NOT SPECIFIED,,,35,1202,11630,-12797,0,0,True,True
 2020-05-25,ROU,Romania,Olt,44.272504,24.439351,76,0,0,76,0,0,True,True
 2020-05-25,ROU,Romania,Prahova,45.114672,26.015788,96,0,0,96,0,0,True,True
 2020-05-25,ROU,Romania,Sălaj,,,85,0,0,85,0,0,True,True
