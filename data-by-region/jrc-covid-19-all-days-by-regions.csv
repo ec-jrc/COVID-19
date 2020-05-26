@@ -38902,6 +38902,23 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,GBR,United Kingdom,South West,51.239761,-2.54375,7539,0,0,7539,0,0,False,True
 2020-05-25,GBR,United Kingdom,Tayside,56.610323,-3.555213,1659,0,0,1659,0,0,False,True
 2020-05-25,GBR,United Kingdom,Wales,52.302413,-3.738347,13415,1274,0,12141,0,0,False,True
+2020-05-26,DEU,Germany,Baden-Württemberg,48.537648,9.049199,34466,1707,0,32759,0,0,True,True
+2020-05-26,DEU,Germany,Bayern,48.947574,11.419913,46456,2401,0,44055,0,0,True,True
+2020-05-26,DEU,Germany,Berlin,52.501532,13.40185,6652,191,0,6461,0,0,True,True
+2020-05-26,DEU,Germany,Brandenburg,53.109014,12.140724,3236,154,0,3082,0,0,True,True
+2020-05-26,DEU,Germany,Bremen,53.108678,8.785951,1313,42,0,1271,0,0,True,True
+2020-05-26,DEU,Germany,Hamburg,53.54464,10.027798,5069,241,0,4828,0,0,True,True
+2020-05-26,DEU,Germany,Hessen,50.603242,9.031057,9804,462,0,9342,0,0,True,True
+2020-05-26,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,760,20,0,740,0,0,True,True
+2020-05-26,DEU,Germany,Niedersachsen,52.765527,9.162019,11646,574,0,11072,0,0,True,True
+2020-05-26,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,37395,1571,0,35824,0,0,True,True
+2020-05-26,DEU,Germany,NOT SPECIFIED,,,0,0,162000,-162000,0,0,True,True
+2020-05-26,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,6600,228,0,6372,0,0,True,True
+2020-05-26,DEU,Germany,Saarland,49.384368,6.953135,2727,158,0,2569,0,0,True,True
+2020-05-26,DEU,Germany,Sachsen,51.052334,13.348561,5236,207,0,5029,0,0,True,True
+2020-05-26,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1698,54,0,1644,0,0,True,True
+2020-05-26,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3067,139,0,2928,0,0,True,True
+2020-05-26,DEU,Germany,Thüringen,50.903878,11.02488,2877,153,0,2724,0,0,True,True
 2020-05-26,CHE,Switzerland,Aargau,47.410914,8.159107,1198,45,1110,43,6,1,False,False
 2020-05-26,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,99,3,0,96,1,1,False,False
 2020-05-26,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
