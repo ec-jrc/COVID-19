@@ -38964,6 +38964,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-26,BGR,Bulgaria,Vidin,43.797295,22.68621,185,15,7,163,0,0,True,True
 2020-05-26,BGR,Bulgaria,Vratsa,43.395067,23.759152,16,0,2,14,0,0,True,True
 2020-05-26,BGR,Bulgaria,Yambol,,,137,14,13,110,0,0,True,True
+2020-05-26,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
+2020-05-26,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,43,1,0,42,0,0,True,True
+2020-05-26,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,114,8,0,106,0,0,True,True
+2020-05-26,HRV,Croatia,Grad Zagreb,45.742196,16.008116,478,23,0,455,0,0,True,True
+2020-05-26,HRV,Croatia,Istarska,45.203521,13.895312,92,2,0,90,0,0,True,True
+2020-05-26,HRV,Croatia,Karlovačka,45.292126,15.46427,31,1,0,30,0,0,True,True
+2020-05-26,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,92,12,0,80,0,0,True,True
+2020-05-26,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,134,1,0,133,0,0,True,True
+2020-05-26,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,0,19,0,0,True,True
+2020-05-26,HRV,Croatia,Međimurska,46.410728,16.508315,8,0,0,8,0,0,True,True
+2020-05-26,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,134,9,0,125,0,0,True,True
+2020-05-26,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,0,7,0,0,True,True
+2020-05-26,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,83,1,0,82,0,0,True,True
+2020-05-26,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,89,1,0,88,0,0,True,True
+2020-05-26,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,36,0,0,36,0,0,True,True
+2020-05-26,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,549,34,0,515,0,0,True,True
+2020-05-26,HRV,Croatia,Varaždinska,46.250434,16.293818,51,0,0,51,0,0,True,True
+2020-05-26,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,11,0,0,11,0,0,True,True
+2020-05-26,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,41,0,0,41,0,0,True,True
+2020-05-26,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
+2020-05-26,HRV,Croatia,Zagrebačka,45.82762,16.381796,131,0,0,131,0,0,True,True
 2020-05-26,CYP,Cyprus,Cyprus,35.167406,33.435499,937,17,0,920,0,0,True,True
 2020-05-26,CZE,Czech Republic,Jihoceský,49.093362,14.439278,181,0,0,181,0,0,True,True
 2020-05-26,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,524,0,0,524,0,0,True,True
@@ -38980,6 +39001,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-26,CZE,Czech Republic,Ústecký,50.488308,13.816736,536,0,0,536,0,0,True,True
 2020-05-26,CZE,Czech Republic,Vysocina,49.40736,15.689937,185,0,0,185,0,0,True,True
 2020-05-26,CZE,Czech Republic,Zlínský,49.239654,17.770218,366,0,0,366,0,0,True,True
+2020-05-26,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-05-26,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
+2020-05-26,DNK,Denmark,Hovedstaden,55.675758,12.56902,6511,324,0,6187,0,0,True,True
+2020-05-26,DNK,Denmark,Midtjylland,56.302139,9.302777,1590,69,0,1521,0,0,True,True
+2020-05-26,DNK,Denmark,Nordjylland,56.830742,9.493053,434,22,0,412,0,0,True,True
+2020-05-26,DNK,Denmark,Sjælland,55.92481,11.67126,1831,116,0,1715,0,0,True,True
+2020-05-26,DNK,Denmark,Syddanmark,55.675758,12.56902,992,32,0,960,0,0,True,True
 2020-05-26,FIN,Finland,Ahvenanmaa,60.240625,19.966666,11,0,0,11,0,0,True,True
 2020-05-26,FIN,Finland,Etelä-Karjala,61.217899,28.550289,19,0,0,19,0,0,True,True
 2020-05-26,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,45,0,0,45,0,0,True,True
@@ -39064,6 +39092,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-26,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
 2020-05-26,POL,Poland,Wielkopolskie,52.283858,17.248218,2054,146,0,1908,0,0,True,True
 2020-05-26,POL,Poland,Zachodniopomorskie,53.582707,15.634824,521,19,0,502,0,0,True,True
+2020-05-26,PRT,Portugal,Açores,37.775525,-25.494927,135,15,0,120,0,0,True,True
+2020-05-26,PRT,Portugal,Alentejo,38.485499,-8.006668,254,1,0,253,0,0,True,True
+2020-05-26,PRT,Portugal,Algarve,37.218389,-8.198488,363,15,0,348,0,0,True,True
+2020-05-26,PRT,Portugal,Centro,40.111812,-8.012768,3690,234,0,3456,0,0,True,True
+2020-05-26,PRT,Portugal,Lisbon,38.623843,-8.88436,9778,325,0,9453,0,0,True,True
+2020-05-26,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-05-26,PRT,Portugal,Norte,41.457206,-7.678153,16697,752,0,15945,0,0,True,True
+2020-05-26,PRT,Portugal,NOT SPECIFIED,,,0,0,18096,-18096,513,71,True,True
 2020-05-26,ROU,Romania,Alba,46.172367,23.487279,350,0,0,350,0,0,True,True
 2020-05-26,ROU,Romania,Arad,46.273235,21.758454,696,0,0,696,0,0,True,True
 2020-05-26,ROU,Romania,Argeș,,,238,0,0,238,0,0,True,True
