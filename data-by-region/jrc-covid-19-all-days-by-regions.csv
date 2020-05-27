@@ -39577,6 +39577,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-27,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-05-27,HUN,Hungary,Veszprém,47.131402,17.65231,65,0,0,65,0,0,True,True
 2020-05-27,HUN,Hungary,Zala,46.692149,16.903237,247,0,0,247,0,0,True,True
+2020-05-27,POL,Poland,Dolnośląskie,51.07994,16.381483,2497,101,0,2396,0,0,True,True
+2020-05-27,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,595,46,0,549,0,0,True,True
+2020-05-27,POL,Poland,Łódzkie,51.559579,19.408271,1384,62,0,1322,0,0,True,True
+2020-05-27,POL,Poland,Lubelskie,51.247253,22.908895,471,15,0,456,0,0,True,True
+2020-05-27,POL,Poland,Lubuskie,52.206458,15.345515,111,0,0,111,0,0,True,True
+2020-05-27,POL,Poland,Małopolskie,49.842031,20.300847,1180,40,0,1140,0,0,True,True
+2020-05-27,POL,Poland,Mazowieckie,52.309134,21.081201,3359,256,0,3103,0,0,True,True
+2020-05-27,POL,Poland,Opolskie,50.621436,17.876844,603,47,0,556,0,0,True,True
+2020-05-27,POL,Poland,Podkarpackie,49.962818,22.225966,378,35,0,343,0,0,True,True
+2020-05-27,POL,Poland,Podlaskie,53.28395,22.895092,432,9,0,423,0,0,True,True
+2020-05-27,POL,Poland,Pomorskie,54.129033,18.012613,546,32,0,514,0,0,True,True
+2020-05-27,POL,Poland,Śląskie,50.318293,18.999987,7520,194,0,7326,0,0,True,True
+2020-05-27,POL,Poland,Świętokrzyskie,50.734202,20.797295,404,21,0,383,0,0,True,True
+2020-05-27,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
+2020-05-27,POL,Poland,Wielkopolskie,52.283858,17.248218,2117,147,0,1970,0,0,True,True
+2020-05-27,POL,Poland,Zachodniopomorskie,53.582707,15.634824,527,19,0,508,0,0,True,True
 2020-05-27,ROU,Romania,Alba,46.172367,23.487279,350,0,0,350,0,0,True,True
 2020-05-27,ROU,Romania,Arad,46.273235,21.758454,696,0,0,696,0,0,True,True
 2020-05-27,ROU,Romania,Argeș,,,238,0,0,238,0,0,True,True
@@ -39620,6 +39636,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-27,ROU,Romania,Vâlcea,,,28,0,0,28,0,0,True,True
 2020-05-27,ROU,Romania,Vaslui,46.526869,27.769395,157,0,0,157,0,0,True,True
 2020-05-27,ROU,Romania,Vrancea,45.788059,26.980214,583,0,0,583,0,0,True,True
+2020-05-27,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,102,0,0,102,0,0,True,True
+2020-05-27,SVK,Slovakia,Bratislava,48.319003,17.17481,365,0,0,365,0,0,True,True
+2020-05-27,SVK,Slovakia,Košice,48.771358,20.721931,261,0,0,261,0,0,True,True
+2020-05-27,SVK,Slovakia,Nitra,48.140652,18.30311,120,0,0,120,0,0,True,True
+2020-05-27,SVK,Slovakia,NOT SPECIFIED,,,0,28,1327,-1355,59,1,True,True
+2020-05-27,SVK,Slovakia,Prešov,49.126441,21.221321,178,0,0,178,0,0,True,True
+2020-05-27,SVK,Slovakia,Trencín,48.858564,18.202196,175,0,0,175,0,0,True,True
+2020-05-27,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
+2020-05-27,SVK,Slovakia,Zilina,49.178517,19.167163,190,0,0,190,0,0,True,True
 2020-05-27,CHE,Switzerland,Aargau,47.410914,8.159107,1198,45,1110,43,6,1,False,False
 2020-05-27,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,99,3,0,96,1,1,False,False
 2020-05-27,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
