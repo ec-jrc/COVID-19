@@ -41274,6 +41274,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-30,CZE,Czech Republic,Ústecký,50.488308,13.816736,546,0,0,546,0,0,True,True
 2020-05-30,CZE,Czech Republic,Vysocina,49.40736,15.689937,186,0,0,186,0,0,True,True
 2020-05-30,CZE,Czech Republic,Zlínský,49.239654,17.770218,371,0,0,371,0,0,True,True
+2020-05-30,FIN,Finland,Ahvenanmaa,60.240625,19.966666,13,0,0,13,0,0,True,True
+2020-05-30,FIN,Finland,Etelä-Karjala,61.217899,28.550289,22,0,0,22,0,0,True,True
+2020-05-30,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,45,0,0,45,0,0,True,True
+2020-05-30,FIN,Finland,Etelä-Savo,61.813578,27.347685,52,0,0,52,0,0,True,True
+2020-05-30,FIN,Finland,HUS,60.408524,24.7817,4971,0,0,4971,0,0,True,True
+2020-05-30,FIN,Finland,Itä-Savo,62.073919,28.846114,14,0,0,14,0,0,True,True
+2020-05-30,FIN,Finland,Kainuu,64.373656,28.743748,66,0,0,66,0,0,True,True
+2020-05-30,FIN,Finland,Kanta-Häme,60.921424,24.354383,110,0,0,110,0,0,True,True
+2020-05-30,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,19,0,0,19,0,0,True,True
+2020-05-30,FIN,Finland,Keski-Suomi,62.629133,25.476526,133,0,0,133,0,0,True,True
+2020-05-30,FIN,Finland,Kymenlaakso,60.826543,26.889951,43,0,0,43,0,0,True,True
+2020-05-30,FIN,Finland,Länsi-Pohja,66.133479,24.762611,147,0,0,147,0,0,True,True
+2020-05-30,FIN,Finland,Lappi,67.847438,26.444542,72,0,0,72,0,0,True,True
+2020-05-30,FIN,Finland,Päijät-Häme,61.217271,25.721465,107,0,0,107,0,0,True,True
+2020-05-30,FIN,Finland,Pirkanmaa,61.715017,23.913902,264,0,0,264,0,0,True,True
+2020-05-30,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,0,0,24,0,0,True,True
+2020-05-30,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,135,0,0,135,0,0,True,True
+2020-05-30,FIN,Finland,Pohjois-Savo,63.173162,27.465765,134,0,0,134,0,0,True,True
+2020-05-30,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
+2020-05-30,FIN,Finland,Vaasa,63.077479,22.196054,53,0,0,53,0,0,True,True
+2020-05-30,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,349,0,0,349,0,0,True,True
 2020-05-30,DEU,Germany,Baden-Württemberg,48.537648,9.049199,34718,1748,0,32970,0,0,True,True
 2020-05-30,DEU,Germany,Bayern,48.947574,11.419913,46854,2450,0,44404,0,0,True,True
 2020-05-30,DEU,Germany,Berlin,52.501532,13.40185,6767,197,0,6570,0,0,True,True
@@ -41299,6 +41320,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-30,MCO,Monaco,Monaco,43.738348,7.424451,98,5,0,93,0,0,False,False
 2020-05-30,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
 2020-05-30,MKD,North Macedonia,North Macedonia,41.611,21.751417,2130,126,0,2004,0,0,False,True
+2020-05-30,POL,Poland,Dolnośląskie,51.07994,16.381483,2570,102,0,2468,0,0,True,True
+2020-05-30,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,594,46,0,548,0,0,True,True
+2020-05-30,POL,Poland,Łódzkie,51.559579,19.408271,1488,64,0,1424,0,0,True,True
+2020-05-30,POL,Poland,Lubelskie,51.247253,22.908895,486,15,0,471,0,0,True,True
+2020-05-30,POL,Poland,Lubuskie,52.206458,15.345515,116,0,0,116,0,0,True,True
+2020-05-30,POL,Poland,Małopolskie,49.842031,20.300847,1203,40,0,1163,0,0,True,True
+2020-05-30,POL,Poland,Mazowieckie,52.309134,21.081201,3494,262,0,3232,0,0,True,True
+2020-05-30,POL,Poland,Opolskie,50.621436,17.876844,642,47,0,595,0,0,True,True
+2020-05-30,POL,Poland,Podkarpackie,49.962818,22.225966,382,35,0,347,0,0,True,True
+2020-05-30,POL,Poland,Podlaskie,53.28395,22.895092,448,9,0,439,0,0,True,True
+2020-05-30,POL,Poland,Pomorskie,54.129033,18.012613,552,34,0,518,0,0,True,True
+2020-05-30,POL,Poland,Śląskie,50.318293,18.999987,8097,204,0,7893,0,0,True,True
+2020-05-30,POL,Poland,Świętokrzyskie,50.734202,20.797295,444,22,0,422,0,0,True,True
+2020-05-30,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
+2020-05-30,POL,Poland,Wielkopolskie,52.283858,17.248218,2146,151,0,1995,0,0,True,True
+2020-05-30,POL,Poland,Zachodniopomorskie,53.582707,15.634824,535,19,0,516,0,0,True,True
 2020-05-30,SMR,San Marino,San Marino,43.942973,12.460035,671,42,0,629,0,0,False,False
 2020-05-30,SRB,Serbia,Serbia,44.206802,20.911009,11354,242,0,11112,0,0,False,True
 2020-05-30,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
