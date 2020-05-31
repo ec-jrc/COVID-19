@@ -41682,6 +41682,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-30,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-05-30,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-05-30,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-05-30,SVN,Slovenia,NOT SPECIFIED,,,1473,108,293,1072,6,2,True,True
 2020-05-30,ESP,Spain,Andalucía,37.46363,-4.573552,12668,1404,0,11264,6261,772,True,True
 2020-05-30,ESP,Spain,Aragón,41.519884,-0.660302,5680,826,0,4854,2644,267,True,True
 2020-05-30,ESP,Spain,Canarias,28.291062,-16.55631,2343,151,0,2192,948,180,True,True
@@ -41777,6 +41778,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-30,UKR,Ukraine,Volyn,51.202858,24.883489,887,0,0,887,0,0,False,False
 2020-05-30,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,440,0,0,440,0,0,False,False
 2020-05-30,UKR,Ukraine,Zhytomyr,50.642612,28.484557,699,0,0,699,0,0,False,False
+2020-05-30,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1058,0,0,1058,0,0,False,True
+2020-05-30,GBR,United Kingdom,Borders,55.572787,-2.786355,325,0,0,325,0,0,False,True
+2020-05-30,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,260,0,0,260,0,0,False,True
+2020-05-30,GBR,United Kingdom,East of England,52.248898,0.548756,14170,0,0,14170,0,0,False,True
+2020-05-30,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-05-30,GBR,United Kingdom,England,,,6289,34193,0,-27904,0,0,False,True
+2020-05-30,GBR,United Kingdom,Fife,56.228968,-3.118568,834,0,0,834,0,0,False,True
+2020-05-30,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,924,0,0,924,0,0,False,True
+2020-05-30,GBR,United Kingdom,Grampian,57.299016,-2.780773,1273,0,0,1273,0,0,False,True
+2020-05-30,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3943,0,0,3943,0,0,False,True
+2020-05-30,GBR,United Kingdom,Highland,57.363501,-4.733034,337,0,0,337,0,0,False,True
+2020-05-30,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,1984,0,0,1984,0,0,False,True
+2020-05-30,GBR,United Kingdom,London,51.497136,-0.100571,26938,0,0,26938,0,0,False,True
+2020-05-30,GBR,United Kingdom,Lothian,55.946009,-2.728265,2706,0,0,2706,0,0,False,True
+2020-05-30,GBR,United Kingdom,Midlands,52.718351,-1.45667,25385,0,0,25385,0,0,False,True
+2020-05-30,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,24342,0,0,24342,0,0,False,True
+2020-05-30,GBR,United Kingdom,North West,53.524488,-2.333125,25555,0,0,25555,0,0,False,True
+2020-05-30,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4709,521,0,4188,0,0,False,True
+2020-05-30,GBR,United Kingdom,NOT SPECIFIED,,,86966,0,0,86966,0,0,False,True
+2020-05-30,GBR,United Kingdom,Orkney,58.98094,-2.960521,8,0,0,8,0,0,False,True
+2020-05-30,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2331,0,-2331,0,0,False,True
+2020-05-30,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-05-30,GBR,United Kingdom,South East,51.291417,-0.521902,21545,0,0,21545,0,0,False,True
+2020-05-30,GBR,United Kingdom,South West,51.239761,-2.54375,7632,0,0,7632,0,0,False,True
+2020-05-30,GBR,United Kingdom,Tayside,56.610323,-3.555213,1670,0,0,1670,0,0,False,True
+2020-05-30,GBR,United Kingdom,Wales,52.302413,-3.738347,13913,1331,0,12582,0,0,False,True
 2020-05-31,AND,Andorra,Andorra,42.542268,1.596865,764,51,0,713,0,0,False,False
 2020-05-31,AUT,Austria,Burgenland,47.541449,16.520206,345,11,325,9,0,0,True,True
 2020-05-31,AUT,Austria,Kärnten,46.715832,14.455532,414,13,398,3,0,0,True,True
@@ -41917,6 +41944,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-31,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
 2020-05-31,POL,Poland,Wielkopolskie,52.283858,17.248218,2150,153,0,1997,0,0,True,True
 2020-05-31,POL,Poland,Zachodniopomorskie,53.582707,15.634824,536,19,0,517,0,0,True,True
+2020-05-31,PRT,Portugal,Açores,37.775525,-25.494927,135,15,0,120,0,0,True,True
+2020-05-31,PRT,Portugal,Alentejo,38.485499,-8.006668,259,1,0,258,0,0,True,True
+2020-05-31,PRT,Portugal,Algarve,37.218389,-8.198488,370,15,0,355,0,0,True,True
+2020-05-31,PRT,Portugal,Centro,40.111812,-8.012768,3744,238,0,3506,0,0,True,True
+2020-05-31,PRT,Portugal,Lisbon,38.623843,-8.88436,11142,357,0,10785,0,0,True,True
+2020-05-31,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-05-31,PRT,Portugal,Norte,41.457206,-7.678153,16760,784,0,15976,0,0,True,True
+2020-05-31,PRT,Portugal,NOT SPECIFIED,,,0,0,19409,-19409,474,64,True,True
 2020-05-31,ROU,Romania,Alba,46.172367,23.487279,382,0,0,382,0,0,True,True
 2020-05-31,ROU,Romania,Arad,46.273235,21.758454,697,0,0,697,0,0,True,True
 2020-05-31,ROU,Romania,Argeș,,,260,0,0,260,0,0,True,True
