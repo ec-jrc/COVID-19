@@ -42478,6 +42478,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-01,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-01,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
 2020-06-01,HUN,Hungary,Zala,46.692149,16.903237,255,0,0,255,0,0,True,True
+2020-06-01,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-06-01,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-06-01,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1317,0,0,1317,0,0,False,True
+2020-06-01,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-06-01,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-06-01,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-06-01,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
+2020-06-01,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-06-01,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-06-01,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
 2020-06-01,IRL,Ireland,Ireland,53.41975,-8.240472,24990,1652,0,23338,0,0,True,True
 2020-06-01,LVA,Latvia,Latvia,56.875584,24.607722,1066,24,0,1042,0,0,True,True
 2020-06-01,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
@@ -42556,6 +42566,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-01,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-01,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-01,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-01,SWE,Sweden,Blekinge,56.279696,15.193246,211,0,0,211,0,0,True,True
+2020-06-01,SWE,Sweden,Dalarna,60.952955,14.350603,1217,0,0,1217,0,0,True,True
+2020-06-01,SWE,Sweden,Gävleborg,61.440899,16.291105,1293,0,0,1293,0,0,True,True
+2020-06-01,SWE,Sweden,Gotland,57.487051,18.510063,81,0,0,81,0,0,True,True
+2020-06-01,SWE,Sweden,Halland,56.953555,12.842898,781,0,0,781,0,0,True,True
+2020-06-01,SWE,Sweden,Jämtland,63.251956,14.312747,729,0,0,729,0,0,True,True
+2020-06-01,SWE,Sweden,Jönköping,57.499911,14.436577,1554,0,0,1554,0,0,True,True
+2020-06-01,SWE,Sweden,Kalmar,57.245033,16.053939,352,0,0,352,0,0,True,True
+2020-06-01,SWE,Sweden,Kronoberg,56.786938,14.574736,840,0,0,840,0,0,True,True
+2020-06-01,SWE,Sweden,Norrbotten,66.954122,20.083057,414,0,0,414,0,0,True,True
+2020-06-01,SWE,Sweden,NOT SPECIFIED,,,0,4403,0,-4403,0,2083,True,True
+2020-06-01,SWE,Sweden,Örebro,59.350249,14.974992,1795,0,0,1795,0,0,True,True
+2020-06-01,SWE,Sweden,Östergötland,58.354622,15.661533,1975,0,0,1975,0,0,True,True
+2020-06-01,SWE,Sweden,Skåne,55.948711,13.596415,1747,0,0,1747,0,0,True,True
+2020-06-01,SWE,Sweden,Södermanland,59.077751,16.685977,1634,0,0,1634,0,0,True,True
+2020-06-01,SWE,Sweden,Stockholm,59.370877,17.711874,12208,0,0,12208,0,0,True,True
+2020-06-01,SWE,Sweden,Uppsala,60.039134,17.672887,1929,0,0,1929,0,0,True,True
+2020-06-01,SWE,Sweden,Värmland,59.768908,13.153806,532,0,0,532,0,0,True,True
+2020-06-01,SWE,Sweden,Västerbotten,64.862069,17.819194,500,0,0,500,0,0,True,True
+2020-06-01,SWE,Sweden,Västernorrland,63.096635,17.251241,728,0,0,728,0,0,True,True
+2020-06-01,SWE,Sweden,Västmanland,59.801595,16.318208,1273,0,0,1273,0,0,True,True
+2020-06-01,SWE,Sweden,Västra Götaland,58.303302,12.891496,6021,0,0,6021,0,0,True,True
 2020-06-01,CHE,Switzerland,Aargau,47.410914,8.159107,1201,46,1120,35,6,1,False,False
 2020-06-01,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
 2020-06-01,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
