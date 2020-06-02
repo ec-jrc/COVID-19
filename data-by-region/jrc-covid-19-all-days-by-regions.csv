@@ -42842,6 +42842,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-02,CZE,Czech Republic,Ústecký,50.488308,13.816736,557,0,0,557,0,0,True,True
 2020-06-02,CZE,Czech Republic,Vysocina,49.40736,15.689937,186,0,0,186,0,0,True,True
 2020-06-02,CZE,Czech Republic,Zlínský,49.239654,17.770218,371,0,0,371,0,0,True,True
+2020-06-02,FIN,Finland,Ahvenanmaa,60.240625,19.966666,13,0,0,13,0,0,True,True
+2020-06-02,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,0,0,24,0,0,True,True
+2020-06-02,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,45,0,0,45,0,0,True,True
+2020-06-02,FIN,Finland,Etelä-Savo,61.813578,27.347685,52,0,0,52,0,0,True,True
+2020-06-02,FIN,Finland,HUS,60.408524,24.7817,5021,0,0,5021,0,0,True,True
+2020-06-02,FIN,Finland,Itä-Savo,62.073919,28.846114,13,0,0,13,0,0,True,True
+2020-06-02,FIN,Finland,Kainuu,64.373656,28.743748,65,0,0,65,0,0,True,True
+2020-06-02,FIN,Finland,Kanta-Häme,60.921424,24.354383,110,0,0,110,0,0,True,True
+2020-06-02,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,22,0,0,22,0,0,True,True
+2020-06-02,FIN,Finland,Keski-Suomi,62.629133,25.476526,133,0,0,133,0,0,True,True
+2020-06-02,FIN,Finland,Kymenlaakso,60.826543,26.889951,43,0,0,43,0,0,True,True
+2020-06-02,FIN,Finland,Länsi-Pohja,66.133479,24.762611,148,0,0,148,0,0,True,True
+2020-06-02,FIN,Finland,Lappi,67.847438,26.444542,72,0,0,72,0,0,True,True
+2020-06-02,FIN,Finland,Päijät-Häme,61.217271,25.721465,109,0,0,109,0,0,True,True
+2020-06-02,FIN,Finland,Pirkanmaa,61.715017,23.913902,264,0,0,264,0,0,True,True
+2020-06-02,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,0,0,24,0,0,True,True
+2020-06-02,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,135,0,0,135,0,0,True,True
+2020-06-02,FIN,Finland,Pohjois-Savo,63.173162,27.465765,134,0,0,134,0,0,True,True
+2020-06-02,FIN,Finland,Satakunta,61.527072,22.157717,53,0,0,53,0,0,True,True
+2020-06-02,FIN,Finland,Vaasa,63.077479,22.196054,54,0,0,54,0,0,True,True
+2020-06-02,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,351,0,0,351,0,0,True,True
 2020-06-02,DEU,Germany,Baden-Württemberg,48.537648,9.049199,34796,1758,0,33038,0,0,True,True
 2020-06-02,DEU,Germany,Bayern,48.947574,11.419913,47029,2456,0,44573,0,0,True,True
 2020-06-02,DEU,Germany,Berlin,52.501532,13.40185,6839,198,0,6641,0,0,True,True
@@ -42902,6 +42923,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-02,ROU,Romania,Vâlcea,,,30,0,0,30,0,0,True,True
 2020-06-02,ROU,Romania,Vaslui,46.526869,27.769395,162,0,0,162,0,0,True,True
 2020-06-02,ROU,Romania,Vrancea,45.788059,26.980214,626,0,0,626,0,0,True,True
+2020-06-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
+2020-06-02,SVK,Slovakia,Bratislava,48.319003,17.17481,366,0,0,366,0,0,True,True
+2020-06-02,SVK,Slovakia,Košice,48.771358,20.721931,262,0,0,262,0,0,True,True
+2020-06-02,SVK,Slovakia,Nitra,48.140652,18.30311,120,0,0,120,0,0,True,True
+2020-06-02,SVK,Slovakia,NOT SPECIFIED,,,0,28,1372,-1400,38,0,True,True
+2020-06-02,SVK,Slovakia,Prešov,49.126441,21.221321,179,0,0,179,0,0,True,True
+2020-06-02,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
+2020-06-02,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
+2020-06-02,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
 2020-06-02,CHE,Switzerland,Aargau,47.410914,8.159107,1201,46,1120,35,6,1,False,False
 2020-06-02,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
 2020-06-02,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
