@@ -42694,6 +42694,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-01,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-01,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-01,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-01,SVN,Slovenia,NOT SPECIFIED,,,1475,109,293,1073,5,1,True,True
 2020-06-01,ESP,Spain,Andalucía,37.46363,-4.573552,12679,1404,0,11275,6263,772,True,True
 2020-06-01,ESP,Spain,Aragón,41.519884,-0.660302,5695,826,0,4869,2645,267,True,True
 2020-06-01,ESP,Spain,Canarias,28.291062,-16.55631,2347,151,0,2196,949,180,True,True
@@ -42880,6 +42881,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-02,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1707,55,0,1652,0,0,True,True
 2020-06-02,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3103,145,0,2958,0,0,True,True
 2020-06-02,DEU,Germany,Thüringen,50.903878,11.02488,3017,163,0,2854,0,0,True,True
+2020-06-02,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-06-02,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-06-02,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1317,0,0,1317,0,0,False,True
+2020-06-02,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-06-02,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-06-02,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-06-02,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
+2020-06-02,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-06-02,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-06-02,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
 2020-06-02,ROU,Romania,Alba,46.172367,23.487279,385,0,0,385,0,0,True,True
 2020-06-02,ROU,Romania,Arad,46.273235,21.758454,697,0,0,697,0,0,True,True
 2020-06-02,ROU,Romania,Argeș,,,263,0,0,263,0,0,True,True
