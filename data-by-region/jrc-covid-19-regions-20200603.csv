@@ -80,28 +80,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-02,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
 2020-06-02,HRV,Croatia,Zagrebačka,45.82762,16.381796,131,4,0,127,0,0,True,True
 2020-06-02,CYP,Cyprus,Cyprus,35.167406,33.435499,949,17,0,932,0,0,True,True
-2020-06-02,CZE,Czech Republic,Jihoceský,49.093362,14.439278,187,0,0,187,0,0,True,True
-2020-06-02,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,561,0,0,561,0,0,True,True
-2020-06-02,CZE,Czech Republic,Karlovarský,50.170136,12.763213,456,0,0,456,0,0,True,True
-2020-06-02,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,198,0,0,198,0,0,True,True
-2020-06-02,CZE,Czech Republic,Liberecký,50.732038,14.973755,200,0,0,200,0,0,True,True
-2020-06-02,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,1605,0,0,1605,0,0,True,True
-2020-06-02,CZE,Czech Republic,NOT SPECIFIED,,,79,321,6642,-6884,0,0,True,True
-2020-06-02,CZE,Czech Republic,Olomoucký,49.823636,17.016472,752,0,0,752,0,0,True,True
-2020-06-02,CZE,Czech Republic,Pardubický,49.877869,16.495746,288,0,0,288,0,0,True,True
-2020-06-02,CZE,Czech Republic,Plzenský,49.590906,13.23222,664,0,0,664,0,0,True,True
-2020-06-02,CZE,Czech Republic,Prague,50.063699,14.476403,2133,0,0,2133,0,0,True,True
-2020-06-02,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1071,0,0,1071,0,0,True,True
-2020-06-02,CZE,Czech Republic,Ústecký,50.488308,13.816736,557,0,0,557,0,0,True,True
-2020-06-02,CZE,Czech Republic,Vysocina,49.40736,15.689937,186,0,0,186,0,0,True,True
-2020-06-02,CZE,Czech Republic,Zlínský,49.239654,17.770218,371,0,0,371,0,0,True,True
+2020-06-03,CZE,Czech Republic,Jihoceský,49.093362,14.439278,186,0,0,186,0,0,True,True
+2020-06-03,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,567,0,0,567,0,0,True,True
+2020-06-03,CZE,Czech Republic,Karlovarský,50.170136,12.763213,457,0,0,457,0,0,True,True
+2020-06-03,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,199,0,0,199,0,0,True,True
+2020-06-03,CZE,Czech Republic,Liberecký,50.732038,14.973755,200,0,0,200,0,0,True,True
+2020-06-03,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,1616,0,0,1616,0,0,True,True
+2020-06-03,CZE,Czech Republic,NOT SPECIFIED,,,95,323,6693,-6921,0,0,True,True
+2020-06-03,CZE,Czech Republic,Olomoucký,49.823636,17.016472,752,0,0,752,0,0,True,True
+2020-06-03,CZE,Czech Republic,Pardubický,49.877869,16.495746,288,0,0,288,0,0,True,True
+2020-06-03,CZE,Czech Republic,Plzenský,49.590906,13.23222,664,0,0,664,0,0,True,True
+2020-06-03,CZE,Czech Republic,Prague,50.063699,14.476403,2158,0,0,2158,0,0,True,True
+2020-06-03,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1070,0,0,1070,0,0,True,True
+2020-06-03,CZE,Czech Republic,Ústecký,50.488308,13.816736,564,0,0,564,0,0,True,True
+2020-06-03,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
+2020-06-03,CZE,Czech Republic,Zlínský,49.239654,17.770218,371,0,0,371,0,0,True,True
 2020-06-02,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
 2020-06-02,DNK,Denmark,Greenland,71.702379,-42.177174,11,0,0,11,0,0,True,True
 2020-06-02,DNK,Denmark,Hovedstaden,55.675758,12.56902,0,0,0,0,0,0,True,True
 2020-06-02,DNK,Denmark,Mainland,56.031924,9.317572,0,0,0,0,0,0,True,True
 2020-06-02,DNK,Denmark,Midtjylland,56.302139,9.302777,0,0,0,0,0,0,True,True
 2020-06-02,DNK,Denmark,Nordjylland,56.830742,9.493053,0,0,0,0,0,0,True,True
-2020-06-02,DNK,Denmark,NOT SPECIFIED,,,11734,580,0,11154,0,0,True,True
+2020-06-02,DNK,Denmark,NOT SPECIFIED,,,11536,580,0,10956,0,0,True,True
 2020-06-02,DNK,Denmark,Sjælland,55.92481,11.67126,0,0,0,0,0,0,True,True
 2020-06-02,DNK,Denmark,Syddanmark,55.675758,12.56902,0,0,0,0,0,0,True,True
 2020-06-02,EST,Estonia,Estonia,58.596209,25.023778,1870,68,0,1802,0,0,True,True
@@ -460,15 +460,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-31,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,1097,20,538,539,0,0,False,False
 2020-06-02,SMR,San Marino,San Marino,43.942973,12.460035,687,42,0,645,0,0,False,False
 2020-06-02,SRB,Serbia,Serbia,44.206802,20.911009,11430,244,0,11186,0,0,False,True
-2020-06-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
-2020-06-02,SVK,Slovakia,Bratislava,48.319003,17.17481,366,0,0,366,0,0,True,True
-2020-06-02,SVK,Slovakia,Košice,48.771358,20.721931,262,0,0,262,0,0,True,True
-2020-06-02,SVK,Slovakia,Nitra,48.140652,18.30311,120,0,0,120,0,0,True,True
-2020-06-02,SVK,Slovakia,NOT SPECIFIED,,,0,28,1372,-1400,38,0,True,True
-2020-06-02,SVK,Slovakia,Prešov,49.126441,21.221321,179,0,0,179,0,0,True,True
-2020-06-02,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
-2020-06-02,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
-2020-06-02,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-03,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
+2020-06-03,SVK,Slovakia,Bratislava,48.319003,17.17481,366,0,0,366,0,0,True,True
+2020-06-03,SVK,Slovakia,Košice,48.771358,20.721931,263,0,0,263,0,0,True,True
+2020-06-03,SVK,Slovakia,Nitra,48.140652,18.30311,121,0,0,121,0,0,True,True
+2020-06-03,SVK,Slovakia,NOT SPECIFIED,,,0,28,1375,-1403,42,0,True,True
+2020-06-03,SVK,Slovakia,Prešov,49.126441,21.221321,180,0,0,180,0,0,True,True
+2020-06-03,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
+2020-06-03,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
+2020-06-03,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True
