@@ -43359,10 +43359,33 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1707,55,0,1652,0,0,True,True
 2020-06-03,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3106,146,0,2960,0,0,True,True
 2020-06-03,DEU,Germany,Thüringen,50.903878,11.02488,3022,166,0,2856,0,0,True,True
+2020-06-03,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,24,0,0,24,0,0,True,True
+2020-06-03,HUN,Hungary,Baranya,46.043048,18.197022,36,0,0,36,0,0,True,True
+2020-06-03,HUN,Hungary,Békés,46.735413,21.006326,11,0,0,11,0,0,True,True
+2020-06-03,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,61,0,0,61,0,0,True,True
+2020-06-03,HUN,Hungary,Budapest,47.486226,19.102958,1868,0,0,1868,0,0,True,True
+2020-06-03,HUN,Hungary,Csongrád,46.429441,20.23317,115,0,0,115,0,0,True,True
+2020-06-03,HUN,Hungary,Fejér,47.130985,18.532031,371,0,0,371,0,0,True,True
+2020-06-03,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,85,0,0,85,0,0,True,True
+2020-06-03,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,25,0,0,25,0,0,True,True
+2020-06-03,HUN,Hungary,Heves,47.856454,20.175008,13,0,0,13,0,0,True,True
+2020-06-03,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-06-03,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,18,0,0,18,0,0,True,True
+2020-06-03,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,268,0,0,268,0,0,True,True
+2020-06-03,HUN,Hungary,Nógrád,47.988372,19.52022,47,0,0,47,0,0,True,True
+2020-06-03,HUN,Hungary,NOT SPECIFIED,,,0,534,2190,-2724,414,24,True,True
+2020-06-03,HUN,Hungary,Pest,47.252834,19.743062,563,0,0,563,0,0,True,True
+2020-06-03,HUN,Hungary,Somogy,46.452574,17.603217,29,0,0,29,0,0,True,True
+2020-06-03,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,42,0,0,42,0,0,True,True
+2020-06-03,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
+2020-06-03,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
+2020-06-03,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
+2020-06-03,HUN,Hungary,Zala,46.692149,16.903237,255,0,0,255,0,0,True,True
 2020-06-03,IRL,Ireland,Ireland,53.41975,-8.240472,25066,1658,0,23408,0,0,True,True
 2020-06-03,LVA,Latvia,Latvia,56.875584,24.607722,1079,24,0,1055,0,0,True,True
 2020-06-03,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-03,LTU,Lithuania,Lithuania,55.174112,23.906736,1682,71,0,1611,0,0,True,True
+2020-06-03,MLT,Malta,Malta,35.946151,14.384612,622,9,562,51,0,0,True,True
 2020-06-03,MDA,Moldova,Moldova,46.979527,28.377195,8548,307,0,8241,0,0,False,False
 2020-06-03,MCO,Monaco,Monaco,43.738348,7.424451,99,5,0,94,0,0,False,False
 2020-06-03,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
@@ -43383,6 +43406,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
 2020-06-03,POL,Poland,Wielkopolskie,52.283858,17.248218,2206,154,0,2052,0,0,True,True
 2020-06-03,POL,Poland,Zachodniopomorskie,53.582707,15.634824,548,19,0,529,0,0,True,True
+2020-06-03,ROU,Romania,Alba,46.172367,23.487279,394,0,0,394,0,0,True,True
+2020-06-03,ROU,Romania,Arad,46.273235,21.758454,698,0,0,698,0,0,True,True
+2020-06-03,ROU,Romania,Argeș,,,267,0,0,267,0,0,True,True
+2020-06-03,ROU,Romania,Bacău,,,511,0,0,511,0,0,True,True
+2020-06-03,ROU,Romania,Bihor,46.942178,22.210795,627,0,0,627,0,0,True,True
+2020-06-03,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,343,0,0,343,0,0,True,True
+2020-06-03,ROU,Romania,Botoșani,,,789,0,0,789,0,0,True,True
+2020-06-03,ROU,Romania,Brăila,,,41,0,0,41,0,0,True,True
+2020-06-03,ROU,Romania,Brașov,,,762,0,0,762,0,0,True,True
+2020-06-03,ROU,Romania,București,,,2081,0,0,2081,0,0,True,True
+2020-06-03,ROU,Romania,Buzău,,,201,0,0,201,0,0,True,True
+2020-06-03,ROU,Romania,Călărași,,,99,0,0,99,0,0,True,True
+2020-06-03,ROU,Romania,Caraș-Severin,,,112,0,0,112,0,0,True,True
+2020-06-03,ROU,Romania,Cluj,46.812237,23.53594,564,0,0,564,0,0,True,True
+2020-06-03,ROU,Romania,Costanza,,,283,0,0,283,0,0,True,True
+2020-06-03,ROU,Romania,Covasna,45.938093,25.990767,230,0,0,230,0,0,True,True
+2020-06-03,ROU,Romania,Dâmbovița,,,298,0,0,298,0,0,True,True
+2020-06-03,ROU,Romania,Dolj,44.140792,23.613526,233,0,0,233,0,0,True,True
+2020-06-03,ROU,Romania,Galați,,,616,0,0,616,0,0,True,True
+2020-06-03,ROU,Romania,Giurgiu,44.144127,25.881413,224,0,0,224,0,0,True,True
+2020-06-03,ROU,Romania,Gorj,45.004246,23.322863,151,0,0,151,0,0,True,True
+2020-06-03,ROU,Romania,Harghita,46.549997,25.558475,153,0,0,153,0,0,True,True
+2020-06-03,ROU,Romania,Hunedoara,45.753652,22.938806,634,0,0,634,0,0,True,True
+2020-06-03,ROU,Romania,Iași,,,594,0,0,594,0,0,True,True
+2020-06-03,ROU,Romania,Ialomița,,,368,0,0,368,0,0,True,True
+2020-06-03,ROU,Romania,Ilfov,44.286638,26.144699,536,0,0,536,0,0,True,True
+2020-06-03,ROU,Romania,Maramureș,47.671302,23.981463,100,0,0,100,0,0,True,True
+2020-06-03,ROU,Romania,Mehedinți,,,115,0,0,115,0,0,True,True
+2020-06-03,ROU,Romania,Mureș,,,683,0,0,683,0,0,True,True
+2020-06-03,ROU,Romania,Neamț,,,884,0,0,884,0,0,True,True
+2020-06-03,ROU,Romania,NOT SPECIFIED,,,34,1288,13800,-15054,0,0,True,True
+2020-06-03,ROU,Romania,Olt,44.272504,24.439351,93,0,0,93,0,0,True,True
+2020-06-03,ROU,Romania,Prahova,45.114672,26.015788,115,0,0,115,0,0,True,True
+2020-06-03,ROU,Romania,Sălaj,,,93,0,0,93,0,0,True,True
+2020-06-03,ROU,Romania,Satu Mare,47.705953,22.898922,62,0,0,62,0,0,True,True
+2020-06-03,ROU,Romania,Sibiu,45.85906,24.245264,509,0,0,509,0,0,True,True
+2020-06-03,ROU,Romania,Suceava,47.637703,25.82751,3540,0,0,3540,0,0,True,True
+2020-06-03,ROU,Romania,Teleorman,44.027822,25.197899,145,0,0,145,0,0,True,True
+2020-06-03,ROU,Romania,Timiș,,,508,0,0,508,0,0,True,True
+2020-06-03,ROU,Romania,Tulcea,44.986929,28.858105,153,0,0,153,0,0,True,True
+2020-06-03,ROU,Romania,Vâlcea,,,31,0,0,31,0,0,True,True
+2020-06-03,ROU,Romania,Vaslui,46.526869,27.769395,163,0,0,163,0,0,True,True
+2020-06-03,ROU,Romania,Vrancea,45.788059,26.980214,632,0,0,632,0,0,True,True
 2020-06-03,SMR,San Marino,San Marino,43.942973,12.460035,687,42,0,645,0,0,False,False
 2020-06-03,SRB,Serbia,Serbia,44.206802,20.911009,11454,245,0,11209,0,0,False,True
 2020-06-03,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
