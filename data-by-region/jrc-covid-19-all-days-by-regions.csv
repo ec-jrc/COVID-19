@@ -43415,6 +43415,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-03,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
 2020-06-03,HUN,Hungary,Zala,46.692149,16.903237,255,0,0,255,0,0,True,True
+2020-06-03,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-06-03,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-06-03,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1317,0,0,1317,0,0,False,True
+2020-06-03,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-06-03,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-06-03,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-06-03,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
+2020-06-03,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-06-03,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-06-03,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
 2020-06-03,IRL,Ireland,Ireland,53.41975,-8.240472,25066,1658,0,23408,0,0,True,True
 2020-06-03,LVA,Latvia,Latvia,56.875584,24.607722,1079,24,0,1055,0,0,True,True
 2020-06-03,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
@@ -43453,6 +43463,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
 2020-06-03,POL,Poland,Wielkopolskie,52.283858,17.248218,2206,154,0,2052,0,0,True,True
 2020-06-03,POL,Poland,Zachodniopomorskie,53.582707,15.634824,548,19,0,529,0,0,True,True
+2020-06-03,PRT,Portugal,Açores,37.775525,-25.494927,138,15,0,123,0,0,True,True
+2020-06-03,PRT,Portugal,Alentejo,38.485499,-8.006668,260,1,0,259,0,0,True,True
+2020-06-03,PRT,Portugal,Algarve,37.218389,-8.198488,376,15,0,361,0,0,True,True
+2020-06-03,PRT,Portugal,Centro,40.111812,-8.012768,3765,240,0,3525,0,0,True,True
+2020-06-03,PRT,Portugal,Lisbon,38.623843,-8.88436,11828,380,0,11448,0,0,True,True
+2020-06-03,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-06-03,PRT,Portugal,Norte,41.457206,-7.678153,16804,796,0,16008,0,0,True,True
+2020-06-03,PRT,Portugal,NOT SPECIFIED,,,0,0,20079,-20079,428,56,True,True
 2020-06-03,ROU,Romania,Alba,46.172367,23.487279,394,0,0,394,0,0,True,True
 2020-06-03,ROU,Romania,Arad,46.273235,21.758454,698,0,0,698,0,0,True,True
 2020-06-03,ROU,Romania,Argeș,,,267,0,0,267,0,0,True,True
