@@ -43929,6 +43929,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,CZE,Czech Republic,Ústecký,50.488308,13.816736,565,0,0,565,0,0,True,True
 2020-06-04,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
 2020-06-04,CZE,Czech Republic,Zlínský,49.239654,17.770218,372,0,0,372,0,0,True,True
+2020-06-04,DNK,Denmark,Hovedstaden,55.675758,12.56902,6783,338,0,6445,0,0,True,True
+2020-06-04,DNK,Denmark,Midtjylland,56.302139,9.302777,1601,69,0,1532,0,0,True,True
+2020-06-04,DNK,Denmark,Nordjylland,56.830742,9.493053,436,22,0,414,0,0,True,True
+2020-06-04,DNK,Denmark,Sjælland,55.92481,11.67126,1906,119,0,1787,0,0,True,True
+2020-06-04,DNK,Denmark,Syddanmark,55.675758,12.56902,1011,34,0,977,0,0,True,True
 2020-06-04,FIN,Finland,Ahvenanmaa,60.240625,19.966666,13,0,0,13,0,0,True,True
 2020-06-04,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,0,0,24,0,0,True,True
 2020-06-04,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,0,0,46,0,0,True,True
@@ -44013,6 +44018,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,179,1,0,178,0,0,True,True
 2020-06-04,POL,Poland,Wielkopolskie,52.283858,17.248218,2212,154,0,2058,0,0,True,True
 2020-06-04,POL,Poland,Zachodniopomorskie,53.582707,15.634824,548,19,0,529,0,0,True,True
+2020-06-04,PRT,Portugal,Açores,37.775525,-25.494927,138,15,0,123,0,0,True,True
+2020-06-04,PRT,Portugal,Alentejo,38.485499,-8.006668,262,1,0,261,0,0,True,True
+2020-06-04,PRT,Portugal,Algarve,37.218389,-8.198488,376,15,0,361,0,0,True,True
+2020-06-04,PRT,Portugal,Centro,40.111812,-8.012768,3770,240,0,3530,0,0,True,True
+2020-06-04,PRT,Portugal,Lisbon,38.623843,-8.88436,12137,383,0,11754,0,0,True,True
+2020-06-04,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-06-04,PRT,Portugal,Norte,41.457206,-7.678153,16819,801,0,16018,0,0,True,True
+2020-06-04,PRT,Portugal,NOT SPECIFIED,,,0,0,20323,-20323,445,58,True,True
 2020-06-04,ROU,Romania,Alba,46.172367,23.487279,394,0,0,394,0,0,True,True
 2020-06-04,ROU,Romania,Arad,46.273235,21.758454,698,0,0,698,0,0,True,True
 2020-06-04,ROU,Romania,Argeș,,,267,0,0,267,0,0,True,True
@@ -44067,6 +44080,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-04,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-04,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-04,SWE,Sweden,Blekinge,56.279696,15.193246,254,0,0,254,0,0,True,True
+2020-06-04,SWE,Sweden,Dalarna,60.952955,14.350603,1264,0,0,1264,0,0,True,True
+2020-06-04,SWE,Sweden,Gävleborg,61.440899,16.291105,1400,0,0,1400,0,0,True,True
+2020-06-04,SWE,Sweden,Gotland,57.487051,18.510063,87,0,0,87,0,0,True,True
+2020-06-04,SWE,Sweden,Halland,56.953555,12.842898,843,0,0,843,0,0,True,True
+2020-06-04,SWE,Sweden,Jämtland,63.251956,14.312747,757,0,0,757,0,0,True,True
+2020-06-04,SWE,Sweden,Jönköping,57.499911,14.436577,1647,0,0,1647,0,0,True,True
+2020-06-04,SWE,Sweden,Kalmar,57.245033,16.053939,376,0,0,376,0,0,True,True
+2020-06-04,SWE,Sweden,Kronoberg,56.786938,14.574736,886,0,0,886,0,0,True,True
+2020-06-04,SWE,Sweden,Norrbotten,66.954122,20.083057,461,0,0,461,0,0,True,True
+2020-06-04,SWE,Sweden,NOT SPECIFIED,,,0,4562,0,-4562,0,2143,True,True
+2020-06-04,SWE,Sweden,Örebro,59.350249,14.974992,1894,0,0,1894,0,0,True,True
+2020-06-04,SWE,Sweden,Östergötland,58.354622,15.661533,2159,0,0,2159,0,0,True,True
+2020-06-04,SWE,Sweden,Skåne,55.948711,13.596415,1892,0,0,1892,0,0,True,True
+2020-06-04,SWE,Sweden,Södermanland,59.077751,16.685977,1643,0,0,1643,0,0,True,True
+2020-06-04,SWE,Sweden,Stockholm,59.370877,17.711874,14108,0,0,14108,0,0,True,True
+2020-06-04,SWE,Sweden,Uppsala,60.039134,17.672887,2077,0,0,2077,0,0,True,True
+2020-06-04,SWE,Sweden,Värmland,59.768908,13.153806,582,0,0,582,0,0,True,True
+2020-06-04,SWE,Sweden,Västerbotten,64.862069,17.819194,513,0,0,513,0,0,True,True
+2020-06-04,SWE,Sweden,Västernorrland,63.096635,17.251241,806,0,0,806,0,0,True,True
+2020-06-04,SWE,Sweden,Västmanland,59.801595,16.318208,1401,0,0,1401,0,0,True,True
+2020-06-04,SWE,Sweden,Västra Götaland,58.303302,12.891496,6833,0,0,6833,0,0,True,True
 2020-06-04,CHE,Switzerland,Aargau,47.410914,8.159107,1213,46,1140,27,4,1,False,False
 2020-06-04,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
 2020-06-04,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
