@@ -44422,6 +44422,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,UKR,Ukraine,Volyn,51.202858,24.883489,986,0,294,692,0,0,False,False
 2020-06-04,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,469,0,269,200,0,0,False,False
 2020-06-04,UKR,Ukraine,Zhytomyr,50.642612,28.484557,833,0,474,359,0,0,False,False
+2020-06-04,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1071,0,0,1071,0,0,False,True
+2020-06-04,GBR,United Kingdom,Borders,55.572787,-2.786355,325,0,0,325,0,0,False,True
+2020-06-04,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,261,0,0,261,0,0,False,True
+2020-06-04,GBR,United Kingdom,East of England,52.248898,0.548756,14351,0,0,14351,0,0,False,True
+2020-06-04,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,6,0,0,6,0,0,False,True
+2020-06-04,GBR,United Kingdom,England,,,6350,35605,0,-29255,0,0,False,True
+2020-06-04,GBR,United Kingdom,Fife,56.228968,-3.118568,877,0,0,877,0,0,False,True
+2020-06-04,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,944,0,0,944,0,0,False,True
+2020-06-04,GBR,United Kingdom,Grampian,57.299016,-2.780773,1283,0,0,1283,0,0,False,True
+2020-06-04,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,3961,0,0,3961,0,0,False,True
+2020-06-04,GBR,United Kingdom,Highland,57.363501,-4.733034,338,0,0,338,0,0,False,True
+2020-06-04,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2002,0,0,2002,0,0,False,True
+2020-06-04,GBR,United Kingdom,London,51.497136,-0.100571,27063,0,0,27063,0,0,False,True
+2020-06-04,GBR,United Kingdom,Lothian,55.946009,-2.728265,2752,0,0,2752,0,0,False,True
+2020-06-04,GBR,United Kingdom,Midlands,52.718351,-1.45667,25655,0,0,25655,0,0,False,True
+2020-06-04,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,24815,0,0,24815,0,0,False,True
+2020-06-04,GBR,United Kingdom,North West,53.524488,-2.333125,25984,0,0,25984,0,0,False,True
+2020-06-04,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4773,534,0,4239,0,0,False,True
+2020-06-04,GBR,United Kingdom,NOT SPECIFIED,,,93290,0,0,93290,0,0,False,True
+2020-06-04,GBR,United Kingdom,Orkney,58.98094,-2.960521,8,0,0,8,0,0,False,True
+2020-06-04,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2386,0,-2386,0,0,False,True
+2020-06-04,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,0,0,False,True
+2020-06-04,GBR,United Kingdom,South East,51.291417,-0.521902,21823,0,0,21823,0,0,False,True
+2020-06-04,GBR,United Kingdom,South West,51.239761,-2.54375,7766,0,0,7766,0,0,False,True
+2020-06-04,GBR,United Kingdom,Tayside,56.610323,-3.555213,1671,0,0,1671,0,0,False,True
+2020-06-04,GBR,United Kingdom,Wales,52.302413,-3.738347,14238,1379,0,12859,0,0,False,True
 2020-06-05,AND,Andorra,Andorra,42.542268,1.596865,852,51,0,801,0,0,False,False
 2020-06-05,AUT,Austria,Burgenland,47.541449,16.520206,346,11,328,7,0,0,True,True
 2020-06-05,AUT,Austria,Kärnten,46.715832,14.455532,416,13,398,5,0,0,True,True
@@ -44434,6 +44460,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-05,AUT,Austria,Vorarlberg,47.240149,9.896366,902,18,869,15,0,0,True,True
 2020-06-05,AUT,Austria,Wien,48.21141,16.380038,3343,174,2917,252,0,0,True,True
 2020-06-05,BLR,Belarus,Belarus,53.711111,27.973847,45981,253,0,45728,0,0,False,False
+2020-06-05,BEL,Belgium,Brussels,50.836426,4.367415,6010,1458,0,4552,2583,0,True,True
+2020-06-05,BEL,Belgium,Flanders,51.036569,4.234165,33114,4787,0,28327,9604,0,True,True
+2020-06-05,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
+2020-06-05,BEL,Belgium,Wallonia,50.312074,5.019093,18731,3321,0,15410,5220,0,True,True
 2020-06-05,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,10,10,111,0,0,True,True
 2020-06-05,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
 2020-06-05,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -44637,6 +44667,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-05,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-05,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-05,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-05,SWE,Sweden,Blekinge,56.279696,15.193246,264,0,0,264,0,0,True,True
+2020-06-05,SWE,Sweden,Dalarna,60.952955,14.350603,1277,0,0,1277,0,0,True,True
+2020-06-05,SWE,Sweden,Gävleborg,61.440899,16.291105,1435,0,0,1435,0,0,True,True
+2020-06-05,SWE,Sweden,Gotland,57.487051,18.510063,88,0,0,88,0,0,True,True
+2020-06-05,SWE,Sweden,Halland,56.953555,12.842898,870,0,0,870,0,0,True,True
+2020-06-05,SWE,Sweden,Jämtland,63.251956,14.312747,774,0,0,774,0,0,True,True
+2020-06-05,SWE,Sweden,Jönköping,57.499911,14.436577,1681,0,0,1681,0,0,True,True
+2020-06-05,SWE,Sweden,Kalmar,57.245033,16.053939,390,0,0,390,0,0,True,True
+2020-06-05,SWE,Sweden,Kronoberg,56.786938,14.574736,897,0,0,897,0,0,True,True
+2020-06-05,SWE,Sweden,Norrbotten,66.954122,20.083057,481,0,0,481,0,0,True,True
+2020-06-05,SWE,Sweden,NOT SPECIFIED,,,0,4639,0,-4639,0,2152,True,True
+2020-06-05,SWE,Sweden,Örebro,59.350249,14.974992,1896,0,0,1896,0,0,True,True
+2020-06-05,SWE,Sweden,Östergötland,58.354622,15.661533,2197,0,0,2197,0,0,True,True
+2020-06-05,SWE,Sweden,Skåne,55.948711,13.596415,1928,0,0,1928,0,0,True,True
+2020-06-05,SWE,Sweden,Södermanland,59.077751,16.685977,1655,0,0,1655,0,0,True,True
+2020-06-05,SWE,Sweden,Stockholm,59.370877,17.711874,14366,0,0,14366,0,0,True,True
+2020-06-05,SWE,Sweden,Uppsala,60.039134,17.672887,2136,0,0,2136,0,0,True,True
+2020-06-05,SWE,Sweden,Värmland,59.768908,13.153806,599,0,0,599,0,0,True,True
+2020-06-05,SWE,Sweden,Västerbotten,64.862069,17.819194,518,0,0,518,0,0,True,True
+2020-06-05,SWE,Sweden,Västernorrland,63.096635,17.251241,835,0,0,835,0,0,True,True
+2020-06-05,SWE,Sweden,Västmanland,59.801595,16.318208,1434,0,0,1434,0,0,True,True
+2020-06-05,SWE,Sweden,Västra Götaland,58.303302,12.891496,7218,0,0,7218,0,0,True,True
 2020-06-05,CHE,Switzerland,Aargau,47.410914,8.159107,1216,46,1145,25,3,2,False,False
 2020-06-05,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
 2020-06-05,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
