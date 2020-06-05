@@ -44326,6 +44326,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-04,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-04,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-04,SVN,Slovenia,NOT SPECIFIED,,,1479,109,293,1077,6,0,True,True
 2020-06-04,ESP,Spain,Andalucía,37.46363,-4.573552,12743,1404,0,11339,6299,772,True,True
 2020-06-04,ESP,Spain,Aragón,41.519884,-0.660302,5734,826,0,4908,2659,270,True,True
 2020-06-04,ESP,Spain,Canarias,28.291062,-16.55631,2361,151,0,2210,948,180,True,True
@@ -44421,6 +44422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,UKR,Ukraine,Volyn,51.202858,24.883489,986,0,294,692,0,0,False,False
 2020-06-04,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,469,0,269,200,0,0,False,False
 2020-06-04,UKR,Ukraine,Zhytomyr,50.642612,28.484557,833,0,474,359,0,0,False,False
+2020-06-05,AND,Andorra,Andorra,42.542268,1.596865,852,51,0,801,0,0,False,False
 2020-06-05,AUT,Austria,Burgenland,47.541449,16.520206,346,11,328,7,0,0,True,True
 2020-06-05,AUT,Austria,Kärnten,46.715832,14.455532,416,13,398,5,0,0,True,True
 2020-06-05,AUT,Austria,Niederösterreich,48.27051,15.763245,2865,97,2695,73,0,0,True,True
@@ -44513,6 +44515,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-05,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-05,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
 2020-06-05,HUN,Hungary,Zala,46.692149,16.903237,257,0,0,257,0,0,True,True
+2020-06-05,POL,Poland,Dolnośląskie,51.07994,16.381483,2667,112,0,2555,0,0,True,True
+2020-06-05,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,601,47,0,554,0,0,True,True
+2020-06-05,POL,Poland,Łódzkie,51.559579,19.408271,1779,76,0,1703,0,0,True,True
+2020-06-05,POL,Poland,Lubelskie,51.247253,22.908895,504,15,0,489,0,0,True,True
+2020-06-05,POL,Poland,Lubuskie,52.206458,15.345515,123,0,0,123,0,0,True,True
+2020-06-05,POL,Poland,Małopolskie,49.842031,20.300847,1293,40,0,1253,0,0,True,True
+2020-06-05,POL,Poland,Mazowieckie,52.309134,21.081201,3738,281,0,3457,0,0,True,True
+2020-06-05,POL,Poland,Opolskie,50.621436,17.876844,701,49,0,652,0,0,True,True
+2020-06-05,POL,Poland,Podkarpackie,49.962818,22.225966,388,36,0,352,0,0,True,True
+2020-06-05,POL,Poland,Podlaskie,53.28395,22.895092,491,9,0,482,0,0,True,True
+2020-06-05,POL,Poland,Pomorskie,54.129033,18.012613,563,36,0,527,0,0,True,True
+2020-06-05,POL,Poland,Śląskie,50.318293,18.999987,8867,230,0,8637,0,0,True,True
+2020-06-05,POL,Poland,Świętokrzyskie,50.734202,20.797295,511,22,0,489,0,0,True,True
+2020-06-05,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,180,1,0,179,0,0,True,True
+2020-06-05,POL,Poland,Wielkopolskie,52.283858,17.248218,2219,154,0,2065,0,0,True,True
+2020-06-05,POL,Poland,Zachodniopomorskie,53.582707,15.634824,552,19,0,533,0,0,True,True
 2020-06-05,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,103,0,0,103,0,0,True,True
 2020-06-05,SVK,Slovakia,Bratislava,48.319003,17.17481,367,0,0,367,0,0,True,True
 2020-06-05,SVK,Slovakia,Košice,48.771358,20.721931,263,0,0,263,0,0,True,True
