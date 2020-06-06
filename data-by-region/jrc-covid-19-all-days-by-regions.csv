@@ -45053,6 +45053,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,BEL,Belgium,Flanders,51.036569,4.234165,33237,4795,0,28442,9623,0,True,True
 2020-06-06,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
 2020-06-06,BEL,Belgium,Wallonia,50.312074,5.019093,18757,3324,0,15433,5222,0,True,True
+2020-06-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1115,39,0,1076,0,0,False,False
 2020-06-06,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,132,10,10,112,0,0,True,True
 2020-06-06,BGR,Bulgaria,Burgas,42.491848,27.306892,53,1,19,33,0,0,True,True
 2020-06-06,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -45118,6 +45119,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,CZE,Czech Republic,Ústecký,50.488308,13.816736,567,0,0,567,0,0,True,True
 2020-06-06,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
 2020-06-06,CZE,Czech Republic,Zlínský,49.239654,17.770218,372,0,0,372,0,0,True,True
+2020-06-06,EST,Estonia,Estonia,58.596209,25.023778,1931,69,0,1862,0,0,True,True
 2020-06-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,14,0,0,14,0,0,True,True
 2020-06-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,0,0,24,0,0,True,True
 2020-06-06,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,0,0,46,0,0,True,True
@@ -45298,6 +45300,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,180,1,0,179,0,0,True,True
 2020-06-06,POL,Poland,Wielkopolskie,52.283858,17.248218,2232,156,0,2076,0,0,True,True
 2020-06-06,POL,Poland,Zachodniopomorskie,53.582707,15.634824,553,19,0,534,0,0,True,True
+2020-06-06,PRT,Portugal,Açores,37.775525,-25.494927,141,15,0,126,0,0,True,True
+2020-06-06,PRT,Portugal,Alentejo,38.485499,-8.006668,266,1,0,265,0,0,True,True
+2020-06-06,PRT,Portugal,Algarve,37.218389,-8.198488,382,15,0,367,0,0,True,True
+2020-06-06,PRT,Portugal,Centro,40.111812,-8.012768,3799,244,0,3555,0,0,True,True
+2020-06-06,PRT,Portugal,Lisbon,38.623843,-8.88436,12818,395,0,12423,0,0,True,True
+2020-06-06,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-06-06,PRT,Portugal,Norte,41.457206,-7.678153,16855,804,0,16051,0,0,True,True
+2020-06-06,PRT,Portugal,NOT SPECIFIED,,,0,0,20807,-20807,414,57,True,True
 2020-06-06,ROU,Romania,Alba,46.172367,23.487279,396,0,0,396,0,0,True,True
 2020-06-06,ROU,Romania,Arad,46.273235,21.758454,698,0,0,698,0,0,True,True
 2020-06-06,ROU,Romania,Argeș,,,275,0,0,275,0,0,True,True
