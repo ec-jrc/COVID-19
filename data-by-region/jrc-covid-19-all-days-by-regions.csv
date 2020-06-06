@@ -45035,6 +45035,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,BGR,Bulgaria,Vidin,43.797295,22.68621,192,18,14,160,0,0,True,True
 2020-06-06,BGR,Bulgaria,Vratsa,43.395067,23.759152,18,0,2,16,0,0,True,True
 2020-06-06,BGR,Bulgaria,Yambol,,,159,14,18,127,0,0,True,True
+2020-06-06,CZE,Czech Republic,Jihoceský,49.093362,14.439278,188,0,0,188,0,0,True,True
+2020-06-06,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,576,0,0,576,0,0,True,True
+2020-06-06,CZE,Czech Republic,Karlovarský,50.170136,12.763213,475,0,0,475,0,0,True,True
+2020-06-06,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,201,0,0,201,0,0,True,True
+2020-06-06,CZE,Czech Republic,Liberecký,50.732038,14.973755,202,0,0,202,0,0,True,True
+2020-06-06,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,1668,0,0,1668,0,0,True,True
+2020-06-06,CZE,Czech Republic,NOT SPECIFIED,,,96,327,6881,-7112,0,0,True,True
+2020-06-06,CZE,Czech Republic,Olomoucký,49.823636,17.016472,772,0,0,772,0,0,True,True
+2020-06-06,CZE,Czech Republic,Pardubický,49.877869,16.495746,289,0,0,289,0,0,True,True
+2020-06-06,CZE,Czech Republic,Plzenský,49.590906,13.23222,666,0,0,666,0,0,True,True
+2020-06-06,CZE,Czech Republic,Prague,50.063699,14.476403,2194,0,0,2194,0,0,True,True
+2020-06-06,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1077,0,0,1077,0,0,True,True
+2020-06-06,CZE,Czech Republic,Ústecký,50.488308,13.816736,567,0,0,567,0,0,True,True
+2020-06-06,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
+2020-06-06,CZE,Czech Republic,Zlínský,49.239654,17.770218,372,0,0,372,0,0,True,True
 2020-06-06,DEU,Germany,Baden-Württemberg,48.537648,9.049199,34898,1790,0,33108,0,0,True,True
 2020-06-06,DEU,Germany,Bayern,48.947574,11.419913,47326,2489,0,44837,0,0,True,True
 2020-06-06,DEU,Germany,Berlin,52.501532,13.40185,6964,201,0,6763,0,0,True,True
@@ -45052,3 +45067,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1717,55,0,1662,0,0,True,True
 2020-06-06,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3107,147,0,2960,0,0,True,True
 2020-06-06,DEU,Germany,Thüringen,50.903878,11.02488,3066,170,0,2896,0,0,True,True
+2020-06-06,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,24,0,0,24,0,0,True,True
+2020-06-06,HUN,Hungary,Baranya,46.043048,18.197022,37,0,0,37,0,0,True,True
+2020-06-06,HUN,Hungary,Békés,46.735413,21.006326,11,0,0,11,0,0,True,True
+2020-06-06,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,61,0,0,61,0,0,True,True
+2020-06-06,HUN,Hungary,Budapest,47.486226,19.102958,1898,0,0,1898,0,0,True,True
+2020-06-06,HUN,Hungary,Csongrád,46.429441,20.23317,115,0,0,115,0,0,True,True
+2020-06-06,HUN,Hungary,Fejér,47.130985,18.532031,373,0,0,373,0,0,True,True
+2020-06-06,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,85,0,0,85,0,0,True,True
+2020-06-06,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,25,0,0,25,0,0,True,True
+2020-06-06,HUN,Hungary,Heves,47.856454,20.175008,14,0,0,14,0,0,True,True
+2020-06-06,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-06-06,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,17,0,0,17,0,0,True,True
+2020-06-06,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,278,0,0,278,0,0,True,True
+2020-06-06,HUN,Hungary,Nógrád,47.988372,19.52022,50,0,0,50,0,0,True,True
+2020-06-06,HUN,Hungary,NOT SPECIFIED,,,0,545,2279,-2824,387,21,True,True
+2020-06-06,HUN,Hungary,Pest,47.252834,19.743062,579,0,0,579,0,0,True,True
+2020-06-06,HUN,Hungary,Somogy,46.452574,17.603217,22,0,0,22,0,0,True,True
+2020-06-06,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,43,0,0,43,0,0,True,True
+2020-06-06,HUN,Hungary,Tolna,46.512422,18.535403,17,0,0,17,0,0,True,True
+2020-06-06,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
+2020-06-06,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
+2020-06-06,HUN,Hungary,Zala,46.692149,16.903237,258,0,0,258,0,0,True,True
