@@ -44902,6 +44902,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-05,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-05,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-05,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-05,SVN,Slovenia,NOT SPECIFIED,,,1484,109,293,1082,6,0,True,True
 2020-06-05,ESP,Spain,Andalucía,37.46363,-4.573552,12759,1404,0,11355,6301,772,True,True
 2020-06-05,ESP,Spain,Aragón,41.519884,-0.660302,5757,826,0,4931,2666,272,True,True
 2020-06-05,ESP,Spain,Canarias,28.291062,-16.55631,2362,151,0,2211,948,180,True,True
@@ -45037,6 +45038,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,BGR,Bulgaria,Vidin,43.797295,22.68621,192,18,14,160,0,0,True,True
 2020-06-06,BGR,Bulgaria,Vratsa,43.395067,23.759152,18,0,2,16,0,0,True,True
 2020-06-06,BGR,Bulgaria,Yambol,,,159,14,18,127,0,0,True,True
+2020-06-06,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
+2020-06-06,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,44,1,0,43,0,0,True,True
+2020-06-06,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,114,8,0,106,0,0,True,True
+2020-06-06,HRV,Croatia,Grad Zagreb,45.742196,16.008116,478,17,0,461,0,0,True,True
+2020-06-06,HRV,Croatia,Istarska,45.203521,13.895312,92,2,0,90,0,0,True,True
+2020-06-06,HRV,Croatia,Karlovačka,45.292126,15.46427,31,1,0,30,0,0,True,True
+2020-06-06,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,94,15,0,79,0,0,True,True
+2020-06-06,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,134,2,0,132,0,0,True,True
+2020-06-06,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,0,19,0,0,True,True
+2020-06-06,HRV,Croatia,Međimurska,46.410728,16.508315,8,0,0,8,0,0,True,True
+2020-06-06,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,134,8,0,126,0,0,True,True
+2020-06-06,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,0,7,0,0,True,True
+2020-06-06,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,83,1,0,82,0,0,True,True
+2020-06-06,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,89,5,0,84,0,0,True,True
+2020-06-06,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,36,0,0,36,0,0,True,True
+2020-06-06,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,549,36,0,513,0,0,True,True
+2020-06-06,HRV,Croatia,Varaždinska,46.250434,16.293818,51,0,0,51,0,0,True,True
+2020-06-06,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,11,1,0,10,0,0,True,True
+2020-06-06,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,41,0,0,41,0,0,True,True
+2020-06-06,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
+2020-06-06,HRV,Croatia,Zagrebačka,45.82762,16.381796,131,4,0,127,0,0,True,True
 2020-06-06,CYP,Cyprus,Cyprus,35.167406,33.435499,960,17,0,943,0,0,True,True
 2020-06-06,CZE,Czech Republic,Jihoceský,49.093362,14.439278,188,0,0,188,0,0,True,True
 2020-06-06,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,576,0,0,576,0,0,True,True
@@ -45191,4 +45213,31 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,SVK,Slovakia,Trencín,48.858564,18.202196,177,0,0,177,0,0,True,True
 2020-06-06,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-06,SVK,Slovakia,Zilina,49.178517,19.167163,191,0,0,191,0,0,True,True
+2020-06-06,CHE,Switzerland,Aargau,47.410914,8.159107,1216,46,1145,25,3,2,False,False
+2020-06-06,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
+2020-06-06,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
+2020-06-06,CHE,Switzerland,Basel City,47.561925,7.592768,982,50,924,8,3,2,False,False
+2020-06-06,CHE,Switzerland,Basel Country,47.441812,7.7644,845,35,802,8,2,1,False,False
+2020-06-06,CHE,Switzerland,Bern,46.825006,7.626925,1918,97,0,1821,5,1,False,False
+2020-06-06,CHE,Switzerland,Fribourg,46.710334,7.09922,1166,84,150,932,5,2,False,False
+2020-06-06,CHE,Switzerland,Geneva,46.217114,6.131255,5158,281,817,4060,122,1,False,False
+2020-06-06,CHE,Switzerland,Glarus,46.980518,9.065544,128,12,0,116,1,0,False,False
+2020-06-06,CHE,Switzerland,Graubünden,46.658176,9.629923,828,48,0,780,2,0,False,False
+2020-06-06,CHE,Switzerland,Jura,47.368327,7.198733,205,7,0,198,1,1,False,False
+2020-06-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,1,80,0,0,False,False
+2020-06-06,CHE,Switzerland,Lucerne,47.06883,8.116991,735,20,0,715,20,5,False,False
+2020-06-06,CHE,Switzerland,Neuchâtel,46.997282,6.782288,730,83,0,647,3,1,False,False
+2020-06-06,CHE,Switzerland,Nidwalden,46.922198,8.419375,124,3,0,121,1,1,False,False
+2020-06-06,CHE,Switzerland,Obwalden,46.857772,8.209745,82,0,1,81,2,0,False,False
+2020-06-06,CHE,Switzerland,Schaffhausen,47.721853,8.563863,809,37,223,549,8,2,False,False
+2020-06-06,CHE,Switzerland,Schwyz,47.06411,8.761568,78,6,0,72,5,1,False,False
+2020-06-06,CHE,Switzerland,Solothurn,47.336648,7.686944,446,17,0,429,6,0,False,False
+2020-06-06,CHE,Switzerland,St. Gallen,47.305025,9.019368,307,23,284,0,1,0,False,False
+2020-06-06,CHE,Switzerland,Thurgau,47.567205,9.112572,383,18,0,365,1,1,False,False
+2020-06-06,CHE,Switzerland,Ticino,46.297963,8.808447,3316,348,902,2066,17,1,False,False
+2020-06-06,CHE,Switzerland,Uri,46.775402,8.627444,93,7,86,0,1,0,False,False
+2020-06-06,CHE,Switzerland,Valais,46.211633,7.611267,1948,151,0,1797,21,5,False,False
+2020-06-06,CHE,Switzerland,Vaud,46.56176,6.648929,5418,406,0,5012,41,8,False,False
+2020-06-06,CHE,Switzerland,Zug,47.161402,8.538864,202,9,185,8,1,1,False,False
+2020-06-06,CHE,Switzerland,Zurich,47.417407,8.655988,3637,130,0,3507,8,0,False,False
 2020-06-06,TUR,Turkey,Turkey,38.961515,35.25175,168340,4648,0,163692,0,0,False,True
