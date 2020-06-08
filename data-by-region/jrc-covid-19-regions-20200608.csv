@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-08,BEL,Belgium,Flanders,51.036569,4.234165,33406,4809,0,28597,9643,0,True,True
 2020-06-08,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
 2020-06-08,BEL,Belgium,Wallonia,50.312074,5.019093,18814,3332,0,15482,5231,0,True,True
-2020-06-07,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1138,39,0,1099,0,0,False,False
+2020-06-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1161,39,0,1122,0,0,False,False
 2020-06-08,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,144,10,10,124,0,0,True,True
 2020-06-07,BGR,Bulgaria,Burgas,42.491848,27.306892,53,1,19,33,0,0,True,True
 2020-06-07,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,2,11,0,0,True,True
@@ -57,28 +57,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-08,BGR,Bulgaria,Vidin,43.797295,22.68621,190,18,14,158,0,0,True,True
 2020-06-07,BGR,Bulgaria,Vratsa,43.395067,23.759152,18,0,2,16,0,0,True,True
 2020-06-08,BGR,Bulgaria,Yambol,,,162,14,18,130,0,0,True,True
-2020-06-07,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
-2020-06-07,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,44,1,0,43,0,0,True,True
-2020-06-07,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,114,8,0,106,0,0,True,True
-2020-06-07,HRV,Croatia,Grad Zagreb,45.742196,16.008116,478,17,0,461,0,0,True,True
-2020-06-07,HRV,Croatia,Istarska,45.203521,13.895312,92,2,0,90,0,0,True,True
-2020-06-07,HRV,Croatia,Karlovačka,45.292126,15.46427,31,1,0,30,0,0,True,True
-2020-06-07,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,94,15,0,79,0,0,True,True
-2020-06-07,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,134,2,0,132,0,0,True,True
-2020-06-07,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,0,19,0,0,True,True
-2020-06-07,HRV,Croatia,Međimurska,46.410728,16.508315,8,0,0,8,0,0,True,True
+2020-06-08,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
+2020-06-08,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,44,1,0,43,0,0,True,True
+2020-06-08,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,114,8,0,106,0,0,True,True
+2020-06-08,HRV,Croatia,Grad Zagreb,45.742196,16.008116,478,17,0,461,0,0,True,True
+2020-06-08,HRV,Croatia,Istarska,45.203521,13.895312,92,2,0,90,0,0,True,True
+2020-06-08,HRV,Croatia,Karlovačka,45.292126,15.46427,31,1,0,30,0,0,True,True
+2020-06-08,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,94,15,0,79,0,0,True,True
+2020-06-08,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,134,2,0,132,0,0,True,True
+2020-06-08,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,0,19,0,0,True,True
+2020-06-08,HRV,Croatia,Međimurska,46.410728,16.508315,8,0,0,8,0,0,True,True
 2020-03-25,HRV,Croatia,NOT SPECIFIED,,,1,0,0,1,,,True,True
-2020-06-07,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,134,8,0,126,0,0,True,True
-2020-06-07,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,0,7,0,0,True,True
-2020-06-07,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,83,1,0,82,0,0,True,True
-2020-06-07,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,89,5,0,84,0,0,True,True
-2020-06-07,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,36,0,0,36,0,0,True,True
-2020-06-07,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,549,36,0,513,0,0,True,True
-2020-06-07,HRV,Croatia,Varaždinska,46.250434,16.293818,51,0,0,51,0,0,True,True
-2020-06-07,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,11,1,0,10,0,0,True,True
-2020-06-07,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,41,0,0,41,0,0,True,True
-2020-06-07,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
-2020-06-07,HRV,Croatia,Zagrebačka,45.82762,16.381796,131,4,0,127,0,0,True,True
+2020-06-08,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,134,8,0,126,0,0,True,True
+2020-06-08,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,0,7,0,0,True,True
+2020-06-08,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,83,1,0,82,0,0,True,True
+2020-06-08,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,89,5,0,84,0,0,True,True
+2020-06-08,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,36,0,0,36,0,0,True,True
+2020-06-08,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,549,36,0,513,0,0,True,True
+2020-06-08,HRV,Croatia,Varaždinska,46.250434,16.293818,51,0,0,51,0,0,True,True
+2020-06-08,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,11,1,0,10,0,0,True,True
+2020-06-08,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,41,0,0,41,0,0,True,True
+2020-06-08,HRV,Croatia,Zadarska,44.347845,15.959404,87,1,0,86,0,0,True,True
+2020-06-08,HRV,Croatia,Zagrebačka,45.82762,16.381796,131,4,0,127,0,0,True,True
 2020-06-07,CYP,Cyprus,Cyprus,35.167406,33.435499,960,18,0,942,0,0,True,True
 2020-06-08,CZE,Czech Republic,Jihoceský,49.093362,14.439278,190,0,0,190,0,0,True,True
 2020-06-08,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,586,0,0,586,0,0,True,True
@@ -104,7 +104,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,DNK,Denmark,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
 2020-06-04,DNK,Denmark,Sjælland,55.92481,11.67126,1906,119,0,1787,0,0,True,True
 2020-06-04,DNK,Denmark,Syddanmark,55.675758,12.56902,1011,34,0,977,0,0,True,True
-2020-06-07,EST,Estonia,Estonia,58.596209,25.023778,1939,69,0,1870,0,0,True,True
+2020-06-08,EST,Estonia,Estonia,58.596209,25.023778,1940,69,0,1871,0,0,True,True
 2020-06-08,FIN,Finland,Ahvenanmaa,60.240625,19.966666,16,0,0,16,0,0,True,True
 2020-06-08,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,0,0,24,0,0,True,True
 2020-06-08,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,0,0,46,0,0,True,True
@@ -361,7 +361,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-08,ROU,Romania,Mehedinți,,,131,0,0,131,0,0,True,True
 2020-06-08,ROU,Romania,Mureș,,,689,0,0,689,0,0,True,True
 2020-06-08,ROU,Romania,Neamț,,,908,0,0,908,0,0,True,True
-2020-06-08,ROU,Romania,NOT SPECIFIED,,,34,1334,14826,-16126,0,0,True,True
+2020-06-08,ROU,Romania,NOT SPECIFIED,,,34,1339,14826,-16131,0,0,True,True
 2020-06-08,ROU,Romania,Olt,44.272504,24.439351,112,0,0,112,0,0,True,True
 2020-06-08,ROU,Romania,Prahova,45.114672,26.015788,121,0,0,121,0,0,True,True
 2020-06-08,ROU,Romania,Sălaj,,,99,0,0,99,0,0,True,True
@@ -501,28 +501,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-07,ESP,Spain,País Vasco,43.032149,-2.62166,13542,1424,0,12118,6963,578,True,True
 2020-06-07,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2427,314,0,2113,1111,125,True,True
 2020-06-07,ESP,Spain,Región de Murcia,38.002069,-1.485219,1616,148,0,1468,682,115,True,True
-2020-06-07,SWE,Sweden,Blekinge,56.279696,15.193246,279,0,0,279,0,0,True,True
-2020-06-07,SWE,Sweden,Dalarna,60.952955,14.350603,1314,0,0,1314,0,0,True,True
-2020-06-07,SWE,Sweden,Gävleborg,61.440899,16.291105,1503,0,0,1503,0,0,True,True
-2020-06-07,SWE,Sweden,Gotland,57.487051,18.510063,90,0,0,90,0,0,True,True
-2020-06-07,SWE,Sweden,Halland,56.953555,12.842898,913,0,0,913,0,0,True,True
-2020-06-07,SWE,Sweden,Jämtland,63.251956,14.312747,803,0,0,803,0,0,True,True
-2020-06-07,SWE,Sweden,Jönköping,57.499911,14.436577,1750,0,0,1750,0,0,True,True
-2020-06-07,SWE,Sweden,Kalmar,57.245033,16.053939,406,0,0,406,0,0,True,True
-2020-06-07,SWE,Sweden,Kronoberg,56.786938,14.574736,916,0,0,916,0,0,True,True
-2020-06-07,SWE,Sweden,Norrbotten,66.954122,20.083057,503,0,0,503,0,0,True,True
-2020-06-07,SWE,Sweden,NOT SPECIFIED,,,0,4659,0,-4659,0,2173,True,True
-2020-06-07,SWE,Sweden,Örebro,59.350249,14.974992,1957,0,0,1957,0,0,True,True
-2020-06-07,SWE,Sweden,Östergötland,58.354622,15.661533,2253,0,0,2253,0,0,True,True
-2020-06-07,SWE,Sweden,Skåne,55.948711,13.596415,1985,0,0,1985,0,0,True,True
-2020-06-07,SWE,Sweden,Södermanland,59.077751,16.685977,1658,0,0,1658,0,0,True,True
-2020-06-07,SWE,Sweden,Stockholm,59.370877,17.711874,14745,0,0,14745,0,0,True,True
-2020-06-07,SWE,Sweden,Uppsala,60.039134,17.672887,2221,0,0,2221,0,0,True,True
-2020-06-07,SWE,Sweden,Värmland,59.768908,13.153806,633,0,0,633,0,0,True,True
-2020-06-07,SWE,Sweden,Västerbotten,64.862069,17.819194,532,0,0,532,0,0,True,True
-2020-06-07,SWE,Sweden,Västernorrland,63.096635,17.251241,860,0,0,860,0,0,True,True
-2020-06-07,SWE,Sweden,Västmanland,59.801595,16.318208,1436,0,0,1436,0,0,True,True
-2020-06-07,SWE,Sweden,Västra Götaland,58.303302,12.891496,7973,0,0,7973,0,0,True,True
+2020-06-08,SWE,Sweden,Blekinge,56.279696,15.193246,297,0,0,297,0,0,True,True
+2020-06-08,SWE,Sweden,Dalarna,60.952955,14.350603,1315,0,0,1315,0,0,True,True
+2020-06-08,SWE,Sweden,Gävleborg,61.440899,16.291105,1516,0,0,1516,0,0,True,True
+2020-06-08,SWE,Sweden,Gotland,57.487051,18.510063,90,0,0,90,0,0,True,True
+2020-06-08,SWE,Sweden,Halland,56.953555,12.842898,920,0,0,920,0,0,True,True
+2020-06-08,SWE,Sweden,Jämtland,63.251956,14.312747,809,0,0,809,0,0,True,True
+2020-06-08,SWE,Sweden,Jönköping,57.499911,14.436577,1751,0,0,1751,0,0,True,True
+2020-06-08,SWE,Sweden,Kalmar,57.245033,16.053939,408,0,0,408,0,0,True,True
+2020-06-08,SWE,Sweden,Kronoberg,56.786938,14.574736,930,0,0,930,0,0,True,True
+2020-06-08,SWE,Sweden,Norrbotten,66.954122,20.083057,503,0,0,503,0,0,True,True
+2020-06-08,SWE,Sweden,NOT SPECIFIED,,,0,4694,0,-4694,0,2191,True,True
+2020-06-08,SWE,Sweden,Örebro,59.350249,14.974992,1975,0,0,1975,0,0,True,True
+2020-06-08,SWE,Sweden,Östergötland,58.354622,15.661533,2260,0,0,2260,0,0,True,True
+2020-06-08,SWE,Sweden,Skåne,55.948711,13.596415,1995,0,0,1995,0,0,True,True
+2020-06-08,SWE,Sweden,Södermanland,59.077751,16.685977,1669,0,0,1669,0,0,True,True
+2020-06-08,SWE,Sweden,Stockholm,59.370877,17.711874,14803,0,0,14803,0,0,True,True
+2020-06-08,SWE,Sweden,Uppsala,60.039134,17.672887,2244,0,0,2244,0,0,True,True
+2020-06-08,SWE,Sweden,Värmland,59.768908,13.153806,641,0,0,641,0,0,True,True
+2020-06-08,SWE,Sweden,Västerbotten,64.862069,17.819194,535,0,0,535,0,0,True,True
+2020-06-08,SWE,Sweden,Västernorrland,63.096635,17.251241,887,0,0,887,0,0,True,True
+2020-06-08,SWE,Sweden,Västmanland,59.801595,16.318208,1457,0,0,1457,0,0,True,True
+2020-06-08,SWE,Sweden,Västra Götaland,58.303302,12.891496,8128,0,0,8128,0,0,True,True
 2020-06-08,CHE,Switzerland,Aargau,47.410914,8.159107,1216,46,1145,25,3,2,False,False
 2020-06-08,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
 2020-06-08,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
