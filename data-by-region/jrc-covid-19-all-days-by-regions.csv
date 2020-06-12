@@ -203,6 +203,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-02-29,GBR,United Kingdom,South East,51.291417,-0.521902,6,,,,,,False,True
 2020-02-29,GBR,United Kingdom,South West,51.239761,-2.54375,1,,,,,,False,True
 2020-02-29,GBR,United Kingdom,Wales,52.302413,-3.738347,1,,,,,,False,True
+2020-03-01,BEL,Belgium,Brussels,50.836426,4.367415,6,0,0,6,0,0,True,True
+2020-03-01,BEL,Belgium,Flanders,51.036569,4.234165,9,0,0,9,0,0,True,True
+2020-03-01,BEL,Belgium,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-03-01,BEL,Belgium,Wallonia,50.312074,5.019093,2,0,0,2,0,0,True,True
 2020-03-01,DEU,Germany,Baden-Württemberg,48.537648,9.049199,15,,,,,,True,True
 2020-03-01,DEU,Germany,Bayern,48.947574,11.419913,23,,,,,,True,True
 2020-03-01,DEU,Germany,Bremen,53.108678,8.785951,1,,,,,,True,True
@@ -262,6 +266,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-01,GBR,United Kingdom,South East,51.291417,-0.521902,9,,,,,,False,True
 2020-03-01,GBR,United Kingdom,South West,51.239761,-2.54375,2,,,,,,False,True
 2020-03-01,GBR,United Kingdom,Wales,52.302413,-3.738347,1,,,,,,False,True
+2020-03-02,BEL,Belgium,Brussels,50.836426,4.367415,10,0,0,10,0,0,True,True
+2020-03-02,BEL,Belgium,Flanders,51.036569,4.234165,21,0,0,21,0,0,True,True
+2020-03-02,BEL,Belgium,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-03-02,BEL,Belgium,Wallonia,50.312074,5.019093,3,0,0,3,0,0,True,True
 2020-03-02,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,37,0,0,37,0,0,True,True
 2020-03-02,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,8,0,0,8,0,0,True,True
 2020-03-02,FRA,France,Bretagne,48.181767,-2.840778,13,0,0,13,0,0,True,True
@@ -339,6 +347,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-02,GBR,United Kingdom,South East,51.291417,-0.521902,10,,,,,,False,True
 2020-03-02,GBR,United Kingdom,South West,51.239761,-2.54375,3,,,,,,False,True
 2020-03-02,GBR,United Kingdom,Wales,52.302413,-3.738347,1,,,,,,False,True
+2020-03-03,BEL,Belgium,Brussels,50.836426,4.367415,12,0,0,12,0,0,True,True
+2020-03-03,BEL,Belgium,Flanders,51.036569,4.234165,42,0,0,42,0,0,True,True
+2020-03-03,BEL,Belgium,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
+2020-03-03,BEL,Belgium,Wallonia,50.312074,5.019093,16,0,0,16,0,0,True,True
 2020-03-03,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,40,0,0,40,0,0,True,True
 2020-03-03,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,13,0,0,13,0,0,True,True
 2020-03-03,FRA,France,Bretagne,48.181767,-2.840778,19,0,0,19,0,0,True,True
@@ -430,6 +442,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-03,GBR,United Kingdom,South East,51.291417,-0.521902,10,,,,,,False,True
 2020-03-03,GBR,United Kingdom,South West,51.239761,-2.54375,3,,,,,,False,True
 2020-03-03,GBR,United Kingdom,Wales,52.302413,-3.738347,1,,,,,,False,True
+2020-03-04,BEL,Belgium,Brussels,50.836426,4.367415,17,0,0,17,0,0,True,True
+2020-03-04,BEL,Belgium,Flanders,51.036569,4.234165,73,0,0,73,0,0,True,True
+2020-03-04,BEL,Belgium,NOT SPECIFIED,,,6,0,0,6,0,0,True,True
+2020-03-04,BEL,Belgium,Wallonia,50.312074,5.019093,29,0,0,29,0,0,True,True
 2020-03-04,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,49,0,0,49,0,0,True,True
 2020-03-04,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,16,0,0,16,0,0,True,True
 2020-03-04,FRA,France,Bretagne,48.181767,-2.840778,23,0,0,23,0,0,True,True
@@ -536,9 +552,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-05,AUT,Austria,Steiermark,47.187361,15.518046,4,,,,,,True,True
 2020-03-05,AUT,Austria,Tirol,47.209023,11.397603,3,,,,,,True,True
 2020-03-05,AUT,Austria,Wien,48.21141,16.380038,16,,,,,,True,True
-2020-03-05,BEL,Belgium,Brussels,50.836426,4.367415,6,,,,,,True,True
-2020-03-05,BEL,Belgium,Flanders,51.036569,4.234165,54,,,,,,True,True
-2020-03-05,BEL,Belgium,Wallonia,50.312074,5.019093,14,,,,,,True,True
+2020-03-05,BEL,Belgium,Brussels,50.836426,4.367415,19,0,0,19,0,0,True,True
+2020-03-05,BEL,Belgium,Flanders,51.036569,4.234165,132,0,0,132,0,0,True,True
+2020-03-05,BEL,Belgium,NOT SPECIFIED,,,6,0,0,6,0,0,True,True
+2020-03-05,BEL,Belgium,Wallonia,50.312074,5.019093,49,0,0,49,0,0,True,True
 2020-03-05,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-03-05,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,22,1,0,21,0,0,True,True
 2020-03-05,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,108,7,0,101,0,0,True,True
@@ -676,9 +693,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-06,AUT,Austria,Tirol,47.209023,11.397603,4,,,,,,True,True
 2020-03-06,AUT,Austria,Vorarlberg,47.240149,9.896366,1,,,,,,True,True
 2020-03-06,AUT,Austria,Wien,48.21141,16.380038,23,,,,,,True,True
-2020-03-06,BEL,Belgium,Brussels,50.836426,4.367415,12,,,,,,True,True
-2020-03-06,BEL,Belgium,Flanders,51.036569,4.234165,65,,,,,,True,True
-2020-03-06,BEL,Belgium,Wallonia,50.312074,5.019093,32,,,,,,True,True
+2020-03-06,BEL,Belgium,Brussels,50.836426,4.367415,28,0,0,28,0,0,True,True
+2020-03-06,BEL,Belgium,Flanders,51.036569,4.234165,210,0,0,210,0,0,True,True
+2020-03-06,BEL,Belgium,NOT SPECIFIED,,,7,0,0,7,0,0,True,True
+2020-03-06,BEL,Belgium,Wallonia,50.312074,5.019093,72,0,0,72,0,0,True,True
 2020-03-06,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,75,0,0,75,0,0,True,True
 2020-03-06,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,78,0,0,78,0,0,True,True
 2020-03-06,FRA,France,Bretagne,48.181767,-2.840778,32,0,0,32,0,0,True,True
@@ -800,6 +818,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-07,AUT,Austria,Tirol,47.209023,11.397603,7,,,,,,True,True
 2020-03-07,AUT,Austria,Vorarlberg,47.240149,9.896366,1,,,,,,True,True
 2020-03-07,AUT,Austria,Wien,48.21141,16.380038,28,,,,,,True,True
+2020-03-07,BEL,Belgium,Brussels,50.836426,4.367415,33,0,0,33,0,0,True,True
+2020-03-07,BEL,Belgium,Flanders,51.036569,4.234165,226,0,0,226,0,0,True,True
+2020-03-07,BEL,Belgium,NOT SPECIFIED,,,7,0,0,7,0,0,True,True
+2020-03-07,BEL,Belgium,Wallonia,50.312074,5.019093,78,0,0,78,0,0,True,True
 2020-03-07,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,102,0,0,102,0,0,True,True
 2020-03-07,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,129,0,0,129,0,0,True,True
 2020-03-07,FRA,France,Bretagne,48.181767,-2.840778,40,0,0,40,0,0,True,True
@@ -906,9 +928,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-08,AUT,Austria,Tirol,47.209023,11.397603,8,,,,,,True,True
 2020-03-08,AUT,Austria,Vorarlberg,47.240149,9.896366,1,,,,,,True,True
 2020-03-08,AUT,Austria,Wien,48.21141,16.380038,32,,,,,,True,True
-2020-03-08,BEL,Belgium,Brussels,50.836426,4.367415,24,,,,,,True,True
-2020-03-08,BEL,Belgium,Flanders,51.036569,4.234165,122,,,,,,True,True
-2020-03-08,BEL,Belgium,Wallonia,50.312074,5.019093,54,,,,,,True,True
+2020-03-08,BEL,Belgium,Brussels,50.836426,4.367415,39,0,0,39,0,0,True,True
+2020-03-08,BEL,Belgium,Flanders,51.036569,4.234165,264,0,0,264,0,0,True,True
+2020-03-08,BEL,Belgium,NOT SPECIFIED,,,8,0,0,8,0,0,True,True
+2020-03-08,BEL,Belgium,Wallonia,50.312074,5.019093,97,0,0,97,0,0,True,True
 2020-03-08,DEU,Germany,Baden-Württemberg,48.537648,9.049199,182,,,,,,True,True
 2020-03-08,DEU,Germany,Bayern,48.947574,11.419913,172,,,,,,True,True
 2020-03-08,DEU,Germany,Berlin,52.501532,13.40185,40,,,,,,True,True
@@ -1003,9 +1026,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-09,AUT,Austria,Tirol,47.209023,11.397603,16,,,,,,True,True
 2020-03-09,AUT,Austria,Vorarlberg,47.240149,9.896366,3,,,,,,True,True
 2020-03-09,AUT,Austria,Wien,48.21141,16.380038,35,,,,,,True,True
-2020-03-09,BEL,Belgium,Brussels,50.836426,4.367415,31,,,,,,True,True
-2020-03-09,BEL,Belgium,Flanders,51.036569,4.234165,143,,,,,,True,True
-2020-03-09,BEL,Belgium,Wallonia,50.312074,5.019093,64,,,,,,True,True
+2020-03-09,BEL,Belgium,Brussels,50.836426,4.367415,51,0,0,51,0,0,True,True
+2020-03-09,BEL,Belgium,Flanders,51.036569,4.234165,301,0,0,301,0,0,True,True
+2020-03-09,BEL,Belgium,NOT SPECIFIED,,,11,0,0,11,0,0,True,True
+2020-03-09,BEL,Belgium,Wallonia,50.312074,5.019093,139,0,0,139,0,0,True,True
 2020-03-09,DEU,Germany,Baden-Württemberg,48.537648,9.049199,204,,,,,,True,True
 2020-03-09,DEU,Germany,Bayern,48.947574,11.419913,256,,,,,,True,True
 2020-03-09,DEU,Germany,Berlin,52.501532,13.40185,48,,,,,,True,True
@@ -1116,9 +1140,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-10,AUT,Austria,Tirol,47.209023,11.397603,32,,,,,,True,True
 2020-03-10,AUT,Austria,Vorarlberg,47.240149,9.896366,11,,,,,,True,True
 2020-03-10,AUT,Austria,Wien,48.21141,16.380038,43,,,,,,True,True
-2020-03-10,BEL,Belgium,Brussels,50.836426,4.367415,32,,,,,,True,True
-2020-03-10,BEL,Belgium,Flanders,51.036569,4.234165,72,,,,,,True,True
-2020-03-10,BEL,Belgium,Wallonia,50.312074,5.019093,163,,,,,,True,True
+2020-03-10,BEL,Belgium,Brussels,50.836426,4.367415,64,1,0,63,0,0,True,True
+2020-03-10,BEL,Belgium,Flanders,51.036569,4.234165,358,0,0,358,0,0,True,True
+2020-03-10,BEL,Belgium,NOT SPECIFIED,,,18,0,0,18,0,0,True,True
+2020-03-10,BEL,Belgium,Wallonia,50.312074,5.019093,161,0,0,161,0,0,True,True
 2020-03-10,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,211,0,0,211,0,0,True,True
 2020-03-10,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,146,0,0,146,0,0,True,True
 2020-03-10,FRA,France,Bretagne,48.181767,-2.840778,81,0,0,81,0,0,True,True
@@ -1262,9 +1287,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-11,AUT,Austria,Vorarlberg,47.240149,9.896366,13,,,,,,True,True
 2020-03-11,AUT,Austria,Wien,48.21141,16.380038,50,,,,,,True,True
 2020-03-11,BLR,Belarus,Belarus,53.711111,27.973847,6,0,0,6,0,0,False,False
-2020-03-11,BEL,Belgium,Brussels,50.836426,4.367415,38,,,,,,True,True
-2020-03-11,BEL,Belgium,Flanders,51.036569,4.234165,102,,,,,,True,True
-2020-03-11,BEL,Belgium,Wallonia,50.312074,5.019093,174,,,,,,True,True
+2020-03-11,BEL,Belgium,Brussels,50.836426,4.367415,83,3,0,80,0,0,True,True
+2020-03-11,BEL,Belgium,Flanders,51.036569,4.234165,465,1,0,464,0,0,True,True
+2020-03-11,BEL,Belgium,NOT SPECIFIED,,,19,0,0,19,0,0,True,True
+2020-03-11,BEL,Belgium,Wallonia,50.312074,5.019093,208,0,0,208,0,0,True,True
 2020-03-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
 2020-03-11,HRV,Croatia,Grad Zagreb,45.742196,16.008116,5,0,0,5,,,True,True
 2020-03-11,HRV,Croatia,Istarska,45.203521,13.895312,2,0,0,2,,,True,True
@@ -1446,9 +1472,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-12,AUT,Austria,Vorarlberg,47.240149,9.896366,16,,,,,,True,True
 2020-03-12,AUT,Austria,Wien,48.21141,16.380038,66,,,,,,True,True
 2020-03-12,BLR,Belarus,Belarus,53.711111,27.973847,12,0,0,12,0,0,False,False
-2020-03-12,BEL,Belgium,Brussels,50.836426,4.367415,56,,,,,,True,True
-2020-03-12,BEL,Belgium,Flanders,51.036569,4.234165,167,1,,,,,True,True
-2020-03-12,BEL,Belgium,Wallonia,50.312074,5.019093,176,2,,,,,True,True
+2020-03-12,BEL,Belgium,Brussels,50.836426,4.367415,118,4,0,114,0,0,True,True
+2020-03-12,BEL,Belgium,Flanders,51.036569,4.234165,606,1,0,605,0,0,True,True
+2020-03-12,BEL,Belgium,NOT SPECIFIED,,,24,0,0,24,0,0,True,True
+2020-03-12,BEL,Belgium,Wallonia,50.312074,5.019093,277,0,0,277,0,0,True,True
 2020-03-12,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
 2020-03-12,HRV,Croatia,Grad Zagreb,45.742196,16.008116,5,0,0,5,,,True,True
 2020-03-12,HRV,Croatia,Istarska,45.203521,13.895312,2,0,0,2,,,True,True
@@ -1610,10 +1637,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-13,AUT,Austria,Vorarlberg,47.240149,9.896366,17,,,,,,True,True
 2020-03-13,AUT,Austria,Wien,48.21141,16.380038,74,,,,,,True,True
 2020-03-13,BLR,Belarus,Belarus,53.711111,27.973847,12,0,0,12,0,0,False,False
-2020-03-13,BEL,Belgium,Brussels,50.836426,4.367415,66,,,,,,True,True
-2020-03-13,BEL,Belgium,Flanders,51.036569,4.234165,230,,,,,,True,True
-2020-03-13,BEL,Belgium,NOT SPECIFIED,,,6,0,0,6,,,True,True
-2020-03-13,BEL,Belgium,Wallonia,50.312074,5.019093,260,,,,,,True,True
+2020-03-13,BEL,Belgium,Brussels,50.836426,4.367415,158,7,0,151,0,0,True,True
+2020-03-13,BEL,Belgium,Flanders,51.036569,4.234165,773,1,0,772,0,0,True,True
+2020-03-13,BEL,Belgium,NOT SPECIFIED,,,43,0,0,43,0,0,True,True
+2020-03-13,BEL,Belgium,Wallonia,50.312074,5.019093,389,0,0,389,0,0,True,True
 2020-03-13,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
 2020-03-13,HRV,Croatia,Grad Zagreb,45.742196,16.008116,10,0,0,10,,,True,True
 2020-03-13,HRV,Croatia,Istarska,45.203521,13.895312,2,0,0,2,,,True,True
@@ -1827,9 +1854,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-14,AUT,Austria,Tirol,47.209023,11.397603,206,,,,,,True,True
 2020-03-14,AUT,Austria,Vorarlberg,47.240149,9.896366,34,,,,,,True,True
 2020-03-14,AUT,Austria,Wien,48.21141,16.380038,101,,,,,,True,True
-2020-03-14,BEL,Belgium,Brussels,50.836426,4.367415,72,,,,,,True,True
-2020-03-14,BEL,Belgium,Flanders,51.036569,4.234165,350,,,,,,True,True
-2020-03-14,BEL,Belgium,Wallonia,50.312074,5.019093,267,,,,,,True,True
+2020-03-14,BEL,Belgium,Brussels,50.836426,4.367415,188,10,0,178,0,0,True,True
+2020-03-14,BEL,Belgium,Flanders,51.036569,4.234165,849,2,0,847,0,0,True,True
+2020-03-14,BEL,Belgium,NOT SPECIFIED,,,50,0,0,50,0,0,True,True
+2020-03-14,BEL,Belgium,Wallonia,50.312074,5.019093,455,0,0,455,0,0,True,True
 2020-03-14,CYP,Cyprus,Cyprus,35.167406,33.435499,26,0,0,26,,,True,True
 2020-03-14,DNK,Denmark,Faroe,62.194921,-7.096614,10,0,0,10,0,0,True,True
 2020-03-14,DNK,Denmark,Mainland,56.031924,9.317572,830,0,0,830,0,0,True,True
@@ -1970,10 +1998,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-15,AUT,Austria,Tirol,47.209023,11.397603,254,,,,,,True,True
 2020-03-15,AUT,Austria,Vorarlberg,47.240149,9.896366,48,,,,,,True,True
 2020-03-15,AUT,Austria,Wien,48.21141,16.380038,122,,,,,,True,True
-2020-03-15,BEL,Belgium,Brussels,50.836426,4.367415,99,7,0,92,,,True,True
-2020-03-15,BEL,Belgium,Flanders,51.036569,4.234165,294,1,0,293,,,True,True
-2020-03-15,BEL,Belgium,NOT SPECIFIED,,,6,0,0,6,,,True,True
-2020-03-15,BEL,Belgium,Wallonia,50.312074,5.019093,362,0,0,362,,,True,True
+2020-03-15,BEL,Belgium,Brussels,50.836426,4.367415,216,12,0,204,58,11,True,True
+2020-03-15,BEL,Belgium,Flanders,51.036569,4.234165,972,5,0,967,119,25,True,True
+2020-03-15,BEL,Belgium,NOT SPECIFIED,,,60,0,0,60,0,0,True,True
+2020-03-15,BEL,Belgium,Wallonia,50.312074,5.019093,508,1,0,507,89,18,True,True
 2020-03-15,CYP,Cyprus,Cyprus,35.167406,33.435499,33,0,0,33,,,True,True
 2020-03-15,DNK,Denmark,Faroe,62.194921,-7.096614,13,0,0,13,0,0,True,True
 2020-03-15,DNK,Denmark,Mainland,56.031924,9.317572,860,0,0,860,0,0,True,True
@@ -2107,10 +2135,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-16,AUT,Austria,Vorarlberg,47.240149,9.896366,55,,,,,,True,True
 2020-03-16,AUT,Austria,Wien,48.21141,16.380038,128,,,,,,True,True
 2020-03-16,BLR,Belarus,Belarus,53.711111,27.973847,27,0,0,27,0,0,False,False
-2020-03-16,BEL,Belgium,Brussels,50.836426,4.367415,116,,,,,,True,True
-2020-03-16,BEL,Belgium,Flanders,51.036569,4.234165,567,,,,,,True,True
-2020-03-16,BEL,Belgium,NOT SPECIFIED,,,13,,,,,,True,True
-2020-03-16,BEL,Belgium,Wallonia,50.312074,5.019093,362,,,,,,True,True
+2020-03-16,BEL,Belgium,Brussels,50.836426,4.367415,278,16,0,262,81,14,True,True
+2020-03-16,BEL,Belgium,Flanders,51.036569,4.234165,1172,7,0,1165,159,40,True,True
+2020-03-16,BEL,Belgium,NOT SPECIFIED,,,69,0,0,69,0,0,True,True
+2020-03-16,BEL,Belgium,Wallonia,50.312074,5.019093,624,6,0,618,130,25,True,True
 2020-03-16,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,5,0,0,5,0,0,False,False
 2020-03-16,HRV,Croatia,Grad Zagreb,45.742196,16.008116,25,0,0,25,,,True,True
 2020-03-16,HRV,Croatia,Istarska,45.203521,13.895312,6,0,0,6,,,True,True
@@ -2337,10 +2365,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-17,AUT,Austria,Vorarlberg,47.240149,9.896366,99,,,,,,True,True
 2020-03-17,AUT,Austria,Wien,48.21141,16.380038,166,,,,,,True,True
 2020-03-17,BLR,Belarus,Belarus,53.711111,27.973847,36,0,0,36,0,0,False,False
-2020-03-17,BEL,Belgium,Brussels,50.836426,4.367415,116,8,0,108,,,True,True
-2020-03-17,BEL,Belgium,Flanders,51.036569,4.234165,567,2,0,565,,,True,True
-2020-03-17,BEL,Belgium,NOT SPECIFIED,,,13,0,0,13,,,True,True
-2020-03-17,BEL,Belgium,Wallonia,50.312074,5.019093,362,4,0,358,,,True,True
+2020-03-17,BEL,Belgium,Brussels,50.836426,4.367415,307,21,0,286,115,23,True,True
+2020-03-17,BEL,Belgium,Flanders,51.036569,4.234165,1428,12,0,1416,223,43,True,True
+2020-03-17,BEL,Belgium,NOT SPECIFIED,,,79,0,0,79,0,0,True,True
+2020-03-17,BEL,Belgium,Wallonia,50.312074,5.019093,751,8,0,743,159,34,True,True
 2020-03-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,9,0,0,9,0,0,False,False
 2020-03-17,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,1,0,0,1,,,True,True
 2020-03-17,HRV,Croatia,Grad Zagreb,45.742196,16.008116,26,0,0,26,,,True,True
@@ -2578,10 +2606,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-18,AUT,Austria,Vorarlberg,47.240149,9.896366,124,,,,,,True,True
 2020-03-18,AUT,Austria,Wien,48.21141,16.380038,209,,,,,,True,True
 2020-03-18,BLR,Belarus,Belarus,53.711111,27.973847,36,0,0,36,0,0,False,False
-2020-03-18,BEL,Belgium,Brussels,50.836426,4.367415,194,8,0,186,,,True,True
-2020-03-18,BEL,Belgium,Flanders,51.036569,4.234165,889,2,0,887,,,True,True
-2020-03-18,BEL,Belgium,NOT SPECIFIED,,,34,0,0,34,,,True,True
-2020-03-18,BEL,Belgium,Wallonia,50.312074,5.019093,369,4,0,365,,,True,True
+2020-03-18,BEL,Belgium,Brussels,50.836426,4.367415,365,30,0,335,124,29,True,True
+2020-03-18,BEL,Belgium,Flanders,51.036569,4.234165,1713,19,0,1694,320,65,True,True
+2020-03-18,BEL,Belgium,NOT SPECIFIED,,,85,0,0,85,0,0,True,True
+2020-03-18,BEL,Belgium,Wallonia,50.312074,5.019093,936,14,0,922,206,37,True,True
 2020-03-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,15,0,0,15,0,0,False,False
 2020-03-18,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,1,0,0,1,,,True,True
 2020-03-18,HRV,Croatia,Grad Zagreb,45.742196,16.008116,30,0,0,30,,,True,True
@@ -2880,10 +2908,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-19,AUT,Austria,Vorarlberg,47.240149,9.896366,151,,,,,,True,True
 2020-03-19,AUT,Austria,Wien,48.21141,16.380038,234,,,,,,True,True
 2020-03-19,BLR,Belarus,Belarus,53.711111,27.973847,46,0,0,46,0,0,False,False
-2020-03-19,BEL,Belgium,Brussels,50.836426,4.367415,242,12,0,230,,,True,True
-2020-03-19,BEL,Belgium,Flanders,51.036569,4.234165,1034,2,0,1032,,,True,True
-2020-03-19,BEL,Belgium,NOT SPECIFIED,,,55,0,0,55,,,True,True
-2020-03-19,BEL,Belgium,Wallonia,50.312074,5.019093,464,7,0,457,,,True,True
+2020-03-19,BEL,Belgium,Brussels,50.836426,4.367415,420,35,0,385,156,35,True,True
+2020-03-19,BEL,Belgium,Flanders,51.036569,4.234165,2094,29,0,2065,416,77,True,True
+2020-03-19,BEL,Belgium,NOT SPECIFIED,,,117,0,0,117,0,0,True,True
+2020-03-19,BEL,Belgium,Wallonia,50.312074,5.019093,1181,27,0,1154,272,53,True,True
 2020-03-19,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,17,0,0,17,0,0,False,False
 2020-03-19,CYP,Cyprus,Cyprus,35.167406,33.435499,58,0,0,58,,,True,True
 2020-03-19,CZE,Czech Republic,Jihoceský,49.093362,14.439278,19,0,0,19,,,True,True
@@ -3161,10 +3189,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-20,AUT,Austria,Vorarlberg,47.240149,9.896366,197,,,,,,True,True
 2020-03-20,AUT,Austria,Wien,48.21141,16.380038,296,,,,,,True,True
 2020-03-20,BLR,Belarus,Belarus,53.711111,27.973847,57,0,0,57,0,0,False,False
-2020-03-20,BEL,Belgium,Brussels,50.836426,4.367415,285,14,0,271,,,True,True
-2020-03-20,BEL,Belgium,Flanders,51.036569,4.234165,1336,8,0,1328,,,True,True
-2020-03-20,BEL,Belgium,NOT SPECIFIED,,,82,0,0,82,,,True,True
-2020-03-20,BEL,Belgium,Wallonia,50.312074,5.019093,554,15,0,539,,,True,True
+2020-03-20,BEL,Belgium,Brussels,50.836426,4.367415,490,44,0,446,193,46,True,True
+2020-03-20,BEL,Belgium,Flanders,51.036569,4.234165,2487,38,0,2449,551,114,True,True
+2020-03-20,BEL,Belgium,NOT SPECIFIED,,,128,0,0,128,0,0,True,True
+2020-03-20,BEL,Belgium,Wallonia,50.312074,5.019093,1370,40,0,1330,357,68,True,True
 2020-03-20,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,24,0,0,24,0,0,False,False
 2020-03-20,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,1,0,0,1,,,True,True
 2020-03-20,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,1,0,0,1,,,True,True
@@ -3468,10 +3496,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-21,AUT,Austria,Tirol,47.209023,11.397603,575,,,,,,True,True
 2020-03-21,AUT,Austria,Vorarlberg,47.240149,9.896366,228,,,,,,True,True
 2020-03-21,AUT,Austria,Wien,48.21141,16.380038,359,,,,,,True,True
-2020-03-21,BEL,Belgium,Brussels,50.836426,4.367415,335,33,0,302,,,True,True
-2020-03-21,BEL,Belgium,Flanders,51.036569,4.234165,1628,10,0,1618,,,True,True
-2020-03-21,BEL,Belgium,NOT SPECIFIED,,,98,0,0,98,,,True,True
-2020-03-21,BEL,Belgium,Wallonia,50.312074,5.019093,754,24,0,730,,,True,True
+2020-03-21,BEL,Belgium,Brussels,50.836426,4.367415,534,48,0,486,248,56,True,True
+2020-03-21,BEL,Belgium,Flanders,51.036569,4.234165,2735,56,0,2679,706,139,True,True
+2020-03-21,BEL,Belgium,NOT SPECIFIED,,,142,0,0,142,0,0,True,True
+2020-03-21,BEL,Belgium,Wallonia,50.312074,5.019093,1534,57,0,1477,430,95,True,True
 2020-03-21,HRV,Croatia,NOT SPECIFIED,,,191,0,0,191,,,True,True
 2020-03-21,CYP,Cyprus,Cyprus,35.167406,33.435499,84,0,0,84,,,True,True
 2020-03-21,CZE,Czech Republic,Jihoceský,49.093362,14.439278,30,0,0,30,,,True,True
@@ -3735,10 +3763,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-22,ALB,Albania,Fier,40.774633,19.620528,8,0,0,8,,,False,False
 2020-03-22,ALB,Albania,Korçë,40.62883,20.666004,3,0,0,3,0,0,False,False
 2020-03-22,ALB,Albania,Tiranë,41.268583,19.793936,63,0,0,63,0,0,False,False
-2020-03-22,BEL,Belgium,Brussels,50.836426,4.367415,405,34,0,371,,,True,True
-2020-03-22,BEL,Belgium,Flanders,51.036569,4.234165,2040,14,0,2026,,,True,True
-2020-03-22,BEL,Belgium,NOT SPECIFIED,,,103,0,0,103,,,True,True
-2020-03-22,BEL,Belgium,Wallonia,50.312074,5.019093,853,27,0,826,,,True,True
+2020-03-22,BEL,Belgium,Brussels,50.836426,4.367415,597,56,0,541,283,58,True,True
+2020-03-22,BEL,Belgium,Flanders,51.036569,4.234165,2969,74,0,2895,824,153,True,True
+2020-03-22,BEL,Belgium,NOT SPECIFIED,,,156,0,0,156,0,0,True,True
+2020-03-22,BEL,Belgium,Wallonia,50.312074,5.019093,1709,73,0,1636,539,111,True,True
 2020-03-22,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,5,0,0,5,,,True,True
 2020-03-22,BGR,Bulgaria,Burgas,42.491848,27.306892,9,0,0,9,,,True,True
 2020-03-22,BGR,Bulgaria,Dobrich,43.65074,27.936751,4,0,0,4,,,True,True
@@ -4054,10 +4082,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-23,ALB,Albania,Vlorë,40.162418,19.793592,4,0,0,4,,,False,False
 2020-03-23,AND,Andorra,Andorra,42.542268,1.596865,113,0,0,113,,,False,False
 2020-03-23,BLR,Belarus,Belarus,53.711111,27.973847,76,0,0,76,0,0,False,False
-2020-03-23,BEL,Belgium,Brussels,50.836426,4.367415,450,34,0,416,,,True,True
-2020-03-23,BEL,Belgium,Flanders,51.036569,4.234165,2213,21,0,2192,,,True,True
-2020-03-23,BEL,Belgium,NOT SPECIFIED,,,109,0,0,109,,,True,True
-2020-03-23,BEL,Belgium,Wallonia,50.312074,5.019093,971,33,0,938,,,True,True
+2020-03-23,BEL,Belgium,Brussels,50.836426,4.367415,713,67,0,646,298,67,True,True
+2020-03-23,BEL,Belgium,Flanders,51.036569,4.234165,3776,105,0,3671,971,191,True,True
+2020-03-23,BEL,Belgium,NOT SPECIFIED,,,168,0,0,168,0,0,True,True
+2020-03-23,BEL,Belgium,Wallonia,50.312074,5.019093,2103,108,0,1995,614,127,True,True
 2020-03-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,39,1,0,38,0,0,False,False
 2020-03-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,5,0,0,5,,,True,True
 2020-03-23,BGR,Bulgaria,Burgas,42.491848,27.306892,9,0,0,9,,,True,True
@@ -4445,10 +4473,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-24,ALB,Albania,Vlorë,40.162418,19.793592,4,0,0,4,,,False,False
 2020-03-24,AND,Andorra,Andorra,42.542268,1.596865,133,0,0,133,,,False,False
 2020-03-24,BLR,Belarus,Belarus,53.711111,27.973847,81,0,0,81,,,False,False
-2020-03-24,BEL,Belgium,Brussels,50.836426,4.367415,488,42,0,446,,,True,True
-2020-03-24,BEL,Belgium,Flanders,51.036569,4.234165,2594,38,0,2556,,,True,True
-2020-03-24,BEL,Belgium,NOT SPECIFIED,,,129,0,0,129,,,True,True
-2020-03-24,BEL,Belgium,Wallonia,50.312074,5.019093,1058,42,0,1016,,,True,True
+2020-03-24,BEL,Belgium,Brussels,50.836426,4.367415,835,75,0,760,319,77,True,True
+2020-03-24,BEL,Belgium,Flanders,51.036569,4.234165,4462,137,0,4325,1158,245,True,True
+2020-03-24,BEL,Belgium,NOT SPECIFIED,,,176,0,0,176,0,0,True,True
+2020-03-24,BEL,Belgium,Wallonia,50.312074,5.019093,2482,142,0,2340,663,152,True,True
 2020-03-24,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,45,2,0,43,0,0,False,False
 2020-03-24,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,5,0,0,5,,,True,True
 2020-03-24,BGR,Bulgaria,Burgas,42.491848,27.306892,9,0,0,9,,,True,True
@@ -4846,10 +4874,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,AUT,Austria,Vorarlberg,47.240149,9.896366,407,0,0,407,,,True,True
 2020-03-25,AUT,Austria,Wien,48.21141,16.380038,702,0,0,702,,,True,True
 2020-03-25,BLR,Belarus,Belarus,53.711111,27.973847,81,0,0,81,,,False,False
-2020-03-25,BEL,Belgium,Brussels,50.836426,4.367415,545,46,0,499,,,True,True
-2020-03-25,BEL,Belgium,Flanders,51.036569,4.234165,3023,58,0,2965,,,True,True
-2020-03-25,BEL,Belgium,NOT SPECIFIED,,,135,0,0,135,,,True,True
-2020-03-25,BEL,Belgium,Wallonia,50.312074,5.019093,1234,74,0,1160,,,True,True
+2020-03-25,BEL,Belgium,Brussels,50.836426,4.367415,977,91,0,886,415,98,True,True
+2020-03-25,BEL,Belgium,Flanders,51.036569,4.234165,5179,179,0,5000,1518,330,True,True
+2020-03-25,BEL,Belgium,NOT SPECIFIED,,,188,0,0,188,0,0,True,True
+2020-03-25,BEL,Belgium,Wallonia,50.312074,5.019093,2810,182,0,2628,788,184,True,True
 2020-03-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,57,3,0,54,0,0,False,False
 2020-03-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,5,0,0,5,,,True,True
 2020-03-25,BGR,Bulgaria,Burgas,42.491848,27.306892,9,0,0,9,,,True,True
@@ -5262,10 +5290,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-26,AUT,Austria,Vorarlberg,47.240149,9.896366,435,0,0,435,0,0,True,True
 2020-03-26,AUT,Austria,Wien,48.21141,16.380038,825,0,0,825,0,0,True,True
 2020-03-26,BLR,Belarus,Belarus,53.711111,27.973847,86,0,0,86,0,0,False,False
-2020-03-26,BEL,Belgium,Brussels,50.836426,4.367415,709,49,0,660,0,0,True,True
-2020-03-26,BEL,Belgium,Flanders,51.036569,4.234165,3880,80,0,3800,0,0,True,True
-2020-03-26,BEL,Belgium,NOT SPECIFIED,,,156,0,0,156,0,0,True,True
-2020-03-26,BEL,Belgium,Wallonia,50.312074,5.019093,1490,91,0,1399,0,0,True,True
+2020-03-26,BEL,Belgium,Brussels,50.836426,4.367415,1126,110,0,1016,482,114,True,True
+2020-03-26,BEL,Belgium,Flanders,51.036569,4.234165,6000,215,0,5785,1710,361,True,True
+2020-03-26,BEL,Belgium,NOT SPECIFIED,,,205,0,0,205,0,0,True,True
+2020-03-26,BEL,Belgium,Wallonia,50.312074,5.019093,3186,228,0,2958,885,215,True,True
 2020-03-26,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,62,3,0,59,0,0,False,False
 2020-03-26,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,7,0,0,7,0,0,True,True
 2020-03-26,BGR,Bulgaria,Burgas,42.491848,27.306892,9,0,0,9,0,0,True,True
@@ -5694,10 +5722,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-27,AUT,Austria,Vorarlberg,47.240149,9.896366,501,0,0,501,0,0,True,True
 2020-03-27,AUT,Austria,Wien,48.21141,16.380038,1003,0,0,1003,0,0,True,True
 2020-03-27,BLR,Belarus,Belarus,53.711111,27.973847,86,0,0,86,0,0,False,False
-2020-03-27,BEL,Belgium,Brussels,50.836426,4.367415,846,59,0,787,0,0,True,True
-2020-03-27,BEL,Belgium,Flanders,51.036569,4.234165,4652,118,0,4534,0,0,True,True
-2020-03-27,BEL,Belgium,NOT SPECIFIED,,,165,0,0,165,0,0,True,True
-2020-03-27,BEL,Belgium,Wallonia,50.312074,5.019093,1621,112,0,1509,0,0,True,True
+2020-03-27,BEL,Belgium,Brussels,50.836426,4.367415,1312,126,0,1186,581,118,True,True
+2020-03-27,BEL,Belgium,Flanders,51.036569,4.234165,6938,285,0,6653,2046,427,True,True
+2020-03-27,BEL,Belgium,NOT SPECIFIED,,,229,0,0,229,0,0,True,True
+2020-03-27,BEL,Belgium,Wallonia,50.312074,5.019093,3557,265,0,3292,1023,244,True,True
 2020-03-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,74,3,0,71,0,0,False,False
 2020-03-27,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,7,0,0,7,0,0,True,True
 2020-03-27,BGR,Bulgaria,Burgas,42.491848,27.306892,12,0,0,12,0,0,True,True
@@ -6111,10 +6139,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-28,AUT,Austria,Vorarlberg,47.240149,9.896366,549,0,0,549,0,0,True,True
 2020-03-28,AUT,Austria,Wien,48.21141,16.380038,1046,0,0,1046,0,0,True,True
 2020-03-28,BLR,Belarus,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-28,BEL,Belgium,Brussels,50.836426,4.367415,980,71,0,909,0,0,True,True
-2020-03-28,BEL,Belgium,Flanders,51.036569,4.234165,5475,145,0,5330,0,0,True,True
-2020-03-28,BEL,Belgium,NOT SPECIFIED,,,183,0,0,183,0,0,True,True
-2020-03-28,BEL,Belgium,Wallonia,50.312074,5.019093,2496,137,0,2359,0,0,True,True
+2020-03-28,BEL,Belgium,Brussels,50.836426,4.367415,1459,154,0,1305,630,136,True,True
+2020-03-28,BEL,Belgium,Flanders,51.036569,4.234165,7416,347,0,7069,2305,471,True,True
+2020-03-28,BEL,Belgium,NOT SPECIFIED,,,242,0,0,242,0,0,True,True
+2020-03-28,BEL,Belgium,Wallonia,50.312074,5.019093,3763,308,0,3455,1154,260,True,True
 2020-03-28,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,95,4,0,91,0,0,False,False
 2020-03-28,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,5,0,0,5,0,0,True,True
 2020-03-28,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,3,1,0,2,0,0,True,True
@@ -6528,10 +6556,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-29,AUT,Austria,Vorarlberg,47.240149,9.896366,579,0,0,579,0,0,True,True
 2020-03-29,AUT,Austria,Wien,48.21141,16.380038,1101,0,0,1101,0,0,True,True
 2020-03-29,BLR,Belarus,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-29,BEL,Belgium,Brussels,50.836426,4.367415,1065,92,0,973,0,0,True,True
-2020-03-29,BEL,Belgium,Flanders,51.036569,4.234165,6381,185,0,6196,0,0,True,True
-2020-03-29,BEL,Belgium,NOT SPECIFIED,,,203,0,0,203,0,0,True,True
-2020-03-29,BEL,Belgium,Wallonia,50.312074,5.019093,3187,154,0,3033,0,0,True,True
+2020-03-29,BEL,Belgium,Brussels,50.836426,4.367415,1552,176,0,1376,656,131,True,True
+2020-03-29,BEL,Belgium,Flanders,51.036569,4.234165,7780,405,0,7375,2526,525,True,True
+2020-03-29,BEL,Belgium,NOT SPECIFIED,,,255,0,0,255,0,0,True,True
+2020-03-29,BEL,Belgium,Wallonia,50.312074,5.019093,3976,367,0,3609,1298,286,True,True
 2020-03-29,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,123,5,0,118,0,0,False,False
 2020-03-29,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,5,0,0,5,0,0,True,True
 2020-03-29,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,3,1,0,2,0,0,True,True
@@ -6955,10 +6983,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-30,AUT,Austria,Vorarlberg,47.240149,9.896366,616,0,0,616,0,0,True,True
 2020-03-30,AUT,Austria,Wien,48.21141,16.380038,1235,0,0,1235,0,0,True,True
 2020-03-30,BLR,Belarus,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-30,BEL,Belgium,Brussels,50.836426,4.367415,1263,96,0,1167,0,0,True,True
-2020-03-30,BEL,Belgium,Flanders,51.036569,4.234165,7064,235,0,6829,0,0,True,True
-2020-03-30,BEL,Belgium,NOT SPECIFIED,,,221,3,0,218,0,0,True,True
-2020-03-30,BEL,Belgium,Wallonia,50.312074,5.019093,3351,179,0,3172,0,0,True,True
+2020-03-30,BEL,Belgium,Brussels,50.836426,4.367415,1690,205,0,1485,790,164,True,True
+2020-03-30,BEL,Belgium,Flanders,51.036569,4.234165,8813,483,0,8330,2697,546,True,True
+2020-03-30,BEL,Belgium,NOT SPECIFIED,,,283,0,0,283,0,0,True,True
+2020-03-30,BEL,Belgium,Wallonia,50.312074,5.019093,4515,429,0,4086,1410,311,True,True
 2020-03-30,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,152,8,0,144,0,0,False,False
 2020-03-30,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,11,3,0,8,0,0,True,True
 2020-03-30,BGR,Bulgaria,Burgas,42.491848,27.306892,14,0,0,14,0,0,True,True
@@ -7437,10 +7465,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-31,AUT,Austria,Vorarlberg,47.240149,9.896366,646,0,0,646,0,0,True,True
 2020-03-31,AUT,Austria,Wien,48.21141,16.380038,1378,0,0,1378,0,0,True,True
 2020-03-31,BLR,Belarus,Belarus,53.711111,27.973847,105,0,0,105,0,0,False,False
-2020-03-31,BEL,Belgium,Brussels,50.836426,4.367415,1452,131,0,1321,0,0,True,True
-2020-03-31,BEL,Belgium,Flanders,51.036569,4.234165,7531,274,0,7257,0,0,True,True
-2020-03-31,BEL,Belgium,NOT SPECIFIED,,,238,7,0,231,0,0,True,True
-2020-03-31,BEL,Belgium,Wallonia,50.312074,5.019093,3554,293,0,3261,0,0,True,True
+2020-03-31,BEL,Belgium,Brussels,50.836426,4.367415,1868,234,0,1634,818,176,True,True
+2020-03-31,BEL,Belgium,Flanders,51.036569,4.234165,9692,569,0,9123,2749,590,True,True
+2020-03-31,BEL,Belgium,NOT SPECIFIED,,,301,0,0,301,0,0,True,True
+2020-03-31,BEL,Belgium,Wallonia,50.312074,5.019093,5121,499,0,4622,1422,322,True,True
 2020-03-31,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,172,9,0,163,0,0,False,False
 2020-03-31,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,11,3,0,8,0,0,True,True
 2020-03-31,BGR,Bulgaria,Burgas,42.491848,27.306892,18,0,0,18,0,0,True,True
@@ -7931,10 +7959,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-01,AUT,Austria,Vorarlberg,47.240149,9.896366,666,0,0,666,0,0,True,True
 2020-04-01,AUT,Austria,Wien,48.21141,16.380038,1497,0,0,1497,0,0,True,True
 2020-04-01,BLR,Belarus,Belarus,53.711111,27.973847,152,0,0,152,0,0,False,False
-2020-04-01,BEL,Belgium,Brussels,50.836426,4.367415,1580,158,0,1422,0,0,True,True
-2020-04-01,BEL,Belgium,Flanders,51.036569,4.234165,8219,334,0,7885,0,0,True,True
-2020-04-01,BEL,Belgium,NOT SPECIFIED,,,262,41,0,221,0,0,True,True
-2020-04-01,BEL,Belgium,Wallonia,50.312074,5.019093,3903,295,0,3608,0,0,True,True
+2020-04-01,BEL,Belgium,Brussels,50.836426,4.367415,2014,264,0,1750,843,183,True,True
+2020-04-01,BEL,Belgium,Flanders,51.036569,4.234165,10532,710,0,9822,2875,619,True,True
+2020-04-01,BEL,Belgium,NOT SPECIFIED,,,325,0,0,325,0,0,True,True
+2020-04-01,BEL,Belgium,Wallonia,50.312074,5.019093,5614,574,0,5040,1502,342,True,True
 2020-04-01,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,208,9,0,199,0,0,False,False
 2020-04-01,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,13,3,0,10,0,0,True,True
 2020-04-01,BGR,Bulgaria,Burgas,42.491848,27.306892,20,0,0,20,0,0,True,True
@@ -8453,10 +8481,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-02,AUT,Austria,Vorarlberg,47.240149,9.896366,681,0,0,681,0,0,True,True
 2020-04-02,AUT,Austria,Wien,48.21141,16.380038,1583,0,0,1583,0,0,True,True
 2020-04-02,BLR,Belarus,Belarus,53.711111,27.973847,152,0,0,152,0,0,False,False
-2020-04-02,BEL,Belgium,Brussels,50.836426,4.367415,1717,175,0,1542,0,0,True,True
-2020-04-02,BEL,Belgium,Flanders,51.036569,4.234165,9131,397,0,8734,0,0,True,True
-2020-04-02,BEL,Belgium,NOT SPECIFIED,,,280,50,0,230,0,0,True,True
-2020-04-02,BEL,Belgium,Wallonia,50.312074,5.019093,4220,389,0,3831,0,0,True,True
+2020-04-02,BEL,Belgium,Brussels,50.836426,4.367415,2169,303,0,1866,902,196,True,True
+2020-04-02,BEL,Belgium,Flanders,51.036569,4.234165,11331,810,0,10521,2912,646,True,True
+2020-04-02,BEL,Belgium,NOT SPECIFIED,,,354,0,0,354,0,0,True,True
+2020-04-02,BEL,Belgium,Wallonia,50.312074,5.019093,6091,644,0,5447,1569,363,True,True
 2020-04-02,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,250,11,0,239,0,0,False,False
 2020-04-02,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,14,3,0,11,0,0,True,True
 2020-04-02,BGR,Bulgaria,Burgas,42.491848,27.306892,20,0,0,20,0,0,True,True
@@ -9021,10 +9049,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-03,AUT,Austria,Vorarlberg,47.240149,9.896366,710,0,0,710,0,0,True,True
 2020-04-03,AUT,Austria,Wien,48.21141,16.380038,1661,0,0,1661,0,0,True,True
 2020-04-03,BLR,Belarus,Belarus,53.711111,27.973847,254,4,0,250,0,0,False,False
-2020-04-03,BEL,Belgium,Brussels,50.836426,4.367415,1884,207,0,1677,0,0,True,True
-2020-04-03,BEL,Belgium,Flanders,51.036569,4.234165,9996,475,0,9521,0,0,True,True
-2020-04-03,BEL,Belgium,NOT SPECIFIED,,,296,0,0,296,0,0,True,True
-2020-04-03,BEL,Belgium,Wallonia,50.312074,5.019093,4594,461,0,4133,0,0,True,True
+2020-04-03,BEL,Belgium,Brussels,50.836426,4.367415,2336,334,0,2002,914,196,True,True
+2020-04-03,BEL,Belgium,Flanders,51.036569,4.234165,12282,922,0,11360,2992,668,True,True
+2020-04-03,BEL,Belgium,NOT SPECIFIED,,,380,0,0,380,0,0,True,True
+2020-04-03,BEL,Belgium,Wallonia,50.312074,5.019093,6638,732,0,5906,1607,381,True,True
 2020-04-03,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,288,12,0,276,0,0,False,False
 2020-04-03,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,15,3,0,12,0,0,True,True
 2020-04-03,BGR,Bulgaria,Burgas,42.491848,27.306892,21,0,0,21,0,0,True,True
@@ -9589,10 +9617,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-04,AUT,Austria,Vorarlberg,47.240149,9.896366,722,0,0,722,0,0,True,True
 2020-04-04,AUT,Austria,Wien,48.21141,16.380038,1679,0,0,1679,0,0,True,True
 2020-04-04,BLR,Belarus,Belarus,53.711111,27.973847,351,4,0,347,0,0,False,False
-2020-04-04,BEL,Belgium,Brussels,50.836426,4.367415,2046,244,0,1802,0,0,True,True
-2020-04-04,BEL,Belgium,Flanders,51.036569,4.234165,10827,527,0,10300,0,0,True,True
-2020-04-04,BEL,Belgium,NOT SPECIFIED,,,312,0,0,312,0,0,True,True
-2020-04-04,BEL,Belgium,Wallonia,50.312074,5.019093,5246,512,0,4734,0,0,True,True
+2020-04-04,BEL,Belgium,Brussels,50.836426,4.367415,2438,390,0,2048,888,197,True,True
+2020-04-04,BEL,Belgium,Flanders,51.036569,4.234165,12825,1055,0,11770,3038,682,True,True
+2020-04-04,BEL,Belgium,NOT SPECIFIED,,,404,0,0,404,0,0,True,True
+2020-04-04,BEL,Belgium,Wallonia,50.312074,5.019093,6894,817,0,6077,1605,382,True,True
 2020-04-04,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,320,14,0,306,0,0,False,False
 2020-04-04,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,8,0,0,8,0,0,True,True
 2020-04-04,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,14,1,0,13,0,0,True,True
@@ -10117,10 +10145,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-05,AUT,Austria,Vorarlberg,47.240149,9.896366,742,0,0,742,0,0,True,True
 2020-04-05,AUT,Austria,Wien,48.21141,16.380038,1701,0,0,1701,0,0,True,True
 2020-04-05,BLR,Belarus,Belarus,53.711111,27.973847,394,5,0,389,0,0,False,False
-2020-04-05,BEL,Belgium,Brussels,50.836426,4.367415,2215,266,0,1949,0,0,True,True
-2020-04-05,BEL,Belgium,Flanders,51.036569,4.234165,11603,573,0,11030,0,0,True,True
-2020-04-05,BEL,Belgium,NOT SPECIFIED,,,326,0,0,326,0,0,True,True
-2020-04-05,BEL,Belgium,Wallonia,50.312074,5.019093,5547,608,0,4939,0,0,True,True
+2020-04-05,BEL,Belgium,Brussels,50.836426,4.367415,2520,428,0,2092,899,203,True,True
+2020-04-05,BEL,Belgium,Flanders,51.036569,4.234165,13146,1167,0,11979,3057,675,True,True
+2020-04-05,BEL,Belgium,NOT SPECIFIED,,,427,0,0,427,0,0,True,True
+2020-04-05,BEL,Belgium,Wallonia,50.312074,5.019093,7133,900,0,6233,1664,389,True,True
 2020-04-05,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,368,17,0,351,0,0,False,False
 2020-04-05,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,9,0,0,9,0,0,True,True
 2020-04-05,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,15,1,0,14,0,0,True,True
@@ -10646,10 +10674,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-06,AUT,Austria,Vorarlberg,47.240149,9.896366,754,0,0,754,0,0,True,True
 2020-04-06,AUT,Austria,Wien,48.21141,16.380038,1743,0,0,1743,0,0,True,True
 2020-04-06,BLR,Belarus,Belarus,53.711111,27.973847,564,8,0,556,0,0,False,False
-2020-04-06,BEL,Belgium,Brussels,50.836426,4.367415,2352,311,0,2041,0,0,True,True
-2020-04-06,BEL,Belgium,Flanders,51.036569,4.234165,12289,633,0,11656,0,0,True,True
-2020-04-06,BEL,Belgium,NOT SPECIFIED,,,364,0,0,364,0,0,True,True
-2020-04-06,BEL,Belgium,Wallonia,50.312074,5.019093,5809,688,0,5121,0,0,True,True
+2020-04-06,BEL,Belgium,Brussels,50.836426,4.367415,2689,476,0,2213,921,203,True,True
+2020-04-06,BEL,Belgium,Flanders,51.036569,4.234165,14283,1307,0,12976,3154,673,True,True
+2020-04-06,BEL,Belgium,NOT SPECIFIED,,,466,0,0,466,0,0,True,True
+2020-04-06,BEL,Belgium,Wallonia,50.312074,5.019093,7710,985,0,6725,1684,384,True,True
 2020-04-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,371,19,0,352,0,0,False,False
 2020-04-06,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,16,3,0,13,0,0,True,True
 2020-04-06,BGR,Bulgaria,Burgas,42.491848,27.306892,24,0,0,24,0,0,True,True
@@ -11222,10 +11250,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-07,AUT,Austria,Vorarlberg,47.240149,9.896366,768,0,0,768,0,0,True,True
 2020-04-07,AUT,Austria,Wien,48.21141,16.380038,1813,0,0,1813,0,0,True,True
 2020-04-07,BLR,Belarus,Belarus,53.711111,27.973847,700,13,0,687,0,0,False,False
-2020-04-07,BEL,Belgium,Brussels,50.836426,4.367415,2414,340,0,2074,0,0,True,True
-2020-04-07,BEL,Belgium,Flanders,51.036569,4.234165,12876,929,0,11947,0,0,True,True
-2020-04-07,BEL,Belgium,NOT SPECIFIED,,,361,0,0,361,0,0,True,True
-2020-04-07,BEL,Belgium,Wallonia,50.312074,5.019093,6543,766,0,5777,0,0,True,True
+2020-04-07,BEL,Belgium,Brussels,50.836426,4.367415,2830,523,0,2307,938,202,True,True
+2020-04-07,BEL,Belgium,Flanders,51.036569,4.234165,15113,1460,0,13653,3126,690,True,True
+2020-04-07,BEL,Belgium,NOT SPECIFIED,,,498,0,0,498,0,0,True,True
+2020-04-07,BEL,Belgium,Wallonia,50.312074,5.019093,8207,1089,0,7118,1651,384,True,True
 2020-04-07,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,416,21,0,395,0,0,False,False
 2020-04-07,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-07,BGR,Bulgaria,Burgas,42.491848,27.306892,25,0,0,25,0,0,True,True
@@ -11799,10 +11827,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-08,AUT,Austria,Vorarlberg,47.240149,9.896366,793,0,0,793,0,0,True,True
 2020-04-08,AUT,Austria,Wien,48.21141,16.380038,1860,0,0,1860,0,0,True,True
 2020-04-08,BLR,Belarus,Belarus,53.711111,27.973847,861,13,0,848,0,0,False,False
-2020-04-08,BEL,Belgium,Brussels,50.836426,4.367415,2515,363,0,2152,0,0,True,True
-2020-04-08,BEL,Belgium,Flanders,51.036569,4.234165,13420,1042,0,12378,0,0,True,True
-2020-04-08,BEL,Belgium,NOT SPECIFIED,,,377,0,0,377,0,0,True,True
-2020-04-08,BEL,Belgium,Wallonia,50.312074,5.019093,7091,835,0,6256,0,0,True,True
+2020-04-08,BEL,Belgium,Brussels,50.836426,4.367415,3002,574,0,2428,911,193,True,True
+2020-04-08,BEL,Belgium,Flanders,51.036569,4.234165,16030,1613,0,14417,3045,691,True,True
+2020-04-08,BEL,Belgium,NOT SPECIFIED,,,532,0,0,532,0,0,True,True
+2020-04-08,BEL,Belgium,Wallonia,50.312074,5.019093,8671,1202,0,7469,1660,401,True,True
 2020-04-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,439,21,0,418,0,0,False,False
 2020-04-08,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-08,BGR,Bulgaria,Burgas,42.491848,27.306892,25,0,0,25,0,0,True,True
@@ -12377,10 +12405,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-09,AUT,Austria,Vorarlberg,47.240149,9.896366,800,0,0,800,0,0,True,True
 2020-04-09,AUT,Austria,Wien,48.21141,16.380038,1892,0,0,1892,0,0,True,True
 2020-04-09,BLR,Belarus,Belarus,53.711111,27.973847,1066,13,0,1053,0,0,False,False
-2020-04-09,BEL,Belgium,Brussels,50.836426,4.367415,2664,402,0,2262,0,0,True,True
-2020-04-09,BEL,Belgium,Flanders,51.036569,4.234165,14469,1178,0,13291,0,0,True,True
-2020-04-09,BEL,Belgium,NOT SPECIFIED,,,389,0,0,389,0,0,True,True
-2020-04-09,BEL,Belgium,Wallonia,50.312074,5.019093,7461,943,0,6518,0,0,True,True
+2020-04-09,BEL,Belgium,Brussels,50.836426,4.367415,3164,614,0,2550,907,198,True,True
+2020-04-09,BEL,Belgium,Flanders,51.036569,4.234165,17408,1736,0,15672,3016,675,True,True
+2020-04-09,BEL,Belgium,NOT SPECIFIED,,,575,0,0,575,0,0,True,True
+2020-04-09,BEL,Belgium,Wallonia,50.312074,5.019093,9312,1310,0,8002,1713,405,True,True
 2020-04-09,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,475,21,0,454,0,0,False,False
 2020-04-09,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-09,BGR,Bulgaria,Burgas,42.491848,27.306892,24,0,0,24,0,0,True,True
@@ -12956,10 +12984,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-10,AUT,Austria,Vorarlberg,47.240149,9.896366,809,0,0,809,0,0,True,True
 2020-04-10,AUT,Austria,Wien,48.21141,16.380038,1952,0,0,1952,0,0,True,True
 2020-04-10,BLR,Belarus,Belarus,53.711111,27.973847,1486,16,0,1470,0,0,False,False
-2020-04-10,BEL,Belgium,Brussels,50.836426,4.367415,2831,468,0,2363,0,0,True,True
-2020-04-10,BEL,Belgium,Flanders,51.036569,4.234165,15360,1491,0,13869,0,0,True,True
-2020-04-10,BEL,Belgium,NOT SPECIFIED,,,469,0,0,469,0,0,True,True
-2020-04-10,BEL,Belgium,Wallonia,50.312074,5.019093,8007,1060,0,6947,0,0,True,True
+2020-04-10,BEL,Belgium,Brussels,50.836426,4.367415,3305,667,0,2638,902,197,True,True
+2020-04-10,BEL,Belgium,Flanders,51.036569,4.234165,18967,1896,0,17071,3018,673,True,True
+2020-04-10,BEL,Belgium,NOT SPECIFIED,,,623,0,0,623,0,0,True,True
+2020-04-10,BEL,Belgium,Wallonia,50.312074,5.019093,9883,1415,0,8468,1743,392,True,True
 2020-04-10,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,506,21,0,485,0,0,False,False
 2020-04-10,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-10,BGR,Bulgaria,Burgas,42.491848,27.306892,25,0,0,25,0,0,True,True
@@ -13536,10 +13564,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-11,AUT,Austria,Vorarlberg,47.240149,9.896366,825,0,0,825,0,0,True,True
 2020-04-11,AUT,Austria,Wien,48.21141,16.380038,1995,0,0,1995,0,0,True,True
 2020-04-11,BLR,Belarus,Belarus,53.711111,27.973847,1981,19,0,1962,0,0,False,False
-2020-04-11,BEL,Belgium,Brussels,50.836426,4.367415,2980,538,0,2442,0,0,True,True
-2020-04-11,BEL,Belgium,Flanders,51.036569,4.234165,16116,1630,0,14486,0,0,True,True
-2020-04-11,BEL,Belgium,NOT SPECIFIED,,,478,0,0,478,0,0,True,True
-2020-04-11,BEL,Belgium,Wallonia,50.312074,5.019093,8444,1178,0,7266,0,0,True,True
+2020-04-11,BEL,Belgium,Brussels,50.836426,4.367415,3379,702,0,2677,798,179,True,True
+2020-04-11,BEL,Belgium,Flanders,51.036569,4.234165,19636,2020,0,17616,2915,667,True,True
+2020-04-11,BEL,Belgium,NOT SPECIFIED,,,641,0,0,641,0,0,True,True
+2020-04-11,BEL,Belgium,Wallonia,50.312074,5.019093,10145,1546,0,8599,1724,386,True,True
 2020-04-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,526,22,0,504,0,0,False,False
 2020-04-11,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-11,BGR,Bulgaria,Burgas,42.491848,27.306892,26,0,0,26,0,0,True,True
@@ -14096,10 +14124,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-12,AUT,Austria,Vorarlberg,47.240149,9.896366,843,0,0,843,0,0,True,True
 2020-04-12,AUT,Austria,Wien,48.21141,16.380038,2029,0,0,2029,0,0,True,True
 2020-04-12,BLR,Belarus,Belarus,53.711111,27.973847,2226,23,0,2203,0,0,False,False
-2020-04-12,BEL,Belgium,Brussels,50.836426,4.367415,3123,579,0,2544,0,0,True,True
-2020-04-12,BEL,Belgium,Flanders,51.036569,4.234165,17119,1763,0,15356,0,0,True,True
-2020-04-12,BEL,Belgium,NOT SPECIFIED,,,500,0,0,500,0,0,True,True
-2020-04-12,BEL,Belgium,Wallonia,50.312074,5.019093,8905,1258,0,7647,0,0,True,True
+2020-04-12,BEL,Belgium,Brussels,50.836426,4.367415,3439,747,0,2692,819,179,True,True
+2020-04-12,BEL,Belgium,Flanders,51.036569,4.234165,19928,2218,0,17710,2925,675,True,True
+2020-04-12,BEL,Belgium,NOT SPECIFIED,,,659,0,0,659,0,0,True,True
+2020-04-12,BEL,Belgium,Wallonia,50.312074,5.019093,10292,1646,0,8646,1697,380,True,True
 2020-04-12,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,578,24,0,554,0,0,False,False
 2020-04-12,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-12,BGR,Bulgaria,Burgas,42.491848,27.306892,26,0,0,26,0,0,True,True
@@ -14658,10 +14686,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-13,AUT,Austria,Vorarlberg,47.240149,9.896366,832,0,0,832,0,0,True,True
 2020-04-13,AUT,Austria,Wien,48.21141,16.380038,2015,0,0,2015,0,0,True,True
 2020-04-13,BLR,Belarus,Belarus,53.711111,27.973847,2578,26,0,2552,0,0,False,False
-2020-04-13,BEL,Belgium,Brussels,50.836426,4.367415,3236,608,0,2628,0,0,True,True
-2020-04-13,BEL,Belgium,Flanders,51.036569,4.234165,17710,1904,0,15806,0,0,True,True
-2020-04-13,BEL,Belgium,NOT SPECIFIED,,,503,0,0,503,0,0,True,True
-2020-04-13,BEL,Belgium,Wallonia,50.312074,5.019093,9140,1391,0,7749,0,0,True,True
+2020-04-13,BEL,Belgium,Brussels,50.836426,4.367415,3512,786,0,2726,908,189,True,True
+2020-04-13,BEL,Belgium,Flanders,51.036569,4.234165,20235,2370,0,17865,2937,664,True,True
+2020-04-13,BEL,Belgium,NOT SPECIFIED,,,669,0,0,669,0,0,True,True
+2020-04-13,BEL,Belgium,Wallonia,50.312074,5.019093,10434,1738,0,8696,1709,373,True,True
 2020-04-13,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,591,24,0,567,0,0,False,False
 2020-04-13,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18,3,0,15,0,0,True,True
 2020-04-13,BGR,Bulgaria,Burgas,42.491848,27.306892,26,0,0,26,0,0,True,True
@@ -15203,10 +15231,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,AUT,Austria,Vorarlberg,47.240149,9.896366,832,0,0,832,0,0,True,True
 2020-04-14,AUT,Austria,Wien,48.21141,16.380038,2053,0,0,2053,0,0,True,True
 2020-04-14,BLR,Belarus,Belarus,53.711111,27.973847,2919,29,0,2890,0,0,False,False
-2020-04-14,BEL,Belgium,Brussels,50.836426,4.367415,3260,637,0,2623,0,0,True,True
-2020-04-14,BEL,Belgium,Flanders,51.036569,4.234165,18039,2029,0,16010,0,0,True,True
-2020-04-14,BEL,Belgium,NOT SPECIFIED,,,562,0,0,562,0,0,True,True
-2020-04-14,BEL,Belgium,Wallonia,50.312074,5.019093,9258,1491,0,7767,0,0,True,True
+2020-04-14,BEL,Belgium,Brussels,50.836426,4.367415,3693,826,0,2867,897,187,True,True
+2020-04-14,BEL,Belgium,Flanders,51.036569,4.234165,20937,2521,0,18416,2924,649,True,True
+2020-04-14,BEL,Belgium,NOT SPECIFIED,,,771,0,0,771,0,0,True,True
+2020-04-14,BEL,Belgium,Wallonia,50.312074,5.019093,11011,1822,0,9189,1711,368,True,True
 2020-04-14,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,612,24,0,588,0,0,False,False
 2020-04-14,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,19,3,0,16,0,0,True,True
 2020-04-14,BGR,Bulgaria,Burgas,42.491848,27.306892,25,0,0,25,0,0,True,True
@@ -15764,10 +15792,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,AUT,Austria,Vorarlberg,47.240149,9.896366,846,0,0,846,0,0,True,True
 2020-04-15,AUT,Austria,Wien,48.21141,16.380038,2084,0,0,2084,0,0,True,True
 2020-04-15,BLR,Belarus,Belarus,53.711111,27.973847,3281,33,0,3248,0,0,False,False
-2020-04-15,BEL,Belgium,Brussels,50.836426,4.367415,3393,674,0,2719,0,0,True,True
-2020-04-15,BEL,Belgium,Flanders,51.036569,4.234165,19648,2243,0,17405,0,0,True,True
-2020-04-15,BEL,Belgium,NOT SPECIFIED,,,557,0,0,557,0,0,True,True
-2020-04-15,BEL,Belgium,Wallonia,50.312074,5.019093,9975,1523,0,8452,0,0,True,True
+2020-04-15,BEL,Belgium,Brussels,50.836426,4.367415,3829,872,0,2957,857,174,True,True
+2020-04-15,BEL,Belgium,Flanders,51.036569,4.234165,21588,2661,0,18927,2835,642,True,True
+2020-04-15,BEL,Belgium,NOT SPECIFIED,,,822,0,0,822,0,0,True,True
+2020-04-15,BEL,Belgium,Wallonia,50.312074,5.019093,11793,1911,0,9882,1639,366,True,True
 2020-04-15,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,12,0,0,12,0,0,True,True
 2020-04-15,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,18,1,0,17,0,0,True,True
 2020-04-15,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,96,3,0,93,0,0,True,True
@@ -16270,10 +16298,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,GBR,United Kingdom,Wales,52.302413,-3.738347,6118,463,0,5655,0,0,False,True
 2020-04-16,AND,Andorra,Andorra,42.542268,1.596865,673,33,0,640,0,0,False,False
 2020-04-16,AUT,Austria,NOT SPECIFIED,,,14570,393,8986,5191,748,242,True,True
-2020-04-16,BEL,Belgium,Brussels,50.836426,4.367415,3457,748,0,2709,0,0,True,True
-2020-04-16,BEL,Belgium,Flanders,51.036569,4.234165,20482,2389,0,18093,0,0,True,True
-2020-04-16,BEL,Belgium,NOT SPECIFIED,,,566,0,0,566,0,0,True,True
-2020-04-16,BEL,Belgium,Wallonia,50.312074,5.019093,10304,1720,0,8584,0,0,True,True
+2020-04-16,BEL,Belgium,Brussels,50.836426,4.367415,4020,909,0,3111,822,172,True,True
+2020-04-16,BEL,Belgium,Flanders,51.036569,4.234165,22474,2792,0,19682,2769,621,True,True
+2020-04-16,BEL,Belgium,NOT SPECIFIED,,,856,0,0,856,0,0,True,True
+2020-04-16,BEL,Belgium,Wallonia,50.312074,5.019093,12341,1997,0,10344,1590,357,True,True
 2020-04-16,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,663,26,0,637,0,0,False,False
 2020-04-16,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,19,3,0,16,0,0,True,True
 2020-04-16,BGR,Bulgaria,Dobrich,43.65074,27.936751,13,0,0,13,0,0,True,True
@@ -16823,10 +16851,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-17,AND,Andorra,Andorra,42.542268,1.596865,682,33,0,649,0,0,False,False
 2020-04-17,AUT,Austria,NOT SPECIFIED,,,14648,402,9704,4542,748,219,True,True
 2020-04-17,BLR,Belarus,Belarus,53.711111,27.973847,4204,40,0,4164,0,0,False,False
-2020-04-17,BEL,Belgium,Brussels,50.836426,4.367415,3600,815,0,2785,0,0,True,True
-2020-04-17,BEL,Belgium,Flanders,51.036569,4.234165,21061,2538,0,18523,0,0,True,True
-2020-04-17,BEL,Belgium,NOT SPECIFIED,,,592,0,0,592,0,0,True,True
-2020-04-17,BEL,Belgium,Wallonia,50.312074,5.019093,10885,1810,0,9075,0,0,True,True
+2020-04-17,BEL,Belgium,Brussels,50.836426,4.367415,4211,949,0,3262,824,174,True,True
+2020-04-17,BEL,Belgium,Flanders,51.036569,4.234165,23156,2892,0,20264,2694,604,True,True
+2020-04-17,BEL,Belgium,NOT SPECIFIED,,,887,0,0,887,0,0,True,True
+2020-04-17,BEL,Belgium,Wallonia,50.312074,5.019093,12817,2061,0,10756,1570,341,True,True
 2020-04-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,681,28,0,653,0,0,False,False
 2020-04-17,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,21,0,0,21,0,0,True,True
 2020-04-17,BGR,Bulgaria,Burgas,42.491848,27.306892,32,0,0,32,0,0,True,True
@@ -17378,10 +17406,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-18,AND,Andorra,Andorra,42.542268,1.596865,696,35,0,661,0,0,False,False
 2020-04-18,AUT,Austria,NOT SPECIFIED,,,14703,416,10214,4073,561,207,True,True
 2020-04-18,BLR,Belarus,Belarus,53.711111,27.973847,4779,42,0,4737,0,0,False,False
-2020-04-18,BEL,Belgium,Brussels,50.836426,4.367415,3726,850,0,2876,0,0,True,True
-2020-04-18,BEL,Belgium,Flanders,51.036569,4.234165,21669,2657,0,19012,0,0,True,True
-2020-04-18,BEL,Belgium,NOT SPECIFIED,,,605,0,0,605,0,0,True,True
-2020-04-18,BEL,Belgium,Wallonia,50.312074,5.019093,11183,1946,0,9237,0,0,True,True
+2020-04-18,BEL,Belgium,Brussels,50.836426,4.367415,4258,983,0,3275,807,173,True,True
+2020-04-18,BEL,Belgium,Flanders,51.036569,4.234165,23397,2979,0,20418,2572,577,True,True
+2020-04-18,BEL,Belgium,NOT SPECIFIED,,,897,0,0,897,0,0,True,True
+2020-04-18,BEL,Belgium,Wallonia,50.312074,5.019093,13221,2151,0,11070,1513,331,True,True
 2020-04-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,722,29,0,693,0,0,False,False
 2020-04-18,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,21,0,0,21,0,0,True,True
 2020-04-18,BGR,Bulgaria,Burgas,42.491848,27.306892,32,0,0,32,0,0,True,True
@@ -17946,10 +17974,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-19,AND,Andorra,Andorra,42.542268,1.596865,704,35,0,669,0,0,False,False
 2020-04-19,AUT,Austria,NOT SPECIFIED,,,14739,430,10501,3808,561,184,True,True
 2020-04-19,BLR,Belarus,Belarus,53.711111,27.973847,4779,45,0,4734,0,0,False,False
-2020-04-19,BEL,Belgium,Brussels,50.836426,4.367415,3858,887,0,2971,0,0,True,True
-2020-04-19,BEL,Belgium,Flanders,51.036569,4.234165,22362,2775,0,19587,0,0,True,True
-2020-04-19,BEL,Belgium,NOT SPECIFIED,,,620,0,0,620,0,0,True,True
-2020-04-19,BEL,Belgium,Wallonia,50.312074,5.019093,11656,2021,0,9635,0,0,True,True
+2020-04-19,BEL,Belgium,Brussels,50.836426,4.367415,4294,1007,0,3287,798,175,True,True
+2020-04-19,BEL,Belgium,Flanders,51.036569,4.234165,23558,3108,0,20450,2618,572,True,True
+2020-04-19,BEL,Belgium,NOT SPECIFIED,,,904,0,0,904,0,0,True,True
+2020-04-19,BEL,Belgium,Wallonia,50.312074,5.019093,13465,2211,0,11254,1524,324,True,True
 2020-04-19,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,733,29,0,704,0,0,False,False
 2020-04-19,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,21,3,0,18,0,0,True,True
 2020-04-19,BGR,Bulgaria,Burgas,42.491848,27.306892,33,0,0,33,0,0,True,True
@@ -18521,10 +18549,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-20,AUT,Austria,Vorarlberg,47.240149,9.896366,875,13,731,131,0,0,True,True
 2020-04-20,AUT,Austria,Wien,48.21141,16.380038,2231,86,1635,510,0,0,True,True
 2020-04-20,BLR,Belarus,Belarus,53.711111,27.973847,4779,47,0,4732,0,0,False,False
-2020-04-20,BEL,Belgium,Brussels,50.836426,4.367415,4096,914,0,3182,0,0,True,True
-2020-04-20,BEL,Belgium,Flanders,51.036569,4.234165,22912,2858,0,20054,0,0,True,True
-2020-04-20,BEL,Belgium,NOT SPECIFIED,,,626,0,0,626,0,0,True,True
-2020-04-20,BEL,Belgium,Wallonia,50.312074,5.019093,12349,2056,0,10293,0,0,True,True
+2020-04-20,BEL,Belgium,Brussels,50.836426,4.367415,4445,1041,0,3404,802,183,True,True
+2020-04-20,BEL,Belgium,Flanders,51.036569,4.234165,24160,3202,0,20958,2633,569,True,True
+2020-04-20,BEL,Belgium,NOT SPECIFIED,,,937,0,0,937,0,0,True,True
+2020-04-20,BEL,Belgium,Wallonia,50.312074,5.019093,13947,2282,0,11665,1561,327,True,True
 2020-04-20,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,737,31,0,706,0,0,False,False
 2020-04-20,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,21,3,0,18,0,0,True,True
 2020-04-20,BGR,Bulgaria,Burgas,42.491848,27.306892,33,0,0,33,0,0,True,True
@@ -19097,10 +19125,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-21,AUT,Austria,Vorarlberg,47.240149,9.896366,878,13,733,132,0,0,True,True
 2020-04-21,AUT,Austria,Wien,48.21141,16.380038,2256,95,1656,505,0,0,True,True
 2020-04-21,BLR,Belarus,Belarus,53.711111,27.973847,6264,51,0,6213,0,0,False,False
-2020-04-21,BEL,Belgium,Brussels,50.836426,4.367415,4156,942,0,3214,0,0,True,True
-2020-04-21,BEL,Belgium,Flanders,51.036569,4.234165,23301,2964,0,20337,0,0,True,True
-2020-04-21,BEL,Belgium,NOT SPECIFIED,,,639,0,0,639,0,0,True,True
-2020-04-21,BEL,Belgium,Wallonia,50.312074,5.019093,12860,2092,0,10768,0,0,True,True
+2020-04-21,BEL,Belgium,Brussels,50.836426,4.367415,4560,1068,0,3492,747,168,True,True
+2020-04-21,BEL,Belgium,Flanders,51.036569,4.234165,24754,3301,0,21453,2520,544,True,True
+2020-04-21,BEL,Belgium,NOT SPECIFIED,,,960,0,0,960,0,0,True,True
+2020-04-21,BEL,Belgium,Wallonia,50.312074,5.019093,14472,2358,0,12114,1498,308,True,True
 2020-04-21,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,759,32,0,727,0,0,False,False
 2020-04-21,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,21,3,0,18,0,0,True,True
 2020-04-21,BGR,Bulgaria,Burgas,42.491848,27.306892,38,0,0,38,0,0,True,True
@@ -19661,10 +19689,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-22,AUT,Austria,Vorarlberg,47.240149,9.896366,879,13,740,126,0,0,True,True
 2020-04-22,AUT,Austria,Wien,48.21141,16.380038,2274,100,1677,497,0,0,True,True
 2020-04-22,BLR,Belarus,Belarus,53.711111,27.973847,6723,55,0,6668,0,0,False,False
-2020-04-22,BEL,Belgium,Brussels,50.836426,4.367415,4216,980,0,3236,0,0,True,True
-2020-04-22,BEL,Belgium,Flanders,51.036569,4.234165,23709,3082,0,20627,0,0,True,True
-2020-04-22,BEL,Belgium,NOT SPECIFIED,,,658,0,0,658,0,0,True,True
-2020-04-22,BEL,Belgium,Wallonia,50.312074,5.019093,13306,2200,0,11106,0,0,True,True
+2020-04-22,BEL,Belgium,Brussels,50.836426,4.367415,4624,1093,0,3531,723,170,True,True
+2020-04-22,BEL,Belgium,Flanders,51.036569,4.234165,25171,3402,0,21769,2359,520,True,True
+2020-04-22,BEL,Belgium,NOT SPECIFIED,,,973,0,0,973,0,0,True,True
+2020-04-22,BEL,Belgium,Wallonia,50.312074,5.019093,14747,2424,0,12323,1445,303,True,True
 2020-04-22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,770,32,0,738,0,0,False,False
 2020-04-22,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,22,3,0,19,0,0,True,True
 2020-04-22,BGR,Bulgaria,Burgas,42.491848,27.306892,41,0,0,41,0,0,True,True
@@ -20236,10 +20264,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-23,AUT,Austria,Vorarlberg,47.240149,9.896366,879,14,745,120,0,0,True,True
 2020-04-23,AUT,Austria,Wien,48.21141,16.380038,2309,107,1699,503,0,0,True,True
 2020-04-23,BLR,Belarus,Belarus,53.711111,27.973847,7281,58,0,7223,0,0,False,False
-2020-04-23,BEL,Belgium,Brussels,50.836426,4.367415,4332,1014,0,3318,0,0,True,True
-2020-04-23,BEL,Belgium,Flanders,51.036569,4.234165,24095,3184,0,20911,0,0,True,True
-2020-04-23,BEL,Belgium,NOT SPECIFIED,,,722,0,0,722,0,0,True,True
-2020-04-23,BEL,Belgium,Wallonia,50.312074,5.019093,13648,2292,0,11356,0,0,True,True
+2020-04-23,BEL,Belgium,Brussels,50.836426,4.367415,4714,1111,0,3603,718,165,True,True
+2020-04-23,BEL,Belgium,Flanders,51.036569,4.234165,25607,3497,0,22110,2266,509,True,True
+2020-04-23,BEL,Belgium,NOT SPECIFIED,,,986,0,0,986,0,0,True,True
+2020-04-23,BEL,Belgium,Wallonia,50.312074,5.019093,15175,2486,0,12689,1371,296,True,True
 2020-04-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,785,32,0,753,0,0,False,False
 2020-04-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,22,3,0,19,0,0,True,True
 2020-04-23,BGR,Bulgaria,Burgas,42.491848,27.306892,42,0,0,42,0,0,True,True
@@ -20792,10 +20820,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-24,AUT,Austria,Vorarlberg,47.240149,9.896366,880,14,749,117,0,0,True,True
 2020-04-24,AUT,Austria,Wien,48.21141,16.380038,2338,106,1716,516,0,0,True,True
 2020-04-24,BLR,Belarus,Belarus,53.711111,27.973847,8022,60,0,7962,0,0,False,False
-2020-04-24,BEL,Belgium,Brussels,50.836426,4.367415,4438,1060,0,3378,0,0,True,True
-2020-04-24,BEL,Belgium,Flanders,51.036569,4.234165,24697,3220,0,21477,0,0,True,True
-2020-04-24,BEL,Belgium,NOT SPECIFIED,,,865,0,0,865,0,0,True,True
-2020-04-24,BEL,Belgium,Wallonia,50.312074,5.019093,14293,2399,0,11894,0,0,True,True
+2020-04-24,BEL,Belgium,Brussels,50.836426,4.367415,4874,1143,0,3731,706,165,True,True
+2020-04-24,BEL,Belgium,Flanders,51.036569,4.234165,26009,3566,0,22443,2162,500,True,True
+2020-04-24,BEL,Belgium,NOT SPECIFIED,,,1003,0,0,1003,0,0,True,True
+2020-04-24,BEL,Belgium,Wallonia,50.312074,5.019093,15396,2533,0,12863,1327,269,True,True
 2020-04-24,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,786,32,0,754,0,0,False,False
 2020-04-24,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,33,3,0,30,0,0,True,True
 2020-04-24,BGR,Bulgaria,Burgas,42.491848,27.306892,43,0,0,43,0,0,True,True
@@ -21335,10 +21363,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-25,AUT,Austria,Vorarlberg,47.240149,9.896366,881,14,755,112,0,0,True,True
 2020-04-25,AUT,Austria,Wien,48.21141,16.380038,2369,110,1748,511,0,0,True,True
 2020-04-25,BLR,Belarus,Belarus,53.711111,27.973847,8773,63,0,8710,0,0,False,False
-2020-04-25,BEL,Belgium,Brussels,50.836426,4.367415,4579,1085,0,3494,0,0,True,True
-2020-04-25,BEL,Belgium,Flanders,51.036569,4.234165,25152,3374,0,21778,0,0,True,True
-2020-04-25,BEL,Belgium,NOT SPECIFIED,,,921,0,0,921,0,0,True,True
-2020-04-25,BEL,Belgium,Wallonia,50.312074,5.019093,14673,2458,0,12215,0,0,True,True
+2020-04-25,BEL,Belgium,Brussels,50.836426,4.367415,4906,1157,0,3749,667,158,True,True
+2020-04-25,BEL,Belgium,Flanders,51.036569,4.234165,26142,3648,0,22494,2075,490,True,True
+2020-04-25,BEL,Belgium,NOT SPECIFIED,,,1010,0,0,1010,0,0,True,True
+2020-04-25,BEL,Belgium,Wallonia,50.312074,5.019093,15611,2592,0,13019,1215,253,True,True
 2020-04-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,811,32,0,779,0,0,False,False
 2020-04-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,38,3,0,35,0,0,True,True
 2020-04-25,BGR,Bulgaria,Burgas,42.491848,27.306892,47,0,0,47,0,0,True,True
@@ -21892,10 +21920,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-26,AUT,Austria,Vorarlberg,47.240149,9.896366,881,14,755,112,0,0,True,True
 2020-04-26,AUT,Austria,Wien,48.21141,16.380038,2372,113,1748,511,0,0,True,True
 2020-04-26,BLR,Belarus,Belarus,53.711111,27.973847,9590,67,0,9523,0,0,False,False
-2020-04-26,BEL,Belgium,Brussels,50.836426,4.367415,4625,1117,0,3508,0,0,True,True
-2020-04-26,BEL,Belgium,Flanders,51.036569,4.234165,25505,3468,0,22037,0,0,True,True
-2020-04-26,BEL,Belgium,NOT SPECIFIED,,,1006,0,0,1006,0,0,True,True
-2020-04-26,BEL,Belgium,Wallonia,50.312074,5.019093,14998,2509,0,12489,0,0,True,True
+2020-04-26,BEL,Belgium,Brussels,50.836426,4.367415,4919,1184,0,3735,671,156,True,True
+2020-04-26,BEL,Belgium,Flanders,51.036569,4.234165,26253,3750,0,22503,2058,488,True,True
+2020-04-26,BEL,Belgium,NOT SPECIFIED,,,1014,0,0,1014,0,0,True,True
+2020-04-26,BEL,Belgium,Wallonia,50.312074,5.019093,15687,2639,0,13048,1239,259,True,True
 2020-04-26,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,830,32,0,798,0,0,False,False
 2020-04-26,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,41,3,0,38,0,0,True,True
 2020-04-26,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -22462,10 +22490,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-27,AUT,Austria,Vorarlberg,47.240149,9.896366,881,15,759,107,0,0,True,True
 2020-04-27,AUT,Austria,Wien,48.21141,16.380038,2416,124,1772,520,0,0,True,True
 2020-04-27,BLR,Belarus,Belarus,53.711111,27.973847,10463,72,0,10391,0,0,False,False
-2020-04-27,BEL,Belgium,Brussels,50.836426,4.367415,4715,1129,0,3586,0,0,True,True
-2020-04-27,BEL,Belgium,Flanders,51.036569,4.234165,25821,3530,0,22291,0,0,True,True
-2020-04-27,BEL,Belgium,NOT SPECIFIED,,,938,0,0,938,0,0,True,True
-2020-04-27,BEL,Belgium,Wallonia,50.312074,5.019093,15213,2548,0,12665,0,0,True,True
+2020-04-27,BEL,Belgium,Brussels,50.836426,4.367415,5007,1204,0,3803,679,157,True,True
+2020-04-27,BEL,Belgium,Flanders,51.036569,4.234165,26701,3815,0,22886,2047,473,True,True
+2020-04-27,BEL,Belgium,NOT SPECIFIED,,,1025,0,0,1025,0,0,True,True
+2020-04-27,BEL,Belgium,Wallonia,50.312074,5.019093,15886,2681,0,13205,1250,246,True,True
 2020-04-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,840,32,0,808,0,0,False,False
 2020-04-27,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,41,3,0,38,0,0,True,True
 2020-04-27,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -23032,10 +23060,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-28,AUT,Austria,Vorarlberg,47.240149,9.896366,881,15,779,87,0,0,True,True
 2020-04-28,AUT,Austria,Wien,48.21141,16.380038,2433,125,1781,527,0,0,True,True
 2020-04-28,BLR,Belarus,Belarus,53.711111,27.973847,11289,75,0,11214,0,0,False,False
-2020-04-28,BEL,Belgium,Brussels,50.836426,4.367415,4832,1137,0,3695,0,0,True,True
-2020-04-28,BEL,Belgium,Flanders,51.036569,4.234165,26036,3608,0,22428,0,0,True,True
-2020-04-28,BEL,Belgium,NOT SPECIFIED,,,947,0,0,947,0,0,True,True
-2020-04-28,BEL,Belgium,Wallonia,50.312074,5.019093,15519,2586,0,12933,0,0,True,True
+2020-04-28,BEL,Belgium,Brussels,50.836426,4.367415,5048,1219,0,3829,651,147,True,True
+2020-04-28,BEL,Belgium,Flanders,51.036569,4.234165,27063,3870,0,23193,1941,431,True,True
+2020-04-28,BEL,Belgium,NOT SPECIFIED,,,1039,0,0,1039,0,0,True,True
+2020-04-28,BEL,Belgium,Wallonia,50.312074,5.019093,16035,2726,0,13309,1141,219,True,True
 2020-04-28,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,857,33,0,824,0,0,False,False
 2020-04-28,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,42,3,0,39,0,0,True,True
 2020-04-28,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -23584,10 +23612,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-29,AUT,Austria,Vorarlberg,47.240149,9.896366,882,16,786,80,0,0,True,True
 2020-04-29,AUT,Austria,Wien,48.21141,16.380038,2470,128,1790,552,0,0,True,True
 2020-04-29,BLR,Belarus,Belarus,53.711111,27.973847,12208,79,0,12129,0,0,False,False
-2020-04-29,BEL,Belgium,Brussels,50.836426,4.367415,4907,1149,0,3758,0,0,True,True
-2020-04-29,BEL,Belgium,Flanders,51.036569,4.234165,26299,3711,0,22588,0,0,True,True
-2020-04-29,BEL,Belgium,NOT SPECIFIED,,,960,0,0,960,0,0,True,True
-2020-04-29,BEL,Belgium,Wallonia,50.312074,5.019093,15693,2641,0,13052,0,0,True,True
+2020-04-29,BEL,Belgium,Brussels,50.836426,4.367415,5115,1228,0,3887,648,143,True,True
+2020-04-29,BEL,Belgium,Flanders,51.036569,4.234165,27375,3923,0,23452,1874,417,True,True
+2020-04-29,BEL,Belgium,NOT SPECIFIED,,,1047,0,0,1047,0,0,True,True
+2020-04-29,BEL,Belgium,Wallonia,50.312074,5.019093,16163,2762,0,13401,1087,209,True,True
 2020-04-29,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,891,33,0,858,0,0,False,False
 2020-04-29,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,43,3,0,40,0,0,True,True
 2020-04-29,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -24162,10 +24190,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-30,AUT,Austria,Vorarlberg,47.240149,9.896366,882,17,795,70,0,0,True,True
 2020-04-30,AUT,Austria,Wien,48.21141,16.380038,2490,128,1808,554,0,0,True,True
 2020-04-30,BLR,Belarus,Belarus,53.711111,27.973847,13181,84,0,13097,0,0,False,False
-2020-04-30,BEL,Belgium,Brussels,50.836426,4.367415,4979,1158,0,3821,0,0,True,True
-2020-04-30,BEL,Belgium,Flanders,51.036569,4.234165,26707,3771,0,22936,0,0,True,True
-2020-04-30,BEL,Belgium,NOT SPECIFIED,,,964,0,0,964,0,0,True,True
-2020-04-30,BEL,Belgium,Wallonia,50.312074,5.019093,15869,2665,0,13204,0,0,True,True
+2020-04-30,BEL,Belgium,Brussels,50.836426,4.367415,5177,1244,0,3933,615,140,True,True
+2020-04-30,BEL,Belgium,Flanders,51.036569,4.234165,27735,3960,0,23775,1735,398,True,True
+2020-04-30,BEL,Belgium,NOT SPECIFIED,,,1070,0,0,1070,0,0,True,True
+2020-04-30,BEL,Belgium,Wallonia,50.312074,5.019093,16301,2793,0,13508,1036,211,True,True
 2020-04-30,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,918,33,0,885,0,0,False,False
 2020-04-30,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,43,3,0,40,0,0,True,True
 2020-04-30,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -24740,10 +24768,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-01,AUT,Austria,Vorarlberg,47.240149,9.896366,882,17,811,54,0,0,True,True
 2020-05-01,AUT,Austria,Wien,48.21141,16.380038,2529,129,1817,583,0,0,True,True
 2020-05-01,BLR,Belarus,Belarus,53.711111,27.973847,14027,89,0,13938,0,0,False,False
-2020-05-01,BEL,Belgium,Brussels,50.836426,4.367415,5015,1197,0,3818,0,0,True,True
-2020-05-01,BEL,Belgium,Flanders,51.036569,4.234165,27036,3825,0,23211,0,0,True,True
-2020-05-01,BEL,Belgium,NOT SPECIFIED,,,966,0,0,966,0,0,True,True
-2020-05-01,BEL,Belgium,Wallonia,50.312074,5.019093,16015,2681,0,13334,0,0,True,True
+2020-05-01,BEL,Belgium,Brussels,50.836426,4.367415,5188,1258,0,3930,574,129,True,True
+2020-05-01,BEL,Belgium,Flanders,51.036569,4.234165,27895,4011,0,23884,1629,379,True,True
+2020-05-01,BEL,Belgium,NOT SPECIFIED,,,1075,0,0,1075,0,0,True,True
+2020-05-01,BEL,Belgium,Wallonia,50.312074,5.019093,16363,2826,0,13537,906,182,True,True
 2020-05-01,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,921,33,0,888,0,0,False,False
 2020-05-01,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,45,3,0,42,0,0,True,True
 2020-05-01,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -25305,10 +25333,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-02,AUT,Austria,Vorarlberg,47.240149,9.896366,883,17,819,47,0,0,True,True
 2020-05-02,AUT,Austria,Wien,48.21141,16.380038,2545,132,1827,586,0,0,True,True
 2020-05-02,BLR,Belarus,Belarus,53.711111,27.973847,14917,93,0,14824,0,0,False,False
-2020-05-02,BEL,Belgium,Brussels,50.836426,4.367415,5059,1211,0,3848,0,0,True,True
-2020-05-02,BEL,Belgium,Flanders,51.036569,4.234165,27349,3858,0,23491,0,0,True,True
-2020-05-02,BEL,Belgium,NOT SPECIFIED,,,966,0,0,966,0,0,True,True
-2020-05-02,BEL,Belgium,Wallonia,50.312074,5.019093,16143,2696,0,13447,0,0,True,True
+2020-05-02,BEL,Belgium,Brussels,50.836426,4.367415,5206,1270,0,3936,558,124,True,True
+2020-05-02,BEL,Belgium,Flanders,51.036569,4.234165,28067,4047,0,24020,1617,373,True,True
+2020-05-02,BEL,Belgium,NOT SPECIFIED,,,1080,0,0,1080,0,0,True,True
+2020-05-02,BEL,Belgium,Wallonia,50.312074,5.019093,16452,2851,0,13601,905,187,True,True
 2020-05-02,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,929,33,0,896,0,0,False,False
 2020-05-02,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,50,4,0,46,0,0,True,True
 2020-05-02,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -25871,10 +25899,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-03,AUT,Austria,Vorarlberg,47.240149,9.896366,883,17,824,42,0,0,True,True
 2020-05-03,AUT,Austria,Wien,48.21141,16.380038,2573,132,1837,604,0,0,True,True
 2020-05-03,BLR,Belarus,Belarus,53.711111,27.973847,15828,97,0,15731,0,0,False,False
-2020-05-03,BEL,Belgium,Brussels,50.836426,4.367415,5132,1219,0,3913,0,0,True,True
-2020-05-03,BEL,Belgium,Flanders,51.036569,4.234165,27536,3904,0,23632,0,0,True,True
-2020-05-03,BEL,Belgium,NOT SPECIFIED,,,988,0,0,988,0,0,True,True
-2020-05-03,BEL,Belgium,Wallonia,50.312074,5.019093,16250,2721,0,13529,0,0,True,True
+2020-05-03,BEL,Belgium,Brussels,50.836426,4.367415,5221,1282,0,3939,540,120,True,True
+2020-05-03,BEL,Belgium,Flanders,51.036569,4.234165,28149,4095,0,24054,1607,351,True,True
+2020-05-03,BEL,Belgium,NOT SPECIFIED,,,1086,0,0,1086,0,0,True,True
+2020-05-03,BEL,Belgium,Wallonia,50.312074,5.019093,16490,2887,0,13603,897,184,True,True
 2020-05-03,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,938,33,0,905,0,0,False,False
 2020-05-03,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,51,4,0,47,0,0,True,True
 2020-05-03,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -26437,10 +26465,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-04,AUT,Austria,Vorarlberg,47.240149,9.896366,885,17,824,44,0,0,True,True
 2020-05-04,AUT,Austria,Wien,48.21141,16.380038,2584,133,1884,567,0,0,True,True
 2020-05-04,BLR,Belarus,Belarus,53.711111,27.973847,16705,99,0,16606,0,0,False,False
-2020-05-04,BEL,Belgium,Brussels,50.836426,4.367415,5164,1227,0,3937,0,0,True,True
-2020-05-04,BEL,Belgium,Flanders,51.036569,4.234165,27764,3950,0,23814,0,0,True,True
-2020-05-04,BEL,Belgium,NOT SPECIFIED,,,991,0,0,991,0,0,True,True
-2020-05-04,BEL,Belgium,Wallonia,50.312074,5.019093,16348,2747,0,13601,0,0,True,True
+2020-05-04,BEL,Belgium,Brussels,50.836426,4.367415,5281,1300,0,3981,544,121,True,True
+2020-05-04,BEL,Belgium,Flanders,51.036569,4.234165,28603,4139,0,24464,1634,347,True,True
+2020-05-04,BEL,Belgium,NOT SPECIFIED,,,1096,0,0,1096,0,0,True,True
+2020-05-04,BEL,Belgium,Wallonia,50.312074,5.019093,16634,2923,0,13711,904,178,True,True
 2020-05-04,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,938,33,0,905,0,0,False,False
 2020-05-04,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,52,4,0,48,0,0,True,True
 2020-05-04,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,0,46,0,0,True,True
@@ -27014,10 +27042,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-05,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,828,39,0,0,True,True
 2020-05-05,AUT,Austria,Wien,48.21141,16.380038,2600,135,1902,563,0,0,True,True
 2020-05-05,BLR,Belarus,Belarus,53.711111,27.973847,17489,103,0,17386,0,0,False,False
-2020-05-05,BEL,Belgium,Brussels,50.836426,4.367415,5176,1247,0,3929,0,0,True,True
-2020-05-05,BEL,Belgium,Flanders,51.036569,4.234165,27925,3987,0,23938,0,0,True,True
-2020-05-05,BEL,Belgium,NOT SPECIFIED,,,992,0,0,992,0,0,True,True
-2020-05-05,BEL,Belgium,Wallonia,50.312074,5.019093,16416,2782,0,13634,0,0,True,True
+2020-05-05,BEL,Belgium,Brussels,50.836426,4.367415,5341,1307,0,4034,502,109,True,True
+2020-05-05,BEL,Belgium,Flanders,51.036569,4.234165,28947,4182,0,24765,1561,318,True,True
+2020-05-05,BEL,Belgium,NOT SPECIFIED,,,1101,0,0,1101,0,0,True,True
+2020-05-05,BEL,Belgium,Wallonia,50.312074,5.019093,16761,2955,0,13806,805,155,True,True
 2020-05-05,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,942,33,0,909,0,0,False,False
 2020-05-05,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,55,4,2,49,0,0,True,True
 2020-05-05,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,14,32,0,0,True,True
@@ -27581,10 +27609,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-06,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,826,40,0,0,True,True
 2020-05-06,AUT,Austria,Wien,48.21141,16.380038,2611,136,1928,547,0,0,True,True
 2020-05-06,BLR,Belarus,Belarus,53.711111,27.973847,18350,107,0,18243,0,0,False,False
-2020-05-06,BEL,Belgium,Brussels,50.836426,4.367415,5186,1300,0,3886,0,0,True,True
-2020-05-06,BEL,Belgium,Flanders,51.036569,4.234165,28124,4115,0,24009,0,0,True,True
-2020-05-06,BEL,Belgium,NOT SPECIFIED,,,993,0,0,993,0,0,True,True
-2020-05-06,BEL,Belgium,Wallonia,50.312074,5.019093,16478,2924,0,13554,0,0,True,True
+2020-05-06,BEL,Belgium,Brussels,50.836426,4.367415,5386,1314,0,4072,486,102,True,True
+2020-05-06,BEL,Belgium,Flanders,51.036569,4.234165,29292,4233,0,25059,1470,299,True,True
+2020-05-06,BEL,Belgium,NOT SPECIFIED,,,1120,0,0,1120,0,0,True,True
+2020-05-06,BEL,Belgium,Wallonia,50.312074,5.019093,16903,2972,0,13931,743,141,True,True
 2020-05-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,952,33,0,919,0,0,False,False
 2020-05-06,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,62,4,2,56,0,0,True,True
 2020-05-06,BGR,Bulgaria,Burgas,42.491848,27.306892,48,1,14,33,0,0,True,True
@@ -28148,10 +28176,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-07,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,833,33,0,0,True,True
 2020-05-07,AUT,Austria,Wien,48.21141,16.380038,2652,136,1937,579,0,0,True,True
 2020-05-07,BLR,Belarus,Belarus,53.711111,27.973847,19255,112,0,19143,0,0,False,False
-2020-05-07,BEL,Belgium,Brussels,50.836426,4.367415,5287,1307,0,3980,0,0,True,True
-2020-05-07,BEL,Belgium,Flanders,51.036569,4.234165,28498,4154,0,24344,0,0,True,True
-2020-05-07,BEL,Belgium,NOT SPECIFIED,,,1000,0,0,1000,0,0,True,True
-2020-05-07,BEL,Belgium,Wallonia,50.312074,5.019093,16635,2954,0,13681,0,0,True,True
+2020-05-07,BEL,Belgium,Brussels,50.836426,4.367415,5413,1320,0,4093,452,94,True,True
+2020-05-07,BEL,Belgium,Flanders,51.036569,4.234165,29547,4279,0,25268,1397,280,True,True
+2020-05-07,BEL,Belgium,NOT SPECIFIED,,,1129,0,0,1129,0,0,True,True
+2020-05-07,BEL,Belgium,Wallonia,50.312074,5.019093,17039,2998,0,14041,706,134,True,True
 2020-05-07,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,965,34,0,931,0,0,False,False
 2020-05-07,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,64,4,2,58,0,0,True,True
 2020-05-07,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,14,36,0,0,True,True
@@ -28715,10 +28743,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-08,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,835,31,0,0,True,True
 2020-05-08,AUT,Austria,Wien,48.21141,16.380038,2662,139,1992,531,0,0,True,True
 2020-05-08,BLR,Belarus,Belarus,53.711111,27.973847,20168,116,0,20052,0,0,False,False
-2020-05-08,BEL,Belgium,Brussels,50.836426,4.367415,5344,1339,0,4005,0,0,True,True
-2020-05-08,BEL,Belgium,Flanders,51.036569,4.234165,28860,4200,0,24660,0,0,True,True
-2020-05-08,BEL,Belgium,NOT SPECIFIED,,,1029,0,0,1029,0,0,True,True
-2020-05-08,BEL,Belgium,Wallonia,50.312074,5.019093,16778,2982,0,13796,0,0,True,True
+2020-05-08,BEL,Belgium,Brussels,50.836426,4.367415,5445,1330,0,4115,436,92,True,True
+2020-05-08,BEL,Belgium,Flanders,51.036569,4.234165,29796,4314,0,25482,1276,277,True,True
+2020-05-08,BEL,Belgium,NOT SPECIFIED,,,1170,0,0,1170,0,0,True,True
+2020-05-08,BEL,Belgium,Wallonia,50.312074,5.019093,17196,3023,0,14173,669,133,True,True
 2020-05-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,982,34,0,948,0,0,False,False
 2020-05-08,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,67,4,2,61,0,0,True,True
 2020-05-08,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,15,35,0,0,True,True
@@ -29282,10 +29310,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-09,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,838,28,0,0,True,True
 2020-05-09,AUT,Austria,Wien,48.21141,16.380038,2699,139,1999,561,0,0,True,True
 2020-05-09,BLR,Belarus,Belarus,53.711111,27.973847,21101,121,0,20980,0,0,False,False
-2020-05-09,BEL,Belgium,Brussels,50.836426,4.367415,5389,1328,0,4061,0,0,True,True
-2020-05-09,BEL,Belgium,Flanders,51.036569,4.234165,29267,4244,0,25023,0,0,True,True
-2020-05-09,BEL,Belgium,NOT SPECIFIED,,,1033,0,0,1033,0,0,True,True
-2020-05-09,BEL,Belgium,Wallonia,50.312074,5.019093,16907,3009,0,13898,0,0,True,True
+2020-05-09,BEL,Belgium,Brussels,50.836426,4.367415,5473,1348,0,4125,433,94,True,True
+2020-05-09,BEL,Belgium,Flanders,51.036569,4.234165,29912,4345,0,25567,1167,256,True,True
+2020-05-09,BEL,Belgium,NOT SPECIFIED,,,1175,0,0,1175,0,0,True,True
+2020-05-09,BEL,Belgium,Wallonia,50.312074,5.019093,17287,3044,0,14243,622,125,True,True
 2020-05-09,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,985,34,0,951,0,0,False,False
 2020-05-09,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,69,5,2,62,0,0,True,True
 2020-05-09,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,16,34,0,0,True,True
@@ -29849,10 +29877,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-10,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,839,27,0,0,True,True
 2020-05-10,AUT,Austria,Wien,48.21141,16.380038,2717,143,2014,560,0,0,True,True
 2020-05-10,BLR,Belarus,Belarus,53.711111,27.973847,22052,126,0,21926,0,0,False,False
-2020-05-10,BEL,Belgium,Brussels,50.836426,4.367415,5424,1336,0,4088,0,0,True,True
-2020-05-10,BEL,Belgium,Flanders,51.036569,4.234165,29568,4292,0,25276,0,0,True,True
-2020-05-10,BEL,Belgium,NOT SPECIFIED,,,1038,0,0,1038,0,0,True,True
-2020-05-10,BEL,Belgium,Wallonia,50.312074,5.019093,17051,3028,0,14023,0,0,True,True
+2020-05-10,BEL,Belgium,Brussels,50.836426,4.367415,5485,1352,0,4133,429,91,True,True
+2020-05-10,BEL,Belgium,Flanders,51.036569,4.234165,29969,4389,0,25580,1170,255,True,True
+2020-05-10,BEL,Belgium,NOT SPECIFIED,,,1180,0,0,1180,0,0,True,True
+2020-05-10,BEL,Belgium,Wallonia,50.312074,5.019093,17330,3069,0,14261,623,131,True,True
 2020-05-10,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,993,35,0,958,0,0,False,False
 2020-05-10,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,86,5,2,79,0,0,True,True
 2020-05-10,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,16,34,0,0,True,True
@@ -30415,10 +30443,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-11,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,839,27,0,0,True,True
 2020-05-11,AUT,Austria,Wien,48.21141,16.380038,2725,144,2061,520,0,0,True,True
 2020-05-11,BLR,Belarus,Belarus,53.711111,27.973847,22973,131,0,22842,0,0,False,False
-2020-05-11,BEL,Belgium,Brussels,50.836426,4.367415,5460,1348,0,4112,2411,0,True,True
-2020-05-11,BEL,Belgium,Flanders,51.036569,4.234165,29767,4320,0,25447,8961,0,True,True
-2020-05-11,BEL,Belgium,NOT SPECIFIED,,,1040,0,0,1040,0,0,True,True
-2020-05-11,BEL,Belgium,Wallonia,50.312074,5.019093,17182,3039,0,14143,4907,0,True,True
+2020-05-11,BEL,Belgium,Brussels,50.836426,4.367415,5516,1359,0,4157,416,89,True,True
+2020-05-11,BEL,Belgium,Flanders,51.036569,4.234165,30292,4422,0,25870,1172,249,True,True
+2020-05-11,BEL,Belgium,NOT SPECIFIED,,,1187,0,0,1187,0,0,True,True
+2020-05-11,BEL,Belgium,Wallonia,50.312074,5.019093,17430,3091,0,14339,642,127,True,True
 2020-05-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,994,35,0,959,0,0,False,False
 2020-05-11,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,86,5,2,79,0,0,True,True
 2020-05-11,BGR,Bulgaria,Burgas,42.491848,27.306892,51,1,16,34,0,0,True,True
@@ -30992,10 +31020,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-12,AUT,Austria,Tirol,47.209023,11.397603,3517,100,3329,88,0,0,True,True
 2020-05-12,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,843,23,0,0,True,True
 2020-05-12,AUT,Austria,Wien,48.21141,16.380038,2790,144,2081,565,0,0,True,True
-2020-05-12,BEL,Belgium,Brussels,50.836426,4.367415,5485,1353,0,4132,2420,0,True,True
-2020-05-12,BEL,Belgium,Flanders,51.036569,4.234165,29915,4353,0,25562,8987,0,True,True
-2020-05-12,BEL,Belgium,NOT SPECIFIED,,,1042,0,0,1042,0,0,True,True
-2020-05-12,BEL,Belgium,Wallonia,50.312074,5.019093,17337,3055,0,14282,4915,0,True,True
+2020-05-12,BEL,Belgium,Brussels,50.836426,4.367415,5547,1366,0,4181,373,83,True,True
+2020-05-12,BEL,Belgium,Flanders,51.036569,4.234165,30539,4445,0,26094,1109,232,True,True
+2020-05-12,BEL,Belgium,NOT SPECIFIED,,,1191,0,0,1191,0,0,True,True
+2020-05-12,BEL,Belgium,Wallonia,50.312074,5.019093,17542,3109,0,14433,603,112,True,True
 2020-05-12,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,992,37,0,955,0,0,False,False
 2020-05-12,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,91,5,2,84,0,0,True,True
 2020-05-12,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,16,35,0,0,True,True
@@ -31559,10 +31587,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-13,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,847,19,0,0,True,True
 2020-05-13,AUT,Austria,Wien,48.21141,16.380038,2809,144,2126,539,0,0,True,True
 2020-05-13,BLR,Belarus,Belarus,53.711111,27.973847,24873,142,0,24731,0,0,False,False
-2020-05-13,BEL,Belgium,Brussels,50.836426,4.367415,5504,1365,0,4139,2429,0,True,True
-2020-05-13,BEL,Belgium,Flanders,51.036569,4.234165,30065,4394,0,25671,9024,0,True,True
-2020-05-13,BEL,Belgium,NOT SPECIFIED,,,1044,0,0,1044,0,0,True,True
-2020-05-13,BEL,Belgium,Wallonia,50.312074,5.019093,17368,3084,0,14284,4939,0,True,True
+2020-05-13,BEL,Belgium,Brussels,50.836426,4.367415,5580,1374,0,4206,360,78,True,True
+2020-05-13,BEL,Belgium,Flanders,51.036569,4.234165,30726,4471,0,26255,1047,224,True,True
+2020-05-13,BEL,Belgium,NOT SPECIFIED,,,1205,0,0,1205,0,0,True,True
+2020-05-13,BEL,Belgium,Wallonia,50.312074,5.019093,17624,3129,0,14495,559,105,True,True
 2020-05-13,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,997,37,0,960,0,0,False,False
 2020-05-13,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,96,5,2,89,0,0,True,True
 2020-05-13,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,16,35,0,0,True,True
@@ -32128,10 +32156,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-14,AUT,Austria,Vorarlberg,47.240149,9.896366,884,18,856,10,0,0,True,True
 2020-05-14,AUT,Austria,Wien,48.21141,16.380038,2861,145,2157,559,0,0,True,True
 2020-05-14,BLR,Belarus,Belarus,53.711111,27.973847,25825,146,0,25679,0,0,False,False
-2020-05-14,BEL,Belgium,Brussels,50.836426,4.367415,5535,1374,0,4161,2439,0,True,True
-2020-05-14,BEL,Belgium,Flanders,51.036569,4.234165,30251,4425,0,25826,9067,0,True,True
-2020-05-14,BEL,Belgium,NOT SPECIFIED,,,1044,0,0,1044,0,0,True,True
-2020-05-14,BEL,Belgium,Wallonia,50.312074,5.019093,17458,3104,0,14354,4967,0,True,True
+2020-05-14,BEL,Belgium,Brussels,50.836426,4.367415,5621,1382,0,4239,330,71,True,True
+2020-05-14,BEL,Belgium,Flanders,51.036569,4.234165,30896,4494,0,26402,985,207,True,True
+2020-05-14,BEL,Belgium,NOT SPECIFIED,,,1213,0,0,1213,0,0,True,True
+2020-05-14,BEL,Belgium,Wallonia,50.312074,5.019093,17697,3144,0,14553,547,102,True,True
 2020-05-14,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,997,37,0,960,0,0,False,False
 2020-05-14,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,96,5,2,89,0,0,True,True
 2020-05-14,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,17,34,0,0,True,True
@@ -32687,10 +32715,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-15,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,856,11,0,0,True,True
 2020-05-15,AUT,Austria,Wien,48.21141,16.380038,2887,145,2176,566,0,0,True,True
 2020-05-15,BLR,Belarus,Belarus,53.711111,27.973847,26772,151,0,26621,0,0,False,False
-2020-05-15,BEL,Belgium,Brussels,50.836426,4.367415,5563,1385,0,4178,2439,0,True,True
-2020-05-15,BEL,Belgium,Flanders,51.036569,4.234165,30499,4455,0,26044,9067,0,True,True
-2020-05-15,BEL,Belgium,NOT SPECIFIED,,,1044,0,0,1044,0,0,True,True
-2020-05-15,BEL,Belgium,Wallonia,50.312074,5.019093,17538,3119,0,14419,4967,0,True,True
+2020-05-15,BEL,Belgium,Brussels,50.836426,4.367415,5642,1389,0,4253,298,66,True,True
+2020-05-15,BEL,Belgium,Flanders,51.036569,4.234165,31105,4515,0,26590,945,200,True,True
+2020-05-15,BEL,Belgium,NOT SPECIFIED,,,1232,0,0,1232,0,0,True,True
+2020-05-15,BEL,Belgium,Wallonia,50.312074,5.019093,17787,3153,0,14634,507,98,True,True
 2020-05-15,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1001,37,0,964,0,0,False,False
 2020-05-15,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,106,6,2,98,0,0,True,True
 2020-05-15,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -33255,10 +33283,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-16,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,856,11,0,0,True,True
 2020-05-16,AUT,Austria,Wien,48.21141,16.380038,2935,145,2188,602,0,0,True,True
 2020-05-16,BLR,Belarus,Belarus,53.711111,27.973847,27730,156,0,27574,0,0,False,False
-2020-05-16,BEL,Belgium,Brussels,50.836426,4.367415,5599,1390,0,4209,2458,0,True,True
-2020-05-16,BEL,Belgium,Flanders,51.036569,4.234165,30707,4476,0,26231,9141,0,True,True
-2020-05-16,BEL,Belgium,NOT SPECIFIED,,,1046,0,0,1046,0,0,True,True
-2020-05-16,BEL,Belgium,Wallonia,50.312074,5.019093,17637,3139,0,14498,5006,0,True,True
+2020-05-16,BEL,Belgium,Brussels,50.836426,4.367415,5661,1395,0,4266,301,64,True,True
+2020-05-16,BEL,Belgium,Flanders,51.036569,4.234165,31198,4528,0,26670,844,188,True,True
+2020-05-16,BEL,Belgium,NOT SPECIFIED,,,1232,0,0,1232,0,0,True,True
+2020-05-16,BEL,Belgium,Wallonia,50.312074,5.019093,17822,3162,0,14660,480,93,True,True
 2020-05-16,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1002,37,0,965,0,0,False,False
 2020-05-16,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,108,6,2,100,0,0,True,True
 2020-05-16,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -33805,10 +33833,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-17,AUT,Austria,Vorarlberg,47.240149,9.896366,887,18,856,13,0,0,True,True
 2020-05-17,AUT,Austria,Wien,48.21141,16.380038,2961,145,2199,617,0,0,True,True
 2020-05-17,BLR,Belarus,Belarus,53.711111,27.973847,28681,160,0,28521,0,0,False,False
-2020-05-17,BEL,Belgium,Brussels,50.836426,4.367415,5635,1394,0,4241,2470,0,True,True
-2020-05-17,BEL,Belgium,Flanders,51.036569,4.234165,30876,4503,0,26373,9165,0,True,True
-2020-05-17,BEL,Belgium,NOT SPECIFIED,,,1048,0,0,1048,0,0,True,True
-2020-05-17,BEL,Belgium,Wallonia,50.312074,5.019093,17721,3155,0,14566,5030,0,True,True
+2020-05-17,BEL,Belgium,Brussels,50.836426,4.367415,5668,1399,0,4269,288,64,True,True
+2020-05-17,BEL,Belgium,Flanders,51.036569,4.234165,31255,4549,0,26706,845,185,True,True
+2020-05-17,BEL,Belgium,NOT SPECIFIED,,,1232,0,0,1232,0,0,True,True
+2020-05-17,BEL,Belgium,Wallonia,50.312074,5.019093,17839,3172,0,14667,481,93,True,True
 2020-05-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1004,37,0,967,0,0,False,False
 2020-05-17,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,108,6,2,100,0,0,True,True
 2020-05-17,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -34375,10 +34403,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-18,AUT,Austria,Vorarlberg,47.240149,9.896366,889,18,856,15,0,0,True,True
 2020-05-18,AUT,Austria,Wien,48.21141,16.380038,2978,145,2237,596,0,0,True,True
 2020-05-18,BLR,Belarus,Belarus,53.711111,27.973847,29650,165,0,29485,0,0,False,False
-2020-05-18,BEL,Belgium,Brussels,50.836426,4.367415,5657,1400,0,4257,2473,0,True,True
-2020-05-18,BEL,Belgium,Flanders,51.036569,4.234165,31023,4515,0,26508,9195,0,True,True
-2020-05-18,BEL,Belgium,NOT SPECIFIED,,,1050,0,0,1050,0,0,True,True
-2020-05-18,BEL,Belgium,Wallonia,50.312074,5.019093,17829,3165,0,14664,5040,0,True,True
+2020-05-18,BEL,Belgium,Brussels,50.836426,4.367415,5696,1401,0,4295,281,66,True,True
+2020-05-18,BEL,Belgium,Flanders,51.036569,4.234165,31470,4570,0,26900,867,191,True,True
+2020-05-18,BEL,Belgium,NOT SPECIFIED,,,1239,0,0,1239,0,0,True,True
+2020-05-18,BEL,Belgium,Wallonia,50.312074,5.019093,17896,3184,0,14712,482,88,True,True
 2020-05-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1006,37,0,969,0,0,False,False
 2020-05-18,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,116,7,2,107,0,0,True,True
 2020-05-18,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -34957,10 +34985,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-19,AUT,Austria,Vorarlberg,47.240149,9.896366,890,18,859,13,0,0,True,True
 2020-05-19,AUT,Austria,Wien,48.21141,16.380038,3003,145,2252,606,0,0,True,True
 2020-05-19,BLR,Belarus,Belarus,53.711111,27.973847,30572,171,0,30401,0,0,False,False
-2020-05-19,BEL,Belgium,Brussels,50.836426,4.367415,5673,1406,0,4267,2485,0,True,True
-2020-05-19,BEL,Belgium,Flanders,51.036569,4.234165,31199,4528,0,26671,9222,0,True,True
-2020-05-19,BEL,Belgium,NOT SPECIFIED,,,1050,0,0,1050,0,0,True,True
-2020-05-19,BEL,Belgium,Wallonia,50.312074,5.019093,17869,3174,0,14695,5051,0,True,True
+2020-05-19,BEL,Belgium,Brussels,50.836426,4.367415,5726,1404,0,4322,272,62,True,True
+2020-05-19,BEL,Belgium,Flanders,51.036569,4.234165,31650,4585,0,27065,803,171,True,True
+2020-05-19,BEL,Belgium,NOT SPECIFIED,,,1247,0,0,1247,0,0,True,True
+2020-05-19,BEL,Belgium,Wallonia,50.312074,5.019093,17962,3196,0,14766,452,80,True,True
 2020-05-19,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1008,37,0,971,0,0,False,False
 2020-05-19,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,116,7,2,107,0,0,True,True
 2020-05-19,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -35520,10 +35548,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-20,AUT,Austria,Vorarlberg,47.240149,9.896366,895,18,861,16,0,0,True,True
 2020-05-20,AUT,Austria,Wien,48.21141,16.380038,3021,145,2405,471,0,0,True,True
 2020-05-20,BLR,Belarus,Belarus,53.711111,27.973847,31508,175,0,31333,0,0,False,False
-2020-05-20,BEL,Belgium,Brussels,50.836426,4.367415,5691,1408,0,4283,2494,0,True,True
-2020-05-20,BEL,Belgium,Flanders,51.036569,4.234165,31316,4558,0,26758,9258,0,True,True
-2020-05-20,BEL,Belgium,NOT SPECIFIED,,,1050,0,0,1050,0,0,True,True
-2020-05-20,BEL,Belgium,Wallonia,50.312074,5.019093,17926,3184,0,14742,5064,0,True,True
+2020-05-20,BEL,Belgium,Brussels,50.836426,4.367415,5755,1406,0,4349,268,51,True,True
+2020-05-20,BEL,Belgium,Flanders,51.036569,4.234165,31870,4605,0,27265,761,159,True,True
+2020-05-20,BEL,Belgium,NOT SPECIFIED,,,1265,0,0,1265,0,0,True,True
+2020-05-20,BEL,Belgium,Wallonia,50.312074,5.019093,18076,3206,0,14870,419,67,True,True
 2020-05-20,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1009,37,0,972,0,0,False,False
 2020-05-20,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,119,7,2,110,0,0,True,True
 2020-05-20,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -36102,10 +36130,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-21,AUT,Austria,Vorarlberg,47.240149,9.896366,896,18,862,16,0,0,True,True
 2020-05-21,AUT,Austria,Wien,48.21141,16.380038,3060,145,2447,468,0,0,True,True
 2020-05-21,BLR,Belarus,Belarus,53.711111,27.973847,32426,179,0,32247,0,0,False,False
-2020-05-21,BEL,Belgium,Brussels,50.836426,4.367415,5712,1412,0,4300,2504,0,True,True
-2020-05-21,BEL,Belgium,Flanders,51.036569,4.234165,31491,4579,0,26912,9299,0,True,True
-2020-05-21,BEL,Belgium,NOT SPECIFIED,,,1050,0,0,1050,0,0,True,True
-2020-05-21,BEL,Belgium,Wallonia,50.312074,5.019093,17982,3195,0,14787,5084,0,True,True
+2020-05-21,BEL,Belgium,Brussels,50.836426,4.367415,5767,1409,0,4358,258,51,True,True
+2020-05-21,BEL,Belgium,Flanders,51.036569,4.234165,31910,4621,0,27289,725,151,True,True
+2020-05-21,BEL,Belgium,NOT SPECIFIED,,,1268,0,0,1268,0,0,True,True
+2020-05-21,BEL,Belgium,Wallonia,50.312074,5.019093,18092,3216,0,14876,405,66,True,True
 2020-05-21,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1011,37,0,974,0,0,False,False
 2020-05-21,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,120,7,2,111,0,0,True,True
 2020-05-21,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -36664,10 +36692,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-22,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,862,18,0,0,True,True
 2020-05-22,AUT,Austria,Wien,48.21141,16.380038,3077,145,2480,452,0,0,True,True
 2020-05-22,BLR,Belarus,Belarus,53.711111,27.973847,33371,185,0,33186,0,0,False,False
-2020-05-22,BEL,Belgium,Brussels,50.836426,4.367415,5742,1416,0,4326,2510,0,True,True
-2020-05-22,BEL,Belgium,Flanders,51.036569,4.234165,31666,4591,0,27075,9337,0,True,True
-2020-05-22,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-22,BEL,Belgium,Wallonia,50.312074,5.019093,18051,3205,0,14846,5096,0,True,True
+2020-05-22,BEL,Belgium,Brussels,50.836426,4.367415,5794,1413,0,4381,264,56,True,True
+2020-05-22,BEL,Belgium,Flanders,51.036569,4.234165,32077,4640,0,27437,709,146,True,True
+2020-05-22,BEL,Belgium,NOT SPECIFIED,,,1274,0,0,1274,0,0,True,True
+2020-05-22,BEL,Belgium,Wallonia,50.312074,5.019093,18139,3230,0,14909,387,57,True,True
 2020-05-22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1013,37,0,976,0,0,False,False
 2020-05-22,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,122,9,2,111,0,0,True,True
 2020-05-22,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -37245,10 +37273,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-23,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,862,18,0,0,True,True
 2020-05-23,AUT,Austria,Wien,48.21141,16.380038,3100,146,2488,466,0,0,True,True
 2020-05-23,BLR,Belarus,Belarus,53.711111,27.973847,34303,190,0,34113,0,0,False,False
-2020-05-23,BEL,Belgium,Brussels,50.836426,4.367415,5762,1418,0,4344,2516,0,True,True
-2020-05-23,BEL,Belgium,Flanders,51.036569,4.234165,31879,4605,0,27274,9357,0,True,True
-2020-05-23,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-23,BEL,Belgium,Wallonia,50.312074,5.019093,18117,3214,0,14903,5104,0,True,True
+2020-05-23,BEL,Belgium,Brussels,50.836426,4.367415,5805,1418,0,4387,251,54,True,True
+2020-05-23,BEL,Belgium,Flanders,51.036569,4.234165,32155,4651,0,27504,687,146,True,True
+2020-05-23,BEL,Belgium,NOT SPECIFIED,,,1274,0,0,1274,0,0,True,True
+2020-05-23,BEL,Belgium,Wallonia,50.312074,5.019093,18172,3238,0,14934,358,56,True,True
 2020-05-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1018,38,0,980,0,0,False,False
 2020-05-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,122,9,2,111,0,0,True,True
 2020-05-23,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -37807,10 +37835,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-24,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,864,16,0,0,True,True
 2020-05-24,AUT,Austria,Wien,48.21141,16.380038,3117,146,2495,476,0,0,True,True
 2020-05-24,BLR,Belarus,Belarus,53.711111,27.973847,35244,194,0,35050,0,0,False,False
-2020-05-24,BEL,Belgium,Brussels,50.836426,4.367415,5786,1423,0,4363,2523,0,True,True
-2020-05-24,BEL,Belgium,Flanders,51.036569,4.234165,32072,4624,0,27448,9384,0,True,True
-2020-05-24,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-24,BEL,Belgium,Wallonia,50.312074,5.019093,18182,3233,0,14949,5118,0,True,True
+2020-05-24,BEL,Belgium,Brussels,50.836426,4.367415,5812,1423,0,4389,255,55,True,True
+2020-05-24,BEL,Belgium,Flanders,51.036569,4.234165,32198,4664,0,27534,691,144,True,True
+2020-05-24,BEL,Belgium,NOT SPECIFIED,,,1274,0,0,1274,0,0,True,True
+2020-05-24,BEL,Belgium,Wallonia,50.312074,5.019093,18196,3254,0,14942,360,52,True,True
 2020-05-24,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1022,38,0,984,0,0,False,False
 2020-05-24,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,128,9,2,117,0,0,True,True
 2020-05-24,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,18,33,0,0,True,True
@@ -38369,10 +38397,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-25,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,864,16,0,0,True,True
 2020-05-25,AUT,Austria,Wien,48.21141,16.380038,3136,148,2553,435,0,0,True,True
 2020-05-25,BLR,Belarus,Belarus,53.711111,27.973847,36198,199,0,35999,0,0,False,False
-2020-05-25,BEL,Belgium,Brussels,50.836426,4.367415,5811,1427,0,4384,2527,0,True,True
-2020-05-25,BEL,Belgium,Flanders,51.036569,4.234165,32247,4639,0,27608,9399,0,True,True
-2020-05-25,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-25,BEL,Belgium,Wallonia,50.312074,5.019093,18232,3246,0,14986,5126,0,True,True
+2020-05-25,BEL,Belgium,Brussels,50.836426,4.367415,5839,1425,0,4414,249,57,True,True
+2020-05-25,BEL,Belgium,Flanders,51.036569,4.234165,32381,4678,0,27703,701,141,True,True
+2020-05-25,BEL,Belgium,NOT SPECIFIED,,,1281,0,0,1281,0,0,True,True
+2020-05-25,BEL,Belgium,Wallonia,50.312074,5.019093,18283,3262,0,15021,352,51,True,True
 2020-05-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1022,38,0,984,0,0,False,False
 2020-05-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-25,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -38950,10 +38978,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-26,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,863,17,0,0,True,True
 2020-05-26,AUT,Austria,Wien,48.21141,16.380038,3165,162,2564,439,0,0,True,True
 2020-05-26,BLR,Belarus,Belarus,53.711111,27.973847,37144,204,0,36940,0,0,False,False
-2020-05-26,BEL,Belgium,Brussels,50.836426,4.367415,5827,1431,0,4396,2533,0,True,True
-2020-05-26,BEL,Belgium,Flanders,51.036569,4.234165,32255,4651,0,27604,9428,0,True,True
-2020-05-26,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-26,BEL,Belgium,Wallonia,50.312074,5.019093,18321,3252,0,15069,5130,0,True,True
+2020-05-26,BEL,Belgium,Brussels,50.836426,4.367415,5857,1437,0,4420,238,51,True,True
+2020-05-26,BEL,Belgium,Flanders,51.036569,4.234165,32518,4700,0,27818,604,126,True,True
+2020-05-26,BEL,Belgium,NOT SPECIFIED,,,1281,0,0,1281,0,0,True,True
+2020-05-26,BEL,Belgium,Wallonia,50.312074,5.019093,18327,3268,0,15059,306,46,True,True
 2020-05-26,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1024,39,0,985,0,0,False,False
 2020-05-26,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-26,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -39531,10 +39559,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-27,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,863,17,0,0,True,True
 2020-05-27,AUT,Austria,Wien,48.21141,16.380038,3193,172,2581,440,0,0,True,True
 2020-05-27,BLR,Belarus,Belarus,53.711111,27.973847,38059,208,0,37851,0,0,False,False
-2020-05-27,BEL,Belgium,Brussels,50.836426,4.367415,5842,1434,0,4408,2538,0,True,True
-2020-05-27,BEL,Belgium,Flanders,51.036569,4.234165,32346,4668,0,27678,9443,0,True,True
-2020-05-27,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-27,BEL,Belgium,Wallonia,50.312074,5.019093,18352,3262,0,15090,5146,0,True,True
+2020-05-27,BEL,Belgium,Brussels,50.836426,4.367415,5880,1442,0,4438,205,45,True,True
+2020-05-27,BEL,Belgium,Flanders,51.036569,4.234165,32619,4712,0,27907,568,121,True,True
+2020-05-27,BEL,Belgium,NOT SPECIFIED,,,1285,0,0,1285,0,0,True,True
+2020-05-27,BEL,Belgium,Wallonia,50.312074,5.019093,18380,3275,0,15105,275,43,True,True
 2020-05-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1041,39,0,1002,0,0,False,False
 2020-05-27,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-27,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -40111,10 +40139,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-28,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,866,14,0,0,True,True
 2020-05-28,AUT,Austria,Wien,48.21141,16.380038,3198,172,2607,419,0,0,True,True
 2020-05-28,BLR,Belarus,Belarus,53.711111,27.973847,38956,214,0,38742,0,0,False,False
-2020-05-28,BEL,Belgium,Brussels,50.836426,4.367415,5870,1437,0,4433,2545,0,True,True
-2020-05-28,BEL,Belgium,Flanders,51.036569,4.234165,32489,4684,0,27805,9472,0,True,True
-2020-05-28,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-28,BEL,Belgium,Wallonia,50.312074,5.019093,18438,3267,0,15171,5157,0,True,True
+2020-05-28,BEL,Belgium,Brussels,50.836426,4.367415,5889,1447,0,4442,195,40,True,True
+2020-05-28,BEL,Belgium,Flanders,51.036569,4.234165,32725,4718,0,28007,498,108,True,True
+2020-05-28,BEL,Belgium,NOT SPECIFIED,,,1291,0,0,1291,0,0,True,True
+2020-05-28,BEL,Belgium,Wallonia,50.312074,5.019093,18417,3285,0,15132,244,39,True,True
 2020-05-28,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1071,39,0,1032,0,0,False,False
 2020-05-28,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-28,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -40692,10 +40720,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-29,AUT,Austria,Vorarlberg,47.240149,9.896366,898,18,866,14,0,0,True,True
 2020-05-29,AUT,Austria,Wien,48.21141,16.380038,3221,172,2645,404,0,0,True,True
 2020-05-29,BLR,Belarus,Belarus,53.711111,27.973847,39858,219,0,39639,0,0,False,False
-2020-05-29,BEL,Belgium,Brussels,50.836426,4.367415,5887,1452,0,4435,2549,0,True,True
-2020-05-29,BEL,Belgium,Flanders,51.036569,4.234165,32612,4703,0,27909,9491,0,True,True
-2020-05-29,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-29,BEL,Belgium,Wallonia,50.312074,5.019093,18510,3275,0,15235,5163,0,True,True
+2020-05-29,BEL,Belgium,Brussels,50.836426,4.367415,5919,1447,0,4472,187,38,True,True
+2020-05-29,BEL,Belgium,Flanders,51.036569,4.234165,32812,4727,0,28085,475,105,True,True
+2020-05-29,BEL,Belgium,NOT SPECIFIED,,,1294,0,0,1294,0,0,True,True
+2020-05-29,BEL,Belgium,Wallonia,50.312074,5.019093,18456,3289,0,15167,228,30,True,True
 2020-05-29,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1071,39,0,1032,0,0,False,False
 2020-05-29,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,2,118,0,0,True,True
 2020-05-29,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -41273,10 +41301,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-30,AUT,Austria,Vorarlberg,47.240149,9.896366,899,18,866,15,0,0,True,True
 2020-05-30,AUT,Austria,Wien,48.21141,16.380038,3243,172,2793,278,0,0,True,True
 2020-05-30,BLR,Belarus,Belarus,53.711111,27.973847,40764,224,0,40540,0,0,False,False
-2020-05-30,BEL,Belgium,Brussels,50.836426,4.367415,5921,1459,0,4462,2557,0,True,True
-2020-05-30,BEL,Belgium,Flanders,51.036569,4.234165,32818,4718,0,28100,9532,0,True,True
-2020-05-30,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-05-30,BEL,Belgium,Wallonia,50.312074,5.019093,18590,3290,0,15300,5183,0,True,True
+2020-05-30,BEL,Belgium,Brussels,50.836426,4.367415,5926,1452,0,4474,184,39,True,True
+2020-05-30,BEL,Belgium,Flanders,51.036569,4.234165,32850,4739,0,28111,432,101,True,True
+2020-05-30,BEL,Belgium,NOT SPECIFIED,,,1294,0,0,1294,0,0,True,True
+2020-05-30,BEL,Belgium,Wallonia,50.312074,5.019093,18470,3296,0,15174,205,28,True,True
 2020-05-30,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1074,39,0,1035,0,0,False,False
 2020-05-30,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,10,110,0,0,True,True
 2020-05-30,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -41842,6 +41870,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-31,AUT,Austria,Vorarlberg,47.240149,9.896366,899,18,866,15,0,0,True,True
 2020-05-31,AUT,Austria,Wien,48.21141,16.380038,3288,172,2855,261,0,0,True,True
 2020-05-31,BLR,Belarus,Belarus,53.711111,27.973847,41658,229,0,41429,0,0,False,False
+2020-05-31,BEL,Belgium,Brussels,50.836426,4.367415,5931,1453,0,4478,177,40,True,True
+2020-05-31,BEL,Belgium,Flanders,51.036569,4.234165,32873,4752,0,28121,433,96,True,True
+2020-05-31,BEL,Belgium,NOT SPECIFIED,,,1295,0,0,1295,0,0,True,True
+2020-05-31,BEL,Belgium,Wallonia,50.312074,5.019093,18490,3301,0,15189,206,28,True,True
 2020-05-31,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1080,39,0,1041,0,0,False,False
 2020-05-31,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,129,9,10,110,0,0,True,True
 2020-05-31,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -42389,10 +42421,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-01,AUT,Austria,Vorarlberg,47.240149,9.896366,900,18,866,16,0,0,True,True
 2020-06-01,AUT,Austria,Wien,48.21141,16.380038,3288,172,2855,261,0,0,True,True
 2020-06-01,BLR,Belarus,Belarus,53.711111,27.973847,42556,235,0,42321,0,0,False,False
-2020-06-01,BEL,Belgium,Brussels,50.836426,4.367415,5947,1463,0,4484,2560,0,True,True
-2020-06-01,BEL,Belgium,Flanders,51.036569,4.234165,32898,4731,0,28167,9550,0,True,True
-2020-06-01,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-01,BEL,Belgium,Wallonia,50.312074,5.019093,18620,3292,0,15328,5187,0,True,True
+2020-06-01,BEL,Belgium,Brussels,50.836426,4.367415,5938,1454,0,4484,182,42,True,True
+2020-06-01,BEL,Belgium,Flanders,51.036569,4.234165,32908,4765,0,28143,435,96,True,True
+2020-06-01,BEL,Belgium,NOT SPECIFIED,,,1295,0,0,1295,0,0,True,True
+2020-06-01,BEL,Belgium,Wallonia,50.312074,5.019093,18505,3307,0,15198,202,28,True,True
 2020-06-01,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1082,39,0,1043,0,0,False,False
 2020-06-01,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,9,10,112,0,0,True,True
 2020-06-01,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -42842,10 +42874,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-02,AUT,Austria,Vorarlberg,47.240149,9.896366,900,18,867,15,0,0,True,True
 2020-06-02,AUT,Austria,Wien,48.21141,16.380038,3310,172,2879,259,0,0,True,True
 2020-06-02,BLR,Belarus,Belarus,53.711111,27.973847,43403,240,0,43163,0,0,False,False
-2020-06-02,BEL,Belgium,Brussels,50.836426,4.367415,5963,1464,0,4499,2567,0,True,True
-2020-06-02,BEL,Belgium,Flanders,51.036569,4.234165,32952,4743,0,28209,9564,0,True,True
-2020-06-02,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-02,BEL,Belgium,Wallonia,50.312074,5.019093,18648,3298,0,15350,5192,0,True,True
+2020-06-02,BEL,Belgium,Brussels,50.836426,4.367415,5961,1457,0,4504,188,47,True,True
+2020-06-02,BEL,Belgium,Flanders,51.036569,4.234165,33001,4780,0,28221,433,94,True,True
+2020-06-02,BEL,Belgium,NOT SPECIFIED,,,1303,0,0,1303,0,0,True,True
+2020-06-02,BEL,Belgium,Wallonia,50.312074,5.019093,18545,3313,0,15232,198,31,True,True
 2020-06-02,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1085,39,0,1046,0,0,False,False
 2020-06-02,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,9,10,112,0,0,True,True
 2020-06-02,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -43316,10 +43348,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,AUT,Austria,Vorarlberg,47.240149,9.896366,900,18,867,15,0,0,True,True
 2020-06-03,AUT,Austria,Wien,48.21141,16.380038,3321,173,2894,254,0,0,True,True
 2020-06-03,BLR,Belarus,Belarus,53.711111,27.973847,44255,243,0,44012,0,0,False,False
-2020-06-03,BEL,Belgium,Brussels,50.836426,4.367415,5969,1464,0,4505,2575,0,True,True
-2020-06-03,BEL,Belgium,Flanders,51.036569,4.234165,32995,4753,0,28242,9578,0,True,True
-2020-06-03,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-03,BEL,Belgium,Wallonia,50.312074,5.019093,18669,3305,0,15364,5201,0,True,True
+2020-06-03,BEL,Belgium,Brussels,50.836426,4.367415,5983,1459,0,4524,156,33,True,True
+2020-06-03,BEL,Belgium,Flanders,51.036569,4.234165,33095,4788,0,28307,407,87,True,True
+2020-06-03,BEL,Belgium,NOT SPECIFIED,,,1308,0,0,1308,0,0,True,True
+2020-06-03,BEL,Belgium,Wallonia,50.312074,5.019093,18576,3321,0,15255,174,25,True,True
 2020-06-03,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1093,39,0,1054,0,0,False,False
 2020-06-03,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,9,10,112,0,0,True,True
 2020-06-03,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -43899,10 +43931,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-04,AUT,Austria,Vorarlberg,47.240149,9.896366,902,18,869,15,0,0,True,True
 2020-06-04,AUT,Austria,Wien,48.21141,16.380038,3342,173,2917,252,0,0,True,True
 2020-06-04,BLR,Belarus,Belarus,53.711111,27.973847,45116,248,0,44868,0,0,False,False
-2020-06-04,BEL,Belgium,Brussels,50.836426,4.367415,5976,1467,0,4509,2576,0,True,True
-2020-06-04,BEL,Belgium,Flanders,51.036569,4.234165,33045,4770,0,28275,9590,0,True,True
-2020-06-04,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-04,BEL,Belgium,Wallonia,50.312074,5.019093,18694,3311,0,15383,5209,0,True,True
+2020-06-04,BEL,Belgium,Brussels,50.836426,4.367415,6006,1462,0,4544,137,36,True,True
+2020-06-04,BEL,Belgium,Flanders,51.036569,4.234165,33200,4797,0,28403,394,79,True,True
+2020-06-04,BEL,Belgium,NOT SPECIFIED,,,1316,0,0,1316,0,0,True,True
+2020-06-04,BEL,Belgium,Wallonia,50.312074,5.019093,18605,3324,0,15281,169,22,True,True
 2020-06-04,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1099,39,0,1060,0,0,False,False
 2020-06-04,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,9,10,112,0,0,True,True
 2020-06-04,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -44479,10 +44511,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-05,AUT,Austria,Vorarlberg,47.240149,9.896366,905,18,867,20,0,0,True,True
 2020-06-05,AUT,Austria,Wien,48.21141,16.380038,3369,174,2927,268,0,0,True,True
 2020-06-05,BLR,Belarus,Belarus,53.711111,27.973847,45981,253,0,45728,0,0,False,False
-2020-06-05,BEL,Belgium,Brussels,50.836426,4.367415,6010,1458,0,4552,2583,0,True,True
-2020-06-05,BEL,Belgium,Flanders,51.036569,4.234165,33114,4787,0,28327,9604,0,True,True
-2020-06-05,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-05,BEL,Belgium,Wallonia,50.312074,5.019093,18731,3321,0,15410,5220,0,True,True
+2020-06-05,BEL,Belgium,Brussels,50.836426,4.367415,6030,1464,0,4566,132,32,True,True
+2020-06-05,BEL,Belgium,Flanders,51.036569,4.234165,33278,4801,0,28477,365,71,True,True
+2020-06-05,BEL,Belgium,NOT SPECIFIED,,,1319,0,0,1319,0,0,True,True
+2020-06-05,BEL,Belgium,Wallonia,50.312074,5.019093,18653,3327,0,15326,148,18,True,True
 2020-06-05,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1108,39,0,1069,0,0,False,False
 2020-06-05,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,131,10,10,111,0,0,True,True
 2020-06-05,BGR,Bulgaria,Burgas,42.491848,27.306892,52,1,19,32,0,0,True,True
@@ -45053,10 +45085,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-06,AUT,Austria,Vorarlberg,47.240149,9.896366,907,18,876,13,0,0,True,True
 2020-06-06,AUT,Austria,Wien,48.21141,16.380038,3404,174,2951,279,0,0,True,True
 2020-06-06,BLR,Belarus,Belarus,53.711111,27.973847,46868,259,0,46609,0,0,False,False
-2020-06-06,BEL,Belgium,Brussels,50.836426,4.367415,6026,1461,0,4565,2588,0,True,True
-2020-06-06,BEL,Belgium,Flanders,51.036569,4.234165,33237,4795,0,28442,9623,0,True,True
-2020-06-06,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-06,BEL,Belgium,Wallonia,50.312074,5.019093,18757,3324,0,15433,5222,0,True,True
+2020-06-06,BEL,Belgium,Brussels,50.836426,4.367415,6033,1465,0,4568,124,30,True,True
+2020-06-06,BEL,Belgium,Flanders,51.036569,4.234165,33323,4805,0,28518,322,65,True,True
+2020-06-06,BEL,Belgium,NOT SPECIFIED,,,1319,0,0,1319,0,0,True,True
+2020-06-06,BEL,Belgium,Wallonia,50.312074,5.019093,18671,3331,0,15340,125,16,True,True
 2020-06-06,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1115,39,0,1076,0,0,False,False
 2020-06-06,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,132,10,10,112,0,0,True,True
 2020-06-06,BGR,Bulgaria,Burgas,42.491848,27.306892,53,1,19,33,0,0,True,True
@@ -45596,10 +45628,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-07,AUT,Austria,Vorarlberg,47.240149,9.896366,907,18,876,13,0,0,True,True
 2020-06-07,AUT,Austria,Wien,48.21141,16.380038,3404,174,2951,279,0,0,True,True
 2020-06-07,BLR,Belarus,Belarus,53.711111,27.973847,47751,263,0,47488,0,0,False,False
-2020-06-07,BEL,Belgium,Brussels,50.836426,4.367415,6056,1463,0,4593,2588,0,True,True
-2020-06-07,BEL,Belgium,Flanders,51.036569,4.234165,33328,4805,0,28523,9623,0,True,True
-2020-06-07,BEL,Belgium,NOT SPECIFIED,,,1052,0,0,1052,0,0,True,True
-2020-06-07,BEL,Belgium,Wallonia,50.312074,5.019093,18790,3327,0,15463,5222,0,True,True
+2020-06-07,BEL,Belgium,Brussels,50.836426,4.367415,6038,1466,0,4572,138,32,True,True
+2020-06-07,BEL,Belgium,Flanders,51.036569,4.234165,33355,4815,0,28540,317,70,True,True
+2020-06-07,BEL,Belgium,NOT SPECIFIED,,,1319,0,0,1319,0,0,True,True
+2020-06-07,BEL,Belgium,Wallonia,50.312074,5.019093,18687,3335,0,15352,119,14,True,True
 2020-06-07,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1138,39,0,1099,0,0,False,False
 2020-06-07,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,144,10,10,124,0,0,True,True
 2020-06-07,BGR,Bulgaria,Burgas,42.491848,27.306892,54,1,19,34,0,0,True,True
@@ -46159,10 +46191,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-08,AUT,Austria,Vorarlberg,47.240149,9.896366,908,18,876,14,0,0,True,True
 2020-06-08,AUT,Austria,Wien,48.21141,16.380038,3465,174,2986,305,0,0,True,True
 2020-06-08,BLR,Belarus,Belarus,53.711111,27.973847,48630,269,0,48361,0,0,False,False
-2020-06-08,BEL,Belgium,Brussels,50.836426,4.367415,6075,1465,0,4610,2603,0,True,True
-2020-06-08,BEL,Belgium,Flanders,51.036569,4.234165,33406,4809,0,28597,9643,0,True,True
-2020-06-08,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
-2020-06-08,BEL,Belgium,Wallonia,50.312074,5.019093,18814,3332,0,15482,5231,0,True,True
+2020-06-08,BEL,Belgium,Brussels,50.836426,4.367415,6059,1468,0,4591,137,32,True,True
+2020-06-08,BEL,Belgium,Flanders,51.036569,4.234165,33458,4821,0,28637,309,68,True,True
+2020-06-08,BEL,Belgium,NOT SPECIFIED,,,1324,0,0,1324,0,0,True,True
+2020-06-08,BEL,Belgium,Wallonia,50.312074,5.019093,18721,3337,0,15384,127,15,True,True
 2020-06-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1161,39,0,1122,0,0,False,False
 2020-06-08,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,144,10,10,124,0,0,True,True
 2020-06-08,BGR,Bulgaria,Burgas,42.491848,27.306892,54,1,19,34,0,0,True,True
@@ -46731,10 +46763,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-09,AUT,Austria,Vorarlberg,47.240149,9.896366,908,18,876,14,0,0,True,True
 2020-06-09,AUT,Austria,Wien,48.21141,16.380038,3470,174,3001,295,0,0,True,True
 2020-06-09,BLR,Belarus,Belarus,53.711111,27.973847,49453,276,0,49177,0,0,False,False
-2020-06-09,BEL,Belgium,Brussels,50.836426,4.367415,6086,1466,0,4620,2603,0,True,True
-2020-06-09,BEL,Belgium,Flanders,51.036569,4.234165,33450,4819,0,28631,9643,0,True,True
-2020-06-09,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
-2020-06-09,BEL,Belgium,Wallonia,50.312074,5.019093,18848,3334,0,15514,5231,0,True,True
+2020-06-09,BEL,Belgium,Brussels,50.836426,4.367415,6079,1469,0,4610,129,27,True,True
+2020-06-09,BEL,Belgium,Flanders,51.036569,4.234165,33541,4827,0,28714,275,61,True,True
+2020-06-09,BEL,Belgium,NOT SPECIFIED,,,1326,0,0,1326,0,0,True,True
+2020-06-09,BEL,Belgium,Wallonia,50.312074,5.019093,18751,3343,0,15408,121,14,True,True
 2020-06-09,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1176,40,0,1136,0,0,False,False
 2020-06-09,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,148,10,10,128,0,0,True,True
 2020-06-09,BGR,Bulgaria,Burgas,42.491848,27.306892,54,1,19,34,0,0,True,True
@@ -47280,10 +47312,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-10,AUT,Austria,Vorarlberg,47.240149,9.896366,908,18,878,12,0,0,True,True
 2020-06-10,AUT,Austria,Wien,48.21141,16.380038,3488,174,3021,293,0,0,True,True
 2020-06-10,BLR,Belarus,Belarus,53.711111,27.973847,50265,282,0,49983,0,0,False,False
-2020-06-10,BEL,Belgium,Brussels,50.836426,4.367415,6104,1468,0,4636,2605,0,True,True
-2020-06-10,BEL,Belgium,Flanders,51.036569,4.234165,33533,4822,0,28711,9650,0,True,True
-2020-06-10,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
-2020-06-10,BEL,Belgium,Wallonia,50.312074,5.019093,18879,3339,0,15540,5238,0,True,True
+2020-06-10,BEL,Belgium,Brussels,50.836426,4.367415,6093,1469,0,4624,120,32,True,True
+2020-06-10,BEL,Belgium,Flanders,51.036569,4.234165,33585,4831,0,28754,251,54,True,True
+2020-06-10,BEL,Belgium,NOT SPECIFIED,,,1328,0,0,1328,0,0,True,True
+2020-06-10,BEL,Belgium,Wallonia,50.312074,5.019093,18813,3345,0,15468,111,13,True,True
 2020-06-10,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1190,40,0,1150,0,0,False,False
 2020-06-10,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,148,10,10,128,0,0,True,True
 2020-06-10,BGR,Bulgaria,Burgas,42.491848,27.306892,54,1,19,34,0,0,True,True
@@ -47823,10 +47855,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-11,AUT,Austria,Vorarlberg,47.240149,9.896366,908,18,878,12,0,0,True,True
 2020-06-11,AUT,Austria,Wien,48.21141,16.380038,3488,174,3021,293,0,0,True,True
 2020-06-11,BLR,Belarus,Belarus,53.711111,27.973847,51066,288,0,50778,0,0,False,False
-2020-06-11,BEL,Belgium,Brussels,50.836426,4.367415,6134,1469,0,4665,2615,0,True,True
-2020-06-11,BEL,Belgium,Flanders,51.036569,4.234165,33611,4824,0,28787,9676,0,True,True
-2020-06-11,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
-2020-06-11,BEL,Belgium,Wallonia,50.312074,5.019093,18913,3343,0,15570,5245,0,True,True
 2020-06-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1228,40,0,1188,0,0,False,False
 2020-06-11,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,150,10,10,130,0,0,True,True
 2020-06-11,BGR,Bulgaria,Burgas,42.491848,27.306892,56,1,19,36,0,0,True,True
@@ -48183,22 +48211,31 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-11,GBR,United Kingdom,South West,51.239761,-2.54375,7858,0,0,7858,0,0,False,True
 2020-06-11,GBR,United Kingdom,Tayside,56.610323,-3.555213,1685,0,0,1685,0,0,False,True
 2020-06-11,GBR,United Kingdom,Wales,52.302413,-3.738347,14581,1425,0,13156,0,0,False,True
+2020-06-12,ALB,Albania,Berat,40.6285,20.090775,16,0,14,2,0,0,False,False
+2020-06-12,ALB,Albania,Dibër,,,10,0,8,2,0,0,False,False
+2020-06-12,ALB,Albania,Durrës,41.518365,19.651766,287,7,233,47,5,3,False,False
+2020-06-12,ALB,Albania,Elbasan,41.040028,20.186454,24,0,20,4,1,0,False,False
+2020-06-12,ALB,Albania,Fier,40.774633,19.620528,65,4,54,7,3,0,False,False
+2020-06-12,ALB,Albania,Gjirokastër,,,0,0,0,0,0,0,False,False
+2020-06-12,ALB,Albania,Korçë,40.62883,20.666004,19,0,18,1,0,0,False,False
+2020-06-12,ALB,Albania,Kukës,42.066696,20.419467,39,1,36,2,2,0,False,False
+2020-06-12,ALB,Albania,Lezhë,41.801452,19.845695,53,0,52,1,1,0,False,False
+2020-06-12,ALB,Albania,NOT SPECIFIED,,,0,0,0,0,0,0,False,False
+2020-06-12,ALB,Albania,Shkodër,42.17682,19.719451,170,2,116,52,8,0,False,False
+2020-06-12,ALB,Albania,Tiranë,41.268583,19.793936,722,21,479,222,20,4,False,False
+2020-06-12,ALB,Albania,Vlorë,40.162418,19.793592,11,1,4,6,0,0,False,False
 2020-06-12,AND,Andorra,Andorra,42.542268,1.596865,852,51,0,801,0,0,False,False
 2020-06-12,AUT,Austria,Burgenland,47.541449,16.520206,346,11,332,3,0,0,True,True
 2020-06-12,AUT,Austria,Kärnten,46.715832,14.455532,415,13,401,1,0,0,True,True
-2020-06-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2889,97,2742,50,0,0,True,True
-2020-06-12,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,23,True,True
-2020-06-12,AUT,Austria,Oberösterreich,48.138166,13.964295,2324,58,2232,34,0,0,True,True
+2020-06-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2899,99,2746,54,0,0,True,True
+2020-06-12,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,46,True,True
+2020-06-12,AUT,Austria,Oberösterreich,48.138166,13.964295,2325,58,2232,35,0,0,True,True
 2020-06-12,AUT,Austria,Salzburg,47.254051,13.032653,1240,37,1201,2,0,0,True,True
-2020-06-12,AUT,Austria,Steiermark,47.187361,15.518046,1828,137,1686,5,0,0,True,True
-2020-06-12,AUT,Austria,Tirol,47.209023,11.397603,3547,102,3436,9,0,0,True,True
-2020-06-12,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,878,13,0,0,True,True
-2020-06-12,AUT,Austria,Wien,48.21141,16.380038,3488,175,3041,272,0,0,True,True
+2020-06-12,AUT,Austria,Steiermark,47.187361,15.518046,1829,137,1688,4,0,0,True,True
+2020-06-12,AUT,Austria,Tirol,47.209023,11.397603,3547,102,3437,8,0,0,True,True
+2020-06-12,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,880,11,0,0,True,True
+2020-06-12,AUT,Austria,Wien,48.21141,16.380038,3529,175,3068,286,0,0,True,True
 2020-06-12,BLR,Belarus,Belarus,53.711111,27.973847,51816,293,0,51523,0,0,False,False
-2020-06-12,BEL,Belgium,Brussels,50.836426,4.367415,6143,1469,0,4674,2615,0,True,True
-2020-06-12,BEL,Belgium,Flanders,51.036569,4.234165,33675,4831,0,28844,9676,0,True,True
-2020-06-12,BEL,Belgium,NOT SPECIFIED,,,1053,0,0,1053,0,0,True,True
-2020-06-12,BEL,Belgium,Wallonia,50.312074,5.019093,18948,3346,0,15602,5245,0,True,True
 2020-06-12,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1265,41,0,1224,0,0,False,False
 2020-06-12,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,150,10,10,130,0,0,True,True
 2020-06-12,BGR,Bulgaria,Burgas,42.491848,27.306892,57,1,19,37,0,0,True,True
@@ -48266,6 +48303,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,CZE,Czech Republic,Ústecký,50.488308,13.816736,568,0,0,568,0,0,True,True
 2020-06-12,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
 2020-06-12,CZE,Czech Republic,Zlínský,49.239654,17.770218,374,0,0,374,0,0,True,True
+2020-06-12,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-06-12,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,0,13,0,0,True,True
+2020-06-12,DNK,Denmark,Hovedstaden,55.675758,12.56902,6982,347,0,6635,0,0,True,True
+2020-06-12,DNK,Denmark,Midtjylland,56.302139,9.302777,1612,69,0,1543,0,0,True,True
+2020-06-12,DNK,Denmark,Nordjylland,56.830742,9.493053,447,22,0,425,0,0,True,True
+2020-06-12,DNK,Denmark,Sjælland,55.92481,11.67126,1951,121,0,1830,0,0,True,True
+2020-06-12,DNK,Denmark,Syddanmark,55.675758,12.56902,1030,35,0,995,0,0,True,True
 2020-06-12,EST,Estonia,Estonia,58.596209,25.023778,1970,69,0,1901,0,0,True,True
 2020-06-12,FIN,Finland,Ahvenanmaa,60.240625,19.966666,17,0,0,17,0,0,True,True
 2020-06-12,FIN,Finland,Etelä-Karjala,61.217899,28.550289,25,0,0,25,0,0,True,True
@@ -48305,6 +48349,56 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1732,56,0,1676,0,0,True,True
 2020-06-12,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3120,148,0,2972,0,0,True,True
 2020-06-12,DEU,Germany,Thüringen,50.903878,11.02488,3143,171,0,2972,0,0,True,True
+2020-06-12,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,0,True,True
+2020-06-12,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,0,True,True
+2020-06-12,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,0,True,True
+2020-06-12,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,0,True,True
+2020-06-12,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,0,True,True
+2020-06-12,GRC,Greece,Athens,37.997492,23.762727,1100,110,0,990,0,0,True,True
+2020-06-12,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,0,True,True
+2020-06-12,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,0,True,True
+2020-06-12,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,0,True,True
+2020-06-12,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,0,True,True
+2020-06-12,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,0,True,True
+2020-06-12,GRC,Greece,Evros,41.064778,26.12942,14,10,0,4,0,0,True,True
+2020-06-12,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,0,True,True
+2020-06-12,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,0,True,True
+2020-06-12,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,0,True,True
+2020-06-12,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,0,True,True
+2020-06-12,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,0,True,True
+2020-06-12,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,0,True,True
+2020-06-12,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Larissa,39.701311,22.39723,67,1,0,66,0,0,True,True
+2020-06-12,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,0,True,True
+2020-06-12,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,0,True,True
+2020-06-12,GRC,Greece,NOT SPECIFIED,,,1013,0,0,1013,0,0,True,True
+2020-06-12,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,0,True,True
+2020-06-12,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,0,True,True
+2020-06-12,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,0,True,True
+2020-06-12,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,0,True,True
+2020-06-12,GRC,Greece,Rodopi,41.111377,25.506941,7,0,0,7,0,0,True,True
+2020-06-12,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,0,True,True
+2020-06-12,GRC,Greece,Tessaloniki,40.687597,23.115933,85,17,0,68,0,0,True,True
+2020-06-12,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,0,True,True
+2020-06-12,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,0,True,True
+2020-06-12,GRC,Greece,Xanthis,41.168776,24.88364,32,5,0,27,0,0,True,True
+2020-06-12,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,0,True,True
 2020-06-12,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,20,0,0,20,0,0,True,True
 2020-06-12,HUN,Hungary,Baranya,46.043048,18.197022,39,0,0,39,0,0,True,True
 2020-06-12,HUN,Hungary,Békés,46.735413,21.006326,13,0,0,13,0,0,True,True
@@ -48327,14 +48421,50 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-12,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
 2020-06-12,HUN,Hungary,Zala,46.692149,16.903237,260,0,0,260,0,0,True,True
+2020-06-12,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-06-12,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-06-12,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1318,0,0,1318,0,0,False,True
+2020-06-12,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-06-12,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-06-12,ISL,Iceland,NOT SPECIFIED,,,2,0,0,2,0,0,False,True
+2020-06-12,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
+2020-06-12,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-06-12,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-06-12,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
 2020-06-12,IRL,Ireland,Ireland,53.41975,-8.240472,25238,1703,0,23535,0,0,True,True
 2020-06-12,LVA,Latvia,Latvia,56.875584,24.607722,1094,26,0,1068,0,0,True,True
 2020-06-12,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-12,LTU,Lithuania,Lithuania,55.174112,23.906736,1752,74,0,1678,0,0,True,True
+2020-06-12,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4055,110,941,3004,16,0,True,True
 2020-06-12,MDA,Moldova,Moldova,46.979527,28.377195,10727,375,0,10352,0,0,False,False
 2020-06-12,MCO,Monaco,Monaco,43.738348,7.424451,99,5,0,94,0,0,False,False
 2020-06-12,MNE,Montenegro,Montenegro,42.710152,19.410069,324,9,0,315,0,0,False,True
+2020-06-12,NLD,Netherlands,Drenthe,52.863149,6.623756,527,0,0,527,0,0,True,True
+2020-06-12,NLD,Netherlands,Flevoland,52.436257,5.519078,956,0,0,956,0,0,True,True
+2020-06-12,NLD,Netherlands,Friesland,53.089388,5.871457,625,0,0,625,0,0,True,True
+2020-06-12,NLD,Netherlands,Gelderland,52.061726,5.945178,6384,0,0,6384,0,0,True,True
+2020-06-12,NLD,Netherlands,Groningen,53.291466,6.700488,355,0,0,355,0,0,True,True
+2020-06-12,NLD,Netherlands,Limburg,51.207579,5.936318,4823,0,0,4823,0,0,True,True
+2020-06-12,NLD,Netherlands,North Brabant,51.527534,5.590194,9509,0,0,9509,0,0,True,True
+2020-06-12,NLD,Netherlands,North Holland,52.551824,4.876581,6989,0,0,6989,0,0,True,True
+2020-06-12,NLD,Netherlands,NOT SPECIFIED,,,0,6053,0,-6053,11813,0,True,True
+2020-06-12,NLD,Netherlands,Overijssel,52.445136,6.4476,3031,0,0,3031,0,0,True,True
+2020-06-12,NLD,Netherlands,South Holland,51.968696,4.541274,10679,0,0,10679,0,0,True,True
+2020-06-12,NLD,Netherlands,Utrecht,52.078728,5.214048,3861,0,0,3861,0,0,True,True
+2020-06-12,NLD,Netherlands,Zeeland,51.312779,3.786651,722,0,0,722,0,0,True,True
 2020-06-12,MKD,North Macedonia,North Macedonia,41.611,21.751417,3542,169,0,3373,0,0,False,True
+2020-06-12,NOR,Norway,Agder,58.699661,7.618403,343,0,0,343,0,0,False,True
+2020-06-12,NOR,Norway,Innlandet,61.43354,10.427144,511,0,0,511,0,0,False,True
+2020-06-12,NOR,Norway,Møre og Romsdal,62.543569,8.540539,145,0,0,145,0,0,False,True
+2020-06-12,NOR,Norway,Nordland,66.679716,14.635752,122,0,0,122,0,0,False,True
+2020-06-12,NOR,Norway,NOT SPECIFIED,,,0,242,0,-242,887,218,False,True
+2020-06-12,NOR,Norway,Oslo,59.979683,10.738335,2748,0,0,2748,0,0,False,True
+2020-06-12,NOR,Norway,Rogaland,58.58709,6.206792,441,0,0,441,0,0,False,True
+2020-06-12,NOR,Norway,Troms og Finnmark,70.239335,26.12935,252,0,0,252,0,0,False,True
+2020-06-12,NOR,Norway,Trøndelag,63.421183,11.529951,535,0,0,535,0,0,False,True
+2020-06-12,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,291,0,0,291,0,0,False,True
+2020-06-12,NOR,Norway,Vestland,60.952729,6.513828,884,0,0,884,0,0,False,True
+2020-06-12,NOR,Norway,Viken,60.020274,9.849655,2334,0,0,2334,0,0,False,True
 2020-06-12,POL,Poland,Dolnośląskie,51.07994,16.381483,2750,124,0,2626,0,0,True,True
 2020-06-12,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,610,47,0,563,0,0,True,True
 2020-06-12,POL,Poland,Łódzkie,51.559579,19.408271,2330,101,0,2229,0,0,True,True
@@ -48351,6 +48481,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,185,1,0,184,0,0,True,True
 2020-06-12,POL,Poland,Wielkopolskie,52.283858,17.248218,2345,163,0,2182,0,0,True,True
 2020-06-12,POL,Poland,Zachodniopomorskie,53.582707,15.634824,569,19,0,550,0,0,True,True
+2020-06-12,PRT,Portugal,Açores,37.775525,-25.494927,143,15,0,128,0,0,True,True
+2020-06-12,PRT,Portugal,Alentejo,38.485499,-8.006668,277,1,0,276,0,0,True,True
+2020-06-12,PRT,Portugal,Algarve,37.218389,-8.198488,393,15,0,378,0,0,True,True
+2020-06-12,PRT,Portugal,Centro,40.111812,-8.012768,3846,246,0,3600,0,0,True,True
+2020-06-12,PRT,Portugal,Lisbon,38.623843,-8.88436,14407,417,0,13990,0,0,True,True
+2020-06-12,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-06-12,PRT,Portugal,Norte,41.457206,-7.678153,17024,811,0,16213,0,0,True,True
+2020-06-12,PRT,Portugal,NOT SPECIFIED,,,0,0,22200,-22200,440,73,True,True
 2020-06-12,ROU,Romania,Alba,46.172367,23.487279,408,0,0,408,0,0,True,True
 2020-06-12,ROU,Romania,Arad,46.273235,21.758454,701,0,0,701,0,0,True,True
 2020-06-12,ROU,Romania,Argeș,,,320,0,0,320,0,0,True,True
@@ -48394,6 +48532,89 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,ROU,Romania,Vâlcea,,,38,0,0,38,0,0,True,True
 2020-06-12,ROU,Romania,Vaslui,46.526869,27.769395,165,0,0,165,0,0,True,True
 2020-06-12,ROU,Romania,Vrancea,45.788059,26.980214,742,0,0,742,0,0,True,True
+2020-06-12,RUS,Russian Fed.,Adygea,44.448835,40.254013,1251,12,708,531,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Altai,52.477021,83.868816,2659,19,1569,1071,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Altai Republic,,,220,0,124,96,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Amur,53.418482,127.711639,914,5,345,564,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,3474,16,1028,2430,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,2630,24,1560,1046,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,4348,18,1759,2571,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Belgorod,50.881793,37.359083,3207,33,2035,1139,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Bryansk,52.910301,33.406285,4825,32,3431,1362,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Buryatia,54.550455,112.36994,2110,11,1235,864,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Chechnya,43.26872,45.799182,1441,17,1121,303,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,4221,37,2187,1997,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Chukotka,,,120,1,70,49,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,3878,18,2030,1830,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Dagestan,43.035568,46.873874,6367,309,4688,1370,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Ingushetia,43.40517,44.8203,2510,62,1850,598,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Irkutsk,57.084283,106.290867,3656,20,980,2656,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Ivanovo,56.999219,41.726645,3228,27,1348,1853,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Jewish AO,48.480815,131.765737,367,4,275,88,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kabardino-Balkaria,43.346964,43.521389,3734,35,1874,1825,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kaliningrad,54.706026,21.456853,1984,31,976,977,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kalmykia,46.421462,45.383808,1233,18,776,439,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kaluga,54.355521,35.465025,4923,39,2444,2440,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kamchatka,61.434398,166.788413,1360,10,413,937,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Karachay-Cherkessia,43.884514,41.730394,1969,9,509,1451,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kemerovo,54.775411,87.209993,929,7,373,549,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Khabarovsk,50.88285,138.828598,2869,19,1443,1407,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Khakassia,53.363558,89.854091,1266,10,902,354,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Khanty-Mansi AO,61.853095,70.345732,4157,24,1657,2476,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kirov,58.699332,49.846004,2479,23,1478,978,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Komi Republic,64.131117,54.772128,1929,28,1019,882,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kostroma,58.452918,43.818089,1066,12,575,479,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Krasnodar,44.412298,39.233582,4815,49,3617,1149,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Krasnoyarsk,67.008246,95.991218,6159,64,2129,3966,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kurgan,55.471375,64.816337,355,0,212,143,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Kursk,51.702506,36.127326,3839,20,2103,1716,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Leningrad,59.999111,31.74764,3448,23,2578,847,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Lipetsk,52.634465,39.187179,2878,9,1210,1659,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Magadan,62.70596,154.035695,432,4,220,208,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Mari El,56.601523,47.942953,2283,17,2026,240,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Mordovia,54.520508,45.58471,2480,20,1327,1133,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Moscow,55.644315,37.666104,250846,3853,132979,114014,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Murmansk,67.805244,34.572247,3818,7,2663,1148,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Nenets,,,81,0,32,49,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,13562,159,6580,6823,0,0,False,False
+2020-06-12,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,3477,58,3186,233,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Novgorod,58.280449,32.556615,1913,12,472,1429,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,4069,50,1907,2112,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Omsk,56.091609,73.362497,2063,23,1189,851,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Orenburg,52.670841,53.546526,2643,11,1872,760,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Oryol,52.792407,36.484837,3392,35,1655,1702,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Penza,53.186558,44.659811,3535,28,2823,684,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Perm,59.150725,56.240625,2506,38,1689,779,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Primorsky,45.185147,134.763918,2702,26,1634,1042,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Pskov,57.223881,29.258821,1535,16,506,1013,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Republic of Crimea,45.332961,34.380235,662,10,508,144,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Republic of Karelia,63.15587,32.990555,702,2,279,421,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Rostov,47.737084,41.33971,7152,64,2831,4257,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Ryazan,54.306865,40.654571,4345,11,2007,2327,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Saint Petersburg,59.771022,30.094098,20043,561,9276,10206,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Sakhalin,50.334829,142.702744,305,0,71,234,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Samara,53.288173,50.470943,3548,40,1741,1767,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Saratov,51.590364,46.830634,4362,37,1980,2345,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Smolensk,54.928337,33.012683,3609,47,1394,2168,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Stavropol,44.927805,43.400088,3509,67,1846,1596,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Sverdlovsk,58.614763,61.561667,8826,48,3912,4866,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tambov,52.657489,41.637192,3770,10,1788,1972,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,3823,10,3611,202,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tomsk,58.476777,82.134382,1167,11,564,592,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tula,53.879118,37.584039,5147,56,3170,1921,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tuva,94.79304,51.591419,2203,2,373,1828,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tver,57.063361,34.74855,2488,50,1611,827,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Tyumen,57.665236,69.167506,2069,13,1222,834,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,1053,12,551,490,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Ulyanovsk,53.904749,47.963072,3633,18,1255,2360,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Vladimir,55.994787,40.691957,3390,44,1667,1679,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Volgograd,49.599612,44.184682,4460,25,1732,2703,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Vologda,59.970929,40.523416,1221,13,693,515,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Voronezh,50.959752,40.309955,3993,21,1944,2028,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Yakutia,65.300749,134.148224,2898,20,1751,1127,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,3086,15,1487,1584,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,3963,16,1639,2308,0,0,False,False
+2020-06-12,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,1841,40,1076,725,0,0,False,False
 2020-06-12,SMR,San Marino,San Marino,43.942973,12.460035,691,42,0,649,0,0,False,False
 2020-06-12,SRB,Serbia,Serbia,44.206802,20.911009,12102,252,0,11850,0,0,False,True
 2020-06-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,106,0,0,106,0,0,True,True
@@ -48405,5 +48626,72 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,SVK,Slovakia,Trencín,48.858564,18.202196,178,0,0,178,0,0,True,True
 2020-06-12,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-12,SVK,Slovakia,Zilina,49.178517,19.167163,192,0,0,192,0,0,True,True
+2020-06-12,ESP,Spain,Andalucía,37.46363,-4.573552,12814,1404,0,11410,6307,789,True,True
+2020-06-12,ESP,Spain,Aragón,41.519884,-0.660302,5833,826,0,5007,2677,273,True,True
+2020-06-12,ESP,Spain,Canarias,28.291062,-16.55631,2374,151,0,2223,950,184,True,True
+2020-06-12,ESP,Spain,Cantabria,43.196326,-4.034401,2327,202,0,2125,1052,80,True,True
+2020-06-12,ESP,Spain,Castilla y León,41.751205,-4.788185,19296,1928,0,17368,8719,622,True,True
+2020-06-12,ESP,Spain,Castilla-La Mancha,39.254442,-3.160863,17740,2945,0,14795,9378,660,True,True
+2020-06-12,ESP,Spain,Cataluña,41.798,1.528534,59593,5587,0,54006,29264,2979,True,True
+2020-06-12,ESP,Spain,Ciudad Autónoma de Ceuta,35.895759,-5.358194,163,4,0,159,14,4,True,True
+2020-06-12,ESP,Spain,Ciudad Autónoma de Melilla,35.298249,-2.948653,122,2,0,120,44,3,True,True
+2020-06-12,ESP,Spain,Comunidad de Madrid,40.494962,-3.716057,70231,8691,0,61540,42208,3595,True,True
+2020-06-12,ESP,Spain,Comunidad Foral de Navarra,42.667549,-1.647658,5308,490,0,4818,2040,136,True,True
+2020-06-12,ESP,Spain,Comunidad Valenciana,39.390435,-0.543007,11389,1332,0,10057,5805,741,True,True
+2020-06-12,ESP,Spain,Extremadura,39.191409,-6.150692,2984,508,0,2476,1772,138,True,True
+2020-06-12,ESP,Spain,Galicia,42.757079,-7.910384,9157,609,0,8548,2933,336,True,True
+2020-06-12,ESP,Spain,Illes Balears,39.613452,2.956607,2146,209,0,1937,1168,169,True,True
+2020-06-12,ESP,Spain,La Rioja,42.275075,-2.517177,4066,362,0,3704,1488,91,True,True
+2020-06-12,ESP,Spain,País Vasco,43.032149,-2.62166,13603,1424,0,12179,6971,578,True,True
+2020-06-12,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2435,314,0,2121,1115,127,True,True
+2020-06-12,ESP,Spain,Región de Murcia,38.002069,-1.485219,1628,148,0,1480,679,112,True,True
+2020-06-12,SWE,Sweden,Blekinge,56.279696,15.193246,343,0,0,343,0,0,True,True
+2020-06-12,SWE,Sweden,Dalarna,60.952955,14.350603,1372,0,0,1372,0,0,True,True
+2020-06-12,SWE,Sweden,Gävleborg,61.440899,16.291105,1696,0,0,1696,0,0,True,True
+2020-06-12,SWE,Sweden,Gotland,57.487051,18.510063,106,0,0,106,0,0,True,True
+2020-06-12,SWE,Sweden,Halland,56.953555,12.842898,1020,0,0,1020,0,0,True,True
+2020-06-12,SWE,Sweden,Jämtland,63.251956,14.312747,862,0,0,862,0,0,True,True
+2020-06-12,SWE,Sweden,Jönköping,57.499911,14.436577,2137,0,0,2137,0,0,True,True
+2020-06-12,SWE,Sweden,Kalmar,57.245033,16.053939,457,0,0,457,0,0,True,True
+2020-06-12,SWE,Sweden,Kronoberg,56.786938,14.574736,975,0,0,975,0,0,True,True
+2020-06-12,SWE,Sweden,Norrbotten,66.954122,20.083057,570,0,0,570,0,0,True,True
+2020-06-12,SWE,Sweden,NOT SPECIFIED,,,0,4854,0,-4854,0,2260,True,True
+2020-06-12,SWE,Sweden,Örebro,59.350249,14.974992,2077,0,0,2077,0,0,True,True
+2020-06-12,SWE,Sweden,Östergötland,58.354622,15.661533,2418,0,0,2418,0,0,True,True
+2020-06-12,SWE,Sweden,Skåne,55.948711,13.596415,2198,0,0,2198,0,0,True,True
+2020-06-12,SWE,Sweden,Södermanland,59.077751,16.685977,1688,0,0,1688,0,0,True,True
+2020-06-12,SWE,Sweden,Stockholm,59.370877,17.711874,15673,0,0,15673,0,0,True,True
+2020-06-12,SWE,Sweden,Uppsala,60.039134,17.672887,2400,0,0,2400,0,0,True,True
+2020-06-12,SWE,Sweden,Värmland,59.768908,13.153806,723,0,0,723,0,0,True,True
+2020-06-12,SWE,Sweden,Västerbotten,64.862069,17.819194,563,0,0,563,0,0,True,True
+2020-06-12,SWE,Sweden,Västernorrland,63.096635,17.251241,971,0,0,971,0,0,True,True
+2020-06-12,SWE,Sweden,Västmanland,59.801595,16.318208,1683,0,0,1683,0,0,True,True
+2020-06-12,SWE,Sweden,Västra Götaland,58.303302,12.891496,9752,0,0,9752,0,0,True,True
 2020-06-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,0,0,0,0,0,0,False,False
 2020-06-12,TUR,Turkey,Turkey,38.961515,35.25175,174023,4763,0,169260,0,0,False,True
+2020-06-12,UKR,Ukraine,Cherkasy,49.253559,31.378329,517,0,352,165,0,0,False,False
+2020-06-12,UKR,Ukraine,Chernihiv,51.347162,32.016707,366,0,81,285,0,0,False,False
+2020-06-12,UKR,Ukraine,Chernivtsi,48.269841,25.97109,3831,0,1200,2631,0,0,False,False
+2020-06-12,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,983,0,702,281,0,0,False,False
+2020-06-12,UKR,Ukraine,Donetsk,48.04733,37.669412,279,0,122,157,0,0,False,False
+2020-06-12,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,1669,0,1001,668,0,0,False,False
+2020-06-12,UKR,Ukraine,Kharkiv,49.612761,36.514406,1426,0,692,734,0,0,False,False
+2020-06-12,UKR,Ukraine,Kherson,46.66268,33.577394,179,0,174,5,0,0,False,False
+2020-06-12,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,529,0,387,142,0,0,False,False
+2020-06-12,UKR,Ukraine,Kiev region,49.843123,30.727949,1931,0,648,1283,0,0,False,False
+2020-06-12,UKR,Ukraine,Kirovograd,48.507933,32.262317,568,0,453,115,0,0,False,False
+2020-06-12,UKR,Ukraine,Kyiv,50.427074,30.530672,3766,0,1132,2634,0,0,False,False
+2020-06-12,UKR,Ukraine,Lugansk,48.574041,39.307815,54,0,45,9,0,0,False,False
+2020-06-12,UKR,Ukraine,Lviv,49.724836,23.921202,2526,0,598,1928,0,0,False,False
+2020-06-12,UKR,Ukraine,Mykolaiv,47.369854,31.706007,316,0,206,110,0,0,False,False
+2020-06-12,UKR,Ukraine,NOT SPECIFIED,,,0,870,0,-870,0,0,False,False
+2020-06-12,UKR,Ukraine,Odessa,46.891548,30.547979,1065,0,422,643,0,0,False,False
+2020-06-12,UKR,Ukraine,Poltava,49.713595,33.811322,277,0,256,21,0,0,False,False
+2020-06-12,UKR,Ukraine,Rivne,51.043432,26.397584,2231,0,1194,1037,0,0,False,False
+2020-06-12,UKR,Ukraine,Sumy,51.393248,33.665627,204,0,161,43,0,0,False,False
+2020-06-12,UKR,Ukraine,Ternopil,49.402562,25.640005,1372,0,1007,365,0,0,False,False
+2020-06-12,UKR,Ukraine,Transcarpathian,48.405051,23.281219,1506,0,675,831,0,0,False,False
+2020-06-12,UKR,Ukraine,Vinnytsia,48.926546,28.692087,1317,0,832,485,0,0,False,False
+2020-06-12,UKR,Ukraine,Volyn,51.202858,24.883489,1313,0,378,935,0,0,False,False
+2020-06-12,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,515,0,322,193,0,0,False,False
+2020-06-12,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1013,0,540,473,0,0,False,False
