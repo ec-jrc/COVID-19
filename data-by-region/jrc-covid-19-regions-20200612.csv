@@ -13,16 +13,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-10,ALB,Albania,Tiranë,41.268583,19.793936,688,21,443,224,25,5,False,False
 2020-06-10,ALB,Albania,Vlorë,40.162418,19.793592,5,1,4,0,0,0,False,False
 2020-06-11,AND,Andorra,Andorra,42.542268,1.596865,852,51,0,801,0,0,False,False
-2020-06-11,AUT,Austria,Burgenland,47.541449,16.520206,346,11,332,3,0,0,True,True
-2020-06-11,AUT,Austria,Kärnten,46.715832,14.455532,415,13,401,1,0,0,True,True
-2020-06-11,AUT,Austria,Niederösterreich,48.27051,15.763245,2888,97,2725,66,0,0,True,True
-2020-06-11,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,23,True,True
-2020-06-11,AUT,Austria,Oberösterreich,48.138166,13.964295,2316,58,2231,27,0,0,True,True
-2020-06-11,AUT,Austria,Salzburg,47.254051,13.032653,1240,37,1200,3,0,0,True,True
-2020-06-11,AUT,Austria,Steiermark,47.187361,15.518046,1831,137,1686,8,0,0,True,True
-2020-06-11,AUT,Austria,Tirol,47.209023,11.397603,3547,102,3436,9,0,0,True,True
-2020-06-11,AUT,Austria,Vorarlberg,47.240149,9.896366,908,18,878,12,0,0,True,True
-2020-06-11,AUT,Austria,Wien,48.21141,16.380038,3488,174,3021,293,0,0,True,True
+2020-06-12,AUT,Austria,Burgenland,47.541449,16.520206,346,11,332,3,0,0,True,True
+2020-06-12,AUT,Austria,Kärnten,46.715832,14.455532,415,13,401,1,0,0,True,True
+2020-06-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2889,97,2742,50,0,0,True,True
+2020-06-12,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,23,True,True
+2020-06-12,AUT,Austria,Oberösterreich,48.138166,13.964295,2324,58,2232,34,0,0,True,True
+2020-06-12,AUT,Austria,Salzburg,47.254051,13.032653,1240,37,1201,2,0,0,True,True
+2020-06-12,AUT,Austria,Steiermark,47.187361,15.518046,1828,137,1686,5,0,0,True,True
+2020-06-12,AUT,Austria,Tirol,47.209023,11.397603,3547,102,3436,9,0,0,True,True
+2020-06-12,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,878,13,0,0,True,True
+2020-06-12,AUT,Austria,Wien,48.21141,16.380038,3488,175,3041,272,0,0,True,True
 2020-06-11,BLR,Belarus,Belarus,53.711111,27.973847,51066,288,0,50778,0,0,False,False
 2020-06-11,BEL,Belgium,Brussels,50.836426,4.367415,6134,1469,0,4665,2615,0,True,True
 2020-06-11,BEL,Belgium,Flanders,51.036569,4.234165,33611,4824,0,28787,9676,0,True,True
@@ -525,7 +525,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-11,SWE,Sweden,Västmanland,59.801595,16.318208,1606,0,0,1606,0,0,True,True
 2020-06-11,SWE,Sweden,Västra Götaland,58.303302,12.891496,9255,0,0,9255,0,0,True,True
 2020-06-08,CHE,Switzerland,Aargau,47.410914,8.159107,1216,46,1145,25,3,2,False,False
-2020-06-08,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,1,False,False
+2020-06-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,0,0,0,0,0,0,False,False
 2020-06-08,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,1,0,False,False
 2020-06-11,CHE,Switzerland,Basel City,47.561925,7.592768,983,50,929,4,0,0,False,False
 2020-06-08,CHE,Switzerland,Basel Country,47.441812,7.7644,845,35,804,6,2,1,False,False
