@@ -48157,6 +48157,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-11,SWE,Sweden,Västra Götaland,58.303302,12.891496,9255,0,0,9255,0,0,True,True
 2020-06-11,CHE,Switzerland,Basel City,47.561925,7.592768,983,50,929,4,0,0,False,False
 2020-06-11,TUR,Turkey,Turkey,38.961515,35.25175,173036,4746,0,168290,0,0,False,True
+2020-06-12,AND,Andorra,Andorra,42.542268,1.596865,852,51,0,801,0,0,False,False
 2020-06-12,AUT,Austria,Burgenland,47.541449,16.520206,346,11,332,3,0,0,True,True
 2020-06-12,AUT,Austria,Kärnten,46.715832,14.455532,415,13,401,1,0,0,True,True
 2020-06-12,AUT,Austria,Niederösterreich,48.27051,15.763245,2889,97,2742,50,0,0,True,True
@@ -48250,6 +48251,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-12,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-12,HUN,Hungary,Veszprém,47.131402,17.65231,66,0,0,66,0,0,True,True
 2020-06-12,HUN,Hungary,Zala,46.692149,16.903237,260,0,0,260,0,0,True,True
+2020-06-12,POL,Poland,Dolnośląskie,51.07994,16.381483,2750,124,0,2626,0,0,True,True
+2020-06-12,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,610,47,0,563,0,0,True,True
+2020-06-12,POL,Poland,Łódzkie,51.559579,19.408271,2330,101,0,2229,0,0,True,True
+2020-06-12,POL,Poland,Lubelskie,51.247253,22.908895,524,16,0,508,0,0,True,True
+2020-06-12,POL,Poland,Lubuskie,52.206458,15.345515,130,0,0,130,0,0,True,True
+2020-06-12,POL,Poland,Małopolskie,49.842031,20.300847,1474,40,0,1434,0,0,True,True
+2020-06-12,POL,Poland,Mazowieckie,52.309134,21.081201,4240,297,0,3943,0,0,True,True
+2020-06-12,POL,Poland,Opolskie,50.621436,17.876844,772,49,0,723,0,0,True,True
+2020-06-12,POL,Poland,Podkarpackie,49.962818,22.225966,422,38,0,384,0,0,True,True
+2020-06-12,POL,Poland,Podlaskie,53.28395,22.895092,576,9,0,567,0,0,True,True
+2020-06-12,POL,Poland,Pomorskie,54.129033,18.012613,581,37,0,544,0,0,True,True
+2020-06-12,POL,Poland,Śląskie,50.318293,18.999987,10473,255,0,10218,0,0,True,True
+2020-06-12,POL,Poland,Świętokrzyskie,50.734202,20.797295,596,26,0,570,0,0,True,True
+2020-06-12,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,185,1,0,184,0,0,True,True
+2020-06-12,POL,Poland,Wielkopolskie,52.283858,17.248218,2345,163,0,2182,0,0,True,True
+2020-06-12,POL,Poland,Zachodniopomorskie,53.582707,15.634824,569,19,0,550,0,0,True,True
 2020-06-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,106,0,0,106,0,0,True,True
 2020-06-12,SVK,Slovakia,Bratislava,48.319003,17.17481,368,0,0,368,0,0,True,True
 2020-06-12,SVK,Slovakia,Košice,48.771358,20.721931,271,0,0,271,0,0,True,True
