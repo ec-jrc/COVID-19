@@ -49230,6 +49230,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-13,UKR,Ukraine,Volyn,51.202858,24.883489,1354,0,444,910,0,0,False,False
 2020-06-13,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,521,0,335,186,0,0,False,False
 2020-06-13,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1032,0,547,485,0,0,False,False
+2020-06-14,AND,Andorra,Andorra,42.542268,1.596865,853,51,0,802,0,0,False,False
 2020-06-14,AUT,Austria,Burgenland,47.541449,16.520206,343,11,329,3,0,0,True,True
 2020-06-14,AUT,Austria,Kärnten,46.715832,14.455532,415,13,401,1,0,0,True,True
 2020-06-14,AUT,Austria,Niederösterreich,48.27051,15.763245,2904,99,2750,55,0,0,True,True
@@ -49310,3 +49311,4 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-14,SVK,Slovakia,Trencín,48.858564,18.202196,178,0,0,178,0,0,True,True
 2020-06-14,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-14,SVK,Slovakia,Zilina,49.178517,19.167163,192,0,0,192,0,0,True,True
+2020-06-14,CHE,Switzerland,Bern,46.825006,7.626925,1933,97,0,1836,1,0,False,False
