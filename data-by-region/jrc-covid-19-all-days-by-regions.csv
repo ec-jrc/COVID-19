@@ -49728,6 +49728,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-14,SVK,Slovakia,Trencín,48.858564,18.202196,178,0,0,178,0,0,True,True
 2020-06-14,SVK,Slovakia,Trnava,48.222651,17.707847,124,0,0,124,0,0,True,True
 2020-06-14,SVK,Slovakia,Zilina,49.178517,19.167163,192,0,0,192,0,0,True,True
+2020-06-14,SVN,Slovenia,NOT SPECIFIED,,,1496,109,294,1093,0,0,True,True
 2020-06-14,ESP,Spain,Andalucía,37.46363,-4.573552,12827,1404,0,11423,6311,789,True,True
 2020-06-14,ESP,Spain,Aragón,41.519884,-0.660302,5840,826,0,5014,2677,273,True,True
 2020-06-14,ESP,Spain,Canarias,28.291062,-16.55631,2378,151,0,2227,950,184,True,True
@@ -49918,10 +49919,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,LVA,Latvia,Latvia,56.875584,24.607722,1097,28,0,1069,0,0,True,True
 2020-06-15,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-15,LTU,Lithuania,Lithuania,55.174112,23.906736,1768,75,0,1693,0,0,True,True
+2020-06-15,MLT,Malta,Malta,35.946151,14.384612,650,9,603,38,0,0,True,True
 2020-06-15,MDA,Moldova,Moldova,46.979527,28.377195,11740,406,0,11334,0,0,False,False
 2020-06-15,MCO,Monaco,Monaco,43.738348,7.424451,99,5,0,94,0,0,False,False
 2020-06-15,MNE,Montenegro,Montenegro,42.710152,19.410069,325,9,0,316,0,0,False,True
 2020-06-15,MKD,North Macedonia,North Macedonia,41.611,21.751417,4057,188,0,3869,0,0,False,True
+2020-06-15,POL,Poland,Dolnośląskie,51.07994,16.381483,2767,126,0,2641,0,0,True,True
+2020-06-15,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,626,49,0,577,0,0,True,True
+2020-06-15,POL,Poland,Łódzkie,51.559579,19.408271,2479,107,0,2372,0,0,True,True
+2020-06-15,POL,Poland,Lubelskie,51.247253,22.908895,544,16,0,528,0,0,True,True
+2020-06-15,POL,Poland,Lubuskie,52.206458,15.345515,133,0,0,133,0,0,True,True
+2020-06-15,POL,Poland,Małopolskie,49.842031,20.300847,1517,40,0,1477,0,0,True,True
+2020-06-15,POL,Poland,Mazowieckie,52.309134,21.081201,4414,300,0,4114,0,0,True,True
+2020-06-15,POL,Poland,Opolskie,50.621436,17.876844,803,50,0,753,0,0,True,True
+2020-06-15,POL,Poland,Podkarpackie,49.962818,22.225966,472,40,0,432,0,0,True,True
+2020-06-15,POL,Poland,Podlaskie,53.28395,22.895092,621,9,0,612,0,0,True,True
+2020-06-15,POL,Poland,Pomorskie,54.129033,18.012613,588,38,0,550,0,0,True,True
+2020-06-15,POL,Poland,Śląskie,50.318293,18.999987,11030,269,0,10761,0,0,True,True
+2020-06-15,POL,Poland,Świętokrzyskie,50.734202,20.797295,625,26,0,599,0,0,True,True
+2020-06-15,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,186,1,0,185,0,0,True,True
+2020-06-15,POL,Poland,Wielkopolskie,52.283858,17.248218,2400,165,0,2235,0,0,True,True
+2020-06-15,POL,Poland,Zachodniopomorskie,53.582707,15.634824,583,20,0,563,0,0,True,True
 2020-06-15,ROU,Romania,Alba,46.172367,23.487279,412,0,0,412,0,0,True,True
 2020-06-15,ROU,Romania,Arad,46.273235,21.758454,703,0,0,703,0,0,True,True
 2020-06-15,ROU,Romania,Argeș,,,365,0,0,365,0,0,True,True
