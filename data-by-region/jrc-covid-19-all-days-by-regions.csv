@@ -27042,10 +27042,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-05-05,AUT,Austria,Vorarlberg,47.240149,9.896366,885,18,828,39,0,0,True,True
 2020-05-05,AUT,Austria,Wien,48.21141,16.380038,2600,135,1902,563,0,0,True,True
 2020-05-05,BLR,Belarus,Belarus,53.711111,27.973847,17489,103,0,17386,0,0,False,False
-2020-05-05,BEL,Belgium,Brussels,50.836426,4.367415,5341,1305,0,4036,0,0,True,True
-2020-05-05,BEL,Belgium,Flanders,51.036569,4.234165,28947,4182,0,24765,0,0,True,True
-2020-05-05,BEL,Belgium,NOT SPECIFIED,,,1101,0,0,1101,0,0,True,True
-2020-05-05,BEL,Belgium,Wallonia,50.312074,5.019093,16761,2955,0,13806,0,0,True,True
+2020-05-05,BEL,Belgium,Brussels,50.836426,4.367415,5341,1305,,,502,109,True,True
+2020-05-05,BEL,Belgium,Flanders,51.036569,4.234165,28947,4182,,,1561,318,True,True
+2020-05-05,BEL,Belgium,NOT SPECIFIED,,,1101,0,,,0,0,True,True
+2020-05-05,BEL,Belgium,Wallonia,50.312074,5.019093,16761,2955,,,805,155,True,True
 2020-05-05,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,942,33,0,909,0,0,False,False
 2020-05-05,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,55,4,2,49,0,0,True,True
 2020-05-05,BGR,Bulgaria,Burgas,42.491848,27.306892,47,1,14,32,0,0,True,True
@@ -49968,6 +49968,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,MDA,Moldova,Moldova,46.979527,28.377195,11740,406,0,11334,0,0,False,False
 2020-06-15,MCO,Monaco,Monaco,43.738348,7.424451,99,5,0,94,0,0,False,False
 2020-06-15,MNE,Montenegro,Montenegro,42.710152,19.410069,325,9,0,316,0,0,False,True
+2020-06-15,NLD,Netherlands,Drenthe,52.863149,6.623756,531,0,0,531,0,0,True,True
+2020-06-15,NLD,Netherlands,Flevoland,52.436257,5.519078,966,0,0,966,0,0,True,True
+2020-06-15,NLD,Netherlands,Friesland,53.089388,5.871457,630,0,0,630,0,0,True,True
+2020-06-15,NLD,Netherlands,Gelderland,52.061726,5.945178,6463,0,0,6463,0,0,True,True
+2020-06-15,NLD,Netherlands,Groningen,53.291466,6.700488,357,0,0,357,0,0,True,True
+2020-06-15,NLD,Netherlands,Limburg,51.207579,5.936318,4847,0,0,4847,0,0,True,True
+2020-06-15,NLD,Netherlands,North Brabant,51.527534,5.590194,9586,0,0,9586,0,0,True,True
+2020-06-15,NLD,Netherlands,North Holland,52.551824,4.876581,7067,0,0,7067,0,0,True,True
+2020-06-15,NLD,Netherlands,NOT SPECIFIED,,,0,6065,0,-6065,11831,0,True,True
+2020-06-15,NLD,Netherlands,Overijssel,52.445136,6.4476,3052,0,0,3052,0,0,True,True
+2020-06-15,NLD,Netherlands,South Holland,51.968696,4.541274,10820,0,0,10820,0,0,True,True
+2020-06-15,NLD,Netherlands,Utrecht,52.078728,5.214048,3901,0,0,3901,0,0,True,True
+2020-06-15,NLD,Netherlands,Zeeland,51.312779,3.786651,728,0,0,728,0,0,True,True
 2020-06-15,MKD,North Macedonia,North Macedonia,41.611,21.751417,4057,188,0,3869,0,0,False,True
 2020-06-15,POL,Poland,Dolnośląskie,51.07994,16.381483,2767,126,0,2641,0,0,True,True
 2020-06-15,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,626,49,0,577,0,0,True,True
@@ -49985,6 +49998,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,186,1,0,185,0,0,True,True
 2020-06-15,POL,Poland,Wielkopolskie,52.283858,17.248218,2400,165,0,2235,0,0,True,True
 2020-06-15,POL,Poland,Zachodniopomorskie,53.582707,15.634824,583,20,0,563,0,0,True,True
+2020-06-15,PRT,Portugal,Açores,37.775525,-25.494927,143,15,0,128,0,0,True,True
+2020-06-15,PRT,Portugal,Alentejo,38.485499,-8.006668,287,2,0,285,0,0,True,True
+2020-06-15,PRT,Portugal,Algarve,37.218389,-8.198488,399,15,0,384,0,0,True,True
+2020-06-15,PRT,Portugal,Centro,40.111812,-8.012768,3892,246,0,3646,0,0,True,True
+2020-06-15,PRT,Portugal,Lisbon,38.623843,-8.88436,15128,429,0,14699,0,0,True,True
+2020-06-15,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,0,90,0,0,True,True
+2020-06-15,PRT,Portugal,Norte,41.457206,-7.678153,17097,813,0,16284,0,0,True,True
+2020-06-15,PRT,Portugal,NOT SPECIFIED,,,0,0,22852,-22852,0,0,True,True
 2020-06-15,ROU,Romania,Alba,46.172367,23.487279,412,0,0,412,0,0,True,True
 2020-06-15,ROU,Romania,Arad,46.273235,21.758454,703,0,0,703,0,0,True,True
 2020-06-15,ROU,Romania,Argeș,,,365,0,0,365,0,0,True,True
