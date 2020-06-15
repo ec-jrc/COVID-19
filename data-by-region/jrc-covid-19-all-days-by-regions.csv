@@ -49883,6 +49883,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,CZE,Czech Republic,Ústecký,50.488308,13.816736,569,0,0,569,0,0,True,True
 2020-06-15,CZE,Czech Republic,Vysocina,49.40736,15.689937,187,0,0,187,0,0,True,True
 2020-06-15,CZE,Czech Republic,Zlínský,49.239654,17.770218,374,0,0,374,0,0,True,True
+2020-06-15,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,0,187,0,0,True,True
+2020-06-15,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,0,13,0,0,True,True
+2020-06-15,DNK,Denmark,Hovedstaden,55.675758,12.56902,7047,347,0,6700,0,0,True,True
+2020-06-15,DNK,Denmark,Midtjylland,56.302139,9.302777,1621,69,0,1552,0,0,True,True
+2020-06-15,DNK,Denmark,Nordjylland,56.830742,9.493053,473,22,0,451,0,0,True,True
+2020-06-15,DNK,Denmark,Sjælland,55.92481,11.67126,1967,123,0,1844,0,0,True,True
+2020-06-15,DNK,Denmark,Syddanmark,55.675758,12.56902,1031,35,0,996,0,0,True,True
 2020-06-15,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,0,0,18,0,0,True,True
 2020-06-15,FIN,Finland,Etelä-Karjala,61.217899,28.550289,25,0,0,25,0,0,True,True
 2020-06-15,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,0,0,46,0,0,True,True
@@ -49943,6 +49950,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-15,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
 2020-06-15,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
+2020-06-15,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
+2020-06-15,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
+2020-06-15,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1320,0,0,1320,0,0,False,True
+2020-06-15,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
+2020-06-15,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
+2020-06-15,ISL,Iceland,NOT SPECIFIED,,,3,0,0,3,0,0,False,True
+2020-06-15,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
+2020-06-15,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
+2020-06-15,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
+2020-06-15,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
 2020-06-15,IRL,Ireland,Ireland,53.41975,-8.240472,25303,1706,0,23597,0,0,True,True
 2020-06-15,LVA,Latvia,Latvia,56.875584,24.607722,1097,28,0,1069,0,0,True,True
 2020-06-15,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
