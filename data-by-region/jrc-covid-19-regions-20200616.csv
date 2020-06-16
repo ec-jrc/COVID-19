@@ -239,16 +239,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-15,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-15,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
 2020-06-15,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
-2020-06-16,ISL,Iceland,Abroad,,,1,0,0,1,0,0,False,True
-2020-06-16,ISL,Iceland,East Iceland,64.832997,-15.743398,8,0,0,8,0,0,False,True
-2020-06-16,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1320,0,0,1320,0,0,False,True
-2020-06-16,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,0,0,46,0,0,False,True
-2020-06-16,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,0,0,35,0,0,False,True
-2020-06-16,ISL,Iceland,NOT SPECIFIED,,,3,0,0,3,0,0,False,True
-2020-06-16,ISL,Iceland,South Iceland,64.135334,-19.242939,179,0,0,179,0,0,False,True
-2020-06-16,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,0,0,77,0,0,False,True
-2020-06-16,ISL,Iceland,West Fjords,65.820831,-21.86654,97,0,0,97,0,0,False,True
-2020-06-16,ISL,Iceland,West Iceland,64.843136,-21.691436,44,0,0,44,0,0,False,True
+2020-06-16,ISL,Iceland,Abroad,,,1,,,,,,False,True
+2020-06-16,ISL,Iceland,East Iceland,64.832997,-15.743398,8,,,,,,False,True
+2020-06-16,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1322,,,,,,False,True
+2020-06-16,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,,,,,,False,True
+2020-06-16,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,,,,,,False,True
+2020-06-16,ISL,Iceland,NOT SPECIFIED,,,3,,,,,,False,True
+2020-06-16,ISL,Iceland,South Iceland,64.135334,-19.242939,179,,,,,,False,True
+2020-06-16,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,,,,,,False,True
+2020-06-16,ISL,Iceland,West Fjords,65.820831,-21.86654,97,,,,,,False,True
+2020-06-16,ISL,Iceland,West Iceland,64.843136,-21.691436,44,,,,,,False,True
 2020-06-16,IRL,Ireland,Ireland,53.41975,-8.240472,25321,1706,0,23615,0,0,True,True
 2020-06-15,ITA,Italy,Abruzzo,42.228034,13.855137,3279,456,2337,486,0,0,True,True
 2020-06-15,ITA,Italy,Basilicata,40.500665,16.082246,401,27,363,11,0,0,True,True
