@@ -50865,6 +50865,45 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-16,UKR,Ukraine,Volyn,51.202858,24.883489,1499,,460,,,,False,False
 2020-06-16,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,531,,336,,,,False,False
 2020-06-16,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1101,,559,,,,False,False
+2020-06-17,AUT,Austria,Burgenland,47.541449,16.520206,343,11,329,3,,,True,True
+2020-06-17,AUT,Austria,Kärnten,46.715832,14.455532,419,13,401,5,,,True,True
+2020-06-17,AUT,Austria,Niederösterreich,48.27051,15.763245,2923,99,2753,71,,,True,True
+2020-06-17,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,12,True,True
+2020-06-17,AUT,Austria,Oberösterreich,48.138166,13.964295,2327,58,2235,34,,,True,True
+2020-06-17,AUT,Austria,Salzburg,47.254051,13.032653,1240,37,1201,2,,,True,True
+2020-06-17,AUT,Austria,Steiermark,47.187361,15.518046,1831,138,1690,3,,,True,True
+2020-06-17,AUT,Austria,Tirol,47.209023,11.397603,3547,101,3440,6,,,True,True
+2020-06-17,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,882,9,,,True,True
+2020-06-17,AUT,Austria,Wien,48.21141,16.380038,3628,184,3158,286,,,True,True
+2020-06-17,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,151,10,10,131,,,True,True
+2020-06-17,BGR,Bulgaria,Burgas,42.491848,27.306892,57,1,19,37,,,True,True
+2020-06-17,BGR,Bulgaria,Dobrich,43.65074,27.936751,19,0,2,17,,,True,True
+2020-06-17,BGR,Bulgaria,Gabrovo,42.931879,25.247163,15,1,2,12,,,True,True
+2020-06-17,BGR,Bulgaria,Haskovo,41.849113,25.942349,38,1,7,30,,,True,True
+2020-06-17,BGR,Bulgaria,Kardzhali,41.527042,25.441477,39,0,4,35,,,True,True
+2020-06-17,BGR,Bulgaria,Kyustendil,42.255307,22.869974,117,3,20,94,,,True,True
+2020-06-17,BGR,Bulgaria,Lovech,43.035259,24.5688,12,0,1,11,,,True,True
+2020-06-17,BGR,Bulgaria,Montana,43.496677,23.192363,24,0,0,24,,,True,True
+2020-06-17,BGR,Bulgaria,NOT SPECIFIED,,,0,36,1105,-1141,,,True,True
+2020-06-17,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,222,9,18,195,,,True,True
+2020-06-17,BGR,Bulgaria,Pernik,42.613861,22.853171,44,0,1,43,,,True,True
+2020-06-17,BGR,Bulgaria,Pleven,43.486117,24.610919,261,2,10,249,,,True,True
+2020-06-17,BGR,Bulgaria,Plovdiv,42.257364,24.824903,111,5,64,42,,,True,True
+2020-06-17,BGR,Bulgaria,Razgrad,,,44,0,0,44,,,True,True
+2020-06-17,BGR,Bulgaria,Ruse,43.54059,25.759217,17,0,1,16,,,True,True
+2020-06-17,BGR,Bulgaria,Shumen,43.296516,27.004814,102,1,1,100,,,True,True
+2020-06-17,BGR,Bulgaria,Silistra,43.946163,27.044927,5,1,2,2,,,True,True
+2020-06-17,BGR,Bulgaria,Sliven,42.67034,26.241026,191,11,56,124,,,True,True
+2020-06-17,BGR,Bulgaria,Smolyan,41.628892,24.668089,153,4,33,116,,,True,True
+2020-06-17,BGR,Bulgaria,Sofia City,42.286287,23.616846,1154,56,411,687,,,True,True
+2020-06-17,BGR,Bulgaria,Sofia Region,,,139,0,0,139,,,True,True
+2020-06-17,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,88,3,0,85,,,True,True
+2020-06-17,BGR,Bulgaria,Targovishte,,,9,1,0,8,,,True,True
+2020-06-17,BGR,Bulgaria,Varna,43.186206,27.59493,29,0,11,18,,,True,True
+2020-06-17,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,31,4,5,22,,,True,True
+2020-06-17,BGR,Bulgaria,Vidin,43.797295,22.68621,196,18,14,164,,,True,True
+2020-06-17,BGR,Bulgaria,Vratsa,43.395067,23.759152,17,0,2,15,,,True,True
+2020-06-17,BGR,Bulgaria,Yambol,,,170,14,18,138,,,True,True
 2020-06-17,DEU,Germany,Baden-Württemberg,48.537648,9.049199,35177,1811,,,,,True,True
 2020-06-17,DEU,Germany,Bayern,48.947574,11.419913,47710,2546,,,,,True,True
 2020-06-17,DEU,Germany,Berlin,52.501532,13.40185,7402,209,,,,,True,True
@@ -50904,3 +50943,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-17,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-17,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
 2020-06-17,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
+2020-06-17,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,110,,,,,,True,True
+2020-06-17,SVK,Slovakia,Bratislava,48.319003,17.17481,373,,,,,,True,True
+2020-06-17,SVK,Slovakia,Košice,48.771358,20.721931,273,,,,,,True,True
+2020-06-17,SVK,Slovakia,Nitra,48.140652,18.30311,123,,,,,,True,True
+2020-06-17,SVK,Slovakia,NOT SPECIFIED,,,0,28,1437,-1465,18,0,True,True
+2020-06-17,SVK,Slovakia,Prešov,49.126441,21.221321,187,,,,,,True,True
+2020-06-17,SVK,Slovakia,Trencín,48.858564,18.202196,178,,,,,,True,True
+2020-06-17,SVK,Slovakia,Trnava,48.222651,17.707847,124,,,,,,True,True
+2020-06-17,SVK,Slovakia,Zilina,49.178517,19.167163,193,,,,,,True,True
+2020-06-17,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False
+2020-06-17,CHE,Switzerland,Solothurn,47.336648,7.686944,449,17,0,432,0,0,False,False
+2020-06-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,308,23,284,1,0,0,False,False
