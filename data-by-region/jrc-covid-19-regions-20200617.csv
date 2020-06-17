@@ -148,24 +148,24 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-16,FRA,France,Occitanie,43.703195,2.143601,0,508,2828,-3336,113,16,True,True
 2020-06-16,FRA,France,Pays de la Loire,47.479115,-0.811996,0,461,1941,-2402,262,11,True,True
 2020-06-16,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,927,5174,-6101,708,56,True,True
-2020-06-16,DEU,Germany,Baden-Württemberg,48.537648,9.049199,35150,1808,0,33342,0,0,True,True
-2020-06-16,DEU,Germany,Bayern,48.947574,11.419913,47690,2540,0,45150,0,0,True,True
-2020-06-16,DEU,Germany,Berlin,52.501532,13.40185,7369,208,0,7161,0,0,True,True
-2020-06-16,DEU,Germany,Brandenburg,53.109014,12.140724,3334,163,0,3171,0,0,True,True
-2020-06-16,DEU,Germany,Bremen,53.108678,8.785951,1593,48,0,1545,0,0,True,True
-2020-06-16,DEU,Germany,Hamburg,53.54464,10.027798,5147,255,0,4892,0,0,True,True
-2020-06-16,DEU,Germany,Hessen,50.603242,9.031057,10371,495,0,9876,0,0,True,True
-2020-06-16,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,784,20,0,764,0,0,True,True
-2020-06-16,DEU,Germany,Niedersachsen,52.765527,9.162019,12950,614,0,12336,0,0,True,True
-2020-06-16,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,39415,1648,0,37767,0,0,True,True
-2020-06-16,DEU,Germany,NOT SPECIFIED,,,0,0,173100,-173100,0,0,True,True
+2020-06-17,DEU,Germany,Baden-Württemberg,48.537648,9.049199,35177,1811,,,,,True,True
+2020-06-17,DEU,Germany,Bayern,48.947574,11.419913,47710,2546,,,,,True,True
+2020-06-17,DEU,Germany,Berlin,52.501532,13.40185,7402,209,,,,,True,True
+2020-06-17,DEU,Germany,Brandenburg,53.109014,12.140724,3362,163,,,,,True,True
+2020-06-17,DEU,Germany,Bremen,53.108678,8.785951,1607,49,,,,,True,True
+2020-06-17,DEU,Germany,Hamburg,53.54464,10.027798,5149,257,,,,,True,True
+2020-06-17,DEU,Germany,Hessen,50.603242,9.031057,10386,496,,,,,True,True
+2020-06-17,DEU,Germany,Mecklenburg-Vorpommern,53.721962,12.496035,786,20,,,,,True,True
+2020-06-17,DEU,Germany,Niedersachsen,52.765527,9.162019,12968,615,,,,,True,True
+2020-06-17,DEU,Germany,Nordrhein-Westfalen,51.479706,7.56208,39573,1655,,,,,True,True
+2020-06-17,DEU,Germany,NOT SPECIFIED,,,0,,173600,,,,True,True
 2020-03-03,DEU,Germany,Repatriierte,,,2,,,,,,True,True
-2020-06-16,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,6846,231,0,6615,0,0,True,True
-2020-06-16,DEU,Germany,Saarland,49.384368,6.953135,2773,168,0,2605,0,0,True,True
-2020-06-16,DEU,Germany,Sachsen,51.052334,13.348561,5349,220,0,5129,0,0,True,True
-2020-06-16,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1771,57,0,1714,0,0,True,True
-2020-06-16,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3122,151,0,2971,0,0,True,True
-2020-06-16,DEU,Germany,Thüringen,50.903878,11.02488,3175,174,0,3001,0,0,True,True
+2020-06-17,DEU,Germany,Rheinland-Pfalz,49.50932,7.909356,6856,233,,,,,True,True
+2020-06-17,DEU,Germany,Saarland,49.384368,6.953135,2773,168,,,,,True,True
+2020-06-17,DEU,Germany,Sachsen,51.052334,13.348561,5350,221,,,,,True,True
+2020-06-17,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1775,57,,,,,True,True
+2020-06-17,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3122,152,,,,,True,True
+2020-06-17,DEU,Germany,Thüringen,50.903878,11.02488,3188,178,,,,,True,True
 2020-06-16,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,,True,True
 2020-06-16,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,,True,True
 2020-06-16,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,,True,True
@@ -483,25 +483,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Primorsko-notranjske,45.691165,14.290304,30,0,0,30,0,0,True,True
 2020-04-14,SVN,Slovenia,Savinjske,46.263351,15.195189,258,0,0,258,0,0,True,True
 2020-04-14,SVN,Slovenia,Zasavske,46.133255,15.086872,26,0,0,26,0,0,True,True
-2020-06-15,ESP,Spain,Andalucía,37.46363,-4.573552,12830,1404,,,6311,789,True,True
-2020-06-15,ESP,Spain,Aragón,41.519884,-0.660302,5842,826,,,2677,273,True,True
-2020-06-15,ESP,Spain,Canarias,28.291062,-16.55631,2378,151,,,950,184,True,True
-2020-06-15,ESP,Spain,Cantabria,43.196326,-4.034401,2334,202,,,1054,80,True,True
-2020-06-15,ESP,Spain,Castilla y León,41.751205,-4.788185,19353,1928,,,8724,622,True,True
-2020-06-15,ESP,Spain,Castilla-La Mancha,39.254442,-3.160863,17811,2945,,,9388,660,True,True
-2020-06-15,ESP,Spain,Cataluña,41.798,1.528534,59897,5587,,,29270,2980,True,True
-2020-06-15,ESP,Spain,Ciudad Autónoma de Ceuta,35.895759,-5.358194,163,0,,,14,4,True,True
-2020-06-15,ESP,Spain,Ciudad Autónoma de Melilla,35.298249,-2.948653,124,0,,,45,3,True,True
-2020-06-15,ESP,Spain,Comunidad de Madrid,40.494962,-3.716057,70570,8691,,,42230,3596,True,True
-2020-06-15,ESP,Spain,Comunidad Foral de Navarra,42.667549,-1.647658,5311,490,,,2041,136,True,True
-2020-06-15,ESP,Spain,Comunidad Valenciana,39.390435,-0.543007,11418,1332,,,5805,741,True,True
-2020-06-15,ESP,Spain,Extremadura,39.191409,-6.150692,2988,508,,,1772,138,True,True
-2020-06-15,ESP,Spain,Galicia,42.757079,-7.910384,9160,609,,,2934,336,True,True
-2020-06-15,ESP,Spain,Illes Balears,39.613452,2.956607,2157,209,,,1170,169,True,True
-2020-06-15,ESP,Spain,La Rioja,42.275075,-2.517177,4069,362,,,1488,91,True,True
-2020-06-15,ESP,Spain,País Vasco,43.032149,-2.62166,13638,1424,,,6974,578,True,True
-2020-06-15,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2437,314,,,1116,128,True,True
-2020-06-15,ESP,Spain,Región de Murcia,38.002069,-1.485219,1629,148,,,679,112,True,True
+2020-06-16,ESP,Spain,Andalucía,37.46363,-4.573552,12835,1404,,,6312,789,True,True
+2020-06-16,ESP,Spain,Aragón,41.519884,-0.660302,5845,826,,,2677,273,True,True
+2020-06-16,ESP,Spain,Canarias,28.291062,-16.55631,2382,151,,,950,184,True,True
+2020-06-16,ESP,Spain,Cantabria,43.196326,-4.034401,2336,202,,,1053,80,True,True
+2020-06-16,ESP,Spain,Castilla y León,41.751205,-4.788185,19365,1928,,,8727,622,True,True
+2020-06-16,ESP,Spain,Castilla-La Mancha,39.254442,-3.160863,17828,2945,,,9389,660,True,True
+2020-06-16,ESP,Spain,Cataluña,41.798,1.528534,59944,5587,,,29278,2982,True,True
+2020-06-16,ESP,Spain,Ciudad Autónoma de Ceuta,35.895759,-5.358194,163,4,,,14,4,True,True
+2020-06-16,ESP,Spain,Ciudad Autónoma de Melilla,35.298249,-2.948653,124,2,,,45,3,True,True
+2020-06-16,ESP,Spain,Comunidad de Madrid,40.494962,-3.716057,70675,8691,,,42255,3597,True,True
+2020-06-16,ESP,Spain,Comunidad Foral de Navarra,42.667549,-1.647658,5312,490,,,2041,136,True,True
+2020-06-16,ESP,Spain,Comunidad Valenciana,39.390435,-0.543007,11421,1332,,,5804,742,True,True
+2020-06-16,ESP,Spain,Extremadura,39.191409,-6.150692,2990,508,,,1772,138,True,True
+2020-06-16,ESP,Spain,Galicia,42.757079,-7.910384,9161,609,,,2935,336,True,True
+2020-06-16,ESP,Spain,Illes Balears,39.613452,2.956607,2163,209,,,1171,169,True,True
+2020-06-16,ESP,Spain,La Rioja,42.275075,-2.517177,4069,362,,,1488,91,True,True
+2020-06-16,ESP,Spain,País Vasco,43.032149,-2.62166,13648,1424,,,6976,578,True,True
+2020-06-16,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2438,314,,,1117,128,True,True
+2020-06-16,ESP,Spain,Región de Murcia,38.002069,-1.485219,1629,148,,,679,112,True,True
 2020-06-16,SWE,Sweden,Blekinge,56.279696,15.193246,382,0,0,382,0,0,True,True
 2020-06-16,SWE,Sweden,Dalarna,60.952955,14.350603,1398,0,0,1398,0,0,True,True
 2020-06-16,SWE,Sweden,Gävleborg,61.440899,16.291105,1835,0,0,1835,0,0,True,True
