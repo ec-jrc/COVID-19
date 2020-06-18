@@ -18847,6 +18847,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-06-17,UGA,Uganda,1.365188,32.304651,724,0,,724,,,False,False
 2020-06-17,UKR,Ukraine,48.379888,31.168139,33234,943,14936,17355,,,False,False
 2020-06-17,ARE,United Arab Emirates,24.358745,53.982494,42982,293,,42689,,,False,False
+2020-06-17,GBR,United Kingdom,54.633221,-3.432277,299251,42153,0,257098,,,False,True
 2020-06-17,USA,United States of America,36.966428,-95.844032,2137731,116963,,2020768,,,False,False
 2020-06-17,VIR,United States Virgin Islands,18.036736,-64.801704,73,6,,67,,,False,False
 2020-06-17,URY,Uruguay,-32.53152,-55.758328,849,24,,825,,,False,False
@@ -18862,3 +18863,4 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-06-18,CZE,Czech Republic,49.800901,15.478153,10176,333,7401,2442,,,True,True
 2020-06-18,DEU,Germany,51.165706,10.452764,187764,8856,174100,4808,,,True,True
 2020-06-18,HUN,Hungary,47.164638,19.508944,4079,568,2564,947,199,15,True,True
+2020-06-18,SVK,Slovakia,48.665639,19.709097,1562,28,1443,91,20,0,True,True

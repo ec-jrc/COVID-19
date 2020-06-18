@@ -51581,6 +51581,18 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-17,UKR,Ukraine,Volyn,51.202858,24.883489,1554,,490,1064,,,False,False
 2020-06-17,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,538,,366,172,,,False,False
 2020-06-17,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1147,,574,573,,,False,False
+2020-06-17,GBR,United Kingdom,East of England,52.248898,0.548756,14837,0,0,14837,,,False,True
+2020-06-17,GBR,United Kingdom,England,,,6485,37692,0,-31207,,,False,True
+2020-06-17,GBR,United Kingdom,London,51.497136,-0.100571,27354,0,0,27354,,,False,True
+2020-06-17,GBR,United Kingdom,Midlands,52.718351,-1.45667,26470,0,0,26470,,,False,True
+2020-06-17,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,25497,0,0,25497,,,False,True
+2020-06-17,GBR,United Kingdom,North West,53.524488,-2.333125,26859,0,0,26859,,,False,True
+2020-06-17,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4862,542,0,4320,,,False,True
+2020-06-17,GBR,United Kingdom,NOT SPECIFIED,,,105958,0,0,105958,,,False,True
+2020-06-17,GBR,United Kingdom,Scotland,56.490671,-4.202646,15712,2453,0,13259,,,False,True
+2020-06-17,GBR,United Kingdom,South East,51.291417,-0.521902,22403,0,0,22403,,,False,True
+2020-06-17,GBR,United Kingdom,South West,51.239761,-2.54375,7892,0,0,7892,,,False,True
+2020-06-17,GBR,United Kingdom,Wales,52.302413,-3.738347,14922,1466,0,13456,,,False,True
 2020-06-18,AUT,Austria,Burgenland,47.541449,16.520206,343,11,329,3,,,True,True
 2020-06-18,AUT,Austria,Kärnten,46.715832,14.455532,419,13,402,4,,,True,True
 2020-06-18,AUT,Austria,Niederösterreich,48.27051,15.763245,2925,99,2754,72,,,True,True
@@ -51674,3 +51686,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
 2020-06-18,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
 2020-06-18,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
+2020-06-18,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,111,,,111,,,True,True
+2020-06-18,SVK,Slovakia,Bratislava,48.319003,17.17481,373,,,373,,,True,True
+2020-06-18,SVK,Slovakia,Košice,48.771358,20.721931,273,,,273,,,True,True
+2020-06-18,SVK,Slovakia,Nitra,48.140652,18.30311,123,,,123,,,True,True
+2020-06-18,SVK,Slovakia,NOT SPECIFIED,,,0,28,1443,-1471,20,0,True,True
+2020-06-18,SVK,Slovakia,Prešov,49.126441,21.221321,187,,,187,,,True,True
+2020-06-18,SVK,Slovakia,Trencín,48.858564,18.202196,178,,,178,,,True,True
+2020-06-18,SVK,Slovakia,Trnava,48.222651,17.707847,124,,,124,,,True,True
+2020-06-18,SVK,Slovakia,Zilina,49.178517,19.167163,193,,,193,,,True,True
