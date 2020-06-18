@@ -51745,12 +51745,25 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1322,,,1322,,,False,True
 2020-06-18,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,,,46,,,False,True
 2020-06-18,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,,,35,,,False,True
-2020-06-18,ISL,Iceland,NOT SPECIFIED,,,5,,,5,,,False,True
+2020-06-18,ISL,Iceland,NOT SPECIFIED,,,6,,,6,,,False,True
 2020-06-18,ISL,Iceland,South Iceland,64.135334,-19.242939,180,,,180,,,False,True
 2020-06-18,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,,,77,,,False,True
 2020-06-18,ISL,Iceland,West Fjords,65.820831,-21.86654,97,,,97,,,False,True
 2020-06-18,ISL,Iceland,West Iceland,64.843136,-21.691436,44,,,44,,,False,True
 2020-06-18,MLT,Malta,Malta,35.946151,14.384612,663,9,610,44,,,True,True
+2020-06-18,NLD,Netherlands,Drenthe,52.863149,6.623756,534,0,0,534,0,0,True,True
+2020-06-18,NLD,Netherlands,Flevoland,52.436257,5.519078,972,0,0,972,0,0,True,True
+2020-06-18,NLD,Netherlands,Friesland,53.089388,5.871457,632,0,0,632,0,0,True,True
+2020-06-18,NLD,Netherlands,Gelderland,52.061726,5.945178,6490,0,0,6490,0,0,True,True
+2020-06-18,NLD,Netherlands,Groningen,53.291466,6.700488,360,0,0,360,0,0,True,True
+2020-06-18,NLD,Netherlands,Limburg,51.207579,5.936318,4863,0,0,4863,0,0,True,True
+2020-06-18,NLD,Netherlands,North Brabant,51.527534,5.590194,9651,0,0,9651,0,0,True,True
+2020-06-18,NLD,Netherlands,North Holland,52.551824,4.876581,7143,0,0,7143,0,0,True,True
+2020-06-18,NLD,Netherlands,NOT SPECIFIED,,,0,6078,0,-6078,11835,0,True,True
+2020-06-18,NLD,Netherlands,Overijssel,52.445136,6.4476,3062,0,0,3062,0,0,True,True
+2020-06-18,NLD,Netherlands,South Holland,51.968696,4.541274,10954,0,0,10954,0,0,True,True
+2020-06-18,NLD,Netherlands,Utrecht,52.078728,5.214048,3928,0,0,3928,0,0,True,True
+2020-06-18,NLD,Netherlands,Zeeland,51.312779,3.786651,730,0,0,730,0,0,True,True
 2020-06-18,POL,Poland,Dolnośląskie,51.07994,16.381483,2825,133,,2692,,,True,True
 2020-06-18,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,641,49,,592,,,True,True
 2020-06-18,POL,Poland,Łódzkie,51.559579,19.408271,2680,130,,2550,,,True,True
@@ -51767,6 +51780,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,207,1,,206,,,True,True
 2020-06-18,POL,Poland,Wielkopolskie,52.283858,17.248218,2429,166,,2263,,,True,True
 2020-06-18,POL,Poland,Zachodniopomorskie,53.582707,15.634824,591,20,,571,,,True,True
+2020-06-18,PRT,Portugal,Açores,37.775525,-25.494927,143,15,,128,,,True,True
+2020-06-18,PRT,Portugal,Alentejo,38.485499,-8.006668,295,2,,293,,,True,True
+2020-06-18,PRT,Portugal,Algarve,37.218389,-8.198488,448,15,,433,,,True,True
+2020-06-18,PRT,Portugal,Centro,40.111812,-8.012768,3934,246,,3688,,,True,True
+2020-06-18,PRT,Portugal,Lisbon,38.623843,-8.88436,15971,433,,15538,,,True,True
+2020-06-18,PRT,Portugal,Madeira,32.736252,-16.972663,90,0,,90,,,True,True
+2020-06-18,PRT,Portugal,Norte,41.457206,-7.678153,17208,813,,16395,,,True,True
+2020-06-18,PRT,Portugal,NOT SPECIFIED,,,0,,24010,-24010,416,67,True,True
 2020-06-18,RUS,Russian Fed.,Adygea,44.448835,40.254013,1446,12,896,538,,,False,False
 2020-06-18,RUS,Russian Fed.,Altai,52.477021,83.868816,3078,24,2102,952,,,False,False
 2020-06-18,RUS,Russian Fed.,Altai Republic,,,334,0,151,183,,,False,False
