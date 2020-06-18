@@ -1,28 +1,28 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
-2020-06-17,ALB,Albania,Berat,40.6285,20.090775,16,0,15,1,0,0,False,False
-2020-06-17,ALB,Albania,Dibër,,,10,0,10,0,0,0,False,False
-2020-06-17,ALB,Albania,Durrës,41.518365,19.651766,357,7,236,114,4,2,False,False
-2020-06-17,ALB,Albania,Elbasan,41.040028,20.186454,29,0,21,8,1,0,False,False
-2020-06-17,ALB,Albania,Fier,40.774633,19.620528,80,4,55,21,4,0,False,False
-2020-06-17,ALB,Albania,Gjirokastër,,,1,0,0,1,1,0,False,False
-2020-06-17,ALB,Albania,Korçë,40.62883,20.666004,25,0,18,7,1,0,False,False
-2020-06-17,ALB,Albania,Kukës,42.066696,20.419467,41,1,36,4,0,0,False,False
-2020-06-17,ALB,Albania,Lezhë,41.801452,19.845695,57,0,52,5,1,0,False,False
-2020-06-17,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False
-2020-06-17,ALB,Albania,Shkodër,42.17682,19.719451,232,3,119,110,4,2,False,False
-2020-06-17,ALB,Albania,Tiranë,41.268583,19.793936,834,22,511,301,28,5,False,False
-2020-06-17,ALB,Albania,Vlorë,40.162418,19.793592,40,1,4,35,0,0,False,False
+2020-06-18,ALB,Albania,Berat,40.6285,20.090775,16,0,15,1,0,0,False,False
+2020-06-18,ALB,Albania,Dibër,,,10,0,10,0,0,0,False,False
+2020-06-18,ALB,Albania,Durrës,41.518365,19.651766,357,7,236,114,4,2,False,False
+2020-06-18,ALB,Albania,Elbasan,41.040028,20.186454,30,0,21,9,1,0,False,False
+2020-06-18,ALB,Albania,Fier,40.774633,19.620528,83,4,55,24,2,1,False,False
+2020-06-18,ALB,Albania,Gjirokastër,,,1,0,0,1,1,0,False,False
+2020-06-18,ALB,Albania,Korçë,40.62883,20.666004,25,0,18,7,1,0,False,False
+2020-06-18,ALB,Albania,Kukës,42.066696,20.419467,42,1,36,5,0,0,False,False
+2020-06-18,ALB,Albania,Lezhë,41.801452,19.845695,58,0,53,5,0,0,False,False
+2020-06-18,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False
+2020-06-18,ALB,Albania,Shkodër,42.17682,19.719451,235,4,120,111,4,0,False,False
+2020-06-18,ALB,Albania,Tiranë,41.268583,19.793936,866,22,518,326,32,5,False,False
+2020-06-18,ALB,Albania,Vlorë,40.162418,19.793592,47,1,4,42,2,0,False,False
 2020-06-17,AND,Andorra,Andorra,42.542268,1.596865,854,52,,802,,,False,False
-2020-06-18,AUT,Austria,Burgenland,47.541449,16.520206,343,11,329,3,,,True,True
+2020-06-18,AUT,Austria,Burgenland,47.541449,16.520206,344,11,330,3,,,True,True
 2020-06-18,AUT,Austria,Kärnten,46.715832,14.455532,419,13,402,4,,,True,True
-2020-06-18,AUT,Austria,Niederösterreich,48.27051,15.763245,2925,99,2754,72,,,True,True
+2020-06-18,AUT,Austria,Niederösterreich,48.27051,15.763245,2928,99,2756,73,,,True,True
 2020-06-18,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,12,True,True
-2020-06-18,AUT,Austria,Oberösterreich,48.138166,13.964295,2328,58,2235,35,,,True,True
-2020-06-18,AUT,Austria,Salzburg,47.254051,13.032653,1242,37,1201,4,,,True,True
-2020-06-18,AUT,Austria,Steiermark,47.187361,15.518046,1830,138,1688,4,,,True,True
-2020-06-18,AUT,Austria,Tirol,47.209023,11.397603,3547,101,3440,6,,,True,True
+2020-06-18,AUT,Austria,Oberösterreich,48.138166,13.964295,2329,58,2238,33,,,True,True
+2020-06-18,AUT,Austria,Salzburg,47.254051,13.032653,1243,37,1202,4,,,True,True
+2020-06-18,AUT,Austria,Steiermark,47.187361,15.518046,1832,138,1661,33,,,True,True
+2020-06-18,AUT,Austria,Tirol,47.209023,11.397603,3547,101,3441,5,,,True,True
 2020-06-18,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,882,9,,,True,True
-2020-06-18,AUT,Austria,Wien,48.21141,16.380038,3635,187,3168,280,,,True,True
+2020-06-18,AUT,Austria,Wien,48.21141,16.380038,3646,187,3189,270,,,True,True
 2020-06-17,BLR,Belarus,Belarus,53.711111,27.973847,55369,318,,55051,,,False,False
 2020-06-16,BEL,Belgium,Brussels,50.836426,4.367415,6175,1474,,4701,98,22,True,True
 2020-06-16,BEL,Belgium,Flanders,51.036569,4.234165,33860,4855,,29005,186,35,True,True
@@ -275,7 +275,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-17,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False
 2020-06-17,LTU,Lithuania,Lithuania,55.174112,23.906736,1776,76,,1700,,,True,True
-2020-06-17,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4085,110,946,3029,17,1,True,True
+2020-06-18,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4091,110,947,3034,13,2,True,True
 2020-06-18,MLT,Malta,Malta,35.946151,14.384612,663,9,610,44,,,True,True
 2020-06-17,MDA,Moldova,Moldova,46.979527,28.377195,12254,423,,11831,,,False,False
 2020-06-17,MCO,Monaco,Monaco,43.738348,7.424451,99,5,,94,,,False,False
