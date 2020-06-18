@@ -51494,6 +51494,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-17,SVK,Slovakia,Trencín,48.858564,18.202196,178,,,178,,,True,True
 2020-06-17,SVK,Slovakia,Trnava,48.222651,17.707847,124,,,124,,,True,True
 2020-06-17,SVK,Slovakia,Zilina,49.178517,19.167163,193,,,193,,,True,True
+2020-06-17,SVN,Slovenia,NOT SPECIFIED,,,1511,109,295,1107,6,1,True,True
 2020-06-17,ESP,Spain,Andalucía,37.46363,-4.573552,12839,1404,,11435,6314,789,True,True
 2020-06-17,ESP,Spain,Aragón,41.519884,-0.660302,5850,826,,5024,2679,273,True,True
 2020-06-17,ESP,Spain,Canarias,28.291062,-16.55631,2382,151,,2231,950,184,True,True
@@ -51647,6 +51648,27 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,CZE,Czech Republic,Ústecký,50.488308,13.816736,573,0,0,573,,,True,True
 2020-06-18,CZE,Czech Republic,Vysocina,49.40736,15.689937,188,0,0,188,,,True,True
 2020-06-18,CZE,Czech Republic,Zlínský,49.239654,17.770218,375,0,0,375,,,True,True
+2020-06-18,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
+2020-06-18,FIN,Finland,Etelä-Karjala,61.217899,28.550289,25,,,25,,,True,True
+2020-06-18,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
+2020-06-18,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True
+2020-06-18,FIN,Finland,HUS,60.408524,24.7817,5223,,,5223,,,True,True
+2020-06-18,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True
+2020-06-18,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True
+2020-06-18,FIN,Finland,Kanta-Häme,60.921424,24.354383,111,,,111,,,True,True
+2020-06-18,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True
+2020-06-18,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True
+2020-06-18,FIN,Finland,Kymenlaakso,60.826543,26.889951,45,,,45,,,True,True
+2020-06-18,FIN,Finland,Länsi-Pohja,66.133479,24.762611,146,,,146,,,True,True
+2020-06-18,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True
+2020-06-18,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True
+2020-06-18,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True
+2020-06-18,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,,,24,,,True,True
+2020-06-18,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,134,,,134,,,True,True
+2020-06-18,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True
+2020-06-18,FIN,Finland,Satakunta,61.527072,22.157717,56,,,56,,,True,True
+2020-06-18,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True
+2020-06-18,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,356,,,356,,,True,True
 2020-06-18,DEU,Germany,Baden-Württemberg,48.537648,9.049199,35218,1816,,33402,,,True,True
 2020-06-18,DEU,Germany,Bayern,48.947574,11.419913,47747,2556,,45191,,,True,True
 2020-06-18,DEU,Germany,Berlin,52.501532,13.40185,7475,210,,7265,,,True,True
