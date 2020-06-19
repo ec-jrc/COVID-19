@@ -13,16 +13,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,ALB,Albania,Tiranë,41.268583,19.793936,866,22,518,326,32,5,False,False
 2020-06-18,ALB,Albania,Vlorë,40.162418,19.793592,47,1,4,42,2,0,False,False
 2020-06-18,AND,Andorra,Andorra,42.542268,1.596865,854,52,,802,,,False,False
-2020-06-18,AUT,Austria,Burgenland,47.541449,16.520206,344,11,330,3,,,True,True
-2020-06-18,AUT,Austria,Kärnten,46.715832,14.455532,419,13,402,4,,,True,True
-2020-06-18,AUT,Austria,Niederösterreich,48.27051,15.763245,2928,99,2756,73,,,True,True
-2020-06-18,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,12,True,True
-2020-06-18,AUT,Austria,Oberösterreich,48.138166,13.964295,2329,58,2238,33,,,True,True
-2020-06-18,AUT,Austria,Salzburg,47.254051,13.032653,1243,37,1202,4,,,True,True
-2020-06-18,AUT,Austria,Steiermark,47.187361,15.518046,1832,138,1661,33,,,True,True
-2020-06-18,AUT,Austria,Tirol,47.209023,11.397603,3547,101,3441,5,,,True,True
-2020-06-18,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,882,9,,,True,True
-2020-06-18,AUT,Austria,Wien,48.21141,16.380038,3646,187,3189,270,,,True,True
+2020-06-19,AUT,Austria,Burgenland,47.541449,16.520206,344,11,330,3,,,True,True
+2020-06-19,AUT,Austria,Kärnten,46.715832,14.455532,419,13,402,4,,,True,True
+2020-06-19,AUT,Austria,Niederösterreich,48.27051,15.763245,2928,99,2756,73,,,True,True
+2020-06-19,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,187,12,True,True
+2020-06-19,AUT,Austria,Oberösterreich,48.138166,13.964295,2329,58,2238,33,,,True,True
+2020-06-19,AUT,Austria,Salzburg,47.254051,13.032653,1243,37,1202,4,,,True,True
+2020-06-19,AUT,Austria,Steiermark,47.187361,15.518046,1832,138,1661,33,,,True,True
+2020-06-19,AUT,Austria,Tirol,47.209023,11.397603,3547,101,3441,5,,,True,True
+2020-06-19,AUT,Austria,Vorarlberg,47.240149,9.896366,909,18,882,9,,,True,True
+2020-06-19,AUT,Austria,Wien,48.21141,16.380038,3646,187,3189,270,,,True,True
 2020-06-18,BLR,Belarus,Belarus,53.711111,27.973847,56032,324,,55708,,,False,False
 2020-06-16,BEL,Belgium,Brussels,50.836426,4.367415,6175,1474,,4701,98,22,True,True
 2020-06-16,BEL,Belgium,Flanders,51.036569,4.234165,33860,4855,,29005,186,35,True,True
@@ -217,28 +217,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,,True,True
 2020-06-18,GRC,Greece,Xanthis,41.168776,24.88364,32,7,0,25,0,,True,True
 2020-06-18,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,,True,True
-2020-06-18,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,20,0,0,20,0,0,True,True
-2020-06-18,HUN,Hungary,Baranya,46.043048,18.197022,39,0,0,39,0,0,True,True
-2020-06-18,HUN,Hungary,Békés,46.735413,21.006326,13,0,0,13,0,0,True,True
-2020-06-18,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,62,0,0,62,0,0,True,True
-2020-06-18,HUN,Hungary,Budapest,47.486226,19.102958,1934,0,0,1934,0,0,True,True
-2020-06-18,HUN,Hungary,Csongrád,46.429441,20.23317,117,0,0,117,0,0,True,True
-2020-06-18,HUN,Hungary,Fejér,47.130985,18.532031,376,0,0,376,0,0,True,True
-2020-06-18,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,86,0,0,86,0,0,True,True
-2020-06-18,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,27,0,0,27,0,0,True,True
-2020-06-18,HUN,Hungary,Heves,47.856454,20.175008,14,0,0,14,0,0,True,True
-2020-06-18,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
-2020-06-18,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,18,0,0,18,0,0,True,True
-2020-06-18,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,301,0,0,301,0,0,True,True
-2020-06-18,HUN,Hungary,Nógrád,47.988372,19.52022,51,0,0,51,0,0,True,True
-2020-06-18,HUN,Hungary,NOT SPECIFIED,,,0,568,2564,-3132,199,15,True,True
-2020-06-18,HUN,Hungary,Pest,47.252834,19.743062,597,0,0,597,0,0,True,True
-2020-06-18,HUN,Hungary,Somogy,46.452574,17.603217,22,0,0,22,0,0,True,True
-2020-06-18,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,48,0,0,48,0,0,True,True
-2020-06-18,HUN,Hungary,Tolna,46.512422,18.535403,13,0,0,13,0,0,True,True
-2020-06-18,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
-2020-06-18,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
-2020-06-18,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
+2020-06-19,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,20,0,0,20,0,0,True,True
+2020-06-19,HUN,Hungary,Baranya,46.043048,18.197022,39,0,0,39,0,0,True,True
+2020-06-19,HUN,Hungary,Békés,46.735413,21.006326,13,0,0,13,0,0,True,True
+2020-06-19,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,62,0,0,62,0,0,True,True
+2020-06-19,HUN,Hungary,Budapest,47.486226,19.102958,1935,0,0,1935,0,0,True,True
+2020-06-19,HUN,Hungary,Csongrád,46.429441,20.23317,117,0,0,117,0,0,True,True
+2020-06-19,HUN,Hungary,Fejér,47.130985,18.532031,376,0,0,376,0,0,True,True
+2020-06-19,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,86,0,0,86,0,0,True,True
+2020-06-19,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,27,0,0,27,0,0,True,True
+2020-06-19,HUN,Hungary,Heves,47.856454,20.175008,14,0,0,14,0,0,True,True
+2020-06-19,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True
+2020-06-19,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,18,0,0,18,0,0,True,True
+2020-06-19,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,301,0,0,301,0,0,True,True
+2020-06-19,HUN,Hungary,Nógrád,47.988372,19.52022,51,0,0,51,0,0,True,True
+2020-06-19,HUN,Hungary,NOT SPECIFIED,,,0,568,2581,-3149,192,15,True,True
+2020-06-19,HUN,Hungary,Pest,47.252834,19.743062,598,0,0,598,0,0,True,True
+2020-06-19,HUN,Hungary,Somogy,46.452574,17.603217,22,0,0,22,0,0,True,True
+2020-06-19,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,48,0,0,48,0,0,True,True
+2020-06-19,HUN,Hungary,Tolna,46.512422,18.535403,13,0,0,13,0,0,True,True
+2020-06-19,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True
+2020-06-19,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True
+2020-06-19,HUN,Hungary,Zala,46.692149,16.903237,261,0,0,261,0,0,True,True
 2020-06-18,ISL,Iceland,Abroad,,,1,,,1,,,False,True
 2020-06-18,ISL,Iceland,East Iceland,64.832997,-15.743398,8,,,8,,,False,True
 2020-06-18,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1322,,,1322,,,False,True
