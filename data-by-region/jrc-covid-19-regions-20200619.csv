@@ -106,28 +106,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,DNK,Denmark,Sjælland,55.92481,11.67126,1984,123,,1861,,,True,True
 2020-06-18,DNK,Denmark,Syddanmark,55.675758,12.56902,1033,35,,998,,,True,True
 2020-06-18,EST,Estonia,Estonia,58.596209,25.023778,1977,69,0,1908,,,True,True
-2020-06-18,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
-2020-06-18,FIN,Finland,Etelä-Karjala,61.217899,28.550289,25,,,25,,,True,True
-2020-06-18,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
-2020-06-18,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True
-2020-06-18,FIN,Finland,HUS,60.408524,24.7817,5223,,,5223,,,True,True
-2020-06-18,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True
-2020-06-18,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True
-2020-06-18,FIN,Finland,Kanta-Häme,60.921424,24.354383,111,,,111,,,True,True
-2020-06-18,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True
-2020-06-18,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True
-2020-06-18,FIN,Finland,Kymenlaakso,60.826543,26.889951,45,,,45,,,True,True
-2020-06-18,FIN,Finland,Länsi-Pohja,66.133479,24.762611,146,,,146,,,True,True
-2020-06-18,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True
+2020-06-19,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
+2020-06-19,FIN,Finland,Etelä-Karjala,61.217899,28.550289,25,,,25,,,True,True
+2020-06-19,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
+2020-06-19,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True
+2020-06-19,FIN,Finland,HUS,60.408524,24.7817,5234,,,5234,,,True,True
+2020-06-19,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True
+2020-06-19,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True
+2020-06-19,FIN,Finland,Kanta-Häme,60.921424,24.354383,111,,,111,,,True,True
+2020-06-19,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True
+2020-06-19,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True
+2020-06-19,FIN,Finland,Kymenlaakso,60.826543,26.889951,46,,,46,,,True,True
+2020-06-19,FIN,Finland,Länsi-Pohja,66.133479,24.762611,146,,,146,,,True,True
+2020-06-19,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True
 2020-03-30,FIN,Finland,NOT SPECIFIED,,,20,0,0,20,0,0,True,True
-2020-06-18,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True
-2020-06-18,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True
-2020-06-18,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,24,,,24,,,True,True
-2020-06-18,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,134,,,134,,,True,True
-2020-06-18,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True
-2020-06-18,FIN,Finland,Satakunta,61.527072,22.157717,56,,,56,,,True,True
-2020-06-18,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True
-2020-06-18,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,356,,,356,,,True,True
+2020-06-19,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True
+2020-06-19,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True
+2020-06-19,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,26,,,26,,,True,True
+2020-06-19,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,134,,,134,,,True,True
+2020-06-19,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True
+2020-06-19,FIN,Finland,Satakunta,61.527072,22.157717,58,,,58,,,True,True
+2020-06-19,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True
+2020-06-19,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,356,,,356,,,True,True
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True
 2020-06-18,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1722,7570,-9292,642,34,True,True
 2020-06-18,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1034,3770,-4804,192,15,True,True
@@ -524,33 +524,33 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-18,SWE,Sweden,Västernorrland,63.096635,17.251241,1094,,,1094,,,True,True
 2020-06-18,SWE,Sweden,Västmanland,59.801595,16.318208,1904,,,1904,,,True,True
 2020-06-18,SWE,Sweden,Västra Götaland,58.303302,12.891496,11828,,,11828,,,True,True
-2020-06-18,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False
-2020-06-15,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,1,0,False,False
-2020-06-17,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False
-2020-06-18,CHE,Switzerland,Basel City,47.561925,7.592768,984,50,933,1,0,0,False,False
-2020-06-18,CHE,Switzerland,Basel Country,47.441812,7.7644,847,35,809,3,0,0,False,False
-2020-06-18,CHE,Switzerland,Bern,46.825006,7.626925,1937,97,0,1840,3,0,False,False
-2020-06-17,CHE,Switzerland,Fribourg,46.710334,7.09922,1183,84,151,948,3,1,False,False
-2020-06-16,CHE,Switzerland,Geneva,46.217114,6.131255,5229,0,847,4382,103,1,False,False
-2020-06-18,CHE,Switzerland,Glarus,46.980518,9.065544,128,13,0,115,0,0,False,False
-2020-06-16,CHE,Switzerland,Graubünden,46.658176,9.629923,830,50,0,780,0,0,False,False
-2020-06-18,CHE,Switzerland,Jura,47.368327,7.198733,206,7,0,199,1,0,False,False
-2020-06-18,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
-2020-06-18,CHE,Switzerland,Lucerne,47.06883,8.116991,740,20,0,720,13,2,False,False
-2020-06-18,CHE,Switzerland,Neuchâtel,46.997282,6.782288,0,0,0,0,2,0,False,False
-2020-06-18,CHE,Switzerland,Nidwalden,46.922198,8.419375,124,3,0,121,0,0,False,False
-2020-06-18,CHE,Switzerland,Obwalden,46.857772,8.209745,82,0,0,82,0,0,False,False
-2020-06-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,820,38,0,782,0,0,False,False
-2020-06-18,CHE,Switzerland,Schwyz,47.06411,8.761568,81,7,0,74,0,0,False,False
-2020-06-18,CHE,Switzerland,Solothurn,47.336648,7.686944,449,17,0,432,0,0,False,False
-2020-06-18,CHE,Switzerland,St. Gallen,47.305025,9.019368,308,23,284,1,0,0,False,False
-2020-06-18,CHE,Switzerland,Thurgau,47.567205,9.112572,385,18,0,367,0,0,False,False
-2020-06-18,CHE,Switzerland,Ticino,46.297963,8.808447,3324,350,909,2065,6,0,False,False
-2020-06-08,CHE,Switzerland,Uri,46.775402,8.627444,93,7,86,0,1,0,False,False
-2020-06-18,CHE,Switzerland,Valais,46.211633,7.611267,1985,153,287,1545,15,4,False,False
-2020-06-15,CHE,Switzerland,Vaud,46.56176,6.648929,5475,420,0,5055,31,4,False,False
-2020-06-18,CHE,Switzerland,Zug,47.161402,8.538864,215,9,190,16,0,0,False,False
-2020-06-18,CHE,Switzerland,Zurich,47.417407,8.655988,3684,130,0,3554,10,0,False,False
+2020-06-19,CHE,Switzerland,Aargau,47.410914,8.159107,1235,46,0,1189,0,0,False,False
+2020-06-19,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,0,0,False,False
+2020-06-19,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False
+2020-06-19,CHE,Switzerland,Basel City,47.561925,7.592768,985,50,933,2,0,0,False,False
+2020-06-19,CHE,Switzerland,Basel Country,47.441812,7.7644,847,35,809,3,0,0,False,False
+2020-06-19,CHE,Switzerland,Bern,46.825006,7.626925,1937,97,0,1840,3,0,False,False
+2020-06-19,CHE,Switzerland,Fribourg,46.710334,7.09922,1183,84,151,948,3,1,False,False
+2020-06-19,CHE,Switzerland,Geneva,46.217114,6.131255,5229,0,847,4382,103,1,False,False
+2020-06-19,CHE,Switzerland,Glarus,46.980518,9.065544,128,13,0,115,0,0,False,False
+2020-06-19,CHE,Switzerland,Graubünden,46.658176,9.629923,830,50,0,780,0,0,False,False
+2020-06-19,CHE,Switzerland,Jura,47.368327,7.198733,206,7,0,199,1,0,False,False
+2020-06-19,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
+2020-06-19,CHE,Switzerland,Lucerne,47.06883,8.116991,740,20,0,720,13,2,False,False
+2020-06-19,CHE,Switzerland,Neuchâtel,46.997282,6.782288,0,0,0,0,2,0,False,False
+2020-06-19,CHE,Switzerland,Nidwalden,46.922198,8.419375,124,3,0,121,0,0,False,False
+2020-06-19,CHE,Switzerland,Obwalden,46.857772,8.209745,82,0,0,82,0,0,False,False
+2020-06-19,CHE,Switzerland,Schaffhausen,47.721853,8.563863,820,38,0,782,0,0,False,False
+2020-06-19,CHE,Switzerland,Schwyz,47.06411,8.761568,81,7,0,74,0,0,False,False
+2020-06-19,CHE,Switzerland,Solothurn,47.336648,7.686944,451,17,0,434,0,0,False,False
+2020-06-19,CHE,Switzerland,St. Gallen,47.305025,9.019368,309,23,285,1,0,0,False,False
+2020-06-19,CHE,Switzerland,Thurgau,47.567205,9.112572,385,18,0,367,0,0,False,False
+2020-06-19,CHE,Switzerland,Ticino,46.297963,8.808447,3324,350,909,2065,6,0,False,False
+2020-06-19,CHE,Switzerland,Uri,46.775402,8.627444,93,7,86,0,1,0,False,False
+2020-06-19,CHE,Switzerland,Valais,46.211633,7.611267,1985,153,287,1545,15,4,False,False
+2020-06-19,CHE,Switzerland,Vaud,46.56176,6.648929,5490,420,0,5070,29,3,False,False
+2020-06-19,CHE,Switzerland,Zug,47.161402,8.538864,215,9,190,16,0,0,False,False
+2020-06-19,CHE,Switzerland,Zurich,47.417407,8.655988,3684,130,0,3554,10,0,False,False
 2020-06-19,TUR,Turkey,Turkey,38.961515,35.25175,184031,4882,,179149,,,False,True
 2020-06-18,UKR,Ukraine,Cherkasy,49.253559,31.378329,568,,374,194,,,False,False
 2020-06-18,UKR,Ukraine,Chernihiv,51.347162,32.016707,448,,112,336,,,False,False
