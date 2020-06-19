@@ -795,7 +795,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-01,AUS,OC,Australia,-26.853388,133.275155,26,1,,25,,,False,False
 2020-03-01,AZE,AS,Azerbaijan,40.147396,47.572098,1,,,1,,,False,False
 2020-03-01,BHR,AS,Bahrain,26.039722,50.559306,41,,,41,,,False,False
-2020-03-01,BEL,EU,Belgium,50.499527,4.475402,17,0,0,17,0,0,True,True
+2020-03-01,BEL,EU,Belgium,50.499527,4.475402,17,0,,17,0,0,True,True
 2020-03-01,BRA,SA,Brazil,-14.242914,-53.189267,2,,,2,,,False,False
 2020-03-01,KHM,AS,Cambodia,12.54775,104.98386,1,,,1,,,False,False
 2020-03-01,CAN,NA,Canada,62.393303,-96.818145,20,,,20,,,False,False
@@ -839,7 +839,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,AUS,OC,Australia,-26.853388,133.275155,29,1,,28,,,False,False
 2020-03-02,AZE,AS,Azerbaijan,40.147396,47.572098,3,,,3,,,False,False
 2020-03-02,BHR,AS,Bahrain,26.039722,50.559306,47,,,47,,,False,False
-2020-03-02,BEL,EU,Belgium,50.499527,4.475402,34,0,0,34,0,0,True,True
+2020-03-02,BEL,EU,Belgium,50.499527,4.475402,34,0,,34,0,0,True,True
 2020-03-02,BRA,SA,Brazil,-14.242914,-53.189267,2,,,2,,,False,False
 2020-03-02,KHM,AS,Cambodia,12.54775,104.98386,1,,,1,,,False,False
 2020-03-02,CAN,NA,Canada,62.393303,-96.818145,24,,,24,,,False,False
@@ -881,7 +881,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,USA,NA,United States of America,36.966428,-95.844032,89,2,,87,,,False,False
 2020-03-02,VNM,AS,Vietnam,15.974222,105.806431,16,,,16,,,False,False
 2020-03-03,AUS,OC,Australia,-26.853388,133.275155,33,1,,32,,,False,False
-2020-03-03,BEL,EU,Belgium,50.499527,4.475402,70,0,0,70,0,0,True,True
+2020-03-03,BEL,EU,Belgium,50.499527,4.475402,70,0,,70,0,0,True,True
 2020-03-03,CAN,NA,Canada,62.393303,-96.818145,27,,,27,,,False,False
 2020-03-03,CHN,AS,China,34.668138,104.165802,80261,2946,,77315,,,False,False
 2020-03-03,ECU,SA,Ecuador,-1.779901,-78.131592,7,,,7,,,False,False
@@ -913,7 +913,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-04,ARG,SA,Argentina,-38.421295,-63.587403,1,,,1,,,False,False
 2020-03-04,AUS,OC,Australia,-26.853388,133.275155,41,1,,40,,,False,False
 2020-03-04,BHR,AS,Bahrain,26.039722,50.559306,49,,,49,,,False,False
-2020-03-04,BEL,EU,Belgium,50.499527,4.475402,125,0,0,125,0,0,True,True
+2020-03-04,BEL,EU,Belgium,50.499527,4.475402,125,0,,125,0,0,True,True
 2020-03-04,CAN,NA,Canada,62.393303,-96.818145,30,,,30,,,False,False
 2020-03-04,CHL,SA,Chile,-36.711951,-73.601704,1,,,1,,,False,False
 2020-03-04,CHN,AS,China,34.668138,104.165802,80380,2983,,77397,,,False,False
@@ -943,7 +943,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-05,AUS,OC,Australia,-26.853388,133.275155,52,2,,50,,,False,False
 2020-03-05,AUT,EU,Austria,47.697542,13.349319,41,,,41,,,True,True
 2020-03-05,BHR,AS,Bahrain,26.039722,50.559306,52,,,52,,,False,False
-2020-03-05,BEL,EU,Belgium,50.499527,4.475402,206,0,0,206,0,0,True,True
+2020-03-05,BEL,EU,Belgium,50.499527,4.475402,206,0,,206,0,0,True,True
 2020-03-05,BRA,SA,Brazil,-14.242914,-53.189267,3,,,3,,,False,False
 2020-03-05,CAN,NA,Canada,62.393303,-96.818145,33,,,33,,,False,False
 2020-03-05,CHL,SA,Chile,-36.711951,-73.601704,3,,,3,,,False,False
@@ -980,7 +980,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-06,AUT,EU,Austria,47.697542,13.349319,55,,,55,,,True,True
 2020-03-06,AZE,AS,Azerbaijan,40.147396,47.572098,6,,,6,,,False,False
 2020-03-06,BHR,AS,Bahrain,26.039722,50.559306,52,,,52,,,False,False
-2020-03-06,BEL,EU,Belgium,50.499527,4.475402,317,0,0,317,0,0,True,True
+2020-03-06,BEL,EU,Belgium,50.499527,4.475402,317,0,,317,0,0,True,True
 2020-03-06,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-06,BRA,SA,Brazil,-14.242914,-53.189267,8,,,8,,,False,False
 2020-03-06,CAN,NA,Canada,62.393303,-96.818145,45,,,45,,,False,False
@@ -1025,7 +1025,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-07,AUT,EU,Austria,47.697542,13.349319,79,,,79,,,True,True
 2020-03-07,AZE,AS,Azerbaijan,40.147396,47.572098,9,,,9,,,False,False
 2020-03-07,BHR,AS,Bahrain,26.039722,50.559306,56,,,56,,,False,False
-2020-03-07,BEL,EU,Belgium,50.499527,4.475402,344,0,0,344,0,0,True,True
+2020-03-07,BEL,EU,Belgium,50.499527,4.475402,344,0,,344,0,0,True,True
 2020-03-07,BRA,SA,Brazil,-14.242914,-53.189267,13,,,13,,,False,False
 2020-03-07,CMR,AF,Cameroon,7.365302,12.34344,1,,,1,,,False,False
 2020-03-07,CAN,NA,Canada,62.393303,-96.818145,51,,,51,,,False,False
@@ -1072,7 +1072,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-08,AUS,OC,Australia,-26.853388,133.275155,74,3,,71,,,False,False
 2020-03-08,AUT,EU,Austria,47.697542,13.349319,102,,,102,,,True,True
 2020-03-08,BHR,AS,Bahrain,26.039722,50.559306,63,,,63,,,False,False
-2020-03-08,BEL,EU,Belgium,50.499527,4.475402,408,0,0,408,0,0,True,True
+2020-03-08,BEL,EU,Belgium,50.499527,4.475402,408,0,,408,0,0,True,True
 2020-03-08,BRA,SA,Brazil,-14.242914,-53.189267,13,,,13,,,False,False
 2020-03-08,KHM,AS,Cambodia,12.54775,104.98386,2,,,2,,,False,False
 2020-03-08,CAN,NA,Canada,62.393303,-96.818145,57,,,57,,,False,False
@@ -1115,7 +1115,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-09,AUT,EU,Austria,47.697542,13.349319,131,,,131,,,True,True
 2020-03-09,BHR,AS,Bahrain,26.039722,50.559306,79,,,79,,,False,False
 2020-03-09,BGD,AS,Bangladesh,23.68764,90.351002,3,,,3,,,False,False
-2020-03-09,BEL,EU,Belgium,50.499527,4.475402,502,0,0,502,0,0,True,True
+2020-03-09,BEL,EU,Belgium,50.499527,4.475402,502,0,,502,0,0,True,True
 2020-03-09,BRA,SA,Brazil,-14.242914,-53.189267,25,,,25,,,False,False
 2020-03-09,CMR,AF,Cameroon,7.365302,12.34344,2,,,2,,,False,False
 2020-03-09,CAN,NA,Canada,62.393303,-96.818145,62,,,62,,,False,False
@@ -1159,7 +1159,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-10,AUS,OC,Australia,-26.853388,133.275155,100,3,,97,,,False,False
 2020-03-10,AUT,EU,Austria,47.697542,13.349319,182,,,182,,,True,True
 2020-03-10,BHR,AS,Bahrain,26.039722,50.559306,109,,,109,,,False,False
-2020-03-10,BEL,EU,Belgium,50.499527,4.475402,601,1,0,600,0,0,True,True
+2020-03-10,BEL,EU,Belgium,50.499527,4.475402,601,1,,600,0,0,True,True
 2020-03-10,CAN,NA,Canada,62.393303,-96.818145,77,1,,76,,,False,False
 2020-03-10,CHL,SA,Chile,-36.711951,-73.601704,13,,,13,,,False,False
 2020-03-10,CHN,AS,China,34.668138,104.165802,80879,3139,,77740,,,False,False
@@ -1214,7 +1214,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,AZE,AS,Azerbaijan,40.147396,47.572098,11,,,11,,,False,False
 2020-03-11,BHR,AS,Bahrain,26.039722,50.559306,110,,,110,,,False,False
 2020-03-11,BLR,EU,Belarus,53.711111,27.973847,6,0,0,6,0,0,False,False
-2020-03-11,BEL,EU,Belgium,50.499527,4.475402,775,4,0,771,0,0,True,True
+2020-03-11,BEL,EU,Belgium,50.499527,4.475402,775,4,,771,0,0,True,True
 2020-03-11,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
 2020-03-11,BRA,SA,Brazil,-14.242914,-53.189267,34,,,34,,,False,False
 2020-03-11,BFA,AF,Burkina Faso,12.24185,-1.55676,2,,,2,,,False,False
@@ -1285,7 +1285,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,AZE,AS,Azerbaijan,40.147396,47.572098,13,,,13,,,False,False
 2020-03-12,BHR,AS,Bahrain,26.039722,50.559306,162,,,162,,,False,False
 2020-03-12,BLR,EU,Belarus,53.711111,27.973847,12,0,0,12,0,0,False,False
-2020-03-12,BEL,EU,Belgium,50.499527,4.475402,1025,5,0,1020,0,0,True,True
+2020-03-12,BEL,EU,Belgium,50.499527,4.475402,1025,5,,1020,0,0,True,True
 2020-03-12,BOL,SA,Bolivia,-16.28835,-63.549429,2,,,2,,,False,False
 2020-03-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
 2020-03-12,BRA,SA,Brazil,-14.242914,-53.189267,52,,,52,,,False,False
@@ -1363,7 +1363,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,AZE,AS,Azerbaijan,40.147396,47.572098,13,,,13,,,False,False
 2020-03-13,BHR,AS,Bahrain,26.039722,50.559306,162,,,162,,,False,False
 2020-03-13,BLR,EU,Belarus,53.711111,27.973847,12,0,0,12,0,0,False,False
-2020-03-13,BEL,EU,Belgium,50.499527,4.475402,1363,8,0,1355,0,0,True,True
+2020-03-13,BEL,EU,Belgium,50.499527,4.475402,1363,8,,1355,0,0,True,True
 2020-03-13,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-13,BOL,SA,Bolivia,-16.28835,-63.549429,3,,,3,,,False,False
 2020-03-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3,0,0,3,0,0,False,False
@@ -1441,7 +1441,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-14,AUS,OC,Australia,-26.853388,133.275155,197,3,,194,,,False,False
 2020-03-14,AUT,EU,Austria,47.697542,13.349319,655,,,655,,,True,True
 2020-03-14,BHR,AS,Bahrain,26.039722,50.559306,210,,,210,,,False,False
-2020-03-14,BEL,EU,Belgium,50.499527,4.475402,1542,12,0,1530,0,0,True,True
+2020-03-14,BEL,EU,Belgium,50.499527,4.475402,1542,12,,1530,0,0,True,True
 2020-03-14,BOL,SA,Bolivia,-16.28835,-63.549429,10,,,10,,,False,False
 2020-03-14,BRA,SA,Brazil,-14.242914,-53.189267,98,,,98,,,False,False
 2020-03-14,CAN,NA,Canada,62.393303,-96.818145,176,1,,175,,,False,False
@@ -1518,7 +1518,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-15,AZE,AS,Azerbaijan,40.147396,47.572098,19,,,19,,,False,False
 2020-03-15,BHR,AS,Bahrain,26.039722,50.559306,211,,,211,,,False,False
 2020-03-15,BGD,AS,Bangladesh,23.68764,90.351002,3,,,3,,,False,False
-2020-03-15,BEL,EU,Belgium,50.499527,4.475402,1756,18,0,1738,266,54,True,True
+2020-03-15,BEL,EU,Belgium,50.499527,4.475402,1756,18,,1738,266,54,True,True
 2020-03-15,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-15,BOL,SA,Bolivia,-16.28835,-63.549429,10,,,10,,,False,False
 2020-03-15,BRA,SA,Brazil,-14.242914,-53.189267,121,,,121,,,False,False
@@ -1617,7 +1617,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,BHS,NA,Bahamas,24.885993,-76.709892,1,,,1,,,False,False
 2020-03-16,BHR,AS,Bahrain,26.039722,50.559306,214,,,214,,,False,False
 2020-03-16,BLR,EU,Belarus,53.711111,27.973847,27,0,0,27,0,0,False,False
-2020-03-16,BEL,EU,Belgium,50.499527,4.475402,2143,29,0,2114,370,79,True,True
+2020-03-16,BEL,EU,Belgium,50.499527,4.475402,2143,29,,2114,370,79,True,True
 2020-03-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5,0,0,5,0,0,False,False
 2020-03-16,BRA,SA,Brazil,-14.242914,-53.189267,200,,,200,,,False,False
 2020-03-16,BFA,AF,Burkina Faso,12.24185,-1.55676,3,,,3,,,False,False
@@ -1730,7 +1730,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,BHR,AS,Bahrain,26.039722,50.559306,221,1,,220,,,False,False
 2020-03-17,BGD,AS,Bangladesh,23.68764,90.351002,5,,,5,,,False,False
 2020-03-17,BLR,EU,Belarus,53.711111,27.973847,36,0,0,36,0,0,False,False
-2020-03-17,BEL,EU,Belgium,50.499527,4.475402,2565,41,0,2524,497,100,True,True
+2020-03-17,BEL,EU,Belgium,50.499527,4.475402,2565,41,,2524,497,100,True,True
 2020-03-17,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-17,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-17,BOL,SA,Bolivia,-16.28835,-63.549429,11,,,11,,,False,False
@@ -1851,7 +1851,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,BGD,AS,Bangladesh,23.68764,90.351002,8,,,8,,,False,False
 2020-03-18,BRB,NA,Barbados,13.183551,-59.534649,1,,,1,,,False,False
 2020-03-18,BLR,EU,Belarus,53.711111,27.973847,36,0,0,36,0,0,False,False
-2020-03-18,BEL,EU,Belgium,50.499527,4.475402,3099,63,0,3036,650,131,True,True
+2020-03-18,BEL,EU,Belgium,50.499527,4.475402,3099,63,,3036,650,131,True,True
 2020-03-18,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-18,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-18,BOL,SA,Bolivia,-16.28835,-63.549429,12,,,12,,,False,False
@@ -1983,7 +1983,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,BGD,AS,Bangladesh,23.68764,90.351002,10,,,10,,,False,False
 2020-03-19,BRB,NA,Barbados,13.183551,-59.534649,1,,,1,,,False,False
 2020-03-19,BLR,EU,Belarus,53.711111,27.973847,46,0,0,46,0,0,False,False
-2020-03-19,BEL,EU,Belgium,50.499527,4.475402,3812,91,0,3721,844,165,True,True
+2020-03-19,BEL,EU,Belgium,50.499527,4.475402,3812,91,,3721,844,165,True,True
 2020-03-19,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-19,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-19,BOL,SA,Bolivia,-16.28835,-63.549429,12,,,12,,,False,False
@@ -2120,7 +2120,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,BGD,AS,Bangladesh,23.68764,90.351002,10,,,10,,,False,False
 2020-03-20,BRB,NA,Barbados,13.183551,-59.534649,2,,,2,,,False,False
 2020-03-20,BLR,EU,Belarus,53.711111,27.973847,57,0,0,57,0,0,False,False
-2020-03-20,BEL,EU,Belgium,50.499527,4.475402,4475,122,0,4353,1101,228,True,True
+2020-03-20,BEL,EU,Belgium,50.499527,4.475402,4475,122,,4353,1101,228,True,True
 2020-03-20,BEN,AF,Benin,9.322048,2.313138,2,,,2,,,False,False
 2020-03-20,BMU,NA,Bermuda,32.320236,-64.774022,2,,,2,,,False,False
 2020-03-20,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
@@ -2267,7 +2267,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,BHR,AS,Bahrain,26.039722,50.559306,285,1,,284,,,False,False
 2020-03-21,BGD,AS,Bangladesh,23.68764,90.351002,17,,,17,,,False,False
 2020-03-21,BRB,NA,Barbados,13.183551,-59.534649,6,,,6,,,False,False
-2020-03-21,BEL,EU,Belgium,50.499527,4.475402,4945,161,0,4784,1384,290,True,True
+2020-03-21,BEL,EU,Belgium,50.499527,4.475402,4945,161,,4784,1384,290,True,True
 2020-03-21,BEN,AF,Benin,9.322048,2.313138,2,,,2,,,False,False
 2020-03-21,BMU,NA,Bermuda,32.320236,-64.774022,2,,,2,,,False,False
 2020-03-21,BTN,AS,Bhutan,27.515709,90.442455,2,,,2,,,False,False
@@ -2405,7 +2405,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,ZMB,AF,Zambia,-13.151917,27.852537,2,,,2,,,False,False
 2020-03-21,ZWE,AF,Zimbabwe,-19.013286,29.146666,1,,,1,,,False,False
 2020-03-22,ALB,EU,Albania,41.156986,20.181222,76,0,0,76,0,0,False,False
-2020-03-22,BEL,EU,Belgium,50.499527,4.475402,5431,203,0,5228,1646,322,True,True
+2020-03-22,BEL,EU,Belgium,50.499527,4.475402,5431,203,,5228,1646,322,True,True
 2020-03-22,BGR,EU,Bulgaria,42.729862,25.491667,190,3,0,187,,,True,True
 2020-03-22,HRV,EU,Croatia,44.48732,16.460306,220,0,0,220,,,True,True
 2020-03-22,CYP,EU,Cyprus,35.167406,33.435499,84,0,0,84,,,True,True
@@ -2451,7 +2451,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,BGD,AS,Bangladesh,23.68764,90.351002,27,3,,24,,,False,False
 2020-03-23,BRB,NA,Barbados,13.183551,-59.534649,17,,,17,,,False,False
 2020-03-23,BLR,EU,Belarus,53.711111,27.973847,76,0,0,76,0,0,False,False
-2020-03-23,BEL,EU,Belgium,50.499527,4.475402,6760,280,0,6480,1883,385,True,True
+2020-03-23,BEL,EU,Belgium,50.499527,4.475402,6760,280,,6480,1883,385,True,True
 2020-03-23,BEN,AF,Benin,9.322048,2.313138,2,,,2,,,False,False
 2020-03-23,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
 2020-03-23,BTN,AS,Bhutan,27.515709,90.442455,2,,,2,,,False,False
@@ -2618,7 +2618,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,BGD,AS,Bangladesh,23.68764,90.351002,33,3,,30,,,False,False
 2020-03-24,BRB,NA,Barbados,13.183551,-59.534649,17,,,17,,,False,False
 2020-03-24,BLR,EU,Belarus,53.711111,27.973847,81,0,0,81,,,False,False
-2020-03-24,BEL,EU,Belgium,50.499527,4.475402,7955,354,0,7601,2140,474,True,True
+2020-03-24,BEL,EU,Belgium,50.499527,4.475402,7955,354,,7601,2140,474,True,True
 2020-03-24,BLZ,NA,Belize,17.192929,-88.5009,1,,,1,,,False,False
 2020-03-24,BEN,AF,Benin,9.322048,2.313138,5,,,5,,,False,False
 2020-03-24,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
@@ -2788,7 +2788,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,BGD,AS,Bangladesh,23.68764,90.351002,39,4,0,35,,,False,False
 2020-03-25,BRB,NA,Barbados,13.183551,-59.534649,18,0,0,18,,,False,False
 2020-03-25,BLR,EU,Belarus,53.711111,27.973847,81,0,0,81,,,False,False
-2020-03-25,BEL,EU,Belgium,50.499527,4.475402,9154,452,0,8702,2721,612,True,True
+2020-03-25,BEL,EU,Belgium,50.499527,4.475402,9154,452,,8702,2721,612,True,True
 2020-03-25,BLZ,NA,Belize,17.192929,-88.5009,1,0,0,1,,,False,False
 2020-03-25,BEN,AF,Benin,9.322048,2.313138,5,0,0,5,,,False,False
 2020-03-25,BMU,NA,Bermuda,32.320236,-64.774022,6,0,0,6,,,False,False
@@ -2963,7 +2963,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,BGD,AS,Bangladesh,23.68764,90.351002,39,5,,34,,,False,False
 2020-03-26,BRB,NA,Barbados,13.183551,-59.534649,18,,,18,,,False,False
 2020-03-26,BLR,EU,Belarus,53.711111,27.973847,86,0,0,86,0,0,False,False
-2020-03-26,BEL,EU,Belgium,50.499527,4.475402,10517,553,0,9964,3077,690,True,True
+2020-03-26,BEL,EU,Belgium,50.499527,4.475402,10517,553,,9964,3077,690,True,True
 2020-03-26,BLZ,NA,Belize,17.192929,-88.5009,2,,,2,,,False,False
 2020-03-26,BEN,AF,Benin,9.322048,2.313138,5,,,5,,,False,False
 2020-03-26,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
@@ -3128,7 +3128,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,AND,EU,Andorra,42.542268,1.596865,224,3,0,221,0,0,False,False
 2020-03-27,AUT,EU,Austria,47.697542,13.349319,7399,0,0,7399,0,0,True,True
 2020-03-27,BLR,EU,Belarus,53.711111,27.973847,86,0,0,86,0,0,False,False
-2020-03-27,BEL,EU,Belgium,50.499527,4.475402,12036,676,0,11360,3650,789,True,True
+2020-03-27,BEL,EU,Belgium,50.499527,4.475402,12036,677,,11359,3650,789,True,True
 2020-03-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,74,3,0,71,0,0,False,False
 2020-03-27,BGR,EU,Bulgaria,42.729862,25.491667,276,3,0,273,0,0,True,True
 2020-03-27,HRV,EU,Croatia,44.48732,16.460306,588,3,0,585,0,0,True,True
@@ -3185,7 +3185,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,BGD,AS,Bangladesh,23.68764,90.351002,48,5,0,43,0,0,False,False
 2020-03-28,BRB,NA,Barbados,13.183551,-59.534649,24,0,0,24,0,0,False,False
 2020-03-28,BLR,EU,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-28,BEL,EU,Belgium,50.499527,4.475402,12880,809,0,12071,4089,867,True,True
+2020-03-28,BEL,EU,Belgium,50.499527,4.475402,12880,810,,12070,4089,867,True,True
 2020-03-28,BLZ,NA,Belize,17.192929,-88.5009,2,0,0,2,0,0,False,False
 2020-03-28,BEN,AF,Benin,9.322048,2.313138,6,0,0,6,0,0,False,False
 2020-03-28,BMU,NA,Bermuda,32.320236,-64.774022,17,0,0,17,0,0,False,False
@@ -3364,7 +3364,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,BGD,AS,Bangladesh,23.68764,90.351002,48,5,0,43,0,0,False,False
 2020-03-29,BRB,NA,Barbados,13.183551,-59.534649,26,0,0,26,0,0,False,False
 2020-03-29,BLR,EU,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-29,BEL,EU,Belgium,50.499527,4.475402,13563,948,0,12615,4480,942,True,True
+2020-03-29,BEL,EU,Belgium,50.499527,4.475402,13563,949,,12614,4480,942,True,True
 2020-03-29,BLZ,NA,Belize,17.192929,-88.5009,2,0,0,2,0,0,False,False
 2020-03-29,BEN,AF,Benin,9.322048,2.313138,6,0,0,6,0,0,False,False
 2020-03-29,BMU,NA,Bermuda,32.320236,-64.774022,22,0,0,22,0,0,False,False
@@ -3543,7 +3543,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,BGD,AS,Bangladesh,23.68764,90.351002,49,5,0,44,0,0,False,False
 2020-03-30,BRB,NA,Barbados,13.183551,-59.534649,33,0,0,33,0,0,False,False
 2020-03-30,BLR,EU,Belarus,53.711111,27.973847,94,0,0,94,0,0,False,False
-2020-03-30,BEL,EU,Belgium,50.499527,4.475402,15301,1117,0,14184,4897,1021,True,True
+2020-03-30,BEL,EU,Belgium,50.499527,4.475402,15301,1118,,14183,4897,1021,True,True
 2020-03-30,BLZ,NA,Belize,17.192929,-88.5009,2,0,0,2,0,0,False,False
 2020-03-30,BEN,AF,Benin,9.322048,2.313138,6,0,0,6,0,0,False,False
 2020-03-30,BMU,NA,Bermuda,32.320236,-64.774022,22,0,0,22,0,0,False,False
@@ -3726,7 +3726,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,BGD,AS,Bangladesh,23.68764,90.351002,49,5,0,44,0,0,False,False
 2020-03-31,BRB,NA,Barbados,13.183551,-59.534649,34,0,0,34,0,0,False,False
 2020-03-31,BLR,EU,Belarus,53.711111,27.973847,105,0,0,105,0,0,False,False
-2020-03-31,BEL,EU,Belgium,50.499527,4.475402,16982,1302,0,15680,4989,1088,True,True
+2020-03-31,BEL,EU,Belgium,50.499527,4.475402,16982,1303,,15679,4989,1088,True,True
 2020-03-31,BLZ,NA,Belize,17.192929,-88.5009,3,0,0,3,0,0,False,False
 2020-03-31,BEN,AF,Benin,9.322048,2.313138,6,0,0,6,0,0,False,False
 2020-03-31,BMU,NA,Bermuda,32.320236,-64.774022,27,0,0,27,0,0,False,False
@@ -3910,7 +3910,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,BGD,AS,Bangladesh,23.68764,90.351002,51,5,0,46,0,0,False,False
 2020-04-01,BRB,NA,Barbados,13.183551,-59.534649,34,0,0,34,0,0,False,False
 2020-04-01,BLR,EU,Belarus,53.711111,27.973847,152,0,0,152,0,0,False,False
-2020-04-01,BEL,EU,Belgium,50.499527,4.475402,18485,1548,0,16937,5220,1144,True,True
+2020-04-01,BEL,EU,Belgium,50.499527,4.475402,18485,1551,,16934,5220,1144,True,True
 2020-04-01,BLZ,NA,Belize,17.192929,-88.5009,3,0,0,3,0,0,False,False
 2020-04-01,BEN,AF,Benin,9.322048,2.313138,8,0,0,8,0,0,False,False
 2020-04-01,BMU,NA,Bermuda,32.320236,-64.774022,32,0,0,32,0,0,False,False
@@ -4098,7 +4098,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,BGD,AS,Bangladesh,23.68764,90.351002,54,6,0,48,0,0,False,False
 2020-04-02,BRB,NA,Barbados,13.183551,-59.534649,45,0,0,45,0,0,False,False
 2020-04-02,BLR,EU,Belarus,53.711111,27.973847,152,0,0,152,0,0,False,False
-2020-04-02,BEL,EU,Belgium,50.499527,4.475402,19945,1757,0,18188,5383,1205,True,True
+2020-04-02,BEL,EU,Belgium,50.499527,4.475402,19945,1760,,18185,5383,1205,True,True
 2020-04-02,BLZ,NA,Belize,17.192929,-88.5009,3,0,0,3,0,0,False,False
 2020-04-02,BEN,AF,Benin,9.322048,2.313138,13,0,0,13,0,0,False,False
 2020-04-02,BMU,NA,Bermuda,32.320236,-64.774022,32,0,0,32,0,0,False,False
@@ -4286,7 +4286,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,BGD,AS,Bangladesh,23.68764,90.351002,56,6,0,50,0,0,False,False
 2020-04-03,BRB,NA,Barbados,13.183551,-59.534649,45,0,0,45,0,0,False,False
 2020-04-03,BLR,EU,Belarus,53.711111,27.973847,254,4,0,250,0,0,False,False
-2020-04-03,BEL,EU,Belgium,50.499527,4.475402,21636,1988,0,19648,5513,1245,True,True
+2020-04-03,BEL,EU,Belgium,50.499527,4.475402,21636,1991,,19645,5513,1245,True,True
 2020-04-03,BLZ,NA,Belize,17.192929,-88.5009,3,0,0,3,0,0,False,False
 2020-04-03,BEN,AF,Benin,9.322048,2.313138,13,0,0,13,0,0,False,False
 2020-04-03,BMU,NA,Bermuda,32.320236,-64.774022,35,0,0,35,0,0,False,False
@@ -4475,7 +4475,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,BGD,AS,Bangladesh,23.68764,90.351002,61,6,0,55,0,0,False,False
 2020-04-04,BRB,NA,Barbados,13.183551,-59.534649,45,0,0,45,0,0,False,False
 2020-04-04,BLR,EU,Belarus,53.711111,27.973847,351,4,0,347,0,0,False,False
-2020-04-04,BEL,EU,Belgium,50.499527,4.475402,22561,2262,0,20299,5531,1261,True,True
+2020-04-04,BEL,EU,Belgium,50.499527,4.475402,22561,2265,,20296,5531,1261,True,True
 2020-04-04,BLZ,NA,Belize,17.192929,-88.5009,4,0,0,4,0,0,False,False
 2020-04-04,BEN,AF,Benin,9.322048,2.313138,16,0,0,16,0,0,False,False
 2020-04-04,BMU,NA,Bermuda,32.320236,-64.774022,35,0,0,35,0,0,False,False
@@ -4663,7 +4663,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,BGD,AS,Bangladesh,23.68764,90.351002,70,8,0,62,0,0,False,False
 2020-04-05,BRB,NA,Barbados,13.183551,-59.534649,51,0,0,51,0,0,False,False
 2020-04-05,BLR,EU,Belarus,53.711111,27.973847,394,5,0,389,0,0,False,False
-2020-04-05,BEL,EU,Belgium,50.499527,4.475402,23226,2495,0,20731,5620,1267,True,True
+2020-04-05,BEL,EU,Belgium,50.499527,4.475402,23226,2498,,20728,5620,1267,True,True
 2020-04-05,BLZ,NA,Belize,17.192929,-88.5009,4,0,0,4,0,0,False,False
 2020-04-05,BEN,AF,Benin,9.322048,2.313138,16,0,0,16,0,0,False,False
 2020-04-05,BMU,NA,Bermuda,32.320236,-64.774022,37,0,0,37,0,0,False,False
@@ -4851,7 +4851,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,BGD,AS,Bangladesh,23.68764,90.351002,88,9,0,79,0,0,False,False
 2020-04-06,BRB,NA,Barbados,13.183551,-59.534649,56,1,0,55,0,0,False,False
 2020-04-06,BLR,EU,Belarus,53.711111,27.973847,564,8,0,556,0,0,False,False
-2020-04-06,BEL,EU,Belgium,50.499527,4.475402,25148,2768,0,22380,5759,1260,True,True
+2020-04-06,BEL,EU,Belgium,50.499527,4.475402,25148,2771,,22377,5759,1260,True,True
 2020-04-06,BLZ,NA,Belize,17.192929,-88.5009,5,1,0,4,0,0,False,False
 2020-04-06,BEN,AF,Benin,9.322048,2.313138,22,0,0,22,0,0,False,False
 2020-04-06,BMU,NA,Bermuda,32.320236,-64.774022,37,0,0,37,0,0,False,False
@@ -5042,7 +5042,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,BGD,AS,Bangladesh,23.68764,90.351002,123,12,0,111,0,0,False,False
 2020-04-07,BRB,NA,Barbados,13.183551,-59.534649,60,2,0,58,0,0,False,False
 2020-04-07,BLR,EU,Belarus,53.711111,27.973847,700,13,0,687,0,0,False,False
-2020-04-07,BEL,EU,Belgium,50.499527,4.475402,26648,3071,0,23577,5715,1276,True,True
+2020-04-07,BEL,EU,Belgium,50.499527,4.475402,26648,3074,,23574,5715,1276,True,True
 2020-04-07,BLZ,NA,Belize,17.192929,-88.5009,7,1,0,6,0,0,False,False
 2020-04-07,BEN,AF,Benin,9.322048,2.313138,26,1,0,25,0,0,False,False
 2020-04-07,BMU,NA,Bermuda,32.320236,-64.774022,39,2,0,37,0,0,False,False
@@ -5233,7 +5233,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,BGD,AS,Bangladesh,23.68764,90.351002,164,17,0,147,0,0,False,False
 2020-04-08,BRB,NA,Barbados,13.183551,-59.534649,63,3,0,60,0,0,False,False
 2020-04-08,BLR,EU,Belarus,53.711111,27.973847,861,13,0,848,0,0,False,False
-2020-04-08,BEL,EU,Belgium,50.499527,4.475402,28235,3388,0,24847,5616,1285,True,True
+2020-04-08,BEL,EU,Belgium,50.499527,4.475402,28235,3391,,24844,5616,1285,True,True
 2020-04-08,BLZ,NA,Belize,17.192929,-88.5009,7,1,0,6,0,0,False,False
 2020-04-08,BEN,AF,Benin,9.322048,2.313138,26,1,0,25,0,0,False,False
 2020-04-08,BMU,NA,Bermuda,32.320236,-64.774022,39,2,0,37,0,0,False,False
@@ -5424,7 +5424,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,BGD,AS,Bangladesh,23.68764,90.351002,218,20,0,198,0,0,False,False
 2020-04-09,BRB,NA,Barbados,13.183551,-59.534649,63,3,0,60,0,0,False,False
 2020-04-09,BLR,EU,Belarus,53.711111,27.973847,1066,13,0,1053,0,0,False,False
-2020-04-09,BEL,EU,Belgium,50.499527,4.475402,30459,3659,0,26800,5636,1278,True,True
+2020-04-09,BEL,EU,Belgium,50.499527,4.475402,30459,3662,,26797,5636,1278,True,True
 2020-04-09,BLZ,NA,Belize,17.192929,-88.5009,8,1,0,7,0,0,False,False
 2020-04-09,BEN,AF,Benin,9.322048,2.313138,26,1,0,25,0,0,False,False
 2020-04-09,BMU,NA,Bermuda,32.320236,-64.774022,39,3,0,36,0,0,False,False
@@ -5616,7 +5616,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,BGD,AS,Bangladesh,23.68764,90.351002,330,21,0,309,0,0,False,False
 2020-04-10,BRB,NA,Barbados,13.183551,-59.534649,66,3,0,63,0,0,False,False
 2020-04-10,BLR,EU,Belarus,53.711111,27.973847,1486,16,0,1470,0,0,False,False
-2020-04-10,BEL,EU,Belgium,50.499527,4.475402,32778,3977,0,28801,5663,1262,True,True
+2020-04-10,BEL,EU,Belgium,50.499527,4.475402,32778,3980,,28798,5663,1262,True,True
 2020-04-10,BLZ,NA,Belize,17.192929,-88.5009,9,1,0,8,0,0,False,False
 2020-04-10,BEN,AF,Benin,9.322048,2.313138,30,1,0,29,0,0,False,False
 2020-04-10,BMU,NA,Bermuda,32.320236,-64.774022,48,4,0,44,0,0,False,False
@@ -5809,7 +5809,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,BGD,AS,Bangladesh,23.68764,90.351002,424,27,0,397,0,0,False,False
 2020-04-11,BRB,NA,Barbados,13.183551,-59.534649,67,4,0,63,0,0,False,False
 2020-04-11,BLR,EU,Belarus,53.711111,27.973847,1981,19,0,1962,0,0,False,False
-2020-04-11,BEL,EU,Belgium,50.499527,4.475402,33801,4267,0,29534,5437,1232,True,True
+2020-04-11,BEL,EU,Belgium,50.499527,4.475402,33801,4270,,29531,5437,1232,True,True
 2020-04-11,BLZ,NA,Belize,17.192929,-88.5009,10,2,0,8,0,0,False,False
 2020-04-11,BEN,AF,Benin,9.322048,2.313138,35,1,0,34,0,0,False,False
 2020-04-11,BMU,NA,Bermuda,32.320236,-64.774022,48,4,0,44,0,0,False,False
@@ -5987,7 +5987,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,AND,EU,Andorra,42.542268,1.596865,622,28,0,594,0,0,False,False
 2020-04-12,AUT,EU,Austria,47.697542,13.349319,13945,0,0,13945,748,253,True,True
 2020-04-12,BLR,EU,Belarus,53.711111,27.973847,2226,23,0,2203,0,0,False,False
-2020-04-12,BEL,EU,Belgium,50.499527,4.475402,34318,4610,0,29708,5441,1234,True,True
+2020-04-12,BEL,EU,Belgium,50.499527,4.475402,34318,4613,,29705,5441,1234,True,True
 2020-04-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,578,24,0,554,0,0,False,False
 2020-04-12,BGR,EU,Bulgaria,42.729862,25.491667,669,29,0,640,0,0,True,True
 2020-04-12,CYP,EU,Cyprus,35.167406,33.435499,616,15,0,601,0,0,True,True
@@ -6045,7 +6045,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,BGD,AS,Bangladesh,23.68764,90.351002,621,34,0,587,0,0,False,False
 2020-04-13,BRB,NA,Barbados,13.183551,-59.534649,71,4,0,67,0,0,False,False
 2020-04-13,BLR,EU,Belarus,53.711111,27.973847,2578,26,0,2552,0,0,False,False
-2020-04-13,BEL,EU,Belgium,50.499527,4.475402,34850,4892,0,29958,5554,1226,True,True
+2020-04-13,BEL,EU,Belgium,50.499527,4.475402,34850,4895,,29955,5554,1226,True,True
 2020-04-13,BLZ,NA,Belize,17.192929,-88.5009,14,2,0,12,0,0,False,False
 2020-04-13,BEN,AF,Benin,9.322048,2.313138,35,1,0,34,0,0,False,False
 2020-04-13,BMU,NA,Bermuda,32.320236,-64.774022,57,4,0,53,0,0,False,False
@@ -6236,7 +6236,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,BGD,AS,Bangladesh,23.68764,90.351002,803,39,0,764,0,0,False,False
 2020-04-14,BRB,NA,Barbados,13.183551,-59.534649,72,4,0,68,0,0,False,False
 2020-04-14,BLR,EU,Belarus,53.711111,27.973847,2919,29,0,2890,0,0,False,False
-2020-04-14,BEL,EU,Belgium,50.499527,4.475402,36412,5167,0,31245,5532,1204,True,True
+2020-04-14,BEL,EU,Belgium,50.499527,4.475402,36412,5170,,31242,5532,1204,True,True
 2020-04-14,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-14,BEN,AF,Benin,9.322048,2.313138,35,1,0,34,0,0,False,False
 2020-04-14,BMU,NA,Bermuda,32.320236,-64.774022,57,4,0,53,0,0,False,False
@@ -6427,7 +6427,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,BGD,AS,Bangladesh,23.68764,90.351002,1012,46,0,966,0,0,False,False
 2020-04-15,BRB,NA,Barbados,13.183551,-59.534649,73,5,0,68,0,0,False,False
 2020-04-15,BLR,EU,Belarus,53.711111,27.973847,3281,33,0,3248,0,0,False,False
-2020-04-15,BEL,EU,Belgium,50.499527,4.475402,38032,5442,0,32590,5331,1182,True,True
+2020-04-15,BEL,EU,Belgium,50.499527,4.475402,38032,5445,,32587,5331,1182,True,True
 2020-04-15,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-15,BEN,AF,Benin,9.322048,2.313138,35,1,0,34,0,0,False,False
 2020-04-15,BMU,NA,Bermuda,32.320236,-64.774022,57,5,0,52,0,0,False,False
@@ -6613,7 +6613,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,BHR,AS,Bahrain,26.039722,50.559306,1673,7,0,1666,0,0,False,False
 2020-04-16,BGD,AS,Bangladesh,23.68764,90.351002,1231,50,0,1181,0,0,False,False
 2020-04-16,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
-2020-04-16,BEL,EU,Belgium,50.499527,4.475402,39691,5696,0,33995,5181,1150,True,True
+2020-04-16,BEL,EU,Belgium,50.499527,4.475402,39691,5699,,33992,5181,1150,True,True
 2020-04-16,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-16,BEN,AF,Benin,9.322048,2.313138,35,1,0,34,0,0,False,False
 2020-04-16,BMU,NA,Bermuda,32.320236,-64.774022,81,5,0,76,0,0,False,False
@@ -6804,7 +6804,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,BGD,AS,Bangladesh,23.68764,90.351002,1572,60,0,1512,0,0,False,False
 2020-04-17,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-17,BLR,EU,Belarus,53.711111,27.973847,4204,40,0,4164,0,0,False,False
-2020-04-17,BEL,EU,Belgium,50.499527,4.475402,41071,5900,0,35171,5088,1119,True,True
+2020-04-17,BEL,EU,Belgium,50.499527,4.475402,41071,5903,,35168,5088,1119,True,True
 2020-04-17,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-17,BEN,AF,Benin,9.322048,2.313138,37,1,0,36,0,0,False,False
 2020-04-17,BMU,NA,Bermuda,32.320236,-64.774022,83,5,0,78,0,0,False,False
@@ -6996,7 +6996,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,BGD,AS,Bangladesh,23.68764,90.351002,1838,75,0,1763,0,0,False,False
 2020-04-18,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-18,BLR,EU,Belarus,53.711111,27.973847,4779,42,0,4737,0,0,False,False
-2020-04-18,BEL,EU,Belgium,50.499527,4.475402,41773,6111,0,35662,4892,1081,True,True
+2020-04-18,BEL,EU,Belgium,50.499527,4.475402,41773,6113,,35660,4892,1081,True,True
 2020-04-18,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-18,BEN,AF,Benin,9.322048,2.313138,37,1,0,36,0,0,False,False
 2020-04-18,BMU,NA,Bermuda,32.320236,-64.774022,83,5,0,78,0,0,False,False
@@ -7189,7 +7189,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,BGD,AS,Bangladesh,23.68764,90.351002,2144,84,0,2060,0,0,False,False
 2020-04-19,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-19,BLR,EU,Belarus,53.711111,27.973847,4779,45,0,4734,0,0,False,False
-2020-04-19,BEL,EU,Belgium,50.499527,4.475402,42221,6324,0,35897,4940,1071,True,True
+2020-04-19,BEL,EU,Belgium,50.499527,4.475402,42221,6326,,35895,4940,1071,True,True
 2020-04-19,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-19,BEN,AF,Benin,9.322048,2.313138,37,1,0,36,0,0,False,False
 2020-04-19,BMU,NA,Bermuda,32.320236,-64.774022,86,5,0,81,0,0,False,False
@@ -7382,7 +7382,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,BGD,AS,Bangladesh,23.68764,90.351002,2456,91,0,2365,0,0,False,False
 2020-04-20,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-20,BLR,EU,Belarus,53.711111,27.973847,4779,47,0,4732,0,0,False,False
-2020-04-20,BEL,EU,Belgium,50.499527,4.475402,43489,6523,0,36966,4996,1079,True,True
+2020-04-20,BEL,EU,Belgium,50.499527,4.475402,43489,6525,,36964,4996,1079,True,True
 2020-04-20,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-20,BEN,AF,Benin,9.322048,2.313138,37,1,0,36,0,0,False,False
 2020-04-20,BMU,NA,Bermuda,32.320236,-64.774022,86,5,0,81,0,0,False,False
@@ -7575,7 +7575,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,BGD,AS,Bangladesh,23.68764,90.351002,2948,101,0,2847,0,0,False,False
 2020-04-21,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-21,BLR,EU,Belarus,53.711111,27.973847,6264,51,0,6213,0,0,False,False
-2020-04-21,BEL,EU,Belgium,50.499527,4.475402,44746,6725,0,38021,4765,1020,True,True
+2020-04-21,BEL,EU,Belgium,50.499527,4.475402,44746,6727,,38019,4765,1020,True,True
 2020-04-21,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-21,BEN,AF,Benin,9.322048,2.313138,54,1,0,53,0,0,False,False
 2020-04-21,BMU,NA,Bermuda,32.320236,-64.774022,86,5,0,81,0,0,False,False
@@ -7767,7 +7767,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,BGD,AS,Bangladesh,23.68764,90.351002,3382,110,0,3272,0,0,False,False
 2020-04-22,BRB,NA,Barbados,13.183551,-59.534649,75,5,0,70,0,0,False,False
 2020-04-22,BLR,EU,Belarus,53.711111,27.973847,6723,55,0,6668,0,0,False,False
-2020-04-22,BEL,EU,Belgium,50.499527,4.475402,45515,6917,0,38598,4527,993,True,True
+2020-04-22,BEL,EU,Belgium,50.499527,4.475402,45515,6919,,38596,4527,993,True,True
 2020-04-22,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-22,BEN,AF,Benin,9.322048,2.313138,54,1,0,53,0,0,False,False
 2020-04-22,BMU,NA,Bermuda,32.320236,-64.774022,98,5,0,93,0,0,False,False
@@ -7960,7 +7960,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,BGD,AS,Bangladesh,23.68764,90.351002,3772,120,0,3652,0,0,False,False
 2020-04-23,BRB,NA,Barbados,13.183551,-59.534649,76,6,0,70,0,0,False,False
 2020-04-23,BLR,EU,Belarus,53.711111,27.973847,7281,58,0,7223,0,0,False,False
-2020-04-23,BEL,EU,Belgium,50.499527,4.475402,46482,7092,0,39390,4355,970,True,True
+2020-04-23,BEL,EU,Belgium,50.499527,4.475402,46482,7094,,39388,4355,970,True,True
 2020-04-23,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-23,BEN,AF,Benin,9.322048,2.313138,54,1,0,53,0,0,False,False
 2020-04-23,BMU,NA,Bermuda,32.320236,-64.774022,99,5,0,94,0,0,False,False
@@ -8151,7 +8151,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,BGD,AS,Bangladesh,23.68764,90.351002,4186,127,0,4059,0,0,False,False
 2020-04-24,BRB,NA,Barbados,13.183551,-59.534649,76,6,0,70,0,0,False,False
 2020-04-24,BLR,EU,Belarus,53.711111,27.973847,8022,60,0,7962,0,0,False,False
-2020-04-24,BEL,EU,Belgium,50.499527,4.475402,47282,7240,0,40042,4195,934,True,True
+2020-04-24,BEL,EU,Belgium,50.499527,4.475402,47282,7241,,40041,4195,934,True,True
 2020-04-24,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-24,BEN,AF,Benin,9.322048,2.313138,58,1,0,57,0,0,False,False
 2020-04-24,BMU,NA,Bermuda,32.320236,-64.774022,99,5,0,94,0,0,False,False
@@ -8344,7 +8344,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,BGD,AS,Bangladesh,23.68764,90.351002,4689,131,0,4558,0,0,False,False
 2020-04-25,BRB,NA,Barbados,13.183551,-59.534649,76,6,0,70,0,0,False,False
 2020-04-25,BLR,EU,Belarus,53.711111,27.973847,8773,63,0,8710,0,0,False,False
-2020-04-25,BEL,EU,Belgium,50.499527,4.475402,47669,7395,0,40274,3957,901,True,True
+2020-04-25,BEL,EU,Belgium,50.499527,4.475402,47669,7396,,40273,3957,901,True,True
 2020-04-25,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-25,BEN,AF,Benin,9.322048,2.313138,58,1,0,57,0,0,False,False
 2020-04-25,BMU,NA,Bermuda,32.320236,-64.774022,99,5,0,94,0,0,False,False
@@ -8536,7 +8536,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,BGD,AS,Bangladesh,23.68764,90.351002,4998,140,0,4858,0,0,False,False
 2020-04-26,BRB,NA,Barbados,13.183551,-59.534649,79,6,0,73,0,0,False,False
 2020-04-26,BLR,EU,Belarus,53.711111,27.973847,9590,67,0,9523,0,0,False,False
-2020-04-26,BEL,EU,Belgium,50.499527,4.475402,47873,7571,0,40302,3968,903,True,True
+2020-04-26,BEL,EU,Belgium,50.499527,4.475402,47873,7572,,40301,3968,903,True,True
 2020-04-26,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-26,BEN,AF,Benin,9.322048,2.313138,58,1,0,57,0,0,False,False
 2020-04-26,BMU,NA,Bermuda,32.320236,-64.774022,99,5,0,94,0,0,False,False
@@ -8730,7 +8730,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,BGD,AS,Bangladesh,23.68764,90.351002,5416,145,0,5271,0,0,False,False
 2020-04-27,BRB,NA,Barbados,13.183551,-59.534649,79,6,0,73,0,0,False,False
 2020-04-27,BLR,EU,Belarus,53.711111,27.973847,10463,72,0,10391,0,0,False,False
-2020-04-27,BEL,EU,Belgium,50.499527,4.475402,48619,7698,0,40921,3976,876,True,True
+2020-04-27,BEL,EU,Belgium,50.499527,4.475402,48619,7699,,40920,3976,876,True,True
 2020-04-27,BLZ,NA,Belize,17.192929,-88.5009,18,2,0,16,0,0,False,False
 2020-04-27,BEN,AF,Benin,9.322048,2.313138,64,1,0,63,0,0,False,False
 2020-04-27,BMU,NA,Bermuda,32.320236,-64.774022,109,5,0,104,0,0,False,False
@@ -19055,25 +19055,178 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,YEM,AS,Yemen,,,902,244,,658,,,False,False
 2020-06-18,ZMB,AF,Zambia,-13.151917,27.852537,1412,11,,1401,,,False,False
 2020-06-18,ZWE,AF,Zimbabwe,-19.013286,29.146666,401,4,,397,,,False,False
+2020-06-19,AFG,AS,Afghanistan,33.930445,67.678945,27532,546,,26986,,,False,False
+2020-06-19,DZA,AF,Algeria,28.026875,1.65284,11385,811,,10574,,,False,False
 2020-06-19,AND,EU,Andorra,42.542268,1.596865,855,52,,803,,,False,False
+2020-06-19,AGO,AF,Angola,-11.209451,17.880669,155,7,,148,,,False,False
+2020-06-19,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
+2020-06-19,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
+2020-06-19,ARG,SA,Argentina,-38.421295,-63.587403,35539,929,,34610,,,False,False
+2020-06-19,ARM,AS,Armenia,40.066181,45.111108,18698,309,,18389,,,False,False
+2020-06-19,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
+2020-06-19,AUS,OC,Australia,-26.853388,133.275155,7391,102,,7289,,,False,False
 2020-06-19,AUT,EU,Austria,47.697542,13.349319,17197,662,16101,434,187,12,True,True
+2020-06-19,AZE,AS,Azerbaijan,40.147396,47.572098,11329,139,,11190,,,False,False
+2020-06-19,BHS,NA,Bahamas,24.885993,-76.709892,104,11,,93,,,False,False
+2020-06-19,BHR,AS,Bahrain,26.039722,50.559306,20430,55,,20375,,,False,False
+2020-06-19,BGD,AS,Bangladesh,23.68764,90.351002,102292,1343,,100949,,,False,False
+2020-06-19,BRB,NA,Barbados,13.183551,-59.534649,97,7,,90,,,False,False
 2020-06-19,BLR,EU,Belarus,53.711111,27.973847,56657,331,,56326,,,False,False
+2020-06-19,BLZ,NA,Belize,17.192929,-88.5009,22,2,,20,,,False,False
+2020-06-19,BEN,AF,Benin,9.322048,2.313138,597,11,,586,,,False,False
+2020-06-19,BMU,NA,Bermuda,32.320236,-64.774022,144,9,,135,,,False,False
+2020-06-19,BTN,AS,Bhutan,27.515709,90.442455,67,0,,67,,,False,False
+2020-06-19,BOL,SA,Bolivia,-16.28835,-63.549429,21499,697,,20802,,,False,False
+2020-06-19,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-19,BWA,AF,Botswana,-22.34403,24.680158,79,1,,78,,,False,False
+2020-06-19,BRA,SA,Brazil,-14.242914,-53.189267,978142,47748,,930394,,,False,False
+2020-06-19,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
 2020-06-19,BGR,EU,Bulgaria,42.729862,25.491667,3674,190,1941,1543,,,True,True
+2020-06-19,BFA,AF,Burkina Faso,12.24185,-1.55676,899,53,,846,,,False,False
+2020-06-19,BDI,AF,Burundi,-3.387918,29.920395,104,1,,103,,,False,False
+2020-06-19,KHM,AS,Cambodia,12.54775,104.98386,129,0,,129,,,False,False
+2020-06-19,CMR,AF,Cameroon,7.365302,12.34344,10638,282,,10356,,,False,False
+2020-06-19,CAN,NA,Canada,62.393303,-96.818145,100209,8300,,91909,,,False,False
+2020-06-19,CYM,NA,Cayman Islands,19.512365,-80.580024,193,1,,192,,,False,False
+2020-06-19,CAF,AF,Central African Republic,6.614041,20.941759,2605,19,,2586,,,False,False
+2020-06-19,TCD,AF,Chad,15.445718,18.738068,854,74,,780,,,False,False
+2020-06-19,CHL,SA,Chile,-36.711951,-73.601704,225103,3841,,221262,,,False,False
+2020-06-19,CHN,AS,China,34.668138,104.165802,84494,4638,,79856,,,False,False
+2020-06-19,COL,SA,Colombia,4.577317,-74.298973,60217,1950,,58267,,,False,False
+2020-06-19,COM,AF,Comoros,,,210,5,,205,,,False,False
+2020-06-19,CRI,NA,Costa Rica,9.624897,-84.253308,1871,12,,1859,,,False,False
+2020-06-19,CUB,NA,Cuba,21.527062,-79.544601,2295,85,,2210,,,False,False
+2020-06-19,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False
 2020-06-19,CYP,EU,Cyprus,35.167406,33.435499,985,19,,966,,,True,True
 2020-06-19,CZE,EU,Czech Republic,49.800901,15.478153,10283,334,7446,2503,,,True,True
+2020-06-19,DJI,AF,Djibouti,11.808375,42.595222,4557,43,,4514,,,False,False
+2020-06-19,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False
+2020-06-19,DOM,NA,Dominican Republic,18.736509,-70.161744,24645,635,,24010,,,False,False
+2020-06-19,ECU,SA,Ecuador,-1.779901,-78.131592,49097,4087,,45010,,,False,False
+2020-06-19,EGY,AF,Egypt,26.696361,30.246486,50437,1938,,48499,,,False,False
+2020-06-19,SLV,NA,El Salvador,13.796873,-88.910412,4200,86,,4114,,,False,False
+2020-06-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,,1294,,,False,False
+2020-06-19,ERI,AF,Eritrea,15.18132,39.786709,142,0,,142,,,False,False
+2020-06-19,ETH,AF,Ethiopia,9.148086,40.493059,3954,65,,3889,,,False,False
+2020-06-19,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
+2020-06-19,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
 2020-06-19,FIN,EU,Finland,64.952416,26.068944,7133,,,7133,,,True,True
+2020-06-19,PYF,OC,French Polynesia,-17.778572,-143.903496,60,0,,60,,,False,False
+2020-06-19,GAB,AF,Gabon,-0.828097,11.598909,4340,32,,4308,,,False,False
+2020-06-19,GMB,AF,Gambia,13.445412,-15.311436,36,1,,35,,,False,False
+2020-06-19,GEO,AS,Georgia,42.319847,43.368055,895,14,,881,,,False,False
 2020-06-19,DEU,EU,Germany,51.165706,10.452764,188534,8872,174400,5262,,,True,True
+2020-06-19,GHA,AF,Ghana,7.955012,-1.031819,12929,66,,12863,,,False,False
+2020-06-19,GIB,EU,Gibraltar,36.132235,-5.352273,176,0,,176,,,False,False
+2020-06-19,GRL,NA,Greenland,71.702379,-42.177174,13,0,,13,,,False,False
+2020-06-19,GRD,NA,Grenada,12.152588,-61.689557,23,0,,23,,,False,False
+2020-06-19,GUM,OC,Guam,13.446472,144.786613,200,5,,195,,,False,False
+2020-06-19,GTM,NA,Guatemala,15.776261,-90.229744,11868,449,,11419,,,False,False
+2020-06-19,GGY,EU,Guernsey,49.575693,-2.42318,252,13,,239,,,False,False
+2020-06-19,GIN,AF,Guinea,9.934887,-11.283845,4841,26,,4815,,,False,False
+2020-06-19,GNB,AF,Guinea Bissau,11.802527,-15.177029,1512,15,,1497,,,False,False
+2020-06-19,GUY,SA,Guyana,4.866324,-58.932507,183,12,,171,,,False,False
+2020-06-19,HTI,NA,Haiti,19.054426,-73.045971,4916,84,,4832,,,False,False
+2020-06-19,VAT,EU,Holy See,41.903859,12.452041,12,0,,12,,,False,False
+2020-06-19,HND,NA,Honduras,14.746334,-86.253097,10739,343,,10396,,,False,False
 2020-06-19,HUN,EU,Hungary,47.164638,19.508944,4081,568,2581,932,192,15,True,True
+2020-06-19,IND,AS,India,21.125681,82.794998,380532,12573,,367959,,,False,False
+2020-06-19,IDN,AS,Indonesia,-2.518722,118.015568,42762,2339,,40423,,,False,False
+2020-06-19,IRN,AS,Iran,32.420653,53.682375,197647,9272,,188375,,,False,False
+2020-06-19,IRQ,AS,Iraq,33.223737,43.685901,25717,856,,24861,,,False,False
 2020-06-19,IRL,EU,Ireland,53.41975,-8.240472,25355,1714,,23641,,,True,True
+2020-06-19,IMN,EU,Isle of Man,54.23782,-4.555111,336,24,,312,,,False,False
+2020-06-19,ISR,AS,Israel,31.418388,35.073541,20036,303,,19733,,,False,False
+2020-06-19,JAM,NA,Jamaica,18.115265,-77.273479,626,10,,616,,,False,False
+2020-06-19,JPN,AS,Japan,34.886306,134.379711,17740,935,,16805,,,False,False
+2020-06-19,JEY,EU,Jersey,49.217445,-2.141055,318,30,,288,,,False,False
+2020-06-19,JOR,AS,Jordan,31.276778,37.130583,1001,9,,992,,,False,False
+2020-06-19,KAZ,AS,Kazakhstan,48.193764,66.902264,16351,105,,16246,,,False,False
+2020-06-19,KEN,AF,Kenya,0.170945,37.903969,4257,117,,4140,,,False,False
+2020-06-19,XKX,EU,Kosovo,41.85637,21.803351,1486,33,,1453,,,False,False
+2020-06-19,KWT,AS,Kuwait,29.310278,47.493515,38074,308,,37766,,,False,False
+2020-06-19,KGZ,AS,Kyrgyzstan,41.205528,74.779888,2789,32,,2757,,,False,False
+2020-06-19,LAO,AS,Laos,18.205208,103.895043,19,0,,19,,,False,False
 2020-06-19,LVA,EU,Latvia,56.875584,24.607722,1108,30,,1078,,,True,True
+2020-06-19,LBN,AS,Lebanon,33.872639,35.876736,1495,32,,1463,,,False,False
+2020-06-19,LSO,AF,Lesotho,,,4,0,,4,,,False,False
+2020-06-19,LBR,AF,Liberia,6.452424,-9.428598,542,33,,509,,,False,False
+2020-06-19,LBY,AF,Libya,26.338522,17.268816,500,10,,490,,,False,False
 2020-06-19,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-19,LTU,EU,Lithuania,55.174112,23.906736,1784,76,,1708,,,True,True
+2020-06-19,MDG,AF,Madagascar,-18.777193,46.854328,1403,13,,1390,,,False,False
+2020-06-19,MWI,AF,Malawi,-13.24627,34.295385,592,8,,584,,,False,False
+2020-06-19,MYS,AS,Malaysia,4.109319,109.455475,8529,121,,8408,,,False,False
+2020-06-19,MDV,AS,Maldives,3.202833,73.165249,2137,8,,2129,,,False,False
+2020-06-19,MLI,AF,Mali,17.579757,-3.998823,1906,107,,1799,,,False,False
+2020-06-19,MRT,AF,Mauritania,21.00681,-10.947098,2223,95,,2128,,,False,False
+2020-06-19,MUS,AF,Mauritius,-15.422486,60.006449,337,10,,327,,,False,False
+2020-06-19,MEX,NA,Mexico,23.624813,-102.578671,165455,19747,,145708,,,False,False
 2020-06-19,MDA,EU,Moldova,46.979527,28.377195,13106,444,,12662,,,False,False
 2020-06-19,MCO,EU,Monaco,43.738348,7.424451,99,5,,94,,,False,False
+2020-06-19,MNG,AS,Mongolia,46.860945,103.836986,204,0,,204,,,False,False
 2020-06-19,MNE,EU,Montenegro,42.710152,19.410069,337,9,,328,,,False,True
+2020-06-19,MSR,NA,Montserrat,16.749415,-62.192741,11,1,,10,,,False,False
+2020-06-19,MAR,AF,Morocco,31.792306,-7.080168,9074,213,,8861,,,False,False
+2020-06-19,MOZ,AF,Mozambique,-18.670284,35.530157,662,4,,658,,,False,False
+2020-06-19,NAM,AF,Namibia,-22.965662,18.486165,39,0,,39,,,False,False
+2020-06-19,NPL,AS,Nepal,28.395056,84.127803,7848,22,,7826,,,False,False
+2020-06-19,NCL,OC,New Caledonia,-21.123889,165.846901,21,0,,21,,,False,False
+2020-06-19,NZL,OC,New Zealand,-40.9006,174.886,1157,22,,1135,,,False,False
+2020-06-19,NIC,NA,Nicaragua,12.866726,-85.214298,2014,64,,1950,,,False,False
+2020-06-19,NER,AF,Niger,17.611,8.080946,1020,67,,953,,,False,False
+2020-06-19,NGA,AF,Nigeria,9.084575,8.674252,18480,475,,18005,,,False,False
 2020-06-19,MKD,EU,North Macedonia,41.611,21.751417,4664,216,,4448,,,False,True
+2020-06-19,MNP,OC,Northern Mariana Islands,17.331835,145.47577,30,2,,28,,,False,False
+2020-06-19,OMN,AS,Oman,21.516861,55.859291,26818,119,,26699,,,False,False
+2020-06-19,PAK,AS,Pakistan,30.441861,69.359766,165062,3229,,161833,,,False,False
+2020-06-19,PSE,AS,Palestine,31.881464,34.894978,795,5,,790,,,False,False
+2020-06-19,PAN,NA,Panama,8.41771,-80.112778,23351,475,,22876,,,False,False
+2020-06-19,PNG,OC,Papua New Guinea,-6.48825,148.403152,8,0,,8,,,False,False
+2020-06-19,PRY,SA,Paraguay,-23.45139,-58.453215,1330,13,,1317,,,False,False
+2020-06-19,PER,SA,Peru,-9.181352,-75.002365,244388,7461,,236927,,,False,False
+2020-06-19,PHL,AS,Philippines,12.881958,121.766541,27799,1116,,26683,,,False,False
+2020-06-19,PRI,NA,Puerto Rico,18.223285,-66.592731,6111,147,,5964,,,False,False
+2020-06-19,QAT,AS,Qatar,25.318833,51.19693,84441,86,,84355,,,False,False
+2020-06-19,ROU,EU,Romania,45.947125,24.980514,23400,1484,16555,5361,,,True,True
+2020-06-19,RWA,AF,Rwanda,-1.94708,29.876376,646,2,,644,,,False,False
+2020-06-19,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,15,0,,15,,,False,False
+2020-06-19,LCA,NA,Saint Lucia,13.904011,-60.974176,19,0,,19,,,False,False
+2020-06-19,VCT,NA,Saint Vincent and the Grenadines,12.980909,-61.287392,29,0,,29,,,False,False
 2020-06-19,SMR,EU,San Marino,43.942973,12.460035,696,42,,654,,,False,False
+2020-06-19,STP,AF,Sao Tome and Principe,0.863044,6.968272,688,12,,676,,,False,False
+2020-06-19,SAU,AS,Saudi Arabia,23.886291,45.081139,145991,1139,,144852,,,False,False
+2020-06-19,SEN,AF,Senegal,14.499454,-14.445562,5475,76,,5399,,,False,False
 2020-06-19,SRB,EU,Serbia,44.206802,20.911009,12616,258,,12358,,,False,True
+2020-06-19,SYC,AF,Seychelles,-7.018792,51.242138,11,0,,11,,,False,False
+2020-06-19,SLE,AF,Sierra Leone,8.464806,-11.795934,1272,51,,1221,,,False,False
+2020-06-19,SGP,AS,Singapore,1.364917,103.822872,41473,26,,41447,,,False,False
 2020-06-19,SVK,EU,Slovakia,48.665639,19.709097,1576,28,1447,101,20,0,True,True
-2020-06-19,CHE,EU,Switzerland,46.815514,8.224472,31290,1956,5889,23445,199,13,False,False
+2020-06-19,SOM,AF,Somalia,5.152149,46.199616,2719,88,,2631,,,False,False
+2020-06-19,ZAF,AF,South Africa,-28.48322,24.676997,83890,1737,,82153,,,False,False
+2020-06-19,KOR,AS,South Korea,35.901696,127.735889,12306,280,,12026,,,False,False
+2020-06-19,SSD,AF,South Sudan,7.856272,30.040413,1813,31,,1782,,,False,False
+2020-06-19,LKA,AS,Sri Lanka,7.874097,80.767098,1947,11,,1936,,,False,False
+2020-06-19,SDN,AF,Sudan,15.45847,30.217636,8020,487,,7533,,,False,False
+2020-06-19,SUR,SA,Suriname,3.917845,-56.032028,277,7,,270,,,False,False
+2020-06-19,CHE,EU,Switzerland,46.815514,8.224472,31291,1956,5889,23446,186,11,False,False
+2020-06-19,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
+2020-06-19,TJK,AS,Tajikistan,,,5279,51,,5228,,,False,False
+2020-06-19,THA,AS,Thailand,13.036597,101.492515,3141,58,,3083,,,False,False
+2020-06-19,TGO,AF,Togo,8.621697,0.829685,547,13,,534,,,False,False
+2020-06-19,TTO,NA,Trinidad and Tobago,10.687223,-61.220852,123,8,,115,,,False,False
+2020-06-19,TUN,AF,Tunisia,33.892166,9.561556,1132,50,,1082,,,False,False
 2020-06-19,TUR,AS,Turkey,38.961516,35.25175,184031,4882,,179149,,,False,True
+2020-06-19,TCA,NA,Turks and Caicos islands,21.692252,-71.803756,12,1,,11,,,False,False
+2020-06-19,UGA,AF,Uganda,1.365188,32.304651,741,0,,741,,,False,False
+2020-06-19,ARE,AS,United Arab Emirates,24.358745,53.982494,43752,298,,43454,,,False,False
+2020-06-19,USA,NA,United States of America,36.966428,-95.844032,2191052,118434,,2072618,,,False,False
+2020-06-19,VIR,NA,United States Virgin Islands,18.036736,-64.801704,73,6,,67,,,False,False
+2020-06-19,URY,SA,Uruguay,-32.53152,-55.758328,850,24,,826,,,False,False
+2020-06-19,UZB,AS,Uzbekistan,41.379722,64.564459,5855,19,,5836,,,False,False
+2020-06-19,VEN,SA,Venezuela,6.414107,-66.578926,3484,28,,3456,,,False,False
+2020-06-19,VNM,AS,Vietnam,15.974222,105.806431,342,0,,342,,,False,False
+2020-06-19,ESH,AF,Western Sahara,,,23,1,,22,,,False,False
+2020-06-19,YEM,AS,Yemen,,,906,248,,658,,,False,False
+2020-06-19,ZMB,AF,Zambia,-13.151917,27.852537,1416,11,,1405,,,False,False
+2020-06-19,ZWE,AF,Zimbabwe,-19.013286,29.146666,463,4,,459,,,False,False
