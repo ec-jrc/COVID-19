@@ -1,7 +1,7 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry
 2020-06-21,ALB,Albania,41.156986,20.181222,1962,44,1134,784,69,10,False,False
 2020-06-20,AND,Andorra,42.542268,1.596865,855,52,,,,,False,False
-2020-06-22,AUT,Austria,47.697542,13.349319,17315,664,16197,454,187,12,True,True
+2020-06-22,AUT,Austria,47.697542,13.349319,17355,665,16241,449,187,12,True,True
 2020-06-20,BLR,Belarus,53.711111,27.973847,57333,333,,,,,False,False
 2020-06-18,BEL,Belgium,50.499527,4.475402,60550,9696,,,340,52,True,True
 2020-06-20,BIH,Bosnia and Herzegovina,43.892652,17.670584,1521,46,0,1475,,,False,False
@@ -37,7 +37,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-06-20,SMR,San Marino,43.942973,12.460035,696,42,,,,,False,False
 2020-06-20,SRB,Serbia,44.206802,20.911009,12709,259,,,,,False,True
 2020-06-22,SVK,Slovakia,48.665639,19.709097,1588,28,1447,113,19,0,True,True
-2020-06-20,SVN,Slovenia,46.145528,14.974541,2731,109,299,2323,6,1,True,True
+2020-06-21,SVN,Slovenia,46.145528,14.974541,2732,109,299,2324,6,1,True,True
 2020-06-21,ESP,Spain,39.896027,-2.487694,246272,28323,,,124871,11637,True,True
 2020-06-18,SWE,Sweden,62.199806,17.637493,56043,5053,,,,2333,True,True
 2020-06-22,CHE,Switzerland,46.815514,8.224472,31309,1956,5891,23462,186,10,False,False
