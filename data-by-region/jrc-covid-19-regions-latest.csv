@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-21,BEL,Belgium,Flanders,51.036569,4.234165,34141,4871,,29270,161,28,True,True
 2020-06-21,BEL,Belgium,NOT SPECIFIED,,,1380,0,,1380,0,0,True,True
 2020-06-21,BEL,Belgium,Wallonia,50.312074,5.019093,19063,3358,,15705,71,6,True,True
-2020-06-22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1594,46,0,1548,,,False,False
+2020-06-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1634,47,0,1587,,,False,False
 2020-06-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,172,10,10,152,,,True,True
 2020-06-23,BGR,Bulgaria,Burgas,42.491848,27.306892,66,1,19,46,,,True,True
 2020-06-23,BGR,Bulgaria,Dobrich,43.65074,27.936751,20,0,2,18,,,True,True
@@ -105,7 +105,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,DNK,Denmark,NOT SPECIFIED,,,0,0,0,0,0,0,True,True
 2020-06-23,DNK,Denmark,Sjælland,55.92481,11.67126,2022,123,,1899,,,True,True
 2020-06-23,DNK,Denmark,Syddanmark,55.675758,12.56902,1037,35,,1002,,,True,True
-2020-06-22,EST,Estonia,Estonia,58.596209,25.023778,1981,69,0,1912,,,True,True
+2020-06-23,EST,Estonia,Estonia,58.596209,25.023778,1982,69,0,1913,,,True,True
 2020-06-23,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
 2020-06-23,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True
 2020-06-23,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
