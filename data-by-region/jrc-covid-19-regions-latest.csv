@@ -106,28 +106,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-22,DNK,Denmark,Sjælland,55.92481,11.67126,2020,123,,1897,,,True,True
 2020-06-22,DNK,Denmark,Syddanmark,55.675758,12.56902,1036,35,,1001,,,True,True
 2020-06-22,EST,Estonia,Estonia,58.596209,25.023778,1981,69,0,1912,,,True,True
-2020-06-22,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
-2020-06-22,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True
-2020-06-22,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
-2020-06-22,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True
-2020-06-22,FIN,Finland,HUS,60.408524,24.7817,5244,,,5244,,,True,True
-2020-06-22,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True
-2020-06-22,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True
-2020-06-22,FIN,Finland,Kanta-Häme,60.921424,24.354383,112,,,112,,,True,True
-2020-06-22,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True
-2020-06-22,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True
-2020-06-22,FIN,Finland,Kymenlaakso,60.826543,26.889951,46,,,46,,,True,True
-2020-06-22,FIN,Finland,Länsi-Pohja,66.133479,24.762611,147,,,147,,,True,True
-2020-06-22,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True
+2020-06-23,FIN,Finland,Ahvenanmaa,60.240625,19.966666,18,,,18,,,True,True
+2020-06-23,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True
+2020-06-23,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True
+2020-06-23,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True
+2020-06-23,FIN,Finland,HUS,60.408524,24.7817,5254,,,5254,,,True,True
+2020-06-23,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True
+2020-06-23,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True
+2020-06-23,FIN,Finland,Kanta-Häme,60.921424,24.354383,112,,,112,,,True,True
+2020-06-23,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True
+2020-06-23,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True
+2020-06-23,FIN,Finland,Kymenlaakso,60.826543,26.889951,46,,,46,,,True,True
+2020-06-23,FIN,Finland,Länsi-Pohja,66.133479,24.762611,147,,,147,,,True,True
+2020-06-23,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True
 2020-03-30,FIN,Finland,NOT SPECIFIED,,,20,0,0,20,0,0,True,True
-2020-06-22,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True
-2020-06-22,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True
-2020-06-22,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,26,,,26,,,True,True
-2020-06-22,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,134,,,134,,,True,True
-2020-06-22,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True
-2020-06-22,FIN,Finland,Satakunta,61.527072,22.157717,58,,,58,,,True,True
-2020-06-22,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True
-2020-06-22,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,356,,,356,,,True,True
+2020-06-23,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True
+2020-06-23,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True
+2020-06-23,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,26,,,26,,,True,True
+2020-06-23,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,134,,,134,,,True,True
+2020-06-23,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True
+2020-06-23,FIN,Finland,Satakunta,61.527072,22.157717,59,,,59,,,True,True
+2020-06-23,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True
+2020-06-23,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,356,,,356,,,True,True
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True
 2020-06-22,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1726,7621,-9347,595,32,True,True
 2020-06-22,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1035,3802,-4837,171,12,True,True
@@ -474,7 +474,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True
-2020-06-21,SVN,Slovenia,NOT SPECIFIED,,,1521,109,299,1113,6,1,True,True
+2020-06-22,SVN,Slovenia,NOT SPECIFIED,,,1534,109,300,1125,5,1,True,True
 2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True
 2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True
@@ -545,7 +545,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-23,CHE,Switzerland,Solothurn,47.336648,7.686944,451,17,0,434,0,0,False,False
 2020-06-23,CHE,Switzerland,St. Gallen,47.305025,9.019368,313,23,285,5,0,0,False,False
 2020-06-23,CHE,Switzerland,Thurgau,47.567205,9.112572,385,18,0,367,0,0,False,False
-2020-06-23,CHE,Switzerland,Ticino,46.297963,8.808447,3326,350,909,2067,6,0,False,False
+2020-06-23,CHE,Switzerland,Ticino,46.297963,8.808447,3327,350,909,2068,6,0,False,False
 2020-06-23,CHE,Switzerland,Uri,46.775402,8.627444,93,7,86,0,1,0,False,False
 2020-06-23,CHE,Switzerland,Valais,46.211633,7.611267,2002,153,290,1559,15,2,False,False
 2020-06-23,CHE,Switzerland,Vaud,46.56176,6.648929,5490,420,0,5070,29,3,False,False
