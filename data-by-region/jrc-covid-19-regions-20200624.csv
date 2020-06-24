@@ -29,7 +29,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-21,BEL,Belgium,NOT SPECIFIED,,,1380,0,,1380,0,0,True,True
 2020-06-21,BEL,Belgium,Wallonia,50.312074,5.019093,19063,3358,,15705,71,6,True,True
 2020-06-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1634,47,0,1587,,,False,False
-<<<<<<< HEAD
 2020-06-24,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,173,10,10,153,,,True,True
 2020-06-24,BGR,Bulgaria,Burgas,42.491848,27.306892,75,1,19,55,,,True,True
 2020-06-24,BGR,Bulgaria,Dobrich,43.65074,27.936751,20,0,2,18,,,True,True
@@ -59,37 +58,6 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,BGR,Bulgaria,Vidin,43.797295,22.68621,214,18,14,182,,,True,True
 2020-06-24,BGR,Bulgaria,Vratsa,43.395067,23.759152,19,0,2,17,,,True,True
 2020-06-24,BGR,Bulgaria,Yambol,,,179,14,18,147,,,True,True
-=======
-2020-06-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,172,10,10,152,,,True,True
-2020-06-23,BGR,Bulgaria,Burgas,42.491848,27.306892,66,1,19,46,,,True,True
-2020-06-23,BGR,Bulgaria,Dobrich,43.65074,27.936751,20,0,2,18,,,True,True
-2020-06-23,BGR,Bulgaria,Gabrovo,42.931879,25.247163,16,1,2,13,,,True,True
-2020-06-23,BGR,Bulgaria,Haskovo,41.849113,25.942349,38,1,7,30,,,True,True
-2020-06-23,BGR,Bulgaria,Kardzhali,41.527042,25.441477,46,0,4,42,,,True,True
-2020-06-23,BGR,Bulgaria,Kyustendil,42.255307,22.869974,173,3,20,150,,,True,True
-2020-06-23,BGR,Bulgaria,Lovech,43.035259,24.5688,16,0,1,15,,,True,True
-2020-06-23,BGR,Bulgaria,Montana,43.496677,23.192363,24,0,0,24,,,True,True
-2020-06-23,BGR,Bulgaria,NOT SPECIFIED,,,0,62,1459,-1521,,,True,True
-2020-06-23,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,249,9,18,222,,,True,True
-2020-06-23,BGR,Bulgaria,Pernik,42.613861,22.853171,51,0,1,50,,,True,True
-2020-06-23,BGR,Bulgaria,Pleven,43.486117,24.610919,275,2,10,263,,,True,True
-2020-06-23,BGR,Bulgaria,Plovdiv,42.257364,24.824903,143,5,64,74,,,True,True
-2020-06-23,BGR,Bulgaria,Razgrad,,,49,0,0,49,,,True,True
-2020-06-23,BGR,Bulgaria,Ruse,43.54059,25.759217,17,0,1,16,,,True,True
-2020-06-23,BGR,Bulgaria,Shumen,43.296516,27.004814,114,1,1,112,,,True,True
-2020-06-23,BGR,Bulgaria,Silistra,43.946163,27.044927,5,1,2,2,,,True,True
-2020-06-23,BGR,Bulgaria,Sliven,42.67034,26.241026,223,11,56,156,,,True,True
-2020-06-23,BGR,Bulgaria,Smolyan,41.628892,24.668089,180,4,33,143,,,True,True
-2020-06-23,BGR,Bulgaria,Sofia City,42.286287,23.616846,1304,56,411,837,,,True,True
-2020-06-23,BGR,Bulgaria,Sofia Region,,,212,0,0,212,,,True,True
-2020-06-23,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,101,3,0,98,,,True,True
-2020-06-23,BGR,Bulgaria,Targovishte,,,10,1,0,9,,,True,True
-2020-06-23,BGR,Bulgaria,Varna,43.186206,27.59493,39,0,11,28,,,True,True
-2020-06-23,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,33,4,5,24,,,True,True
-2020-06-23,BGR,Bulgaria,Vidin,43.797295,22.68621,213,18,14,181,,,True,True
-2020-06-23,BGR,Bulgaria,Vratsa,43.395067,23.759152,19,0,2,17,,,True,True
-2020-06-23,BGR,Bulgaria,Yambol,,,178,14,18,146,,,True,True
->>>>>>> 7bebae14a921a999e0e5843976e7314ab5324e0f
 2020-06-23,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,13,0,,13,,,True,True
 2020-06-23,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,46,1,,45,,,True,True
 2020-06-23,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,118,8,,110,,,True,True
