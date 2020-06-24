@@ -375,90 +375,90 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,ROU,Romania,Vâlcea,45.096033,24.110629,48,,,48,,,True,True
 2020-06-24,ROU,Romania,Vaslui,46.526869,27.769395,171,,,171,,,True,True
 2020-06-24,ROU,Romania,Vrancea,45.788059,26.980214,952,,,952,,,True,True
-2020-06-23,RUS,Russian Fed.,Adygea,44.448835,40.254013,1607,12,1028,567,,,False,False
-2020-06-23,RUS,Russian Fed.,Altai,52.477021,83.868816,3445,29,2470,946,,,False,False
-2020-06-23,RUS,Russian Fed.,Altai Republic,,,466,0,190,276,,,False,False
-2020-06-23,RUS,Russian Fed.,Amur,53.418482,127.711639,1444,7,575,862,,,False,False
-2020-06-23,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,4755,33,1996,2726,,,False,False
-2020-06-23,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,3242,28,2157,1057,,,False,False
-2020-06-23,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,5011,18,2482,2511,,,False,False
-2020-06-23,RUS,Russian Fed.,Belgorod,50.881793,37.359083,4048,41,2824,1183,,,False,False
-2020-06-23,RUS,Russian Fed.,Bryansk,52.910301,33.406285,5729,34,4170,1525,,,False,False
-2020-06-23,RUS,Russian Fed.,Buryatia,54.550455,112.36994,2634,16,1762,856,,,False,False
-2020-06-23,RUS,Russian Fed.,Chechnya,43.26872,45.799182,1634,20,1174,440,,,False,False
-2020-06-23,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,6083,70,3015,2998,,,False,False
-2020-06-23,RUS,Russian Fed.,Chukotka,,,134,1,111,22,,,False,False
-2020-06-23,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,4678,24,2605,2049,,,False,False
-2020-06-23,RUS,Russian Fed.,Dagestan,43.035568,46.873874,7340,357,4997,1986,,,False,False
-2020-06-23,RUS,Russian Fed.,Ingushetia,43.40517,44.8203,2860,67,2332,461,,,False,False
-2020-06-23,RUS,Russian Fed.,Irkutsk,57.084283,106.290867,5726,40,1953,3733,,,False,False
-2020-06-23,RUS,Russian Fed.,Ivanovo,56.999219,41.726645,4176,35,2498,1643,,,False,False
-2020-06-23,RUS,Russian Fed.,Jewish AO,48.480815,131.765737,400,5,328,67,,,False,False
-2020-06-23,RUS,Russian Fed.,Kabardino-Balkaria,43.346964,43.521389,4585,47,2729,1809,,,False,False
-2020-06-23,RUS,Russian Fed.,Kaliningrad,54.706026,21.456853,2348,33,1300,1015,,,False,False
-2020-06-23,RUS,Russian Fed.,Kalmykia,46.421462,45.383808,1340,18,956,366,,,False,False
-2020-06-23,RUS,Russian Fed.,Kaluga,54.355521,35.465025,5694,43,3159,2492,,,False,False
-2020-06-23,RUS,Russian Fed.,Kamchatka,61.434398,166.788413,1834,28,600,1206,,,False,False
-2020-06-23,RUS,Russian Fed.,Karachay-Cherkessia,43.884514,41.730394,2983,10,993,1980,,,False,False
-2020-06-23,RUS,Russian Fed.,Kemerovo,54.775411,87.209993,1396,8,583,805,,,False,False
-2020-06-23,RUS,Russian Fed.,Khabarovsk,50.88285,138.828598,3669,24,1894,1751,,,False,False
-2020-06-23,RUS,Russian Fed.,Khakassia,53.363558,89.854091,1631,15,1218,398,,,False,False
-2020-06-23,RUS,Russian Fed.,Khanty-Mansi AO,61.853095,70.345732,6900,37,3435,3428,,,False,False
-2020-06-23,RUS,Russian Fed.,Kirov,58.699332,49.846004,2952,33,2196,723,,,False,False
-2020-06-23,RUS,Russian Fed.,Komi Republic,64.131117,54.772128,2926,29,1254,1643,,,False,False
-2020-06-23,RUS,Russian Fed.,Kostroma,58.452918,43.818089,1386,15,759,612,,,False,False
-2020-06-23,RUS,Russian Fed.,Krasnodar,44.412298,39.233582,5561,67,4277,1217,,,False,False
-2020-06-23,RUS,Russian Fed.,Krasnoyarsk,67.008246,95.991218,7875,93,3132,4650,,,False,False
-2020-06-23,RUS,Russian Fed.,Kurgan,55.471375,64.816337,591,0,312,279,,,False,False
-2020-06-23,RUS,Russian Fed.,Kursk,51.702506,36.127326,4607,28,2659,1920,,,False,False
-2020-06-23,RUS,Russian Fed.,Leningrad,59.999111,31.74764,4067,27,3932,108,,,False,False
-2020-06-23,RUS,Russian Fed.,Lipetsk,52.634465,39.187179,3487,12,1973,1502,,,False,False
-2020-06-23,RUS,Russian Fed.,Magadan,62.70596,154.035695,609,4,288,317,,,False,False
-2020-06-23,RUS,Russian Fed.,Mari El,56.601523,47.942953,2745,20,2667,58,,,False,False
-2020-06-23,RUS,Russian Fed.,Mordovia,54.520508,45.58471,3094,24,1915,1155,,,False,False
-2020-06-23,RUS,Russian Fed.,Moscow,55.644315,37.666104,270974,4441,165446,101087,,,False,False
-2020-06-23,RUS,Russian Fed.,Murmansk,67.805244,34.572247,4586,9,3165,1412,,,False,False
-2020-06-23,RUS,Russian Fed.,Nenets,,,95,0,33,62,,,False,False
-2020-06-23,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,15990,205,8864,6921,,,False,False
-2020-06-23,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,3826,66,3386,374,,,False,False
+2020-06-24,RUS,Russian Fed.,Adygea,44.448835,40.254013,1647,12,1096,539,,,False,False
+2020-06-24,RUS,Russian Fed.,Altai,52.477021,83.868816,3522,29,2540,953,,,False,False
+2020-06-24,RUS,Russian Fed.,Altai Republic,,,483,0,207,276,,,False,False
+2020-06-24,RUS,Russian Fed.,Amur,53.418482,127.711639,1490,7,597,886,,,False,False
+2020-06-24,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,4875,35,2178,2662,,,False,False
+2020-06-24,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,3275,29,2203,1043,,,False,False
+2020-06-24,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,5068,18,2574,2476,,,False,False
+2020-06-24,RUS,Russian Fed.,Belgorod,50.881793,37.359083,4120,42,3103,975,,,False,False
+2020-06-24,RUS,Russian Fed.,Bryansk,52.910301,33.406285,5801,34,4216,1551,,,False,False
+2020-06-24,RUS,Russian Fed.,Buryatia,54.550455,112.36994,2682,16,1815,851,,,False,False
+2020-06-24,RUS,Russian Fed.,Chechnya,43.26872,45.799182,1645,20,1175,450,,,False,False
+2020-06-24,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,6268,70,3343,2855,,,False,False
+2020-06-24,RUS,Russian Fed.,Chukotka,,,135,1,122,12,,,False,False
+2020-06-24,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,4740,25,2717,1998,,,False,False
+2020-06-24,RUS,Russian Fed.,Dagestan,43.035568,46.873874,7415,360,5465,1590,,,False,False
+2020-06-24,RUS,Russian Fed.,Ingushetia,43.40517,44.8203,2889,67,2353,469,,,False,False
+2020-06-24,RUS,Russian Fed.,Irkutsk,57.084283,106.290867,5919,42,2059,3818,,,False,False
+2020-06-24,RUS,Russian Fed.,Ivanovo,56.999219,41.726645,4253,37,2630,1586,,,False,False
+2020-06-24,RUS,Russian Fed.,Jewish AO,48.480815,131.765737,404,5,332,67,,,False,False
+2020-06-24,RUS,Russian Fed.,Kabardino-Balkaria,43.346964,43.521389,4656,47,2847,1762,,,False,False
+2020-06-24,RUS,Russian Fed.,Kaliningrad,54.706026,21.456853,2356,37,1340,979,,,False,False
+2020-06-24,RUS,Russian Fed.,Kalmykia,46.421462,45.383808,1362,21,996,345,,,False,False
+2020-06-24,RUS,Russian Fed.,Kaluga,54.355521,35.465025,5744,43,3322,2379,,,False,False
+2020-06-24,RUS,Russian Fed.,Kamchatka,61.434398,166.788413,1927,28,623,1276,,,False,False
+2020-06-24,RUS,Russian Fed.,Karachay-Cherkessia,43.884514,41.730394,3067,12,1062,1993,,,False,False
+2020-06-24,RUS,Russian Fed.,Kemerovo,54.775411,87.209993,1424,8,622,794,,,False,False
+2020-06-24,RUS,Russian Fed.,Khabarovsk,50.88285,138.828598,3752,26,2011,1715,,,False,False
+2020-06-24,RUS,Russian Fed.,Khakassia,53.363558,89.854091,1661,15,1255,391,,,False,False
+2020-06-24,RUS,Russian Fed.,Khanty-Mansi AO,61.853095,70.345732,7223,38,3618,3567,,,False,False
+2020-06-24,RUS,Russian Fed.,Kirov,58.699332,49.846004,2986,33,2236,717,,,False,False
+2020-06-24,RUS,Russian Fed.,Komi Republic,64.131117,54.772128,2986,29,1305,1652,,,False,False
+2020-06-24,RUS,Russian Fed.,Kostroma,58.452918,43.818089,1411,15,808,588,,,False,False
+2020-06-24,RUS,Russian Fed.,Krasnodar,44.412298,39.233582,5624,69,4374,1181,,,False,False
+2020-06-24,RUS,Russian Fed.,Krasnoyarsk,67.008246,95.991218,8029,99,3249,4681,,,False,False
+2020-06-24,RUS,Russian Fed.,Kurgan,55.471375,64.816337,625,0,333,292,,,False,False
+2020-06-24,RUS,Russian Fed.,Kursk,51.702506,36.127326,4673,30,2717,1926,,,False,False
+2020-06-24,RUS,Russian Fed.,Leningrad,59.999111,31.74764,4119,27,4050,42,,,False,False
+2020-06-24,RUS,Russian Fed.,Lipetsk,52.634465,39.187179,3536,13,2091,1432,,,False,False
+2020-06-24,RUS,Russian Fed.,Magadan,62.70596,154.035695,620,4,308,308,,,False,False
+2020-06-24,RUS,Russian Fed.,Mari El,56.601523,47.942953,2783,21,2758,4,,,False,False
+2020-06-24,RUS,Russian Fed.,Mordovia,54.520508,45.58471,3143,24,2007,1112,,,False,False
+2020-06-24,RUS,Russian Fed.,Moscow,55.644315,37.666104,272292,4479,168856,98957,,,False,False
+2020-06-24,RUS,Russian Fed.,Murmansk,67.805244,34.572247,4660,11,3217,1432,,,False,False
+2020-06-24,RUS,Russian Fed.,Nenets,,,95,0,35,60,,,False,False
+2020-06-24,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,16197,207,9481,6509,,,False,False
+2020-06-24,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,3854,66,3412,376,,,False,False
 2020-05-11,RUS,Russian Fed.,NOT SPECIFIED,,,0,2116,0,-2116,0,0,False,False
-2020-06-23,RUS,Russian Fed.,Novgorod,58.280449,32.556615,2535,20,631,1884,,,False,False
-2020-06-23,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,5248,76,2893,2279,,,False,False
-2020-06-23,RUS,Russian Fed.,Omsk,56.091609,73.362497,3100,27,1767,1306,,,False,False
-2020-06-23,RUS,Russian Fed.,Orenburg,52.670841,53.546526,3310,14,2528,768,,,False,False
-2020-06-23,RUS,Russian Fed.,Oryol,52.792407,36.484837,4241,46,2382,1813,,,False,False
-2020-06-23,RUS,Russian Fed.,Penza,53.186558,44.659811,4451,35,3894,522,,,False,False
-2020-06-23,RUS,Russian Fed.,Perm,59.150725,56.240625,3266,66,2325,875,,,False,False
-2020-06-23,RUS,Russian Fed.,Primorsky,45.185147,134.763918,3728,37,2151,1540,,,False,False
-2020-06-23,RUS,Russian Fed.,Pskov,57.223881,29.258821,2414,19,736,1659,,,False,False
-2020-06-23,RUS,Russian Fed.,Republic of Crimea,45.332961,34.380235,827,10,582,235,,,False,False
-2020-06-23,RUS,Russian Fed.,Republic of Karelia,63.15587,32.990555,1043,2,416,625,,,False,False
-2020-06-23,RUS,Russian Fed.,Rostov,47.737084,41.33971,8815,94,4378,4343,,,False,False
-2020-06-23,RUS,Russian Fed.,Ryazan,54.306865,40.654571,4900,17,3147,1736,,,False,False
-2020-06-23,RUS,Russian Fed.,Saint Petersburg,59.771022,30.094098,22632,904,13868,7860,,,False,False
-2020-06-23,RUS,Russian Fed.,Sakhalin,50.334829,142.702744,567,0,103,464,,,False,False
-2020-06-23,RUS,Russian Fed.,Samara,53.288173,50.470943,4451,53,2309,2089,,,False,False
-2020-06-23,RUS,Russian Fed.,Saratov,51.590364,46.830634,5671,42,2789,2840,,,False,False
-2020-06-23,RUS,Russian Fed.,Smolensk,54.928337,33.012683,4293,61,1916,2316,,,False,False
-2020-06-23,RUS,Russian Fed.,Stavropol,44.927805,43.400088,4541,85,2523,1933,,,False,False
-2020-06-23,RUS,Russian Fed.,Sverdlovsk,58.614763,61.561667,11311,75,5972,5264,,,False,False
-2020-06-23,RUS,Russian Fed.,Tambov,52.657489,41.637192,4413,15,2396,2002,,,False,False
-2020-06-23,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,4271,11,3652,608,,,False,False
-2020-06-23,RUS,Russian Fed.,Tomsk,58.476777,82.134382,1846,14,810,1022,,,False,False
-2020-06-23,RUS,Russian Fed.,Tula,53.879118,37.584039,6137,86,4779,1272,,,False,False
-2020-06-23,RUS,Russian Fed.,Tuva,94.79304,51.591419,3575,3,603,2969,,,False,False
-2020-06-23,RUS,Russian Fed.,Tver,57.063361,34.74855,3256,61,2070,1125,,,False,False
-2020-06-23,RUS,Russian Fed.,Tyumen,57.665236,69.167506,2667,16,1580,1071,,,False,False
-2020-06-23,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,1272,15,884,373,,,False,False
-2020-06-23,RUS,Russian Fed.,Ulyanovsk,53.904749,47.963072,5026,35,2406,2585,,,False,False
-2020-06-23,RUS,Russian Fed.,Vladimir,55.994787,40.691957,4006,54,2278,1674,,,False,False
-2020-06-23,RUS,Russian Fed.,Volgograd,49.599612,44.184682,5622,34,2454,3134,,,False,False
-2020-06-23,RUS,Russian Fed.,Vologda,59.970929,40.523416,1466,17,1042,407,,,False,False
-2020-06-23,RUS,Russian Fed.,Voronezh,50.959752,40.309955,6259,31,3640,2588,,,False,False
-2020-06-23,RUS,Russian Fed.,Yakutia,65.300749,134.148224,3817,24,2587,1206,,,False,False
-2020-06-23,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,4416,30,1904,2482,,,False,False
-2020-06-23,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,4482,17,2686,1779,,,False,False
-2020-06-23,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,2667,40,1556,1071,,,False,False
+2020-06-24,RUS,Russian Fed.,Novgorod,58.280449,32.556615,2591,20,672,1899,,,False,False
+2020-06-24,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,5356,78,3034,2244,,,False,False
+2020-06-24,RUS,Russian Fed.,Omsk,56.091609,73.362497,3184,27,1814,1343,,,False,False
+2020-06-24,RUS,Russian Fed.,Orenburg,52.670841,53.546526,3377,15,2581,781,,,False,False
+2020-06-24,RUS,Russian Fed.,Oryol,52.792407,36.484837,4281,51,2523,1707,,,False,False
+2020-06-24,RUS,Russian Fed.,Penza,53.186558,44.659811,4523,36,4077,410,,,False,False
+2020-06-24,RUS,Russian Fed.,Perm,59.150725,56.240625,3355,72,2448,835,,,False,False
+2020-06-24,RUS,Russian Fed.,Primorsky,45.185147,134.763918,3811,39,2267,1505,,,False,False
+2020-06-24,RUS,Russian Fed.,Pskov,57.223881,29.258821,2458,19,785,1654,,,False,False
+2020-06-24,RUS,Russian Fed.,Republic of Crimea,45.332961,34.380235,838,10,600,228,,,False,False
+2020-06-24,RUS,Russian Fed.,Republic of Karelia,63.15587,32.990555,1074,2,439,633,,,False,False
+2020-06-24,RUS,Russian Fed.,Rostov,47.737084,41.33971,8950,97,4651,4202,,,False,False
+2020-06-24,RUS,Russian Fed.,Ryazan,54.306865,40.654571,4943,17,3281,1645,,,False,False
+2020-06-24,RUS,Russian Fed.,Saint Petersburg,59.771022,30.094098,22850,942,14511,7397,,,False,False
+2020-06-24,RUS,Russian Fed.,Sakhalin,50.334829,142.702744,628,0,115,513,,,False,False
+2020-06-24,RUS,Russian Fed.,Samara,53.288173,50.470943,4502,53,2405,2044,,,False,False
+2020-06-24,RUS,Russian Fed.,Saratov,51.590364,46.830634,5782,42,2895,2845,,,False,False
+2020-06-24,RUS,Russian Fed.,Smolensk,54.928337,33.012683,4338,61,2024,2253,,,False,False
+2020-06-24,RUS,Russian Fed.,Stavropol,44.927805,43.400088,4616,87,2603,1926,,,False,False
+2020-06-24,RUS,Russian Fed.,Sverdlovsk,58.614763,61.561667,11492,79,6250,5163,,,False,False
+2020-06-24,RUS,Russian Fed.,Tambov,52.657489,41.637192,4457,17,2492,1948,,,False,False
+2020-06-24,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,4310,11,3656,643,,,False,False
+2020-06-24,RUS,Russian Fed.,Tomsk,58.476777,82.134382,1909,14,849,1046,,,False,False
+2020-06-24,RUS,Russian Fed.,Tula,53.879118,37.584039,6220,89,5019,1112,,,False,False
+2020-06-24,RUS,Russian Fed.,Tuva,94.79304,51.591419,3713,3,655,3055,,,False,False
+2020-06-24,RUS,Russian Fed.,Tver,57.063361,34.74855,3311,61,2114,1136,,,False,False
+2020-06-24,RUS,Russian Fed.,Tyumen,57.665236,69.167506,2717,16,1621,1080,,,False,False
+2020-06-24,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,1294,15,941,338,,,False,False
+2020-06-24,RUS,Russian Fed.,Ulyanovsk,53.904749,47.963072,5133,35,2606,2492,,,False,False
+2020-06-24,RUS,Russian Fed.,Vladimir,55.994787,40.691957,4056,55,2371,1630,,,False,False
+2020-06-24,RUS,Russian Fed.,Volgograd,49.599612,44.184682,5724,34,2612,3078,,,False,False
+2020-06-24,RUS,Russian Fed.,Vologda,59.970929,40.523416,1487,17,1078,392,,,False,False
+2020-06-24,RUS,Russian Fed.,Voronezh,50.959752,40.309955,6457,33,4047,2377,,,False,False
+2020-06-24,RUS,Russian Fed.,Yakutia,65.300749,134.148224,3891,24,2689,1178,,,False,False
+2020-06-24,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,4553,33,1967,2553,,,False,False
+2020-06-24,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,4526,18,2864,1644,,,False,False
+2020-06-24,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,2738,40,1608,1090,,,False,False
 2020-06-24,SMR,San Marino,San Marino,43.942973,12.460035,698,42,,656,,,False,False
 2020-06-24,SRB,Serbia,Serbia,44.206802,20.911009,13092,263,,12829,,,False,True
 2020-06-24,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,129,,,129,,,True,True
@@ -528,7 +528,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,100,3,0,97,0,0,False,False
 2020-06-24,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False
 2020-06-24,CHE,Switzerland,Basel City,47.561925,7.592768,985,50,934,1,0,0,False,False
-2020-06-24,CHE,Switzerland,Basel Country,47.441812,7.7644,849,35,811,3,0,0,False,False
+2020-06-24,CHE,Switzerland,Basel Country,47.441812,7.7644,851,35,811,5,0,0,False,False
 2020-06-24,CHE,Switzerland,Bern,46.825006,7.626925,1948,97,0,1851,1,0,False,False
 2020-06-24,CHE,Switzerland,Fribourg,46.710334,7.09922,1203,85,152,966,2,0,False,False
 2020-06-24,CHE,Switzerland,Geneva,46.217114,6.131255,5229,293,844,4092,106,1,False,False
@@ -552,32 +552,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,CHE,Switzerland,Zug,47.161402,8.538864,218,9,196,13,0,0,False,False
 2020-06-24,CHE,Switzerland,Zurich,47.417407,8.655988,3705,130,0,3575,10,0,False,False
 2020-06-24,TUR,Turkey,Turkey,38.961515,35.25175,190165,5001,,185164,,,False,True
-2020-06-23,UKR,Ukraine,Cherkasy,49.253559,31.378329,605,,408,197,,,False,False
-2020-06-23,UKR,Ukraine,Chernihiv,51.347162,32.016707,485,,144,341,,,False,False
-2020-06-23,UKR,Ukraine,Chernivtsi,48.269841,25.97109,4419,,1642,2777,,,False,False
-2020-06-23,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,1049,,780,269,,,False,False
-2020-06-23,UKR,Ukraine,Donetsk,48.04733,37.669412,368,,145,223,,,False,False
-2020-06-23,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,2091,,1071,1020,,,False,False
-2020-06-23,UKR,Ukraine,Kharkiv,49.612761,36.514406,1811,,889,922,,,False,False
-2020-06-23,UKR,Ukraine,Kherson,46.66268,33.577394,188,,175,13,,,False,False
-2020-06-23,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,622,,493,129,,,False,False
-2020-06-23,UKR,Ukraine,Kiev region,49.843123,30.727949,2285,,1141,1144,,,False,False
-2020-06-23,UKR,Ukraine,Kirovograd,48.507933,32.262317,631,,521,110,,,False,False
-2020-06-23,UKR,Ukraine,Kyiv,50.427074,30.530672,4429,,1415,3014,,,False,False
-2020-06-23,UKR,Ukraine,Lugansk,48.574041,39.307815,73,,53,20,,,False,False
-2020-06-23,UKR,Ukraine,Lviv,49.724836,23.921202,4220,,696,3524,,,False,False
-2020-06-23,UKR,Ukraine,Mykolaiv,47.369854,31.706007,366,,269,97,,,False,False
-2020-06-23,UKR,Ukraine,NOT SPECIFIED,,,0,1035,,-1035,,,False,False
-2020-06-23,UKR,Ukraine,Odessa,46.891548,30.547979,1333,,562,771,,,False,False
-2020-06-23,UKR,Ukraine,Poltava,49.713595,33.811322,296,,263,33,,,False,False
-2020-06-23,UKR,Ukraine,Rivne,51.043432,26.397584,3038,,1538,1500,,,False,False
-2020-06-23,UKR,Ukraine,Sumy,51.393248,33.665627,263,,184,79,,,False,False
-2020-06-23,UKR,Ukraine,Ternopil,49.402562,25.640005,1744,,1079,665,,,False,False
-2020-06-23,UKR,Ukraine,Transcarpathian,48.405051,23.281219,2291,,845,1446,,,False,False
-2020-06-23,UKR,Ukraine,Vinnytsia,48.926546,28.692087,1690,,1037,653,,,False,False
-2020-06-23,UKR,Ukraine,Volyn,51.202858,24.883489,1894,,550,1344,,,False,False
-2020-06-23,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,555,,393,162,,,False,False
-2020-06-23,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1295,,663,632,,,False,False
+2020-06-24,UKR,Ukraine,Cherkasy,49.253559,31.378329,614,,426,188,,,False,False
+2020-06-24,UKR,Ukraine,Chernihiv,51.347162,32.016707,494,,145,349,,,False,False
+2020-06-24,UKR,Ukraine,Chernivtsi,48.269841,25.97109,4478,,1715,2763,,,False,False
+2020-06-24,UKR,Ukraine,Dnipropetrovsk,48.166611,33.952679,1060,,852,208,,,False,False
+2020-06-24,UKR,Ukraine,Donetsk,48.04733,37.669412,376,,145,231,,,False,False
+2020-06-24,UKR,Ukraine,Ivano-Frankivsk,48.705101,24.609296,2124,,1083,1041,,,False,False
+2020-06-24,UKR,Ukraine,Kharkiv,49.612761,36.514406,1891,,932,959,,,False,False
+2020-06-24,UKR,Ukraine,Kherson,46.66268,33.577394,188,,175,13,,,False,False
+2020-06-24,UKR,Ukraine,Khmelnytsky,49.422983,26.987133,627,,503,124,,,False,False
+2020-06-24,UKR,Ukraine,Kiev region,49.843123,30.727949,2332,,1147,1185,,,False,False
+2020-06-24,UKR,Ukraine,Kirovograd,48.507933,32.262317,634,,523,111,,,False,False
+2020-06-24,UKR,Ukraine,Kyiv,50.427074,30.530672,4528,,1440,3088,,,False,False
+2020-06-24,UKR,Ukraine,Lugansk,48.574041,39.307815,75,,54,21,,,False,False
+2020-06-24,UKR,Ukraine,Lviv,49.724836,23.921202,4423,,700,3723,,,False,False
+2020-06-24,UKR,Ukraine,Mykolaiv,47.369854,31.706007,368,,271,97,,,False,False
+2020-06-24,UKR,Ukraine,NOT SPECIFIED,,,0,0,,0,,,False,False
+2020-06-24,UKR,Ukraine,Odessa,46.891548,30.547979,1370,,569,801,,,False,False
+2020-06-24,UKR,Ukraine,Poltava,49.713595,33.811322,300,,263,37,,,False,False
+2020-06-24,UKR,Ukraine,Rivne,51.043432,26.397584,3164,,1582,1582,,,False,False
+2020-06-24,UKR,Ukraine,Sumy,51.393248,33.665627,272,,186,86,,,False,False
+2020-06-24,UKR,Ukraine,Ternopil,49.402562,25.640005,1786,,1094,692,,,False,False
+2020-06-24,UKR,Ukraine,Transcarpathian,48.405051,23.281219,2369,,864,1505,,,False,False
+2020-06-24,UKR,Ukraine,Vinnytsia,48.926546,28.692087,1723,,1057,666,,,False,False
+2020-06-24,UKR,Ukraine,Volyn,51.202858,24.883489,1955,,605,1350,,,False,False
+2020-06-24,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,559,,397,162,,,False,False
+2020-06-24,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1304,,681,623,,,False,False
 2020-06-23,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1251,0,0,1251,,,False,True
 2020-06-23,GBR,United Kingdom,Borders,55.572787,-2.786355,346,0,0,346,,,False,True
 2020-06-23,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,285,0,0,285,,,False,True
