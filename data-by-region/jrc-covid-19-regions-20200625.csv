@@ -523,7 +523,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,SI033
-2020-06-23,SVN,Slovenia,NOT SPECIFIED,,,1541,111,300,1130,7,2,True,True,
+2020-06-24,SVN,Slovenia,NOT SPECIFIED,,,1547,111,300,1136,7,2,True,True,
 2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,SI044
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,SI041
 2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,SI032
@@ -602,7 +602,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-25,CHE,Switzerland,Schwyz,47.06411,8.761568,81,7,0,74,2,0,False,False,CH063
 2020-06-25,CHE,Switzerland,Solothurn,47.336648,7.686944,453,17,0,436,0,0,False,False,CH023
 2020-06-25,CHE,Switzerland,St. Gallen,47.305025,9.019368,317,23,285,9,0,0,False,False,CH055
-2020-06-25,CHE,Switzerland,Thurgau,47.567205,9.112572,387,18,69,300,0,0,False,False,CH057
+2020-06-25,CHE,Switzerland,Thurgau,47.567205,9.112572,389,18,69,302,2,0,False,False,CH057
 2020-06-25,CHE,Switzerland,Ticino,46.297963,8.808447,3327,350,910,2067,5,0,False,False,CH07
 2020-06-25,CHE,Switzerland,Ticino,46.297963,8.808447,3327,350,910,2067,5,0,False,False,CH070
 2020-06-25,CHE,Switzerland,Uri,46.775402,8.627444,93,7,86,0,1,0,False,False,CH062
