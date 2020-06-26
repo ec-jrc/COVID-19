@@ -20452,6 +20452,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False
 2020-06-26,CYP,EU,Cyprus,35.167406,33.435499,992,19,,973,,,True,True
 2020-06-26,CZE,EU,Czech Republic,49.800901,15.478153,10870,345,7633,2892,,,True,True
+2020-06-26,DNK,EU,Denmark,56.155403,11.617223,12793,604,,12189,,,True,True
 2020-06-26,DJI,AF,Djibouti,11.808375,42.595222,4635,52,,4583,,,False,False
 2020-06-26,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False
 2020-06-26,DOM,NA,Dominican Republic,18.736509,-70.161744,29141,698,,28443,,,False,False
@@ -20508,6 +20509,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,LBY,AF,Libya,26.338522,17.268816,698,18,,680,,,False,False
 2020-06-26,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-26,LTU,EU,Lithuania,55.174112,23.906736,1806,78,,1728,,,True,True
+2020-06-26,LUX,EU,Luxembourg,49.815764,6.131514,4173,110,952,3111,13,1,True,True
 2020-06-26,MDG,AF,Madagascar,-18.777193,46.854328,1829,16,,1813,,,False,False
 2020-06-26,MWI,AF,Malawi,-13.24627,34.295385,960,12,,948,,,False,False
 2020-06-26,MYS,AS,Malaysia,4.109319,109.455475,8600,121,,8479,,,False,False
@@ -20526,6 +20528,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,MOZ,AF,Mozambique,-18.670284,35.530157,788,5,,783,,,False,False
 2020-06-26,NAM,AF,Namibia,-22.965662,18.486165,81,0,,81,,,False,False
 2020-06-26,NPL,AS,Nepal,28.395056,84.127803,11162,26,,11136,,,False,False
+2020-06-26,NLD,EU,Netherlands,52.133057,5.29525,50005,6103,0,43902,11868,0,True,True
 2020-06-26,NCL,OC,New Caledonia,-21.123889,165.846901,21,0,,21,,,False,False
 2020-06-26,NZL,OC,New Zealand,-40.9006,174.886,1170,22,,1148,,,False,False
 2020-06-26,NIC,NA,Nicaragua,12.866726,-85.214298,2170,74,,2096,,,False,False
@@ -20564,6 +20567,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,ZAF,AF,South Africa,-28.48322,24.676997,118375,2292,,116083,,,False,False
 2020-06-26,KOR,AS,South Korea,35.901696,127.735889,12602,282,,12320,,,False,False
 2020-06-26,SSD,AF,South Sudan,7.856272,30.040413,1942,36,,1906,,,False,False
+2020-06-26,ESP,EU,Spain,39.896027,-2.487694,247905,28338,,219567,125030,11651,True,True
 2020-06-26,LKA,AS,Sri Lanka,7.874097,80.767098,2010,11,,1999,,,False,False
 2020-06-26,SDN,AF,Sudan,15.45847,30.217636,8984,556,,8428,,,False,False
 2020-06-26,SUR,SA,Suriname,3.917845,-56.032028,373,10,,363,,,False,False
