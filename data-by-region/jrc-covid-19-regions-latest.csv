@@ -1,17 +1,17 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2020-06-28,ALB,Albania,Berat,40.6285,20.090775,20,0,15,5,0,0,False,False,
-2020-06-28,ALB,Albania,Dibër,,,10,0,10,0,0,0,False,False,
-2020-06-28,ALB,Albania,Durrës,41.518365,19.651766,472,9,282,181,13,1,False,False,
-2020-06-28,ALB,Albania,Elbasan,41.040028,20.186454,37,1,24,12,1,1,False,False,
-2020-06-28,ALB,Albania,Fier,40.774633,19.620528,120,5,67,48,3,0,False,False,
-2020-06-28,ALB,Albania,Gjirokastër,,,8,0,1,7,0,0,False,False,
-2020-06-28,ALB,Albania,Korçë,40.62883,20.666004,48,0,22,26,2,0,False,False,
-2020-06-28,ALB,Albania,Kukës,42.066696,20.419467,60,1,44,15,0,0,False,False,
-2020-06-28,ALB,Albania,Lezhë,41.801452,19.845695,91,0,58,33,1,1,False,False,
+2020-06-28,ALB,Albania,Berat,40.6285,20.090775,20,0,15,5,0,0,False,False,AL031
+2020-06-28,ALB,Albania,Dibër,,,10,0,10,0,0,0,False,False,AL011
+2020-06-28,ALB,Albania,Durrës,41.518365,19.651766,472,9,282,181,13,1,False,False,AL012
+2020-06-28,ALB,Albania,Elbasan,41.040028,20.186454,37,1,24,12,1,1,False,False,AL021
+2020-06-28,ALB,Albania,Fier,40.774633,19.620528,120,5,67,48,3,0,False,False,AL032
+2020-06-28,ALB,Albania,Gjirokastër,,,8,0,1,7,0,0,False,False,AL033
+2020-06-28,ALB,Albania,Korçë,40.62883,20.666004,48,0,22,26,2,0,False,False,AL034
+2020-06-28,ALB,Albania,Kukës,42.066696,20.419467,60,1,44,15,0,0,False,False,AL013
+2020-06-28,ALB,Albania,Lezhë,41.801452,19.845695,91,0,58,33,1,1,False,False,AL014
 2020-06-28,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
-2020-06-28,ALB,Albania,Shkodër,42.17682,19.719451,337,6,169,162,10,2,False,False,
-2020-06-28,ALB,Albania,Tiranë,41.268583,19.793936,1088,31,686,371,31,9,False,False,
-2020-06-28,ALB,Albania,Vlorë,40.162418,19.793592,111,2,6,103,1,1,False,False,
+2020-06-28,ALB,Albania,Shkodër,42.17682,19.719451,337,6,169,162,10,2,False,False,AL015
+2020-06-28,ALB,Albania,Tiranë,41.268583,19.793936,1088,31,686,371,31,9,False,False,AL022
+2020-06-28,ALB,Albania,Vlorë,40.162418,19.793592,111,2,6,103,1,1,False,False,AL035
 2020-06-29,AND,Andorra,Andorra,42.542268,1.596865,855,52,,803,,,False,False,
 2020-06-29,AUT,Austria,Burgenland,47.541449,16.520206,351,11,332,8,,,True,True,AT11
 2020-06-29,AUT,Austria,Kärnten,46.715832,14.455532,429,13,402,14,,,True,True,AT21
@@ -24,78 +24,78 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-29,AUT,Austria,Vorarlberg,47.240149,9.896366,914,18,891,5,,,True,True,AT34
 2020-06-29,AUT,Austria,Wien,48.21141,16.380038,3858,194,3386,278,,,True,True,AT13
 2020-06-29,BLR,Belarus,Belarus,53.711111,27.973847,61475,383,,61092,,,False,False,
-2020-06-27,BEL,Belgium,Brussels,50.836426,4.367415,6288,1479,,4809,0,0,True,True,
-2020-06-27,BEL,Belgium,Flanders,51.036569,4.234165,34407,4886,,29521,0,0,True,True,
+2020-06-27,BEL,Belgium,Brussels,50.836426,4.367415,6288,1479,,4809,0,0,True,True,BE1
+2020-06-27,BEL,Belgium,Flanders,51.036569,4.234165,34407,4886,,29521,0,0,True,True,BE2
 2020-06-27,BEL,Belgium,NOT SPECIFIED,,,1402,0,,1402,0,0,True,True,
-2020-06-27,BEL,Belgium,Wallonia,50.312074,5.019093,19264,3367,,15897,0,0,True,True,
-2020-06-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,1924,54,0,1870,,,False,False,
-2020-06-29,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,185,10,10,165,,,True,True,
-2020-06-29,BGR,Bulgaria,Burgas,42.491848,27.306892,108,1,19,88,,,True,True,
-2020-06-29,BGR,Bulgaria,Dobrich,43.65074,27.936751,21,0,2,19,,,True,True,
-2020-06-29,BGR,Bulgaria,Gabrovo,42.931879,25.247163,18,1,2,15,,,True,True,
-2020-06-29,BGR,Bulgaria,Haskovo,41.849113,25.942349,39,1,7,31,,,True,True,
-2020-06-29,BGR,Bulgaria,Kardzhali,41.527042,25.441477,55,0,4,51,,,True,True,
-2020-06-29,BGR,Bulgaria,Kyustendil,42.255307,22.869974,241,3,20,218,,,True,True,
-2020-06-29,BGR,Bulgaria,Lovech,43.035259,24.5688,17,0,1,16,,,True,True,
-2020-06-29,BGR,Bulgaria,Montana,43.496677,23.192363,27,0,0,27,,,True,True,
+2020-06-27,BEL,Belgium,Wallonia,50.312074,5.019093,19264,3367,,15897,0,0,True,True,BE3
+2020-06-29,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,2089,55,0,2034,,,False,False,
+2020-06-29,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,185,10,10,165,,,True,True,BG413
+2020-06-29,BGR,Bulgaria,Burgas,42.491848,27.306892,108,1,19,88,,,True,True,BG341
+2020-06-29,BGR,Bulgaria,Dobrich,43.65074,27.936751,21,0,2,19,,,True,True,BG332
+2020-06-29,BGR,Bulgaria,Gabrovo,42.931879,25.247163,18,1,2,15,,,True,True,BG322
+2020-06-29,BGR,Bulgaria,Haskovo,41.849113,25.942349,39,1,7,31,,,True,True,BG422
+2020-06-29,BGR,Bulgaria,Kardzhali,41.527042,25.441477,55,0,4,51,,,True,True,BG425
+2020-06-29,BGR,Bulgaria,Kyustendil,42.255307,22.869974,241,3,20,218,,,True,True,BG415
+2020-06-29,BGR,Bulgaria,Lovech,43.035259,24.5688,17,0,1,16,,,True,True,BG315
+2020-06-29,BGR,Bulgaria,Montana,43.496677,23.192363,27,0,0,27,,,True,True,BG312
 2020-06-29,BGR,Bulgaria,NOT SPECIFIED,,,0,74,1796,-1870,,,True,True,
-2020-06-29,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,298,9,18,271,,,True,True,
-2020-06-29,BGR,Bulgaria,Pernik,42.613861,22.853171,59,0,1,58,,,True,True,
-2020-06-29,BGR,Bulgaria,Pleven,43.486117,24.610919,285,2,10,273,,,True,True,
-2020-06-29,BGR,Bulgaria,Plovdiv,42.257364,24.824903,187,5,64,118,,,True,True,
-2020-06-29,BGR,Bulgaria,Razgrad,,,67,0,0,67,,,True,True,
-2020-06-29,BGR,Bulgaria,Ruse,43.54059,25.759217,27,0,1,26,,,True,True,
-2020-06-29,BGR,Bulgaria,Shumen,43.296516,27.004814,128,1,1,126,,,True,True,
-2020-06-29,BGR,Bulgaria,Silistra,43.946163,27.044927,5,1,2,2,,,True,True,
-2020-06-29,BGR,Bulgaria,Sliven,42.67034,26.241026,259,11,56,192,,,True,True,
-2020-06-29,BGR,Bulgaria,Smolyan,41.628892,24.668089,219,4,33,182,,,True,True,
-2020-06-29,BGR,Bulgaria,Sofia City,42.286287,23.616846,1490,56,411,1023,,,True,True,
-2020-06-29,BGR,Bulgaria,Sofia Region,,,276,0,0,276,,,True,True,
-2020-06-29,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,117,3,0,114,,,True,True,
-2020-06-29,BGR,Bulgaria,Targovishte,,,10,1,0,9,,,True,True,
-2020-06-29,BGR,Bulgaria,Varna,43.186206,27.59493,80,0,11,69,,,True,True,
-2020-06-29,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,41,4,5,32,,,True,True,
-2020-06-29,BGR,Bulgaria,Vidin,43.797295,22.68621,216,18,14,184,,,True,True,
-2020-06-29,BGR,Bulgaria,Vratsa,43.395067,23.759152,29,0,2,27,,,True,True,
-2020-06-29,BGR,Bulgaria,Yambol,,,187,14,18,155,,,True,True,
-2020-06-29,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,13,0,,13,,,True,True,
-2020-06-29,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,49,1,,48,,,True,True,
-2020-06-29,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,119,8,,111,,,True,True,
-2020-06-29,HRV,Croatia,Grad Zagreb,45.742196,16.008116,671,17,,654,,,True,True,
-2020-06-29,HRV,Croatia,Istarska,45.203521,13.895312,101,2,,99,,,True,True,
-2020-06-29,HRV,Croatia,Karlovačka,45.292126,15.46427,36,1,,35,,,True,True,
-2020-06-29,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,98,15,,83,,,True,True,
-2020-06-29,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,135,2,,133,,,True,True,
-2020-06-29,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,,19,,,True,True,
-2020-06-29,HRV,Croatia,Međimurska,46.410728,16.508315,10,0,,10,,,True,True,
+2020-06-29,BGR,Bulgaria,Pazardzhik,42.133682,24.140941,298,9,18,271,,,True,True,BG423
+2020-06-29,BGR,Bulgaria,Pernik,42.613861,22.853171,59,0,1,58,,,True,True,BG414
+2020-06-29,BGR,Bulgaria,Pleven,43.486117,24.610919,285,2,10,273,,,True,True,BG314
+2020-06-29,BGR,Bulgaria,Plovdiv,42.257364,24.824903,187,5,64,118,,,True,True,BG421
+2020-06-29,BGR,Bulgaria,Razgrad,,,67,0,0,67,,,True,True,BG324
+2020-06-29,BGR,Bulgaria,Ruse,43.54059,25.759217,27,0,1,26,,,True,True,BG323
+2020-06-29,BGR,Bulgaria,Shumen,43.296516,27.004814,128,1,1,126,,,True,True,BG333
+2020-06-29,BGR,Bulgaria,Silistra,43.946163,27.044927,5,1,2,2,,,True,True,BG325
+2020-06-29,BGR,Bulgaria,Sliven,42.67034,26.241026,259,11,56,192,,,True,True,BG342
+2020-06-29,BGR,Bulgaria,Smolyan,41.628892,24.668089,219,4,33,182,,,True,True,BG424
+2020-06-29,BGR,Bulgaria,Sofia City,42.286287,23.616846,1490,56,411,1023,,,True,True,BG411
+2020-06-29,BGR,Bulgaria,Sofia Region,,,276,0,0,276,,,True,True,BG412
+2020-06-29,BGR,Bulgaria,Stara Zagora,42.411912,25.567329,117,3,0,114,,,True,True,BG344
+2020-06-29,BGR,Bulgaria,Targovishte,,,10,1,0,9,,,True,True,BG334
+2020-06-29,BGR,Bulgaria,Varna,43.186206,27.59493,80,0,11,69,,,True,True,BG331
+2020-06-29,BGR,Bulgaria,Veliko Tarnovo,43.189524,25.649275,41,4,5,32,,,True,True,BG321
+2020-06-29,BGR,Bulgaria,Vidin,43.797295,22.68621,216,18,14,184,,,True,True,BG311
+2020-06-29,BGR,Bulgaria,Vratsa,43.395067,23.759152,29,0,2,27,,,True,True,BG313
+2020-06-29,BGR,Bulgaria,Yambol,,,187,14,18,155,,,True,True,BG343
+2020-06-29,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,13,0,,13,,,True,True,HR047
+2020-06-29,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,49,1,,48,,,True,True,HR04A
+2020-06-29,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,119,8,,111,,,True,True,HR037
+2020-06-29,HRV,Croatia,Grad Zagreb,45.742196,16.008116,671,17,,654,,,True,True,HR041
+2020-06-29,HRV,Croatia,Istarska,45.203521,13.895312,101,2,,99,,,True,True,HR036
+2020-06-29,HRV,Croatia,Karlovačka,45.292126,15.46427,36,1,,35,,,True,True,HR04D
+2020-06-29,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,98,15,,83,,,True,True,HR045
+2020-06-29,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,135,2,,133,,,True,True,HR043
+2020-06-29,HRV,Croatia,Ličko-senjska,44.69075,15.422344,20,1,,19,,,True,True,HR032
+2020-06-29,HRV,Croatia,Međimurska,46.410728,16.508315,10,0,,10,,,True,True,HR046
 2020-03-25,HRV,Croatia,NOT SPECIFIED,,,1,0,0,1,,,True,True,
-2020-06-29,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,272,8,,264,,,True,True,
-2020-06-29,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,,7,,,True,True,
-2020-06-29,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,102,1,,101,,,True,True,
-2020-06-29,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,92,5,,87,,,True,True,
-2020-06-29,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,45,0,,45,,,True,True,
-2020-06-29,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,582,37,,545,,,True,True,
-2020-06-29,HRV,Croatia,Varaždinska,46.250434,16.293818,54,0,,54,,,True,True,
-2020-06-29,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,13,1,,12,,,True,True,
-2020-06-29,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,48,0,,48,,,True,True,
-2020-06-29,HRV,Croatia,Zadarska,44.347845,15.959404,99,1,,98,,,True,True,
-2020-06-29,HRV,Croatia,Zagrebačka,45.82762,16.381796,158,4,,154,,,True,True,
-2020-06-29,CYP,Cyprus,Cyprus,35.167406,33.435499,994,19,,975,,,True,True,
-2020-06-29,CZE,Czech Republic,Jihoceský,49.093362,14.439278,201,0,0,201,,,True,True,
-2020-06-29,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,662,0,0,662,,,True,True,
-2020-06-29,CZE,Czech Republic,Karlovarský,50.170136,12.763213,497,0,0,497,,,True,True,
-2020-06-29,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,217,0,0,217,,,True,True,
-2020-06-29,CZE,Czech Republic,Liberecký,50.732038,14.973755,255,0,0,255,,,True,True,
-2020-06-29,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,2650,0,0,2650,,,True,True,
+2020-06-29,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,272,8,,264,,,True,True,HR04B
+2020-06-29,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,8,1,,7,,,True,True,HR049
+2020-06-29,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,102,1,,101,,,True,True,HR031
+2020-06-29,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,92,5,,87,,,True,True,HR034
+2020-06-29,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,45,0,,45,,,True,True,HR04E
+2020-06-29,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,582,37,,545,,,True,True,HR035
+2020-06-29,HRV,Croatia,Varaždinska,46.250434,16.293818,54,0,,54,,,True,True,HR044
+2020-06-29,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,13,1,,12,,,True,True,HR048
+2020-06-29,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,48,0,,48,,,True,True,HR04C
+2020-06-29,HRV,Croatia,Zadarska,44.347845,15.959404,99,1,,98,,,True,True,HR033
+2020-06-29,HRV,Croatia,Zagrebačka,45.82762,16.381796,158,4,,154,,,True,True,HR042
+2020-06-29,CYP,Cyprus,Cyprus,35.167406,33.435499,994,19,,975,,,True,True,CY
+2020-06-29,CZE,Czech Republic,Jihoceský,49.093362,14.439278,201,0,0,201,,,True,True,CZ031
+2020-06-29,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,662,0,0,662,,,True,True,CZ064
+2020-06-29,CZE,Czech Republic,Karlovarský,50.170136,12.763213,497,0,0,497,,,True,True,CZ041
+2020-06-29,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,217,0,0,217,,,True,True,CZ052
+2020-06-29,CZE,Czech Republic,Liberecký,50.732038,14.973755,255,0,0,255,,,True,True,CZ051
+2020-06-29,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,2650,0,0,2650,,,True,True,CZ080
 2020-06-29,CZE,Czech Republic,NOT SPECIFIED,,,357,348,7710,-7701,,,True,True,
-2020-06-29,CZE,Czech Republic,Olomoucký,49.823636,17.016472,902,0,0,902,,,True,True,
-2020-06-29,CZE,Czech Republic,Pardubický,49.877869,16.495746,316,0,0,316,,,True,True,
-2020-06-29,CZE,Czech Republic,Plzenský,49.590906,13.23222,678,0,0,678,,,True,True,
-2020-06-29,CZE,Czech Republic,Prague,50.063699,14.476403,2505,0,0,2505,,,True,True,
-2020-06-29,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1208,0,0,1208,,,True,True,
-2020-06-29,CZE,Czech Republic,Ústecký,50.488308,13.816736,583,0,0,583,,,True,True,
-2020-06-29,CZE,Czech Republic,Vysocina,49.40736,15.689937,192,0,0,192,,,True,True,
-2020-06-29,CZE,Czech Republic,Zlínský,49.239654,17.770218,381,0,0,381,,,True,True,
+2020-06-29,CZE,Czech Republic,Olomoucký,49.823636,17.016472,902,0,0,902,,,True,True,CZ071
+2020-06-29,CZE,Czech Republic,Pardubický,49.877869,16.495746,316,0,0,316,,,True,True,CZ053
+2020-06-29,CZE,Czech Republic,Plzenský,49.590906,13.23222,678,0,0,678,,,True,True,CZ032
+2020-06-29,CZE,Czech Republic,Prague,50.063699,14.476403,2505,0,0,2505,,,True,True,CZ010
+2020-06-29,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1208,0,0,1208,,,True,True,CZ020
+2020-06-29,CZE,Czech Republic,Ústecký,50.488308,13.816736,583,0,0,583,,,True,True,CZ042
+2020-06-29,CZE,Czech Republic,Vysocina,49.40736,15.689937,192,0,0,192,,,True,True,CZ063
+2020-06-29,CZE,Czech Republic,Zlínský,49.239654,17.770218,381,0,0,381,,,True,True,CZ072
 2020-06-29,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,,187,,,True,True,FRO
 2020-06-29,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
 2020-06-29,DNK,Denmark,Hovedstaden,55.675758,12.56902,7373,353,,7020,,,True,True,DK01
@@ -105,49 +105,49 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-03,DNK,Denmark,NOT SPECIFIED,,,0,0,0,0,0,0,True,True,
 2020-06-29,DNK,Denmark,Sjælland,55.92481,11.67126,2035,123,,1912,,,True,True,DK02
 2020-06-29,DNK,Denmark,Syddanmark,55.675758,12.56902,1047,35,,1012,,,True,True,DK03
-2020-06-27,EST,Estonia,Estonia,58.596209,25.023778,1986,69,0,1917,,,True,True,
-2020-06-29,FIN,Finland,Ahvenanmaa,60.240625,19.966666,19,,,19,,,True,True,
-2020-06-29,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True,
-2020-06-29,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True,
-2020-06-29,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True,
-2020-06-29,FIN,Finland,HUS,60.408524,24.7817,5283,,,5283,,,True,True,
-2020-06-29,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True,
-2020-06-29,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True,
-2020-06-29,FIN,Finland,Kanta-Häme,60.921424,24.354383,113,,,113,,,True,True,
-2020-06-29,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True,
-2020-06-29,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True,
-2020-06-29,FIN,Finland,Kymenlaakso,60.826543,26.889951,48,,,48,,,True,True,
-2020-06-29,FIN,Finland,Länsi-Pohja,66.133479,24.762611,149,,,149,,,True,True,
-2020-06-29,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True,
+2020-06-29,EST,Estonia,Estonia,58.596209,25.023778,1987,69,0,1918,,,True,True,EE0
+2020-06-29,FIN,Finland,Ahvenanmaa,60.240625,19.966666,19,,,19,,,True,True,FI200
+2020-06-29,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True,FI1C5
+2020-06-29,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True,FI194
+2020-06-29,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True,FI1D1
+2020-06-29,FIN,Finland,HUS,60.408524,24.7817,5283,,,5283,,,True,True,FI1B1
+2020-06-29,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True,FI1X1
+2020-06-29,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True,FI1D8
+2020-06-29,FIN,Finland,Kanta-Häme,60.921424,24.354383,113,,,113,,,True,True,FI1C2
+2020-06-29,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True,FI1D5
+2020-06-29,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True,FI193
+2020-06-29,FIN,Finland,Kymenlaakso,60.826543,26.889951,48,,,48,,,True,True,FI1C4
+2020-06-29,FIN,Finland,Länsi-Pohja,66.133479,24.762611,149,,,149,,,True,True,FI1X2
+2020-06-29,FIN,Finland,Lappi,67.847438,26.444542,72,,,72,,,True,True,FI1D7
 2020-03-30,FIN,Finland,NOT SPECIFIED,,,20,0,0,20,0,0,True,True,
-2020-06-29,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True,
-2020-06-29,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True,
-2020-06-29,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,27,,,27,,,True,True,
-2020-06-29,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,136,,,136,,,True,True,
-2020-06-29,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True,
-2020-06-29,FIN,Finland,Satakunta,61.527072,22.157717,60,,,60,,,True,True,
-2020-06-29,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True,
-2020-06-29,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,371,,,371,,,True,True,
+2020-06-29,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True,FI1C3
+2020-06-29,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True,FI197
+2020-06-29,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,27,,,27,,,True,True,FI1D3
+2020-06-29,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,136,,,136,,,True,True,FI1D9
+2020-06-29,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True,FI1D2
+2020-06-29,FIN,Finland,Satakunta,61.527072,22.157717,60,,,60,,,True,True,FI196
+2020-06-29,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True,FI195
+2020-06-29,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,371,,,371,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
-2020-06-26,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1729,7649,-9378,543,30,True,True,
-2020-06-26,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1037,3821,-4858,158,12,True,True,
+2020-06-26,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1729,7649,-9378,543,30,True,True,FRK
+2020-06-26,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1037,3821,-4858,158,12,True,True,FRC
 2020-06-26,FRA,France,Bretagne,48.181767,-2.840778,0,259,1260,-1519,97,3,True,True,FRH0
 2020-06-26,FRA,France,Centre-Val de Loire,47.751569,1.675063,0,545,1939,-2484,426,18,True,True,FRB0
 2020-06-26,FRA,France,Corse,42.151732,9.105559,0,59,244,-303,14,1,True,True,FRM0
-2020-06-26,FRA,France,Grand Est,48.688738,5.613275,0,3556,12039,-15595,1177,56,True,True,
+2020-06-26,FRA,France,Grand Est,48.688738,5.613275,0,3556,12039,-15595,1177,56,True,True,FRF
 2020-06-26,FRA,France,Guadeloupe,16.192207,-61.272382,0,15,80,-95,8,2,True,True,FRY1
 2020-06-26,FRA,France,Guyane,3.926082,-53.245309,0,11,311,-322,128,21,True,True,FRY3
-2020-06-26,FRA,France,Hauts-de-France,49.96966,2.770434,0,1827,6271,-8098,1023,67,True,True,
-2020-06-26,FRA,France,Île-de-France,48.709229,2.503473,0,7425,27420,-34845,4038,313,True,True,
+2020-06-26,FRA,France,Hauts-de-France,49.96966,2.770434,0,1827,6271,-8098,1023,67,True,True,FRE
+2020-06-26,FRA,France,Île-de-France,48.709229,2.503473,0,7425,27420,-34845,4038,313,True,True,FR1
 2020-06-26,FRA,France,La Réunion,-20.89066,55.455054,0,1,136,-137,21,3,True,True,FRY4
 2020-06-26,FRA,France,Martinique,14.63554,-61.022814,0,14,89,-103,14,5,True,True,FRY2
 2020-06-26,FRA,France,Mayotte,-12.824511,45.165455,0,27,349,-376,36,6,True,True,FRY5
-2020-06-26,FRA,France,Normandie,48.880101,-0.073045,0,431,1626,-2057,233,8,True,True,
+2020-06-26,FRA,France,Normandie,48.880101,-0.073045,0,431,1626,-2057,233,8,True,True,FRD
 2020-06-26,FRA,France,NOT SPECIFIED,,,162936,20,10,162906,45,28,True,True,
-2020-06-26,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,413,2152,-2565,105,12,True,True,
-2020-06-26,FRA,France,Occitanie,43.703195,2.143601,0,511,2864,-3375,85,11,True,True,
+2020-06-26,FRA,France,Nouvelle-Aquitaine,45.479897,0.410462,0,413,2152,-2565,105,12,True,True,FRI
+2020-06-26,FRA,France,Occitanie,43.703195,2.143601,0,511,2864,-3375,85,11,True,True,FRJ
 2020-06-26,FRA,France,Pays de la Loire,47.479115,-0.811996,0,467,2054,-2521,167,5,True,True,FRG0
-2020-06-26,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,943,5335,-6278,568,33,True,True,
+2020-06-26,FRA,France,Provence-Alpes-Côte d'Azur,43.956994,6.062951,0,943,5335,-6278,568,33,True,True,FRL
 2020-06-29,DEU,Germany,Baden-Württemberg,48.537648,9.049199,35530,1829,,33701,,,True,True,DE1
 2020-06-29,DEU,Germany,Bayern,48.947574,11.419913,48344,2592,,45752,,,True,True,DE2
 2020-06-29,DEU,Germany,Berlin,52.501532,13.40185,8176,213,,7963,,,True,True,DE3
@@ -166,79 +166,79 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-29,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,1869,58,,1811,,,True,True,DEE
 2020-06-29,DEU,Germany,Schleswig Holstein,54.0295,9.705555,3147,152,,2995,,,True,True,DEF
 2020-06-29,DEU,Germany,Thüringen,50.903878,11.02488,3250,181,,3069,,,True,True,DEG
-2020-06-28,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,,True,True,
-2020-06-28,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,,True,True,
-2020-06-28,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,,True,True,
-2020-06-28,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,,True,True,
-2020-06-28,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,,True,True,
-2020-06-28,GRC,Greece,Athens,37.997492,23.762727,1100,115,0,985,0,,True,True,
-2020-06-28,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,,True,True,
-2020-06-28,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,,True,True,
-2020-06-28,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,,True,True,
-2020-06-28,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,,True,True,
-2020-06-28,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,,True,True,
-2020-06-28,GRC,Greece,Evros,41.064778,26.12942,14,10,0,4,0,,True,True,
-2020-06-28,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,,True,True,
-2020-04-06,GRC,Greece,Grevenon,40.022103,21.432045,1,0,0,1,0,0,True,True,
-2020-06-28,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,,True,True,
-2020-06-28,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,,True,True,
-2020-06-28,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,,True,True,
-2020-06-28,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,,True,True,
-2020-06-28,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,,True,True,
-2020-06-28,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,,True,True,
-2020-06-28,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Larissa,39.701311,22.39723,67,1,0,66,0,,True,True,
-2020-06-28,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,,True,True,
-2020-06-28,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,,True,True,
+2020-06-28,GRC,Greece,Achaea,38.116381,21.862704,22,4,0,18,0,,True,True,EL632
+2020-06-28,GRC,Greece,Aitolia and Akarnania,38.666667,21.416667,4,0,0,4,0,,True,True,EL631
+2020-06-28,GRC,Greece,Argolis,37.596538,22.863975,151,0,0,151,0,,True,True,EL651
+2020-06-28,GRC,Greece,Arkadias,37.461206,22.327779,3,0,0,3,0,,True,True,EL65X
+2020-06-28,GRC,Greece,Arta,39.245971,21.103804,7,0,0,7,0,,True,True,EL541
+2020-06-28,GRC,Greece,Athens,37.997492,23.762727,1100,115,0,985,0,,True,True,EL300
+2020-06-28,GRC,Greece,Athos,40.326111,24.094376,4,0,0,4,0,,True,True,ELX00
+2020-06-28,GRC,Greece,Beozia,38.367847,23.088513,2,0,0,2,0,,True,True,EL641
+2020-06-28,GRC,Greece,Chania,35.380719,23.918626,1,0,0,1,0,,True,True,EL434
+2020-06-28,GRC,Greece,Corfu,39.709041,19.751814,3,1,0,2,0,,True,True,EL622
+2020-06-28,GRC,Greece,Corinth,37.911732,22.70582,2,0,0,2,0,,True,True,EL652
+2020-06-28,GRC,Greece,Cyclades,37.061014,25.483998,2,0,0,2,0,,True,True,EL422
+2020-06-28,GRC,Greece,Dodecaneso,36.184828,27.952756,1,0,0,1,0,,True,True,EL421
+2020-06-28,GRC,Greece,Drama,41.297502,24.181932,6,0,0,6,0,,True,True,EL514
+2020-06-28,GRC,Greece,East Attica,37.920984,23.858621,57,0,0,57,0,,True,True,EL305
+2020-06-28,GRC,Greece,Elis,37.73,21.56521,46,2,0,44,0,,True,True,EL633
+2020-06-28,GRC,Greece,Euboea,38.555118,23.793427,23,0,0,23,0,,True,True,EL642
+2020-06-28,GRC,Greece,Evros,41.064778,26.12942,14,10,0,4,0,,True,True,EL511
+2020-06-28,GRC,Greece,Florina,40.750526,21.428093,2,0,0,2,0,,True,True,EL533
+2020-06-28,GRC,Greece,Fthiotis,38.985561,22.212806,2,0,0,2,0,,True,True,EL644
+2020-04-06,GRC,Greece,Grevenon,40.022103,21.432045,1,0,0,1,0,0,True,True,EL531
+2020-06-28,GRC,Greece,Heraklion,35.138839,25.118682,10,1,0,9,0,,True,True,EL431
+2020-06-28,GRC,Greece,Ikaria,37.596723,26.112308,1,0,0,1,0,,True,True,EL412
+2020-06-28,GRC,Greece,Ioannina,39.810149,20.805055,2,0,0,2,0,,True,True,EL543
+2020-06-28,GRC,Greece,Kastoria,40.461316,21.154636,78,12,0,66,0,,True,True,EL532
+2020-06-28,GRC,Greece,Kavalas,41.053007,24.573321,4,0,0,4,0,,True,True,EL515
+2020-06-28,GRC,Greece,Kefalonia,38.222972,20.574409,1,0,0,1,0,,True,True,EL623
+2020-06-28,GRC,Greece,Khalkidiki,40.318124,23.552648,1,1,0,0,0,,True,True,EL527
+2020-06-28,GRC,Greece,Khios,38.385418,26.079931,1,0,0,1,0,,True,True,EL413
+2020-06-28,GRC,Greece,Kilkis,41.025631,22.75541,3,0,0,3,0,,True,True,EL523
+2020-06-28,GRC,Greece,Kozani,40.381888,21.628163,73,15,0,58,0,,True,True,EL53X
+2020-06-28,GRC,Greece,Laconia,36.918108,22.710877,1,0,0,1,0,,True,True,EL653
+2020-06-28,GRC,Greece,Larissa,39.701311,22.39723,67,1,0,66,0,,True,True,EL612
+2020-06-28,GRC,Greece,Lasithi,35.171255,25.627696,2,0,0,2,0,,True,True,EL432
+2020-06-28,GRC,Greece,Lefkadas,38.708067,20.647757,1,0,0,1,0,,True,True,EL624
+2020-06-28,GRC,Greece,Lesbos,39.074583,26.223748,6,1,0,5,0,,True,True,EL411
+2020-06-28,GRC,Greece,Magnesia,39.21647,22.704791,2,0,0,2,0,,True,True,EL613
+2020-06-28,GRC,Greece,Messinia,37.094459,21.774146,7,0,0,7,0,,True,True,EL65Y
 2020-06-28,GRC,Greece,NOT SPECIFIED,,,1235,0,0,1235,0,,True,True,
-2020-06-28,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,,True,True,
-2020-06-28,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,,True,True,
-2020-06-28,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,,True,True,
-2020-06-28,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,,True,True,
-2020-06-28,GRC,Greece,Rodopi,41.111377,25.506941,7,1,0,6,0,,True,True,
-2020-06-28,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,,True,True,
-2020-06-28,GRC,Greece,Tessaloniki,40.687597,23.115933,85,17,0,68,0,,True,True,
-2020-06-28,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,,True,True,
-2020-06-28,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,,True,True,
-2020-06-28,GRC,Greece,Xanthis,41.168776,24.88364,32,7,0,25,0,,True,True,
-2020-06-28,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,,True,True,
-2020-06-29,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,20,0,0,20,0,0,True,True,
-2020-06-29,HUN,Hungary,Baranya,46.043048,18.197022,40,0,0,40,0,0,True,True,
-2020-06-29,HUN,Hungary,Békés,46.735413,21.006326,13,0,0,13,0,0,True,True,
-2020-06-29,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,62,0,0,62,0,0,True,True,
+2020-06-28,GRC,Greece,Pella,40.884899,22.128273,7,2,0,5,0,,True,True,EL524
+2020-06-28,GRC,Greece,Pieria,40.257022,22.439796,3,0,0,3,0,,True,True,EL525
+2020-06-28,GRC,Greece,Pireas,37.496654,23.343615,176,0,0,176,0,,True,True,EL307
+2020-06-28,GRC,Greece,Prevezas,39.309766,20.375076,2,0,0,2,0,,True,True,EL54X
+2020-06-28,GRC,Greece,Rethymnon,35.265379,24.62573,2,0,0,2,0,,True,True,EL433
+2020-06-28,GRC,Greece,Rodopi,41.111377,25.506941,7,1,0,6,0,,True,True,EL513
+2020-06-28,GRC,Greece,Serron,41.09138,23.52362,9,0,0,9,0,,True,True,EL526
+2020-06-28,GRC,Greece,Tessaloniki,40.687597,23.115933,85,17,0,68,0,,True,True,EL522
+2020-06-28,GRC,Greece,Trikalon,39.63943,21.598219,1,0,0,1,0,,True,True,EL611
+2020-06-28,GRC,Greece,West Attica,38.092941,23.395355,33,0,0,33,0,,True,True,EL306
+2020-06-28,GRC,Greece,Xanthis,41.168776,24.88364,32,7,0,25,0,,True,True,EL512
+2020-06-28,GRC,Greece,Zakynthos,37.785045,20.774553,6,1,0,5,0,,True,True,EL621
+2020-06-29,HUN,Hungary,Bács-Kiskun,46.563665,19.374746,20,0,0,20,0,0,True,True,HU331
+2020-06-29,HUN,Hungary,Baranya,46.043048,18.197022,40,0,0,40,0,0,True,True,HU231
+2020-06-29,HUN,Hungary,Békés,46.735413,21.006326,13,0,0,13,0,0,True,True,HU332
+2020-06-29,HUN,Hungary,Borsod-Abaúj-Zemplén,48.200164,20.962472,62,0,0,62,0,0,True,True,HU311
 2020-06-29,HUN,Hungary,Budapest,47.486226,19.102958,1977,0,0,1977,0,0,True,True,HU11
-2020-06-29,HUN,Hungary,Csongrád,46.429441,20.23317,112,0,0,112,0,0,True,True,
-2020-06-29,HUN,Hungary,Fejér,47.130985,18.532031,376,0,0,376,0,0,True,True,
-2020-06-29,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,86,0,0,86,0,0,True,True,
-2020-06-29,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,22,0,0,22,0,0,True,True,
-2020-06-29,HUN,Hungary,Heves,47.856454,20.175008,14,0,0,14,0,0,True,True,
+2020-06-29,HUN,Hungary,Csongrád,46.429441,20.23317,112,0,0,112,0,0,True,True,HU333
+2020-06-29,HUN,Hungary,Fejér,47.130985,18.532031,376,0,0,376,0,0,True,True,HU211
+2020-06-29,HUN,Hungary,Győr-Moson-Sopron,47.642476,17.280184,86,0,0,86,0,0,True,True,HU221
+2020-06-29,HUN,Hungary,Hajdú-Bihar,47.472629,21.459389,22,0,0,22,0,0,True,True,HU321
+2020-06-29,HUN,Hungary,Heves,47.856454,20.175008,14,0,0,14,0,0,True,True,HU312
 2020-06-29,HUN,Hungary,Hungary,47.164638,19.508944,0,0,0,0,0,0,True,True,
-2020-06-29,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,19,0,0,19,0,0,True,True,
-2020-06-29,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,307,0,0,307,0,0,True,True,
-2020-06-29,HUN,Hungary,Nógrád,47.988372,19.52022,51,0,0,51,0,0,True,True,
+2020-06-29,HUN,Hungary,Jász-Nagykun-Szolnok,47.112794,20.341909,19,0,0,19,0,0,True,True,HU322
+2020-06-29,HUN,Hungary,Komárom-Esztergom,47.610748,18.309797,307,0,0,307,0,0,True,True,HU212
+2020-06-29,HUN,Hungary,Nógrád,47.988372,19.52022,51,0,0,51,0,0,True,True,HU313
 2020-06-29,HUN,Hungary,NOT SPECIFIED,,,0,585,2685,-3270,170,9,True,True,
 2020-06-29,HUN,Hungary,Pest,47.252834,19.743062,618,0,0,618,0,0,True,True,HU12
-2020-06-29,HUN,Hungary,Somogy,46.452574,17.603217,22,0,0,22,0,0,True,True,
-2020-06-29,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,51,0,0,51,0,0,True,True,
-2020-06-29,HUN,Hungary,Tolna,46.512422,18.535403,13,0,0,13,0,0,True,True,
-2020-06-29,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True,
-2020-06-29,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True,
-2020-06-29,HUN,Hungary,Zala,46.692149,16.903237,262,0,0,262,0,0,True,True,
+2020-06-29,HUN,Hungary,Somogy,46.452574,17.603217,22,0,0,22,0,0,True,True,HU232
+2020-06-29,HUN,Hungary,Szabolcs-Szatmár-Bereg,47.998398,22.083465,51,0,0,51,0,0,True,True,HU323
+2020-06-29,HUN,Hungary,Tolna,46.512422,18.535403,13,0,0,13,0,0,True,True,HU233
+2020-06-29,HUN,Hungary,Vas,47.147868,16.751348,17,0,0,17,0,0,True,True,HU222
+2020-06-29,HUN,Hungary,Veszprém,47.131402,17.65231,63,0,0,63,0,0,True,True,HU213
+2020-06-29,HUN,Hungary,Zala,46.692149,16.903237,262,0,0,262,0,0,True,True,HU223
 2020-06-24,ISL,Iceland,Abroad,,,1,,,1,,,False,True,
 2020-06-24,ISL,Iceland,East Iceland,64.832997,-15.743398,8,,,8,,,False,True,ISX03
 2020-06-24,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1323,,,1323,,,False,True,IS001
@@ -249,7 +249,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,,,77,,,False,True,ISX08
 2020-06-24,ISL,Iceland,West Fjords,65.820831,-21.86654,97,,,97,,,False,True,ISX09
 2020-06-24,ISL,Iceland,West Iceland,64.843136,-21.691436,45,,,45,,,False,True,ISX10
-2020-06-29,IRL,Ireland,Ireland,53.41975,-8.240472,25439,1735,,23704,,,True,True,
+2020-06-29,IRL,Ireland,Ireland,53.41975,-8.240472,25439,1735,,23704,,,True,True,IE
 2020-06-28,ITA,Italy,Abruzzo,42.228034,13.855137,3286,462,2540,284,30,2,True,True,ITF1
 2020-06-28,ITA,Italy,Basilicata,40.500665,16.082246,401,27,372,2,1,0,True,True,ITF5
 2020-06-28,ITA,Italy,Bolzano,46.697344,11.417082,2637,292,2260,85,4,1,True,True,ITH1
@@ -271,218 +271,218 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-28,ITA,Italy,Umbria,42.966781,12.49094,1440,80,1351,9,3,1,True,True,ITI2
 2020-06-28,ITA,Italy,Valle d'Aosta,45.732414,7.393651,1194,146,1044,4,3,0,True,True,ITC2
 2020-06-28,ITA,Italy,Veneto,45.664735,11.84235,19275,2008,16807,460,17,1,True,True,ITH3
-2020-06-29,LVA,Latvia,Latvia,56.875584,24.607722,1116,30,,1086,,,True,True,
-2020-06-29,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False,
+2020-06-29,LVA,Latvia,Latvia,56.875584,24.607722,1116,30,,1086,,,True,True,LV0
+2020-06-29,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
-2020-06-29,LTU,Lithuania,Lithuania,55.174112,23.906736,1816,78,,1738,,,True,True,
-2020-06-28,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4242,110,952,3180,13,1,True,True,
+2020-06-29,LTU,Lithuania,Lithuania,55.174112,23.906736,1816,78,,1738,,,True,True,LT
+2020-06-28,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4242,110,952,3180,13,1,True,True,LU
 2020-06-29,MLT,Malta,Malta,35.946151,14.384612,670,9,639,22,,,True,True,MT001
 2020-06-29,MDA,Moldova,Moldova,46.979527,28.377195,16250,530,,15720,,,False,False,
 2020-06-29,MCO,Monaco,Monaco,43.738348,7.424451,103,5,,98,,,False,False,
-2020-06-29,MNE,Montenegro,Montenegro,42.710152,19.410069,481,11,,470,,,False,True,
-2020-06-28,NLD,Netherlands,Drenthe,52.863149,6.623756,535,0,0,535,0,0,True,True,NL13
-2020-06-28,NLD,Netherlands,Flevoland,52.436257,5.519078,982,0,0,982,0,0,True,True,NL23
-2020-06-28,NLD,Netherlands,Friesland,53.089388,5.871457,636,0,0,636,0,0,True,True,NL12
-2020-06-28,NLD,Netherlands,Gelderland,52.061726,5.945178,6595,0,0,6595,0,0,True,True,NL22
-2020-06-28,NLD,Netherlands,Groningen,53.291466,6.700488,363,0,0,363,0,0,True,True,NL11
-2020-06-28,NLD,Netherlands,Limburg,51.207579,5.936318,4887,0,0,4887,0,0,True,True,NL42
-2020-06-28,NLD,Netherlands,North Brabant,51.527534,5.590194,9763,0,0,9763,0,0,True,True,NL41
-2020-06-28,NLD,Netherlands,North Holland,52.551824,4.876581,7258,0,0,7258,0,0,True,True,NL32
-2020-06-28,NLD,Netherlands,NOT SPECIFIED,,,0,6105,0,-6105,11871,0,True,True,
-2020-06-28,NLD,Netherlands,Overijssel,52.445136,6.4476,3105,0,0,3105,0,0,True,True,NL21
-2020-06-28,NLD,Netherlands,South Holland,51.968696,4.541274,11266,0,0,11266,0,0,True,True,NL33
-2020-06-28,NLD,Netherlands,Utrecht,52.078728,5.214048,4021,0,0,4021,0,0,True,True,NL31
-2020-06-28,NLD,Netherlands,Zeeland,51.312779,3.786651,736,0,0,736,0,0,True,True,NL34
-2020-06-29,MKD,North Macedonia,North Macedonia,41.611,21.751417,6092,286,,5806,,,False,True,
+2020-06-29,MNE,Montenegro,Montenegro,42.710152,19.410069,481,11,,470,,,False,True,ME
+2020-06-29,NLD,Netherlands,Drenthe,52.863149,6.623756,535,0,0,535,0,0,True,True,NL13
+2020-06-29,NLD,Netherlands,Flevoland,52.436257,5.519078,982,0,0,982,0,0,True,True,NL23
+2020-06-29,NLD,Netherlands,Friesland,53.089388,5.871457,636,0,0,636,0,0,True,True,NL12
+2020-06-29,NLD,Netherlands,Gelderland,52.061726,5.945178,6604,0,0,6604,0,0,True,True,NL22
+2020-06-29,NLD,Netherlands,Groningen,53.291466,6.700488,363,0,0,363,0,0,True,True,NL11
+2020-06-29,NLD,Netherlands,Limburg,51.207579,5.936318,4888,0,0,4888,0,0,True,True,NL42
+2020-06-29,NLD,Netherlands,North Brabant,51.527534,5.590194,9773,0,0,9773,0,0,True,True,NL41
+2020-06-29,NLD,Netherlands,North Holland,52.551824,4.876581,7267,0,0,7267,0,0,True,True,NL32
+2020-06-29,NLD,Netherlands,NOT SPECIFIED,,,0,6107,0,-6107,11874,0,True,True,
+2020-06-29,NLD,Netherlands,Overijssel,52.445136,6.4476,3109,0,0,3109,0,0,True,True,NL21
+2020-06-29,NLD,Netherlands,South Holland,51.968696,4.541274,11300,0,0,11300,0,0,True,True,NL33
+2020-06-29,NLD,Netherlands,Utrecht,52.078728,5.214048,4030,0,0,4030,0,0,True,True,NL31
+2020-06-29,NLD,Netherlands,Zeeland,51.312779,3.786651,736,0,0,736,0,0,True,True,NL34
+2020-06-29,MKD,North Macedonia,North Macedonia,41.611,21.751417,6092,286,,5806,,,False,True,MK
 2020-06-26,NOR,Norway,Agder,58.699661,7.618403,346,,,346,,,False,True,NO04
 2020-06-26,NOR,Norway,Innlandet,61.43354,10.427144,515,,,515,,,False,True,NO02
-2020-06-26,NOR,Norway,Møre og Romsdal,62.543569,8.540539,150,,,150,,,False,True,
-2020-06-26,NOR,Norway,Nordland,66.679716,14.635752,125,,,125,,,False,True,
+2020-06-26,NOR,Norway,Møre og Romsdal,62.543569,8.540539,150,,,150,,,False,True,NO053
+2020-06-26,NOR,Norway,Nordland,66.679716,14.635752,125,,,125,,,False,True,NO071
 2020-06-26,NOR,Norway,NOT SPECIFIED,,,0,249,,-249,935,223,False,True,
-2020-06-26,NOR,Norway,Oslo,59.979683,10.738335,2845,,,2845,,,False,True,
+2020-06-26,NOR,Norway,Oslo,59.979683,10.738335,2845,,,2845,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2020-06-26,NOR,Norway,Rogaland,58.58709,6.206792,444,,,444,,,False,True,
-2020-06-26,NOR,Norway,Troms og Finnmark,70.239335,26.12935,253,,,253,,,False,True,
+2020-06-26,NOR,Norway,Rogaland,58.58709,6.206792,444,,,444,,,False,True,NO043
+2020-06-26,NOR,Norway,Troms og Finnmark,70.239335,26.12935,253,,,253,,,False,True,NO072
 2020-06-26,NOR,Norway,Trøndelag,63.421183,11.529951,537,,,537,,,False,True,NO06
-2020-06-26,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,296,,,296,,,False,True,
+2020-06-26,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,296,,,296,,,False,True,NO033
 2020-06-26,NOR,Norway,Vestland,60.952729,6.513828,889,,,889,,,False,True,NO05
-2020-06-26,NOR,Norway,Viken,60.020274,9.849655,2415,,,2415,,,False,True,
-2020-06-29,POL,Poland,Dolnośląskie,51.07994,16.381483,2913,139,,2774,,,True,True,
-2020-06-29,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,669,49,,620,,,True,True,
-2020-06-29,POL,Poland,Łódzkie,51.559579,19.408271,3107,161,,2946,,,True,True,
-2020-06-29,POL,Poland,Lubelskie,51.247253,22.908895,651,17,,634,,,True,True,
-2020-06-29,POL,Poland,Lubuskie,52.206458,15.345515,149,0,,149,,,True,True,
-2020-06-29,POL,Poland,Małopolskie,49.842031,20.300847,1701,44,,1657,,,True,True,
+2020-06-26,NOR,Norway,Viken,60.020274,9.849655,2415,,,2415,,,False,True,NO012
+2020-06-29,POL,Poland,Dolnośląskie,51.07994,16.381483,2913,139,,2774,,,True,True,PL51
+2020-06-29,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,669,49,,620,,,True,True,PL61
+2020-06-29,POL,Poland,Łódzkie,51.559579,19.408271,3107,161,,2946,,,True,True,PL71
+2020-06-29,POL,Poland,Lubelskie,51.247253,22.908895,651,17,,634,,,True,True,PL81
+2020-06-29,POL,Poland,Lubuskie,52.206458,15.345515,149,0,,149,,,True,True,PL43
+2020-06-29,POL,Poland,Małopolskie,49.842031,20.300847,1701,44,,1657,,,True,True,PL21
 2020-06-29,POL,Poland,Mazowieckie,52.309134,21.081201,5002,327,,4675,,,True,True,PL9
-2020-06-29,POL,Poland,Opolskie,50.621436,17.876844,940,51,,889,,,True,True,
-2020-06-29,POL,Poland,Podkarpackie,49.962818,22.225966,647,50,,597,,,True,True,
-2020-06-29,POL,Poland,Podlaskie,53.28395,22.895092,823,10,,813,,,True,True,
-2020-06-29,POL,Poland,Pomorskie,54.129033,18.012613,666,38,,628,,,True,True,
-2020-06-29,POL,Poland,Śląskie,50.318293,18.999987,12602,324,,12278,,,True,True,
-2020-06-29,POL,Poland,Świętokrzyskie,50.734202,20.797295,790,38,,752,,,True,True,
-2020-06-29,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,242,1,,241,,,True,True,
-2020-06-29,POL,Poland,Wielkopolskie,52.283858,17.248218,2643,175,,2468,,,True,True,
-2020-06-29,POL,Poland,Zachodniopomorskie,53.582707,15.634824,609,20,,589,,,True,True,
-2020-06-28,PRT,Portugal,Açores,37.775525,-25.494927,149,15,,134,,,True,True,PT20
-2020-06-28,PRT,Portugal,Alentejo,38.485499,-8.006668,471,5,,466,,,True,True,PT18
-2020-06-28,PRT,Portugal,Algarve,37.218389,-8.198488,612,15,,597,,,True,True,PT15
-2020-06-28,PRT,Portugal,Centro,40.111812,-8.012768,4094,248,,3846,,,True,True,PT16
+2020-06-29,POL,Poland,Opolskie,50.621436,17.876844,940,51,,889,,,True,True,PL52
+2020-06-29,POL,Poland,Podkarpackie,49.962818,22.225966,647,50,,597,,,True,True,PL82
+2020-06-29,POL,Poland,Podlaskie,53.28395,22.895092,823,10,,813,,,True,True,PL84
+2020-06-29,POL,Poland,Pomorskie,54.129033,18.012613,666,38,,628,,,True,True,PL63
+2020-06-29,POL,Poland,Śląskie,50.318293,18.999987,12602,324,,12278,,,True,True,PL22
+2020-06-29,POL,Poland,Świętokrzyskie,50.734202,20.797295,790,38,,752,,,True,True,PL72
+2020-06-29,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,242,1,,241,,,True,True,PL62
+2020-06-29,POL,Poland,Wielkopolskie,52.283858,17.248218,2643,175,,2468,,,True,True,PL41
+2020-06-29,POL,Poland,Zachodniopomorskie,53.582707,15.634824,609,20,,589,,,True,True,PL42
+2020-06-29,PRT,Portugal,Açores,37.775525,-25.494927,150,15,,135,,,True,True,PT20
+2020-06-29,PRT,Portugal,Alentejo,38.485499,-8.006668,477,5,,472,,,True,True,PT18
+2020-06-29,PRT,Portugal,Algarve,37.218389,-8.198488,615,15,,600,,,True,True,PT15
+2020-06-29,PRT,Portugal,Centro,40.111812,-8.012768,4100,248,,3852,,,True,True,PT16
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True,
-2020-06-28,PRT,Portugal,Lisbon,38.623843,-8.88436,18752,465,,18287,,,True,True,PT17
-2020-06-28,PRT,Portugal,Madeira,32.736252,-16.972663,92,0,,92,,,True,True,PT30
-2020-06-28,PRT,Portugal,Norte,41.457206,-7.678153,17476,816,,16660,,,True,True,PT11
-2020-06-28,PRT,Portugal,NOT SPECIFIED,,,0,,27066,-27066,458,75,True,True,
-2020-06-28,ROU,Romania,Alba,46.172367,23.487279,435,,,435,,,True,True,
-2020-06-28,ROU,Romania,Arad,46.273235,21.758454,706,,,706,,,True,True,
-2020-06-28,ROU,Romania,Argeș,45.072253,24.814273,744,,,744,,,True,True,
-2020-06-28,ROU,Romania,Bacău,46.42171,26.773519,623,,,623,,,True,True,
-2020-06-28,ROU,Romania,Bihor,46.942178,22.210795,670,,,670,,,True,True,
-2020-06-28,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,518,,,518,,,True,True,
-2020-06-28,ROU,Romania,Botoșani,47.85927,26.763139,1008,,,1008,,,True,True,
-2020-06-28,ROU,Romania,Brăila,45.0878,27.673222,190,,,190,,,True,True,
-2020-06-28,ROU,Romania,Brașov,45.765228,25.302188,1409,,,1409,,,True,True,
-2020-06-28,ROU,Romania,București,44.442674,26.08861,3030,,,3030,,,True,True,
-2020-06-28,ROU,Romania,Buzău,45.245475,26.750309,522,,,522,,,True,True,
-2020-06-28,ROU,Romania,Călărași,44.313456,27.020712,165,,,165,,,True,True,
-2020-06-28,ROU,Romania,Caraș-Severin,45.150492,22.042977,113,,,113,,,True,True,
-2020-06-28,ROU,Romania,Cluj,46.812237,23.53594,676,,,676,,,True,True,
-2020-06-28,ROU,Romania,Costanza,44.244926,28.247767,429,,,429,,,True,True,
-2020-06-28,ROU,Romania,Covasna,45.938093,25.990767,277,,,277,,,True,True,
-2020-06-28,ROU,Romania,Dâmbovița,44.864944,25.496775,507,,,507,,,True,True,
-2020-06-28,ROU,Romania,Dolj,44.140792,23.613526,287,,,287,,,True,True,
-2020-06-28,ROU,Romania,Galați,45.792748,27.75769,855,,,855,,,True,True,
-2020-06-28,ROU,Romania,Giurgiu,44.144127,25.881413,266,,,266,,,True,True,
-2020-06-28,ROU,Romania,Gorj,45.004246,23.322863,220,,,220,,,True,True,
-2020-06-28,ROU,Romania,Harghita,46.549997,25.558475,313,,,313,,,True,True,
-2020-06-28,ROU,Romania,Hunedoara,45.753652,22.938806,655,,,655,,,True,True,
-2020-06-28,ROU,Romania,Iași,47.221224,27.311502,425,,,425,,,True,True,
-2020-06-28,ROU,Romania,Ialomița,44.627356,27.256013,969,,,969,,,True,True,
-2020-06-28,ROU,Romania,Ilfov,44.286638,26.144699,714,,,714,,,True,True,
-2020-06-28,ROU,Romania,Maramureș,47.671302,23.981463,162,,,162,,,True,True,
-2020-06-28,ROU,Romania,Mehedinți,44.365324,22.737138,185,,,185,,,True,True,
-2020-06-28,ROU,Romania,Mureș,46.609503,24.697133,732,,,732,,,True,True,
-2020-06-28,ROU,Romania,Neamț,46.969735,26.375809,960,,,960,,,True,True,
+2020-06-29,PRT,Portugal,Lisbon,38.623843,-8.88436,18977,468,,18509,,,True,True,PT17
+2020-06-29,PRT,Portugal,Madeira,32.736252,-16.972663,92,,,92,,,True,True,PT30
+2020-06-29,PRT,Portugal,Norte,41.457206,-7.678153,17501,817,,16684,,,True,True,PT11
+2020-06-29,PRT,Portugal,NOT SPECIFIED,,,0,,27205,-27205,489,71,True,True,
+2020-06-28,ROU,Romania,Alba,46.172367,23.487279,435,,,435,,,True,True,RO121
+2020-06-28,ROU,Romania,Arad,46.273235,21.758454,706,,,706,,,True,True,RO421
+2020-06-28,ROU,Romania,Argeș,45.072253,24.814273,744,,,744,,,True,True,RO311
+2020-06-28,ROU,Romania,Bacău,46.42171,26.773519,623,,,623,,,True,True,RO211
+2020-06-28,ROU,Romania,Bihor,46.942178,22.210795,670,,,670,,,True,True,RO111
+2020-06-28,ROU,Romania,Bistrița-Năsăud,47.237306,24.522034,518,,,518,,,True,True,RO112
+2020-06-28,ROU,Romania,Botoșani,47.85927,26.763139,1008,,,1008,,,True,True,RO212
+2020-06-28,ROU,Romania,Brăila,45.0878,27.673222,190,,,190,,,True,True,RO221
+2020-06-28,ROU,Romania,Brașov,45.765228,25.302188,1409,,,1409,,,True,True,RO122
+2020-06-28,ROU,Romania,București,44.442674,26.08861,3030,,,3030,,,True,True,RO321
+2020-06-28,ROU,Romania,Buzău,45.245475,26.750309,522,,,522,,,True,True,RO222
+2020-06-28,ROU,Romania,Călărași,44.313456,27.020712,165,,,165,,,True,True,RO312
+2020-06-28,ROU,Romania,Caraș-Severin,45.150492,22.042977,113,,,113,,,True,True,RO422
+2020-06-28,ROU,Romania,Cluj,46.812237,23.53594,676,,,676,,,True,True,RO113
+2020-06-28,ROU,Romania,Costanza,44.244926,28.247767,429,,,429,,,True,True,RO223
+2020-06-28,ROU,Romania,Covasna,45.938093,25.990767,277,,,277,,,True,True,RO123
+2020-06-28,ROU,Romania,Dâmbovița,44.864944,25.496775,507,,,507,,,True,True,RO313
+2020-06-28,ROU,Romania,Dolj,44.140792,23.613526,287,,,287,,,True,True,RO411
+2020-06-28,ROU,Romania,Galați,45.792748,27.75769,855,,,855,,,True,True,RO224
+2020-06-28,ROU,Romania,Giurgiu,44.144127,25.881413,266,,,266,,,True,True,RO314
+2020-06-28,ROU,Romania,Gorj,45.004246,23.322863,220,,,220,,,True,True,RO412
+2020-06-28,ROU,Romania,Harghita,46.549997,25.558475,313,,,313,,,True,True,RO124
+2020-06-28,ROU,Romania,Hunedoara,45.753652,22.938806,655,,,655,,,True,True,RO423
+2020-06-28,ROU,Romania,Iași,47.221224,27.311502,425,,,425,,,True,True,RO213
+2020-06-28,ROU,Romania,Ialomița,44.627356,27.256013,969,,,969,,,True,True,RO315
+2020-06-28,ROU,Romania,Ilfov,44.286638,26.144699,714,,,714,,,True,True,RO322
+2020-06-28,ROU,Romania,Maramureș,47.671302,23.981463,162,,,162,,,True,True,RO114
+2020-06-28,ROU,Romania,Mehedinți,44.365324,22.737138,185,,,185,,,True,True,RO413
+2020-06-28,ROU,Romania,Mureș,46.609503,24.697133,732,,,732,,,True,True,RO125
+2020-06-28,ROU,Romania,Neamț,46.969735,26.375809,960,,,960,,,True,True,RO214
 2020-06-28,ROU,Romania,NOT SPECIFIED,,,0,1612,,-1612,,,True,True,
-2020-06-28,ROU,Romania,Olt,44.272504,24.439351,216,,,216,,,True,True,
-2020-06-28,ROU,Romania,Prahova,45.114672,26.015788,365,,,365,,,True,True,
-2020-06-28,ROU,Romania,Sălaj,47.18438,23.106887,118,,,118,,,True,True,
-2020-06-28,ROU,Romania,Satu Mare,47.705953,22.898922,76,,,76,,,True,True,
-2020-06-28,ROU,Romania,Sibiu,45.85906,24.245264,644,,,644,,,True,True,
-2020-06-28,ROU,Romania,Suceava,47.637703,25.82751,3998,,,3998,,,True,True,
-2020-06-28,ROU,Romania,Teleorman,44.027822,25.197899,158,,,158,,,True,True,
-2020-06-28,ROU,Romania,Timiș,45.743832,21.377998,517,,,517,,,True,True,
-2020-06-28,ROU,Romania,Tulcea,44.986929,28.858105,180,,,180,,,True,True,
-2020-06-28,ROU,Romania,Vâlcea,45.096033,24.110629,51,,,51,,,True,True,
-2020-06-28,ROU,Romania,Vaslui,46.526869,27.769395,176,,,176,,,True,True,
-2020-06-28,ROU,Romania,Vrancea,45.788059,26.980214,1016,,,1016,,,True,True,
-2020-06-28,RUS,Russian Fed.,Adygea,44.448835,40.254013,1795,12,1239,544,,,False,False,
-2020-06-28,RUS,Russian Fed.,Altai,52.477021,83.868816,3831,31,2727,1073,,,False,False,
-2020-06-28,RUS,Russian Fed.,Altai Republic,,,597,0,256,341,,,False,False,
-2020-06-28,RUS,Russian Fed.,Amur,53.418482,127.711639,1651,9,702,940,,,False,False,
-2020-06-28,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,5339,53,2520,2766,,,False,False,
-2020-06-28,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,3419,30,2310,1079,,,False,False,
-2020-06-28,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,5267,18,2853,2396,,,False,False,
-2020-06-28,RUS,Russian Fed.,Belgorod,50.881793,37.359083,4399,42,3279,1078,,,False,False,
-2020-06-28,RUS,Russian Fed.,Bryansk,52.910301,33.406285,6079,34,4405,1640,,,False,False,
-2020-06-28,RUS,Russian Fed.,Buryatia,54.550455,112.36994,2857,18,1929,910,,,False,False,
-2020-06-28,RUS,Russian Fed.,Chechnya,43.26872,45.799182,1694,22,1180,492,,,False,False,
-2020-06-28,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,6912,88,3615,3209,,,False,False,
-2020-06-28,RUS,Russian Fed.,Chukotka,,,138,1,125,12,,,False,False,
-2020-06-28,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,4973,30,2862,2081,,,False,False,
-2020-06-28,RUS,Russian Fed.,Dagestan,43.035568,46.873874,7707,371,5615,1721,,,False,False,
-2020-06-28,RUS,Russian Fed.,Ingushetia,43.40517,44.8203,2995,67,2444,484,,,False,False,
-2020-06-28,RUS,Russian Fed.,Irkutsk,57.084283,106.290867,6807,55,2465,4287,,,False,False,
-2020-06-28,RUS,Russian Fed.,Ivanovo,56.999219,41.726645,4550,43,2838,1669,,,False,False,
-2020-06-28,RUS,Russian Fed.,Jewish AO,48.480815,131.765737,421,5,345,71,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kabardino-Balkaria,43.346964,43.521389,4905,52,3241,1612,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kaliningrad,54.706026,21.456853,2426,37,1406,983,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kalmykia,46.421462,45.383808,1462,22,1041,399,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kaluga,54.355521,35.465025,5925,44,3495,2386,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kamchatka,61.434398,166.788413,2093,28,816,1249,,,False,False,
-2020-06-28,RUS,Russian Fed.,Karachay-Cherkessia,43.884514,41.730394,3379,12,1314,2053,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kemerovo,54.775411,87.209993,1579,9,713,857,,,False,False,
-2020-06-28,RUS,Russian Fed.,Khabarovsk,50.88285,138.828598,4063,28,2123,1912,,,False,False,
-2020-06-28,RUS,Russian Fed.,Khakassia,53.363558,89.854091,1812,15,1322,475,,,False,False,
-2020-06-28,RUS,Russian Fed.,Khanty-Mansi AO,61.853095,70.345732,8402,48,4192,4162,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kirov,58.699332,49.846004,3148,35,2453,660,,,False,False,
-2020-06-28,RUS,Russian Fed.,Komi Republic,64.131117,54.772128,3287,30,1540,1717,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kostroma,58.452918,43.818089,1531,17,866,648,,,False,False,
-2020-06-28,RUS,Russian Fed.,Krasnodar,44.412298,39.233582,5860,74,4618,1168,,,False,False,
-2020-06-28,RUS,Russian Fed.,Krasnoyarsk,67.008246,95.991218,8619,115,3536,4968,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kurgan,55.471375,64.816337,739,1,399,339,,,False,False,
-2020-06-28,RUS,Russian Fed.,Kursk,51.702506,36.127326,4958,32,2850,2076,,,False,False,
-2020-06-28,RUS,Russian Fed.,Leningrad,59.999111,31.74764,4321,30,4153,138,,,False,False,
-2020-06-28,RUS,Russian Fed.,Lipetsk,52.634465,39.187179,3702,15,2299,1388,,,False,False,
-2020-06-28,RUS,Russian Fed.,Magadan,62.70596,154.035695,697,4,349,344,,,False,False,
-2020-06-28,RUS,Russian Fed.,Mari El,56.601523,47.942953,2905,23,2815,67,,,False,False,
-2020-06-28,RUS,Russian Fed.,Mordovia,54.520508,45.58471,3324,26,2119,1179,,,False,False,
-2020-06-28,RUS,Russian Fed.,Moscow,55.644315,37.666104,277005,4602,180326,92077,,,False,False,
-2020-06-28,RUS,Russian Fed.,Murmansk,67.805244,34.572247,4994,13,3510,1471,,,False,False,
-2020-06-28,RUS,Russian Fed.,Nenets,,,102,0,38,64,,,False,False,
-2020-06-28,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,17060,226,10484,6350,,,False,False,
-2020-06-28,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,3960,67,3496,397,,,False,False,
+2020-06-28,ROU,Romania,Olt,44.272504,24.439351,216,,,216,,,True,True,RO414
+2020-06-28,ROU,Romania,Prahova,45.114672,26.015788,365,,,365,,,True,True,RO316
+2020-06-28,ROU,Romania,Sălaj,47.18438,23.106887,118,,,118,,,True,True,RO116
+2020-06-28,ROU,Romania,Satu Mare,47.705953,22.898922,76,,,76,,,True,True,RO115
+2020-06-28,ROU,Romania,Sibiu,45.85906,24.245264,644,,,644,,,True,True,RO126
+2020-06-28,ROU,Romania,Suceava,47.637703,25.82751,3998,,,3998,,,True,True,RO215
+2020-06-28,ROU,Romania,Teleorman,44.027822,25.197899,158,,,158,,,True,True,RO317
+2020-06-28,ROU,Romania,Timiș,45.743832,21.377998,517,,,517,,,True,True,RO424
+2020-06-28,ROU,Romania,Tulcea,44.986929,28.858105,180,,,180,,,True,True,RO225
+2020-06-28,ROU,Romania,Vâlcea,45.096033,24.110629,51,,,51,,,True,True,RO415
+2020-06-28,ROU,Romania,Vaslui,46.526869,27.769395,176,,,176,,,True,True,RO216
+2020-06-28,ROU,Romania,Vrancea,45.788059,26.980214,1016,,,1016,,,True,True,RO226
+2020-06-29,RUS,Russian Fed.,Adygea,44.448835,40.254013,1847,12,1291,544,,,False,False,
+2020-06-29,RUS,Russian Fed.,Altai,52.477021,83.868816,3909,31,2766,1112,,,False,False,
+2020-06-29,RUS,Russian Fed.,Altai Republic,,,617,0,279,338,,,False,False,
+2020-06-29,RUS,Russian Fed.,Amur,53.418482,127.711639,1682,9,704,969,,,False,False,
+2020-06-29,RUS,Russian Fed.,Arkhangelsk,63.448461,43.404188,5454,54,2549,2851,,,False,False,
+2020-06-29,RUS,Russian Fed.,Astrakhan,47.116641,47.337406,3448,30,2322,1096,,,False,False,
+2020-06-29,RUS,Russian Fed.,Bashkortostan,54.282013,56.528301,5315,18,2870,2427,,,False,False,
+2020-06-29,RUS,Russian Fed.,Belgorod,50.881793,37.359083,4464,42,3294,1128,,,False,False,
+2020-06-29,RUS,Russian Fed.,Bryansk,52.910301,33.406285,6147,34,4415,1698,,,False,False,
+2020-06-29,RUS,Russian Fed.,Buryatia,54.550455,112.36994,2886,19,1965,902,,,False,False,
+2020-06-29,RUS,Russian Fed.,Chechnya,43.26872,45.799182,1708,22,1180,506,,,False,False,
+2020-06-29,RUS,Russian Fed.,Chelyabinsk,54.475139,60.413177,7058,88,3675,3295,,,False,False,
+2020-06-29,RUS,Russian Fed.,Chukotka,,,138,1,125,12,,,False,False,
+2020-06-29,RUS,Russian Fed.,Chuvashia,55.507419,47.102483,5025,31,2882,2112,,,False,False,
+2020-06-29,RUS,Russian Fed.,Dagestan,43.035568,46.873874,7775,373,5682,1720,,,False,False,
+2020-06-29,RUS,Russian Fed.,Ingushetia,43.40517,44.8203,3020,68,2449,503,,,False,False,
+2020-06-29,RUS,Russian Fed.,Irkutsk,57.084283,106.290867,7043,56,2534,4453,,,False,False,
+2020-06-29,RUS,Russian Fed.,Ivanovo,56.999219,41.726645,4621,43,2869,1709,,,False,False,
+2020-06-29,RUS,Russian Fed.,Jewish AO,48.480815,131.765737,424,5,345,74,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kabardino-Balkaria,43.346964,43.521389,4958,53,3296,1609,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kaliningrad,54.706026,21.456853,2436,37,1409,990,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kalmykia,46.421462,45.383808,1481,23,1041,417,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kaluga,54.355521,35.465025,5973,44,3507,2422,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kamchatka,61.434398,166.788413,2145,28,870,1247,,,False,False,
+2020-06-29,RUS,Russian Fed.,Karachay-Cherkessia,43.884514,41.730394,3448,12,1382,2054,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kemerovo,54.775411,87.209993,1622,9,713,900,,,False,False,
+2020-06-29,RUS,Russian Fed.,Khabarovsk,50.88285,138.828598,4140,28,2134,1978,,,False,False,
+2020-06-29,RUS,Russian Fed.,Khakassia,53.363558,89.854091,1844,15,1322,507,,,False,False,
+2020-06-29,RUS,Russian Fed.,Khanty-Mansi AO,61.853095,70.345732,8679,52,4305,4322,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kirov,58.699332,49.846004,3179,35,2485,659,,,False,False,
+2020-06-29,RUS,Russian Fed.,Komi Republic,64.131117,54.772128,3356,30,1549,1777,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kostroma,58.452918,43.818089,1565,17,879,669,,,False,False,
+2020-06-29,RUS,Russian Fed.,Krasnodar,44.412298,39.233582,5922,74,4636,1212,,,False,False,
+2020-06-29,RUS,Russian Fed.,Krasnoyarsk,67.008246,95.991218,8760,115,3639,5006,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kurgan,55.471375,64.816337,753,1,420,332,,,False,False,
+2020-06-29,RUS,Russian Fed.,Kursk,51.702506,36.127326,5021,32,2892,2097,,,False,False,
+2020-06-29,RUS,Russian Fed.,Leningrad,59.999111,31.74764,4370,30,4154,186,,,False,False,
+2020-06-29,RUS,Russian Fed.,Lipetsk,52.634465,39.187179,3741,16,2320,1405,,,False,False,
+2020-06-29,RUS,Russian Fed.,Magadan,62.70596,154.035695,731,4,356,371,,,False,False,
+2020-06-29,RUS,Russian Fed.,Mari El,56.601523,47.942953,2930,23,2818,89,,,False,False,
+2020-06-29,RUS,Russian Fed.,Mordovia,54.520508,45.58471,3359,26,2158,1175,,,False,False,
+2020-06-29,RUS,Russian Fed.,Moscow,55.644315,37.666104,278122,4636,182424,91062,,,False,False,
+2020-06-29,RUS,Russian Fed.,Murmansk,67.805244,34.572247,5093,13,3514,1566,,,False,False,
+2020-06-29,RUS,Russian Fed.,Nenets,,,102,0,38,64,,,False,False,
+2020-06-29,RUS,Russian Fed.,Nizhny Novgorod,56.279395,44.645749,17278,229,10658,6391,,,False,False,
+2020-06-29,RUS,Russian Fed.,North Ossetia-Alania,43.053883,44.325278,3984,67,3505,412,,,False,False,
 2020-05-11,RUS,Russian Fed.,NOT SPECIFIED,,,0,2116,0,-2116,0,0,False,False,
-2020-06-28,RUS,Russian Fed.,Novgorod,58.280449,32.556615,2792,25,756,2011,,,False,False,
-2020-06-28,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,5769,91,3368,2310,,,False,False,
-2020-06-28,RUS,Russian Fed.,Omsk,56.091609,73.362497,3455,27,1976,1452,,,False,False,
-2020-06-28,RUS,Russian Fed.,Orenburg,52.670841,53.546526,3626,18,2644,964,,,False,False,
-2020-06-28,RUS,Russian Fed.,Oryol,52.792407,36.484837,4437,59,2678,1700,,,False,False,
-2020-06-28,RUS,Russian Fed.,Penza,53.186558,44.659811,4819,38,4496,285,,,False,False,
-2020-06-28,RUS,Russian Fed.,Perm,59.150725,56.240625,3581,78,2671,832,,,False,False,
-2020-06-28,RUS,Russian Fed.,Primorsky,45.185147,134.763918,4144,41,2655,1448,,,False,False,
-2020-06-28,RUS,Russian Fed.,Pskov,57.223881,29.258821,2667,21,912,1734,,,False,False,
-2020-06-28,RUS,Russian Fed.,Republic of Crimea,45.332961,34.380235,874,13,651,210,,,False,False,
-2020-06-28,RUS,Russian Fed.,Republic of Karelia,63.15587,32.990555,1236,2,488,746,,,False,False,
-2020-06-28,RUS,Russian Fed.,Rostov,47.737084,41.33971,9420,117,5482,3821,,,False,False,
-2020-06-28,RUS,Russian Fed.,Ryazan,54.306865,40.654571,5113,19,3396,1698,,,False,False,
-2020-06-28,RUS,Russian Fed.,Saint Petersburg,59.771022,30.094098,23735,1086,16809,5840,,,False,False,
-2020-06-28,RUS,Russian Fed.,Sakhalin,50.334829,142.702744,742,0,245,497,,,False,False,
-2020-06-28,RUS,Russian Fed.,Samara,53.288173,50.470943,4738,53,2629,2056,,,False,False,
-2020-06-28,RUS,Russian Fed.,Saratov,51.590364,46.830634,6225,43,3194,2988,,,False,False,
-2020-06-28,RUS,Russian Fed.,Smolensk,54.928337,33.012683,4505,64,2270,2171,,,False,False,
-2020-06-28,RUS,Russian Fed.,Stavropol,44.927805,43.400088,4973,94,2817,2062,,,False,False,
-2020-06-28,RUS,Russian Fed.,Sverdlovsk,58.614763,61.561667,12302,91,7219,4992,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tambov,52.657489,41.637192,4637,19,2710,1908,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,4472,11,3693,768,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tomsk,58.476777,82.134382,2144,14,960,1170,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tula,53.879118,37.584039,6536,100,5426,1010,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tuva,94.79304,51.591419,4235,3,1002,3230,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tver,57.063361,34.74855,3524,68,2324,1132,,,False,False,
-2020-06-28,RUS,Russian Fed.,Tyumen,57.665236,69.167506,2953,17,1746,1190,,,False,False,
-2020-06-28,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,1379,16,999,364,,,False,False,
-2020-06-28,RUS,Russian Fed.,Ulyanovsk,53.904749,47.963072,5567,36,2891,2640,,,False,False,
-2020-06-28,RUS,Russian Fed.,Vladimir,55.994787,40.691957,4263,62,2552,1649,,,False,False,
-2020-06-28,RUS,Russian Fed.,Volgograd,49.599612,44.184682,6135,36,2856,3243,,,False,False,
-2020-06-28,RUS,Russian Fed.,Vologda,59.970929,40.523416,1565,17,1146,402,,,False,False,
-2020-06-28,RUS,Russian Fed.,Voronezh,50.959752,40.309955,7224,35,4228,2961,,,False,False,
-2020-06-28,RUS,Russian Fed.,Yakutia,65.300749,134.148224,4128,28,2861,1239,,,False,False,
-2020-06-28,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,5159,37,2248,2874,,,False,False,
-2020-06-28,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,4699,19,3019,1661,,,False,False,
-2020-06-28,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,2975,41,1847,1087,,,False,False,
+2020-06-29,RUS,Russian Fed.,Novgorod,58.280449,32.556615,2839,25,756,2058,,,False,False,
+2020-06-29,RUS,Russian Fed.,Novosibirsk,55.268094,79.765183,5876,93,3392,2391,,,False,False,
+2020-06-29,RUS,Russian Fed.,Omsk,56.091609,73.362497,3533,30,1984,1519,,,False,False,
+2020-06-29,RUS,Russian Fed.,Orenburg,52.670841,53.546526,3700,18,2649,1033,,,False,False,
+2020-06-29,RUS,Russian Fed.,Oryol,52.792407,36.484837,4480,59,2706,1715,,,False,False,
+2020-06-29,RUS,Russian Fed.,Penza,53.186558,44.659811,4893,40,4511,342,,,False,False,
+2020-06-29,RUS,Russian Fed.,Perm,59.150725,56.240625,3637,78,2679,880,,,False,False,
+2020-06-29,RUS,Russian Fed.,Primorsky,45.185147,134.763918,4226,42,2688,1496,,,False,False,
+2020-06-29,RUS,Russian Fed.,Pskov,57.223881,29.258821,2722,21,918,1783,,,False,False,
+2020-06-29,RUS,Russian Fed.,Republic of Crimea,45.332961,34.380235,910,14,652,244,,,False,False,
+2020-06-29,RUS,Russian Fed.,Republic of Karelia,63.15587,32.990555,1266,3,491,772,,,False,False,
+2020-06-29,RUS,Russian Fed.,Rostov,47.737084,41.33971,9517,120,5516,3881,,,False,False,
+2020-06-29,RUS,Russian Fed.,Ryazan,54.306865,40.654571,5154,19,3398,1737,,,False,False,
+2020-06-29,RUS,Russian Fed.,Saint Petersburg,59.771022,30.094098,23954,1105,17056,5793,,,False,False,
+2020-06-29,RUS,Russian Fed.,Sakhalin,50.334829,142.702744,771,0,275,496,,,False,False,
+2020-06-29,RUS,Russian Fed.,Samara,53.288173,50.470943,4786,53,2635,2098,,,False,False,
+2020-06-29,RUS,Russian Fed.,Saratov,51.590364,46.830634,6334,43,3206,3085,,,False,False,
+2020-06-29,RUS,Russian Fed.,Smolensk,54.928337,33.012683,4544,65,2283,2196,,,False,False,
+2020-06-29,RUS,Russian Fed.,Stavropol,44.927805,43.400088,5063,95,2850,2118,,,False,False,
+2020-06-29,RUS,Russian Fed.,Sverdlovsk,58.614763,61.561667,12516,93,7309,5114,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tambov,52.657489,41.637192,4681,19,2775,1887,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tatarstan,55.380928,50.93665,4514,11,3695,808,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tomsk,58.476777,82.134382,2197,14,963,1220,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tula,53.879118,37.584039,6613,103,5450,1060,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tuva,94.79304,51.591419,4361,3,1095,3263,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tver,57.063361,34.74855,3574,68,2343,1163,,,False,False,
+2020-06-29,RUS,Russian Fed.,Tyumen,57.665236,69.167506,3018,17,1756,1245,,,False,False,
+2020-06-29,RUS,Russian Fed.,Udmurtia,57.189719,52.811319,1400,16,1000,384,,,False,False,
+2020-06-29,RUS,Russian Fed.,Ulyanovsk,53.904749,47.963072,5674,36,2909,2729,,,False,False,
+2020-06-29,RUS,Russian Fed.,Vladimir,55.994787,40.691957,4314,63,2573,1678,,,False,False,
+2020-06-29,RUS,Russian Fed.,Volgograd,49.599612,44.184682,6232,37,2866,3329,,,False,False,
+2020-06-29,RUS,Russian Fed.,Vologda,59.970929,40.523416,1586,17,1154,415,,,False,False,
+2020-06-29,RUS,Russian Fed.,Voronezh,50.959752,40.309955,7409,35,4234,3140,,,False,False,
+2020-06-29,RUS,Russian Fed.,Yakutia,65.300749,134.148224,4178,29,2866,1283,,,False,False,
+2020-06-29,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,5332,37,2282,3013,,,False,False,
+2020-06-29,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,4741,19,3041,1681,,,False,False,
+2020-06-29,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,3038,41,1854,1143,,,False,False,
 2020-06-29,SMR,San Marino,San Marino,43.942973,12.460035,698,42,,656,,,False,False,
 2020-06-29,SRB,Serbia,Serbia,44.206802,20.911009,14046,270,,13776,,,False,True,
-2020-06-29,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,130,,,130,,,True,True,
-2020-06-29,SVK,Slovakia,Bratislava,48.319003,17.17481,387,,,387,,,True,True,
-2020-06-29,SVK,Slovakia,Košice,48.771358,20.721931,283,,,283,,,True,True,
-2020-06-29,SVK,Slovakia,Nitra,48.140652,18.30311,124,,,124,,,True,True,
+2020-06-29,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,130,,,130,,,True,True,SK032
+2020-06-29,SVK,Slovakia,Bratislava,48.319003,17.17481,387,,,387,,,True,True,SK010
+2020-06-29,SVK,Slovakia,Košice,48.771358,20.721931,283,,,283,,,True,True,SK042
+2020-06-29,SVK,Slovakia,Nitra,48.140652,18.30311,124,,,124,,,True,True,SK023
 2020-06-29,SVK,Slovakia,NOT SPECIFIED,,,0,28,1464,-1492,15,3,True,True,
-2020-06-29,SVK,Slovakia,Prešov,49.126441,21.221321,198,,,198,,,True,True,
-2020-06-29,SVK,Slovakia,Trencín,48.858564,18.202196,181,,,181,,,True,True,
-2020-06-29,SVK,Slovakia,Trnava,48.222651,17.707847,126,,,126,,,True,True,
-2020-06-29,SVK,Slovakia,Zilina,49.178517,19.167163,236,,,236,,,True,True,
-2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,
-2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,
-2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,
-2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,
+2020-06-29,SVK,Slovakia,Prešov,49.126441,21.221321,198,,,198,,,True,True,SK041
+2020-06-29,SVK,Slovakia,Trencín,48.858564,18.202196,181,,,181,,,True,True,SK022
+2020-06-29,SVK,Slovakia,Trnava,48.222651,17.707847,126,,,126,,,True,True,SK021
+2020-06-29,SVK,Slovakia,Zilina,49.178517,19.167163,236,,,236,,,True,True,SK031
+2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,SI042
+2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
+2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
+2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,SI033
 2020-06-28,SVN,Slovenia,NOT SPECIFIED,,,1585,111,301,1173,8,0,True,True,
-2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,
-2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,
-2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,
-2020-04-14,SVN,Slovenia,Pomurske,46.669889,16.174305,117,0,0,117,0,0,True,True,
-2020-04-14,SVN,Slovenia,Posavske,45.959782,15.434177,12,0,0,12,0,0,True,True,
-2020-04-14,SVN,Slovenia,Primorsko-notranjske,45.691165,14.290304,30,0,0,30,0,0,True,True,
-2020-04-14,SVN,Slovenia,Savinjske,46.263351,15.195189,258,0,0,258,0,0,True,True,
-2020-04-14,SVN,Slovenia,Zasavske,46.133255,15.086872,26,0,0,26,0,0,True,True,
+2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,SI044
+2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,SI041
+2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,SI032
+2020-04-14,SVN,Slovenia,Pomurske,46.669889,16.174305,117,0,0,117,0,0,True,True,SI031
+2020-04-14,SVN,Slovenia,Posavske,45.959782,15.434177,12,0,0,12,0,0,True,True,SI036
+2020-04-14,SVN,Slovenia,Primorsko-notranjske,45.691165,14.290304,30,0,0,30,0,0,True,True,SI038
+2020-04-14,SVN,Slovenia,Savinjske,46.263351,15.195189,258,0,0,258,0,0,True,True,SI034
+2020-04-14,SVN,Slovenia,Zasavske,46.133255,15.086872,26,0,0,26,0,0,True,True,SI035
 2020-06-28,ESP,Spain,Andalucía,37.46363,-4.573552,13045,1426,,11619,6328,791,True,True,ES61
 2020-06-28,ESP,Spain,Aragón,41.519884,-0.660302,6304,912,,5392,2711,274,True,True,ES24
 2020-06-28,ESP,Spain,Canarias,28.291062,-16.55631,2427,162,,2265,953,185,True,True,ES70
@@ -502,56 +502,56 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-28,ESP,Spain,País Vasco,43.032149,-2.62166,13767,1555,,12212,7001,579,True,True,ES21
 2020-06-28,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2435,334,,2101,1117,129,True,True,ES12
 2020-06-28,ESP,Spain,Región de Murcia,38.002069,-1.485219,1672,147,,1525,683,112,True,True,ES62
-2020-06-29,SWE,Sweden,Blekinge,56.279696,15.193246,444,,,444,,,True,True,
-2020-06-29,SWE,Sweden,Dalarna,60.952955,14.350603,1623,,,1623,,,True,True,
-2020-06-29,SWE,Sweden,Gävleborg,61.440899,16.291105,2226,,,2226,,,True,True,
-2020-06-29,SWE,Sweden,Gotland,57.487051,18.510063,154,,,154,,,True,True,
-2020-06-29,SWE,Sweden,Halland,56.953555,12.842898,1442,,,1442,,,True,True,
-2020-06-29,SWE,Sweden,Jämtland,63.251956,14.312747,1032,,,1032,,,True,True,
-2020-06-29,SWE,Sweden,Jönköping,57.499911,14.436577,3963,,,3963,,,True,True,
-2020-06-29,SWE,Sweden,Kalmar,57.245033,16.053939,614,,,614,,,True,True,
-2020-06-29,SWE,Sweden,Kronoberg,56.786938,14.574736,1063,,,1063,,,True,True,
-2020-06-29,SWE,Sweden,Norrbotten,66.954122,20.083057,1233,,,1233,,,True,True,
+2020-06-29,SWE,Sweden,Blekinge,56.279696,15.193246,444,,,444,,,True,True,SE221
+2020-06-29,SWE,Sweden,Dalarna,60.952955,14.350603,1623,,,1623,,,True,True,SE312
+2020-06-29,SWE,Sweden,Gävleborg,61.440899,16.291105,2226,,,2226,,,True,True,SE313
+2020-06-29,SWE,Sweden,Gotland,57.487051,18.510063,154,,,154,,,True,True,SE214
+2020-06-29,SWE,Sweden,Halland,56.953555,12.842898,1442,,,1442,,,True,True,SE231
+2020-06-29,SWE,Sweden,Jämtland,63.251956,14.312747,1032,,,1032,,,True,True,SE322
+2020-06-29,SWE,Sweden,Jönköping,57.499911,14.436577,3963,,,3963,,,True,True,SE211
+2020-06-29,SWE,Sweden,Kalmar,57.245033,16.053939,614,,,614,,,True,True,SE213
+2020-06-29,SWE,Sweden,Kronoberg,56.786938,14.574736,1063,,,1063,,,True,True,SE212
+2020-06-29,SWE,Sweden,Norrbotten,66.954122,20.083057,1233,,,1233,,,True,True,SE332
 2020-06-29,SWE,Sweden,NOT SPECIFIED,,,,5310,,-5310,,2423,True,True,
-2020-06-29,SWE,Sweden,Örebro,59.350249,14.974992,2316,,,2316,,,True,True,
-2020-06-29,SWE,Sweden,Östergötland,58.354622,15.661533,3174,,,3174,,,True,True,
-2020-06-29,SWE,Sweden,Skåne,55.948711,13.596415,3020,,,3020,,,True,True,
-2020-06-29,SWE,Sweden,Södermanland,59.077751,16.685977,2074,,,2074,,,True,True,
+2020-06-29,SWE,Sweden,Örebro,59.350249,14.974992,2316,,,2316,,,True,True,SE124
+2020-06-29,SWE,Sweden,Östergötland,58.354622,15.661533,3174,,,3174,,,True,True,SE123
+2020-06-29,SWE,Sweden,Skåne,55.948711,13.596415,3020,,,3020,,,True,True,SE224
+2020-06-29,SWE,Sweden,Södermanland,59.077751,16.685977,2074,,,2074,,,True,True,SE122
 2020-06-29,SWE,Sweden,Stockholm,59.370877,17.711874,19892,,,19892,,,True,True,SE11
-2020-06-29,SWE,Sweden,Uppsala,60.039134,17.672887,3204,,,3204,,,True,True,
-2020-06-29,SWE,Sweden,Värmland,59.768908,13.153806,940,,,940,,,True,True,
-2020-06-29,SWE,Sweden,Västerbotten,64.862069,17.819194,694,,,694,,,True,True,
-2020-06-29,SWE,Sweden,Västernorrland,63.096635,17.251241,1338,,,1338,,,True,True,
-2020-06-29,SWE,Sweden,Västmanland,59.801595,16.318208,2215,,,2215,,,True,True,
-2020-06-29,SWE,Sweden,Västra Götaland,58.303302,12.891496,15006,,,15006,,,True,True,
-2020-06-29,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False,
-2020-06-29,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,102,3,0,99,3,0,False,False,
-2020-06-29,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False,
-2020-06-29,CHE,Switzerland,Basel City,47.561925,7.592768,985,50,934,1,0,0,False,False,
-2020-06-29,CHE,Switzerland,Basel Country,47.441812,7.7644,854,35,811,8,0,0,False,False,
-2020-06-29,CHE,Switzerland,Bern,46.825006,7.626925,1940,97,0,1843,3,0,False,False,
-2020-06-29,CHE,Switzerland,Fribourg,46.710334,7.09922,1211,85,152,974,2,0,False,False,
-2020-06-29,CHE,Switzerland,Geneva,46.217114,6.131255,5229,293,844,4092,106,1,False,False,
-2020-06-29,CHE,Switzerland,Glarus,46.980518,9.065544,129,13,0,116,0,0,False,False,
-2020-06-29,CHE,Switzerland,Graubünden,46.658176,9.629923,836,50,0,786,0,0,False,False,
-2020-06-29,CHE,Switzerland,Jura,47.368327,7.198733,210,7,0,203,0,0,False,False,
-2020-06-29,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,81,0,0,0,False,False,
-2020-06-29,CHE,Switzerland,Lucerne,47.06883,8.116991,754,20,0,734,0,0,False,False,
-2020-06-29,CHE,Switzerland,Neuchâtel,46.997282,6.782288,735,83,0,652,2,0,False,False,
-2020-06-29,CHE,Switzerland,Nidwalden,46.922198,8.419375,124,3,0,121,0,0,False,False,
-2020-06-29,CHE,Switzerland,Obwalden,46.857772,8.209745,82,0,1,81,2,0,False,False,
-2020-06-29,CHE,Switzerland,Schaffhausen,47.721853,8.563863,825,38,226,561,12,3,False,False,
-2020-06-29,CHE,Switzerland,Schwyz,47.06411,8.761568,83,7,0,76,3,0,False,False,
-2020-06-29,CHE,Switzerland,Solothurn,47.336648,7.686944,456,17,0,439,0,0,False,False,
-2020-06-29,CHE,Switzerland,St. Gallen,47.305025,9.019368,328,23,286,19,0,0,False,False,
-2020-06-29,CHE,Switzerland,Thurgau,47.567205,9.112572,394,18,69,307,2,0,False,False,
+2020-06-29,SWE,Sweden,Uppsala,60.039134,17.672887,3204,,,3204,,,True,True,SE121
+2020-06-29,SWE,Sweden,Värmland,59.768908,13.153806,940,,,940,,,True,True,SE311
+2020-06-29,SWE,Sweden,Västerbotten,64.862069,17.819194,694,,,694,,,True,True,SE331
+2020-06-29,SWE,Sweden,Västernorrland,63.096635,17.251241,1338,,,1338,,,True,True,SE321
+2020-06-29,SWE,Sweden,Västmanland,59.801595,16.318208,2215,,,2215,,,True,True,SE125
+2020-06-29,SWE,Sweden,Västra Götaland,58.303302,12.891496,15006,,,15006,,,True,True,SE232
+2020-06-29,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False,CH033
+2020-06-29,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,102,3,0,99,3,0,False,False,CH053
+2020-06-29,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False,CH054
+2020-06-29,CHE,Switzerland,Basel City,47.561925,7.592768,985,50,934,1,0,0,False,False,CH031
+2020-06-29,CHE,Switzerland,Basel Country,47.441812,7.7644,859,35,812,12,0,0,False,False,CH032
+2020-06-29,CHE,Switzerland,Bern,46.825006,7.626925,1940,97,0,1843,3,0,False,False,CH021
+2020-06-29,CHE,Switzerland,Fribourg,46.710334,7.09922,1211,85,152,974,2,0,False,False,CH022
+2020-06-29,CHE,Switzerland,Geneva,46.217114,6.131255,5229,293,844,4092,106,1,False,False,CH013
+2020-06-29,CHE,Switzerland,Glarus,46.980518,9.065544,129,13,0,116,0,0,False,False,CH051
+2020-06-29,CHE,Switzerland,Graubünden,46.658176,9.629923,836,50,0,786,0,0,False,False,CH056
+2020-06-29,CHE,Switzerland,Jura,47.368327,7.198733,210,7,0,203,0,0,False,False,CH025
+2020-06-29,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,81,0,0,0,False,False,LI
+2020-06-29,CHE,Switzerland,Lucerne,47.06883,8.116991,754,20,0,734,10,1,False,False,CH061
+2020-06-29,CHE,Switzerland,Neuchâtel,46.997282,6.782288,735,83,0,652,2,0,False,False,CH024
+2020-06-29,CHE,Switzerland,Nidwalden,46.922198,8.419375,124,3,0,121,0,0,False,False,CH065
+2020-06-29,CHE,Switzerland,Obwalden,46.857772,8.209745,82,0,1,81,2,0,False,False,CH064
+2020-06-29,CHE,Switzerland,Schaffhausen,47.721853,8.563863,825,38,226,561,12,3,False,False,CH052
+2020-06-29,CHE,Switzerland,Schwyz,47.06411,8.761568,83,7,0,76,3,0,False,False,CH063
+2020-06-29,CHE,Switzerland,Solothurn,47.336648,7.686944,456,17,0,439,0,0,False,False,CH023
+2020-06-29,CHE,Switzerland,St. Gallen,47.305025,9.019368,328,23,286,19,0,0,False,False,CH055
+2020-06-29,CHE,Switzerland,Thurgau,47.567205,9.112572,394,18,69,307,2,0,False,False,CH057
 2020-06-29,CHE,Switzerland,Ticino,46.297963,8.808447,3327,350,910,2067,5,0,False,False,CH07
-2020-06-29,CHE,Switzerland,Uri,46.775402,8.627444,95,7,86,2,0,0,False,False,
-2020-06-29,CHE,Switzerland,Valais,46.211633,7.611267,2029,153,296,1580,10,1,False,False,
-2020-06-29,CHE,Switzerland,Vaud,46.56176,6.648929,5534,424,0,5110,29,3,False,False,
-2020-06-29,CHE,Switzerland,Zug,47.161402,8.538864,223,9,198,16,0,0,False,False,
-2020-06-29,CHE,Switzerland,Zurich,47.417407,8.655988,3746,130,0,3616,7,0,False,False,
-2020-06-29,TUR,Turkey,Turkey,38.961515,35.25175,197239,5097,,192142,,,False,True,
+2020-06-29,CHE,Switzerland,Uri,46.775402,8.627444,95,7,86,2,0,0,False,False,CH062
+2020-06-29,CHE,Switzerland,Valais,46.211633,7.611267,2029,153,296,1580,10,1,False,False,CH012
+2020-06-29,CHE,Switzerland,Vaud,46.56176,6.648929,5534,424,0,5110,29,3,False,False,CH011
+2020-06-29,CHE,Switzerland,Zug,47.161402,8.538864,223,9,198,16,0,0,False,False,CH066
+2020-06-29,CHE,Switzerland,Zurich,47.417407,8.655988,3778,130,0,3648,10,0,False,False,CH040
+2020-06-29,TUR,Turkey,Turkey,38.961515,35.25175,197239,5097,,192142,,,False,True,TUR
 2020-06-24,UKR,Ukraine,Cherkasy,49.253559,31.378329,614,,426,188,,,False,False,
 2020-06-24,UKR,Ukraine,Chernihiv,51.347162,32.016707,494,,145,349,,,False,False,
 2020-06-24,UKR,Ukraine,Chernivtsi,48.269841,25.97109,4478,,1715,2763,,,False,False,
@@ -578,29 +578,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,UKR,Ukraine,Volyn,51.202858,24.883489,1955,,605,1350,,,False,False,
 2020-06-24,UKR,Ukraine,Zaporizhzhia,47.251409,35.699543,559,,397,162,,,False,False,
 2020-06-24,UKR,Ukraine,Zhytomyr,50.642612,28.484557,1304,,681,623,,,False,False,
-2020-06-28,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1253,0,0,1253,,,False,True,
-2020-06-28,GBR,United Kingdom,Borders,55.572787,-2.786355,345,0,0,345,,,False,True,
-2020-06-28,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,285,0,0,285,,,False,True,
+2020-06-28,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1253,0,0,1253,,,False,True,UKM93
+2020-06-28,GBR,United Kingdom,Borders,55.572787,-2.786355,345,0,0,345,,,False,True,UKM91
+2020-06-28,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,285,0,0,285,,,False,True,UKM92
 2020-06-28,GBR,United Kingdom,East of England,52.248898,0.548756,15196,0,0,15196,,,False,True,UKH
-2020-06-28,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,
-2020-06-28,GBR,United Kingdom,England,,,6589,39015,0,-32426,,,False,True,
-2020-06-28,GBR,United Kingdom,Fife,56.228968,-3.118568,930,0,0,930,,,False,True,
-2020-06-28,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1068,0,0,1068,,,False,True,
-2020-06-28,GBR,United Kingdom,Grampian,57.299016,-2.780773,1419,0,0,1419,,,False,True,
-2020-06-28,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,4850,0,0,4850,,,False,True,
-2020-06-28,GBR,United Kingdom,Highland,57.363501,-4.733034,375,0,0,375,,,False,True,
-2020-06-28,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2722,0,0,2722,,,False,True,
+2020-06-28,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,UKM64
+2020-06-28,GBR,United Kingdom,England,,,6589,39015,0,-32426,,,False,True,UK
+2020-06-28,GBR,United Kingdom,Fife,56.228968,-3.118568,930,0,0,930,,,False,True,UKM72
+2020-06-28,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1068,0,0,1068,,,False,True,UKM76
+2020-06-28,GBR,United Kingdom,Grampian,57.299016,-2.780773,1419,0,0,1419,,,False,True,UKM50
+2020-06-28,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,4850,0,0,4850,,,False,True,UKM82
+2020-06-28,GBR,United Kingdom,Highland,57.363501,-4.733034,375,0,0,375,,,False,True,UKM6
+2020-06-28,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2722,0,0,2722,,,False,True,UKD4
 2020-06-28,GBR,United Kingdom,London,51.497136,-0.100571,27642,0,0,27642,,,False,True,UKI
-2020-06-28,GBR,United Kingdom,Lothian,55.946009,-2.728265,3151,0,0,3151,,,False,True,
+2020-06-28,GBR,United Kingdom,Lothian,55.946009,-2.728265,3151,0,0,3151,,,False,True,UKM75
 2020-06-28,GBR,United Kingdom,Midlands,52.718351,-1.45667,26969,0,0,26969,,,False,True,UKF
 2020-06-28,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,25876,0,0,25876,,,False,True,UKC
 2020-06-28,GBR,United Kingdom,North West,53.524488,-2.333125,27269,0,0,27269,,,False,True,UKD
 2020-06-28,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,4878,549,0,4329,,,False,True,UKN
 2020-06-28,GBR,United Kingdom,NOT SPECIFIED,,,114564,0,0,114564,,,False,True,
-2020-06-28,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,
+2020-06-28,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,UKM65
 2020-06-28,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2482,0,-2482,,,False,True,UKM
-2020-06-28,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,
+2020-06-28,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,UKM66
 2020-06-28,GBR,United Kingdom,South East,51.291417,-0.521902,22803,0,0,22803,,,False,True,UKJ
 2020-06-28,GBR,United Kingdom,South West,51.239761,-2.54375,7948,0,0,7948,,,False,True,UKK
-2020-06-28,GBR,United Kingdom,Tayside,56.610323,-3.555213,1768,0,0,1768,,,False,True,
+2020-06-28,GBR,United Kingdom,Tayside,56.610323,-3.555213,1768,0,0,1768,,,False,True,UKM71
 2020-06-28,GBR,United Kingdom,Wales,52.302413,-3.738347,15602,1504,0,14098,,,False,True,UKL
