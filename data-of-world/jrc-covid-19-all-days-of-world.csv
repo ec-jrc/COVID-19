@@ -20894,6 +20894,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,LBY,AF,Libya,26.338522,17.268816,713,18,,695,,,False,False
 2020-06-28,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-28,LTU,EU,Lithuania,55.174112,23.906736,1813,78,,1735,,,True,True
+2020-06-28,LUX,EU,Luxembourg,49.815764,6.131514,4242,110,952,3180,13,1,True,True
 2020-06-28,MDG,AF,Madagascar,-18.777193,46.854328,2005,16,,1989,,,False,False
 2020-06-28,MWI,AF,Malawi,-13.24627,34.295385,1038,13,,1025,,,False,False
 2020-06-28,MYS,AS,Malaysia,4.109319,109.455475,8616,121,,8495,,,False,False
@@ -20950,6 +20951,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,ZAF,AF,South Africa,-28.48322,24.676997,131800,2413,,129387,,,False,False
 2020-06-28,KOR,AS,South Korea,35.901696,127.735889,12715,282,,12433,,,False,False
 2020-06-28,SSD,AF,South Sudan,7.856272,30.040413,1958,36,,1922,,,False,False
+2020-06-28,ESP,EU,Spain,39.896027,-2.487694,248770,28343,,220427,125105,11658,True,True
 2020-06-28,LKA,AS,Sri Lanka,7.874097,80.767098,2033,11,,2022,,,False,False
 2020-06-28,SDN,AF,Sudan,15.45847,30.217636,9258,572,,8686,,,False,False
 2020-06-28,SUR,SA,Suriname,3.917845,-56.032028,391,10,,381,,,False,False
@@ -20974,4 +20976,5 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,YEM,AS,Yemen,,,1103,296,,807,,,False,False
 2020-06-28,ZMB,AF,Zambia,-13.151917,27.852537,1531,21,,1510,,,False,False
 2020-06-28,ZWE,AF,Zimbabwe,-19.013286,29.146666,567,6,,561,,,False,False
+2020-06-29,BGR,EU,Bulgaria,42.729862,25.491667,4691,219,2508,1964,,,True,True
 2020-06-29,DEU,EU,Germany,51.165706,10.452764,193761,8961,178100,6700,,,True,True
