@@ -20966,6 +20966,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,TCA,NA,Turks and Caicos islands,21.692252,-71.803756,16,1,,15,,,False,False
 2020-06-28,UGA,AF,Uganda,1.365188,32.304651,848,0,,848,,,False,False
 2020-06-28,ARE,AS,United Arab Emirates,24.358745,53.982494,47360,311,,47049,,,False,False
+2020-06-28,GBR,EU,United Kingdom,54.633221,-3.432277,313572,43550,0,270022,,,False,True
 2020-06-28,USA,NA,United States of America,36.966428,-95.844032,2510323,125539,,2384784,,,False,False
 2020-06-28,VIR,NA,United States Virgin Islands,18.036736,-64.801704,81,6,,75,,,False,False
 2020-06-28,URY,SA,Uruguay,-32.53152,-55.758328,924,26,,898,,,False,False
@@ -20995,5 +20996,5 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,SMR,EU,San Marino,43.942973,12.460035,698,42,,656,,,False,False
 2020-06-29,SRB,EU,Serbia,44.206802,20.911009,14046,270,,13776,,,False,True
 2020-06-29,SVK,EU,Slovakia,48.665639,19.709097,1665,28,1464,173,15,3,True,True
-2020-06-29,CHE,EU,Switzerland,46.815514,8.224472,31559,1962,6064,23533,183,8,False,False
+2020-06-29,CHE,EU,Switzerland,46.815514,8.224472,31562,1962,6064,23536,186,8,False,False
 2020-06-29,TUR,AS,Turkey,38.961516,35.25175,197239,5097,,192142,,,False,True
