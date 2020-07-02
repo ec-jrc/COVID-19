@@ -164,3 +164,14 @@
 2020-07-02 16:00:46
 2020-07-02 16:30:11
 2020-07-02 16:30:43
+
+Id                    : 81f0e544-a84e-4f51-9263-fd83acb79e81
+Type                  : ServicePrincipal
+Tenants               : {f2e75aad-d530-497f-a633-7b37f78f881f}
+AccessToken           : 
+Credential            : 
+TenantMap             : {}
+CertificateThumbprint : 
+ExtendedProperties    : {[ServicePrincipalSecret, jYSjJrHAofUuBH4NSnZzLqSmOgdfA+2VuM45QMGXUJCuQApbqDe4Pw==], [Subscriptions, cf34925d-43b9-47bf-9a0e-5bcf7caef82b,f2e75aad-d530-497f-a633-7b37f78f881f], [Tenants, f2e75aad-d530-497f-a633-7b37f78f881f]}
+
+
