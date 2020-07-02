@@ -81,21 +81,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-01,HRV,Croatia,Zadarska,44.347845,15.959404,100,1,,99,,,True,True,HR033
 2020-07-01,HRV,Croatia,Zagrebačka,45.82762,16.381796,168,4,,164,,,True,True,HR042
 2020-07-01,CYP,Cyprus,Cyprus,35.167406,33.435499,998,19,,979,,,True,True,CY
-2020-07-01,CZE,Czech Republic,Jihoceský,49.093362,14.439278,202,0,0,202,,,True,True,CZ031
-2020-07-01,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,663,0,0,663,,,True,True,CZ064
-2020-07-01,CZE,Czech Republic,Karlovarský,50.170136,12.763213,499,0,0,499,,,True,True,CZ041
-2020-07-01,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,220,0,0,220,,,True,True,CZ052
-2020-07-01,CZE,Czech Republic,Liberecký,50.732038,14.973755,264,0,0,264,,,True,True,CZ051
-2020-07-01,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,2978,0,0,2978,,,True,True,CZ080
-2020-07-01,CZE,Czech Republic,NOT SPECIFIED,,,326,349,7776,-7799,,,True,True,
-2020-07-01,CZE,Czech Republic,Olomoucký,49.823636,17.016472,912,0,0,912,,,True,True,CZ071
-2020-07-01,CZE,Czech Republic,Pardubický,49.877869,16.495746,318,0,0,318,,,True,True,CZ053
-2020-07-01,CZE,Czech Republic,Plzenský,49.590906,13.23222,681,0,0,681,,,True,True,CZ032
-2020-07-01,CZE,Czech Republic,Prague,50.063699,14.476403,2517,0,0,2517,,,True,True,CZ010
-2020-07-01,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1220,0,0,1220,,,True,True,CZ020
-2020-07-01,CZE,Czech Republic,Ústecký,50.488308,13.816736,585,0,0,585,,,True,True,CZ042
-2020-07-01,CZE,Czech Republic,Vysocina,49.40736,15.689937,193,0,0,193,,,True,True,CZ063
-2020-07-01,CZE,Czech Republic,Zlínský,49.239654,17.770218,382,0,0,382,,,True,True,CZ072
+2020-07-02,CZE,Czech Republic,Jihoceský,49.093362,14.439278,202,0,0,202,,,True,True,CZ031
+2020-07-02,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,663,0,0,663,,,True,True,CZ064
+2020-07-02,CZE,Czech Republic,Karlovarský,50.170136,12.763213,499,0,0,499,,,True,True,CZ041
+2020-07-02,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,220,0,0,220,,,True,True,CZ052
+2020-07-02,CZE,Czech Republic,Liberecký,50.732038,14.973755,279,0,0,279,,,True,True,CZ051
+2020-07-02,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,3030,0,0,3030,,,True,True,CZ080
+2020-07-02,CZE,Czech Republic,NOT SPECIFIED,,,327,349,7797,-7819,,,True,True,
+2020-07-02,CZE,Czech Republic,Olomoucký,49.823636,17.016472,915,0,0,915,,,True,True,CZ071
+2020-07-02,CZE,Czech Republic,Pardubický,49.877869,16.495746,319,0,0,319,,,True,True,CZ053
+2020-07-02,CZE,Czech Republic,Plzenský,49.590906,13.23222,681,0,0,681,,,True,True,CZ032
+2020-07-02,CZE,Czech Republic,Prague,50.063699,14.476403,2527,0,0,2527,,,True,True,CZ010
+2020-07-02,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1223,0,0,1223,,,True,True,CZ020
+2020-07-02,CZE,Czech Republic,Ústecký,50.488308,13.816736,585,0,0,585,,,True,True,CZ042
+2020-07-02,CZE,Czech Republic,Vysocina,49.40736,15.689937,194,0,0,194,,,True,True,CZ063
+2020-07-02,CZE,Czech Republic,Zlínský,49.239654,17.770218,382,0,0,382,,,True,True,CZ072
 2020-06-30,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,,187,,,True,True,FRO
 2020-06-30,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
 2020-06-30,DNK,Denmark,Hovedstaden,55.675758,12.56902,7384,353,,7031,,,True,True,DK01
@@ -461,15 +461,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-01,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,3161,42,2107,1012,,,False,False,
 2020-07-01,SMR,San Marino,San Marino,43.942973,12.460035,698,42,,656,,,False,False,
 2020-07-01,SRB,Serbia,Serbia,44.206802,20.911009,14564,277,,14287,,,False,True,
-2020-07-01,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,130,,,130,,,True,True,SK032
-2020-07-01,SVK,Slovakia,Bratislava,48.319003,17.17481,391,,,391,,,True,True,SK010
-2020-07-01,SVK,Slovakia,Košice,48.771358,20.721931,283,,,283,,,True,True,SK042
-2020-07-01,SVK,Slovakia,Nitra,48.140652,18.30311,124,,,124,,,True,True,SK023
-2020-07-01,SVK,Slovakia,NOT SPECIFIED,,,0,28,1466,-1494,20,3,True,True,
-2020-07-01,SVK,Slovakia,Prešov,49.126441,21.221321,205,,,205,,,True,True,SK041
-2020-07-01,SVK,Slovakia,Trencín,48.858564,18.202196,188,,,188,,,True,True,SK022
-2020-07-01,SVK,Slovakia,Trnava,48.222651,17.707847,126,,,126,,,True,True,SK021
-2020-07-01,SVK,Slovakia,Zilina,49.178517,19.167163,240,,,240,,,True,True,SK031
+2020-07-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,131,,,131,,,True,True,SK032
+2020-07-02,SVK,Slovakia,Bratislava,48.319003,17.17481,398,,,398,,,True,True,SK010
+2020-07-02,SVK,Slovakia,Košice,48.771358,20.721931,284,,,284,,,True,True,SK042
+2020-07-02,SVK,Slovakia,Nitra,48.140652,18.30311,127,,,127,,,True,True,SK023
+2020-07-02,SVK,Slovakia,NOT SPECIFIED,,,0,28,1466,-1494,14,3,True,True,
+2020-07-02,SVK,Slovakia,Prešov,49.126441,21.221321,205,,,205,,,True,True,SK041
+2020-07-02,SVK,Slovakia,Trencín,48.858564,18.202196,189,,,189,,,True,True,SK022
+2020-07-02,SVK,Slovakia,Trnava,48.222651,17.707847,126,,,126,,,True,True,SK021
+2020-07-02,SVK,Slovakia,Zilina,49.178517,19.167163,240,,,240,,,True,True,SK031
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,SI042
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
