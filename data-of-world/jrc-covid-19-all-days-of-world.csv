@@ -7,7 +7,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-05,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
 2020-01-06,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
 2020-01-07,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
-2020-01-07,GBR,EU,United Kingdom,54.633221,-3.432277,315123,43733,0,271390,,,False,True
 2020-01-08,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
 2020-01-09,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
 2020-01-10,CHN,AS,China,34.668138,104.165802,59,,,59,,,False,False
@@ -21381,6 +21380,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,UGA,AF,Uganda,1.365188,32.304651,870,0,,870,,,False,False
 2020-06-30,UKR,EU,Ukraine,48.379888,31.168139,43628,1147,,42481,,,False,False
 2020-06-30,ARE,AS,United Arab Emirates,24.358745,53.982494,48246,314,,47932,,,False,False
+2020-06-30,GBR,EU,United Kingdom,54.633221,-3.432277,315123,43733,0,271390,,,False,True
 2020-06-30,USA,NA,United States of America,36.966428,-95.844032,2590552,126140,,2464412,,,False,False
 2020-06-30,VIR,NA,United States Virgin Islands,18.036736,-64.801704,84,6,,78,,,False,False
 2020-06-30,URY,SA,Uruguay,-32.53152,-55.758328,932,27,,905,,,False,False
