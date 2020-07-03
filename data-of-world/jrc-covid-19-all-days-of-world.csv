@@ -58,6 +58,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-24,JPN,AS,Japan,34.886306,134.379711,2,,,2,,,False,False
 2020-01-24,SGP,AS,Singapore,1.364917,103.822872,3,,,3,,,False,False
 2020-01-24,KOR,AS,South Korea,35.901696,127.735889,2,,,2,,,False,False
+2020-01-24,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-24,TWN,AS,Taiwan,21.901806,121.471,1,,,1,,,False,False
 2020-01-24,THA,AS,Thailand,13.036597,101.492515,4,,,4,,,False,False
 2020-01-24,USA,NA,United States of America,36.966428,-95.844032,1,,,1,,,False,False
@@ -70,6 +71,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-25,NPL,AS,Nepal,28.395056,84.127803,1,,,1,,,False,False
 2020-01-25,SGP,AS,Singapore,1.364917,103.822872,3,,,3,,,False,False
 2020-01-25,KOR,AS,South Korea,35.901696,127.735889,2,,,2,,,False,False
+2020-01-25,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-25,TWN,AS,Taiwan,21.901806,121.471,3,,,3,,,False,False
 2020-01-25,THA,AS,Thailand,13.036597,101.492515,5,,,5,,,False,False
 2020-01-25,USA,NA,United States of America,36.966428,-95.844032,2,,,2,,,False,False
@@ -83,6 +85,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-26,NPL,AS,Nepal,28.395056,84.127803,1,,,1,,,False,False
 2020-01-26,SGP,AS,Singapore,1.364917,103.822872,4,,,4,,,False,False
 2020-01-26,KOR,AS,South Korea,35.901696,127.735889,3,,,3,,,False,False
+2020-01-26,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-26,TWN,AS,Taiwan,21.901806,121.471,3,,,3,,,False,False
 2020-01-26,THA,AS,Thailand,13.036597,101.492515,5,,,5,,,False,False
 2020-01-26,USA,NA,United States of America,36.966428,-95.844032,2,,,2,,,False,False
@@ -96,6 +99,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-27,NPL,AS,Nepal,28.395056,84.127803,1,,,1,,,False,False
 2020-01-27,SGP,AS,Singapore,1.364917,103.822872,4,,,4,,,False,False
 2020-01-27,KOR,AS,South Korea,35.901696,127.735889,4,,,4,,,False,False
+2020-01-27,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-27,TWN,AS,Taiwan,21.901806,121.471,5,,,5,,,False,False
 2020-01-27,THA,AS,Thailand,13.036597,101.492515,8,,,8,,,False,False
 2020-01-27,ARE,AS,United Arab Emirates,24.358745,53.982494,1,,,1,,,False,False
@@ -112,6 +116,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-28,SGP,AS,Singapore,1.364917,103.822872,5,,,5,,,False,False
 2020-01-28,KOR,AS,South Korea,35.901696,127.735889,4,,,4,,,False,False
 2020-01-28,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-01-28,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-28,TWN,AS,Taiwan,21.901806,121.471,7,,,7,,,False,False
 2020-01-28,THA,AS,Thailand,13.036597,101.492515,14,,,14,,,False,False
 2020-01-28,ARE,AS,United Arab Emirates,24.358745,53.982494,1,,,1,,,False,False
@@ -128,6 +133,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-29,SGP,AS,Singapore,1.364917,103.822872,7,,,7,,,False,False
 2020-01-29,KOR,AS,South Korea,35.901696,127.735889,4,,,4,,,False,False
 2020-01-29,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-01-29,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-29,TWN,AS,Taiwan,21.901806,121.471,8,,,8,,,False,False
 2020-01-29,THA,AS,Thailand,13.036597,101.492515,14,,,14,,,False,False
 2020-01-29,ARE,AS,United Arab Emirates,24.358745,53.982494,1,,,1,,,False,False
@@ -146,6 +152,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-30,SGP,AS,Singapore,1.364917,103.822872,10,,,10,,,False,False
 2020-01-30,KOR,AS,South Korea,35.901696,127.735889,4,,,4,,,False,False
 2020-01-30,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-01-30,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-30,TWN,AS,Taiwan,21.901806,121.471,8,,,8,,,False,False
 2020-01-30,THA,AS,Thailand,13.036597,101.492515,14,,,14,,,False,False
 2020-01-30,ARE,AS,United Arab Emirates,24.358745,53.982494,4,,,4,,,False,False
@@ -164,6 +171,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-01-31,SGP,AS,Singapore,1.364917,103.822872,13,,,13,,,False,False
 2020-01-31,KOR,AS,South Korea,35.901696,127.735889,7,,,7,,,False,False
 2020-01-31,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-01-31,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-01-31,TWN,AS,Taiwan,21.901806,121.471,9,,,9,,,False,False
 2020-01-31,THA,AS,Thailand,13.036597,101.492515,14,,,14,,,False,False
 2020-01-31,ARE,AS,United Arab Emirates,24.358745,53.982494,4,,,4,,,False,False
@@ -182,6 +190,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-01,SGP,AS,Singapore,1.364917,103.822872,16,,,16,,,False,False
 2020-02-01,KOR,AS,South Korea,35.901696,127.735889,12,,,12,,,False,False
 2020-02-01,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-01,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-01,TWN,AS,Taiwan,21.901806,121.471,10,,,10,,,False,False
 2020-02-01,THA,AS,Thailand,13.036597,101.492515,19,,,19,,,False,False
 2020-02-01,ARE,AS,United Arab Emirates,24.358745,53.982494,4,,,4,,,False,False
@@ -199,6 +208,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-02,SGP,AS,Singapore,1.364917,103.822872,18,,,18,,,False,False
 2020-02-02,KOR,AS,South Korea,35.901696,127.735889,15,,,15,,,False,False
 2020-02-02,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-02,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-02,TWN,AS,Taiwan,21.901806,121.471,10,,,10,,,False,False
 2020-02-02,THA,AS,Thailand,13.036597,101.492515,19,,,19,,,False,False
 2020-02-02,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -217,6 +227,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-03,SGP,AS,Singapore,1.364917,103.822872,18,,,18,,,False,False
 2020-02-03,KOR,AS,South Korea,35.901696,127.735889,15,,,15,,,False,False
 2020-02-03,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-03,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-03,TWN,AS,Taiwan,21.901806,121.471,10,,,10,,,False,False
 2020-02-03,THA,AS,Thailand,13.036597,101.492515,19,,,19,,,False,False
 2020-02-03,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -234,6 +245,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-04,SGP,AS,Singapore,1.364917,103.822872,18,,,18,,,False,False
 2020-02-04,KOR,AS,South Korea,35.901696,127.735889,16,,,16,,,False,False
 2020-02-04,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-04,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-04,TWN,AS,Taiwan,21.901806,121.471,10,,,10,,,False,False
 2020-02-04,THA,AS,Thailand,13.036597,101.492515,19,,,19,,,False,False
 2020-02-04,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -252,6 +264,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-05,SGP,AS,Singapore,1.364917,103.822872,24,,,24,,,False,False
 2020-02-05,KOR,AS,South Korea,35.901696,127.735889,18,,,18,,,False,False
 2020-02-05,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-05,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-05,TWN,AS,Taiwan,21.901806,121.471,11,,,11,,,False,False
 2020-02-05,THA,AS,Thailand,13.036597,101.492515,25,,,25,,,False,False
 2020-02-05,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -270,6 +283,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-06,SGP,AS,Singapore,1.364917,103.822872,28,,,28,,,False,False
 2020-02-06,KOR,AS,South Korea,35.901696,127.735889,23,,,23,,,False,False
 2020-02-06,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-06,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-06,TWN,AS,Taiwan,21.901806,121.471,11,,,11,,,False,False
 2020-02-06,THA,AS,Thailand,13.036597,101.492515,25,,,25,,,False,False
 2020-02-06,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -289,6 +303,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-07,SGP,AS,Singapore,1.364917,103.822872,30,,,30,,,False,False
 2020-02-07,KOR,AS,South Korea,35.901696,127.735889,24,,,24,,,False,False
 2020-02-07,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-07,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-07,TWN,AS,Taiwan,21.901806,121.471,16,,,16,,,False,False
 2020-02-07,THA,AS,Thailand,13.036597,101.492515,25,,,25,,,False,False
 2020-02-07,ARE,AS,United Arab Emirates,24.358745,53.982494,5,,,5,,,False,False
@@ -307,6 +322,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-08,SGP,AS,Singapore,1.364917,103.822872,33,,,33,,,False,False
 2020-02-08,KOR,AS,South Korea,35.901696,127.735889,24,,,24,,,False,False
 2020-02-08,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-08,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-08,TWN,AS,Taiwan,21.901806,121.471,17,,,17,,,False,False
 2020-02-08,THA,AS,Thailand,13.036597,101.492515,32,,,32,,,False,False
 2020-02-08,ARE,AS,United Arab Emirates,24.358745,53.982494,7,,,7,,,False,False
@@ -324,6 +340,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-09,SGP,AS,Singapore,1.364917,103.822872,40,,,40,,,False,False
 2020-02-09,KOR,AS,South Korea,35.901696,127.735889,25,,,25,,,False,False
 2020-02-09,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-09,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-09,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-09,THA,AS,Thailand,13.036597,101.492515,32,,,32,,,False,False
 2020-02-09,ARE,AS,United Arab Emirates,24.358745,53.982494,7,,,7,,,False,False
@@ -342,6 +359,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-10,SGP,AS,Singapore,1.364917,103.822872,43,,,43,,,False,False
 2020-02-10,KOR,AS,South Korea,35.901696,127.735889,27,,,27,,,False,False
 2020-02-10,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-10,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-10,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-10,THA,AS,Thailand,13.036597,101.492515,32,,,32,,,False,False
 2020-02-10,ARE,AS,United Arab Emirates,24.358745,53.982494,7,,,7,,,False,False
@@ -361,6 +379,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-11,SGP,AS,Singapore,1.364917,103.822872,45,,,45,,,False,False
 2020-02-11,KOR,AS,South Korea,35.901696,127.735889,28,,,28,,,False,False
 2020-02-11,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-11,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-11,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-11,THA,AS,Thailand,13.036597,101.492515,32,,,32,,,False,False
 2020-02-11,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -379,6 +398,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-12,SGP,AS,Singapore,1.364917,103.822872,47,,,47,,,False,False
 2020-02-12,KOR,AS,South Korea,35.901696,127.735889,28,,,28,,,False,False
 2020-02-12,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-12,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-12,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-12,THA,AS,Thailand,13.036597,101.492515,33,,,33,,,False,False
 2020-02-12,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -397,6 +417,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-13,SGP,AS,Singapore,1.364917,103.822872,50,,,50,,,False,False
 2020-02-13,KOR,AS,South Korea,35.901696,127.735889,28,,,28,,,False,False
 2020-02-13,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-13,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-13,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-13,THA,AS,Thailand,13.036597,101.492515,33,,,33,,,False,False
 2020-02-13,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -414,6 +435,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-14,SGP,AS,Singapore,1.364917,103.822872,58,,,58,,,False,False
 2020-02-14,KOR,AS,South Korea,35.901696,127.735889,28,,,28,,,False,False
 2020-02-14,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-14,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-14,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-14,THA,AS,Thailand,13.036597,101.492515,33,,,33,,,False,False
 2020-02-14,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -432,6 +454,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-15,SGP,AS,Singapore,1.364917,103.822872,67,,,67,,,False,False
 2020-02-15,KOR,AS,South Korea,35.901696,127.735889,28,,,28,,,False,False
 2020-02-15,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-15,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-15,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-15,THA,AS,Thailand,13.036597,101.492515,34,,,34,,,False,False
 2020-02-15,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -450,6 +473,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-16,SGP,AS,Singapore,1.364917,103.822872,72,,,72,,,False,False
 2020-02-16,KOR,AS,South Korea,35.901696,127.735889,29,,,29,,,False,False
 2020-02-16,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-16,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-16,TWN,AS,Taiwan,21.901806,121.471,18,,,18,,,False,False
 2020-02-16,THA,AS,Thailand,13.036597,101.492515,34,,,34,,,False,False
 2020-02-16,ARE,AS,United Arab Emirates,24.358745,53.982494,8,,,8,,,False,False
@@ -468,6 +492,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-17,SGP,AS,Singapore,1.364917,103.822872,75,,,75,,,False,False
 2020-02-17,KOR,AS,South Korea,35.901696,127.735889,30,,,30,,,False,False
 2020-02-17,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-17,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-17,TWN,AS,Taiwan,21.901806,121.471,20,1,,19,,,False,False
 2020-02-17,THA,AS,Thailand,13.036597,101.492515,34,,,34,,,False,False
 2020-02-17,ARE,AS,United Arab Emirates,24.358745,53.982494,9,,,9,,,False,False
@@ -486,6 +511,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-18,SGP,AS,Singapore,1.364917,103.822872,77,,,77,,,False,False
 2020-02-18,KOR,AS,South Korea,35.901696,127.735889,31,,,31,,,False,False
 2020-02-18,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-18,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-18,TWN,AS,Taiwan,21.901806,121.471,22,1,,21,,,False,False
 2020-02-18,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-18,ARE,AS,United Arab Emirates,24.358745,53.982494,9,,,9,,,False,False
@@ -504,6 +530,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-19,SGP,AS,Singapore,1.364917,103.822872,81,,,81,,,False,False
 2020-02-19,KOR,AS,South Korea,35.901696,127.735889,46,,,46,,,False,False
 2020-02-19,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-19,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-19,TWN,AS,Taiwan,21.901806,121.471,22,1,,21,,,False,False
 2020-02-19,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-19,ARE,AS,United Arab Emirates,24.358745,53.982494,9,,,9,,,False,False
@@ -526,6 +553,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-20,SGP,AS,Singapore,1.364917,103.822872,84,,,84,,,False,False
 2020-02-20,KOR,AS,South Korea,35.901696,127.735889,80,,,80,,,False,False
 2020-02-20,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-20,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-20,TWN,AS,Taiwan,21.901806,121.471,24,1,,23,,,False,False
 2020-02-20,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-20,ARE,AS,United Arab Emirates,24.358745,53.982494,9,,,9,,,False,False
@@ -546,6 +574,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-21,SGP,AS,Singapore,1.364917,103.822872,85,,,85,,,False,False
 2020-02-21,KOR,AS,South Korea,35.901696,127.735889,155,1,,154,,,False,False
 2020-02-21,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-21,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-21,TWN,AS,Taiwan,21.901806,121.471,24,1,,23,,,False,False
 2020-02-21,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-21,ARE,AS,United Arab Emirates,24.358745,53.982494,9,,,9,,,False,False
@@ -568,6 +597,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-22,SGP,AS,Singapore,1.364917,103.822872,86,,,86,,,False,False
 2020-02-22,KOR,AS,South Korea,35.901696,127.735889,345,2,,343,,,False,False
 2020-02-22,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-22,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-22,TWN,AS,Taiwan,21.901806,121.471,26,1,,25,,,False,False
 2020-02-22,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-22,ARE,AS,United Arab Emirates,24.358745,53.982494,11,,,11,,,False,False
@@ -590,6 +620,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-23,SGP,AS,Singapore,1.364917,103.822872,89,,,89,,,False,False
 2020-02-23,KOR,AS,South Korea,35.901696,127.735889,601,5,,596,,,False,False
 2020-02-23,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-23,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-23,TWN,AS,Taiwan,21.901806,121.471,26,1,,25,,,False,False
 2020-02-23,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-23,ARE,AS,United Arab Emirates,24.358745,53.982494,13,,,13,,,False,False
@@ -615,6 +646,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-24,SGP,AS,Singapore,1.364917,103.822872,89,,,89,,,False,False
 2020-02-24,KOR,AS,South Korea,35.901696,127.735889,762,7,,755,,,False,False
 2020-02-24,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
+2020-02-24,CHE,EU,Switzerland,46.815514,8.224472,0,0,0,0,0,0,False,False
 2020-02-24,TWN,AS,Taiwan,21.901806,121.471,28,1,,27,,,False,False
 2020-02-24,THA,AS,Thailand,13.036597,101.492515,35,,,35,,,False,False
 2020-02-24,ARE,AS,United Arab Emirates,24.358745,53.982494,13,,,13,,,False,False
@@ -672,7 +704,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-26,SGP,AS,Singapore,1.364917,103.822872,91,,,91,,,False,False
 2020-02-26,KOR,AS,South Korea,35.901696,127.735889,1146,11,,1135,,,False,False
 2020-02-26,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-02-26,CHE,EU,Switzerland,46.815514,8.224472,2,0,0,2,1,0,False,False
+2020-02-26,CHE,EU,Switzerland,46.815514,8.224472,6,0,0,6,2,0,False,False
 2020-02-26,TWN,AS,Taiwan,21.901806,121.471,31,1,,30,,,False,False
 2020-02-26,THA,AS,Thailand,13.036597,101.492515,40,,,40,,,False,False
 2020-02-26,ARE,AS,United Arab Emirates,24.358745,53.982494,13,,,13,,,False,False
@@ -705,7 +737,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-27,SGP,AS,Singapore,1.364917,103.822872,93,,,93,,,False,False
 2020-02-27,KOR,AS,South Korea,35.901696,127.735889,1595,12,,1583,,,False,False
 2020-02-27,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-02-27,CHE,EU,Switzerland,46.815514,8.224472,3,0,0,3,1,0,False,False
+2020-02-27,CHE,EU,Switzerland,46.815514,8.224472,11,0,0,11,3,0,False,False
 2020-02-27,TWN,AS,Taiwan,21.901806,121.471,32,1,,31,,,False,False
 2020-02-27,THA,AS,Thailand,13.036597,101.492515,40,,,40,,,False,False
 2020-02-27,ARE,AS,United Arab Emirates,24.358745,53.982494,13,,,13,,,False,False
@@ -742,7 +774,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-28,SGP,AS,Singapore,1.364917,103.822872,96,,,96,,,False,False
 2020-02-28,KOR,AS,South Korea,35.901696,127.735889,2022,13,,2009,,,False,False
 2020-02-28,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-02-28,CHE,EU,Switzerland,46.815514,8.224472,10,0,0,10,5,0,False,False
+2020-02-28,CHE,EU,Switzerland,46.815514,8.224472,29,0,0,29,18,0,False,False
 2020-02-28,TWN,AS,Taiwan,21.901806,121.471,34,1,,33,,,False,False
 2020-02-28,THA,AS,Thailand,13.036597,101.492515,40,,,40,,,False,False
 2020-02-28,ARE,AS,United Arab Emirates,24.358745,53.982494,19,,,19,,,False,False
@@ -782,7 +814,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-29,KOR,AS,South Korea,35.901696,127.735889,2931,16,,2915,,,False,False
 2020-02-29,ESP,EU,Spain,39.896027,-2.487694,40,,,40,,,True,True
 2020-02-29,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-02-29,CHE,EU,Switzerland,46.815514,8.224472,13,0,0,13,6,0,False,False
+2020-02-29,CHE,EU,Switzerland,46.815514,8.224472,42,0,0,42,21,0,False,False
 2020-02-29,TWN,AS,Taiwan,21.901806,121.471,39,1,,38,,,False,False
 2020-02-29,THA,AS,Thailand,13.036597,101.492515,42,,,42,,,False,False
 2020-02-29,ARE,AS,United Arab Emirates,24.358745,53.982494,19,,,19,,,False,False
@@ -826,7 +858,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-01,KOR,AS,South Korea,35.901696,127.735889,3526,17,,3509,,,False,False
 2020-03-01,ESP,EU,Spain,39.896027,-2.487694,61,,,61,,,True,True
 2020-03-01,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-03-01,CHE,EU,Switzerland,46.815514,8.224472,19,0,0,19,7,0,False,False
+2020-03-01,CHE,EU,Switzerland,46.815514,8.224472,54,0,0,54,23,0,False,False
 2020-03-01,TWN,AS,Taiwan,21.901806,121.471,40,1,,39,,,False,False
 2020-03-01,THA,AS,Thailand,13.036597,101.492515,42,1,,41,,,False,False
 2020-03-01,ARE,AS,United Arab Emirates,24.358745,53.982494,21,,,21,,,False,False
@@ -873,7 +905,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,KOR,AS,South Korea,35.901696,127.735889,4212,22,,4190,,,False,False
 2020-03-02,ESP,EU,Spain,39.896027,-2.487694,125,,,125,,,True,True
 2020-03-02,LKA,AS,Sri Lanka,7.874097,80.767098,1,,,1,,,False,False
-2020-03-02,CHE,EU,Switzerland,46.815514,8.224472,27,0,0,27,7,0,False,False
+2020-03-02,CHE,EU,Switzerland,46.815514,8.224472,76,0,0,76,29,0,False,False
 2020-03-02,TWN,AS,Taiwan,21.901806,121.471,40,1,,39,,,False,False
 2020-03-02,THA,AS,Thailand,13.036597,101.492515,43,1,,42,,,False,False
 2020-03-02,ARE,AS,United Arab Emirates,24.358745,53.982494,21,,,21,,,False,False
@@ -904,7 +936,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-03,SGP,AS,Singapore,1.364917,103.822872,108,,,108,,,False,False
 2020-03-03,KOR,AS,South Korea,35.901696,127.735889,4812,28,,4784,,,False,False
 2020-03-03,ESP,EU,Spain,39.896027,-2.487694,155,1,,154,,,True,True
-2020-03-03,CHE,EU,Switzerland,46.815514,8.224472,45,0,0,45,9,0,False,False
+2020-03-03,CHE,EU,Switzerland,46.815514,8.224472,115,0,0,115,36,0,False,False
 2020-03-03,TWN,AS,Taiwan,21.901806,121.471,41,1,,40,,,False,False
 2020-03-03,TUN,AF,Tunisia,33.892166,9.561556,1,,,1,,,False,False
 2020-03-03,GBR,EU,United Kingdom,54.633221,-3.432277,51,,,51,,,False,True
@@ -934,7 +966,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-04,SGP,AS,Singapore,1.364917,103.822872,110,,,110,,,False,False
 2020-03-04,KOR,AS,South Korea,35.901696,127.735889,5328,32,,5296,,,False,False
 2020-03-04,ESP,EU,Spain,39.896027,-2.487694,198,1,24,173,0,7,True,True
-2020-03-04,CHE,EU,Switzerland,46.815514,8.224472,56,0,0,56,11,0,False,False
+2020-03-04,CHE,EU,Switzerland,46.815514,8.224472,153,0,0,153,46,1,False,False
 2020-03-04,TWN,AS,Taiwan,21.901806,121.471,42,1,,41,,,False,False
 2020-03-04,UKR,EU,Ukraine,48.379888,31.168139,1,0,,1,,,False,False
 2020-03-04,ARE,AS,United Arab Emirates,24.358745,53.982494,27,,,27,,,False,False
@@ -970,7 +1002,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-05,SGP,AS,Singapore,1.364917,103.822872,112,,,112,,,False,False
 2020-03-05,KOR,AS,South Korea,35.901696,127.735889,5766,35,,5731,,,False,False
 2020-03-05,ESP,EU,Spain,39.896027,-2.487694,237,3,0,234,0,9,True,True
-2020-03-05,CHE,EU,Switzerland,46.815514,8.224472,101,0,0,101,9,0,False,False
+2020-03-05,CHE,EU,Switzerland,46.815514,8.224472,242,0,2,240,48,1,False,False
 2020-03-05,THA,AS,Thailand,13.036597,101.492515,47,1,,46,,,False,False
 2020-03-05,GBR,EU,United Kingdom,54.633221,-3.432277,116,,,116,,,False,True
 2020-03-05,USA,NA,United States of America,36.966428,-95.844032,159,11,,148,,,False,False
@@ -1015,7 +1047,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-06,ZAF,AF,South Africa,-28.48322,24.676997,1,,,1,,,False,False
 2020-03-06,KOR,AS,South Korea,35.901696,127.735889,6284,42,,6242,,,False,False
 2020-03-06,ESP,EU,Spain,39.896027,-2.487694,365,5,0,360,0,11,True,True
-2020-03-06,CHE,EU,Switzerland,46.815514,8.224472,163,1,1,161,26,2,False,False
+2020-03-06,CHE,EU,Switzerland,46.815514,8.224472,378,2,4,372,72,6,False,False
 2020-03-06,TWN,AS,Taiwan,21.901806,121.471,44,1,,43,,,False,False
 2020-03-06,ARE,AS,United Arab Emirates,24.358745,53.982494,29,,,29,,,False,False
 2020-03-06,GBR,EU,United Kingdom,54.633221,-3.432277,164,,,164,,,False,True
@@ -1060,7 +1092,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-07,SGP,AS,Singapore,1.364917,103.822872,130,,,130,,,False,False
 2020-03-07,SVK,EU,Slovakia,48.665639,19.709097,3,0,0,3,,,True,True
 2020-03-07,KOR,AS,South Korea,35.901696,127.735889,6767,44,,6723,,,False,False
-2020-03-07,CHE,EU,Switzerland,46.815514,8.224472,226,1,1,224,27,4,False,False
+2020-03-07,CHE,EU,Switzerland,46.815514,8.224472,503,2,4,497,74,10,False,False
 2020-03-07,TWN,AS,Taiwan,21.901806,121.471,45,1,,44,,,False,False
 2020-03-07,THA,AS,Thailand,13.036597,101.492515,50,1,,49,,,False,False
 2020-03-07,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -1103,7 +1135,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-08,SVK,EU,Slovakia,48.665639,19.709097,5,0,0,5,,,True,True
 2020-03-08,ZAF,AF,South Africa,-28.48322,24.676997,2,,,2,,,False,False
 2020-03-08,KOR,AS,South Korea,35.901696,127.735889,7134,50,,7084,,,False,False
-2020-03-08,CHE,EU,Switzerland,46.815514,8.224472,275,2,1,272,35,3,False,False
+2020-03-08,CHE,EU,Switzerland,46.815514,8.224472,599,4,4,591,95,9,False,False
 2020-03-08,TWN,AS,Taiwan,21.901806,121.471,45,1,,44,,,False,False
 2020-03-08,ARE,AS,United Arab Emirates,24.358745,53.982494,45,,,45,,,False,False
 2020-03-08,GBR,EU,United Kingdom,54.633221,-3.432277,280,,,280,,,False,True
@@ -1151,7 +1183,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-09,ZAF,AF,South Africa,-28.48322,24.676997,3,,,3,,,False,False
 2020-03-09,KOR,AS,South Korea,35.901696,127.735889,7382,51,,7331,,,False,False
 2020-03-09,ESP,EU,Spain,39.896027,-2.487694,999,16,0,983,0,68,True,True
-2020-03-09,CHE,EU,Switzerland,46.815514,8.224472,342,3,3,336,50,9,False,False
+2020-03-09,CHE,EU,Switzerland,46.815514,8.224472,767,5,8,754,123,22,False,False
 2020-03-09,TWN,AS,Taiwan,21.901806,121.471,45,1,,44,,,False,False
 2020-03-09,GBR,EU,United Kingdom,54.633221,-3.432277,321,,,321,,,False,True
 2020-03-09,USA,NA,United States of America,36.966428,-95.844032,554,21,,533,,,False,False
@@ -1200,7 +1232,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-10,ZAF,AF,South Africa,-28.48322,24.676997,7,,,7,,,False,False
 2020-03-10,KOR,AS,South Korea,35.901696,127.735889,7513,54,,7459,,,False,False
 2020-03-10,ESP,EU,Spain,39.896027,-2.487694,1622,35,0,1587,0,100,True,True
-2020-03-10,CHE,EU,Switzerland,46.815514,8.224472,417,4,7,406,63,11,False,False
+2020-03-10,CHE,EU,Switzerland,46.815514,8.224472,993,8,13,972,165,25,False,False
 2020-03-10,TUN,AF,Tunisia,33.892166,9.561556,2,,,2,,,False,False
 2020-03-10,ARE,AS,United Arab Emirates,24.358745,53.982494,59,,,59,,,False,False
 2020-03-10,GBR,EU,United Kingdom,54.633221,-3.432277,373,,,373,,,False,True
@@ -1269,7 +1301,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,KOR,AS,South Korea,35.901696,127.735889,7755,60,,7695,,,False,False
 2020-03-11,ESP,EU,Spain,39.896027,-2.487694,2128,47,0,2081,0,142,True,True
 2020-03-11,SWE,EU,Sweden,62.199806,17.637493,461,1,0,460,0,0,True,True
-2020-03-11,CHE,EU,Switzerland,46.815514,8.224472,506,5,12,489,83,16,False,False
+2020-03-11,CHE,EU,Switzerland,46.815514,8.224472,1323,10,24,1289,206,33,False,False
 2020-03-11,TWN,AS,Taiwan,21.901806,121.471,48,1,,47,,,False,False
 2020-03-11,THA,AS,Thailand,13.036597,101.492515,59,1,,58,,,False,False
 2020-03-11,TUN,AF,Tunisia,33.892166,9.561556,5,,,5,,,False,False
@@ -1345,7 +1377,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,ESP,EU,Spain,39.896027,-2.487694,2950,84,0,2866,0,190,True,True
 2020-03-12,LKA,AS,Sri Lanka,7.874097,80.767098,2,,,2,,,False,False
 2020-03-12,SWE,EU,Sweden,62.199806,17.637493,0,1,0,-1,0,0,True,True
-2020-03-12,CHE,EU,Switzerland,46.815514,8.224472,796,6,13,777,93,17,False,False
+2020-03-12,CHE,EU,Switzerland,46.815514,8.224472,1929,15,26,1888,240,33,False,False
 2020-03-12,TWN,AS,Taiwan,21.901806,121.471,48,1,,47,,,False,False
 2020-03-12,THA,AS,Thailand,13.036597,101.492515,70,1,,69,,,False,False
 2020-03-12,TUN,AF,Tunisia,33.892166,9.561556,7,,,7,,,False,False
@@ -1425,7 +1457,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,ESP,EU,Spain,39.896027,-2.487694,4209,118,0,4091,0,272,True,True
 2020-03-13,LKA,AS,Sri Lanka,7.874097,80.767098,3,,,3,,,False,False
 2020-03-13,SWE,EU,Sweden,62.199806,17.637493,620,2,0,618,0,0,True,True
-2020-03-13,CHE,EU,Switzerland,46.815514,8.224472,1120,7,18,1095,182,33,False,False
+2020-03-13,CHE,EU,Switzerland,46.815514,8.224472,2594,17,33,2544,355,51,False,False
 2020-03-13,TWN,AS,Taiwan,21.901806,121.471,49,1,,48,,,False,False
 2020-03-13,TTO,NA,Trinidad and Tobago,10.687223,-61.220852,1,,,1,,,False,False
 2020-03-13,TUN,AF,Tunisia,33.892166,9.561556,13,,,13,,,False,False
@@ -1501,7 +1533,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-14,LKA,AS,Sri Lanka,7.874097,80.767098,6,,,6,,,False,False
 2020-03-14,SDN,AF,Sudan,15.45847,30.217636,1,,,1,,,False,False
 2020-03-14,SWE,EU,Sweden,62.199806,17.637493,0,3,0,-3,0,0,True,True
-2020-03-14,CHE,EU,Switzerland,46.815514,8.224472,1435,12,18,1405,183,38,False,False
+2020-03-14,CHE,EU,Switzerland,46.815514,8.224472,3319,26,95,3198,464,73,False,False
 2020-03-14,TWN,AS,Taiwan,21.901806,121.471,53,1,,52,,,False,False
 2020-03-14,THA,AS,Thailand,13.036597,101.492515,82,1,,81,,,False,False
 2020-03-14,TTO,NA,Trinidad and Tobago,10.687223,-61.220852,2,,,2,,,False,False
@@ -1594,7 +1626,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-15,SDN,AF,Sudan,15.45847,30.217636,1,1,,0,,,False,False
 2020-03-15,SUR,SA,Suriname,3.917845,-56.032028,1,,,1,,,False,False
 2020-03-15,SWE,EU,Sweden,62.199806,17.637493,0,5,0,-5,0,0,True,True
-2020-03-15,CHE,EU,Switzerland,46.815514,8.224472,1646,18,21,1607,210,47,False,False
+2020-03-15,CHE,EU,Switzerland,46.815514,8.224472,3829,40,101,3688,524,88,False,False
 2020-03-15,TWN,AS,Taiwan,21.901806,121.471,59,1,,58,,,False,False
 2020-03-15,THA,AS,Thailand,13.036597,101.492515,82,1,,81,,,False,False
 2020-03-15,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -1702,7 +1734,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,LKA,AS,Sri Lanka,7.874097,80.767098,19,,,19,,,False,False
 2020-03-16,SDN,AF,Sudan,15.45847,30.217636,1,1,,0,,,False,False
 2020-03-16,SWE,EU,Sweden,62.199806,17.637493,1033,10,0,1023,0,0,True,True
-2020-03-16,CHE,EU,Switzerland,46.815514,8.224472,2246,27,22,2197,244,53,False,False
+2020-03-16,CHE,EU,Switzerland,46.815514,8.224472,5236,61,105,5070,661,108,False,False
 2020-03-16,TWN,AS,Taiwan,21.901806,121.471,59,1,,58,,,False,False
 2020-03-16,THA,AS,Thailand,13.036597,101.492515,114,1,,113,,,False,False
 2020-03-16,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -1823,7 +1855,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,LKA,AS,Sri Lanka,7.874097,80.767098,29,,,29,,,False,False
 2020-03-17,SDN,AF,Sudan,15.45847,30.217636,1,1,,0,,,False,False
 2020-03-17,SWE,EU,Sweden,62.199806,17.637493,0,8,0,-8,0,0,True,True
-2020-03-17,CHE,EU,Switzerland,46.815514,8.224472,2797,30,55,2712,304,71,False,False
+2020-03-17,CHE,EU,Switzerland,46.815514,8.224472,6579,71,172,6336,804,145,False,False
 2020-03-17,TWN,AS,Taiwan,21.901806,121.471,67,1,,66,,,False,False
 2020-03-17,THA,AS,Thailand,13.036597,101.492515,177,1,,176,,,False,False
 2020-03-17,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -1955,7 +1987,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,LKA,AS,Sri Lanka,7.874097,80.767098,42,,,42,,,False,False
 2020-03-18,SDN,AF,Sudan,15.45847,30.217636,1,1,,0,,,False,False
 2020-03-18,SWE,EU,Sweden,62.199806,17.637493,1279,17,0,1262,0,0,True,True
-2020-03-18,CHE,EU,Switzerland,46.815514,8.224472,3829,38,76,3715,384,76,False,False
+2020-03-18,CHE,EU,Switzerland,46.815514,8.224472,8727,88,211,8428,973,160,False,False
 2020-03-18,TWN,AS,Taiwan,21.901806,121.471,77,4,,73,,,False,False
 2020-03-18,THA,AS,Thailand,13.036597,101.492515,177,1,,176,,,False,False
 2020-03-18,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -2091,7 +2123,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,LKA,AS,Sri Lanka,7.874097,80.767098,42,,,42,,,False,False
 2020-03-19,SDN,AF,Sudan,15.45847,30.217636,2,1,,1,,,False,False
 2020-03-19,SWE,EU,Sweden,62.199806,17.637493,1423,24,0,1399,0,0,True,True
-2020-03-19,CHE,EU,Switzerland,46.815514,8.224472,5052,44,120,4888,527,99,False,False
+2020-03-19,CHE,EU,Switzerland,46.815514,8.224472,10917,104,267,10546,1232,188,False,False
 2020-03-19,TWN,AS,Taiwan,21.901806,121.471,108,1,,107,,,False,False
 2020-03-19,THA,AS,Thailand,13.036597,101.492515,177,1,,176,,,False,False
 2020-03-19,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -2239,7 +2271,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,LKA,AS,Sri Lanka,7.874097,80.767098,53,,,53,,,False,False
 2020-03-20,SDN,AF,Sudan,15.45847,30.217636,2,1,,1,,,False,False
 2020-03-20,SWE,EU,Sweden,62.199806,17.637493,1623,31,0,1592,0,0,True,True
-2020-03-20,CHE,EU,Switzerland,46.815514,8.224472,6563,67,139,6357,601,104,False,False
+2020-03-20,CHE,EU,Switzerland,46.815514,8.224472,13600,149,295,13156,1401,202,False,False
 2020-03-20,TWN,AS,Taiwan,21.901806,121.471,108,1,,107,,,False,False
 2020-03-20,THA,AS,Thailand,13.036597,101.492515,212,1,,211,,,False,False
 2020-03-20,TGO,AF,Togo,8.621697,0.829685,1,,,1,,,False,False
@@ -2388,7 +2420,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,SDN,AF,Sudan,15.45847,30.217636,2,1,,1,,,False,False
 2020-03-21,SUR,SA,Suriname,3.917845,-56.032028,1,,,1,,,False,False
 2020-03-21,SWE,EU,Sweden,62.199806,17.637493,1746,38,0,1708,0,0,True,True
-2020-03-21,CHE,EU,Switzerland,46.815514,8.224472,7389,83,161,7145,696,106,False,False
+2020-03-21,CHE,EU,Switzerland,46.815514,8.224472,15318,184,334,14800,1622,217,False,False
 2020-03-21,TWN,AS,Taiwan,21.901806,121.471,135,2,,133,,,False,False
 2020-03-21,THA,AS,Thailand,13.036597,101.492515,366,1,,365,,,False,False
 2020-03-21,TGO,AF,Togo,8.621697,0.829685,9,,,9,,,False,False
@@ -2433,7 +2465,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-22,SVN,EU,Slovenia,46.145528,14.974541,440,1,32,407,55,10,True,True
 2020-03-22,ESP,EU,Spain,39.896027,-2.487694,36619,1672,2672,32275,16425,1816,True,True
 2020-03-22,SWE,EU,Sweden,62.199806,17.637493,1906,50,0,1856,0,0,True,True
-2020-03-22,CHE,EU,Switzerland,46.815514,8.224472,7993,101,182,7710,844,127,False,False
+2020-03-22,CHE,EU,Switzerland,46.815514,8.224472,16441,217,375,15849,1916,270,False,False
 2020-03-22,TUR,AS,Turkey,38.961516,35.25175,947,21,0,926,0,0,False,True
 2020-03-22,UKR,EU,Ukraine,48.379888,31.168139,41,3,,38,,,False,False
 2020-03-22,GBR,EU,United Kingdom,54.633221,-3.432277,5683,281,0,5402,,,False,True
@@ -2586,7 +2618,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,SDN,AF,Sudan,15.45847,30.217636,2,1,,1,,,False,False
 2020-03-23,SUR,SA,Suriname,3.917845,-56.032028,5,,,5,,,False,False
 2020-03-23,SWE,EU,Sweden,62.199806,17.637493,2016,61,0,1955,0,0,True,True
-2020-03-23,CHE,EU,Switzerland,46.815514,8.224472,9102,130,223,8749,923,153,False,False
+2020-03-23,CHE,EU,Switzerland,46.815514,8.224472,18819,276,442,18101,2126,327,False,False
 2020-03-23,TWN,AS,Taiwan,21.901806,121.471,165,2,,163,,,False,False
 2020-03-23,THA,AS,Thailand,13.036597,101.492515,721,1,,720,,,False,False
 2020-03-23,TGO,AF,Togo,8.621697,0.829685,15,,,15,,,False,False
@@ -2754,7 +2786,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,SDN,AF,Sudan,15.45847,30.217636,2,1,,1,,,False,False
 2020-03-24,SUR,SA,Suriname,3.917845,-56.032028,6,,,6,,,False,False
 2020-03-24,SWE,EU,Sweden,62.199806,17.637493,2272,81,0,2191,0,0,True,True
-2020-03-24,CHE,EU,Switzerland,46.815514,8.224472,10091,150,369,9572,1044,162,False,False
+2020-03-24,CHE,EU,Switzerland,46.815514,8.224472,20877,316,750,19811,2390,340,False,False
 2020-03-24,TWN,AS,Taiwan,21.901806,121.471,195,2,,193,,,False,False
 2020-03-24,THA,AS,Thailand,13.036597,101.492515,827,4,,823,,,False,False
 2020-03-24,TGO,AF,Togo,8.621697,0.829685,18,,,18,,,False,False
@@ -2927,7 +2959,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,SDN,AF,Sudan,15.45847,30.217636,3,1,0,2,,,False,False
 2020-03-25,SUR,SA,Suriname,3.917845,-56.032028,8,0,0,8,,,False,False
 2020-03-25,SWE,EU,Sweden,62.199806,17.637493,2510,106,0,2404,0,0,True,True
-2020-03-25,CHE,EU,Switzerland,46.815514,8.224472,11116,175,444,10497,1123,193,False,False
+2020-03-25,CHE,EU,Switzerland,46.815514,8.224472,22978,376,894,21708,2570,403,False,False
 2020-03-25,TWN,AS,Taiwan,21.901806,121.471,216,2,0,214,,,False,False
 2020-03-25,THA,AS,Thailand,13.036597,101.492515,934,4,0,930,,,False,False
 2020-03-25,TGO,AF,Togo,8.621697,0.829685,18,0,0,18,,,False,False
@@ -3106,7 +3138,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,SDN,AF,Sudan,15.45847,30.217636,3,1,,2,,,False,False
 2020-03-26,SUR,SA,Suriname,3.917845,-56.032028,8,,,8,,,False,False
 2020-03-26,SWE,EU,Sweden,62.199806,17.637493,2806,136,0,2670,0,0,True,True
-2020-03-26,CHE,EU,Switzerland,46.815514,8.224472,12313,221,547,11545,1437,216,False,False
+2020-03-26,CHE,EU,Switzerland,46.815514,8.224472,25220,467,1088,23665,3008,449,False,False
 2020-03-26,TWN,AS,Taiwan,21.901806,121.471,235,2,,233,,,False,False
 2020-03-26,THA,AS,Thailand,13.036597,101.492515,1045,4,,1041,,,False,False
 2020-03-26,TGO,AF,Togo,8.621697,0.829685,23,,,23,,,False,False
@@ -3165,7 +3197,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,SVN,EU,Slovenia,46.145528,14.974541,684,9,54,621,90,25,True,True
 2020-03-27,ESP,EU,Spain,39.896027,-2.487694,75653,4663,8491,62499,35820,4023,True,True
 2020-03-27,SWE,EU,Sweden,62.199806,17.637493,3358,168,0,3190,0,0,True,True
-2020-03-27,CHE,EU,Switzerland,46.815514,8.224472,13543,248,655,12640,1592,235,False,False
+2020-03-27,CHE,EU,Switzerland,46.815514,8.224472,27724,530,1290,25904,3331,487,False,False
 2020-03-27,TUR,AS,Turkey,38.961516,35.25175,3629,75,0,3554,0,0,False,True
 2020-03-27,UKR,EU,Ukraine,48.379888,31.168139,156,5,,151,,,False,False
 2020-03-27,GBR,EU,United Kingdom,54.633221,-3.432277,11857,578,0,11279,0,0,False,True
@@ -3327,7 +3359,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,SDN,AF,Sudan,15.45847,30.217636,3,1,0,2,0,0,False,False
 2020-03-28,SUR,SA,Suriname,3.917845,-56.032028,8,0,0,8,0,0,False,False
 2020-03-28,SWE,EU,Sweden,62.199806,17.637493,3447,203,0,3244,0,239,True,True
-2020-03-28,CHE,EU,Switzerland,46.815514,8.224472,14556,284,735,13537,1701,263,False,False
+2020-03-28,CHE,EU,Switzerland,46.815514,8.224472,29574,617,1472,27485,3527,541,False,False
 2020-03-28,TWN,AS,Taiwan,21.901806,121.471,267,2,0,265,0,0,False,False
 2020-03-28,THA,AS,Thailand,13.036597,101.492515,1136,5,0,1131,0,0,False,False
 2020-03-28,TGO,AF,Togo,8.621697,0.829685,25,1,0,24,0,0,False,False
@@ -3506,7 +3538,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,SDN,AF,Sudan,15.45847,30.217636,5,1,0,4,0,0,False,False
 2020-03-29,SUR,SA,Suriname,3.917845,-56.032028,8,0,0,8,0,0,False,False
 2020-03-29,SWE,EU,Sweden,62.199806,17.637493,3700,241,0,3459,0,255,True,True
-2020-03-29,CHE,EU,Switzerland,46.815514,8.224472,15257,317,801,14139,1770,271,False,False
+2020-03-29,CHE,EU,Switzerland,46.815514,8.224472,30869,698,1608,28563,3710,559,False,False
 2020-03-29,TWN,AS,Taiwan,21.901806,121.471,283,2,0,281,0,0,False,False
 2020-03-29,THA,AS,Thailand,13.036597,101.492515,1245,6,0,1239,0,0,False,False
 2020-03-29,TGO,AF,Togo,8.621697,0.829685,28,1,0,27,0,0,False,False
@@ -3689,7 +3721,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,SDN,AF,Sudan,15.45847,30.217636,5,1,0,4,0,0,False,False
 2020-03-30,SUR,SA,Suriname,3.917845,-56.032028,8,0,0,8,0,0,False,False
 2020-03-30,SWE,EU,Sweden,62.199806,17.637493,4028,283,0,3745,0,306,True,True
-2020-03-30,CHE,EU,Switzerland,46.815514,8.224472,16165,371,939,14855,1980,308,False,False
+2020-03-30,CHE,EU,Switzerland,46.815514,8.224472,32816,809,1888,30119,4061,627,False,False
 2020-03-30,TWN,AS,Taiwan,21.901806,121.471,306,5,0,301,0,0,False,False
 2020-03-30,THA,AS,Thailand,13.036597,101.492515,1388,7,0,1381,0,0,False,False
 2020-03-30,TGO,AF,Togo,8.621697,0.829685,30,1,0,29,0,0,False,False
@@ -3873,7 +3905,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,SDN,AF,Sudan,15.45847,30.217636,6,2,0,4,0,0,False,False
 2020-03-31,SUR,SA,Suriname,3.917845,-56.032028,8,0,0,8,0,0,False,False
 2020-03-31,SWE,EU,Sweden,62.199806,17.637493,4799,326,0,4473,0,393,True,True
-2020-03-31,CHE,EU,Switzerland,46.815514,8.224472,17130,442,1308,15380,2070,342,False,False
+2020-03-31,CHE,EU,Switzerland,46.815514,8.224472,34700,944,2469,31287,4188,684,False,False
 2020-03-31,TWN,AS,Taiwan,21.901806,121.471,306,5,0,301,0,0,False,False
 2020-03-31,THA,AS,Thailand,13.036597,101.492515,1651,10,0,1641,0,0,False,False
 2020-03-31,TGO,AF,Togo,8.621697,0.829685,34,1,0,33,0,0,False,False
@@ -4061,7 +4093,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,SDN,AF,Sudan,15.45847,30.217636,7,2,0,5,0,0,False,False
 2020-04-01,SUR,SA,Suriname,3.917845,-56.032028,10,0,0,10,0,0,False,False
 2020-04-01,SWE,EU,Sweden,62.199806,17.637493,4947,376,0,4571,0,393,True,True
-2020-04-01,CHE,EU,Switzerland,46.815514,8.224472,18014,496,1460,16058,2162,365,False,False
+2020-04-01,CHE,EU,Switzerland,46.815514,8.224472,36573,1060,2740,32773,4351,733,False,False
 2020-04-01,TWN,AS,Taiwan,21.901806,121.471,322,5,0,317,0,0,False,False
 2020-04-01,THA,AS,Thailand,13.036597,101.492515,1651,10,0,1641,0,0,False,False
 2020-04-01,TGO,AF,Togo,8.621697,0.829685,34,1,0,33,0,0,False,False
@@ -4249,7 +4281,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,SDN,AF,Sudan,15.45847,30.217636,7,2,0,5,0,0,False,False
 2020-04-02,SUR,SA,Suriname,3.917845,-56.032028,10,0,0,10,0,0,False,False
 2020-04-02,SWE,EU,Sweden,62.199806,17.637493,5466,444,0,5022,0,429,True,True
-2020-04-02,CHE,EU,Switzerland,46.815514,8.224472,19208,568,1414,17226,2315,393,False,False
+2020-04-02,CHE,EU,Switzerland,46.815514,8.224472,38804,1195,2895,34714,4568,767,False,False
 2020-04-02,TWN,AS,Taiwan,21.901806,121.471,339,5,0,334,0,0,False,False
 2020-04-02,THA,AS,Thailand,13.036597,101.492515,1771,12,0,1759,0,0,False,False
 2020-04-02,TGO,AF,Togo,8.621697,0.829685,36,2,0,34,0,0,False,False
@@ -4438,7 +4470,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,SDN,AF,Sudan,15.45847,30.217636,7,2,0,5,0,0,False,False
 2020-04-03,SUR,SA,Suriname,3.917845,-56.032028,10,0,0,10,0,0,False,False
 2020-04-03,SWE,EU,Sweden,62.199806,17.637493,6078,515,0,5563,0,469,True,True
-2020-04-03,CHE,EU,Switzerland,46.815514,8.224472,20217,629,1750,17838,2316,401,False,False
+2020-04-03,CHE,EU,Switzerland,46.815514,8.224472,40747,1317,3339,36091,4545,780,False,False
 2020-04-03,TWN,AS,Taiwan,21.901806,121.471,339,5,0,334,0,0,False,False
 2020-04-03,THA,AS,Thailand,13.036597,101.492515,1875,15,0,1860,0,0,False,False
 2020-04-03,TGO,AF,Togo,8.621697,0.829685,39,2,0,37,0,0,False,False
@@ -4626,7 +4658,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,SDN,AF,Sudan,15.45847,30.217636,7,2,0,5,0,0,False,False
 2020-04-04,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-04,SWE,EU,Sweden,62.199806,17.637493,6443,576,0,5867,0,520,True,True
-2020-04-04,CHE,EU,Switzerland,46.815514,8.224472,20866,688,1902,18276,2300,398,False,False
+2020-04-04,CHE,EU,Switzerland,46.815514,8.224472,41961,1443,3645,36873,4501,777,False,False
 2020-04-04,TWN,AS,Taiwan,21.901806,121.471,355,5,0,350,0,0,False,False
 2020-04-04,THA,AS,Thailand,13.036597,101.492515,1978,19,0,1959,0,0,False,False
 2020-04-04,TGO,AF,Togo,8.621697,0.829685,40,3,0,37,0,0,False,False
@@ -4814,7 +4846,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,SDN,AF,Sudan,15.45847,30.217636,10,2,0,8,0,0,False,False
 2020-04-05,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-05,SWE,EU,Sweden,62.199806,17.637493,6830,655,0,6175,0,541,True,True
-2020-04-05,CHE,EU,Switzerland,46.815514,8.224472,21353,739,2056,18558,2282,388,False,False
+2020-04-05,CHE,EU,Switzerland,46.815514,8.224472,42841,1546,3962,37333,4485,756,False,False
 2020-04-05,TWN,AS,Taiwan,21.901806,121.471,363,5,0,358,0,0,False,False
 2020-04-05,THA,AS,Thailand,13.036597,101.492515,2169,23,0,2146,0,0,False,False
 2020-04-05,TGO,AF,Togo,8.621697,0.829685,41,3,0,38,0,0,False,False
@@ -5005,7 +5037,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,SDN,AF,Sudan,15.45847,30.217636,12,2,0,10,0,0,False,False
 2020-04-06,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-06,SWE,EU,Sweden,62.199806,17.637493,7206,740,0,6466,0,590,True,True
-2020-04-06,CHE,EU,Switzerland,46.815514,8.224472,21942,793,2178,18971,2317,393,False,False
+2020-04-06,CHE,EU,Switzerland,46.815514,8.224472,44076,1659,4216,38201,4540,763,False,False
 2020-04-06,TWN,AS,Taiwan,21.901806,121.471,363,5,0,358,0,0,False,False
 2020-04-06,THA,AS,Thailand,13.036597,101.492515,2220,26,0,2194,0,0,False,False
 2020-04-06,TGO,AF,Togo,8.621697,0.829685,44,3,0,41,0,0,False,False
@@ -5196,7 +5228,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,SDN,AF,Sudan,15.45847,30.217636,12,2,0,10,0,0,False,False
 2020-04-07,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-07,SWE,EU,Sweden,62.199806,17.637493,7693,815,0,6878,0,640,True,True
-2020-04-07,CHE,EU,Switzerland,46.815514,8.224472,22381,536,2087,19758,1835,301,False,False
+2020-04-07,CHE,EU,Switzerland,46.815514,8.224472,45812,1476,4477,39859,4048,687,False,False
 2020-04-07,TWN,AS,Taiwan,21.901806,121.471,373,5,0,368,0,0,False,False
 2020-04-07,THA,AS,Thailand,13.036597,101.492515,2258,26,0,2232,0,0,False,False
 2020-04-07,TGO,AF,Togo,8.621697,0.829685,58,3,0,55,0,0,False,False
@@ -5387,7 +5419,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,SDN,AF,Sudan,15.45847,30.217636,14,2,0,12,0,0,False,False
 2020-04-08,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-08,SWE,EU,Sweden,62.199806,17.637493,8419,912,0,7507,0,678,True,True
-2020-04-08,CHE,EU,Switzerland,46.815514,8.224472,22405,825,2325,19255,2283,390,False,False
+2020-04-08,CHE,EU,Switzerland,46.815514,8.224472,46514,1832,4934,39748,4349,770,False,False
 2020-04-08,TWN,AS,Taiwan,21.901806,121.471,376,5,0,371,0,0,False,False
 2020-04-08,THA,AS,Thailand,13.036597,101.492515,2369,30,0,2339,0,0,False,False
 2020-04-08,TGO,AF,Togo,8.621697,0.829685,65,3,0,62,0,0,False,False
@@ -5579,7 +5611,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,SDN,AF,Sudan,15.45847,30.217636,14,2,0,12,0,0,False,False
 2020-04-09,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-09,SWE,EU,Sweden,62.199806,17.637493,9141,975,0,8166,0,719,True,True
-2020-04-09,CHE,EU,Switzerland,46.815514,8.224472,23277,898,2742,19637,2145,391,False,False
+2020-04-09,CHE,EU,Switzerland,46.815514,8.224472,47946,1948,5528,40470,4210,773,False,False
 2020-04-09,TWN,AS,Taiwan,21.901806,121.471,379,5,0,374,0,0,False,False
 2020-04-09,THA,AS,Thailand,13.036597,101.492515,2423,32,0,2391,0,0,False,False
 2020-04-09,TGO,AF,Togo,8.621697,0.829685,70,3,0,67,0,0,False,False
@@ -5771,7 +5803,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,SDN,AF,Sudan,15.45847,30.217636,14,2,0,12,0,0,False,False
 2020-04-10,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-10,SWE,EU,Sweden,62.199806,17.637493,9685,1037,0,8648,0,749,True,True
-2020-04-10,CHE,EU,Switzerland,46.815514,8.224472,24504,988,3017,20499,2062,385,False,False
+2020-04-10,CHE,EU,Switzerland,46.815514,8.224472,49683,2097,5893,41693,4058,758,False,False
 2020-04-10,TWN,AS,Taiwan,21.901806,121.471,380,5,0,375,0,0,False,False
 2020-04-10,THA,AS,Thailand,13.036597,101.492515,2473,33,0,2440,0,0,False,False
 2020-04-10,TGO,AF,Togo,8.621697,0.829685,73,3,0,70,0,0,False,False
@@ -5963,7 +5995,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,SDN,AF,Sudan,15.45847,30.217636,15,2,0,13,0,0,False,False
 2020-04-11,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-11,SWE,EU,Sweden,62.199806,17.637493,10151,1098,0,9053,0,789,True,True
-2020-04-11,CHE,EU,Switzerland,46.815514,8.224472,24671,1000,3065,20606,2050,383,False,False
+2020-04-11,CHE,EU,Switzerland,46.815514,8.224472,50334,2149,6098,42087,3793,737,False,False
 2020-04-11,TWN,AS,Taiwan,21.901806,121.471,380,5,0,375,0,0,False,False
 2020-04-11,THA,AS,Thailand,13.036597,101.492515,2518,35,0,2483,0,0,False,False
 2020-04-11,TGO,AF,Togo,8.621697,0.829685,76,3,0,73,0,0,False,False
@@ -6024,7 +6056,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,SVN,EU,Slovenia,46.145528,14.974541,1197,55,150,992,95,34,True,True
 2020-04-12,ESP,EU,Spain,39.896027,-2.487694,171964,16505,57026,98433,69867,6913,True,True
 2020-04-12,SWE,EU,Sweden,62.199806,17.637493,10483,1160,0,9323,0,839,True,True
-2020-04-12,CHE,EU,Switzerland,46.815514,8.224472,25177,1051,3241,20885,1975,386,False,False
+2020-04-12,CHE,EU,Switzerland,46.815514,8.224472,51090,2258,6371,42461,3873,750,False,False
 2020-04-12,TUR,AS,Turkey,38.961516,35.25175,52167,1101,0,51066,0,0,False,True
 2020-04-12,UKR,EU,Ukraine,48.379888,31.168139,2511,73,,2438,,,False,False
 2020-04-12,GBR,EU,United Kingdom,54.633221,-3.432277,84279,10612,0,73667,0,0,False,True
@@ -6199,7 +6231,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,SDN,AF,Sudan,15.45847,30.217636,19,2,0,17,0,0,False,False
 2020-04-13,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-13,SWE,EU,Sweden,62.199806,17.637493,11321,1215,0,10106,0,915,True,True
-2020-04-13,CHE,EU,Switzerland,46.815514,8.224472,25336,1109,3323,20904,1924,373,False,False
+2020-04-13,CHE,EU,Switzerland,46.815514,8.224472,51485,2349,6536,42600,3717,719,False,False
 2020-04-13,TWN,AS,Taiwan,21.901806,121.471,388,6,0,382,0,0,False,False
 2020-04-13,THA,AS,Thailand,13.036597,101.492515,2579,40,0,2539,0,0,False,False
 2020-04-13,TGO,AF,Togo,8.621697,0.829685,76,3,0,73,0,0,False,False
@@ -6390,7 +6422,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,SDN,AF,Sudan,15.45847,30.217636,29,4,0,25,0,0,False,False
 2020-04-14,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-14,SWE,EU,Sweden,62.199806,17.637493,11445,1264,0,10181,0,915,True,True
-2020-04-14,CHE,EU,Switzerland,46.815514,8.224472,25906,1157,3437,21312,1904,357,False,False
+2020-04-14,CHE,EU,Switzerland,46.815514,8.224472,52411,2437,6817,43157,3743,699,False,False
 2020-04-14,TWN,AS,Taiwan,21.901806,121.471,393,6,0,387,0,0,False,False
 2020-04-14,THA,AS,Thailand,13.036597,101.492515,2613,41,0,2572,0,0,False,False
 2020-04-14,TGO,AF,Togo,8.621697,0.829685,77,3,0,74,0,0,False,False
@@ -6577,7 +6609,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,SDN,AF,Sudan,15.45847,30.217636,32,5,0,27,0,0,False,False
 2020-04-15,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-15,SWE,EU,Sweden,62.199806,17.637493,11927,1203,0,10724,0,954,True,True
-2020-04-15,CHE,EU,Switzerland,46.815514,8.224472,26177,1214,3605,21358,1844,350,False,False
+2020-04-15,CHE,EU,Switzerland,46.815514,8.224472,53004,2549,7155,43300,3557,672,False,False
 2020-04-15,TWN,AS,Taiwan,21.901806,121.471,395,6,0,389,0,0,False,False
 2020-04-15,THA,AS,Thailand,13.036597,101.492515,2643,43,0,2600,0,0,False,False
 2020-04-15,TGO,AF,Togo,8.621697,0.829685,77,3,0,74,0,0,False,False
@@ -6767,7 +6799,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,SDN,AF,Sudan,15.45847,30.217636,32,5,0,27,0,0,False,False
 2020-04-16,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-16,SWE,EU,Sweden,62.199806,17.637493,12540,1333,0,11207,0,996,True,True
-2020-04-16,CHE,EU,Switzerland,46.815514,8.224472,26567,1277,3839,21451,1750,320,False,False
+2020-04-16,CHE,EU,Switzerland,46.815514,8.224472,53697,2660,7552,43485,3406,622,False,False
 2020-04-16,TWN,AS,Taiwan,21.901806,121.471,395,6,0,389,0,0,False,False
 2020-04-16,THA,AS,Thailand,13.036597,101.492515,2672,46,0,2626,0,0,False,False
 2020-04-16,TGO,AF,Togo,8.621697,0.829685,81,3,0,78,0,0,False,False
@@ -6958,7 +6990,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,SDN,AF,Sudan,15.45847,30.217636,32,5,0,27,0,0,False,False
 2020-04-17,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-17,SWE,EU,Sweden,62.199806,17.637493,13216,1400,0,11816,0,1024,True,True
-2020-04-17,CHE,EU,Switzerland,46.815514,8.224472,26864,1307,3958,21599,1651,311,False,False
+2020-04-17,CHE,EU,Switzerland,46.815514,8.224472,54297,2739,7782,43776,3208,606,False,False
 2020-04-17,TWN,AS,Taiwan,21.901806,121.471,395,6,0,389,0,0,False,False
 2020-04-17,THA,AS,Thailand,13.036597,101.492515,2700,47,0,2653,0,0,False,False
 2020-04-17,TGO,AF,Togo,8.621697,0.829685,81,5,0,76,0,0,False,False
@@ -7151,7 +7183,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,SDN,AF,Sudan,15.45847,30.217636,32,5,0,27,0,0,False,False
 2020-04-18,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-18,SWE,EU,Sweden,62.199806,17.637493,13822,1511,0,12311,0,1054,True,True
-2020-04-18,CHE,EU,Switzerland,46.815514,8.224472,27125,1345,4048,21732,1625,301,False,False
+2020-04-18,CHE,EU,Switzerland,46.815514,8.224472,54808,2817,7988,44003,3129,585,False,False
 2020-04-18,TWN,AS,Taiwan,21.901806,121.471,395,6,0,389,0,0,False,False
 2020-04-18,THA,AS,Thailand,13.036597,101.492515,2700,47,0,2653,0,0,False,False
 2020-04-18,TGO,AF,Togo,8.621697,0.829685,83,5,0,78,0,0,False,False
@@ -7344,7 +7376,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,SDN,AF,Sudan,15.45847,30.217636,66,10,0,56,0,0,False,False
 2020-04-19,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-19,SWE,EU,Sweden,62.199806,17.637493,14385,1540,0,12845,0,1079,True,True
-2020-04-19,CHE,EU,Switzerland,46.815514,8.224472,27314,1375,4118,21821,1590,282,False,False
+2020-04-19,CHE,EU,Switzerland,46.815514,8.224472,55157,2873,8110,44174,3080,556,False,False
 2020-04-19,TWN,AS,Taiwan,21.901806,121.471,398,6,0,392,0,0,False,False
 2020-04-19,THA,AS,Thailand,13.036597,101.492515,2733,47,0,2686,0,0,False,False
 2020-04-19,TGO,AF,Togo,8.621697,0.829685,84,5,0,79,0,0,False,False
@@ -7537,7 +7569,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,SDN,AF,Sudan,15.45847,30.217636,66,10,0,56,0,0,False,False
 2020-04-20,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-20,SWE,EU,Sweden,62.199806,17.637493,14777,1580,0,13197,0,1133,True,True
-2020-04-20,CHE,EU,Switzerland,46.815514,8.224472,27527,1407,4188,21932,1534,278,False,False
+2020-04-20,CHE,EU,Switzerland,46.815514,8.224472,55613,2949,8320,44344,2995,539,False,False
 2020-04-20,TWN,AS,Taiwan,21.901806,121.471,420,6,0,414,0,0,False,False
 2020-04-20,THA,AS,Thailand,13.036597,101.492515,2765,47,0,2718,0,0,False,False
 2020-04-20,TGO,AF,Togo,8.621697,0.829685,84,5,0,79,0,0,False,False
@@ -7729,7 +7761,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,SDN,AF,Sudan,15.45847,30.217636,92,12,0,80,0,0,False,False
 2020-04-21,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-21,SWE,EU,Sweden,62.199806,17.637493,15322,1765,0,13557,0,1158,True,True
-2020-04-21,CHE,EU,Switzerland,46.815514,8.224472,27705,1444,4332,21929,1528,272,False,False
+2020-04-21,CHE,EU,Switzerland,46.815514,8.224472,55958,3029,8584,44345,2923,519,False,False
 2020-04-21,TWN,AS,Taiwan,21.901806,121.471,422,6,0,416,0,0,False,False
 2020-04-21,THA,AS,Thailand,13.036597,101.492515,2792,47,0,2745,0,0,False,False
 2020-04-21,TGO,AF,Togo,8.621697,0.829685,84,6,0,78,0,0,False,False
@@ -7922,7 +7954,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,SDN,AF,Sudan,15.45847,30.217636,107,12,0,95,0,0,False,False
 2020-04-22,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-22,SWE,EU,Sweden,62.199806,17.637493,16554,1937,0,14617,0,1182,True,True
-2020-04-22,CHE,EU,Switzerland,46.815514,8.224472,27799,1487,4468,21844,1446,248,False,False
+2020-04-22,CHE,EU,Switzerland,46.815514,8.224472,56255,3102,8831,44322,2741,456,False,False
 2020-04-22,TWN,AS,Taiwan,21.901806,121.471,425,6,0,419,0,0,False,False
 2020-04-22,THA,AS,Thailand,13.036597,101.492515,2811,48,0,2763,0,0,False,False
 2020-04-22,TGO,AF,Togo,8.621697,0.829685,86,6,0,80,0,0,False,False
@@ -8114,7 +8146,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,SDN,AF,Sudan,15.45847,30.217636,140,13,0,127,0,0,False,False
 2020-04-23,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-23,SWE,EU,Sweden,62.199806,17.637493,17312,2021,0,15291,0,1217,True,True
-2020-04-23,CHE,EU,Switzerland,46.815514,8.224472,28058,1520,4547,21991,1366,212,False,False
+2020-04-23,CHE,EU,Switzerland,46.815514,8.224472,56734,3166,9005,44563,2647,417,False,False
 2020-04-23,TWN,AS,Taiwan,21.901806,121.471,426,6,0,420,0,0,False,False
 2020-04-23,THA,AS,Thailand,13.036597,101.492515,2839,50,0,2789,0,0,False,False
 2020-04-23,TGO,AF,Togo,8.621697,0.829685,88,6,0,82,0,0,False,False
@@ -8306,7 +8338,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,SDN,AF,Sudan,15.45847,30.217636,162,13,0,149,0,0,False,False
 2020-04-24,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-24,SWE,EU,Sweden,62.199806,17.637493,18098,2152,0,15946,0,1256,True,True
-2020-04-24,CHE,EU,Switzerland,46.815514,8.224472,28216,1559,4645,22012,1306,203,False,False
+2020-04-24,CHE,EU,Switzerland,46.815514,8.224472,57074,3235,9178,44661,2504,402,False,False
 2020-04-24,TWN,AS,Taiwan,21.901806,121.471,427,6,0,421,0,0,False,False
 2020-04-24,THA,AS,Thailand,13.036597,101.492515,2839,50,0,2789,0,0,False,False
 2020-04-24,TGO,AF,Togo,8.621697,0.829685,88,6,0,82,0,0,False,False
@@ -8498,7 +8530,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,SDN,AF,Sudan,15.45847,30.217636,174,16,0,158,0,0,False,False
 2020-04-25,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-25,SWE,EU,Sweden,62.199806,17.637493,18571,2192,0,16379,0,1280,True,True
-2020-04-25,CHE,EU,Switzerland,46.815514,8.224472,28336,1594,4482,22260,1271,202,False,False
+2020-04-25,CHE,EU,Switzerland,46.815514,8.224472,57329,3295,9062,44972,2478,402,False,False
 2020-04-25,TWN,AS,Taiwan,21.901806,121.471,428,6,0,422,0,0,False,False
 2020-04-25,THA,AS,Thailand,13.036597,101.492515,2854,50,0,2804,0,0,False,False
 2020-04-25,TGO,AF,Togo,8.621697,0.829685,90,6,0,84,0,0,False,False
@@ -8691,7 +8723,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,SDN,AF,Sudan,15.45847,30.217636,213,17,0,196,0,0,False,False
 2020-04-26,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-26,SWE,EU,Sweden,62.199806,17.637493,18871,2194,0,16677,0,1315,True,True
-2020-04-26,CHE,EU,Switzerland,46.815514,8.224472,28408,1602,4519,22287,1251,199,False,False
+2020-04-26,CHE,EU,Switzerland,46.815514,8.224472,57482,3321,9126,45035,2436,388,False,False
 2020-04-26,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-04-26,THA,AS,Thailand,13.036597,101.492515,2922,51,0,2871,0,0,False,False
 2020-04-26,TGO,AF,Togo,8.621697,0.829685,96,6,0,90,0,0,False,False
@@ -8885,7 +8917,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,SDN,AF,Sudan,15.45847,30.217636,237,21,0,216,0,0,False,False
 2020-04-27,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-27,SWE,EU,Sweden,62.199806,17.637493,19447,2274,0,17173,0,1353,True,True
-2020-04-27,CHE,EU,Switzerland,46.815514,8.224472,28474,1611,4542,22321,1224,190,False,False
+2020-04-27,CHE,EU,Switzerland,46.815514,8.224472,57708,3352,9227,45129,2384,375,False,False
 2020-04-27,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-04-27,THA,AS,Thailand,13.036597,101.492515,2922,51,0,2871,0,0,False,False
 2020-04-27,TGO,AF,Togo,8.621697,0.829685,98,6,0,92,0,0,False,False
@@ -9079,7 +9111,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,SDN,AF,Sudan,15.45847,30.217636,275,22,0,253,0,0,False,False
 2020-04-28,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-28,SWE,EU,Sweden,62.199806,17.637493,20208,2355,0,17853,0,1388,True,True
-2020-04-28,CHE,EU,Switzerland,46.815514,8.224472,28688,1684,4646,22358,1201,181,False,False
+2020-04-28,CHE,EU,Switzerland,46.815514,8.224472,58047,3450,9374,45223,2340,351,False,False
 2020-04-28,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-04-28,THA,AS,Thailand,13.036597,101.492515,2938,54,0,2884,0,0,False,False
 2020-04-28,TGO,AF,Togo,8.621697,0.829685,99,6,0,93,0,0,False,False
@@ -9272,7 +9304,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,SDN,AF,Sudan,15.45847,30.217636,318,25,0,293,0,0,False,False
 2020-04-29,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-29,SWE,EU,Sweden,62.199806,17.637493,21038,2462,0,18576,0,1435,True,True
-2020-04-29,CHE,EU,Switzerland,46.815514,8.224472,28752,1703,4680,22369,1154,180,False,False
+2020-04-29,CHE,EU,Switzerland,46.815514,8.224472,58257,3480,9478,45299,2211,353,False,False
 2020-04-29,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-04-29,THA,AS,Thailand,13.036597,101.492515,2938,54,0,2884,0,0,False,False
 2020-04-29,TGO,AF,Togo,8.621697,0.829685,99,6,0,93,0,0,False,False
@@ -9466,7 +9498,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,SDN,AF,Sudan,15.45847,30.217636,375,28,0,347,0,0,False,False
 2020-04-30,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-04-30,SWE,EU,Sweden,62.199806,17.637493,21716,2586,0,19130,0,1476,True,True
-2020-04-30,CHE,EU,Switzerland,46.815514,8.224472,28847,1717,4750,22380,1110,167,False,False
+2020-04-30,CHE,EU,Switzerland,46.815514,8.224472,58497,3512,9633,45352,2089,325,False,False
 2020-04-30,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-04-30,THA,AS,Thailand,13.036597,101.492515,2954,54,0,2900,0,0,False,False
 2020-04-30,TGO,AF,Togo,8.621697,0.829685,109,7,0,102,0,0,False,False
@@ -9659,7 +9691,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,SDN,AF,Sudan,15.45847,30.217636,442,31,0,411,0,0,False,False
 2020-05-01,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-01,SWE,EU,Sweden,62.199806,17.637493,22248,2653,0,19595,0,1515,True,True
-2020-05-01,CHE,EU,Switzerland,46.815514,8.224472,28970,1739,4819,22412,1013,164,False,False
+2020-05-01,CHE,EU,Switzerland,46.815514,8.224472,58733,3550,9782,45401,1934,309,False,False
 2020-05-01,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-05-01,TJK,AS,Tajikistan,,,15,0,0,15,0,0,False,False
 2020-05-01,THA,AS,Thailand,13.036597,101.492515,2960,54,0,2906,0,0,False,False
@@ -9854,7 +9886,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,SDN,AF,Sudan,15.45847,30.217636,442,31,0,411,0,0,False,False
 2020-05-02,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-02,SWE,EU,Sweden,62.199806,17.637493,22546,2669,0,19877,0,1531,True,True
-2020-05-02,CHE,EU,Switzerland,46.815514,8.224472,29047,1755,4899,22393,953,145,False,False
+2020-05-02,CHE,EU,Switzerland,46.815514,8.224472,58876,3581,9890,45405,1824,284,False,False
 2020-05-02,TWN,AS,Taiwan,21.901806,121.471,429,6,0,423,0,0,False,False
 2020-05-02,TJK,AS,Tajikistan,,,15,0,0,15,0,0,False,False
 2020-05-02,THA,AS,Thailand,13.036597,101.492515,2960,54,0,2906,0,0,False,False
@@ -10049,7 +10081,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,SDN,AF,Sudan,15.45847,30.217636,592,41,0,551,0,0,False,False
 2020-05-03,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-03,SWE,EU,Sweden,62.199806,17.637493,22808,2679,0,20129,0,1543,True,True
-2020-05-03,CHE,EU,Switzerland,46.815514,8.224472,29102,1763,4927,22412,935,143,False,False
+2020-05-03,CHE,EU,Switzerland,46.815514,8.224472,58986,3597,9936,45453,1804,280,False,False
 2020-05-03,TWN,AS,Taiwan,21.901806,121.471,432,6,0,426,0,0,False,False
 2020-05-03,TJK,AS,Tajikistan,,,32,0,0,32,0,0,False,False
 2020-05-03,THA,AS,Thailand,13.036597,101.492515,2966,54,0,2912,0,0,False,False
@@ -10245,7 +10277,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,SDN,AF,Sudan,15.45847,30.217636,678,41,0,637,0,0,False,False
 2020-05-04,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-04,SWE,EU,Sweden,62.199806,17.637493,23309,2769,0,20540,0,1572,True,True
-2020-05-04,CHE,EU,Switzerland,46.815514,8.224472,29151,1765,4938,22448,926,142,False,False
+2020-05-04,CHE,EU,Switzerland,46.815514,8.224472,59112,3606,10012,45494,1770,267,False,False
 2020-05-04,TWN,AS,Taiwan,21.901806,121.471,436,6,0,430,0,0,False,False
 2020-05-04,TJK,AS,Tajikistan,,,76,2,0,74,0,0,False,False
 2020-05-04,THA,AS,Thailand,13.036597,101.492515,2969,54,0,2915,0,0,False,False
@@ -10441,7 +10473,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,SDN,AF,Sudan,15.45847,30.217636,678,41,0,637,0,0,False,False
 2020-05-05,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-05,SWE,EU,Sweden,62.199806,17.637493,23971,2854,0,21117,0,1604,True,True
-2020-05-05,CHE,EU,Switzerland,46.815514,8.224472,29376,1786,5016,22574,886,127,False,False
+2020-05-05,CHE,EU,Switzerland,46.815514,8.224472,59396,3640,10120,45636,1702,250,False,False
 2020-05-05,TWN,AS,Taiwan,21.901806,121.471,438,6,0,432,0,0,False,False
 2020-05-05,TJK,AS,Tajikistan,,,230,3,0,227,0,0,False,False
 2020-05-05,THA,AS,Thailand,13.036597,101.492515,2987,54,0,2933,0,0,False,False
@@ -10637,7 +10669,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,SDN,AF,Sudan,15.45847,30.217636,778,45,0,733,0,0,False,False
 2020-05-06,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-06,SWE,EU,Sweden,62.199806,17.637493,24722,2941,0,21781,0,1620,True,True
-2020-05-06,CHE,EU,Switzerland,46.815514,8.224472,29419,1796,4796,22827,856,122,False,False
+2020-05-06,CHE,EU,Switzerland,46.815514,8.224472,59524,3656,9990,45878,1643,242,False,False
 2020-05-06,TWN,AS,Taiwan,21.901806,121.471,438,6,0,432,0,0,False,False
 2020-05-06,TJK,AS,Tajikistan,,,293,5,0,288,0,0,False,False
 2020-05-06,THA,AS,Thailand,13.036597,101.492515,2988,54,0,2934,0,0,False,False
@@ -10833,7 +10865,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,SDN,AF,Sudan,15.45847,30.217636,852,49,0,803,0,0,False,False
 2020-05-07,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-07,SWE,EU,Sweden,62.199806,17.637493,25543,3040,0,22503,0,1645,True,True
-2020-05-07,CHE,EU,Switzerland,46.815514,8.224472,29486,1806,4898,22782,822,113,False,False
+2020-05-07,CHE,EU,Switzerland,46.815514,8.224472,59661,3677,10143,45841,1555,227,False,False
 2020-05-07,TWN,AS,Taiwan,21.901806,121.471,439,6,0,433,0,0,False,False
 2020-05-07,TJK,AS,Tajikistan,,,379,8,0,371,0,0,False,False
 2020-05-07,THA,AS,Thailand,13.036597,101.492515,2989,55,0,2934,0,0,False,False
@@ -11029,7 +11061,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,SDN,AF,Sudan,15.45847,30.217636,930,52,0,878,0,0,False,False
 2020-05-08,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-08,SWE,EU,Sweden,62.199806,17.637493,26256,3175,0,23081,0,1672,True,True
-2020-05-08,CHE,EU,Switzerland,46.815514,8.224472,29545,1811,4926,22808,790,112,False,False
+2020-05-08,CHE,EU,Switzerland,46.815514,8.224472,59782,3689,10233,45860,1478,214,False,False
 2020-05-08,TWN,AS,Taiwan,21.901806,121.471,440,6,0,434,0,0,False,False
 2020-05-08,TJK,AS,Tajikistan,,,461,12,0,449,0,0,False,False
 2020-05-08,THA,AS,Thailand,13.036597,101.492515,2992,55,0,2937,0,0,False,False
@@ -11224,7 +11256,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,SDN,AF,Sudan,15.45847,30.217636,1111,59,0,1052,0,0,False,False
 2020-05-09,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-09,SWE,EU,Sweden,62.199806,17.637493,26765,3220,0,23545,0,1693,True,True
-2020-05-09,CHE,EU,Switzerland,46.815514,8.224472,29628,1831,4994,22803,691,99,False,False
+2020-05-09,CHE,EU,Switzerland,46.815514,8.224472,59908,3719,10344,45845,1317,191,False,False
 2020-05-09,TWN,AS,Taiwan,21.901806,121.471,440,6,0,434,0,0,False,False
 2020-05-09,TJK,AS,Tajikistan,,,522,12,0,510,0,0,False,False
 2020-05-09,THA,AS,Thailand,13.036597,101.492515,3000,55,0,2945,0,0,False,False
@@ -11418,7 +11450,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,SDN,AF,Sudan,15.45847,30.217636,1164,64,0,1100,0,0,False,False
 2020-05-10,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-10,SWE,EU,Sweden,62.199806,17.637493,27043,3225,0,23818,0,1723,True,True
-2020-05-10,CHE,EU,Switzerland,46.815514,8.224472,29628,1831,5017,22780,691,99,False,False
+2020-05-10,CHE,EU,Switzerland,46.815514,8.224472,59937,3728,10384,45825,1303,184,False,False
 2020-05-10,TWN,AS,Taiwan,21.901806,121.471,440,6,0,434,0,0,False,False
 2020-05-10,TJK,AS,Tajikistan,,,612,20,0,592,0,0,False,False
 2020-05-10,THA,AS,Thailand,13.036597,101.492515,3004,56,0,2948,0,0,False,False
@@ -11614,7 +11646,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,SDN,AF,Sudan,15.45847,30.217636,1363,70,0,1293,0,0,False,False
 2020-05-11,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-11,SWE,EU,Sweden,62.199806,17.637493,27529,3256,0,24273,0,1738,True,True
-2020-05-11,CHE,EU,Switzerland,46.815514,8.224472,29669,1834,5034,22801,673,95,False,False
+2020-05-11,CHE,EU,Switzerland,46.815514,8.224472,60051,3737,10456,45858,1304,181,False,False
 2020-05-11,TWN,AS,Taiwan,21.901806,121.471,440,6,0,434,0,0,False,False
 2020-05-11,TJK,AS,Tajikistan,,,612,20,0,592,0,0,False,False
 2020-05-11,THA,AS,Thailand,13.036597,101.492515,3015,56,0,2959,0,0,False,False
@@ -11796,7 +11828,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,SDN,AF,Sudan,15.45847,30.217636,1526,74,0,1452,0,0,False,False
 2020-05-12,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-12,SWE,EU,Sweden,62.199806,17.637493,28329,3313,0,25016,0,1765,True,True
-2020-05-12,CHE,EU,Switzerland,46.815514,8.224472,29726,1846,5103,22777,650,84,False,False
+2020-05-12,CHE,EU,Switzerland,46.815514,8.224472,60158,3755,10567,45836,1283,164,False,False
 2020-05-12,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-12,TJK,AS,Tajikistan,,,661,21,0,640,0,0,False,False
 2020-05-12,THA,AS,Thailand,13.036597,101.492515,3015,56,0,2959,0,0,False,False
@@ -11992,7 +12024,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,SDN,AF,Sudan,15.45847,30.217636,1661,80,0,1581,0,0,False,False
 2020-05-13,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-13,SWE,EU,Sweden,62.199806,17.637493,29050,3460,0,25590,0,1768,True,True
-2020-05-13,CHE,EU,Switzerland,46.815514,8.224472,29760,1868,5142,22750,650,80,False,False
+2020-05-13,CHE,EU,Switzerland,46.815514,8.224472,60230,3781,10642,45807,1229,157,False,False
 2020-05-13,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-13,TJK,AS,Tajikistan,,,729,23,0,706,0,0,False,False
 2020-05-13,THA,AS,Thailand,13.036597,101.492515,3017,56,0,2961,0,0,False,False
@@ -12186,7 +12218,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,SDN,AF,Sudan,15.45847,30.217636,1818,90,0,1728,0,0,False,False
 2020-05-14,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-14,SWE,EU,Sweden,62.199806,17.637493,29736,3529,0,26207,0,1783,True,True
-2020-05-14,CHE,EU,Switzerland,46.815514,8.224472,29901,1871,5173,22857,601,74,False,False
+2020-05-14,CHE,EU,Switzerland,46.815514,8.224472,60412,3788,10716,45908,1143,149,False,False
 2020-05-14,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-14,TJK,AS,Tajikistan,,,801,23,0,778,0,0,False,False
 2020-05-14,THA,AS,Thailand,13.036597,101.492515,3017,56,0,2961,0,0,False,False
@@ -12382,7 +12414,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,SDN,AF,Sudan,15.45847,30.217636,1964,91,0,1873,0,0,False,False
 2020-05-15,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-15,SWE,EU,Sweden,62.199806,17.637493,30447,3646,0,26801,0,1800,True,True
-2020-05-15,CHE,EU,Switzerland,46.815514,8.224472,29932,1873,5204,22855,577,71,False,False
+2020-05-15,CHE,EU,Switzerland,46.815514,8.224472,60487,3795,10766,45926,1087,140,False,False
 2020-05-15,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-15,TJK,AS,Tajikistan,,,907,29,0,878,0,0,False,False
 2020-05-15,THA,AS,Thailand,13.036597,101.492515,3018,56,0,2962,0,0,False,False
@@ -12576,7 +12608,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,SDN,AF,Sudan,15.45847,30.217636,1964,91,0,1873,0,0,False,False
 2020-05-16,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-16,SWE,EU,Sweden,62.199806,17.637493,30805,3674,0,27131,0,1833,True,True
-2020-05-16,CHE,EU,Switzerland,46.815514,8.224472,29970,1880,5231,22859,536,68,False,False
+2020-05-16,CHE,EU,Switzerland,46.815514,8.224472,60555,3802,10814,45939,1004,133,False,False
 2020-05-16,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-16,TJK,AS,Tajikistan,,,1118,33,0,1085,0,0,False,False
 2020-05-16,THA,AS,Thailand,13.036597,101.492515,3025,56,0,2969,0,0,False,False
@@ -12772,7 +12804,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,SDN,AF,Sudan,15.45847,30.217636,1964,91,0,1873,0,0,False,False
 2020-05-17,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-17,SWE,EU,Sweden,62.199806,17.637493,31064,3679,0,27385,0,1842,True,True
-2020-05-17,CHE,EU,Switzerland,46.815514,8.224472,29990,1880,5238,22872,532,69,False,False
+2020-05-17,CHE,EU,Switzerland,46.815514,8.224472,60591,3807,10830,45954,1002,132,False,False
 2020-05-17,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-17,TJK,AS,Tajikistan,,,1322,36,0,1286,0,0,False,False
 2020-05-17,THA,AS,Thailand,13.036597,101.492515,3028,56,0,2972,0,0,False,False
@@ -12969,7 +13001,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,SDN,AF,Sudan,15.45847,30.217636,2289,97,0,2192,0,0,False,False
 2020-05-18,SUR,SA,Suriname,3.917845,-56.032028,10,1,0,9,0,0,False,False
 2020-05-18,SWE,EU,Sweden,62.199806,17.637493,31521,3698,0,27823,0,1853,True,True
-2020-05-18,CHE,EU,Switzerland,46.815514,8.224472,30010,1883,5253,22874,522,66,False,False
+2020-05-18,CHE,EU,Switzerland,46.815514,8.224472,60647,3816,10867,45964,996,125,False,False
 2020-05-18,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-18,TJK,AS,Tajikistan,,,1524,39,0,1485,0,0,False,False
 2020-05-18,THA,AS,Thailand,13.036597,101.492515,3028,56,0,2972,0,0,False,False
@@ -13165,7 +13197,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,SDN,AF,Sudan,15.45847,30.217636,2591,105,0,2486,0,0,False,False
 2020-05-19,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-19,SWE,EU,Sweden,62.199806,17.637493,32210,3743,0,28467,0,1873,True,True
-2020-05-19,CHE,EU,Switzerland,46.815514,8.224472,30659,1892,5308,23459,484,60,False,False
+2020-05-19,CHE,EU,Switzerland,46.815514,8.224472,61319,3827,10957,46535,787,119,False,False
 2020-05-19,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-19,TJK,AS,Tajikistan,,,1729,41,0,1688,0,0,False,False
 2020-05-19,THA,AS,Thailand,13.036597,101.492515,3031,56,0,2975,0,0,False,False
@@ -13362,7 +13394,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,SDN,AF,Sudan,15.45847,30.217636,2591,105,0,2486,0,0,False,False
 2020-05-20,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-20,SWE,EU,Sweden,62.199806,17.637493,33035,3831,0,29204,0,1886,True,True
-2020-05-20,CHE,EU,Switzerland,46.815514,8.224472,30669,1893,5309,23467,487,60,False,False
+2020-05-20,CHE,EU,Switzerland,46.815514,8.224472,61370,3829,10977,46564,757,109,False,False
 2020-05-20,TWN,AS,Taiwan,21.901806,121.471,440,7,0,433,0,0,False,False
 2020-05-20,TJK,AS,Tajikistan,,,1729,41,0,1688,0,0,False,False
 2020-05-20,THA,AS,Thailand,13.036597,101.492515,3034,56,0,2978,0,0,False,False
@@ -13557,7 +13589,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,SDN,AF,Sudan,15.45847,30.217636,2728,111,0,2617,0,0,False,False
 2020-05-21,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-21,SWE,EU,Sweden,62.199806,17.637493,33649,3871,0,29778,0,1899,True,True
-2020-05-21,CHE,EU,Switzerland,46.815514,8.224472,30695,1894,5322,23479,478,57,False,False
+2020-05-21,CHE,EU,Switzerland,46.815514,8.224472,61423,3834,11016,46573,739,104,False,False
 2020-05-21,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-21,TJK,AS,Tajikistan,,,1936,44,0,1892,0,0,False,False
 2020-05-21,THA,AS,Thailand,13.036597,101.492515,3034,56,0,2978,0,0,False,False
@@ -13754,7 +13786,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,SDN,AF,Sudan,15.45847,30.217636,3138,121,0,3017,0,0,False,False
 2020-05-22,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-22,SWE,EU,Sweden,62.199806,17.637493,34178,3925,0,30253,0,1906,True,True
-2020-05-22,CHE,EU,Switzerland,46.815514,8.224472,30702,1899,5347,23456,460,54,False,False
+2020-05-22,CHE,EU,Switzerland,46.815514,8.224472,61448,3841,11050,46557,687,96,False,False
 2020-05-22,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-22,TJK,AS,Tajikistan,,,2140,44,0,2096,0,0,False,False
 2020-05-22,THA,AS,Thailand,13.036597,101.492515,3037,56,0,2981,0,0,False,False
@@ -13949,7 +13981,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,SDN,AF,Sudan,15.45847,30.217636,3378,137,0,3241,0,0,False,False
 2020-05-23,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-23,SWE,EU,Sweden,62.199806,17.637493,34581,3992,0,30589,0,1929,True,True
-2020-05-23,CHE,EU,Switzerland,46.815514,8.224472,30729,1905,5359,23465,446,54,False,False
+2020-05-23,CHE,EU,Switzerland,46.815514,8.224472,61495,3848,11073,46574,668,100,False,False
 2020-05-23,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-23,TJK,AS,Tajikistan,,,2350,44,0,2306,0,0,False,False
 2020-05-23,THA,AS,Thailand,13.036597,101.492515,3040,56,0,2984,0,0,False,False
@@ -14144,7 +14176,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,SDN,AF,Sudan,15.45847,30.217636,3628,146,0,3482,0,0,False,False
 2020-05-24,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-24,SWE,EU,Sweden,62.199806,17.637493,34791,3998,0,30793,0,1936,True,True
-2020-05-24,CHE,EU,Switzerland,46.815514,8.224472,30733,1906,5361,23466,439,55,False,False
+2020-05-24,CHE,EU,Switzerland,46.815514,8.224472,61509,3850,11078,46581,666,97,False,False
 2020-05-24,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-24,TJK,AS,Tajikistan,,,2551,44,0,2507,0,0,False,False
 2020-05-24,THA,AS,Thailand,13.036597,101.492515,3040,56,0,2984,0,0,False,False
@@ -14341,7 +14373,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,SDN,AF,Sudan,15.45847,30.217636,3634,146,0,3488,0,0,False,False
 2020-05-25,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-25,SWE,EU,Sweden,62.199806,17.637493,35296,4029,0,31267,0,1957,True,True
-2020-05-25,CHE,EU,Switzerland,46.815514,8.224472,30740,1907,5366,23467,437,52,False,False
+2020-05-25,CHE,EU,Switzerland,46.815514,8.224472,61527,3855,11112,46560,679,95,False,False
 2020-05-25,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-25,TJK,AS,Tajikistan,,,2738,44,0,2694,0,0,False,False
 2020-05-25,THA,AS,Thailand,13.036597,101.492515,3042,57,0,2985,0,0,False,False
@@ -14538,7 +14570,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,SDN,AF,Sudan,15.45847,30.217636,3826,165,0,3661,0,0,False,False
 2020-05-26,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-26,SWE,EU,Sweden,62.199806,17.637493,36053,4125,0,31928,0,1987,True,True
-2020-05-26,CHE,EU,Switzerland,46.815514,8.224472,30769,1914,5406,23449,416,47,False,False
+2020-05-26,CHE,EU,Switzerland,46.815514,8.224472,61575,3862,11164,46549,649,88,False,False
 2020-05-26,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-26,TJK,AS,Tajikistan,,,3100,46,0,3054,0,0,False,False
 2020-05-26,THA,AS,Thailand,13.036597,101.492515,3042,57,0,2985,0,0,False,False
@@ -14735,7 +14767,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,SDN,AF,Sudan,15.45847,30.217636,3976,170,0,3806,0,0,False,False
 2020-05-27,SUR,SA,Suriname,3.917845,-56.032028,11,1,0,10,0,0,False,False
 2020-05-27,SWE,EU,Sweden,62.199806,17.637493,36869,4220,0,32649,0,2002,True,True
-2020-05-27,CHE,EU,Switzerland,46.815514,8.224472,30778,1917,5412,23449,394,45,False,False
+2020-05-27,CHE,EU,Switzerland,46.815514,8.224472,61596,3866,11185,46545,606,82,False,False
 2020-05-27,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-27,TJK,AS,Tajikistan,,,3100,46,0,3054,0,0,False,False
 2020-05-27,THA,AS,Thailand,13.036597,101.492515,3045,57,0,2988,0,0,False,False
@@ -14932,7 +14964,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,SDN,AF,Sudan,15.45847,30.217636,4146,184,0,3962,0,0,False,False
 2020-05-28,SUR,SA,Suriname,3.917845,-56.032028,12,1,0,11,0,0,False,False
 2020-05-28,SWE,EU,Sweden,62.199806,17.637493,37640,4266,0,33374,0,2032,True,True
-2020-05-28,CHE,EU,Switzerland,46.815514,8.224472,30787,1918,5417,23452,377,40,False,False
+2020-05-28,CHE,EU,Switzerland,46.815514,8.224472,61626,3868,11209,46549,559,69,False,False
 2020-05-28,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-28,TJK,AS,Tajikistan,,,3100,46,0,3054,0,0,False,False
 2020-05-28,THA,AS,Thailand,13.036597,101.492515,3054,57,0,2997,0,0,False,False
@@ -15129,7 +15161,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,SDN,AF,Sudan,15.45847,30.217636,4346,195,0,4151,0,0,False,False
 2020-05-29,SUR,SA,Suriname,3.917845,-56.032028,12,1,0,11,0,0,False,False
 2020-05-29,SWE,EU,Sweden,62.199806,17.637493,38416,4350,0,34066,0,2048,True,True
-2020-05-29,CHE,EU,Switzerland,46.815514,8.224472,30813,1920,5445,23448,367,38,False,False
+2020-05-29,CHE,EU,Switzerland,46.815514,8.224472,61675,3870,11245,46560,554,69,False,False
 2020-05-29,TWN,AS,Taiwan,21.901806,121.471,441,7,0,434,0,0,False,False
 2020-05-29,TJK,AS,Tajikistan,,,3563,47,0,3516,0,0,False,False
 2020-05-29,THA,AS,Thailand,13.036597,101.492515,3065,57,0,3008,0,0,False,False
@@ -15324,7 +15356,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,SDN,AF,Sudan,15.45847,30.217636,4521,233,0,4288,0,0,False,False
 2020-05-30,SUR,SA,Suriname,3.917845,-56.032028,12,1,0,11,0,0,False,False
 2020-05-30,SWE,EU,Sweden,62.199806,17.637493,38848,4395,0,34453,0,2055,True,True
-2020-05-30,CHE,EU,Switzerland,46.815514,8.224472,30828,1920,5446,23462,348,38,False,False
+2020-05-30,CHE,EU,Switzerland,46.815514,8.224472,61726,3871,11252,46603,493,65,False,False
 2020-05-30,TWN,AS,Taiwan,21.901806,121.471,442,7,0,435,0,0,False,False
 2020-05-30,TJK,AS,Tajikistan,,,3563,47,0,3516,0,0,False,False
 2020-05-30,THA,AS,Thailand,13.036597,101.492515,3076,57,0,3019,0,0,False,False
@@ -15519,7 +15551,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,SDN,AF,Sudan,15.45847,30.217636,4800,262,0,4538,0,0,False,False
 2020-05-31,SUR,SA,Suriname,3.917845,-56.032028,14,1,0,13,0,0,False,False
 2020-05-31,SWE,EU,Sweden,62.199806,17.637493,39113,4395,0,34718,0,2064,True,True
-2020-05-31,CHE,EU,Switzerland,46.815514,8.224472,30855,1921,5448,23486,339,37,False,False
+2020-05-31,CHE,EU,Switzerland,46.815514,8.224472,61760,3872,11256,46632,483,66,False,False
 2020-05-31,TWN,AS,Taiwan,21.901806,121.471,442,7,0,435,0,0,False,False
 2020-05-31,TJK,AS,Tajikistan,,,3807,47,0,3760,0,0,False,False
 2020-05-31,THA,AS,Thailand,13.036597,101.492515,3081,57,0,3024,0,0,False,False
@@ -15713,7 +15745,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,SDN,AF,Sudan,15.45847,30.217636,5026,286,0,4740,0,0,False,False
 2020-06-01,SUR,SA,Suriname,3.917845,-56.032028,23,1,0,22,0,0,False,False
 2020-06-01,SWE,EU,Sweden,62.199806,17.637493,39757,4403,0,35354,0,2083,True,True
-2020-06-01,CHE,EU,Switzerland,46.815514,8.224472,30859,1921,5449,23489,336,37,False,False
+2020-06-01,CHE,EU,Switzerland,46.815514,8.224472,61766,3872,11258,46636,478,64,False,False
 2020-06-01,TWN,AS,Taiwan,21.901806,121.471,442,7,0,435,0,0,False,False
 2020-06-01,TJK,AS,Tajikistan,,,3807,47,0,3760,0,0,False,False
 2020-06-01,THA,AS,Thailand,13.036597,101.492515,3081,57,0,3024,0,0,False,False
@@ -15909,7 +15941,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,SDN,AF,Sudan,15.45847,30.217636,5173,298,0,4875,0,0,False,False
 2020-06-02,SUR,SA,Suriname,3.917845,-56.032028,44,1,0,43,0,0,False,False
 2020-06-02,SWE,EU,Sweden,62.199806,17.637493,40646,4468,0,36178,0,2102,True,True
-2020-06-02,CHE,EU,Switzerland,46.815514,8.224472,30864,1921,5449,23494,334,37,False,False
+2020-06-02,CHE,EU,Switzerland,46.815514,8.224472,61807,3872,11295,46640,473,61,False,False
 2020-06-02,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-02,TJK,AS,Tajikistan,,,3930,47,0,3883,0,0,False,False
 2020-06-02,THA,AS,Thailand,13.036597,101.492515,3082,57,0,3025,0,0,False,False
@@ -16106,7 +16138,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,SDN,AF,Sudan,15.45847,30.217636,5310,307,0,5003,0,0,False,False
 2020-06-03,SUR,SA,Suriname,3.917845,-56.032028,54,1,0,53,0,0,False,False
 2020-06-03,SWE,EU,Sweden,62.199806,17.637493,40803,4542,0,36261,0,2121,True,True
-2020-06-03,CHE,EU,Switzerland,46.815514,8.224472,30896,1921,5478,23497,319,39,False,False
+2020-06-03,CHE,EU,Switzerland,46.815514,8.224472,61857,3873,11337,46647,462,69,False,False
 2020-06-03,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-03,TJK,AS,Tajikistan,,,4013,47,0,3966,0,0,False,False
 2020-06-03,THA,AS,Thailand,13.036597,101.492515,3083,58,0,3025,0,0,False,False
@@ -16302,7 +16334,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,SDN,AF,Sudan,15.45847,30.217636,5310,307,0,5003,0,0,False,False
 2020-06-04,SUR,SA,Suriname,3.917845,-56.032028,74,1,0,73,0,0,False,False
 2020-06-04,SWE,EU,Sweden,62.199806,17.637493,41883,4562,0,37321,0,2143,True,True
-2020-06-04,CHE,EU,Switzerland,46.815514,8.224472,30902,1922,5501,23479,295,38,False,False
+2020-06-04,CHE,EU,Switzerland,46.815514,8.224472,61887,3874,11375,46638,418,64,False,False
 2020-06-04,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-04,TJK,AS,Tajikistan,,,4100,47,0,4053,0,0,False,False
 2020-06-04,THA,AS,Thailand,13.036597,101.492515,3101,58,0,3043,0,0,False,False
@@ -16498,7 +16530,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,SDN,AF,Sudan,15.45847,30.217636,5499,314,0,5185,0,0,False,False
 2020-06-05,SUR,SA,Suriname,3.917845,-56.032028,82,1,0,81,0,0,False,False
 2020-06-05,SWE,EU,Sweden,62.199806,17.637493,42939,4639,0,38300,0,2152,True,True
-2020-06-05,CHE,EU,Switzerland,46.815514,8.224472,30940,1922,5520,23498,283,40,False,False
+2020-06-05,CHE,EU,Switzerland,46.815514,8.224472,61946,3874,11398,46674,403,65,False,False
 2020-06-05,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-05,TJK,AS,Tajikistan,,,4289,48,0,4241,0,0,False,False
 2020-06-05,THA,AS,Thailand,13.036597,101.492515,3102,58,0,3044,0,0,False,False
@@ -16692,7 +16724,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,SDN,AF,Sudan,15.45847,30.217636,5714,333,0,5381,0,0,False,False
 2020-06-06,SUR,SA,Suriname,3.917845,-56.032028,91,1,0,90,0,0,False,False
 2020-06-06,SWE,EU,Sweden,62.199806,17.637493,43887,4656,0,39231,0,2162,True,True
-2020-06-06,CHE,EU,Switzerland,46.815514,8.224472,30961,1922,5520,23519,282,37,False,False
+2020-06-06,CHE,EU,Switzerland,46.815514,8.224472,61976,3874,11402,46700,393,61,False,False
 2020-06-06,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-06,TJK,AS,Tajikistan,,,4370,48,0,4322,0,0,False,False
 2020-06-06,THA,AS,Thailand,13.036597,101.492515,3104,58,0,3046,0,0,False,False
@@ -16887,7 +16919,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,SDN,AF,Sudan,15.45847,30.217636,5865,347,0,5518,0,0,False,False
 2020-06-07,SUR,SA,Suriname,3.917845,-56.032028,100,1,0,99,0,0,False,False
 2020-06-07,SWE,EU,Sweden,62.199806,17.637493,44730,4659,0,40071,0,2173,True,True
-2020-06-07,CHE,EU,Switzerland,46.815514,8.224472,30961,1922,5522,23517,282,37,False,False
+2020-06-07,CHE,EU,Switzerland,46.815514,8.224472,61983,3875,11406,46702,391,62,False,False
 2020-06-07,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-07,TJK,AS,Tajikistan,,,4453,48,0,4405,0,0,False,False
 2020-06-07,THA,AS,Thailand,13.036597,101.492515,3112,58,0,3054,0,0,False,False
@@ -17083,7 +17115,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,SDN,AF,Sudan,15.45847,30.217636,6083,359,0,5724,0,0,False,False
 2020-06-08,SUR,SA,Suriname,3.917845,-56.032028,122,1,0,121,0,0,False,False
 2020-06-08,SWE,EU,Sweden,62.199806,17.637493,45133,4694,0,40439,0,2191,True,True
-2020-06-08,CHE,EU,Switzerland,46.815514,8.224472,30962,1922,5522,23518,282,37,False,False
+2020-06-08,CHE,EU,Switzerland,46.815514,8.224472,62001,3877,11414,46710,394,62,False,False
 2020-06-08,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-08,TJK,AS,Tajikistan,,,4529,48,0,4481,0,0,False,False
 2020-06-08,THA,AS,Thailand,13.036597,101.492515,3119,58,0,3061,0,0,False,False
@@ -17279,7 +17311,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,SDN,AF,Sudan,15.45847,30.217636,6242,372,0,5870,0,0,False,False
 2020-06-09,SUR,SA,Suriname,3.917845,-56.032028,130,2,0,128,0,0,False,False
 2020-06-09,SWE,EU,Sweden,62.199806,17.637493,45924,4717,0,41207,0,2209,True,True
-2020-06-09,CHE,EU,Switzerland,46.815514,8.224472,31110,1952,5826,23332,220,23,False,False
+2020-06-09,CHE,EU,Switzerland,46.815514,8.224472,62161,3907,11725,46529,331,43,False,False
 2020-06-09,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-09,TJK,AS,Tajikistan,,,4609,48,0,4561,0,0,False,False
 2020-06-09,THA,AS,Thailand,13.036597,101.492515,3119,58,0,3061,0,0,False,False
@@ -17476,7 +17508,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,SDN,AF,Sudan,15.45847,30.217636,6242,372,0,5870,0,0,False,False
 2020-06-10,SUR,SA,Suriname,3.917845,-56.032028,137,2,0,135,0,0,False,False
 2020-06-10,SWE,EU,Sweden,62.199806,17.637493,46814,4795,0,42019,0,2232,True,True
-2020-06-10,CHE,EU,Switzerland,46.815514,8.224472,31124,1953,5834,23337,222,23,False,False
+2020-06-10,CHE,EU,Switzerland,46.815514,8.224472,62191,3909,11742,46540,335,43,False,False
 2020-06-10,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-10,TJK,AS,Tajikistan,,,4690,48,0,4642,0,0,False,False
 2020-06-10,THA,AS,Thailand,13.036597,101.492515,3125,58,0,3067,0,0,False,False
@@ -17669,7 +17701,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,SDN,AF,Sudan,15.45847,30.217636,6427,389,0,6038,0,0,False,False
 2020-06-11,SUR,SA,Suriname,3.917845,-56.032028,137,2,0,135,0,0,False,False
 2020-06-11,SWE,EU,Sweden,62.199806,17.637493,48288,4814,0,43474,0,2244,True,True
-2020-06-11,CHE,EU,Switzerland,46.815514,8.224472,31149,1953,5850,23346,206,16,False,False
+2020-06-11,CHE,EU,Switzerland,46.815514,8.224472,62239,3909,11769,46561,302,30,False,False
 2020-06-11,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-11,TJK,AS,Tajikistan,,,4763,48,0,4715,0,0,False,False
 2020-06-11,THA,AS,Thailand,13.036597,101.492515,3125,58,0,3067,0,0,False,False
@@ -17865,7 +17897,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,SDN,AF,Sudan,15.45847,30.217636,6730,413,0,6317,0,0,False,False
 2020-06-12,SUR,SA,Suriname,3.917845,-56.032028,168,2,0,166,0,0,False,False
 2020-06-12,SWE,EU,Sweden,62.199806,17.637493,49684,4854,0,44830,0,2260,True,True
-2020-06-12,CHE,EU,Switzerland,46.815514,8.224472,31173,1955,5852,23366,205,15,False,False
+2020-06-12,CHE,EU,Switzerland,46.815514,8.224472,62287,3913,11773,46601,306,29,False,False
 2020-06-12,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-12,TJK,AS,Tajikistan,,,4834,49,0,4785,0,0,False,False
 2020-06-12,THA,AS,Thailand,13.036597,101.492515,3125,58,0,3067,0,0,False,False
@@ -18059,7 +18091,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,SDN,AF,Sudan,15.45847,30.217636,6879,433,0,6446,0,0,False,False
 2020-06-13,SUR,SA,Suriname,3.917845,-56.032028,187,3,0,184,0,0,False,False
 2020-06-13,SWE,EU,Sweden,62.199806,17.637493,50931,4874,0,46057,0,2265,True,True
-2020-06-13,CHE,EU,Switzerland,46.815514,8.224472,31188,1955,5855,23378,202,15,False,False
+2020-06-13,CHE,EU,Switzerland,46.815514,8.224472,62311,3913,11780,46618,299,28,False,False
 2020-06-13,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-13,TJK,AS,Tajikistan,,,4902,49,0,4853,0,0,False,False
 2020-06-13,THA,AS,Thailand,13.036597,101.492515,3129,58,0,3071,0,0,False,False
@@ -18255,7 +18287,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,SDN,AF,Sudan,15.45847,30.217636,6879,433,0,6446,0,0,False,False
 2020-06-14,SUR,SA,Suriname,3.917845,-56.032028,196,3,0,193,0,0,False,False
 2020-06-14,SWE,EU,Sweden,62.199806,17.637493,51614,4874,0,46740,0,2278,True,True
-2020-06-14,CHE,EU,Switzerland,46.815514,8.224472,31203,1955,5857,23391,210,17,False,False
+2020-06-14,CHE,EU,Switzerland,46.815514,8.224472,62341,3913,11784,46644,315,32,False,False
 2020-06-14,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-14,TJK,AS,Tajikistan,,,4971,50,0,4921,0,0,False,False
 2020-06-14,THA,AS,Thailand,13.036597,101.492515,3134,58,0,3076,0,0,False,False
@@ -18451,7 +18483,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,SDN,AF,Sudan,15.45847,30.217636,7220,459,0,6761,0,0,False,False
 2020-06-15,SUR,SA,Suriname,3.917845,-56.032028,208,3,0,205,0,0,False,False
 2020-06-15,SWE,EU,Sweden,62.199806,17.637493,52383,4891,0,47492,0,2297,True,True
-2020-06-15,CHE,EU,Switzerland,46.815514,8.224472,31224,1955,5869,23400,202,16,False,False
+2020-06-15,CHE,EU,Switzerland,46.815514,8.224472,62382,3913,11808,46661,298,30,False,False
 2020-06-15,TWN,AS,Taiwan,21.901806,121.471,443,7,0,436,0,0,False,False
 2020-06-15,TJK,AS,Tajikistan,,,5035,50,0,4985,0,0,False,False
 2020-06-15,THA,AS,Thailand,13.036597,101.492515,3135,58,0,3077,0,0,False,False
@@ -18645,7 +18677,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,SDN,AF,Sudan,15.45847,30.217636,7220,459,,6761,,,False,False
 2020-06-16,SUR,SA,Suriname,3.917845,-56.032028,229,5,,224,,,False,False
 2020-06-16,SWE,EU,Sweden,62.199806,17.637493,53323,4939,,48384,,2317,True,True
-2020-06-16,CHE,EU,Switzerland,46.815514,8.224472,31249,1955,5869,23425,192,14,False,False
+2020-06-16,CHE,EU,Switzerland,46.815514,8.224472,62431,3914,11812,46705,277,26,False,False
 2020-06-16,TWN,AS,Taiwan,21.901806,121.471,445,7,,438,,,False,False
 2020-06-16,TJK,AS,Tajikistan,,,5097,50,,5047,,,False,False
 2020-06-16,THA,AS,Thailand,13.036597,101.492515,3135,58,,3077,,,False,False
@@ -18842,7 +18874,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,SDN,AF,Sudan,15.45847,30.217636,7740,477,,7263,,,False,False
 2020-06-17,SUR,SA,Suriname,3.917845,-56.032028,236,6,,230,,,False,False
 2020-06-17,SWE,EU,Sweden,62.199806,17.637493,54562,5041,,49521,,2322,True,True
-2020-06-17,CHE,EU,Switzerland,46.815514,8.224472,31271,1956,5872,23443,204,14,False,False
+2020-06-17,CHE,EU,Switzerland,46.815514,8.224472,62477,3916,11817,46744,300,27,False,False
 2020-06-17,TWN,AS,Taiwan,21.901806,121.471,445,7,,438,,,False,False
 2020-06-17,TJK,AS,Tajikistan,,,5160,50,,5110,,,False,False
 2020-06-17,THA,AS,Thailand,13.036597,101.492515,3135,58,,3077,,,False,False
@@ -19038,7 +19070,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,SDN,AF,Sudan,15.45847,30.217636,8020,487,,7533,,,False,False
 2020-06-18,SUR,SA,Suriname,3.917845,-56.032028,261,6,,255,,,False,False
 2020-06-18,SWE,EU,Sweden,62.199806,17.637493,56043,5053,,50990,,2333,True,True
-2020-06-18,CHE,EU,Switzerland,46.815514,8.224472,31303,1956,5959,23388,203,12,False,False
+2020-06-18,CHE,EU,Switzerland,46.815514,8.224472,62529,3916,11923,46690,300,23,False,False
 2020-06-18,TWN,AS,Taiwan,21.901806,121.471,445,7,,438,,,False,False
 2020-06-18,TJK,AS,Tajikistan,,,5221,51,,5170,,,False,False
 2020-06-18,THA,AS,Thailand,13.036597,101.492515,3141,58,,3083,,,False,False
@@ -19233,7 +19265,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,LKA,AS,Sri Lanka,7.874097,80.767098,1947,11,,1936,,,False,False
 2020-06-19,SDN,AF,Sudan,15.45847,30.217636,8020,487,,7533,,,False,False
 2020-06-19,SUR,SA,Suriname,3.917845,-56.032028,277,7,,270,,,False,False
-2020-06-19,CHE,EU,Switzerland,46.815514,8.224472,31326,1956,5963,23407,194,12,False,False
+2020-06-19,CHE,EU,Switzerland,46.815514,8.224472,62573,3916,11930,46727,283,23,False,False
 2020-06-19,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-19,TJK,AS,Tajikistan,,,5279,51,,5228,,,False,False
 2020-06-19,THA,AS,Thailand,13.036597,101.492515,3141,58,,3083,,,False,False
@@ -19426,7 +19458,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,LKA,AS,Sri Lanka,7.874097,80.767098,1950,11,,1939,,,False,False
 2020-06-20,SDN,AF,Sudan,15.45847,30.217636,8316,506,,7810,,,False,False
 2020-06-20,SUR,SA,Suriname,3.917845,-56.032028,293,8,,285,,,False,False
-2020-06-20,CHE,EU,Switzerland,46.815514,8.224472,31345,1959,5963,23423,186,10,False,False
+2020-06-20,CHE,EU,Switzerland,46.815514,8.224472,62612,3919,11930,46763,267,19,False,False
 2020-06-20,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-20,TJK,AS,Tajikistan,,,5338,51,,5287,,,False,False
 2020-06-20,THA,AS,Thailand,13.036597,101.492515,3146,58,,3088,,,False,False
@@ -19607,7 +19639,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,LKA,AS,Sri Lanka,7.874097,80.767098,1950,11,,1939,,,False,False
 2020-06-21,SDN,AF,Sudan,15.45847,30.217636,8580,521,,8059,,,False,False
 2020-06-21,SUR,SA,Suriname,3.917845,-56.032028,302,8,,294,,,False,False
-2020-06-21,CHE,EU,Switzerland,46.815514,8.224472,31360,1959,5964,23437,190,9,False,False
+2020-06-21,CHE,EU,Switzerland,46.815514,8.224472,62641,3919,11932,46790,275,17,False,False
 2020-06-21,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-21,TJK,AS,Tajikistan,,,5399,52,,5347,,,False,False
 2020-06-21,THA,AS,Thailand,13.036597,101.492515,3147,58,,3089,,,False,False
@@ -19802,7 +19834,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,SDN,AF,Sudan,15.45847,30.217636,8580,521,,8059,,,False,False
 2020-06-22,SUR,SA,Suriname,3.917845,-56.032028,314,8,,306,,,False,False
 2020-06-22,SWE,EU,Sweden,62.199806,17.637493,58932,5122,,53810,,2354,True,True
-2020-06-22,CHE,EU,Switzerland,46.815514,8.224472,31387,1960,5967,23460,199,10,False,False
+2020-06-22,CHE,EU,Switzerland,46.815514,8.224472,62695,3921,11937,46837,294,20,False,False
 2020-06-22,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-22,TJK,AS,Tajikistan,,,5457,52,,5405,,,False,False
 2020-06-22,THA,AS,Thailand,13.036597,101.492515,3148,58,,3090,,,False,False
@@ -19999,7 +20031,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,SDN,AF,Sudan,15.45847,30.217636,8698,533,,8165,,,False,False
 2020-06-23,SUR,SA,Suriname,3.917845,-56.032028,319,8,,311,,,False,False
 2020-06-23,SWE,EU,Sweden,62.199806,17.637493,60837,5161,,55676,,2366,True,True
-2020-06-23,CHE,EU,Switzerland,46.815514,8.224472,31410,1961,5968,23481,186,8,False,False
+2020-06-23,CHE,EU,Switzerland,46.815514,8.224472,62741,3923,11939,46879,267,16,False,False
 2020-06-23,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-23,TJK,AS,Tajikistan,,,5513,52,,5461,,,False,False
 2020-06-23,THA,AS,Thailand,13.036597,101.492515,3151,58,,3093,,,False,False
@@ -20196,7 +20228,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,SDN,AF,Sudan,15.45847,30.217636,8889,548,,8341,,,False,False
 2020-06-24,SUR,SA,Suriname,3.917845,-56.032028,319,9,,310,,,False,False
 2020-06-24,SWE,EU,Sweden,62.199806,17.637493,62324,5209,,57115,,2387,True,True
-2020-06-24,CHE,EU,Switzerland,46.815514,8.224472,31477,1962,5978,23537,198,10,False,False
+2020-06-24,CHE,EU,Switzerland,46.815514,8.224472,62878,3925,11959,46994,290,19,False,False
 2020-06-24,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-24,TJK,AS,Tajikistan,,,5567,52,,5515,,,False,False
 2020-06-24,THA,AS,Thailand,13.036597,101.492515,3156,58,,3098,,,False,False
@@ -20392,7 +20424,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,SDN,AF,Sudan,15.45847,30.217636,8889,548,,8341,,,False,False
 2020-06-25,SUR,SA,Suriname,3.917845,-56.032028,357,10,,347,,,False,False
 2020-06-25,SWE,EU,Sweden,62.199806,17.637493,63890,5230,,58660,,2401,True,True
-2020-06-25,CHE,EU,Switzerland,46.815514,8.224472,31510,1962,6061,23487,192,9,False,False
+2020-06-25,CHE,EU,Switzerland,46.815514,8.224472,62987,3926,12125,46936,281,18,False,False
 2020-06-25,TWN,AS,Taiwan,21.901806,121.471,446,7,,439,,,False,False
 2020-06-25,TJK,AS,Tajikistan,,,5630,52,,5578,,,False,False
 2020-06-25,THA,AS,Thailand,13.036597,101.492515,3158,58,,3100,,,False,False
@@ -20588,7 +20620,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,SDN,AF,Sudan,15.45847,30.217636,8984,556,,8428,,,False,False
 2020-06-26,SUR,SA,Suriname,3.917845,-56.032028,373,10,,363,,,False,False
 2020-06-26,SWE,EU,Sweden,62.199806,17.637493,65137,5280,,59857,,2407,True,True
-2020-06-26,CHE,EU,Switzerland,46.815514,8.224472,31556,1962,6063,23531,181,7,False,False
+2020-06-26,CHE,EU,Switzerland,46.815514,8.224472,63080,3926,12129,47025,261,15,False,False
 2020-06-26,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-06-26,TJK,AS,Tajikistan,,,5691,52,,5639,,,False,False
 2020-06-26,THA,AS,Thailand,13.036597,101.492515,3158,58,,3100,,,False,False
@@ -20781,7 +20813,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,LKA,AS,Sri Lanka,7.874097,80.767098,2014,11,,2003,,,False,False
 2020-06-27,SDN,AF,Sudan,15.45847,30.217636,9257,572,,8685,,,False,False
 2020-06-27,SUR,SA,Suriname,3.917845,-56.032028,391,10,,381,,,False,False
-2020-06-27,CHE,EU,Switzerland,46.815514,8.224472,31584,1962,6065,23557,183,8,False,False
+2020-06-27,CHE,EU,Switzerland,46.815514,8.224472,63137,3926,12133,47078,262,16,False,False
 2020-06-27,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-06-27,TJK,AS,Tajikistan,,,5747,52,,5695,,,False,False
 2020-06-27,THA,AS,Thailand,13.036597,101.492515,3162,58,,3104,,,False,False
@@ -20975,7 +21007,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,LKA,AS,Sri Lanka,7.874097,80.767098,2033,11,,2022,,,False,False
 2020-06-28,SDN,AF,Sudan,15.45847,30.217636,9258,572,,8686,,,False,False
 2020-06-28,SUR,SA,Suriname,3.917845,-56.032028,391,10,,381,,,False,False
-2020-06-28,CHE,EU,Switzerland,46.815514,8.224472,31615,1962,6066,23587,182,8,False,False
+2020-06-28,CHE,EU,Switzerland,46.815514,8.224472,63201,3926,12135,47140,260,16,False,False
 2020-06-28,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-06-28,TJK,AS,Tajikistan,,,5799,52,,5747,,,False,False
 2020-06-28,THA,AS,Thailand,13.036597,101.492515,3162,58,,3104,,,False,False
@@ -21171,7 +21203,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,SDN,AF,Sudan,15.45847,30.217636,9258,572,,8686,,,False,False
 2020-06-29,SUR,SA,Suriname,3.917845,-56.032028,490,11,,479,,,False,False
 2020-06-29,SWE,EU,Sweden,62.199806,17.637493,67667,5310,,62357,,2423,True,True
-2020-06-29,CHE,EU,Switzerland,46.815514,8.224472,31659,1963,6067,23629,202,10,False,False
+2020-06-29,CHE,EU,Switzerland,46.815514,8.224472,63293,3928,12137,47228,301,20,False,False
 2020-06-29,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-06-29,TJK,AS,Tajikistan,,,5849,52,,5797,,,False,False
 2020-06-29,THA,AS,Thailand,13.036597,101.492515,3162,58,,3104,,,False,False
@@ -21368,7 +21400,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,SDN,AF,Sudan,15.45847,30.217636,9258,572,,8686,,,False,False
 2020-06-30,SUR,SA,Suriname,3.917845,-56.032028,501,13,,488,,,False,False
 2020-06-30,SWE,EU,Sweden,62.199806,17.637493,68451,5333,,63118,,2429,True,True
-2020-06-30,CHE,EU,Switzerland,46.815514,8.224472,31714,1963,6071,23680,194,9,False,False
+2020-06-30,CHE,EU,Switzerland,46.815514,8.224472,63405,3928,12145,47332,285,18,False,False
 2020-06-30,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-06-30,TJK,AS,Tajikistan,,,5900,52,,5848,,,False,False
 2020-06-30,THA,AS,Thailand,13.036597,101.492515,3171,58,,3113,,,False,False
@@ -21564,7 +21596,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,SDN,AF,Sudan,15.45847,30.217636,9258,572,,8686,,,False,False
 2020-07-01,SUR,SA,Suriname,3.917845,-56.032028,517,13,,504,,,False,False
 2020-07-01,SWE,EU,Sweden,62.199806,17.637493,69692,5370,,64322,,2435,True,True
-2020-07-01,CHE,EU,Switzerland,46.815514,8.224472,31805,1963,6077,23765,202,11,False,False
+2020-07-01,CHE,EU,Switzerland,46.815514,8.224472,63589,3928,12157,47504,306,22,False,False
 2020-07-01,TWN,AS,Taiwan,21.901806,121.471,447,7,,440,,,False,False
 2020-07-01,TJK,AS,Tajikistan,,,5954,52,,5902,,,False,False
 2020-07-01,THA,AS,Thailand,13.036597,101.492515,3173,58,,3115,,,False,False
@@ -21757,7 +21789,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,SDN,AF,Sudan,15.45847,30.217636,9573,602,,8971,,,False,False
 2020-07-02,SUR,SA,Suriname,3.917845,-56.032028,535,13,,522,,,False,False
 2020-07-02,SWE,EU,Sweden,62.199806,17.637493,70639,5411,,65228,,2444,True,True
-2020-07-02,CHE,EU,Switzerland,46.815514,8.224472,31895,1963,6080,23852,201,11,False,False
+2020-07-02,CHE,EU,Switzerland,46.815514,8.224472,63770,3928,12163,47679,300,22,False,False
 2020-07-02,TWN,AS,Taiwan,21.901806,121.471,448,7,,441,,,False,False
 2020-07-02,TJK,AS,Tajikistan,,,6005,52,,5953,,,False,False
 2020-07-02,THA,AS,Thailand,13.036597,101.492515,3179,58,,3121,,,False,False
@@ -21781,3 +21813,4 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,ZWE,AF,Zimbabwe,-19.013286,29.146666,605,7,,598,,,False,False
 2020-07-03,BGR,EU,Bulgaria,42.729862,25.491667,5315,232,2802,2281,,,True,True
 2020-07-03,DEU,EU,Germany,51.165706,10.452764,195674,9003,181000,5671,,,True,True
+2020-07-03,CHE,EU,Switzerland,46.815514,8.224472,63770,3928,12163,47679,300,22,False,False
