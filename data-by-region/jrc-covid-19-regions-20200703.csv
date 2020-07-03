@@ -307,22 +307,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-02,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,297,,,297,,,False,True,NO033
 2020-07-02,NOR,Norway,Vestland,60.952729,6.513828,892,,,892,,,False,True,NO05
 2020-07-02,NOR,Norway,Viken,60.020274,9.849655,2457,,,2457,,,False,True,NO012
-2020-07-02,POL,Poland,Dolnośląskie,51.07994,16.381483,2930,149,,2781,,,True,True,PL51
-2020-07-02,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,678,49,,629,,,True,True,PL61
-2020-07-02,POL,Poland,Łódzkie,51.559579,19.408271,3186,169,,3017,,,True,True,PL71
-2020-07-02,POL,Poland,Lubelskie,51.247253,22.908895,664,18,,646,,,True,True,PL81
-2020-07-02,POL,Poland,Lubuskie,52.206458,15.345515,151,0,,151,,,True,True,PL43
-2020-07-02,POL,Poland,Małopolskie,49.842031,20.300847,1792,44,,1748,,,True,True,PL21
-2020-07-02,POL,Poland,Mazowieckie,52.309134,21.081201,5088,339,,4749,,,True,True,PL9
-2020-07-02,POL,Poland,Opolskie,50.621436,17.876844,955,51,,904,,,True,True,PL52
-2020-07-02,POL,Poland,Podkarpackie,49.962818,22.225966,682,51,,631,,,True,True,PL82
-2020-07-02,POL,Poland,Podlaskie,53.28395,22.895092,854,10,,844,,,True,True,PL84
-2020-07-02,POL,Poland,Pomorskie,54.129033,18.012613,677,38,,639,,,True,True,PL63
-2020-07-02,POL,Poland,Śląskie,50.318293,18.999987,13003,334,,12669,,,True,True,PL22
-2020-07-02,POL,Poland,Świętokrzyskie,50.734202,20.797295,809,40,,769,,,True,True,PL72
-2020-07-02,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,262,1,,261,,,True,True,PL62
-2020-07-02,POL,Poland,Wielkopolskie,52.283858,17.248218,2804,177,,2627,,,True,True,PL41
-2020-07-02,POL,Poland,Zachodniopomorskie,53.582707,15.634824,611,22,,589,,,True,True,PL42
+2020-07-03,POL,Poland,Dolnośląskie,51.07994,16.381483,2933,149,,2784,,,True,True,PL51
+2020-07-03,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,679,49,,630,,,True,True,PL61
+2020-07-03,POL,Poland,Łódzkie,51.559579,19.408271,3210,173,,3037,,,True,True,PL71
+2020-07-03,POL,Poland,Lubelskie,51.247253,22.908895,668,18,,650,,,True,True,PL81
+2020-07-03,POL,Poland,Lubuskie,52.206458,15.345515,151,0,,151,,,True,True,PL43
+2020-07-03,POL,Poland,Małopolskie,49.842031,20.300847,1805,44,,1761,,,True,True,PL21
+2020-07-03,POL,Poland,Mazowieckie,52.309134,21.081201,5124,342,,4782,,,True,True,PL9
+2020-07-03,POL,Poland,Opolskie,50.621436,17.876844,964,51,,913,,,True,True,PL52
+2020-07-03,POL,Poland,Podkarpackie,49.962818,22.225966,694,51,,643,,,True,True,PL82
+2020-07-03,POL,Poland,Podlaskie,53.28395,22.895092,861,12,,849,,,True,True,PL84
+2020-07-03,POL,Poland,Pomorskie,54.129033,18.012613,681,38,,643,,,True,True,PL63
+2020-07-03,POL,Poland,Śląskie,50.318293,18.999987,13083,339,,12744,,,True,True,PL22
+2020-07-03,POL,Poland,Świętokrzyskie,50.734202,20.797295,822,40,,782,,,True,True,PL72
+2020-07-03,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,267,1,,266,,,True,True,PL62
+2020-07-03,POL,Poland,Wielkopolskie,52.283858,17.248218,2850,178,,2672,,,True,True,PL41
+2020-07-03,POL,Poland,Zachodniopomorskie,53.582707,15.634824,613,22,,591,,,True,True,PL42
 2020-07-02,PRT,Portugal,Açores,37.775525,-25.494927,150,15,,135,,,True,True,PT20
 2020-07-02,PRT,Portugal,Alentejo,38.485499,-8.006668,491,7,,484,,,True,True,PT18
 2020-07-02,PRT,Portugal,Algarve,37.218389,-8.198488,632,15,,617,,,True,True,PT15
@@ -566,7 +566,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
 2020-07-03,CHE,Switzerland,Thurgau,47.567205,9.112572,402,18,69,315,3,0,False,False,CH057
 2020-07-03,CHE,Switzerland,Thurgau,47.567205,9.112572,402,18,69,315,3,0,False,False,CH057
-2020-07-03,CHE,Switzerland,Ticino,46.297963,8.808447,3329,350,912,2067,4,0,False,False,CH07
+2020-07-03,CHE,Switzerland,Ticino,46.297963,8.808447,3341,350,915,2076,1,0,False,False,CH07
 2020-07-03,CHE,Switzerland,Ticino,46.297963,8.808447,3329,350,912,2067,4,0,False,False,CH07
 2020-07-03,CHE,Switzerland,Uri,46.775402,8.627444,104,7,86,11,0,0,False,False,CH062
 2020-07-03,CHE,Switzerland,Uri,46.775402,8.627444,104,7,86,11,0,0,False,False,CH062
