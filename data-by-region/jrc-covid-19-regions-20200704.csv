@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,ALB,Albania,Shkodër,42.17682,19.719451,385,11,216,158,11,1,False,False,AL015
 2020-07-03,ALB,Albania,Tiranë,41.268583,19.793936,1229,39,781,409,35,5,False,False,AL022
 2020-07-03,ALB,Albania,Vlorë,40.162418,19.793592,135,2,16,117,6,0,False,False,AL035
-2020-07-03,AND,Andorra,Andorra,42.542268,1.596865,855,52,,803,,,False,False,
+2020-07-04,AND,Andorra,Andorra,42.542268,1.596865,855,52,,803,,,False,False,
 2020-07-04,AUT,Austria,Burgenland,47.541449,16.520206,358,11,336,11,,,True,True,AT11
 2020-07-04,AUT,Austria,Kärnten,46.715832,14.455532,430,13,402,15,,,True,True,AT21
 2020-07-04,AUT,Austria,Niederösterreich,48.27051,15.763245,3016,106,2813,97,,,True,True,AT12
@@ -23,7 +23,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-04,AUT,Austria,Tirol,47.209023,11.397603,3571,101,3447,23,,,True,True,AT33
 2020-07-04,AUT,Austria,Vorarlberg,47.240149,9.896366,914,18,892,4,,,True,True,AT34
 2020-07-04,AUT,Austria,Wien,48.21141,16.380038,3981,196,3502,283,,,True,True,AT13
-2020-07-03,BLR,Belarus,Belarus,53.711111,27.973847,62698,405,,62293,,,False,False,
+2020-07-04,BLR,Belarus,Belarus,53.711111,27.973847,62997,412,,62585,,,False,False,
 2020-07-02,BEL,Belgium,Brussels,50.836426,4.367415,6394,1484,,4910,28,11,True,True,BE1
 2020-07-02,BEL,Belgium,Flanders,51.036569,4.234165,34667,4899,,29768,113,18,True,True,BE2
 2020-07-02,BEL,Belgium,NOT SPECIFIED,,,1424,0,,1424,0,0,True,True,
@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,63,0,,63,,,True,True,HR04C
 2020-07-03,HRV,Croatia,Zadarska,44.347845,15.959404,108,2,,106,,,True,True,HR033
 2020-07-03,HRV,Croatia,Zagrebačka,45.82762,16.381796,175,7,,168,,,True,True,HR042
-2020-07-03,CYP,Cyprus,Cyprus,35.167406,33.435499,999,19,,980,,,True,True,CY
+2020-07-04,CYP,Cyprus,Cyprus,35.167406,33.435499,999,19,,980,,,True,True,CY
 2020-07-04,CZE,Czech Republic,Jihoceský,49.093362,14.439278,203,0,0,203,,,True,True,CZ031
 2020-07-04,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,674,0,0,674,,,True,True,CZ064
 2020-07-04,CZE,Czech Republic,Karlovarský,50.170136,12.763213,476,0,0,476,,,True,True,CZ041
@@ -106,28 +106,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-07-03,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-07-03,EST,Estonia,Estonia,58.596209,25.023778,1991,69,0,1922,,,True,True,EE0
-2020-07-03,FIN,Finland,Ahvenanmaa,60.240625,19.966666,19,,,19,,,True,True,FI200
-2020-07-03,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True,FI1C5
-2020-07-03,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True,FI194
-2020-07-03,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True,FI1D1
-2020-07-03,FIN,Finland,HUS,60.408524,24.7817,5310,,,5310,,,True,True,FI1B1
-2020-07-03,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True,FI1X1
-2020-07-03,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True,FI1D8
-2020-07-03,FIN,Finland,Kanta-Häme,60.921424,24.354383,114,,,114,,,True,True,FI1C2
-2020-07-03,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True,FI1D5
-2020-07-03,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True,FI193
-2020-07-03,FIN,Finland,Kymenlaakso,60.826543,26.889951,49,,,49,,,True,True,FI1C4
-2020-07-03,FIN,Finland,Länsi-Pohja,66.133479,24.762611,149,,,149,,,True,True,FI1X2
-2020-07-03,FIN,Finland,Lappi,67.847438,26.444542,74,,,74,,,True,True,FI1D7
+2020-07-04,FIN,Finland,Ahvenanmaa,60.240625,19.966666,19,,,19,,,True,True,FI200
+2020-07-04,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True,FI1C5
+2020-07-04,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,46,,,46,,,True,True,FI194
+2020-07-04,FIN,Finland,Etelä-Savo,61.813578,27.347685,53,,,53,,,True,True,FI1D1
+2020-07-04,FIN,Finland,HUS,60.408524,24.7817,5316,,,5316,,,True,True,FI1B1
+2020-07-04,FIN,Finland,Itä-Savo,62.073919,28.846114,13,,,13,,,True,True,FI1X1
+2020-07-04,FIN,Finland,Kainuu,64.373656,28.743748,64,,,64,,,True,True,FI1D8
+2020-07-04,FIN,Finland,Kanta-Häme,60.921424,24.354383,114,,,114,,,True,True,FI1C2
+2020-07-04,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,27,,,27,,,True,True,FI1D5
+2020-07-04,FIN,Finland,Keski-Suomi,62.629133,25.476526,137,,,137,,,True,True,FI193
+2020-07-04,FIN,Finland,Kymenlaakso,60.826543,26.889951,49,,,49,,,True,True,FI1C4
+2020-07-04,FIN,Finland,Länsi-Pohja,66.133479,24.762611,149,,,149,,,True,True,FI1X2
+2020-07-04,FIN,Finland,Lappi,67.847438,26.444542,74,,,74,,,True,True,FI1D7
 2020-03-30,FIN,Finland,NOT SPECIFIED,,,20,0,0,20,0,0,True,True,
-2020-07-03,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True,FI1C3
-2020-07-03,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True,FI197
-2020-07-03,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,27,,,27,,,True,True,FI1D3
-2020-07-03,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,136,,,136,,,True,True,FI1D9
-2020-07-03,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True,FI1D2
-2020-07-03,FIN,Finland,Satakunta,61.527072,22.157717,60,,,60,,,True,True,FI196
-2020-07-03,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True,FI195
-2020-07-03,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,373,,,373,,,True,True,FI1C1
+2020-07-04,FIN,Finland,Päijät-Häme,61.217271,25.721465,111,,,111,,,True,True,FI1C3
+2020-07-04,FIN,Finland,Pirkanmaa,61.715017,23.913902,266,,,266,,,True,True,FI197
+2020-07-04,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,27,,,27,,,True,True,FI1D3
+2020-07-04,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,136,,,136,,,True,True,FI1D9
+2020-07-04,FIN,Finland,Pohjois-Savo,63.173162,27.465765,135,,,135,,,True,True,FI1D2
+2020-07-04,FIN,Finland,Satakunta,61.527072,22.157717,60,,,60,,,True,True,FI196
+2020-07-04,FIN,Finland,Vaasa,63.077479,22.196054,55,,,55,,,True,True,FI195
+2020-07-04,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,373,,,373,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
 2020-07-03,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,1740,7747,-9487,470,24,True,True,FRK
 2020-07-03,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1042,3885,-4927,110,5,True,True,FRC
@@ -244,12 +244,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-24,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1323,,,1323,,,False,True,IS001
 2020-06-24,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,,,46,,,False,True,ISX04
 2020-06-24,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,,,35,,,False,True,ISX05
-2020-07-03,ISL,Iceland,NOT SPECIFIED,,,1850,10,,1840,,,False,True,
+2020-07-04,ISL,Iceland,NOT SPECIFIED,,,1855,10,,1845,,,False,True,
 2020-06-24,ISL,Iceland,South Iceland,64.135334,-19.242939,182,,,182,,,False,True,ISX07
 2020-06-24,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,,,77,,,False,True,ISX08
 2020-06-24,ISL,Iceland,West Fjords,65.820831,-21.86654,97,,,97,,,False,True,ISX09
 2020-06-24,ISL,Iceland,West Iceland,64.843136,-21.691436,45,,,45,,,False,True,ISX10
-2020-07-03,IRL,Ireland,Ireland,53.41975,-8.240472,25489,1738,,23751,,,True,True,IE
+2020-07-04,IRL,Ireland,Ireland,53.41975,-8.240472,25498,1740,,23758,,,True,True,IE
 2020-07-03,ITA,Italy,Abruzzo,42.228034,13.855137,3298,464,2678,156,27,0,True,True,ITF1
 2020-07-03,ITA,Italy,Basilicata,40.500665,16.082246,404,27,373,4,0,0,True,True,ITF5
 2020-07-03,ITA,Italy,Bolzano,46.697344,11.417082,2642,292,2267,83,3,0,True,True,ITH1
@@ -271,15 +271,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,ITA,Italy,Umbria,42.966781,12.49094,1446,80,1356,10,4,0,True,True,ITI2
 2020-07-03,ITA,Italy,Valle d'Aosta,45.732414,7.393651,1196,146,1046,4,3,0,True,True,ITC2
 2020-07-03,ITA,Italy,Veneto,45.664735,11.84235,19314,2023,16901,390,19,0,True,True,ITH3
-2020-07-03,LVA,Latvia,Latvia,56.875584,24.607722,1122,30,,1092,,,True,True,LV0
-2020-07-03,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False,LI
+2020-07-04,LVA,Latvia,Latvia,56.875584,24.607722,1122,30,,1092,,,True,True,LV0
+2020-07-04,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,84,1,,83,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
-2020-07-03,LTU,Lithuania,Lithuania,55.174112,23.906736,1825,78,,1747,,,True,True,LT
+2020-07-04,LTU,Lithuania,Lithuania,55.174112,23.906736,1828,79,,1749,,,True,True,LT
 2020-07-03,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4447,110,956,3381,19,3,True,True,LU
 2020-07-02,MLT,Malta,Malta,35.946151,14.384612,671,9,649,13,,,True,True,MT001
-2020-07-03,MDA,Moldova,Moldova,46.979527,28.377195,17150,560,,16590,,,False,False,
-2020-07-03,MCO,Monaco,Monaco,43.738348,7.424451,106,5,,101,,,False,False,
-2020-07-03,MNE,Montenegro,Montenegro,42.710152,19.410069,616,12,,604,,,False,True,ME
+2020-07-04,MDA,Moldova,Moldova,46.979527,28.377195,17445,572,,16873,,,False,False,
+2020-07-04,MCO,Monaco,Monaco,43.738348,7.424451,106,5,,101,,,False,False,
+2020-07-04,MNE,Montenegro,Montenegro,42.710152,19.410069,663,13,,650,,,False,True,ME
 2020-07-03,NLD,Netherlands,Drenthe,52.863149,6.623756,536,0,0,536,0,0,True,True,NL13
 2020-07-03,NLD,Netherlands,Flevoland,52.436257,5.519078,987,0,0,987,0,0,True,True,NL23
 2020-07-03,NLD,Netherlands,Friesland,53.089388,5.871457,635,0,0,635,0,0,True,True,NL12
@@ -293,7 +293,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,NLD,Netherlands,South Holland,51.968696,4.541274,11412,0,0,11412,0,0,True,True,NL33
 2020-07-03,NLD,Netherlands,Utrecht,52.078728,5.214048,4042,0,0,4042,0,0,True,True,NL31
 2020-07-03,NLD,Netherlands,Zeeland,51.312779,3.786651,739,0,0,739,0,0,True,True,NL34
-2020-07-03,MKD,North Macedonia,North Macedonia,41.611,21.751417,6643,321,,6322,,,False,True,MK
+2020-07-04,MKD,North Macedonia,North Macedonia,41.611,21.751417,6643,321,,6322,,,False,True,MK
 2020-07-03,NOR,Norway,Agder,58.699661,7.618403,349,,,349,,,False,True,NO04
 2020-07-03,NOR,Norway,Innlandet,61.43354,10.427144,514,,,514,,,False,True,NO02
 2020-07-03,NOR,Norway,Møre og Romsdal,62.543569,8.540539,155,,,155,,,False,True,NO053
@@ -307,22 +307,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,296,,,296,,,False,True,NO033
 2020-07-03,NOR,Norway,Vestland,60.952729,6.513828,893,,,893,,,False,True,NO05
 2020-07-03,NOR,Norway,Viken,60.020274,9.849655,2454,,,2454,,,False,True,NO012
-2020-07-03,POL,Poland,Dolnośląskie,51.07994,16.381483,2933,149,,2784,,,True,True,PL51
-2020-07-03,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,679,49,,630,,,True,True,PL61
-2020-07-03,POL,Poland,Łódzkie,51.559579,19.408271,3210,173,,3037,,,True,True,PL71
-2020-07-03,POL,Poland,Lubelskie,51.247253,22.908895,668,18,,650,,,True,True,PL81
-2020-07-03,POL,Poland,Lubuskie,52.206458,15.345515,151,0,,151,,,True,True,PL43
-2020-07-03,POL,Poland,Małopolskie,49.842031,20.300847,1805,44,,1761,,,True,True,PL21
-2020-07-03,POL,Poland,Mazowieckie,52.309134,21.081201,5124,342,,4782,,,True,True,PL9
-2020-07-03,POL,Poland,Opolskie,50.621436,17.876844,964,51,,913,,,True,True,PL52
-2020-07-03,POL,Poland,Podkarpackie,49.962818,22.225966,694,51,,643,,,True,True,PL82
-2020-07-03,POL,Poland,Podlaskie,53.28395,22.895092,861,12,,849,,,True,True,PL84
-2020-07-03,POL,Poland,Pomorskie,54.129033,18.012613,681,38,,643,,,True,True,PL63
-2020-07-03,POL,Poland,Śląskie,50.318293,18.999987,13083,339,,12744,,,True,True,PL22
-2020-07-03,POL,Poland,Świętokrzyskie,50.734202,20.797295,822,40,,782,,,True,True,PL72
-2020-07-03,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,267,1,,266,,,True,True,PL62
-2020-07-03,POL,Poland,Wielkopolskie,52.283858,17.248218,2850,178,,2672,,,True,True,PL41
-2020-07-03,POL,Poland,Zachodniopomorskie,53.582707,15.634824,613,22,,591,,,True,True,PL42
+2020-07-04,POL,Poland,Dolnośląskie,51.07994,16.381483,2936,149,,2787,,,True,True,PL51
+2020-07-04,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,679,49,,630,,,True,True,PL61
+2020-07-04,POL,Poland,Łódzkie,51.559579,19.408271,3231,175,,3056,,,True,True,PL71
+2020-07-04,POL,Poland,Lubelskie,51.247253,22.908895,678,18,,660,,,True,True,PL81
+2020-07-04,POL,Poland,Lubuskie,52.206458,15.345515,151,0,,151,,,True,True,PL43
+2020-07-04,POL,Poland,Małopolskie,49.842031,20.300847,1834,44,,1790,,,True,True,PL21
+2020-07-04,POL,Poland,Mazowieckie,52.309134,21.081201,5152,344,,4808,,,True,True,PL9
+2020-07-04,POL,Poland,Opolskie,50.621436,17.876844,967,51,,916,,,True,True,PL52
+2020-07-04,POL,Poland,Podkarpackie,49.962818,22.225966,734,51,,683,,,True,True,PL82
+2020-07-04,POL,Poland,Podlaskie,53.28395,22.895092,874,12,,862,,,True,True,PL84
+2020-07-04,POL,Poland,Pomorskie,54.129033,18.012613,685,38,,647,,,True,True,PL63
+2020-07-04,POL,Poland,Śląskie,50.318293,18.999987,13176,340,,12836,,,True,True,PL22
+2020-07-04,POL,Poland,Świętokrzyskie,50.734202,20.797295,824,40,,784,,,True,True,PL72
+2020-07-04,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,271,1,,270,,,True,True,PL62
+2020-07-04,POL,Poland,Wielkopolskie,52.283858,17.248218,2907,178,,2729,,,True,True,PL41
+2020-07-04,POL,Poland,Zachodniopomorskie,53.582707,15.634824,620,22,,598,,,True,True,PL42
 2020-07-02,PRT,Portugal,Açores,37.775525,-25.494927,150,15,,135,,,True,True,PT20
 2020-07-02,PRT,Portugal,Alentejo,38.485499,-8.006668,491,7,,484,,,True,True,PT18
 2020-07-02,PRT,Portugal,Algarve,37.218389,-8.198488,632,15,,617,,,True,True,PT15
@@ -459,8 +459,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,6171,42,2513,3616,,,False,False,
 2020-07-03,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,4909,19,3556,1334,,,False,False,
 2020-07-03,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,3260,42,2184,1034,,,False,False,
-2020-07-03,SMR,San Marino,San Marino,43.942973,12.460035,698,42,,656,,,False,False,
-2020-07-03,SRB,Serbia,Serbia,44.206802,20.911009,15195,287,,14908,,,False,True,
+2020-07-04,SMR,San Marino,San Marino,43.942973,12.460035,713,42,,671,,,False,False,
+2020-07-04,SRB,Serbia,Serbia,44.206802,20.911009,15504,298,,15206,,,False,True,
 2020-07-04,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,135,,,135,,,True,True,SK032
 2020-07-04,SVK,Slovakia,Bratislava,48.319003,17.17481,399,,,399,,,True,True,SK010
 2020-07-04,SVK,Slovakia,Košice,48.771358,20.721931,285,,,285,,,True,True,SK042
@@ -474,7 +474,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,SI033
-2020-07-02,SVN,Slovenia,NOT SPECIFIED,,,1649,111,301,1237,10,0,True,True,
+2020-07-03,SVN,Slovenia,NOT SPECIFIED,,,1679,111,305,1263,6,0,True,True,
 2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,SI044
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,SI041
 2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,SI032
@@ -534,7 +534,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,CHE,Switzerland,Geneva,46.217114,6.131255,5231,295,847,4089,6,1,False,False,CH013
 2020-07-03,CHE,Switzerland,Glarus,46.980518,9.065544,129,13,0,116,0,0,False,False,CH051
 2020-07-03,CHE,Switzerland,Graubünden,46.658176,9.629923,837,50,0,787,0,0,False,False,CH056
-2020-07-03,CHE,Switzerland,Jura,47.368327,7.198733,227,7,0,220,0,0,False,False,CH025
+2020-07-03,CHE,Switzerland,Jura,47.368327,7.198733,235,7,0,228,0,0,False,False,CH025
 2020-07-03,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,81,0,0,0,False,False,LI
 2020-07-03,CHE,Switzerland,Lucerne,47.06883,8.116991,767,20,0,747,9,2,False,False,CH061
 2020-07-03,CHE,Switzerland,Neuchâtel,46.997282,6.782288,735,83,0,652,2,0,False,False,CH024
@@ -551,8 +551,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-03,CHE,Switzerland,Vaud,46.56176,6.648929,5587,424,0,5163,30,4,False,False,CH011
 2020-07-03,CHE,Switzerland,Zug,47.161402,8.538864,233,9,202,22,0,0,False,False,CH066
 2020-07-03,CHE,Switzerland,Zurich,47.417407,8.655988,3933,131,0,3802,8,0,False,False,CH040
-2020-07-03,TUR,Turkey,Turkey,38.961515,35.25175,202284,5167,,197117,,,False,True,TUR
-2020-07-03,UKR,Ukraine,NOT SPECIFIED,,,45887,1185,,44702,,,False,False,
+2020-07-04,TUR,Turkey,Turkey,38.961515,35.25175,203456,5186,,198270,,,False,True,TUR
+2020-07-04,UKR,Ukraine,NOT SPECIFIED,,,47677,1227,,46450,,,False,False,
 2020-07-02,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1255,0,0,1255,,,False,True,UKM93
 2020-07-02,GBR,United Kingdom,Borders,55.572787,-2.786355,345,0,0,345,,,False,True,UKM91
 2020-07-02,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,292,0,0,292,,,False,True,UKM92
