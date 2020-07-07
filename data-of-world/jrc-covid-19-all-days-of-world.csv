@@ -22629,6 +22629,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False
 2020-07-07,CYP,EU,Cyprus,35.167406,33.435499,1004,19,,985,,,True,True
 2020-07-07,CZE,EU,Czech Republic,49.800901,15.478153,12566,350,7873,4343,,,True,True
+2020-07-07,DNK,EU,Denmark,56.155403,11.617223,12888,609,,12279,,,True,True
 2020-07-07,DJI,AF,Djibouti,11.808375,42.595222,4822,55,,4767,,,False,False
 2020-07-07,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False
 2020-07-07,DOM,NA,Dominican Republic,18.736509,-70.161744,38128,804,,37324,,,False,False
@@ -22690,6 +22691,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,MYS,AS,Malaysia,4.109319,109.455475,8668,121,,8547,,,False,False
 2020-07-07,MDV,AS,Maldives,3.202833,73.165249,2491,12,,2479,,,False,False
 2020-07-07,MLI,AF,Mali,17.579757,-3.998823,2331,119,,2212,,,False,False
+2020-07-07,MLT,EU,Malta,35.946151,14.384612,673,9,653,11,,,True,True
 2020-07-07,MRT,AF,Mauritania,21.00681,-10.947098,4879,130,,4749,,,False,False
 2020-07-07,MUS,AF,Mauritius,-15.422486,60.006449,342,10,,332,,,False,False
 2020-07-07,MEX,NA,Mexico,23.624813,-102.578671,261750,31119,,230631,,,False,False
@@ -22741,6 +22743,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,LKA,AS,Sri Lanka,7.874097,80.767098,2078,11,,2067,,,False,False
 2020-07-07,SDN,AF,Sudan,15.45847,30.217636,9767,608,,9159,,,False,False
 2020-07-07,SUR,SA,Suriname,3.917845,-56.032028,614,14,,600,,,False,False
+2020-07-07,SWE,EU,Sweden,62.199806,17.637493,73344,5447,,67897,,2467,True,True
 2020-07-07,CHE,EU,Switzerland,46.815514,8.224472,32188,1965,6099,24124,85,12,False,False
 2020-07-07,TWN,AS,Taiwan,21.901806,121.471,449,7,,442,,,False,False
 2020-07-07,TJK,AS,Tajikistan,,,6262,53,,6209,,,False,False

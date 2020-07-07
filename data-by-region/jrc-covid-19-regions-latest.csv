@@ -96,15 +96,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-07,CZE,Czech Republic,Ústecký,50.488308,13.816736,586,0,0,586,,,True,True,CZ042
 2020-07-07,CZE,Czech Republic,Vysocina,49.40736,15.689937,198,0,0,198,,,True,True,CZ063
 2020-07-07,CZE,Czech Republic,Zlínský,49.239654,17.770218,383,0,0,383,,,True,True,CZ072
-2020-07-06,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,,187,,,True,True,FRO
-2020-07-06,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
-2020-07-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-07-06,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-07-06,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-07-06,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-07-06,DNK,Denmark,NOT SPECIFIED,,,12678,607,,12071,,,True,True,
-2020-07-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-07-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-07-07,DNK,Denmark,Faroe,62.194921,-7.096614,187,0,,187,,,True,True,FRO
+2020-07-07,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
+2020-07-07,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-07-07,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-07-07,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-07-07,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-07-07,DNK,Denmark,NOT SPECIFIED,,,12688,609,,12079,,,True,True,
+2020-07-07,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-07-07,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-07-06,EST,Estonia,Estonia,58.596209,25.023778,1994,69,0,1925,,,True,True,EE0
 2020-07-07,FIN,Finland,Ahvenanmaa,60.240625,19.966666,19,,,19,,,True,True,FI200
 2020-07-07,FIN,Finland,Etelä-Karjala,61.217899,28.550289,24,,,24,,,True,True,FI1C5
@@ -276,7 +276,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-07-07,LTU,Lithuania,Lithuania,55.174112,23.906736,1841,79,,1762,,,True,True,LT
 2020-07-06,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4542,110,959,3473,19,3,True,True,LU
-2020-07-06,MLT,Malta,Malta,35.946151,14.384612,672,9,652,11,,,True,True,MT001
+2020-07-07,MLT,Malta,Malta,35.946151,14.384612,673,9,653,11,,,True,True,MT001
 2020-07-07,MDA,Moldova,Moldova,46.979527,28.377195,17906,595,,17311,,,False,False,
 2020-07-07,MCO,Monaco,Monaco,43.738348,7.424451,108,5,,103,,,False,False,
 2020-07-07,MNE,Montenegro,Montenegro,42.710152,19.410069,841,14,,827,,,False,True,ME
@@ -502,28 +502,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-06,ESP,Spain,País Vasco,43.032149,-2.62166,13828,1561,,12267,7003,579,True,True,ES21
 2020-07-06,ESP,Spain,Principado de Asturias,43.292312,-5.992988,2435,334,,2101,1117,129,True,True,ES12
 2020-07-06,ESP,Spain,Región de Murcia,38.002069,-1.485219,1706,148,,1558,692,113,True,True,ES62
-2020-07-06,SWE,Sweden,Blekinge,56.279696,15.193246,460,,,460,,,True,True,SE221
-2020-07-06,SWE,Sweden,Dalarna,60.952955,14.350603,1801,,,1801,,,True,True,SE312
-2020-07-06,SWE,Sweden,Gävleborg,61.440899,16.291105,2691,,,2691,,,True,True,SE313
-2020-07-06,SWE,Sweden,Gotland,57.487051,18.510063,165,,,165,,,True,True,SE214
-2020-07-06,SWE,Sweden,Halland,56.953555,12.842898,1592,,,1592,,,True,True,SE231
-2020-07-06,SWE,Sweden,Jämtland,63.251956,14.312747,1063,,,1063,,,True,True,SE322
-2020-07-06,SWE,Sweden,Jönköping,57.499911,14.436577,4302,,,4302,,,True,True,SE211
-2020-07-06,SWE,Sweden,Kalmar,57.245033,16.053939,701,,,701,,,True,True,SE213
-2020-07-06,SWE,Sweden,Kronoberg,56.786938,14.574736,1073,,,1073,,,True,True,SE212
-2020-07-06,SWE,Sweden,Norrbotten,66.954122,20.083057,1390,,,1390,,,True,True,SE332
-2020-07-06,SWE,Sweden,NOT SPECIFIED,,,,5433,,-5433,,2461,True,True,
-2020-07-06,SWE,Sweden,Örebro,59.350249,14.974992,2421,,,2421,,,True,True,SE124
-2020-07-06,SWE,Sweden,Östergötland,58.354622,15.661533,3353,,,3353,,,True,True,SE123
-2020-07-06,SWE,Sweden,Skåne,55.948711,13.596415,3153,,,3153,,,True,True,SE224
-2020-07-06,SWE,Sweden,Södermanland,59.077751,16.685977,2243,,,2243,,,True,True,SE122
-2020-07-06,SWE,Sweden,Stockholm,59.370877,17.711874,21444,,,21444,,,True,True,SE11
-2020-07-06,SWE,Sweden,Uppsala,60.039134,17.672887,3390,,,3390,,,True,True,SE121
-2020-07-06,SWE,Sweden,Värmland,59.768908,13.153806,984,,,984,,,True,True,SE311
-2020-07-06,SWE,Sweden,Västerbotten,64.862069,17.819194,741,,,741,,,True,True,SE331
-2020-07-06,SWE,Sweden,Västernorrland,63.096635,17.251241,1476,,,1476,,,True,True,SE321
-2020-07-06,SWE,Sweden,Västmanland,59.801595,16.318208,2408,,,2408,,,True,True,SE125
-2020-07-06,SWE,Sweden,Västra Götaland,58.303302,12.891496,16210,,,16210,,,True,True,SE232
+2020-07-07,SWE,Sweden,Blekinge,56.279696,15.193246,462,,,462,,,True,True,SE221
+2020-07-07,SWE,Sweden,Dalarna,60.952955,14.350603,1804,,,1804,,,True,True,SE312
+2020-07-07,SWE,Sweden,Gävleborg,61.440899,16.291105,2721,,,2721,,,True,True,SE313
+2020-07-07,SWE,Sweden,Gotland,57.487051,18.510063,174,,,174,,,True,True,SE214
+2020-07-07,SWE,Sweden,Halland,56.953555,12.842898,1592,,,1592,,,True,True,SE231
+2020-07-07,SWE,Sweden,Jämtland,63.251956,14.312747,1064,,,1064,,,True,True,SE322
+2020-07-07,SWE,Sweden,Jönköping,57.499911,14.436577,4305,,,4305,,,True,True,SE211
+2020-07-07,SWE,Sweden,Kalmar,57.245033,16.053939,707,,,707,,,True,True,SE213
+2020-07-07,SWE,Sweden,Kronoberg,56.786938,14.574736,1075,,,1075,,,True,True,SE212
+2020-07-07,SWE,Sweden,Norrbotten,66.954122,20.083057,1428,,,1428,,,True,True,SE332
+2020-07-07,SWE,Sweden,NOT SPECIFIED,,,,5447,,-5447,,2467,True,True,
+2020-07-07,SWE,Sweden,Örebro,59.350249,14.974992,2443,,,2443,,,True,True,SE124
+2020-07-07,SWE,Sweden,Östergötland,58.354622,15.661533,3358,,,3358,,,True,True,SE123
+2020-07-07,SWE,Sweden,Skåne,55.948711,13.596415,3173,,,3173,,,True,True,SE224
+2020-07-07,SWE,Sweden,Södermanland,59.077751,16.685977,2264,,,2264,,,True,True,SE122
+2020-07-07,SWE,Sweden,Stockholm,59.370877,17.711874,21490,,,21490,,,True,True,SE11
+2020-07-07,SWE,Sweden,Uppsala,60.039134,17.672887,3398,,,3398,,,True,True,SE121
+2020-07-07,SWE,Sweden,Värmland,59.768908,13.153806,986,,,986,,,True,True,SE311
+2020-07-07,SWE,Sweden,Västerbotten,64.862069,17.819194,741,,,741,,,True,True,SE331
+2020-07-07,SWE,Sweden,Västernorrland,63.096635,17.251241,1503,,,1503,,,True,True,SE321
+2020-07-07,SWE,Sweden,Västmanland,59.801595,16.318208,2425,,,2425,,,True,True,SE125
+2020-07-07,SWE,Sweden,Västra Götaland,58.303302,12.891496,16231,,,16231,,,True,True,SE232
 2020-07-07,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False,CH033
 2020-07-07,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,104,3,0,101,1,0,False,False,CH053
 2020-07-07,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False,CH054
