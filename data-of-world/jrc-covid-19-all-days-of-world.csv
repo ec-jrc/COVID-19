@@ -23018,6 +23018,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,COL,SA,Colombia,4.577317,-74.298973,128638,4527,,124111,,,False,False
 2020-07-09,COM,AF,Comoros,,,313,7,,306,,,False,False
 2020-07-09,CRI,NA,Costa Rica,9.624897,-84.253308,5836,24,,5812,,,False,False
+2020-07-09,HRV,EU,Croatia,44.48732,16.460306,3416,115,,3301,,,True,True
 2020-07-09,CUB,NA,Cuba,21.527062,-79.544601,2399,86,,2313,,,False,False
 2020-07-09,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False
 2020-07-09,CYP,EU,Cyprus,35.167406,33.435499,1008,19,,989,,,True,True
@@ -23137,7 +23138,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,SDN,AF,Sudan,15.45847,30.217636,10084,636,,9448,,,False,False
 2020-07-09,SUR,SA,Suriname,3.917845,-56.032028,665,17,,648,,,False,False
 2020-07-09,SWE,EU,Sweden,62.199806,17.637493,74333,5500,,68833,,2470,True,True
-2020-07-09,CHE,EU,Switzerland,46.815514,8.224472,32347,1965,6118,24264,74,11,False,False
+2020-07-09,CHE,EU,Switzerland,46.815514,8.224472,32350,1965,6120,24265,72,10,False,False
 2020-07-09,TWN,AS,Taiwan,21.901806,121.471,449,7,,442,,,False,False
 2020-07-09,TJK,AS,Tajikistan,,,6364,54,,6310,,,False,False
 2020-07-09,THA,AS,Thailand,13.036597,101.492515,3202,58,,3144,,,False,False
