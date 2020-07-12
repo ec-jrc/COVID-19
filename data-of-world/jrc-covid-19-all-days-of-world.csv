@@ -23601,6 +23601,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,COL,SA,Colombia,4.577317,-74.298973,145362,5119,,140243,,,False,False
 2020-07-12,COM,AF,Comoros,,,317,7,,310,,,False,False
 2020-07-12,CRI,NA,Costa Rica,9.624897,-84.253308,7231,28,,7203,,,False,False
+2020-07-12,HRV,EU,Croatia,44.48732,16.460306,3722,119,,3603,,,True,True
 2020-07-12,CUB,NA,Cuba,21.527062,-79.544601,2420,87,,2333,,,False,False
 2020-07-12,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False
 2020-07-12,CYP,EU,Cyprus,35.167406,33.435499,1014,19,,995,,,True,True
@@ -23697,6 +23698,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,PRI,NA,Puerto Rico,18.223285,-66.592731,9533,167,,9366,,,False,False
 2020-07-12,QAT,AS,Qatar,25.318833,51.19693,103128,146,,102982,,,False,False
 2020-07-12,ROU,EU,Romania,45.947125,24.980514,32498,1884,,30614,,,True,True
+2020-07-12,RUS,EU,Russian Fed.,61.523111,-74.9,727162,11335,501061,214766,,,False,False
 2020-07-12,RWA,AF,Rwanda,-1.94708,29.876376,1299,4,,1295,,,False,False
 2020-07-12,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,17,0,,17,,,False,False
 2020-07-12,LCA,NA,Saint Lucia,13.904011,-60.974176,22,0,,22,,,False,False
