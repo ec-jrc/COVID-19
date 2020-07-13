@@ -81,21 +81,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-12,HRV,Croatia,Zadarska,44.347845,15.959404,147,2,,145,,,True,True,HR033
 2020-07-12,HRV,Croatia,Zagrebačka,45.82762,16.381796,203,9,,194,,,True,True,HR042
 2020-07-12,CYP,Cyprus,Cyprus,35.167406,33.435499,1014,19,,995,,,True,True,CY
-2020-07-12,CZE,Czech Republic,Jihoceský,49.093362,14.439278,211,0,0,211,,,True,True,CZ031
-2020-07-12,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,701,0,0,701,,,True,True,CZ064
-2020-07-12,CZE,Czech Republic,Karlovarský,50.170136,12.763213,480,0,0,480,,,True,True,CZ041
-2020-07-12,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,240,0,0,240,,,True,True,CZ052
-2020-07-12,CZE,Czech Republic,Liberecký,50.732038,14.973755,312,0,0,312,,,True,True,CZ051
-2020-07-12,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,3690,0,0,3690,,,True,True,CZ080
-2020-07-12,CZE,Czech Republic,NOT SPECIFIED,,,330,352,8227,-8249,,,True,True,
-2020-07-12,CZE,Czech Republic,Olomoucký,49.823636,17.016472,939,0,0,939,,,True,True,CZ071
-2020-07-12,CZE,Czech Republic,Pardubický,49.877869,16.495746,327,0,0,327,,,True,True,CZ053
-2020-07-12,CZE,Czech Republic,Plzenský,49.590906,13.23222,687,0,0,687,,,True,True,CZ032
-2020-07-12,CZE,Czech Republic,Prague,50.063699,14.476403,2662,0,0,2662,,,True,True,CZ010
-2020-07-12,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1325,0,0,1325,,,True,True,CZ020
-2020-07-12,CZE,Czech Republic,Ústecký,50.488308,13.816736,589,0,0,589,,,True,True,CZ042
-2020-07-12,CZE,Czech Republic,Vysocina,49.40736,15.689937,222,0,0,222,,,True,True,CZ063
-2020-07-12,CZE,Czech Republic,Zlínský,49.239654,17.770218,400,0,0,400,,,True,True,CZ072
+2020-07-13,CZE,Czech Republic,Jihoceský,49.093362,14.439278,211,0,0,211,,,True,True,CZ031
+2020-07-13,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,703,0,0,703,,,True,True,CZ064
+2020-07-13,CZE,Czech Republic,Karlovarský,50.170136,12.763213,479,0,0,479,,,True,True,CZ041
+2020-07-13,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,241,0,0,241,,,True,True,CZ052
+2020-07-13,CZE,Czech Republic,Liberecký,50.732038,14.973755,313,0,0,313,,,True,True,CZ051
+2020-07-13,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,3727,0,0,3727,,,True,True,CZ080
+2020-07-13,CZE,Czech Republic,NOT SPECIFIED,,,332,352,8246,-8266,,,True,True,
+2020-07-13,CZE,Czech Republic,Olomoucký,49.823636,17.016472,940,0,0,940,,,True,True,CZ071
+2020-07-13,CZE,Czech Republic,Pardubický,49.877869,16.495746,328,0,0,328,,,True,True,CZ053
+2020-07-13,CZE,Czech Republic,Plzenský,49.590906,13.23222,687,0,0,687,,,True,True,CZ032
+2020-07-13,CZE,Czech Republic,Prague,50.063699,14.476403,2669,0,0,2669,,,True,True,CZ010
+2020-07-13,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1329,0,0,1329,,,True,True,CZ020
+2020-07-13,CZE,Czech Republic,Ústecký,50.488308,13.816736,589,0,0,589,,,True,True,CZ042
+2020-07-13,CZE,Czech Republic,Vysocina,49.40736,15.689937,225,0,0,225,,,True,True,CZ063
+2020-07-13,CZE,Czech Republic,Zlínský,49.239654,17.770218,401,0,0,401,,,True,True,CZ072
 2020-07-10,DNK,Denmark,Faroe,62.194921,-7.096614,188,0,,188,,,True,True,FRO
 2020-07-10,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
 2020-07-10,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -275,7 +275,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-12,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-07-12,LTU,Lithuania,Lithuania,55.174112,23.906736,1865,79,,1786,,,True,True,LT
-2020-07-10,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4777,110,967,3700,24,3,True,True,LU
+2020-07-12,LUX,Luxembourg,Luxembourg,49.815764,6.131514,4925,111,967,3847,24,3,True,True,LU
 2020-07-12,MLT,Malta,Malta,35.946151,14.384612,0,660,674,-1334,,,True,True,MT001
 2020-07-12,MDA,Moldova,Moldova,46.979527,28.377195,19208,640,,18568,,,False,False,
 2020-07-12,MCO,Monaco,Monaco,43.738348,7.424451,109,5,,104,,,False,False,
@@ -461,15 +461,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-12,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,3638,45,2707,886,,,False,False,
 2020-07-12,SMR,San Marino,San Marino,43.942973,12.460035,714,42,,672,,,False,False,
 2020-07-12,SRB,Serbia,Serbia,44.206802,20.911009,18073,382,,17691,,,False,True,
-2020-07-12,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,152,,,152,,,True,True,SK032
-2020-07-12,SVK,Slovakia,Bratislava,48.319003,17.17481,429,,,429,,,True,True,SK010
-2020-07-12,SVK,Slovakia,Košice,48.771358,20.721931,299,,,299,,,True,True,SK042
-2020-07-12,SVK,Slovakia,Nitra,48.140652,18.30311,130,,,130,,,True,True,SK023
-2020-07-12,SVK,Slovakia,NOT SPECIFIED,,,0,28,1493,-1521,13,3,True,True,
-2020-07-12,SVK,Slovakia,Prešov,49.126441,21.221321,238,,,238,,,True,True,SK041
-2020-07-12,SVK,Slovakia,Trencín,48.858564,18.202196,218,,,218,,,True,True,SK022
-2020-07-12,SVK,Slovakia,Trnava,48.222651,17.707847,136,,,136,,,True,True,SK021
-2020-07-12,SVK,Slovakia,Zilina,49.178517,19.167163,299,,,299,,,True,True,SK031
+2020-07-13,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,152,,,152,,,True,True,SK032
+2020-07-13,SVK,Slovakia,Bratislava,48.319003,17.17481,429,,,429,,,True,True,SK010
+2020-07-13,SVK,Slovakia,Košice,48.771358,20.721931,299,,,299,,,True,True,SK042
+2020-07-13,SVK,Slovakia,Nitra,48.140652,18.30311,130,,,130,,,True,True,SK023
+2020-07-13,SVK,Slovakia,NOT SPECIFIED,,,0,28,1493,-1521,13,3,True,True,
+2020-07-13,SVK,Slovakia,Prešov,49.126441,21.221321,239,,,239,,,True,True,SK041
+2020-07-13,SVK,Slovakia,Trencín,48.858564,18.202196,218,,,218,,,True,True,SK022
+2020-07-13,SVK,Slovakia,Trnava,48.222651,17.707847,136,,,136,,,True,True,SK021
+2020-07-13,SVK,Slovakia,Zilina,49.178517,19.167163,299,,,299,,,True,True,SK031
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,SI042
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
