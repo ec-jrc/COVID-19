@@ -871,7 +871,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,AUS,OC,Australia,-26.853388,133.275155,29,1,,28,,,False,False
 2020-03-02,AZE,AS,Azerbaijan,40.147396,47.572098,3,,,3,,,False,False
 2020-03-02,BHR,AS,Bahrain,26.039722,50.559306,47,,,47,,,False,False
-2020-03-02,BEL,EU,Belgium,50.499527,4.475402,36,0,,36,0,0,True,True
+2020-03-02,BEL,EU,Belgium,50.499527,4.475402,37,0,,37,0,0,True,True
 2020-03-02,BRA,SA,Brazil,-14.242914,-53.189267,2,,,2,,,False,False
 2020-03-02,KHM,AS,Cambodia,12.54775,104.98386,1,,,1,,,False,False
 2020-03-02,CAN,NA,Canada,62.393303,-96.818145,24,,,24,,,False,False
@@ -913,7 +913,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,USA,NA,United States of America,36.966428,-95.844032,89,2,,87,,,False,False
 2020-03-02,VNM,AS,Vietnam,15.974222,105.806431,16,,,16,,,False,False
 2020-03-03,AUS,OC,Australia,-26.853388,133.275155,33,1,,32,,,False,False
-2020-03-03,BEL,EU,Belgium,50.499527,4.475402,71,0,,71,0,0,True,True
+2020-03-03,BEL,EU,Belgium,50.499527,4.475402,72,0,,72,0,0,True,True
 2020-03-03,CAN,NA,Canada,62.393303,-96.818145,27,,,27,,,False,False
 2020-03-03,CHN,AS,China,34.668138,104.165802,80261,2946,,77315,,,False,False
 2020-03-03,ECU,SA,Ecuador,-1.779901,-78.131592,7,,,7,,,False,False
@@ -945,7 +945,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-04,ARG,SA,Argentina,-38.421295,-63.587403,1,,,1,,,False,False
 2020-03-04,AUS,OC,Australia,-26.853388,133.275155,41,1,,40,,,False,False
 2020-03-04,BHR,AS,Bahrain,26.039722,50.559306,49,,,49,,,False,False
-2020-03-04,BEL,EU,Belgium,50.499527,4.475402,125,0,,125,0,0,True,True
+2020-03-04,BEL,EU,Belgium,50.499527,4.475402,126,0,,126,0,0,True,True
 2020-03-04,CAN,NA,Canada,62.393303,-96.818145,30,,,30,,,False,False
 2020-03-04,CHL,SA,Chile,-36.711951,-73.601704,1,,,1,,,False,False
 2020-03-04,CHN,AS,China,34.668138,104.165802,80380,2983,,77397,,,False,False
@@ -976,7 +976,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-05,AUS,OC,Australia,-26.853388,133.275155,52,2,,50,,,False,False
 2020-03-05,AUT,EU,Austria,47.697542,13.349319,41,,,41,,,True,True
 2020-03-05,BHR,AS,Bahrain,26.039722,50.559306,52,,,52,,,False,False
-2020-03-05,BEL,EU,Belgium,50.499527,4.475402,206,0,,206,0,0,True,True
+2020-03-05,BEL,EU,Belgium,50.499527,4.475402,207,0,,207,0,0,True,True
 2020-03-05,BRA,SA,Brazil,-14.242914,-53.189267,3,,,3,,,False,False
 2020-03-05,CAN,NA,Canada,62.393303,-96.818145,33,,,33,,,False,False
 2020-03-05,CHL,SA,Chile,-36.711951,-73.601704,3,,,3,,,False,False
@@ -22802,7 +22802,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,BGD,AS,Bangladesh,23.68764,90.351002,168645,2151,,166494,,,False,False
 2020-07-08,BRB,NA,Barbados,13.183551,-59.534649,98,7,,91,,,False,False
 2020-07-08,BLR,EU,Belarus,53.711111,27.973847,64003,436,,63567,,,False,False
-2020-07-08,BEL,EU,Belgium,50.499527,4.475402,62404,9781,,52623,165,32,True,True
+2020-07-08,BEL,EU,Belgium,50.499527,4.475402,62405,9781,,52624,165,32,True,True
 2020-07-08,BLZ,NA,Belize,17.192929,-88.5009,30,2,,28,,,False,False
 2020-07-08,BEN,AF,Benin,9.322048,2.313138,1199,21,,1178,,,False,False
 2020-07-08,BMU,NA,Bermuda,32.320236,-64.774022,148,9,,139,,,False,False
@@ -22998,7 +22998,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,BGD,AS,Bangladesh,23.68764,90.351002,172134,2197,,169937,,,False,False
 2020-07-09,BRB,NA,Barbados,13.183551,-59.534649,98,7,,91,,,False,False
 2020-07-09,BLR,EU,Belarus,53.711111,27.973847,64224,443,,63781,,,False,False
-2020-07-09,BEL,EU,Belgium,50.499527,4.475402,62511,9782,,52729,160,36,True,True
+2020-07-09,BEL,EU,Belgium,50.499527,4.475402,62525,9782,,52743,160,36,True,True
 2020-07-09,BLZ,NA,Belize,17.192929,-88.5009,30,2,,28,,,False,False
 2020-07-09,BEN,AF,Benin,9.322048,2.313138,1285,23,,1262,,,False,False
 2020-07-09,BMU,NA,Bermuda,32.320236,-64.774022,149,9,,140,,,False,False
@@ -23195,7 +23195,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,BGD,AS,Bangladesh,23.68764,90.351002,175494,2238,,173256,,,False,False
 2020-07-10,BRB,NA,Barbados,13.183551,-59.534649,98,7,,91,,,False,False
 2020-07-10,BLR,EU,Belarus,53.711111,27.973847,64411,449,,63962,,,False,False
-2020-07-10,BEL,EU,Belgium,50.499527,4.475402,62597,9782,,52815,143,32,True,True
+2020-07-10,BEL,EU,Belgium,50.499527,4.475402,62640,9783,,52857,143,32,True,True
 2020-07-10,BLZ,NA,Belize,17.192929,-88.5009,33,2,,31,,,False,False
 2020-07-10,BEN,AF,Benin,9.322048,2.313138,1285,23,,1262,,,False,False
 2020-07-10,BMU,NA,Bermuda,32.320236,-64.774022,149,9,,140,,,False,False
@@ -23392,7 +23392,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,BGD,AS,Bangladesh,23.68764,90.351002,178443,2275,,176168,,,False,False
 2020-07-11,BRB,NA,Barbados,13.183551,-59.534649,98,7,,91,,,False,False
 2020-07-11,BLR,EU,Belarus,53.711111,27.973847,64604,454,,64150,,,False,False
-2020-07-11,BEL,EU,Belgium,50.499527,4.475402,62707,9782,,52925,0,0,True,True
+2020-07-11,BEL,EU,Belgium,50.499527,4.475402,62681,9785,,52896,132,28,True,True
 2020-07-11,BLZ,NA,Belize,17.192929,-88.5009,37,2,,35,,,False,False
 2020-07-11,BEN,AF,Benin,9.322048,2.313138,1285,23,,1262,,,False,False
 2020-07-11,BMU,NA,Bermuda,32.320236,-64.774022,150,9,,141,,,False,False
@@ -23583,6 +23583,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,BGD,AS,Bangladesh,23.68764,90.351002,181129,2305,,178824,,,False,False
 2020-07-12,BRB,NA,Barbados,13.183551,-59.534649,103,7,,96,,,False,False
 2020-07-12,BLR,EU,Belarus,53.711111,27.973847,64767,459,,64308,,,False,False
+2020-07-12,BEL,EU,Belgium,50.499527,4.475402,62781,9787,,52994,130,27,True,True
 2020-07-12,BLZ,NA,Belize,17.192929,-88.5009,37,2,,35,,,False,False
 2020-07-12,BEN,AF,Benin,9.322048,2.313138,1378,26,,1352,,,False,False
 2020-07-12,BMU,NA,Bermuda,32.320236,-64.774022,150,9,,141,,,False,False
