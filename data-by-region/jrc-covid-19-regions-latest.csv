@@ -307,22 +307,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-14,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,301,,,301,,,False,True,NO033
 2020-07-14,NOR,Norway,Vestland,60.952729,6.513828,895,,,895,,,False,True,NO05
 2020-07-14,NOR,Norway,Viken,60.020274,9.849655,2489,,,2489,,,False,True,NO012
-2020-07-15,POL,Poland,Dolnośląskie,51.07994,16.381483,2991,152,,2839,,,True,True,PL51
-2020-07-15,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,707,49,,658,,,True,True,PL61
-2020-07-15,POL,Poland,Łódzkie,51.559579,19.408271,3488,189,,3299,,,True,True,PL71
-2020-07-15,POL,Poland,Lubelskie,51.247253,22.908895,845,20,,825,,,True,True,PL81
-2020-07-15,POL,Poland,Lubuskie,52.206458,15.345515,257,1,,256,,,True,True,PL43
-2020-07-15,POL,Poland,Małopolskie,49.842031,20.300847,2173,47,,2126,,,True,True,PL21
-2020-07-15,POL,Poland,Mazowieckie,52.309134,21.081201,5499,354,,5145,,,True,True,PL9
-2020-07-15,POL,Poland,Opolskie,50.621436,17.876844,1015,54,,961,,,True,True,PL52
-2020-07-15,POL,Poland,Podkarpackie,49.962818,22.225966,979,55,,924,,,True,True,PL82
-2020-07-15,POL,Poland,Podlaskie,53.28395,22.895092,904,16,,888,,,True,True,PL84
-2020-07-15,POL,Poland,Pomorskie,54.129033,18.012613,715,38,,677,,,True,True,PL63
-2020-07-15,POL,Poland,Śląskie,50.318293,18.999987,14032,366,,13666,,,True,True,PL22
-2020-07-15,POL,Poland,Świętokrzyskie,50.734202,20.797295,866,42,,824,,,True,True,PL72
-2020-07-15,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,286,1,,285,,,True,True,PL62
-2020-07-15,POL,Poland,Wielkopolskie,52.283858,17.248218,3322,187,,3135,,,True,True,PL41
-2020-07-15,POL,Poland,Zachodniopomorskie,53.582707,15.634824,642,23,,619,,,True,True,PL42
+2020-07-16,POL,Poland,Dolnośląskie,51.07994,16.381483,3017,152,,2865,,,True,True,PL51
+2020-07-16,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,713,49,,664,,,True,True,PL61
+2020-07-16,POL,Poland,Łódzkie,51.559579,19.408271,3526,190,,3336,,,True,True,PL71
+2020-07-16,POL,Poland,Lubelskie,51.247253,22.908895,849,20,,829,,,True,True,PL81
+2020-07-16,POL,Poland,Lubuskie,52.206458,15.345515,261,1,,260,,,True,True,PL43
+2020-07-16,POL,Poland,Małopolskie,49.842031,20.300847,2233,47,,2186,,,True,True,PL21
+2020-07-16,POL,Poland,Mazowieckie,52.309134,21.081201,5536,359,,5177,,,True,True,PL9
+2020-07-16,POL,Poland,Opolskie,50.621436,17.876844,1019,54,,965,,,True,True,PL52
+2020-07-16,POL,Poland,Podkarpackie,49.962818,22.225966,1015,55,,960,,,True,True,PL82
+2020-07-16,POL,Poland,Podlaskie,53.28395,22.895092,904,16,,888,,,True,True,PL84
+2020-07-16,POL,Poland,Pomorskie,54.129033,18.012613,718,38,,680,,,True,True,PL63
+2020-07-16,POL,Poland,Śląskie,50.318293,18.999987,14121,369,,13752,,,True,True,PL22
+2020-07-16,POL,Poland,Świętokrzyskie,50.734202,20.797295,869,44,,825,,,True,True,PL72
+2020-07-16,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,286,1,,285,,,True,True,PL62
+2020-07-16,POL,Poland,Wielkopolskie,52.283858,17.248218,3342,187,,3155,,,True,True,PL41
+2020-07-16,POL,Poland,Zachodniopomorskie,53.582707,15.634824,645,23,,622,,,True,True,PL42
 2020-07-15,PRT,Portugal,Açores,37.775525,-25.494927,151,15,,136,,,True,True,PT20
 2020-07-15,PRT,Portugal,Alentejo,38.485499,-8.006668,586,18,,568,,,True,True,PT18
 2020-07-15,PRT,Portugal,Algarve,37.218389,-8.198488,725,15,,710,,,True,True,PT15
@@ -545,7 +545,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-16,CHE,Switzerland,Solothurn,47.336648,7.686944,499,17,0,482,0,0,False,False,CH023
 2020-07-16,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
 2020-07-16,CHE,Switzerland,Thurgau,47.567205,9.112572,417,18,71,328,4,1,False,False,CH057
-2020-07-16,CHE,Switzerland,Ticino,46.297963,8.808447,3381,350,916,2115,4,1,False,False,CH07
+2020-07-16,CHE,Switzerland,Ticino,46.297963,8.808447,3390,350,916,2124,4,2,False,False,CH07
 2020-07-16,CHE,Switzerland,Uri,46.775402,8.627444,111,7,93,11,0,0,False,False,CH062
 2020-07-16,CHE,Switzerland,Valais,46.211633,7.611267,2097,153,309,1635,7,2,False,False,CH012
 2020-07-16,CHE,Switzerland,Vaud,46.56176,6.648929,5732,424,0,5308,10,3,False,False,CH011
