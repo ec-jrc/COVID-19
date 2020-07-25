@@ -823,7 +823,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-02-29,VNM,AS,Vietnam,15.974222,105.806431,16,,,16,,,False,False
 2020-03-01,AFG,AS,Afghanistan,33.930445,67.678945,1,,,1,,,False,False
 2020-03-01,DZA,AF,Algeria,28.026875,1.65284,1,,,1,,,False,False
-2020-03-01,ARM,AS,Armenia,40.066181,45.111108,1,,,1,,,False,False
 2020-03-01,AUS,OC,Australia,-26.853388,133.275155,26,1,,25,,,False,False
 2020-03-01,AZE,AS,Azerbaijan,40.147396,47.572098,1,,,1,,,False,False
 2020-03-01,BHR,AS,Bahrain,26.039722,50.559306,41,,,41,,,False,False
@@ -867,7 +866,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-01,VNM,AS,Vietnam,15.974222,105.806431,16,,,16,,,False,False
 2020-03-02,AFG,AS,Afghanistan,33.930445,67.678945,1,,,1,,,False,False
 2020-03-02,DZA,AF,Algeria,28.026875,1.65284,3,,,3,,,False,False
-2020-03-02,ARM,AS,Armenia,40.066181,45.111108,1,,,1,,,False,False
 2020-03-02,AUS,OC,Australia,-26.853388,133.275155,29,1,,28,,,False,False
 2020-03-02,AZE,AS,Azerbaijan,40.147396,47.572098,3,,,3,,,False,False
 2020-03-02,BHR,AS,Bahrain,26.039722,50.559306,47,,,47,,,False,False
@@ -1311,7 +1309,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,VNM,AS,Vietnam,15.974222,105.806431,35,,,35,,,False,False
 2020-03-12,DZA,AF,Algeria,28.026875,1.65284,20,,,20,,,False,False
 2020-03-12,AND,EU,Andorra,42.542268,1.596865,1,0,0,1,,,False,False
-2020-03-12,ARM,AS,Armenia,40.066181,45.111108,4,,,4,,,False,False
 2020-03-12,AUS,OC,Australia,-26.853388,133.275155,126,3,,123,,,False,False
 2020-03-12,AUT,EU,Austria,47.697542,13.349319,361,,,361,,,True,True
 2020-03-12,AZE,AS,Azerbaijan,40.147396,47.572098,13,,,13,,,False,False
@@ -1389,7 +1386,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,DZA,AF,Algeria,28.026875,1.65284,24,1,,23,,,False,False
 2020-03-13,AND,EU,Andorra,42.542268,1.596865,1,0,0,1,,,False,False
 2020-03-13,ARG,SA,Argentina,-38.421295,-63.587403,31,1,,30,,,False,False
-2020-03-13,ARM,AS,Armenia,40.066181,45.111108,6,,,6,,,False,False
 2020-03-13,AUS,OC,Australia,-26.853388,133.275155,156,3,,153,,,False,False
 2020-03-13,AUT,EU,Austria,47.697542,13.349319,428,,,428,,,True,True
 2020-03-13,AZE,AS,Azerbaijan,40.147396,47.572098,13,,,13,,,False,False
@@ -1469,7 +1465,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,VNM,AS,Vietnam,15.974222,105.806431,44,,,44,,,False,False
 2020-03-14,DZA,AF,Algeria,28.026875,1.65284,26,2,,24,,,False,False
 2020-03-14,ARG,SA,Argentina,-38.421295,-63.587403,34,2,,32,,,False,False
-2020-03-14,ARM,AS,Armenia,40.066181,45.111108,13,,,13,,,False,False
 2020-03-14,AUS,OC,Australia,-26.853388,133.275155,197,3,,194,,,False,False
 2020-03-14,AUT,EU,Austria,47.697542,13.349319,655,,,655,,,True,True
 2020-03-14,BHR,AS,Bahrain,26.039722,50.559306,210,,,210,,,False,False
@@ -1544,7 +1539,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-15,DZA,AF,Algeria,28.026875,1.65284,37,2,,35,,,False,False
 2020-03-15,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,1,,,1,,,False,False
 2020-03-15,ARG,SA,Argentina,-38.421295,-63.587403,45,2,,43,,,False,False
-2020-03-15,ARM,AS,Armenia,40.066181,45.111108,20,,,20,,,False,False
 2020-03-15,AUS,OC,Australia,-26.853388,133.275155,249,3,,246,,,False,False
 2020-03-15,AUT,EU,Austria,47.697542,13.349319,860,,,860,,,True,True
 2020-03-15,AZE,AS,Azerbaijan,40.147396,47.572098,19,,,19,,,False,False
@@ -1642,7 +1636,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,DZA,AF,Algeria,28.026875,1.65284,48,4,,44,,,False,False
 2020-03-16,AND,EU,Andorra,42.542268,1.596865,5,0,0,5,,,False,False
 2020-03-16,ARG,SA,Argentina,-38.421295,-63.587403,56,2,,54,,,False,False
-2020-03-16,ARM,AS,Armenia,40.066181,45.111108,30,,,30,,,False,False
 2020-03-16,AUS,OC,Australia,-26.853388,133.275155,298,5,,293,,,False,False
 2020-03-16,AUT,EU,Austria,47.697542,13.349319,1016,,,1016,,,True,True
 2020-03-16,AZE,AS,Azerbaijan,40.147396,47.572098,19,,,19,,,False,False
@@ -1754,7 +1747,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,DZA,AF,Algeria,28.026875,1.65284,60,4,,56,,,False,False
 2020-03-17,AND,EU,Andorra,42.542268,1.596865,17,0,0,17,,,False,False
 2020-03-17,ARG,SA,Argentina,-38.421295,-63.587403,65,2,,63,,,False,False
-2020-03-17,ARM,AS,Armenia,40.066181,45.111108,52,,,52,,,False,False
 2020-03-17,AUS,OC,Australia,-26.853388,133.275155,375,5,,370,,,False,False
 2020-03-17,AUT,EU,Austria,47.697542,13.349319,1332,,,1332,,,True,True
 2020-03-17,AZE,AS,Azerbaijan,40.147396,47.572098,19,,,19,,,False,False
@@ -1875,7 +1867,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,DZA,AF,Algeria,28.026875,1.65284,60,5,,55,,,False,False
 2020-03-18,AND,EU,Andorra,42.542268,1.596865,39,0,0,39,,,False,False
 2020-03-18,ARG,SA,Argentina,-38.421295,-63.587403,79,2,,77,,,False,False
-2020-03-18,ARM,AS,Armenia,40.066181,45.111108,78,,,78,,,False,False
 2020-03-18,AUS,OC,Australia,-26.853388,133.275155,454,5,,449,,,False,False
 2020-03-18,AUT,EU,Austria,47.697542,13.349319,1592,,,1592,,,True,True
 2020-03-18,AZE,AS,Azerbaijan,40.147396,47.572098,28,,,28,,,False,False
@@ -2007,7 +1998,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,DZA,AF,Algeria,28.026875,1.65284,73,6,,67,,,False,False
 2020-03-19,AND,EU,Andorra,42.542268,1.596865,53,0,0,53,,,False,False
 2020-03-19,ARG,SA,Argentina,-38.421295,-63.587403,97,2,,95,,,False,False
-2020-03-19,ARM,AS,Armenia,40.066181,45.111108,115,,,115,,,False,False
 2020-03-19,AUS,OC,Australia,-26.853388,133.275155,565,6,,559,,,False,False
 2020-03-19,AUT,EU,Austria,47.697542,13.349319,2013,,,2013,,,True,True
 2020-03-19,AZE,AS,Azerbaijan,40.147396,47.572098,34,,,34,,,False,False
@@ -2143,7 +2133,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,DZA,AF,Algeria,28.026875,1.65284,82,7,,75,,,False,False
 2020-03-20,AND,EU,Andorra,42.542268,1.596865,75,0,0,75,,,False,False
 2020-03-20,ARG,SA,Argentina,-38.421295,-63.587403,128,3,,125,,,False,False
-2020-03-20,ARM,AS,Armenia,40.066181,45.111108,122,,,122,,,False,False
 2020-03-20,AUS,OC,Australia,-26.853388,133.275155,709,6,,703,,,False,False
 2020-03-20,AUT,EU,Austria,47.697542,13.349319,2388,,,2388,,,True,True
 2020-03-20,AZE,AS,Azerbaijan,40.147396,47.572098,44,,,44,,,False,False
@@ -2291,7 +2280,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,DZA,AF,Algeria,28.026875,1.65284,94,10,,84,,,False,False
 2020-03-21,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,1,,,1,,,False,False
 2020-03-21,ARG,SA,Argentina,-38.421295,-63.587403,158,3,,155,,,False,False
-2020-03-21,ARM,AS,Armenia,40.066181,45.111108,136,,,136,,,False,False
 2020-03-21,AUS,OC,Australia,-26.853388,133.275155,874,7,,867,,,False,False
 2020-03-21,AUT,EU,Austria,47.697542,13.349319,2814,,,2814,,,True,True
 2020-03-21,AZE,AS,Azerbaijan,40.147396,47.572098,44,1,,43,,,False,False
@@ -2476,7 +2464,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,AGO,AF,Angola,-11.209451,17.880669,2,,,2,,,False,False
 2020-03-23,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,1,,,1,,,False,False
 2020-03-23,ARG,SA,Argentina,-38.421295,-63.587403,266,4,,262,,,False,False
-2020-03-23,ARM,AS,Armenia,40.066181,45.111108,190,,,190,,,False,False
 2020-03-23,AUS,OC,Australia,-26.853388,133.275155,1709,7,,1702,,,False,False
 2020-03-23,AZE,AS,Azerbaijan,40.147396,47.572098,65,1,,64,,,False,False
 2020-03-23,BHS,NA,Bahamas,24.885993,-76.709892,4,,,4,,,False,False
@@ -2643,7 +2630,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,AGO,AF,Angola,-11.209451,17.880669,2,,,2,,,False,False
 2020-03-24,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,1,,,1,,,False,False
 2020-03-24,ARG,SA,Argentina,-38.421295,-63.587403,301,4,,297,,,False,False
-2020-03-24,ARM,AS,Armenia,40.066181,45.111108,194,,,194,,,False,False
 2020-03-24,AUS,OC,Australia,-26.853388,133.275155,1823,7,,1816,,,False,False
 2020-03-24,AZE,AS,Azerbaijan,40.147396,47.572098,72,1,,71,,,False,False
 2020-03-24,BHS,NA,Bahamas,24.885993,-76.709892,4,,,4,,,False,False
@@ -2812,7 +2798,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,AGO,AF,Angola,-11.209451,17.880669,2,0,0,2,,,False,False
 2020-03-25,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,3,0,0,3,,,False,False
 2020-03-25,ARG,SA,Argentina,-38.421295,-63.587403,387,6,0,381,,,False,False
-2020-03-25,ARM,AS,Armenia,40.066181,45.111108,265,0,0,265,,,False,False
 2020-03-25,AUS,OC,Australia,-26.853388,133.275155,2423,8,0,2415,,,False,False
 2020-03-25,AUT,EU,Austria,47.697542,13.349319,5560,0,0,5560,,,True,True
 2020-03-25,AZE,AS,Azerbaijan,40.147396,47.572098,87,1,0,86,,,False,False
@@ -2986,7 +2971,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,AGO,AF,Angola,-11.209451,17.880669,2,,,2,,,False,False
 2020-03-26,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,3,,,3,,,False,False
 2020-03-26,ARG,SA,Argentina,-38.421295,-63.587403,502,8,,494,,,False,False
-2020-03-26,ARM,AS,Armenia,40.066181,45.111108,290,,,290,,,False,False
 2020-03-26,ABW,NA,Aruba,12.517713,-69.965112,19,,,19,,,False,False
 2020-03-26,AUS,OC,Australia,-26.853388,133.275155,2423,8,,2415,,,False,False
 2020-03-26,AUT,EU,Austria,47.697542,13.349319,6398,0,0,6398,0,0,True,True
@@ -3208,7 +3192,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-03-28,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-03-28,ARG,SA,Argentina,-38.421295,-63.587403,690,117,0,573,0,0,False,False
-2020-03-28,ARM,AS,Armenia,40.066181,45.111108,372,1,0,371,0,0,False,False
 2020-03-28,ABW,NA,Aruba,12.517713,-69.965112,28,0,0,28,0,0,False,False
 2020-03-28,AUS,OC,Australia,-26.853388,133.275155,3378,13,0,3365,0,0,False,False
 2020-03-28,AUT,EU,Austria,47.697542,13.349319,7977,0,0,7977,0,0,True,True
@@ -3387,7 +3370,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-03-29,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-03-29,ARG,SA,Argentina,-38.421295,-63.587403,745,19,0,726,0,0,False,False
-2020-03-29,ARM,AS,Armenia,40.066181,45.111108,424,3,0,421,0,0,False,False
 2020-03-29,ABW,NA,Aruba,12.517713,-69.965112,28,0,0,28,0,0,False,False
 2020-03-29,AUS,OC,Australia,-26.853388,133.275155,3809,14,0,3795,0,0,False,False
 2020-03-29,AUT,EU,Austria,47.697542,13.349319,8536,0,0,8536,0,0,True,True
@@ -3566,7 +3548,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-03-30,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-03-30,ARG,SA,Argentina,-38.421295,-63.587403,820,20,0,800,0,0,False,False
-2020-03-30,ARM,AS,Armenia,40.066181,45.111108,424,3,0,421,0,0,False,False
 2020-03-30,ABW,NA,Aruba,12.517713,-69.965112,50,0,0,50,0,0,False,False
 2020-03-30,AUS,OC,Australia,-26.853388,133.275155,4093,16,0,4077,0,0,False,False
 2020-03-30,AUT,EU,Austria,47.697542,13.349319,9377,0,0,9377,0,0,True,True
@@ -3749,7 +3730,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-03-31,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-03-31,ARG,SA,Argentina,-38.421295,-63.587403,966,24,0,942,0,0,False,False
-2020-03-31,ARM,AS,Armenia,40.066181,45.111108,482,3,0,479,0,0,False,False
 2020-03-31,ABW,NA,Aruba,12.517713,-69.965112,50,0,0,50,0,0,False,False
 2020-03-31,AUS,OC,Australia,-26.853388,133.275155,4557,19,0,4538,0,0,False,False
 2020-03-31,AUT,EU,Austria,47.697542,13.349319,9974,0,0,9974,0,0,True,True
@@ -3933,7 +3913,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-04-01,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-04-01,ARG,SA,Argentina,-38.421295,-63.587403,966,24,0,942,0,0,False,False
-2020-04-01,ARM,AS,Armenia,40.066181,45.111108,532,3,0,529,0,0,False,False
 2020-04-01,ABW,NA,Aruba,12.517713,-69.965112,55,0,0,55,0,0,False,False
 2020-04-01,AUS,OC,Australia,-26.853388,133.275155,4707,20,0,4687,0,0,False,False
 2020-04-01,AUT,EU,Austria,47.697542,13.349319,10482,0,0,10482,935,242,True,True
@@ -4121,7 +4100,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,AIA,NA,Anguilla,18.22512,-63.07213,2,0,0,2,0,0,False,False
 2020-04-02,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,7,0,0,7,0,0,False,False
 2020-04-02,ARG,SA,Argentina,-38.421295,-63.587403,1133,31,0,1102,0,0,False,False
-2020-04-02,ARM,AS,Armenia,40.066181,45.111108,571,3,0,568,0,0,False,False
 2020-04-02,ABW,NA,Aruba,12.517713,-69.965112,55,0,0,55,0,0,False,False
 2020-04-02,AUS,OC,Australia,-26.853388,133.275155,4976,21,0,4955,0,0,False,False
 2020-04-02,AUT,EU,Austria,47.697542,13.349319,10967,0,0,10967,935,265,True,True
@@ -4309,7 +4287,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-03,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,9,0,0,9,0,0,False,False
 2020-04-03,ARG,SA,Argentina,-38.421295,-63.587403,1133,34,0,1099,0,0,False,False
-2020-04-03,ARM,AS,Armenia,40.066181,45.111108,663,4,0,659,0,0,False,False
 2020-04-03,ABW,NA,Aruba,12.517713,-69.965112,60,0,0,60,0,0,False,False
 2020-04-03,AUS,OC,Australia,-26.853388,133.275155,5224,23,0,5201,0,0,False,False
 2020-04-03,AUT,EU,Austria,47.697542,13.349319,11383,0,0,11383,935,299,True,True
@@ -4498,7 +4475,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-04,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-04,ARG,SA,Argentina,-38.421295,-63.587403,1265,37,0,1228,0,0,False,False
-2020-04-04,ARM,AS,Armenia,40.066181,45.111108,736,7,0,729,0,0,False,False
 2020-04-04,ABW,NA,Aruba,12.517713,-69.965112,62,0,0,62,0,0,False,False
 2020-04-04,AUS,OC,Australia,-26.853388,133.275155,5548,30,0,5518,0,0,False,False
 2020-04-04,AUT,EU,Austria,47.697542,13.349319,11665,0,0,11665,935,288,True,True
@@ -4686,7 +4662,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-05,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-05,ARG,SA,Argentina,-38.421295,-63.587403,1451,43,0,1408,0,0,False,False
-2020-04-05,ARM,AS,Armenia,40.066181,45.111108,770,7,0,763,0,0,False,False
 2020-04-05,ABW,NA,Aruba,12.517713,-69.965112,64,0,0,64,0,0,False,False
 2020-04-05,AUS,OC,Australia,-26.853388,133.275155,5687,34,0,5653,0,0,False,False
 2020-04-05,AUT,EU,Austria,47.697542,13.349319,11907,0,0,11907,748,276,True,True
@@ -4874,7 +4849,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-06,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-06,ARG,SA,Argentina,-38.421295,-63.587403,1554,46,0,1508,0,0,False,False
-2020-04-06,ARM,AS,Armenia,40.066181,45.111108,822,7,0,815,0,0,False,False
 2020-04-06,ABW,NA,Aruba,12.517713,-69.965112,64,0,0,64,0,0,False,False
 2020-04-06,AUS,OC,Australia,-26.853388,133.275155,5744,36,0,5708,0,0,False,False
 2020-04-06,AUT,EU,Austria,47.697542,13.349319,12206,0,0,12206,935,276,True,True
@@ -5065,7 +5039,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-07,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-07,ARG,SA,Argentina,-38.421295,-63.587403,1628,53,0,1575,0,0,False,False
-2020-04-07,ARM,AS,Armenia,40.066181,45.111108,833,8,0,825,0,0,False,False
 2020-04-07,ABW,NA,Aruba,12.517713,-69.965112,71,0,0,71,0,0,False,False
 2020-04-07,AUS,OC,Australia,-26.853388,133.275155,5844,42,0,5802,0,0,False,False
 2020-04-07,AUT,EU,Austria,47.697542,13.349319,12519,0,0,12519,748,242,True,True
@@ -5256,7 +5229,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-08,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-08,ARG,SA,Argentina,-38.421295,-63.587403,1715,60,0,1655,0,0,False,False
-2020-04-08,ARM,AS,Armenia,40.066181,45.111108,853,8,0,845,0,0,False,False
 2020-04-08,ABW,NA,Aruba,12.517713,-69.965112,74,0,0,74,0,0,False,False
 2020-04-08,AUS,OC,Australia,-26.853388,133.275155,5956,45,0,5911,0,0,False,False
 2020-04-08,AUT,EU,Austria,47.697542,13.349319,12852,0,0,12852,748,242,True,True
@@ -5447,7 +5419,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-09,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,15,0,0,15,0,0,False,False
 2020-04-09,ARG,SA,Argentina,-38.421295,-63.587403,1795,65,0,1730,0,0,False,False
-2020-04-09,ARM,AS,Armenia,40.066181,45.111108,881,9,0,872,0,0,False,False
 2020-04-09,ABW,NA,Aruba,12.517713,-69.965112,77,0,0,77,0,0,False,False
 2020-04-09,AUS,OC,Australia,-26.853388,133.275155,6052,50,0,6002,0,0,False,False
 2020-04-09,AUT,EU,Austria,47.697542,13.349319,13138,0,0,13138,748,242,True,True
@@ -5639,7 +5610,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-10,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,19,2,0,17,0,0,False,False
 2020-04-10,ARG,SA,Argentina,-38.421295,-63.587403,1894,79,0,1815,0,0,False,False
-2020-04-10,ARM,AS,Armenia,40.066181,45.111108,921,10,0,911,0,0,False,False
 2020-04-10,ABW,NA,Aruba,12.517713,-69.965112,82,0,0,82,0,0,False,False
 2020-04-10,AUS,OC,Australia,-26.853388,133.275155,6152,52,0,6100,0,0,False,False
 2020-04-10,AUT,EU,Austria,47.697542,13.349319,13492,0,0,13492,748,242,True,True
@@ -5832,7 +5802,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-11,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,21,2,0,19,0,0,False,False
 2020-04-11,ARG,SA,Argentina,-38.421295,-63.587403,1975,82,0,1893,0,0,False,False
-2020-04-11,ARM,AS,Armenia,40.066181,45.111108,937,11,0,926,0,0,False,False
 2020-04-11,ABW,NA,Aruba,12.517713,-69.965112,86,0,0,86,0,0,False,False
 2020-04-11,AUS,OC,Australia,-26.853388,133.275155,6238,54,0,6184,0,0,False,False
 2020-04-11,AUT,EU,Austria,47.697542,13.349319,13776,0,0,13776,748,253,True,True
@@ -6068,7 +6037,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-13,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,21,2,0,19,0,0,False,False
 2020-04-13,ARG,SA,Argentina,-38.421295,-63.587403,2208,95,0,2113,0,0,False,False
-2020-04-13,ARM,AS,Armenia,40.066181,45.111108,1013,13,0,1000,0,0,False,False
 2020-04-13,ABW,NA,Aruba,12.517713,-69.965112,92,0,0,92,0,0,False,False
 2020-04-13,AUS,OC,Australia,-26.853388,133.275155,6322,61,0,6261,0,0,False,False
 2020-04-13,AUT,EU,Austria,47.697542,13.349319,13999,0,0,13999,748,219,True,True
@@ -6259,7 +6227,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-14,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-14,ARG,SA,Argentina,-38.421295,-63.587403,2272,98,0,2174,0,0,False,False
-2020-04-14,ARM,AS,Armenia,40.066181,45.111108,1039,14,0,1025,0,0,False,False
 2020-04-14,ABW,NA,Aruba,12.517713,-69.965112,92,0,0,92,0,0,False,False
 2020-04-14,AUS,OC,Australia,-26.853388,133.275155,6366,61,0,6305,0,0,False,False
 2020-04-14,AUT,EU,Austria,47.697542,13.349319,14159,0,0,14159,748,230,True,True
@@ -6450,7 +6417,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-15,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-15,ARG,SA,Argentina,-38.421295,-63.587403,2432,105,0,2327,0,0,False,False
-2020-04-15,ARM,AS,Armenia,40.066181,45.111108,1111,17,0,1094,0,0,False,False
 2020-04-15,ABW,NA,Aruba,12.517713,-69.965112,92,0,0,92,0,0,False,False
 2020-04-15,AUS,OC,Australia,-26.853388,133.275155,6416,61,0,6355,0,0,False,False
 2020-04-15,AUT,EU,Austria,47.697542,13.349319,14246,0,0,14246,748,230,True,True
@@ -6637,7 +6603,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-16,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-16,ARG,SA,Argentina,-38.421295,-63.587403,2432,109,0,2323,0,0,False,False
-2020-04-16,ARM,AS,Armenia,40.066181,45.111108,1159,18,0,1141,0,0,False,False
 2020-04-16,ABW,NA,Aruba,12.517713,-69.965112,93,1,0,92,0,0,False,False
 2020-04-16,AUS,OC,Australia,-26.853388,133.275155,6458,63,0,6395,0,0,False,False
 2020-04-16,AUT,EU,Austria,47.697542,13.349319,14570,393,8986,5191,748,242,True,True
@@ -6827,7 +6792,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-17,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-17,ARG,SA,Argentina,-38.421295,-63.587403,2560,115,0,2445,0,0,False,False
-2020-04-17,ARM,AS,Armenia,40.066181,45.111108,1201,19,0,1182,0,0,False,False
 2020-04-17,ABW,NA,Aruba,12.517713,-69.965112,95,1,0,94,0,0,False,False
 2020-04-17,AUS,OC,Australia,-26.853388,133.275155,6497,63,0,6434,0,0,False,False
 2020-04-17,AUT,EU,Austria,47.697542,13.349319,14648,402,9704,4542,748,219,True,True
@@ -7019,7 +6983,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-18,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-18,ARG,SA,Argentina,-38.421295,-63.587403,2658,122,0,2536,0,0,False,False
-2020-04-18,ARM,AS,Armenia,40.066181,45.111108,1248,20,0,1228,0,0,False,False
 2020-04-18,ABW,NA,Aruba,12.517713,-69.965112,96,2,0,94,0,0,False,False
 2020-04-18,AUS,OC,Australia,-26.853388,133.275155,6533,67,0,6466,0,0,False,False
 2020-04-18,AUT,EU,Austria,47.697542,13.349319,14703,416,10214,4073,561,207,True,True
@@ -7212,7 +7175,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-19,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-19,ARG,SA,Argentina,-38.421295,-63.587403,2828,132,0,2696,0,0,False,False
-2020-04-19,ARM,AS,Armenia,40.066181,45.111108,1291,20,0,1271,0,0,False,False
 2020-04-19,ABW,NA,Aruba,12.517713,-69.965112,96,2,0,94,0,0,False,False
 2020-04-19,AUS,OC,Australia,-26.853388,133.275155,6586,69,0,6517,0,0,False,False
 2020-04-19,AUT,EU,Austria,47.697542,13.349319,14739,430,10501,3808,561,184,True,True
@@ -7405,7 +7367,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-20,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,2,0,21,0,0,False,False
 2020-04-20,ARG,SA,Argentina,-38.421295,-63.587403,2930,134,0,2796,0,0,False,False
-2020-04-20,ARM,AS,Armenia,40.066181,45.111108,1339,22,0,1317,0,0,False,False
 2020-04-20,ABW,NA,Aruba,12.517713,-69.965112,97,2,0,95,0,0,False,False
 2020-04-20,AUS,OC,Australia,-26.853388,133.275155,6612,70,0,6542,0,0,False,False
 2020-04-20,AUT,EU,Austria,47.697542,13.349319,14754,429,10631,3694,561,196,True,True
@@ -7598,7 +7559,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-21,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,23,3,0,20,0,0,False,False
 2020-04-21,ARG,SA,Argentina,-38.421295,-63.587403,3020,142,0,2878,0,0,False,False
-2020-04-21,ARM,AS,Armenia,40.066181,45.111108,1401,24,0,1377,0,0,False,False
 2020-04-21,ABW,NA,Aruba,12.517713,-69.965112,97,2,0,95,0,0,False,False
 2020-04-21,AUS,OC,Australia,-26.853388,133.275155,6625,71,0,6554,0,0,False,False
 2020-04-21,AUT,EU,Austria,47.697542,13.349319,14838,456,10971,3411,561,196,True,True
@@ -7790,7 +7750,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-22,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-22,ARG,SA,Argentina,-38.421295,-63.587403,3132,151,0,2981,0,0,False,False
-2020-04-22,ARM,AS,Armenia,40.066181,45.111108,1473,24,0,1449,0,0,False,False
 2020-04-22,ABW,NA,Aruba,12.517713,-69.965112,97,2,0,95,0,0,False,False
 2020-04-22,AUS,OC,Australia,-26.853388,133.275155,6647,74,0,6573,0,0,False,False
 2020-04-22,AUT,EU,Austria,47.697542,13.349319,14878,463,11328,3087,561,161,True,True
@@ -7983,7 +7942,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-23,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-23,ARG,SA,Argentina,-38.421295,-63.587403,3276,159,0,3117,0,0,False,False
-2020-04-23,ARM,AS,Armenia,40.066181,45.111108,1523,24,0,1499,0,0,False,False
 2020-04-23,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-23,AUS,OC,Australia,-26.853388,133.275155,6654,74,0,6580,0,0,False,False
 2020-04-23,AUT,EU,Austria,47.697542,13.349319,14988,508,11694,2786,561,173,True,True
@@ -8174,7 +8132,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-24,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-24,ARG,SA,Argentina,-38.421295,-63.587403,3423,165,0,3258,0,0,False,False
-2020-04-24,ARM,AS,Armenia,40.066181,45.111108,1596,27,0,1569,0,0,False,False
 2020-04-24,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-24,AUS,OC,Australia,-26.853388,133.275155,6667,75,0,6592,0,0,False,False
 2020-04-24,AUT,EU,Austria,47.697542,13.349319,15050,509,11872,2669,561,150,True,True
@@ -8367,7 +8324,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-25,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-25,ARG,SA,Argentina,-38.421295,-63.587403,3423,167,0,3256,0,0,False,False
-2020-04-25,ARM,AS,Armenia,40.066181,45.111108,1677,28,0,1649,0,0,False,False
 2020-04-25,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-25,AUS,OC,Australia,-26.853388,133.275155,6687,79,0,6608,0,0,False,False
 2020-04-25,AUT,EU,Austria,47.697542,13.349319,15127,515,12103,2509,561,138,True,True
@@ -8559,7 +8515,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-26,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-26,ARG,SA,Argentina,-38.421295,-63.587403,3767,185,0,3582,0,0,False,False
-2020-04-26,ARM,AS,Armenia,40.066181,45.111108,1746,28,0,1718,0,0,False,False
 2020-04-26,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-26,AUS,OC,Australia,-26.853388,133.275155,6703,81,0,6622,0,0,False,False
 2020-04-26,AUT,EU,Austria,47.697542,13.349319,15131,519,12103,2509,561,138,True,True
@@ -8753,7 +8708,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-27,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-27,ARG,SA,Argentina,-38.421295,-63.587403,3767,186,0,3581,0,0,False,False
-2020-04-27,ARM,AS,Armenia,40.066181,45.111108,1808,29,0,1779,0,0,False,False
 2020-04-27,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-27,AUS,OC,Australia,-26.853388,133.275155,6713,83,0,6630,0,0,False,False
 2020-04-27,AUT,EU,Austria,47.697542,13.349319,15257,532,12362,2363,561,138,True,True
@@ -8947,7 +8901,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-28,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-28,ARG,SA,Argentina,-38.421295,-63.587403,3990,197,0,3793,0,0,False,False
-2020-04-28,ARM,AS,Armenia,40.066181,45.111108,1867,30,0,1837,0,0,False,False
 2020-04-28,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-28,AUS,OC,Australia,-26.853388,133.275155,6725,84,0,6641,0,0,False,False
 2020-04-28,AUT,EU,Austria,47.697542,13.349319,15335,547,12580,2208,561,127,True,True
@@ -9140,7 +9093,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-29,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-29,ARG,SA,Argentina,-38.421295,-63.587403,4114,207,0,3907,0,0,False,False
-2020-04-29,ARM,AS,Armenia,40.066181,45.111108,1932,30,0,1902,0,0,False,False
 2020-04-29,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-29,AUS,OC,Australia,-26.853388,133.275155,6738,88,0,6650,0,0,False,False
 2020-04-29,AUT,EU,Austria,47.697542,13.349319,15377,555,12779,2043,374,127,True,True
@@ -9334,7 +9286,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-04-30,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-04-30,ARG,SA,Argentina,-38.421295,-63.587403,4272,214,0,4058,0,0,False,False
-2020-04-30,ARM,AS,Armenia,40.066181,45.111108,1932,30,0,1902,0,0,False,False
 2020-04-30,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-04-30,AUS,OC,Australia,-26.853388,133.275155,6746,90,0,6656,0,0,False,False
 2020-04-30,AUT,EU,Austria,47.697542,13.349319,15425,557,12907,1961,374,127,True,True
@@ -9528,7 +9479,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-01,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,24,3,0,21,0,0,False,False
 2020-05-01,ARG,SA,Argentina,-38.421295,-63.587403,4415,218,0,4197,0,0,False,False
-2020-05-01,ARM,AS,Armenia,40.066181,45.111108,2066,32,0,2034,0,0,False,False
 2020-05-01,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-01,AUS,OC,Australia,-26.853388,133.275155,6762,92,0,6670,0,0,False,False
 2020-05-01,AUT,EU,Austria,47.697542,13.349319,15504,562,13092,1850,374,127,True,True
@@ -9722,7 +9672,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-02,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-02,ARG,SA,Argentina,-38.421295,-63.587403,4519,225,0,4294,0,0,False,False
-2020-05-02,ARM,AS,Armenia,40.066181,45.111108,2148,33,0,2115,0,0,False,False
 2020-05-02,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-02,AUS,OC,Australia,-26.853388,133.275155,6767,93,0,6674,0,0,False,False
 2020-05-02,AUT,EU,Austria,47.697542,13.349319,15529,567,13180,1782,374,115,True,True
@@ -9917,7 +9866,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-03,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-03,ARG,SA,Argentina,-38.421295,-63.587403,4668,237,0,4431,0,0,False,False
-2020-05-03,ARM,AS,Armenia,40.066181,45.111108,2273,33,0,2240,0,0,False,False
 2020-05-03,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-03,AUS,OC,Australia,-26.853388,133.275155,6783,93,0,6690,0,0,False,False
 2020-05-03,AUT,EU,Austria,47.697542,13.349319,15567,568,13238,1761,374,115,True,True
@@ -10112,7 +10060,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-04,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-04,ARG,SA,Argentina,-38.421295,-63.587403,4770,246,0,4524,0,0,False,False
-2020-05-04,ARM,AS,Armenia,40.066181,45.111108,2386,35,0,2351,0,0,False,False
 2020-05-04,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-04,AUS,OC,Australia,-26.853388,133.275155,6801,95,0,6706,0,0,False,False
 2020-05-04,AUT,EU,Austria,47.697542,13.349319,15591,570,13316,1705,374,115,True,True
@@ -10308,7 +10255,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-05,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-05,ARG,SA,Argentina,-38.421295,-63.587403,4874,260,0,4614,0,0,False,False
-2020-05-05,ARM,AS,Armenia,40.066181,45.111108,2507,39,0,2468,0,0,False,False
 2020-05-05,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-05,AUS,OC,Australia,-26.853388,133.275155,6825,95,0,6730,0,0,False,False
 2020-05-05,AUT,EU,Austria,47.697542,13.349319,15620,576,13462,1582,374,104,True,True
@@ -10504,7 +10450,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-06,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-06,ARG,SA,Argentina,-38.421295,-63.587403,5007,264,0,4743,0,0,False,False
-2020-05-06,ARM,AS,Armenia,40.066181,45.111108,2619,40,0,2579,0,0,False,False
 2020-05-06,ABW,NA,Aruba,12.517713,-69.965112,100,2,0,98,0,0,False,False
 2020-05-06,AUS,OC,Australia,-26.853388,133.275155,6849,96,0,6753,0,0,False,False
 2020-05-06,AUT,EU,Austria,47.697542,13.349319,15655,579,13639,1437,374,104,True,True
@@ -10700,7 +10645,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-07,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-07,ARG,SA,Argentina,-38.421295,-63.587403,5195,273,0,4922,0,0,False,False
-2020-05-07,ARM,AS,Armenia,40.066181,45.111108,2782,40,0,2742,0,0,False,False
 2020-05-07,ABW,NA,Aruba,12.517713,-69.965112,101,2,0,99,0,0,False,False
 2020-05-07,AUS,OC,Australia,-26.853388,133.275155,6875,97,0,6778,0,0,False,False
 2020-05-07,AUT,EU,Austria,47.697542,13.349319,15719,579,13693,1447,374,92,True,True
@@ -10896,7 +10840,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-08,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-08,ARG,SA,Argentina,-38.421295,-63.587403,5358,282,0,5076,0,0,False,False
-2020-05-08,ARM,AS,Armenia,40.066181,45.111108,2884,42,0,2842,0,0,False,False
 2020-05-08,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-08,AUS,OC,Australia,-26.853388,133.275155,6896,97,0,6799,0,0,False,False
 2020-05-08,AUT,EU,Austria,47.697542,13.349319,15741,581,13836,1324,374,92,True,True
@@ -11092,7 +11035,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-09,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-09,ARG,SA,Argentina,-38.421295,-63.587403,5598,293,0,5305,0,0,False,False
-2020-05-09,ARM,AS,Armenia,40.066181,45.111108,3029,43,0,2986,0,0,False,False
 2020-05-09,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-09,AUS,OC,Australia,-26.853388,133.275155,6914,97,0,6817,0,0,False,False
 2020-05-09,AUT,EU,Austria,47.697542,13.349319,15801,583,13928,1290,374,81,True,True
@@ -11287,7 +11229,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-10,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-10,ARG,SA,Argentina,-38.421295,-63.587403,5763,300,0,5463,0,0,False,False
-2020-05-10,ARM,AS,Armenia,40.066181,45.111108,3175,44,0,3131,0,0,False,False
 2020-05-10,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-10,AUS,OC,Australia,-26.853388,133.275155,6929,97,0,6832,0,0,False,False
 2020-05-10,AUT,EU,Austria,47.697542,13.349319,15840,587,13991,1262,187,81,True,True
@@ -11481,7 +11422,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-11,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-11,ARG,SA,Argentina,-38.421295,-63.587403,5776,300,0,5476,0,0,False,False
-2020-05-11,ARM,AS,Armenia,40.066181,45.111108,3313,45,0,3268,0,0,False,False
 2020-05-11,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-11,AUS,OC,Australia,-26.853388,133.275155,6941,97,0,6844,0,0,False,False
 2020-05-11,AUT,EU,Austria,47.697542,13.349319,15853,591,14061,1201,187,69,True,True
@@ -11676,7 +11616,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-12,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-12,ARG,SA,Argentina,-38.421295,-63.587403,6021,305,0,5716,0,0,False,False
-2020-05-12,ARM,AS,Armenia,40.066181,45.111108,3392,46,0,3346,0,0,False,False
 2020-05-12,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-12,AUS,OC,Australia,-26.853388,133.275155,6948,97,0,6851,0,0,False,False
 2020-05-12,AUT,EU,Austria,47.697542,13.349319,15930,592,14148,1190,187,58,True,True
@@ -11859,7 +11798,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-13,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-13,ARG,SA,Argentina,-38.421295,-63.587403,6550,319,0,6231,0,0,False,False
-2020-05-13,ARM,AS,Armenia,40.066181,45.111108,3538,47,0,3491,0,0,False,False
 2020-05-13,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-13,AUS,OC,Australia,-26.853388,133.275155,6964,97,0,6867,0,0,False,False
 2020-05-13,AUT,EU,Austria,47.697542,13.349319,15965,592,14304,1069,187,58,True,True
@@ -12054,7 +11992,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-14,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-14,ARG,SA,Argentina,-38.421295,-63.587403,6866,329,0,6537,0,0,False,False
-2020-05-14,ARM,AS,Armenia,40.066181,45.111108,3718,48,0,3670,0,0,False,False
 2020-05-14,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-14,AUS,OC,Australia,-26.853388,133.275155,6975,98,0,6877,0,0,False,False
 2020-05-14,AUT,EU,Austria,47.697542,13.349319,16026,594,14405,1027,187,58,True,True
@@ -12248,7 +12185,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-15,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-15,ARG,SA,Argentina,-38.421295,-63.587403,7121,353,0,6768,0,0,False,False
-2020-05-15,ARM,AS,Armenia,40.066181,45.111108,3860,49,0,3811,0,0,False,False
 2020-05-15,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-15,AUS,OC,Australia,-26.853388,133.275155,6989,98,0,6891,0,0,False,False
 2020-05-15,AUT,EU,Austria,47.697542,13.349319,16075,595,14471,1009,187,58,True,True
@@ -12444,7 +12380,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-16,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-16,ARG,SA,Argentina,-38.421295,-63.587403,7466,356,0,7110,0,0,False,False
-2020-05-16,ARM,AS,Armenia,40.066181,45.111108,4044,52,0,3992,0,0,False,False
 2020-05-16,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-16,AUS,OC,Australia,-26.853388,133.275155,7019,98,0,6921,0,0,False,False
 2020-05-16,AUT,EU,Austria,47.697542,13.349319,16168,596,14524,1048,187,69,True,True
@@ -12639,7 +12574,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-17,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-17,ARG,SA,Argentina,-38.421295,-63.587403,7792,363,0,7429,0,0,False,False
-2020-05-17,ARM,AS,Armenia,40.066181,45.111108,4283,55,0,4228,0,0,False,False
 2020-05-17,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-17,AUS,OC,Australia,-26.853388,133.275155,7036,98,0,6938,0,0,False,False
 2020-05-17,AUT,EU,Austria,47.697542,13.349319,16209,596,14563,1050,187,58,True,True
@@ -12835,7 +12769,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-18,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-18,ARG,SA,Argentina,-38.421295,-63.587403,7792,366,0,7426,0,0,False,False
-2020-05-18,ARM,AS,Armenia,40.066181,45.111108,4472,60,0,4412,0,0,False,False
 2020-05-18,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-18,AUS,OC,Australia,-26.853388,133.275155,7045,98,0,6947,0,0,False,False
 2020-05-18,AUT,EU,Austria,47.697542,13.349319,16239,599,14614,1026,187,58,True,True
@@ -13032,7 +12965,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-19,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-19,ARG,SA,Argentina,-38.421295,-63.587403,8358,382,0,7976,0,0,False,False
-2020-05-19,ARM,AS,Armenia,40.066181,45.111108,4823,61,0,4762,0,0,False,False
 2020-05-19,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-19,AUS,OC,Australia,-26.853388,133.275155,7060,99,0,6961,0,0,False,False
 2020-05-19,AUT,EU,Austria,47.697542,13.349319,16288,599,14678,1011,187,46,True,True
@@ -13228,7 +13160,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-20,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-20,ARG,SA,Argentina,-38.421295,-63.587403,8796,393,0,8403,0,0,False,False
-2020-05-20,ARM,AS,Armenia,40.066181,45.111108,5041,64,0,4977,0,0,False,False
 2020-05-20,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-20,AUS,OC,Australia,-26.853388,133.275155,7068,99,0,6969,0,0,False,False
 2020-05-20,AUT,EU,Austria,47.697542,13.349319,16321,601,14882,838,187,46,True,True
@@ -13425,7 +13356,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-21,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-21,ARG,SA,Argentina,-38.421295,-63.587403,9270,403,0,8867,0,0,False,False
-2020-05-21,ARM,AS,Armenia,40.066181,45.111108,5271,67,0,5204,0,0,False,False
 2020-05-21,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-21,AUS,OC,Australia,-26.853388,133.275155,7079,100,0,6979,0,0,False,False
 2020-05-21,AUT,EU,Austria,47.697542,13.349319,16373,602,14951,820,187,46,True,True
@@ -13620,7 +13550,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-22,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-22,ARG,SA,Argentina,-38.421295,-63.587403,9918,416,0,9502,0,0,False,False
-2020-05-22,ARM,AS,Armenia,40.066181,45.111108,5606,70,0,5536,0,0,False,False
 2020-05-22,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-22,AUS,OC,Australia,-26.853388,133.275155,7081,100,0,6981,0,0,False,False
 2020-05-22,AUT,EU,Austria,47.697542,13.349319,16406,605,15005,796,187,35,True,True
@@ -13817,7 +13746,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-23,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-23,ARG,SA,Argentina,-38.421295,-63.587403,10636,433,0,10203,0,0,False,False
-2020-05-23,ARM,AS,Armenia,40.066181,45.111108,5928,74,0,5854,0,0,False,False
 2020-05-23,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-23,AUS,OC,Australia,-26.853388,133.275155,7095,101,0,6994,0,0,False,False
 2020-05-23,AUT,EU,Austria,47.697542,13.349319,16454,607,15037,810,187,35,True,True
@@ -14012,7 +13940,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-24,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-24,ARG,SA,Argentina,-38.421295,-63.587403,11340,445,0,10895,0,0,False,False
-2020-05-24,ARM,AS,Armenia,40.066181,45.111108,6302,77,0,6225,0,0,False,False
 2020-05-24,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-24,AUS,OC,Australia,-26.853388,133.275155,7106,102,0,7004,0,0,False,False
 2020-05-24,AUT,EU,Austria,47.697542,13.349319,16470,607,15063,800,187,35,True,True
@@ -14207,7 +14134,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-25,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-25,ARG,SA,Argentina,-38.421295,-63.587403,12063,452,0,11611,0,0,False,False
-2020-05-25,ARM,AS,Armenia,40.066181,45.111108,6661,81,0,6580,0,0,False,False
 2020-05-25,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-25,AUS,OC,Australia,-26.853388,133.275155,7109,102,0,7007,0,0,False,False
 2020-05-25,AUT,EU,Austria,47.697542,13.349319,16509,611,15138,760,187,35,True,True
@@ -14404,7 +14330,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-26,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-26,ARG,SA,Argentina,-38.421295,-63.587403,12615,467,0,12148,0,0,False,False
-2020-05-26,ARM,AS,Armenia,40.066181,45.111108,7113,87,0,7026,0,0,False,False
 2020-05-26,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-26,AUS,OC,Australia,-26.853388,133.275155,7118,102,0,7016,0,0,False,False
 2020-05-26,AUT,EU,Austria,47.697542,13.349319,16542,628,15182,732,187,35,True,True
@@ -14601,7 +14526,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-27,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-27,ARG,SA,Argentina,-38.421295,-63.587403,13215,484,0,12731,0,0,False,False
-2020-05-27,ARM,AS,Armenia,40.066181,45.111108,7402,91,0,7311,0,0,False,False
 2020-05-27,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-27,AUS,OC,Australia,-26.853388,133.275155,7133,102,0,7031,0,0,False,False
 2020-05-27,AUT,EU,Austria,47.697542,13.349319,16584,638,15228,718,187,46,True,True
@@ -14798,7 +14722,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-28,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-28,ARG,SA,Argentina,-38.421295,-63.587403,13920,500,0,13420,0,0,False,False
-2020-05-28,ARM,AS,Armenia,40.066181,45.111108,7774,98,0,7676,0,0,False,False
 2020-05-28,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-28,AUS,OC,Australia,-26.853388,133.275155,7139,103,0,7036,0,0,False,False
 2020-05-28,AUT,EU,Austria,47.697542,13.349319,16598,638,15286,674,187,35,True,True
@@ -14995,7 +14918,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-29,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-29,ARG,SA,Argentina,-38.421295,-63.587403,14689,508,0,14181,0,0,False,False
-2020-05-29,ARM,AS,Armenia,40.066181,45.111108,8216,113,0,8103,0,0,False,False
 2020-05-29,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-29,AUS,OC,Australia,-26.853388,133.275155,7150,103,0,7047,0,0,False,False
 2020-05-29,AUT,EU,Austria,47.697542,13.349319,16625,638,15347,640,187,35,True,True
@@ -15192,7 +15114,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-30,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-30,ARG,SA,Argentina,-38.421295,-63.587403,15406,520,0,14886,0,0,False,False
-2020-05-30,ARM,AS,Armenia,40.066181,45.111108,8676,120,0,8556,0,0,False,False
 2020-05-30,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-30,AUS,OC,Australia,-26.853388,133.275155,7173,103,0,7070,0,0,False,False
 2020-05-30,AUT,EU,Austria,47.697542,13.349319,16655,638,15520,497,187,35,True,True
@@ -15387,7 +15308,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-05-31,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-05-31,ARG,SA,Argentina,-38.421295,-63.587403,16201,528,0,15673,0,0,False,False
-2020-05-31,ARM,AS,Armenia,40.066181,45.111108,8927,127,0,8800,0,0,False,False
 2020-05-31,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-05-31,AUS,OC,Australia,-26.853388,133.275155,7185,103,0,7082,0,0,False,False
 2020-05-31,AUT,EU,Austria,47.697542,13.349319,16701,638,15593,470,187,35,True,True
@@ -15582,7 +15502,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-01,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-06-01,ARG,SA,Argentina,-38.421295,-63.587403,16838,539,0,16299,0,0,False,False
-2020-06-01,ARM,AS,Armenia,40.066181,45.111108,9282,131,0,9151,0,0,False,False
 2020-06-01,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-01,AUS,OC,Australia,-26.853388,133.275155,7195,103,0,7092,0,0,False,False
 2020-06-01,AUT,EU,Austria,47.697542,13.349319,16703,638,15596,469,187,35,True,True
@@ -15776,7 +15695,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-02,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-06-02,ARG,SA,Argentina,-38.421295,-63.587403,17402,556,0,16846,0,0,False,False
-2020-06-02,ARM,AS,Armenia,40.066181,45.111108,9492,139,0,9353,0,0,False,False
 2020-06-02,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-02,AUS,OC,Australia,-26.853388,133.275155,7204,103,0,7101,0,0,False,False
 2020-06-02,AUT,EU,Austria,47.697542,13.349319,16731,641,15629,461,0,35,True,True
@@ -15972,7 +15890,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-03,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,25,3,0,22,0,0,False,False
 2020-06-03,ARG,SA,Argentina,-38.421295,-63.587403,18306,569,0,17737,0,0,False,False
-2020-06-03,ARM,AS,Armenia,40.066181,45.111108,10009,158,0,9851,0,0,False,False
 2020-06-03,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-03,AUS,OC,Australia,-26.853388,133.275155,7221,102,0,7119,0,0,False,False
 2020-06-03,AUT,EU,Austria,47.697542,13.349319,16743,642,15672,429,187,23,True,True
@@ -16169,7 +16086,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-04,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-04,ARG,SA,Argentina,-38.421295,-63.587403,19255,583,0,18672,0,0,False,False
-2020-06-04,ARM,AS,Armenia,40.066181,45.111108,10524,170,0,10354,0,0,False,False
 2020-06-04,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-04,AUS,OC,Australia,-26.853388,133.275155,7229,102,0,7127,0,0,False,False
 2020-06-04,AUT,EU,Austria,47.697542,13.349319,16779,644,15717,418,187,35,True,True
@@ -16365,7 +16281,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-05,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-05,ARG,SA,Argentina,-38.421295,-63.587403,19255,588,0,18667,0,0,False,False
-2020-06-05,ARM,AS,Armenia,40.066181,45.111108,11221,176,0,11045,0,0,False,False
 2020-06-05,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-05,AUS,OC,Australia,-26.853388,133.275155,7240,102,0,7138,0,0,False,False
 2020-06-05,AUT,EU,Austria,47.697542,13.349319,16816,645,15742,429,187,23,True,True
@@ -16561,7 +16476,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-06,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-06,ARG,SA,Argentina,-38.421295,-63.587403,21024,632,0,20392,0,0,False,False
-2020-06-06,ARM,AS,Armenia,40.066181,45.111108,11817,183,0,11634,0,0,False,False
 2020-06-06,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-06,AUS,OC,Australia,-26.853388,133.275155,7251,102,0,7149,0,0,False,False
 2020-06-06,AUT,EU,Austria,47.697542,13.349319,16871,645,15789,437,187,23,True,True
@@ -16755,7 +16669,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-07,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-07,ARG,SA,Argentina,-38.421295,-63.587403,22007,648,0,21359,0,0,False,False
-2020-06-07,ARM,AS,Armenia,40.066181,45.111108,12364,190,0,12174,0,0,False,False
 2020-06-07,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-07,AUS,OC,Australia,-26.853388,133.275155,7255,102,0,7153,0,0,False,False
 2020-06-07,AUT,EU,Austria,47.697542,13.349319,16875,645,15793,437,187,23,True,True
@@ -16950,7 +16863,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-08,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-08,ARG,SA,Argentina,-38.421295,-63.587403,22781,664,0,22117,0,0,False,False
-2020-06-08,ARM,AS,Armenia,40.066181,45.111108,13130,200,0,12930,0,0,False,False
 2020-06-08,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-08,AUS,OC,Australia,-26.853388,133.275155,7260,102,0,7158,0,0,False,False
 2020-06-08,AUT,EU,Austria,47.697542,13.349319,16942,646,15839,457,187,23,True,True
@@ -17146,7 +17058,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-09,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-09,ARG,SA,Argentina,-38.421295,-63.587403,23607,693,0,22914,0,0,False,False
-2020-06-09,ARM,AS,Armenia,40.066181,45.111108,13325,211,0,13114,0,0,False,False
 2020-06-09,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-09,AUS,OC,Australia,-26.853388,133.275155,7265,102,0,7163,0,0,False,False
 2020-06-09,AUT,EU,Austria,47.697542,13.349319,16953,646,15875,432,187,23,True,True
@@ -17342,7 +17253,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-10,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-10,ARG,SA,Argentina,-38.421295,-63.587403,24748,717,0,24031,0,0,False,False
-2020-06-10,ARM,AS,Armenia,40.066181,45.111108,13675,217,0,13458,0,0,False,False
 2020-06-10,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-10,AUS,OC,Australia,-26.853388,133.275155,7267,102,0,7165,0,0,False,False
 2020-06-10,AUT,EU,Austria,47.697542,13.349319,16979,647,15910,422,187,23,True,True
@@ -17538,7 +17448,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-11,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-11,ARG,SA,Argentina,-38.421295,-63.587403,25987,735,0,25252,0,0,False,False
-2020-06-11,ARM,AS,Armenia,40.066181,45.111108,14103,227,0,13876,0,0,False,False
 2020-06-11,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-11,AUS,OC,Australia,-26.853388,133.275155,7276,102,0,7174,0,0,False,False
 2020-06-11,AUT,EU,Austria,47.697542,13.349319,16979,647,15910,422,187,23,True,True
@@ -17732,7 +17641,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-12,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-12,ARG,SA,Argentina,-38.421295,-63.587403,27360,765,0,26595,0,0,False,False
-2020-06-12,ARM,AS,Armenia,40.066181,45.111108,14669,245,0,14424,0,0,False,False
 2020-06-12,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-12,AUS,OC,Australia,-26.853388,133.275155,7285,102,0,7183,0,0,False,False
 2020-06-12,AUT,EU,Austria,47.697542,13.349319,17039,650,15985,404,187,46,True,True
@@ -17928,7 +17836,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-13,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-13,ARG,SA,Argentina,-38.421295,-63.587403,28751,785,0,27966,0,0,False,False
-2020-06-13,ARM,AS,Armenia,40.066181,45.111108,15281,258,0,15023,0,0,False,False
 2020-06-13,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-13,AUS,OC,Australia,-26.853388,133.275155,7290,102,0,7188,0,0,False,False
 2020-06-13,AUT,EU,Austria,47.697542,13.349319,17052,651,16012,389,187,46,True,True
@@ -18122,7 +18029,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-14,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-14,ARG,SA,Argentina,-38.421295,-63.587403,30282,815,0,29467,0,0,False,False
-2020-06-14,ARM,AS,Armenia,40.066181,45.111108,16004,264,0,15740,0,0,False,False
 2020-06-14,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-14,AUS,OC,Australia,-26.853388,133.275155,7302,102,0,7200,0,0,False,False
 2020-06-14,AUT,EU,Austria,47.697542,13.349319,17083,651,16059,373,187,46,True,True
@@ -18318,7 +18224,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,AIA,NA,Anguilla,18.22512,-63.07213,3,0,0,3,0,0,False,False
 2020-06-15,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,0,23,0,0,False,False
 2020-06-15,ARG,SA,Argentina,-38.421295,-63.587403,31564,833,0,30731,0,0,False,False
-2020-06-15,ARM,AS,Armenia,40.066181,45.111108,16667,269,0,16398,0,0,False,False
 2020-06-15,ABW,NA,Aruba,12.517713,-69.965112,101,3,0,98,0,0,False,False
 2020-06-15,AUS,OC,Australia,-26.853388,133.275155,7320,102,0,7218,0,0,False,False
 2020-06-15,AUT,EU,Austria,47.697542,13.349319,17110,653,16066,391,0,0,True,True
@@ -18514,7 +18419,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-16,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-16,ARG,SA,Argentina,-38.421295,-63.587403,32772,854,,31918,,,False,False
-2020-06-16,ARM,AS,Armenia,40.066181,45.111108,17064,285,,16779,,,False,False
 2020-06-16,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-16,AUS,OC,Australia,-26.853388,133.275155,7335,102,,7233,,,False,False
 2020-06-16,AUT,EU,Austria,47.697542,13.349319,17164,656,16089,419,187,12,True,True
@@ -18708,7 +18612,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-17,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-17,ARG,SA,Argentina,-38.421295,-63.587403,34146,878,,33268,,,False,False
-2020-06-17,ARM,AS,Armenia,40.066181,45.111108,17489,293,,17196,,,False,False
 2020-06-17,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-17,AUS,OC,Australia,-26.853388,133.275155,7347,102,,7245,,,False,False
 2020-06-17,AUT,EU,Austria,47.697542,13.349319,17178,662,16099,417,187,12,True,True
@@ -18905,7 +18808,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-18,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-18,ARG,SA,Argentina,-38.421295,-63.587403,35539,913,,34626,,,False,False
-2020-06-18,ARM,AS,Armenia,40.066181,45.111108,18033,302,,17731,,,False,False
 2020-06-18,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-18,AUS,OC,Australia,-26.853388,133.275155,7370,102,,7268,,,False,False
 2020-06-18,AUT,EU,Austria,47.697542,13.349319,17197,662,16101,434,187,12,True,True
@@ -19101,7 +19003,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-19,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-19,ARG,SA,Argentina,-38.421295,-63.587403,35539,929,,34610,,,False,False
-2020-06-19,ARM,AS,Armenia,40.066181,45.111108,18698,309,,18389,,,False,False
 2020-06-19,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-19,AUS,OC,Australia,-26.853388,133.275155,7391,102,,7289,,,False,False
 2020-06-19,AUT,EU,Austria,47.697542,13.349319,17245,662,16141,442,187,12,True,True
@@ -19296,7 +19197,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-20,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-20,ARG,SA,Argentina,-38.421295,-63.587403,39557,979,,38578,,,False,False
-2020-06-20,ARM,AS,Armenia,40.066181,45.111108,19157,319,,18838,,,False,False
 2020-06-20,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-20,AUS,OC,Australia,-26.853388,133.275155,7409,102,,7307,,,False,False
 2020-06-20,AUT,EU,Austria,47.697542,13.349319,17297,662,16175,460,187,12,True,True
@@ -19488,7 +19388,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-21,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-21,ARG,SA,Argentina,-38.421295,-63.587403,41191,992,,40199,,,False,False
-2020-06-21,ARM,AS,Armenia,40.066181,45.111108,19708,332,,19376,,,False,False
 2020-06-21,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-21,AUS,OC,Australia,-26.853388,133.275155,7436,102,,7334,,,False,False
 2020-06-21,AUT,EU,Austria,47.697542,13.349319,17315,664,16197,454,187,12,True,True
@@ -19669,7 +19568,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-22,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-22,ARG,SA,Argentina,-38.421295,-63.587403,42772,1011,,41761,,,False,False
-2020-06-22,ARM,AS,Armenia,40.066181,45.111108,20588,360,,20228,,,False,False
 2020-06-22,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-22,AUS,OC,Australia,-26.853388,133.275155,7461,102,,7359,,,False,False
 2020-06-22,AUT,EU,Austria,47.697542,13.349319,17357,667,16241,449,187,12,True,True
@@ -19865,7 +19763,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-23,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-23,ARG,SA,Argentina,-38.421295,-63.587403,44918,1043,,43875,,,False,False
-2020-06-23,ARM,AS,Armenia,40.066181,45.111108,20588,360,,20228,,,False,False
 2020-06-23,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-23,AUS,OC,Australia,-26.853388,133.275155,7474,102,,7372,,,False,False
 2020-06-23,AUT,EU,Austria,47.697542,13.349319,17381,666,16261,454,187,12,True,True
@@ -20062,7 +19959,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-24,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,26,3,,23,,,False,False
 2020-06-24,ARG,SA,Argentina,-38.421295,-63.587403,44918,1049,,43869,,,False,False
-2020-06-24,ARM,AS,Armenia,40.066181,45.111108,21717,386,,21331,,,False,False
 2020-06-24,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-24,AUS,OC,Australia,-26.853388,133.275155,7492,102,,7390,,,False,False
 2020-06-24,AUT,EU,Austria,47.697542,13.349319,17424,668,16282,474,187,12,True,True
@@ -20259,7 +20155,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-25,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,65,3,,62,,,False,False
 2020-06-25,ARG,SA,Argentina,-38.421295,-63.587403,49838,1085,,48753,,,False,False
-2020-06-25,ARM,AS,Armenia,40.066181,45.111108,21717,386,,21331,,,False,False
 2020-06-25,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-25,AUS,OC,Australia,-26.853388,133.275155,7521,103,,7418,,,False,False
 2020-06-25,AUT,EU,Austria,47.697542,13.349319,17450,671,16320,459,187,12,True,True
@@ -20455,7 +20350,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-26,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,65,3,,62,,,False,False
 2020-06-26,ARG,SA,Argentina,-38.421295,-63.587403,52444,1124,,51320,,,False,False
-2020-06-26,ARM,AS,Armenia,40.066181,45.111108,23247,410,,22837,,,False,False
 2020-06-26,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-26,AUS,OC,Australia,-26.853388,133.275155,7558,104,,7454,,,False,False
 2020-06-26,AUT,EU,Austria,47.697542,13.349319,17498,674,16348,476,187,12,True,True
@@ -20651,7 +20545,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-27,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,65,3,,62,,,False,False
 2020-06-27,ARG,SA,Argentina,-38.421295,-63.587403,52444,1167,,51277,,,False,False
-2020-06-27,ARM,AS,Armenia,40.066181,45.111108,23909,420,,23489,,,False,False
 2020-06-27,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-27,AUS,OC,Australia,-26.853388,133.275155,7595,104,,7491,,,False,False
 2020-06-27,AUT,EU,Austria,47.697542,13.349319,17554,674,16371,509,187,12,True,True
@@ -20844,7 +20737,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-28,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,65,3,,62,,,False,False
 2020-06-28,ARG,SA,Argentina,-38.421295,-63.587403,57731,1207,,56524,,,False,False
-2020-06-28,ARM,AS,Armenia,40.066181,45.111108,24645,426,,24219,,,False,False
 2020-06-28,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-28,AUS,OC,Australia,-26.853388,133.275155,7641,104,,7537,,,False,False
 2020-06-28,AUT,EU,Austria,47.697542,13.349319,17626,674,16401,551,187,12,True,True
@@ -21038,7 +20930,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-29,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,65,3,,62,,,False,False
 2020-06-29,ARG,SA,Argentina,-38.421295,-63.587403,57731,1217,,56514,,,False,False
-2020-06-29,ARM,AS,Armenia,40.066181,45.111108,25127,433,,24694,,,False,False
 2020-06-29,ABW,NA,Aruba,12.517713,-69.965112,101,3,,98,,,False,False
 2020-06-29,AUS,OC,Australia,-26.853388,133.275155,7686,104,,7582,,,False,False
 2020-06-29,AUT,EU,Austria,47.697542,13.349319,17694,674,16420,600,187,12,True,True
@@ -21234,7 +21125,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-06-30,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,66,3,,63,,,False,False
 2020-06-30,ARG,SA,Argentina,-38.421295,-63.587403,62255,1280,,60975,,,False,False
-2020-06-30,ARM,AS,Armenia,40.066181,45.111108,25127,433,,24694,,,False,False
 2020-06-30,ABW,NA,Aruba,12.517713,-69.965112,103,3,,100,,,False,False
 2020-06-30,AUS,OC,Australia,-26.853388,133.275155,7767,104,,7663,,,False,False
 2020-06-30,AUT,EU,Austria,47.697542,13.349319,17741,680,16478,583,187,12,True,True
@@ -21431,7 +21321,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-01,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,66,3,,63,,,False,False
 2020-07-01,ARG,SA,Argentina,-38.421295,-63.587403,64517,1307,,63210,,,False,False
-2020-07-01,ARM,AS,Armenia,40.066181,45.111108,25542,443,,25099,,,False,False
 2020-07-01,ABW,NA,Aruba,12.517713,-69.965112,103,3,,100,,,False,False
 2020-07-01,AUS,OC,Australia,-26.853388,133.275155,7834,104,,7730,,,False,False
 2020-07-01,AUT,EU,Austria,47.697542,13.349319,17848,680,16491,677,187,12,True,True
@@ -21627,7 +21516,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-02,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,66,3,,63,,,False,False
 2020-07-02,ARG,SA,Argentina,-38.421295,-63.587403,67184,1351,,65833,,,False,False
-2020-07-02,ARM,AS,Armenia,40.066181,45.111108,26065,453,,25612,,,False,False
 2020-07-02,ABW,NA,Aruba,12.517713,-69.965112,103,3,,100,,,False,False
 2020-07-02,AUS,OC,Australia,-26.853388,133.275155,7920,104,,7816,,,False,False
 2020-07-02,AUT,EU,Austria,47.697542,13.349319,17916,680,16514,722,187,12,True,True
@@ -21822,7 +21710,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-03,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-03,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,68,3,,65,,,False,False
 2020-07-03,ARG,SA,Argentina,-38.421295,-63.587403,69928,1385,,68543,,,False,False
-2020-07-03,ARM,AS,Armenia,40.066181,45.111108,26658,459,,26199,,,False,False
 2020-07-03,ABW,NA,Aruba,12.517713,-69.965112,104,3,,101,,,False,False
 2020-07-03,AUS,OC,Australia,-26.853388,133.275155,8001,104,,7897,,,False,False
 2020-07-03,AUT,EU,Austria,47.697542,13.349319,18025,680,16558,787,187,12,True,True
@@ -22017,7 +21904,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-04,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-04,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,68,3,,65,,,False,False
 2020-07-04,ARG,SA,Argentina,-38.421295,-63.587403,72773,1437,,71336,,,False,False
-2020-07-04,ARM,AS,Armenia,40.066181,45.111108,27320,469,,26851,,,False,False
 2020-07-04,ABW,NA,Aruba,12.517713,-69.965112,104,3,,101,,,False,False
 2020-07-04,AUS,OC,Australia,-26.853388,133.275155,8255,104,,8151,,,False,False
 2020-07-04,AUT,EU,Austria,47.697542,13.349319,18141,681,16607,853,187,12,True,True
@@ -22207,7 +22093,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-05,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-05,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,68,3,,65,,,False,False
 2020-07-05,ARG,SA,Argentina,-38.421295,-63.587403,72773,1453,,71320,,,False,False
-2020-07-05,ARM,AS,Armenia,40.066181,45.111108,27900,477,,27423,,,False,False
 2020-07-05,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-05,AUS,OC,Australia,-26.853388,133.275155,8362,104,,8258,,,False,False
 2020-07-05,AUT,EU,Austria,47.697542,13.349319,18255,681,16615,959,187,12,True,True
@@ -22398,7 +22283,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-06,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-06,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,68,3,,65,,,False,False
 2020-07-06,ARG,SA,Argentina,-38.421295,-63.587403,75363,1490,,73873,,,False,False
-2020-07-06,ARM,AS,Armenia,40.066181,45.111108,28606,484,,28122,,,False,False
 2020-07-06,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-06,AUS,OC,Australia,-26.853388,133.275155,8449,104,,8345,,,False,False
 2020-07-06,AUT,EU,Austria,47.697542,13.349319,18340,681,16647,1012,187,12,True,True
@@ -22594,7 +22478,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-07,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,70,3,,67,,,False,False
 2020-07-07,ARG,SA,Argentina,-38.421295,-63.587403,77802,1523,,76279,,,False,False
-2020-07-07,ARM,AS,Armenia,40.066181,45.111108,28936,491,,28445,,,False,False
 2020-07-07,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-07,AUS,OC,Australia,-26.853388,133.275155,8586,106,,8480,,,False,False
 2020-07-07,AUT,EU,Austria,47.697542,13.349319,18396,681,16686,1029,187,12,True,True
@@ -22791,7 +22674,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-08,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,70,3,,67,,,False,False
 2020-07-08,ARG,SA,Argentina,-38.421295,-63.587403,80434,1602,,78832,,,False,False
-2020-07-08,ARM,AS,Armenia,40.066181,45.111108,29285,503,,28782,,,False,False
 2020-07-08,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-08,AUS,OC,Australia,-26.853388,133.275155,8755,106,,8649,,,False,False
 2020-07-08,AUT,EU,Austria,47.697542,13.349319,18488,681,16721,1086,187,23,True,True
@@ -22987,7 +22869,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-09,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,73,3,,70,,,False,False
 2020-07-09,ARG,SA,Argentina,-38.421295,-63.587403,83413,1654,,81759,,,False,False
-2020-07-09,ARM,AS,Armenia,40.066181,45.111108,29820,521,,29299,,,False,False
 2020-07-09,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-09,AUS,OC,Australia,-26.853388,133.275155,8886,106,,8780,,,False,False
 2020-07-09,AUT,EU,Austria,47.697542,13.349319,18590,681,16758,1151,187,23,True,True
@@ -23184,7 +23065,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-10,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,73,3,,70,,,False,False
 2020-07-10,ARG,SA,Argentina,-38.421295,-63.587403,90680,1707,,88973,,,False,False
-2020-07-10,ARM,AS,Armenia,40.066181,45.111108,30346,535,,29811,,,False,False
 2020-07-10,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-10,AUS,OC,Australia,-26.853388,133.275155,9059,106,,8953,,,False,False
 2020-07-10,AUT,EU,Austria,47.697542,13.349319,18684,681,16808,1195,187,12,True,True
@@ -23381,7 +23261,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-11,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-11,ARG,SA,Argentina,-38.421295,-63.587403,94047,1749,,92298,,,False,False
-2020-07-11,ARM,AS,Armenia,40.066181,45.111108,30903,546,,30357,,,False,False
 2020-07-11,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-11,AUS,OC,Australia,-26.853388,133.275155,9359,106,,9253,,,False,False
 2020-07-11,AUT,EU,Austria,47.697542,13.349319,18758,681,16864,1213,187,12,True,True
@@ -23572,7 +23451,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-12,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-12,ARG,SA,Argentina,-38.421295,-63.587403,97509,1810,,95699,,,False,False
-2020-07-12,ARM,AS,Armenia,40.066181,45.111108,31392,559,,30833,,,False,False
 2020-07-12,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-12,AUS,OC,Australia,-26.853388,133.275155,9553,107,,9446,,,False,False
 2020-07-12,AUT,EU,Austria,47.697542,13.349319,18871,682,16952,1237,187,12,True,True
@@ -23764,7 +23642,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-13,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-13,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-13,ARG,SA,Argentina,-38.421295,-63.587403,100153,1818,,98335,,,False,False
-2020-07-13,ARM,AS,Armenia,40.066181,45.111108,31969,565,,31404,,,False,False
+2020-07-13,ARM,AS,Armenia,40.066181,45.111108,32490,581,20729,11180,1885,273,False,False
 2020-07-13,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-13,AUS,OC,Australia,-26.853388,133.275155,9797,108,,9689,,,False,False
 2020-07-13,AZE,AS,Azerbaijan,40.147396,47.572098,24041,306,,23735,,,False,False
@@ -23960,7 +23838,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-14,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-14,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-14,ARG,SA,Argentina,-38.421295,-63.587403,103105,1903,,101202,,,False,False
-2020-07-14,ARM,AS,Armenia,40.066181,45.111108,32151,573,,31578,,,False,False
 2020-07-14,ABW,NA,Aruba,12.517713,-69.965112,105,3,,102,,,False,False
 2020-07-14,AUS,OC,Australia,-26.853388,133.275155,9980,108,,9872,,,False,False
 2020-07-14,AUT,EU,Austria,47.697542,13.349319,18995,683,17073,1239,187,12,True,True
@@ -24154,7 +24031,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-15,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-15,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-15,ARG,SA,Argentina,-38.421295,-63.587403,103252,1926,,101326,,,False,False
-2020-07-15,ARM,AS,Armenia,40.066181,45.111108,32490,581,,31909,,,False,False
 2020-07-15,ABW,NA,Aruba,12.517713,-69.965112,106,3,,103,,,False,False
 2020-07-15,AUS,OC,Australia,-26.853388,133.275155,10251,108,,10143,,,False,False
 2020-07-15,AUT,EU,Austria,47.697542,13.349319,18996,684,17073,1239,187,12,True,True
@@ -24349,7 +24225,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-16,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-16,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-16,ARG,SA,Argentina,-38.421295,-63.587403,106897,2050,,104847,,,False,False
-2020-07-16,ARM,AS,Armenia,40.066181,45.111108,33005,592,,32413,,,False,False
 2020-07-16,ABW,NA,Aruba,12.517713,-69.965112,106,3,,103,,,False,False
 2020-07-16,AUS,OC,Australia,-26.853388,133.275155,10495,111,,10384,,,False,False
 2020-07-16,AUT,EU,Austria,47.697542,13.349319,19244,685,17244,1315,187,23,True,True
@@ -24546,7 +24421,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-17,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-17,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,74,3,,71,,,False,False
 2020-07-17,ARG,SA,Argentina,-38.421295,-63.587403,114757,2112,,112645,,,False,False
-2020-07-17,ARM,AS,Armenia,40.066181,45.111108,33559,607,,32952,,,False,False
 2020-07-17,ABW,NA,Aruba,12.517713,-69.965112,108,3,,105,,,False,False
 2020-07-17,AUS,OC,Australia,-26.853388,133.275155,10810,113,,10697,,,False,False
 2020-07-17,AUT,EU,Austria,47.697542,13.349319,19413,685,17335,1393,187,12,True,True
@@ -24743,7 +24617,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-18,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-18,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-18,ARG,SA,Argentina,-38.421295,-63.587403,119288,2133,,117155,,,False,False
-2020-07-18,ARM,AS,Armenia,40.066181,45.111108,34001,620,,33381,,,False,False
 2020-07-18,ABW,NA,Aruba,12.517713,-69.965112,108,3,,105,,,False,False
 2020-07-18,AUS,OC,Australia,-26.853388,133.275155,11235,116,,11119,,,False,False
 2020-07-18,AUT,EU,Austria,47.697542,13.349319,19547,685,17501,1361,187,12,True,True
@@ -24935,7 +24808,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-19,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-19,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-19,ARG,SA,Argentina,-38.421295,-63.587403,119288,2204,,117084,,,False,False
-2020-07-19,ARM,AS,Armenia,40.066181,45.111108,34462,631,,33831,,,False,False
 2020-07-19,ABW,NA,Aruba,12.517713,-69.965112,108,3,,105,,,False,False
 2020-07-19,AUS,OC,Australia,-26.853388,133.275155,11441,118,,11323,,,False,False
 2020-07-19,AUT,EU,Austria,47.697542,13.349319,19629,685,17599,1345,187,23,True,True
@@ -25127,7 +24999,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-20,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-20,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-20,ARG,SA,Argentina,-38.421295,-63.587403,122511,2246,,120265,,,False,False
-2020-07-20,ARM,AS,Armenia,40.066181,45.111108,34877,641,,34236,,,False,False
 2020-07-20,ABW,NA,Aruba,12.517713,-69.965112,113,3,,110,,,False,False
 2020-07-20,AUS,OC,Australia,-26.853388,133.275155,11802,122,,11680,,,False,False
 2020-07-20,AUT,EU,Austria,47.697542,13.349319,19717,685,17659,1373,187,23,True,True
@@ -25324,7 +25195,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-21,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-21,ARG,SA,Argentina,-38.421295,-63.587403,130761,2373,,128388,,,False,False
-2020-07-21,ARM,AS,Armenia,40.066181,45.111108,34981,650,,34331,,,False,False
 2020-07-21,ABW,NA,Aruba,12.517713,-69.965112,115,3,,112,,,False,False
 2020-07-21,AUS,OC,Australia,-26.853388,133.275155,12069,123,,11946,,,False,False
 2020-07-21,AUT,EU,Austria,47.697542,13.349319,19776,686,17704,1386,187,23,True,True
@@ -25536,7 +25406,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-23,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-23,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-23,ARG,SA,Argentina,-38.421295,-63.587403,136105,2506,,133599,,,False,False
-2020-07-23,ARM,AS,Armenia,40.066181,45.111108,36162,688,,35474,,,False,False
 2020-07-23,ABW,NA,Aruba,12.517713,-69.965112,117,3,,114,,,False,False
 2020-07-23,AUS,OC,Australia,-26.853388,133.275155,12896,128,,12768,,,False,False
 2020-07-23,AUT,EU,Austria,47.697542,13.349319,20074,686,17943,1445,187,23,True,True
@@ -25733,7 +25602,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-24,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False
 2020-07-24,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,76,3,,73,,,False,False
 2020-07-24,ARG,SA,Argentina,-38.421295,-63.587403,141887,2617,,139270,,,False,False
-2020-07-24,ARM,AS,Armenia,40.066181,45.111108,36613,692,,35921,,,False,False
 2020-07-24,ABW,NA,Aruba,12.517713,-69.965112,117,3,,114,,,False,False
 2020-07-24,AUS,OC,Australia,-26.853388,133.275155,13306,133,,13173,,,False,False
 2020-07-24,AUT,EU,Austria,47.697542,13.349319,20190,687,18042,1461,187,23,True,True
@@ -25912,3 +25780,4 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-25,BGR,EU,Bulgaria,42.729862,25.491667,10123,337,5252,4534,,,True,True
 2020-07-25,CZE,EU,Czech Republic,49.800901,15.478153,15081,369,9422,5290,,,True,True
 2020-07-25,DEU,EU,Germany,51.165706,10.452764,204964,9118,189800,6046,,,True,True
+2020-07-25,SVK,EU,Slovakia,48.665639,19.709097,2141,28,1577,536,21,2,True,True
