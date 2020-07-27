@@ -276,7 +276,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-27,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-07-27,LTU,Lithuania,Lithuania,55.174112,23.906736,2008,80,,1928,,,True,True,LT
-2020-07-24,LUX,Luxembourg,Luxembourg,49.815764,6.131514,6056,112,1012,4932,48,3,True,True,LU
+2020-07-26,LUX,Luxembourg,Luxembourg,49.815764,6.131514,5994,113,1012,4869,48,3,True,True,LU
 2020-07-27,MLT,Malta,Malta,35.946151,14.384612,701,9,665,27,,,True,True,MT001
 2020-07-27,MDA,Moldova,Moldova,46.979527,28.377195,23034,735,,22299,,,False,False,MD
 2020-07-27,MCO,Monaco,Monaco,43.738348,7.424451,116,5,,111,,,False,False,
@@ -551,7 +551,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-27,CHE,Switzerland,Valais,46.211633,7.611267,2117,153,310,1654,6,2,False,False,CH012
 2020-07-27,CHE,Switzerland,Vaud,46.56176,6.648929,5848,424,0,5424,11,3,False,False,CH011
 2020-07-27,CHE,Switzerland,Zug,47.161402,8.538864,272,9,236,27,0,0,False,False,CH066
-2020-07-27,CHE,Switzerland,Zurich,47.417407,8.655988,4384,136,0,4248,24,0,False,False,CH040
+2020-07-27,CHE,Switzerland,Zurich,47.417407,8.655988,4404,136,0,4268,26,0,False,False,CH040
 2020-07-27,TUR,Turkey,Turkey,38.961515,35.25175,226100,5613,,220487,,,False,True,TUR
 2020-07-27,UKR,Ukraine,NOT SPECIFIED,,,64849,1605,,63244,,,False,False,
 2020-07-26,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1274,0,0,1274,,,False,True,UKM93
