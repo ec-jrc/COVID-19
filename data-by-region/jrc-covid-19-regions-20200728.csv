@@ -308,22 +308,22 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-27,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,304,,,304,,,False,True,NO033
 2020-07-27,NOR,Norway,Vestland,60.952729,6.513828,901,,,901,,,False,True,NO05
 2020-07-27,NOR,Norway,Viken,60.020274,9.849655,2543,,,2543,,,False,True,NO012
-2020-07-27,POL,Poland,Dolnośląskie,51.07994,16.381483,3170,152,,3018,,,True,True,PL51
-2020-07-27,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,750,50,,700,,,True,True,PL61
-2020-07-27,POL,Poland,Łódzkie,51.559579,19.408271,3824,203,,3621,,,True,True,PL71
-2020-07-27,POL,Poland,Lubelskie,51.247253,22.908895,927,21,,906,,,True,True,PL81
-2020-07-27,POL,Poland,Lubuskie,52.206458,15.345515,366,7,,359,,,True,True,PL43
-2020-07-27,POL,Poland,Małopolskie,49.842031,20.300847,3132,53,,3079,,,True,True,PL21
-2020-07-27,POL,Poland,Mazowieckie,52.309134,21.081201,6119,371,,5748,,,True,True,PL9
-2020-07-27,POL,Poland,Opolskie,50.621436,17.876844,1130,54,,1076,,,True,True,PL52
-2020-07-27,POL,Poland,Podkarpackie,49.962818,22.225966,1188,59,,1129,,,True,True,PL82
-2020-07-27,POL,Poland,Podlaskie,53.28395,22.895092,947,18,,929,,,True,True,PL84
-2020-07-27,POL,Poland,Pomorskie,54.129033,18.012613,832,39,,793,,,True,True,PL63
-2020-07-27,POL,Poland,Śląskie,50.318293,18.999987,15436,384,,15052,,,True,True,PL22
-2020-07-27,POL,Poland,Świętokrzyskie,50.734202,20.797295,950,45,,905,,,True,True,PL72
-2020-07-27,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,338,2,,336,,,True,True,PL62
-2020-07-27,POL,Poland,Wielkopolskie,52.283858,17.248218,3596,195,,3401,,,True,True,PL41
-2020-07-27,POL,Poland,Zachodniopomorskie,53.582707,15.634824,697,23,,674,,,True,True,PL42
+2020-07-28,POL,Poland,Dolnośląskie,51.07994,16.381483,3201,152,,3049,,,True,True,PL51
+2020-07-28,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,754,50,,704,,,True,True,PL61
+2020-07-28,POL,Poland,Łódzkie,51.559579,19.408271,3853,204,,3649,,,True,True,PL71
+2020-07-28,POL,Poland,Lubelskie,51.247253,22.908895,927,20,,907,,,True,True,PL81
+2020-07-28,POL,Poland,Lubuskie,52.206458,15.345515,370,8,,362,,,True,True,PL43
+2020-07-28,POL,Poland,Małopolskie,49.842031,20.300847,3223,54,,3169,,,True,True,PL21
+2020-07-28,POL,Poland,Mazowieckie,52.309134,21.081201,6181,371,,5810,,,True,True,PL9
+2020-07-28,POL,Poland,Opolskie,50.621436,17.876844,1146,54,,1092,,,True,True,PL52
+2020-07-28,POL,Poland,Podkarpackie,49.962818,22.225966,1207,59,,1148,,,True,True,PL82
+2020-07-28,POL,Poland,Podlaskie,53.28395,22.895092,955,19,,936,,,True,True,PL84
+2020-07-28,POL,Poland,Pomorskie,54.129033,18.012613,847,39,,808,,,True,True,PL63
+2020-07-28,POL,Poland,Śląskie,50.318293,18.999987,15597,387,,15210,,,True,True,PL22
+2020-07-28,POL,Poland,Świętokrzyskie,50.734202,20.797295,956,45,,911,,,True,True,PL72
+2020-07-28,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,343,2,,341,,,True,True,PL62
+2020-07-28,POL,Poland,Wielkopolskie,52.283858,17.248218,3641,195,,3446,,,True,True,PL41
+2020-07-28,POL,Poland,Zachodniopomorskie,53.582707,15.634824,703,23,,680,,,True,True,PL42
 2020-07-27,PRT,Portugal,Açores,37.775525,-25.494927,160,15,,145,,,True,True,PT20
 2020-07-27,PRT,Portugal,Alentejo,38.485499,-8.006668,688,21,,667,,,True,True,PT18
 2020-07-27,PRT,Portugal,Algarve,37.218389,-8.198488,853,15,,838,,,True,True,PT15
@@ -554,29 +554,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-28,CHE,Switzerland,Zurich,47.417407,8.655988,4404,136,0,4268,26,0,False,False,CH040
 2020-07-27,TUR,Turkey,Turkey,38.961515,35.25175,226100,5613,,220487,,,False,True,TUR
 2020-07-27,UKR,Ukraine,NOT SPECIFIED,,,64849,1605,,63244,,,False,False,
-2020-07-26,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1274,0,0,1274,,,False,True,UKM93
-2020-07-26,GBR,United Kingdom,Borders,55.572787,-2.786355,347,0,0,347,,,False,True,UKM91
-2020-07-26,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,300,0,0,300,,,False,True,UKM92
-2020-07-26,GBR,United Kingdom,East of England,52.248898,0.548756,24521,0,0,24521,,,False,True,UKH
-2020-07-26,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,UKM64
-2020-07-26,GBR,United Kingdom,England,,,8427,41156,0,-32729,,,False,True,UK
-2020-07-26,GBR,United Kingdom,Fife,56.228968,-3.118568,940,0,0,940,,,False,True,UKM72
-2020-07-26,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1091,0,0,1091,,,False,True,UKM76
-2020-07-26,GBR,United Kingdom,Grampian,57.299016,-2.780773,1445,0,0,1445,,,False,True,UKM50
-2020-07-26,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,4953,0,0,4953,,,False,True,UKM82
-2020-07-26,GBR,United Kingdom,Highland,57.363501,-4.733034,381,0,0,381,,,False,True,UKM6
-2020-07-26,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2778,0,0,2778,,,False,True,UKD4
-2020-07-26,GBR,United Kingdom,London,51.497136,-0.100571,35017,0,0,35017,,,False,True,UKI
-2020-07-26,GBR,United Kingdom,Lothian,55.946009,-2.728265,3187,0,0,3187,,,False,True,UKM75
-2020-07-26,GBR,United Kingdom,Midlands,52.718351,-1.45667,49791,0,0,49791,,,False,True,UKF
-2020-07-26,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,46678,0,0,46678,,,False,True,UKC
-2020-07-26,GBR,United Kingdom,North West,53.524488,-2.333125,45210,0,0,45210,,,False,True,UKD
-2020-07-26,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,5891,556,0,5335,,,False,True,UKN
+2020-07-27,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1275,0,0,1275,,,False,True,UKM93
+2020-07-27,GBR,United Kingdom,Borders,55.572787,-2.786355,347,0,0,347,,,False,True,UKM91
+2020-07-27,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,300,0,0,300,,,False,True,UKM92
+2020-07-27,GBR,United Kingdom,East of England,52.248898,0.548756,24563,0,0,24563,,,False,True,UKH
+2020-07-27,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,UKM64
+2020-07-27,GBR,United Kingdom,England,,,8430,41163,0,-32733,,,False,True,UK
+2020-07-27,GBR,United Kingdom,Fife,56.228968,-3.118568,940,0,0,940,,,False,True,UKM72
+2020-07-27,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1091,0,0,1091,,,False,True,UKM76
+2020-07-27,GBR,United Kingdom,Grampian,57.299016,-2.780773,1445,0,0,1445,,,False,True,UKM50
+2020-07-27,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,4954,0,0,4954,,,False,True,UKM82
+2020-07-27,GBR,United Kingdom,Highland,57.363501,-4.733034,381,0,0,381,,,False,True,UKM6
+2020-07-27,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2779,0,0,2779,,,False,True,UKD4
+2020-07-27,GBR,United Kingdom,London,51.497136,-0.100571,35104,0,0,35104,,,False,True,UKI
+2020-07-27,GBR,United Kingdom,Lothian,55.946009,-2.728265,3187,0,0,3187,,,False,True,UKM75
+2020-07-27,GBR,United Kingdom,Midlands,52.718351,-1.45667,49925,0,0,49925,,,False,True,UKF
+2020-07-27,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,46782,0,0,46782,,,False,True,UKC
+2020-07-27,GBR,United Kingdom,North West,53.524488,-2.333125,45360,0,0,45360,,,False,True,UKD
+2020-07-27,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,5912,556,0,5356,,,False,True,UKN
 2020-07-09,GBR,United Kingdom,NOT SPECIFIED,,,874,0,0,874,,,False,True,
-2020-07-26,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,UKM65
-2020-07-26,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2491,0,-2491,,,False,True,UKM
-2020-07-26,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,UKM66
-2020-07-26,GBR,United Kingdom,South East,51.291417,-0.521902,35096,0,0,35096,,,False,True,UKJ
-2020-07-26,GBR,United Kingdom,South West,51.239761,-2.54375,13119,0,0,13119,,,False,True,UKK
-2020-07-26,GBR,United Kingdom,Tayside,56.610323,-3.555213,1785,0,0,1785,,,False,True,UKM71
-2020-07-26,GBR,United Kingdom,Wales,52.302413,-3.738347,17125,1549,0,15576,,,False,True,UKL
+2020-07-27,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,UKM65
+2020-07-27,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2491,0,-2491,,,False,True,UKM
+2020-07-27,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,UKM66
+2020-07-27,GBR,United Kingdom,South East,51.291417,-0.521902,35167,0,0,35167,,,False,True,UKJ
+2020-07-27,GBR,United Kingdom,South West,51.239761,-2.54375,13144,0,0,13144,,,False,True,UKK
+2020-07-27,GBR,United Kingdom,Tayside,56.610323,-3.555213,1785,0,0,1785,,,False,True,UKM71
+2020-07-27,GBR,United Kingdom,Wales,52.302413,-3.738347,17170,1549,0,15621,,,False,True,UKL
