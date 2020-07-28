@@ -462,20 +462,20 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-27,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,4038,47,3516,475,,,False,False,RU80
 2020-07-27,SMR,San Marino,San Marino,43.942973,12.460035,716,42,,674,,,False,False,SM
 2020-07-27,SRB,Serbia,Serbia,44.206802,20.911009,23730,534,,23196,,,False,True,
-2020-07-27,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,179,,,179,,,True,True,SK032
-2020-07-27,SVK,Slovakia,Bratislava,48.319003,17.17481,495,,,495,,,True,True,SK010
-2020-07-27,SVK,Slovakia,Košice,48.771358,20.721931,311,,,311,,,True,True,SK042
-2020-07-27,SVK,Slovakia,Nitra,48.140652,18.30311,170,,,170,,,True,True,SK023
-2020-07-27,SVK,Slovakia,NOT SPECIFIED,,,0,28,1616,-1644,21,2,True,True,
-2020-07-27,SVK,Slovakia,Prešov,49.126441,21.221321,286,,,286,,,True,True,SK041
-2020-07-27,SVK,Slovakia,Trencín,48.858564,18.202196,283,,,283,,,True,True,SK022
-2020-07-27,SVK,Slovakia,Trnava,48.222651,17.707847,143,,,143,,,True,True,SK021
-2020-07-27,SVK,Slovakia,Zilina,49.178517,19.167163,314,,,314,,,True,True,SK031
+2020-07-28,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,182,,,182,,,True,True,SK032
+2020-07-28,SVK,Slovakia,Bratislava,48.319003,17.17481,498,,,498,,,True,True,SK010
+2020-07-28,SVK,Slovakia,Košice,48.771358,20.721931,315,,,315,,,True,True,SK042
+2020-07-28,SVK,Slovakia,Nitra,48.140652,18.30311,170,,,170,,,True,True,SK023
+2020-07-28,SVK,Slovakia,NOT SPECIFIED,,,0,28,1644,-1672,24,2,True,True,
+2020-07-28,SVK,Slovakia,Prešov,49.126441,21.221321,287,,,287,,,True,True,SK041
+2020-07-28,SVK,Slovakia,Trencín,48.858564,18.202196,287,,,287,,,True,True,SK022
+2020-07-28,SVK,Slovakia,Trnava,48.222651,17.707847,145,,,145,,,True,True,SK021
+2020-07-28,SVK,Slovakia,Zilina,49.178517,19.167163,320,,,320,,,True,True,SK031
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,SI042
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,SI033
-2020-07-26,SVN,Slovenia,NOT SPECIFIED,,,2087,116,333,1638,20,3,True,True,
+2020-07-27,SVN,Slovenia,NOT SPECIFIED,,,2101,117,336,1648,17,3,True,True,
 2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,SI044
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,SI041
 2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,SI032
@@ -528,7 +528,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-28,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False,CH033
 2020-07-28,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,108,3,0,105,1,0,False,False,CH053
 2020-07-28,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False,CH054
-2020-07-28,CHE,Switzerland,Basel City,47.561925,7.592768,1038,52,969,17,3,2,False,False,CH031
+2020-07-28,CHE,Switzerland,Basel City,47.561925,7.592768,1039,52,971,16,3,2,False,False,CH031
 2020-07-28,CHE,Switzerland,Basel Country,47.441812,7.7644,914,35,862,17,2,0,False,False,CH032
 2020-07-28,CHE,Switzerland,Bern,46.825006,7.626925,2082,97,0,1985,10,2,False,False,CH021
 2020-07-28,CHE,Switzerland,Fribourg,46.710334,7.09922,1321,85,157,1079,1,1,False,False,CH022
@@ -541,7 +541,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-28,CHE,Switzerland,Neuchâtel,46.997282,6.782288,735,83,0,652,2,0,False,False,CH024
 2020-07-28,CHE,Switzerland,Nidwalden,46.922198,8.419375,128,3,0,125,0,0,False,False,CH065
 2020-07-28,CHE,Switzerland,Obwalden,46.857772,8.209745,60,0,1,59,0,0,False,False,CH064
-2020-07-28,CHE,Switzerland,Schaffhausen,47.721853,8.563863,106,7,0,99,4,1,False,False,CH052
+2020-07-28,CHE,Switzerland,Schaffhausen,47.721853,8.563863,109,7,0,102,3,1,False,False,CH052
 2020-07-28,CHE,Switzerland,Schwyz,47.06411,8.761568,390,25,350,15,0,0,False,False,CH063
 2020-07-28,CHE,Switzerland,Solothurn,47.336648,7.686944,522,18,0,504,2,0,False,False,CH023
 2020-07-28,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
@@ -550,7 +550,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-28,CHE,Switzerland,Uri,46.775402,8.627444,115,7,104,4,1,0,False,False,CH062
 2020-07-28,CHE,Switzerland,Valais,46.211633,7.611267,2120,153,311,1656,6,2,False,False,CH012
 2020-07-28,CHE,Switzerland,Vaud,46.56176,6.648929,5848,424,0,5424,11,3,False,False,CH011
-2020-07-28,CHE,Switzerland,Zug,47.161402,8.538864,272,9,236,27,0,0,False,False,CH066
+2020-07-28,CHE,Switzerland,Zug,47.161402,8.538864,273,9,244,20,0,0,False,False,CH066
 2020-07-28,CHE,Switzerland,Zurich,47.417407,8.655988,4404,136,0,4268,26,0,False,False,CH040
 2020-07-27,TUR,Turkey,Turkey,38.961515,35.25175,226100,5613,,220487,,,False,True,TUR
 2020-07-27,UKR,Ukraine,NOT SPECIFIED,,,64849,1605,,63244,,,False,False,
