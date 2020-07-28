@@ -82,21 +82,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-27,HRV,Croatia,Zadarska,44.347845,15.959404,175,2,,173,,,True,True,HR033
 2020-07-27,HRV,Croatia,Zagrebačka,45.82762,16.381796,241,10,,231,,,True,True,HR042
 2020-07-27,CYP,Cyprus,Cyprus,35.167406,33.435499,1057,19,,1038,,,True,True,CY
-2020-07-27,CZE,Czech Republic,Jihoceský,49.093362,14.439278,269,0,0,269,,,True,True,CZ031
-2020-07-27,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,868,0,0,868,,,True,True,CZ064
-2020-07-27,CZE,Czech Republic,Karlovarský,50.170136,12.763213,486,0,0,486,,,True,True,CZ041
-2020-07-27,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,274,0,0,274,,,True,True,CZ052
-2020-07-27,CZE,Czech Republic,Liberecký,50.732038,14.973755,375,0,0,375,,,True,True,CZ051
-2020-07-27,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,4354,0,0,4354,,,True,True,CZ080
-2020-07-27,CZE,Czech Republic,NOT SPECIFIED,,,396,371,11428,-11403,,,True,True,
-2020-07-27,CZE,Czech Republic,Olomoucký,49.823636,17.016472,992,0,0,992,,,True,True,CZ071
-2020-07-27,CZE,Czech Republic,Pardubický,49.877869,16.495746,376,0,0,376,,,True,True,CZ053
-2020-07-27,CZE,Czech Republic,Plzenský,49.590906,13.23222,717,0,0,717,,,True,True,CZ032
-2020-07-27,CZE,Czech Republic,Prague,50.063699,14.476403,3140,0,0,3140,,,True,True,CZ010
-2020-07-27,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1600,0,0,1600,,,True,True,CZ020
-2020-07-27,CZE,Czech Republic,Ústecký,50.488308,13.816736,640,0,0,640,,,True,True,CZ042
-2020-07-27,CZE,Czech Republic,Vysocina,49.40736,15.689937,351,0,0,351,,,True,True,CZ063
-2020-07-27,CZE,Czech Republic,Zlínský,49.239654,17.770218,486,0,0,486,,,True,True,CZ072
+2020-07-28,CZE,Czech Republic,Jihoceský,49.093362,14.439278,281,0,0,281,,,True,True,CZ031
+2020-07-28,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,883,0,0,883,,,True,True,CZ064
+2020-07-28,CZE,Czech Republic,Karlovarský,50.170136,12.763213,485,0,0,485,,,True,True,CZ041
+2020-07-28,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,283,0,0,283,,,True,True,CZ052
+2020-07-28,CZE,Czech Republic,Liberecký,50.732038,14.973755,380,0,0,380,,,True,True,CZ051
+2020-07-28,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,4385,0,0,4385,,,True,True,CZ080
+2020-07-28,CZE,Czech Republic,NOT SPECIFIED,,,399,373,11315,-11289,,,True,True,
+2020-07-28,CZE,Czech Republic,Olomoucký,49.823636,17.016472,997,0,0,997,,,True,True,CZ071
+2020-07-28,CZE,Czech Republic,Pardubický,49.877869,16.495746,391,0,0,391,,,True,True,CZ053
+2020-07-28,CZE,Czech Republic,Plzenský,49.590906,13.23222,719,0,0,719,,,True,True,CZ032
+2020-07-28,CZE,Czech Republic,Prague,50.063699,14.476403,3195,0,0,3195,,,True,True,CZ010
+2020-07-28,CZE,Czech Republic,Stredoceský,50.101074,15.003747,1625,0,0,1625,,,True,True,CZ020
+2020-07-28,CZE,Czech Republic,Ústecký,50.488308,13.816736,649,0,0,649,,,True,True,CZ042
+2020-07-28,CZE,Czech Republic,Vysocina,49.40736,15.689937,352,0,0,352,,,True,True,CZ063
+2020-07-28,CZE,Czech Republic,Zlínský,49.239654,17.770218,492,0,0,492,,,True,True,CZ072
 2020-07-27,DNK,Denmark,Faroe,62.194921,-7.096614,188,0,,188,,,True,True,FRO
 2020-07-27,DNK,Denmark,Greenland,71.702379,-42.177174,13,0,,13,,,True,True,GRL
 2020-07-27,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -542,8 +542,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-07-28,CHE,Switzerland,Nidwalden,46.922198,8.419375,128,3,0,125,0,0,False,False,CH065
 2020-07-28,CHE,Switzerland,Obwalden,46.857772,8.209745,60,0,1,59,0,0,False,False,CH064
 2020-07-28,CHE,Switzerland,Schaffhausen,47.721853,8.563863,106,7,0,99,4,1,False,False,CH052
-2020-07-28,CHE,Switzerland,Schwyz,47.06411,8.761568,386,25,348,13,0,0,False,False,CH063
-2020-07-28,CHE,Switzerland,Solothurn,47.336648,7.686944,519,18,0,501,2,0,False,False,CH023
+2020-07-28,CHE,Switzerland,Schwyz,47.06411,8.761568,390,25,350,15,0,0,False,False,CH063
+2020-07-28,CHE,Switzerland,Solothurn,47.336648,7.686944,522,18,0,504,2,0,False,False,CH023
 2020-07-28,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
 2020-07-28,CHE,Switzerland,Thurgau,47.567205,9.112572,454,18,75,361,2,0,False,False,CH057
 2020-07-28,CHE,Switzerland,Ticino,46.297963,8.808447,3421,350,920,2151,3,1,False,False,CH07
