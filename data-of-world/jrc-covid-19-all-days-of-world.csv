@@ -843,6 +843,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-01,JPN,AS,Japan,34.886306,134.379711,239,5,,234,,,False,False
 2020-03-01,KWT,AS,Kuwait,29.310278,47.493515,45,,,45,,,False,False
 2020-03-01,LBN,AS,Lebanon,33.872639,35.876736,4,,,4,,,False,False
+2020-03-01,LUX,EU,Luxembourg,49.815764,6.131514,1,0,,1,,,True,True
 2020-03-01,MYS,AS,Malaysia,4.109319,109.455475,25,,,25,,,False,False
 2020-03-01,MEX,NA,Mexico,23.624813,-102.578671,4,,,4,,,False,False
 2020-03-01,NPL,AS,Nepal,28.395056,84.127803,1,,,1,,,False,False
@@ -889,6 +890,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-02,JPN,AS,Japan,34.886306,134.379711,254,6,,248,,,False,False
 2020-03-02,KWT,AS,Kuwait,29.310278,47.493515,46,,,46,,,False,False
 2020-03-02,LBN,AS,Lebanon,33.872639,35.876736,10,,,10,,,False,False
+2020-03-02,LUX,EU,Luxembourg,49.815764,6.131514,1,0,,1,,,True,True
 2020-03-02,MYS,AS,Malaysia,4.109319,109.455475,29,,,29,,,False,False
 2020-03-02,MEX,NA,Mexico,23.624813,-102.578671,5,,,5,,,False,False
 2020-03-02,NPL,AS,Nepal,28.395056,84.127803,1,,,1,,,False,False
@@ -1077,6 +1079,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-07,JPN,AS,Japan,34.886306,134.379711,408,6,,402,,,False,False
 2020-03-07,LBN,AS,Lebanon,33.872639,35.876736,22,,,22,,,False,False
 2020-03-07,LIE,EU,Liechtenstein,47.164696,9.555,1,0,0,1,,,False,False
+2020-03-07,LUX,EU,Luxembourg,49.815764,6.131514,3,0,,3,,,True,True
 2020-03-07,MYS,AS,Malaysia,4.109319,109.455475,83,,,83,,,False,False
 2020-03-07,MLT,EU,Malta,35.946151,14.384612,3,0,0,3,,,True,True
 2020-03-07,NLD,EU,Netherlands,52.133057,5.29525,188,,,188,,,True,True
@@ -1166,6 +1169,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-09,KWT,AS,Kuwait,29.310278,47.493515,64,,,64,,,False,False
 2020-03-09,LBN,AS,Lebanon,33.872639,35.876736,32,,,32,,,False,False
 2020-03-09,LIE,EU,Liechtenstein,47.164696,9.555,1,0,0,1,,,False,False
+2020-03-09,LUX,EU,Luxembourg,49.815764,6.131514,5,0,,5,,,True,True
 2020-03-09,MYS,AS,Malaysia,4.109319,109.455475,99,,,99,,,False,False
 2020-03-09,MDV,AS,Maldives,3.202833,73.165249,4,,,4,,,False,False
 2020-03-09,MLT,EU,Malta,35.946151,14.384612,4,0,0,4,,,True,True
@@ -1276,6 +1280,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,LBN,AS,Lebanon,33.872639,35.876736,41,1,,40,,,False,False
 2020-03-11,LIE,EU,Liechtenstein,47.164696,9.555,1,0,0,1,,,False,False
 2020-03-11,LTU,EU,Lithuania,55.174112,23.906736,3,0,0,3,,,True,True
+2020-03-11,LUX,EU,Luxembourg,49.815764,6.131514,7,0,,7,,,True,True
 2020-03-11,MYS,AS,Malaysia,4.109319,109.455475,129,,,129,,,False,False
 2020-03-11,MDV,AS,Maldives,3.202833,73.165249,6,,,6,,,False,False
 2020-03-11,MLT,EU,Malta,35.946151,14.384612,7,0,0,7,,,True,True
@@ -1350,6 +1355,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,LBN,AS,Lebanon,33.872639,35.876736,61,2,,59,,,False,False
 2020-03-12,LIE,EU,Liechtenstein,47.164696,9.555,3,0,0,3,,,False,False
 2020-03-12,LTU,EU,Lithuania,55.174112,23.906736,3,0,0,3,,,True,True
+2020-03-12,LUX,EU,Luxembourg,49.815764,6.131514,7,0,,7,,,True,True
 2020-03-12,MYS,AS,Malaysia,4.109319,109.455475,149,,,149,,,False,False
 2020-03-12,MDV,AS,Maldives,3.202833,73.165249,8,,,8,,,False,False
 2020-03-12,MLT,EU,Malta,35.946151,14.384612,12,0,0,12,,,True,True
@@ -1427,6 +1433,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,LBN,AS,Lebanon,33.872639,35.876736,66,2,,64,,,False,False
 2020-03-13,LIE,EU,Liechtenstein,47.164696,9.555,4,0,0,4,,,False,False
 2020-03-13,LTU,EU,Lithuania,55.174112,23.906736,3,0,0,3,,,True,True
+2020-03-13,LUX,EU,Luxembourg,49.815764,6.131514,26,0,,26,,,True,True
 2020-03-13,MYS,AS,Malaysia,4.109319,109.455475,158,,,158,,,False,False
 2020-03-13,MLT,EU,Malta,35.946151,14.384612,12,0,0,12,,,True,True
 2020-03-13,MEX,NA,Mexico,23.624813,-102.578671,16,,,16,,,False,False
@@ -1500,6 +1507,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-14,KEN,AF,Kenya,0.170945,37.903969,1,,,1,,,False,False
 2020-03-14,KWT,AS,Kuwait,29.310278,47.493515,100,,,100,,,False,False
 2020-03-14,LIE,EU,Liechtenstein,47.164696,9.555,4,0,0,4,,,False,False
+2020-03-14,LUX,EU,Luxembourg,49.815764,6.131514,38,1,,37,,,True,True
 2020-03-14,MYS,AS,Malaysia,4.109319,109.455475,197,,,197,,,False,False
 2020-03-14,MDV,AS,Maldives,3.202833,73.165249,9,,,9,,,False,False
 2020-03-14,MLT,EU,Malta,35.946151,14.384612,17,0,0,17,,,True,True
@@ -1692,6 +1700,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,LBN,AS,Lebanon,33.872639,35.876736,99,3,,96,,,False,False
 2020-03-16,LIE,EU,Liechtenstein,47.164696,9.555,7,0,0,7,,,False,False
 2020-03-16,LTU,EU,Lithuania,55.174112,23.906736,14,0,0,14,,,True,True
+2020-03-16,LUX,EU,Luxembourg,49.815764,6.131514,77,1,,76,,,True,True
 2020-03-16,MYS,AS,Malaysia,4.109319,109.455475,428,,,428,,,False,False
 2020-03-16,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
 2020-03-16,MLT,EU,Malta,35.946151,14.384612,28,0,0,28,,,True,True
@@ -1809,6 +1818,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,LBR,AF,Liberia,6.452424,-9.428598,1,,,1,,,False,False
 2020-03-17,LIE,EU,Liechtenstein,47.164696,9.555,7,0,0,7,,,False,False
 2020-03-17,LTU,EU,Lithuania,55.174112,23.906736,18,0,0,18,,,True,True
+2020-03-17,LUX,EU,Luxembourg,49.815764,6.131514,81,1,,80,,,True,True
 2020-03-17,MYS,AS,Malaysia,4.109319,109.455475,553,,,553,,,False,False
 2020-03-17,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
 2020-03-17,MLT,EU,Malta,35.946151,14.384612,36,0,0,36,,,True,True
@@ -1934,7 +1944,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,LBR,AF,Liberia,6.452424,-9.428598,2,,,2,,,False,False
 2020-03-18,LIE,EU,Liechtenstein,47.164696,9.555,7,0,0,7,,,False,False
 2020-03-18,LTU,EU,Lithuania,55.174112,23.906736,33,0,0,33,,,True,True
-2020-03-18,LUX,EU,Luxembourg,49.815764,6.131514,140,1,0,139,,,True,True
+2020-03-18,LUX,EU,Luxembourg,49.815764,6.131514,140,1,,139,,,True,True
 2020-03-18,MYS,AS,Malaysia,4.109319,109.455475,673,2,,671,,,False,False
 2020-03-18,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
 2020-03-18,MLT,EU,Malta,35.946151,14.384612,46,0,0,46,,,True,True
@@ -2069,7 +2079,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,LBR,AF,Liberia,6.452424,-9.428598,2,,,2,,,False,False
 2020-03-19,LIE,EU,Liechtenstein,47.164696,9.555,25,0,0,25,,,False,False
 2020-03-19,LTU,EU,Lithuania,55.174112,23.906736,34,0,0,34,,,True,True
-2020-03-19,LUX,EU,Luxembourg,49.815764,6.131514,335,4,0,331,,,True,True
+2020-03-19,LUX,EU,Luxembourg,49.815764,6.131514,210,2,,208,,,True,True
 2020-03-19,MYS,AS,Malaysia,4.109319,109.455475,790,2,,788,,,False,False
 2020-03-19,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
 2020-03-19,MLT,EU,Malta,35.946151,14.384612,51,0,0,51,,,True,True
@@ -2215,7 +2225,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,LBR,AF,Liberia,6.452424,-9.428598,2,,,2,,,False,False
 2020-03-20,LIE,EU,Liechtenstein,47.164696,9.555,25,0,0,25,,,False,False
 2020-03-20,LTU,EU,Lithuania,55.174112,23.906736,49,0,0,49,,,True,True
-2020-03-20,LUX,EU,Luxembourg,49.815764,6.131514,484,4,0,480,,,True,True
+2020-03-20,LUX,EU,Luxembourg,49.815764,6.131514,345,4,,341,,,True,True
 2020-03-20,MYS,AS,Malaysia,4.109319,109.455475,900,2,,898,,,False,False
 2020-03-20,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
 2020-03-20,MLT,EU,Malta,35.946151,14.384612,62,0,0,62,,,True,True
@@ -2357,7 +2367,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,LBR,AF,Liberia,6.452424,-9.428598,2,,,2,,,False,False
 2020-03-21,LIE,EU,Liechtenstein,47.164696,9.555,34,0,0,34,,,False,False
 2020-03-21,LTU,EU,Lithuania,55.174112,23.906736,69,0,0,69,,,True,True
-2020-03-21,LUX,EU,Luxembourg,49.815764,6.131514,670,8,0,662,,,True,True
+2020-03-21,LUX,EU,Luxembourg,49.815764,6.131514,484,5,,479,,,True,True
 2020-03-21,MDG,AF,Madagascar,-18.777193,46.854328,3,,,3,,,False,False
 2020-03-21,MYS,AS,Malaysia,4.109319,109.455475,1030,2,,1028,,,False,False
 2020-03-21,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
@@ -2439,7 +2449,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-22,IRL,EU,Ireland,53.41975,-8.240472,906,4,0,902,,,True,True
 2020-03-22,ITA,EU,Italy,41.873987,12.564167,59138,5476,7024,46638,22855,3009,True,True
 2020-03-22,LIE,EU,Liechtenstein,47.164696,9.555,36,0,0,36,,,False,False
-2020-03-22,LUX,EU,Luxembourg,49.815764,6.131514,798,8,0,790,,,True,True
 2020-03-22,MLT,EU,Malta,35.946151,14.384612,88,0,0,88,,,True,True
 2020-03-22,MDA,EU,Moldova,46.979527,28.377195,80,1,0,79,,,False,False
 2020-03-22,MCO,EU,Monaco,43.738348,7.424451,23,0,0,23,,,False,False
@@ -2549,7 +2558,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,LBR,AF,Liberia,6.452424,-9.428598,3,,,3,,,False,False
 2020-03-23,LIE,EU,Liechtenstein,47.164696,9.555,46,0,0,46,,,False,False
 2020-03-23,LTU,EU,Lithuania,55.174112,23.906736,143,1,0,142,,,True,True
-2020-03-23,LUX,EU,Luxembourg,49.815764,6.131514,875,8,0,867,,,True,True
 2020-03-23,MDG,AF,Madagascar,-18.777193,46.854328,3,,,3,,,False,False
 2020-03-23,MYS,AS,Malaysia,4.109319,109.455475,1306,10,,1296,,,False,False
 2020-03-23,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
@@ -2717,7 +2725,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,LBR,AF,Liberia,6.452424,-9.428598,3,,,3,,,False,False
 2020-03-24,LIE,EU,Liechtenstein,47.164696,9.555,46,0,0,46,,,False,False
 2020-03-24,LTU,EU,Lithuania,55.174112,23.906736,187,1,0,186,,,True,True
-2020-03-24,LUX,EU,Luxembourg,49.815764,6.131514,1099,8,0,1091,,,True,True
 2020-03-24,MDG,AF,Madagascar,-18.777193,46.854328,17,,,17,,,False,False
 2020-03-24,MYS,AS,Malaysia,4.109319,109.455475,1518,14,,1504,,,False,False
 2020-03-24,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
@@ -2888,7 +2895,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,LBY,AF,Libya,26.338522,17.268816,1,0,0,1,,,False,False
 2020-03-25,LIE,EU,Liechtenstein,47.164696,9.555,47,0,0,47,,,False,False
 2020-03-25,LTU,EU,Lithuania,55.174112,23.906736,255,2,0,253,,,True,True
-2020-03-25,LUX,EU,Luxembourg,49.815764,6.131514,1333,8,0,1325,,,True,True
 2020-03-25,MDG,AF,Madagascar,-18.777193,46.854328,19,0,0,19,,,False,False
 2020-03-25,MYS,AS,Malaysia,4.109319,109.455475,1624,15,0,1609,,,False,False
 2020-03-25,MDV,AS,Maldives,3.202833,73.165249,13,0,0,13,,,False,False
@@ -3063,7 +3069,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,LBY,AF,Libya,26.338522,17.268816,1,,,1,,,False,False
 2020-03-26,LIE,EU,Liechtenstein,47.164696,9.555,51,0,0,51,0,0,False,False
 2020-03-26,LTU,EU,Lithuania,55.174112,23.906736,290,4,0,286,0,0,True,True
-2020-03-26,LUX,EU,Luxembourg,49.815764,6.131514,1453,9,0,1444,0,0,True,True
 2020-03-26,MDG,AF,Madagascar,-18.777193,46.854328,19,,,19,,,False,False
 2020-03-26,MYS,AS,Malaysia,4.109319,109.455475,1796,19,,1777,,,False,False
 2020-03-26,MDV,AS,Maldives,3.202833,73.165249,13,,,13,,,False,False
@@ -3163,7 +3168,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,ITA,EU,Italy,41.873987,12.564167,86498,9134,10950,66414,29761,3732,True,True
 2020-03-27,LVA,EU,Latvia,56.875584,24.607722,280,0,0,280,0,0,True,True
 2020-03-27,LIE,EU,Liechtenstein,47.164696,9.555,56,0,0,56,0,0,False,False
-2020-03-27,LUX,EU,Luxembourg,49.815764,6.131514,1605,15,0,1590,0,0,True,True
 2020-03-27,MLT,EU,Malta,35.946151,14.384612,139,0,0,139,0,0,True,True
 2020-03-27,MDA,EU,Moldova,46.979527,28.377195,177,1,0,176,0,0,False,False
 2020-03-27,MCO,EU,Monaco,43.738348,7.424451,42,0,0,42,0,0,False,False
@@ -3283,7 +3287,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,LBR,AF,Liberia,6.452424,-9.428598,3,0,0,3,0,0,False,False
 2020-03-28,LBY,AF,Libya,26.338522,17.268816,1,0,0,1,0,0,False,False
 2020-03-28,LIE,EU,Liechtenstein,47.164696,9.555,60,0,0,60,0,0,False,False
-2020-03-28,LUX,EU,Luxembourg,49.815764,6.131514,1831,18,0,1813,0,0,True,True
 2020-03-28,MDG,AF,Madagascar,-18.777193,46.854328,24,0,0,24,0,0,False,False
 2020-03-28,MYS,AS,Malaysia,4.109319,109.455475,2161,26,0,2135,0,0,False,False
 2020-03-28,MDV,AS,Maldives,3.202833,73.165249,14,0,0,14,0,0,False,False
@@ -3461,7 +3464,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,LBR,AF,Liberia,6.452424,-9.428598,3,0,0,3,0,0,False,False
 2020-03-29,LBY,AF,Libya,26.338522,17.268816,1,0,0,1,0,0,False,False
 2020-03-29,LIE,EU,Liechtenstein,47.164696,9.555,61,0,0,61,0,0,False,False
-2020-03-29,LUX,EU,Luxembourg,49.815764,6.131514,1911,21,0,1890,0,0,True,True
 2020-03-29,MDG,AF,Madagascar,-18.777193,46.854328,28,0,0,28,0,0,False,False
 2020-03-29,MYS,AS,Malaysia,4.109319,109.455475,2320,27,0,2293,0,0,False,False
 2020-03-29,MDV,AS,Maldives,3.202833,73.165249,16,0,0,16,0,0,False,False
@@ -3642,7 +3644,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,LBY,AF,Libya,26.338522,17.268816,8,0,0,8,0,0,False,False
 2020-03-30,LIE,EU,Liechtenstein,47.164696,9.555,62,0,0,62,0,0,False,False
 2020-03-30,LTU,EU,Lithuania,55.174112,23.906736,484,7,0,477,0,0,True,True
-2020-03-30,LUX,EU,Luxembourg,49.815764,6.131514,1988,22,0,1966,0,0,True,True
+2020-03-30,LUX,EU,Luxembourg,49.815764,6.131514,1950,21,,1929,,,True,True
 2020-03-30,MDG,AF,Madagascar,-18.777193,46.854328,37,0,0,37,0,0,False,False
 2020-03-30,MYS,AS,Malaysia,4.109319,109.455475,2470,34,0,2436,0,0,False,False
 2020-03-30,MDV,AS,Maldives,3.202833,73.165249,17,0,0,17,0,0,False,False
@@ -3823,7 +3825,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,LBR,AF,Liberia,6.452424,-9.428598,3,0,0,3,0,0,False,False
 2020-03-31,LBY,AF,Libya,26.338522,17.268816,8,0,0,8,0,0,False,False
 2020-03-31,LIE,EU,Liechtenstein,47.164696,9.555,64,0,0,64,0,0,False,False
-2020-03-31,LUX,EU,Luxembourg,49.815764,6.131514,2178,23,0,2155,0,0,True,True
 2020-03-31,MDG,AF,Madagascar,-18.777193,46.854328,44,0,0,44,0,0,False,False
 2020-03-31,MYS,AS,Malaysia,4.109319,109.455475,2626,37,0,2589,0,0,False,False
 2020-03-31,MDV,AS,Maldives,3.202833,73.165249,17,0,0,17,0,0,False,False
@@ -4009,7 +4010,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,LBY,AF,Libya,26.338522,17.268816,10,0,0,10,0,0,False,False
 2020-04-01,LIE,EU,Liechtenstein,47.164696,9.555,68,0,0,68,0,0,False,False
 2020-04-01,LTU,EU,Lithuania,55.174112,23.906736,581,8,0,573,0,0,True,True
-2020-04-01,LUX,EU,Luxembourg,49.815764,6.131514,2319,29,0,2290,0,0,True,True
 2020-04-01,MDG,AF,Madagascar,-18.777193,46.854328,46,0,0,46,0,0,False,False
 2020-04-01,MYS,AS,Malaysia,4.109319,109.455475,2626,37,0,2589,0,0,False,False
 2020-04-01,MDV,AS,Maldives,3.202833,73.165249,18,0,0,18,0,0,False,False
@@ -4196,7 +4196,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,LBY,AF,Libya,26.338522,17.268816,10,0,0,10,0,0,False,False
 2020-04-02,LIE,EU,Liechtenstein,47.164696,9.555,72,0,0,72,0,0,False,False
 2020-04-02,LTU,EU,Lithuania,55.174112,23.906736,649,9,0,640,0,0,True,True
-2020-04-02,LUX,EU,Luxembourg,49.815764,6.131514,2487,30,0,2457,0,0,True,True
 2020-04-02,MDG,AF,Madagascar,-18.777193,46.854328,54,0,0,54,0,0,False,False
 2020-04-02,MYS,AS,Malaysia,4.109319,109.455475,2908,45,0,2863,0,0,False,False
 2020-04-02,MDV,AS,Maldives,3.202833,73.165249,19,0,0,19,0,0,False,False
@@ -4384,7 +4383,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,LBY,AF,Libya,26.338522,17.268816,11,1,0,10,0,0,False,False
 2020-04-03,LIE,EU,Liechtenstein,47.164696,9.555,75,0,0,75,0,0,False,False
 2020-04-03,LTU,EU,Lithuania,55.174112,23.906736,696,9,0,687,0,0,True,True
-2020-04-03,LUX,EU,Luxembourg,49.815764,6.131514,2612,31,0,2581,0,0,True,True
 2020-04-03,MDG,AF,Madagascar,-18.777193,46.854328,59,0,0,59,0,0,False,False
 2020-04-03,MWI,AF,Malawi,-13.24627,34.295385,3,0,0,3,0,0,False,False
 2020-04-03,MYS,AS,Malaysia,4.109319,109.455475,3116,50,0,3066,0,0,False,False
@@ -4571,7 +4569,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,LBY,AF,Libya,26.338522,17.268816,11,1,0,10,0,0,False,False
 2020-04-04,LIE,EU,Liechtenstein,47.164696,9.555,75,0,0,75,0,0,False,False
 2020-04-04,LTU,EU,Lithuania,55.174112,23.906736,771,9,0,762,0,0,True,True
-2020-04-04,LUX,EU,Luxembourg,49.815764,6.131514,2729,31,0,2698,0,0,True,True
 2020-04-04,MDG,AF,Madagascar,-18.777193,46.854328,65,0,0,65,0,0,False,False
 2020-04-04,MWI,AF,Malawi,-13.24627,34.295385,3,0,0,3,0,0,False,False
 2020-04-04,MYS,AS,Malaysia,4.109319,109.455475,3333,53,0,3280,0,0,False,False
@@ -4758,7 +4755,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,LBY,AF,Libya,26.338522,17.268816,18,1,0,17,0,0,False,False
 2020-04-05,LIE,EU,Liechtenstein,47.164696,9.555,77,1,0,76,0,0,False,False
 2020-04-05,LTU,EU,Lithuania,55.174112,23.906736,771,9,0,762,0,0,True,True
-2020-04-05,LUX,EU,Luxembourg,49.815764,6.131514,2804,36,0,2768,0,0,True,True
 2020-04-05,MDG,AF,Madagascar,-18.777193,46.854328,71,0,0,71,0,0,False,False
 2020-04-05,MWI,AF,Malawi,-13.24627,34.295385,4,0,0,4,0,0,False,False
 2020-04-05,MYS,AS,Malaysia,4.109319,109.455475,3483,57,0,3426,0,0,False,False
@@ -4947,7 +4943,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,LBY,AF,Libya,26.338522,17.268816,18,1,0,17,0,0,False,False
 2020-04-06,LIE,EU,Liechtenstein,47.164696,9.555,78,1,0,77,0,0,False,False
 2020-04-06,LTU,EU,Lithuania,55.174112,23.906736,811,13,0,798,0,0,True,True
-2020-04-06,LUX,EU,Luxembourg,49.815764,6.131514,2894,41,253,2600,223,32,True,True
 2020-04-06,MDG,AF,Madagascar,-18.777193,46.854328,72,0,0,72,0,0,False,False
 2020-04-06,MWI,AF,Malawi,-13.24627,34.295385,4,0,0,4,0,0,False,False
 2020-04-06,MYS,AS,Malaysia,4.109319,109.455475,3662,61,0,3601,0,0,False,False
@@ -5137,7 +5132,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,LBY,AF,Libya,26.338522,17.268816,18,1,0,17,0,0,False,False
 2020-04-07,LIE,EU,Liechtenstein,47.164696,9.555,78,1,0,77,0,0,False,False
 2020-04-07,LTU,EU,Lithuania,55.174112,23.906736,843,14,0,829,0,0,True,True
-2020-04-07,LUX,EU,Luxembourg,49.815764,6.131514,2970,44,310,2616,231,35,True,True
+2020-04-07,LUX,EU,Luxembourg,49.815764,6.131514,2843,41,,2802,,,True,True
 2020-04-07,MDG,AF,Madagascar,-18.777193,46.854328,77,0,0,77,0,0,False,False
 2020-04-07,MWI,AF,Malawi,-13.24627,34.295385,5,0,0,5,0,0,False,False
 2020-04-07,MYS,AS,Malaysia,4.109319,109.455475,3793,62,0,3731,0,0,False,False
@@ -5327,7 +5322,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,LBY,AF,Libya,26.338522,17.268816,19,1,0,18,0,0,False,False
 2020-04-08,LIE,EU,Liechtenstein,47.164696,9.555,78,1,0,77,0,0,False,False
 2020-04-08,LTU,EU,Lithuania,55.174112,23.906736,880,15,0,865,0,0,True,True
-2020-04-08,LUX,EU,Luxembourg,49.815764,6.131514,3034,46,352,2636,220,34,True,True
 2020-04-08,MDG,AF,Madagascar,-18.777193,46.854328,85,0,0,85,0,0,False,False
 2020-04-08,MWI,AF,Malawi,-13.24627,34.295385,8,1,0,7,0,0,False,False
 2020-04-08,MYS,AS,Malaysia,4.109319,109.455475,3963,63,0,3900,0,0,False,False
@@ -5517,7 +5511,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,LBY,AF,Libya,26.338522,17.268816,21,1,0,20,0,0,False,False
 2020-04-09,LIE,EU,Liechtenstein,47.164696,9.555,79,1,0,78,0,0,False,False
 2020-04-09,LTU,EU,Lithuania,55.174112,23.906736,912,15,0,897,0,0,True,True
-2020-04-09,LUX,EU,Luxembourg,49.815764,6.131514,3115,52,374,2689,220,30,True,True
 2020-04-09,MDG,AF,Madagascar,-18.777193,46.854328,93,0,0,93,0,0,False,False
 2020-04-09,MWI,AF,Malawi,-13.24627,34.295385,8,1,0,7,0,0,False,False
 2020-04-09,MYS,AS,Malaysia,4.109319,109.455475,4119,65,0,4054,0,0,False,False
@@ -5708,7 +5701,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,LBY,AF,Libya,26.338522,17.268816,24,1,0,23,0,0,False,False
 2020-04-10,LIE,EU,Liechtenstein,47.164696,9.555,79,1,0,78,0,0,False,False
 2020-04-10,LTU,EU,Lithuania,55.174112,23.906736,955,15,0,940,0,0,True,True
-2020-04-10,LUX,EU,Luxembourg,49.815764,6.131514,3223,54,412,2757,234,32,True,True
 2020-04-10,MDG,AF,Madagascar,-18.777193,46.854328,93,0,0,93,0,0,False,False
 2020-04-10,MWI,AF,Malawi,-13.24627,34.295385,8,1,0,7,0,0,False,False
 2020-04-10,MYS,AS,Malaysia,4.109319,109.455475,4228,67,0,4161,0,0,False,False
@@ -5899,7 +5891,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,LBY,AF,Libya,26.338522,17.268816,24,1,0,23,0,0,False,False
 2020-04-11,LIE,EU,Liechtenstein,47.164696,9.555,80,1,0,79,0,0,False,False
 2020-04-11,LTU,EU,Lithuania,55.174112,23.906736,999,17,0,982,0,0,True,True
-2020-04-11,LUX,EU,Luxembourg,49.815764,6.131514,3270,62,444,2764,210,33,True,True
 2020-04-11,MDG,AF,Madagascar,-18.777193,46.854328,102,0,0,102,0,0,False,False
 2020-04-11,MWI,AF,Malawi,-13.24627,34.295385,9,1,0,8,0,0,False,False
 2020-04-11,MYS,AS,Malaysia,4.109319,109.455475,4346,70,0,4276,0,0,False,False
@@ -6007,7 +5998,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,LVA,EU,Latvia,56.875584,24.607722,630,3,0,627,0,0,True,True
 2020-04-12,LIE,EU,Liechtenstein,47.164696,9.555,80,1,0,79,0,0,False,False
 2020-04-12,LTU,EU,Lithuania,55.174112,23.906736,1053,23,0,1030,0,0,True,True
-2020-04-12,LUX,EU,Luxembourg,49.815764,6.131514,3281,66,465,2750,183,31,True,True
 2020-04-12,MLT,EU,Malta,35.946151,14.384612,378,3,44,331,0,0,True,True
 2020-04-12,MDA,EU,Moldova,46.979527,28.377195,1560,30,0,1530,0,0,False,False
 2020-04-12,MCO,EU,Monaco,43.738348,7.424451,92,2,0,90,0,0,False,False
@@ -6135,7 +6125,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,LBY,AF,Libya,26.338522,17.268816,25,1,0,24,0,0,False,False
 2020-04-13,LIE,EU,Liechtenstein,47.164696,9.555,80,1,0,79,0,0,False,False
 2020-04-13,LTU,EU,Lithuania,55.174112,23.906736,1062,24,0,1038,0,0,True,True
-2020-04-13,LUX,EU,Luxembourg,49.815764,6.131514,3292,69,467,2756,178,33,True,True
 2020-04-13,MDG,AF,Madagascar,-18.777193,46.854328,106,0,0,106,0,0,False,False
 2020-04-13,MWI,AF,Malawi,-13.24627,34.295385,13,2,0,11,0,0,False,False
 2020-04-13,MYS,AS,Malaysia,4.109319,109.455475,4683,76,0,4607,0,0,False,False
@@ -6325,7 +6314,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,LBY,AF,Libya,26.338522,17.268816,26,1,0,25,0,0,False,False
 2020-04-14,LIE,EU,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-14,LTU,EU,Lithuania,55.174112,23.906736,1070,24,0,1046,0,0,True,True
-2020-04-14,LUX,EU,Luxembourg,49.815764,6.131514,3307,67,486,2754,161,31,True,True
 2020-04-14,MDG,AF,Madagascar,-18.777193,46.854328,106,0,0,106,0,0,False,False
 2020-04-14,MWI,AF,Malawi,-13.24627,34.295385,16,2,0,14,0,0,False,False
 2020-04-14,MYS,AS,Malaysia,4.109319,109.455475,4817,77,0,4740,0,0,False,False
@@ -6511,7 +6499,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,LBY,AF,Libya,26.338522,17.268816,35,1,0,34,0,0,False,False
 2020-04-15,LIE,EU,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-15,LTU,EU,Lithuania,55.174112,23.906736,1070,24,0,1046,0,0,True,True
-2020-04-15,LUX,EU,Luxembourg,49.815764,6.131514,3373,69,526,2778,158,33,True,True
 2020-04-15,MDG,AF,Madagascar,-18.777193,46.854328,108,0,0,108,0,0,False,False
 2020-04-15,MWI,AF,Malawi,-13.24627,34.295385,16,2,0,14,0,0,False,False
 2020-04-15,MYS,AS,Malaysia,4.109319,109.455475,4987,82,0,4905,0,0,False,False
@@ -6700,7 +6687,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,LBY,AF,Libya,26.338522,17.268816,48,1,0,47,0,0,False,False
 2020-04-16,LIE,EU,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-16,LTU,EU,Lithuania,55.174112,23.906736,1091,29,0,1062,0,0,True,True
-2020-04-16,LUX,EU,Luxembourg,49.815764,6.131514,3444,68,552,2824,170,35,True,True
 2020-04-16,MDG,AF,Madagascar,-18.777193,46.854328,110,0,0,110,0,0,False,False
 2020-04-16,MWI,AF,Malawi,-13.24627,34.295385,16,2,0,14,0,0,False,False
 2020-04-16,MYS,AS,Malaysia,4.109319,109.455475,5072,83,0,4989,0,0,False,False
@@ -6890,7 +6876,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,LBY,AF,Libya,26.338522,17.268816,49,1,0,48,0,0,False,False
 2020-04-17,LIE,EU,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-17,LTU,EU,Lithuania,55.174112,23.906736,1149,32,0,1117,0,0,True,True
-2020-04-17,LUX,EU,Luxembourg,49.815764,6.131514,3480,72,579,2829,178,29,True,True
 2020-04-17,MDG,AF,Madagascar,-18.777193,46.854328,111,0,0,111,0,0,False,False
 2020-04-17,MWI,AF,Malawi,-13.24627,34.295385,16,2,0,14,0,0,False,False
 2020-04-17,MYS,AS,Malaysia,4.109319,109.455475,5182,84,0,5098,0,0,False,False
@@ -7081,7 +7066,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,LBY,AF,Libya,26.338522,17.268816,49,1,0,48,0,0,False,False
 2020-04-18,LIE,EU,Liechtenstein,47.164696,9.555,81,1,0,80,0,0,False,False
 2020-04-18,LTU,EU,Lithuania,55.174112,23.906736,1239,33,0,1206,0,0,True,True
-2020-04-18,LUX,EU,Luxembourg,49.815764,6.131514,3537,72,601,2864,148,32,True,True
 2020-04-18,MDG,AF,Madagascar,-18.777193,46.854328,117,0,0,117,0,0,False,False
 2020-04-18,MWI,AF,Malawi,-13.24627,34.295385,17,2,0,15,0,0,False,False
 2020-04-18,MYS,AS,Malaysia,4.109319,109.455475,5251,86,0,5165,0,0,False,False
@@ -7273,7 +7257,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,LBY,AF,Libya,26.338522,17.268816,49,1,0,48,0,0,False,False
 2020-04-19,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-19,LTU,EU,Lithuania,55.174112,23.906736,1298,33,0,1265,0,0,True,True
-2020-04-19,LUX,EU,Luxembourg,49.815764,6.131514,3550,73,627,2850,150,31,True,True
 2020-04-19,MDG,AF,Madagascar,-18.777193,46.854328,117,0,0,117,0,0,False,False
 2020-04-19,MWI,AF,Malawi,-13.24627,34.295385,17,2,0,15,0,0,False,False
 2020-04-19,MYS,AS,Malaysia,4.109319,109.455475,5305,88,0,5217,0,0,False,False
@@ -7465,7 +7448,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,LBY,AF,Libya,26.338522,17.268816,49,1,0,48,0,0,False,False
 2020-04-20,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-20,LTU,EU,Lithuania,55.174112,23.906736,1326,36,0,1290,0,0,True,True
-2020-04-20,LUX,EU,Luxembourg,49.815764,6.131514,3558,77,637,2844,153,32,True,True
 2020-04-20,MDG,AF,Madagascar,-18.777193,46.854328,121,0,0,121,0,0,False,False
 2020-04-20,MWI,AF,Malawi,-13.24627,34.295385,17,2,0,15,0,0,False,False
 2020-04-20,MYS,AS,Malaysia,4.109319,109.455475,5389,89,0,5300,0,0,False,False
@@ -7657,7 +7639,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,LBY,AF,Libya,26.338522,17.268816,51,1,0,50,0,0,False,False
 2020-04-21,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-21,LTU,EU,Lithuania,55.174112,23.906736,1350,37,0,1313,0,0,True,True
-2020-04-21,LUX,EU,Luxembourg,49.815764,6.131514,3618,81,670,2867,153,32,True,True
 2020-04-21,MDG,AF,Madagascar,-18.777193,46.854328,121,0,0,121,0,0,False,False
 2020-04-21,MWI,AF,Malawi,-13.24627,34.295385,17,2,0,15,0,0,False,False
 2020-04-21,MYS,AS,Malaysia,4.109319,109.455475,5425,89,0,5336,0,0,False,False
@@ -7848,7 +7829,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,LBY,AF,Libya,26.338522,17.268816,51,1,0,50,0,0,False,False
 2020-04-22,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-22,LTU,EU,Lithuania,55.174112,23.906736,1370,38,0,1332,0,0,True,True
-2020-04-22,LUX,EU,Luxembourg,49.815764,6.131514,3654,80,711,2863,143,29,True,True
 2020-04-22,MDG,AF,Madagascar,-18.777193,46.854328,121,0,0,121,0,0,False,False
 2020-04-22,MWI,AF,Malawi,-13.24627,34.295385,18,2,0,16,0,0,False,False
 2020-04-22,MYS,AS,Malaysia,4.109319,109.455475,5482,92,0,5390,0,0,False,False
@@ -8040,7 +8020,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,LBY,AF,Libya,26.338522,17.268816,59,1,0,58,0,0,False,False
 2020-04-23,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-23,LTU,EU,Lithuania,55.174112,23.906736,1398,38,0,1360,0,0,True,True
-2020-04-23,LUX,EU,Luxembourg,49.815764,6.131514,3665,83,728,2854,165,27,True,True
 2020-04-23,MDG,AF,Madagascar,-18.777193,46.854328,121,0,0,121,0,0,False,False
 2020-04-23,MWI,AF,Malawi,-13.24627,34.295385,23,3,0,20,0,0,False,False
 2020-04-23,MYS,AS,Malaysia,4.109319,109.455475,5532,93,0,5439,0,0,False,False
@@ -8230,7 +8209,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,LBY,AF,Libya,26.338522,17.268816,60,2,0,58,0,0,False,False
 2020-04-24,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-24,LTU,EU,Lithuania,55.174112,23.906736,1410,40,0,1370,0,0,True,True
-2020-04-24,LUX,EU,Luxembourg,49.815764,6.131514,3695,85,760,2850,138,25,True,True
 2020-04-24,MDG,AF,Madagascar,-18.777193,46.854328,121,0,0,121,0,0,False,False
 2020-04-24,MWI,AF,Malawi,-13.24627,34.295385,33,3,0,30,0,0,False,False
 2020-04-24,MYS,AS,Malaysia,4.109319,109.455475,5603,95,0,5508,0,0,False,False
@@ -8422,7 +8400,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-25,LIE,EU,Liechtenstein,47.164696,9.555,82,1,0,81,0,0,False,False
 2020-04-25,LTU,EU,Lithuania,55.174112,23.906736,1410,40,0,1370,0,0,True,True
-2020-04-25,LUX,EU,Luxembourg,49.815764,6.131514,3711,85,780,2846,137,26,True,True
 2020-04-25,MDG,AF,Madagascar,-18.777193,46.854328,122,0,0,122,0,0,False,False
 2020-04-25,MWI,AF,Malawi,-13.24627,34.295385,33,3,0,30,0,0,False,False
 2020-04-25,MYS,AS,Malaysia,4.109319,109.455475,5691,96,0,5595,0,0,False,False
@@ -8613,7 +8590,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-26,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-04-26,LTU,EU,Lithuania,55.174112,23.906736,1438,41,0,1397,0,0,True,True
-2020-04-26,LUX,EU,Luxembourg,49.815764,6.131514,3723,88,788,2847,124,22,True,True
 2020-04-26,MDG,AF,Madagascar,-18.777193,46.854328,124,0,0,124,0,0,False,False
 2020-04-26,MWI,AF,Malawi,-13.24627,34.295385,33,3,0,30,0,0,False,False
 2020-04-26,MYS,AS,Malaysia,4.109319,109.455475,5742,98,0,5644,0,0,False,False
@@ -8806,7 +8782,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-27,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-04-27,LTU,EU,Lithuania,55.174112,23.906736,1449,41,0,1408,0,0,True,True
-2020-04-27,LUX,EU,Luxembourg,49.815764,6.131514,3729,88,790,2851,121,20,True,True
 2020-04-27,MDG,AF,Madagascar,-18.777193,46.854328,124,0,0,124,0,0,False,False
 2020-04-27,MWI,AF,Malawi,-13.24627,34.295385,34,3,0,31,0,0,False,False
 2020-04-27,MYS,AS,Malaysia,4.109319,109.455475,5780,98,0,5682,0,0,False,False
@@ -8999,7 +8974,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-28,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-04-28,LTU,EU,Lithuania,55.174112,23.906736,1449,41,0,1408,0,0,True,True
-2020-04-28,LUX,EU,Luxembourg,49.815764,6.131514,3741,89,804,2848,112,19,True,True
 2020-04-28,MDG,AF,Madagascar,-18.777193,46.854328,128,0,0,128,0,0,False,False
 2020-04-28,MWI,AF,Malawi,-13.24627,34.295385,36,3,0,33,0,0,False,False
 2020-04-28,MYS,AS,Malaysia,4.109319,109.455475,5820,99,0,5721,0,0,False,False
@@ -9191,7 +9165,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-29,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-04-29,LTU,EU,Lithuania,55.174112,23.906736,1449,44,0,1405,0,0,True,True
-2020-04-29,LUX,EU,Luxembourg,49.815764,6.131514,3769,89,810,2870,115,21,True,True
 2020-04-29,MDG,AF,Madagascar,-18.777193,46.854328,128,0,0,128,0,0,False,False
 2020-04-29,MWI,AF,Malawi,-13.24627,34.295385,36,3,0,33,0,0,False,False
 2020-04-29,MYS,AS,Malaysia,4.109319,109.455475,5851,100,0,5751,0,0,False,False
@@ -9384,7 +9357,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,LBY,AF,Libya,26.338522,17.268816,61,2,0,59,0,0,False,False
 2020-04-30,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-04-30,LTU,EU,Lithuania,55.174112,23.906736,1375,45,0,1330,0,0,True,True
-2020-04-30,LUX,EU,Luxembourg,49.815764,6.131514,3784,90,829,2865,101,23,True,True
 2020-04-30,MDG,AF,Madagascar,-18.777193,46.854328,128,0,0,128,0,0,False,False
 2020-04-30,MWI,AF,Malawi,-13.24627,34.295385,36,3,0,33,0,0,False,False
 2020-04-30,MYS,AS,Malaysia,4.109319,109.455475,5945,100,0,5845,0,0,False,False
@@ -9577,7 +9549,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,LBY,AF,Libya,26.338522,17.268816,61,3,0,58,0,0,False,False
 2020-05-01,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-01,LTU,EU,Lithuania,55.174112,23.906736,1385,45,0,1340,0,0,True,True
-2020-05-01,LUX,EU,Luxembourg,49.815764,6.131514,3802,92,841,2869,87,22,True,True
 2020-05-01,MDG,AF,Madagascar,-18.777193,46.854328,132,0,0,132,0,0,False,False
 2020-05-01,MWI,AF,Malawi,-13.24627,34.295385,37,3,0,34,0,0,False,False
 2020-05-01,MYS,AS,Malaysia,4.109319,109.455475,6002,102,0,5900,0,0,False,False
@@ -9771,7 +9742,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,LBY,AF,Libya,26.338522,17.268816,63,3,0,60,0,0,False,False
 2020-05-02,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-02,LTU,EU,Lithuania,55.174112,23.906736,1399,45,0,1354,0,0,True,True
-2020-05-02,LUX,EU,Luxembourg,49.815764,6.131514,3812,92,845,2875,98,23,True,True
 2020-05-02,MDG,AF,Madagascar,-18.777193,46.854328,135,0,0,135,0,0,False,False
 2020-05-02,MWI,AF,Malawi,-13.24627,34.295385,37,3,0,34,0,0,False,False
 2020-05-02,MYS,AS,Malaysia,4.109319,109.455475,6071,103,0,5968,0,0,False,False
@@ -9965,7 +9935,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,LBY,AF,Libya,26.338522,17.268816,63,3,0,60,0,0,False,False
 2020-05-03,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-03,LTU,EU,Lithuania,55.174112,23.906736,1406,46,0,1360,0,0,True,True
-2020-05-03,LUX,EU,Luxembourg,49.815764,6.131514,3824,96,850,2878,93,22,True,True
 2020-05-03,MDG,AF,Madagascar,-18.777193,46.854328,135,0,0,135,0,0,False,False
 2020-05-03,MWI,AF,Malawi,-13.24627,34.295385,38,3,0,35,0,0,False,False
 2020-05-03,MYS,AS,Malaysia,4.109319,109.455475,6176,103,0,6073,0,0,False,False
@@ -10159,7 +10128,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,LBY,AF,Libya,26.338522,17.268816,63,3,0,60,0,0,False,False
 2020-05-04,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-04,LTU,EU,Lithuania,55.174112,23.906736,1410,46,0,1364,0,0,True,True
-2020-05-04,LUX,EU,Luxembourg,49.815764,6.131514,3828,96,851,2881,92,21,True,True
 2020-05-04,MDG,AF,Madagascar,-18.777193,46.854328,149,0,0,149,0,0,False,False
 2020-05-04,MWI,AF,Malawi,-13.24627,34.295385,39,3,0,36,0,0,False,False
 2020-05-04,MYS,AS,Malaysia,4.109319,109.455475,6298,105,0,6193,0,0,False,False
@@ -10354,7 +10322,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,LBY,AF,Libya,26.338522,17.268816,63,3,0,60,0,0,False,False
 2020-05-05,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-05,LTU,EU,Lithuania,55.174112,23.906736,1419,46,0,1373,0,0,True,True
-2020-05-05,LUX,EU,Luxembourg,49.815764,6.131514,3840,96,856,2888,89,22,True,True
 2020-05-05,MDG,AF,Madagascar,-18.777193,46.854328,149,0,0,149,0,0,False,False
 2020-05-05,MWI,AF,Malawi,-13.24627,34.295385,41,3,0,38,0,0,False,False
 2020-05-05,MYS,AS,Malaysia,4.109319,109.455475,6353,105,0,6248,0,0,False,False
@@ -10549,7 +10516,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,LBY,AF,Libya,26.338522,17.268816,63,3,0,60,0,0,False,False
 2020-05-06,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-06,LTU,EU,Lithuania,55.174112,23.906736,1423,46,0,1377,0,0,True,True
-2020-05-06,LUX,EU,Luxembourg,49.815764,6.131514,3851,98,860,2893,98,20,True,True
 2020-05-06,MDG,AF,Madagascar,-18.777193,46.854328,168,0,0,168,0,0,False,False
 2020-05-06,MWI,AF,Malawi,-13.24627,34.295385,41,3,0,38,0,0,False,False
 2020-05-06,MYS,AS,Malaysia,4.109319,109.455475,6383,106,0,6277,0,0,False,False
@@ -10744,7 +10710,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-07,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-07,LTU,EU,Lithuania,55.174112,23.906736,1428,48,0,1380,0,0,True,True
-2020-05-07,LUX,EU,Luxembourg,49.815764,6.131514,3859,100,868,2891,90,21,True,True
+2020-05-07,LUX,EU,Luxembourg,49.815764,6.131514,3851,98,,3753,,,True,True
 2020-05-07,MDG,AF,Madagascar,-18.777193,46.854328,158,0,0,158,0,0,False,False
 2020-05-07,MWI,AF,Malawi,-13.24627,34.295385,43,3,0,40,0,0,False,False
 2020-05-07,MYS,AS,Malaysia,4.109319,109.455475,6428,107,0,6321,0,0,False,False
@@ -10939,7 +10905,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-08,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-08,LTU,EU,Lithuania,55.174112,23.906736,1433,49,0,1384,0,0,True,True
-2020-05-08,LUX,EU,Luxembourg,49.815764,6.131514,3871,100,873,2898,79,16,True,True
+2020-05-08,LUX,EU,Luxembourg,49.815764,6.131514,3859,100,,3759,,,True,True
 2020-05-08,MDG,AF,Madagascar,-18.777193,46.854328,193,0,0,193,0,0,False,False
 2020-05-08,MWI,AF,Malawi,-13.24627,34.295385,43,3,0,40,0,0,False,False
 2020-05-08,MYS,AS,Malaysia,4.109319,109.455475,6467,107,0,6360,0,0,False,False
@@ -11134,7 +11100,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-09,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-09,LTU,EU,Lithuania,55.174112,23.906736,1436,49,0,1387,0,0,True,True
-2020-05-09,LUX,EU,Luxembourg,49.815764,6.131514,3886,101,879,2906,78,14,True,True
 2020-05-09,MDG,AF,Madagascar,-18.777193,46.854328,193,0,0,193,0,0,False,False
 2020-05-09,MWI,AF,Malawi,-13.24627,34.295385,43,3,0,40,0,0,False,False
 2020-05-09,MYS,AS,Malaysia,4.109319,109.455475,6535,107,0,6428,0,0,False,False
@@ -11328,6 +11293,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-10,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-10,LTU,EU,Lithuania,55.174112,23.906736,1444,50,0,1394,0,0,True,True
+2020-05-10,LUX,EU,Luxembourg,49.815764,6.131514,3877,101,,3776,,,True,True
 2020-05-10,MDG,AF,Madagascar,-18.777193,46.854328,193,0,0,193,0,0,False,False
 2020-05-10,MWI,AF,Malawi,-13.24627,34.295385,56,3,0,53,0,0,False,False
 2020-05-10,MYS,AS,Malaysia,4.109319,109.455475,6589,108,0,6481,0,0,False,False
@@ -11521,7 +11487,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-11,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-11,LTU,EU,Lithuania,55.174112,23.906736,1479,50,0,1429,0,0,True,True
-2020-05-11,LUX,EU,Luxembourg,49.815764,6.131514,3888,101,883,2904,68,18,True,True
+2020-05-11,LUX,EU,Luxembourg,49.815764,6.131514,3886,101,,3785,,,True,True
 2020-05-11,MDG,AF,Madagascar,-18.777193,46.854328,193,0,0,193,0,0,False,False
 2020-05-11,MWI,AF,Malawi,-13.24627,34.295385,56,3,0,53,0,0,False,False
 2020-05-11,MYS,AS,Malaysia,4.109319,109.455475,6656,108,0,6548,0,0,False,False
@@ -11709,7 +11675,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,LBN,AS,Lebanon,33.872639,35.876736,859,26,0,833,0,0,False,False
 2020-05-12,LBR,AF,Liberia,6.452424,-9.428598,211,20,0,191,0,0,False,False
 2020-05-12,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
-2020-05-12,LUX,EU,Luxembourg,49.815764,6.131514,3894,102,886,2906,66,22,True,True
 2020-05-12,MDG,AF,Madagascar,-18.777193,46.854328,186,0,0,186,0,0,False,False
 2020-05-12,MWI,AF,Malawi,-13.24627,34.295385,57,3,0,54,0,0,False,False
 2020-05-12,MYS,AS,Malaysia,4.109319,109.455475,6726,109,0,6617,0,0,False,False
@@ -11897,7 +11862,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-13,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-13,LTU,EU,Lithuania,55.174112,23.906736,1491,50,0,1441,0,0,True,True
-2020-05-13,LUX,EU,Luxembourg,49.815764,6.131514,3904,103,887,2914,67,22,True,True
 2020-05-13,MDG,AF,Madagascar,-18.777193,46.854328,192,0,0,192,0,0,False,False
 2020-05-13,MWI,AF,Malawi,-13.24627,34.295385,58,3,0,55,0,0,False,False
 2020-05-13,MYS,AS,Malaysia,4.109319,109.455475,6742,109,0,6633,0,0,False,False
@@ -12090,7 +12054,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-14,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-14,LTU,EU,Lithuania,55.174112,23.906736,1505,54,0,1451,0,0,True,True
-2020-05-14,LUX,EU,Luxembourg,49.815764,6.131514,3915,103,895,2917,67,11,True,True
 2020-05-14,MDG,AF,Madagascar,-18.777193,46.854328,212,0,0,212,0,0,False,False
 2020-05-14,MWI,AF,Malawi,-13.24627,34.295385,63,3,0,60,0,0,False,False
 2020-05-14,MYS,AS,Malaysia,4.109319,109.455475,6779,111,0,6668,0,0,False,False
@@ -12285,7 +12248,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-15,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-15,LTU,EU,Lithuania,55.174112,23.906736,1511,54,0,1457,0,0,True,True
-2020-05-15,LUX,EU,Luxembourg,49.815764,6.131514,3923,104,898,2921,71,11,True,True
 2020-05-15,MDG,AF,Madagascar,-18.777193,46.854328,230,0,0,230,0,0,False,False
 2020-05-15,MWI,AF,Malawi,-13.24627,34.295385,63,3,0,60,0,0,False,False
 2020-05-15,MYS,AS,Malaysia,4.109319,109.455475,6819,112,0,6707,0,0,False,False
@@ -12480,7 +12442,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,LBY,AF,Libya,26.338522,17.268816,64,3,0,61,0,0,False,False
 2020-05-16,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-16,LTU,EU,Lithuania,55.174112,23.906736,1523,54,0,1469,0,0,True,True
-2020-05-16,LUX,EU,Luxembourg,49.815764,6.131514,3930,104,900,2926,58,15,True,True
 2020-05-16,MDG,AF,Madagascar,-18.777193,46.854328,238,0,0,238,0,0,False,False
 2020-05-16,MWI,AF,Malawi,-13.24627,34.295385,63,3,0,60,0,0,False,False
 2020-05-16,MYS,AS,Malaysia,4.109319,109.455475,6855,112,0,6743,0,0,False,False
@@ -12674,7 +12635,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,LBY,AF,Libya,26.338522,17.268816,65,3,0,62,0,0,False,False
 2020-05-17,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-17,LTU,EU,Lithuania,55.174112,23.906736,1534,55,0,1479,0,0,True,True
-2020-05-17,LUX,EU,Luxembourg,49.815764,6.131514,3945,105,900,2940,51,14,True,True
 2020-05-17,MDG,AF,Madagascar,-18.777193,46.854328,283,0,0,283,0,0,False,False
 2020-05-17,MWI,AF,Malawi,-13.24627,34.295385,65,3,0,62,0,0,False,False
 2020-05-17,MYS,AS,Malaysia,4.109319,109.455475,6872,113,0,6759,0,0,False,False
@@ -12869,7 +12829,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,LBY,AF,Libya,26.338522,17.268816,65,3,0,62,0,0,False,False
 2020-05-18,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-18,LTU,EU,Lithuania,55.174112,23.906736,1541,56,0,1485,0,0,True,True
-2020-05-18,LUX,EU,Luxembourg,49.815764,6.131514,3947,107,905,2935,46,8,True,True
 2020-05-18,MDG,AF,Madagascar,-18.777193,46.854328,304,1,0,303,0,0,False,False
 2020-05-18,MWI,AF,Malawi,-13.24627,34.295385,70,3,0,67,0,0,False,False
 2020-05-18,MYS,AS,Malaysia,4.109319,109.455475,6894,113,0,6781,0,0,False,False
@@ -13065,7 +13024,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,LBY,AF,Libya,26.338522,17.268816,65,3,0,62,0,0,False,False
 2020-05-19,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-19,LTU,EU,Lithuania,55.174112,23.906736,1547,59,0,1488,0,0,True,True
-2020-05-19,LUX,EU,Luxembourg,49.815764,6.131514,3958,109,905,2944,50,10,True,True
 2020-05-19,MDG,AF,Madagascar,-18.777193,46.854328,322,1,0,321,0,0,False,False
 2020-05-19,MWI,AF,Malawi,-13.24627,34.295385,70,3,0,67,0,0,False,False
 2020-05-19,MYS,AS,Malaysia,4.109319,109.455475,6941,113,0,6828,0,0,False,False
@@ -13260,7 +13218,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,LBY,AF,Libya,26.338522,17.268816,68,3,0,65,0,0,False,False
 2020-05-20,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-20,LTU,EU,Lithuania,55.174112,23.906736,1562,60,0,1502,0,0,True,True
-2020-05-20,LUX,EU,Luxembourg,49.815764,6.131514,3971,109,906,2956,51,6,True,True
 2020-05-20,MDG,AF,Madagascar,-18.777193,46.854328,326,2,0,324,0,0,False,False
 2020-05-20,MWI,AF,Malawi,-13.24627,34.295385,71,3,0,68,0,0,False,False
 2020-05-20,MYS,AS,Malaysia,4.109319,109.455475,6978,114,0,6864,0,0,False,False
@@ -13455,7 +13412,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,LBY,AF,Libya,26.338522,17.268816,69,3,0,66,0,0,False,False
 2020-05-21,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-21,LTU,EU,Lithuania,55.174112,23.906736,1577,60,0,1517,0,0,True,True
-2020-05-21,LUX,EU,Luxembourg,49.815764,6.131514,3980,109,906,2965,56,6,True,True
 2020-05-21,MDG,AF,Madagascar,-18.777193,46.854328,371,2,0,369,0,0,False,False
 2020-05-21,MWI,AF,Malawi,-13.24627,34.295385,72,3,0,69,0,0,False,False
 2020-05-21,MYS,AS,Malaysia,4.109319,109.455475,7009,114,0,6895,0,0,False,False
@@ -13650,7 +13606,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,LBY,AF,Libya,26.338522,17.268816,71,3,0,68,0,0,False,False
 2020-05-22,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-22,LTU,EU,Lithuania,55.174112,23.906736,1594,61,0,1533,0,0,True,True
-2020-05-22,LUX,EU,Luxembourg,49.815764,6.131514,3981,109,910,2962,46,5,True,True
 2020-05-22,MDG,AF,Madagascar,-18.777193,46.854328,405,2,0,403,0,0,False,False
 2020-05-22,MWI,AF,Malawi,-13.24627,34.295385,72,3,0,69,0,0,False,False
 2020-05-22,MYS,AS,Malaysia,4.109319,109.455475,7059,114,0,6945,0,0,False,False
@@ -13845,7 +13800,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,LBY,AF,Libya,26.338522,17.268816,72,3,0,69,0,0,False,False
 2020-05-23,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-23,LTU,EU,Lithuania,55.174112,23.906736,1604,61,0,1543,0,0,True,True
-2020-05-23,LUX,EU,Luxembourg,49.815764,6.131514,3990,109,912,2969,47,8,True,True
 2020-05-23,MDG,AF,Madagascar,-18.777193,46.854328,448,2,0,446,0,0,False,False
 2020-05-23,MWI,AF,Malawi,-13.24627,34.295385,82,3,0,79,0,0,False,False
 2020-05-23,MYS,AS,Malaysia,4.109319,109.455475,7137,115,0,7022,0,0,False,False
@@ -14039,7 +13993,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,LBY,AF,Libya,26.338522,17.268816,75,3,0,72,0,0,False,False
 2020-05-24,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-24,LTU,EU,Lithuania,55.174112,23.906736,1616,63,0,1553,0,0,True,True
-2020-05-24,LUX,EU,Luxembourg,49.815764,6.131514,3992,110,915,2967,39,7,True,True
 2020-05-24,MDG,AF,Madagascar,-18.777193,46.854328,448,2,0,446,0,0,False,False
 2020-05-24,MWI,AF,Malawi,-13.24627,34.295385,83,4,0,79,0,0,False,False
 2020-05-24,MYS,AS,Malaysia,4.109319,109.455475,7185,115,0,7070,0,0,False,False
@@ -14234,7 +14187,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,LBY,AF,Libya,26.338522,17.268816,75,3,0,72,0,0,False,False
 2020-05-25,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-25,LTU,EU,Lithuania,55.174112,23.906736,1623,63,0,1560,0,0,True,True
-2020-05-25,LUX,EU,Luxembourg,49.815764,6.131514,3993,110,915,2968,37,4,True,True
 2020-05-25,MDG,AF,Madagascar,-18.777193,46.854328,527,2,0,525,0,0,False,False
 2020-05-25,MWI,AF,Malawi,-13.24627,34.295385,83,4,0,79,0,0,False,False
 2020-05-25,MYS,AS,Malaysia,4.109319,109.455475,7245,115,0,7130,0,0,False,False
@@ -14430,7 +14382,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,LBY,AF,Libya,26.338522,17.268816,75,3,0,72,0,0,False,False
 2020-05-26,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-26,LTU,EU,Lithuania,55.174112,23.906736,1635,63,0,1572,0,0,True,True
-2020-05-26,LUX,EU,Luxembourg,49.815764,6.131514,3995,110,915,2970,39,5,True,True
 2020-05-26,MDG,AF,Madagascar,-18.777193,46.854328,542,2,0,540,0,0,False,False
 2020-05-26,MWI,AF,Malawi,-13.24627,34.295385,101,4,0,97,0,0,False,False
 2020-05-26,MYS,AS,Malaysia,4.109319,109.455475,7417,115,0,7302,0,0,False,False
@@ -14626,7 +14577,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,LBY,AF,Libya,26.338522,17.268816,77,3,0,74,0,0,False,False
 2020-05-27,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-27,LTU,EU,Lithuania,55.174112,23.906736,1639,65,0,1574,0,0,True,True
-2020-05-27,LUX,EU,Luxembourg,49.815764,6.131514,4001,110,917,2974,45,4,True,True
 2020-05-27,MDG,AF,Madagascar,-18.777193,46.854328,586,2,0,584,0,0,False,False
 2020-05-27,MWI,AF,Malawi,-13.24627,34.295385,101,4,0,97,0,0,False,False
 2020-05-27,MYS,AS,Malaysia,4.109319,109.455475,7604,115,0,7489,0,0,False,False
@@ -14822,7 +14772,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,LBY,AF,Libya,26.338522,17.268816,99,4,0,95,0,0,False,False
 2020-05-28,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-28,LTU,EU,Lithuania,55.174112,23.906736,1647,66,0,1581,0,0,True,True
-2020-05-28,LUX,EU,Luxembourg,49.815764,6.131514,4008,110,919,2979,34,4,True,True
 2020-05-28,MDG,AF,Madagascar,-18.777193,46.854328,612,2,0,610,0,0,False,False
 2020-05-28,MWI,AF,Malawi,-13.24627,34.295385,101,4,0,97,0,0,False,False
 2020-05-28,MYS,AS,Malaysia,4.109319,109.455475,7619,115,0,7504,0,0,False,False
@@ -15018,7 +14967,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,LBY,AF,Libya,26.338522,17.268816,105,5,0,100,0,0,False,False
 2020-05-29,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-29,LTU,EU,Lithuania,55.174112,23.906736,1656,68,0,1588,0,0,True,True
-2020-05-29,LUX,EU,Luxembourg,49.815764,6.131514,4012,110,922,2980,30,4,True,True
 2020-05-29,MDG,AF,Madagascar,-18.777193,46.854328,656,2,0,654,0,0,False,False
 2020-05-29,MWI,AF,Malawi,-13.24627,34.295385,203,4,0,199,0,0,False,False
 2020-05-29,MYS,AS,Malaysia,4.109319,109.455475,7629,115,0,7514,0,0,False,False
@@ -15214,7 +15162,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,LBY,AF,Libya,26.338522,17.268816,118,5,0,113,0,0,False,False
 2020-05-30,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-30,LTU,EU,Lithuania,55.174112,23.906736,1662,68,0,1594,0,0,True,True
-2020-05-30,LUX,EU,Luxembourg,49.815764,6.131514,4016,110,924,2982,32,4,True,True
 2020-05-30,MDG,AF,Madagascar,-18.777193,46.854328,698,5,0,693,0,0,False,False
 2020-05-30,MWI,AF,Malawi,-13.24627,34.295385,273,4,0,269,0,0,False,False
 2020-05-30,MYS,AS,Malaysia,4.109319,109.455475,7732,115,0,7617,0,0,False,False
@@ -15408,7 +15355,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,LBY,AF,Libya,26.338522,17.268816,130,5,0,125,0,0,False,False
 2020-05-31,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-05-31,LTU,EU,Lithuania,55.174112,23.906736,1670,70,0,1600,0,0,True,True
-2020-05-31,LUX,EU,Luxembourg,49.815764,6.131514,4018,110,925,2983,33,3,True,True
 2020-05-31,MDG,AF,Madagascar,-18.777193,46.854328,758,6,0,752,0,0,False,False
 2020-05-31,MWI,AF,Malawi,-13.24627,34.295385,279,4,0,275,0,0,False,False
 2020-05-31,MYS,AS,Malaysia,4.109319,109.455475,7762,115,0,7647,0,0,False,False
@@ -15602,7 +15548,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,LBY,AF,Libya,26.338522,17.268816,156,5,0,151,0,0,False,False
 2020-06-01,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-01,LTU,EU,Lithuania,55.174112,23.906736,1675,70,0,1605,0,0,True,True
-2020-06-01,LUX,EU,Luxembourg,49.815764,6.131514,4019,110,927,2982,31,4,True,True
 2020-06-01,MDG,AF,Madagascar,-18.777193,46.854328,771,6,0,765,0,0,False,False
 2020-06-01,MWI,AF,Malawi,-13.24627,34.295385,284,4,0,280,0,0,False,False
 2020-06-01,MYS,AS,Malaysia,4.109319,109.455475,7819,115,0,7704,0,0,False,False
@@ -15795,7 +15740,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,LBY,AF,Libya,26.338522,17.268816,168,5,0,163,0,0,False,False
 2020-06-02,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-02,LTU,EU,Lithuania,55.174112,23.906736,1678,70,0,1608,0,0,True,True
-2020-06-02,LUX,EU,Luxembourg,49.815764,6.131514,4020,110,929,2981,28,4,True,True
+2020-06-02,LUX,EU,Luxembourg,49.815764,6.131514,4019,110,,3909,,,True,True
 2020-06-02,MDG,AF,Madagascar,-18.777193,46.854328,826,6,0,820,0,0,False,False
 2020-06-02,MWI,AF,Malawi,-13.24627,34.295385,336,4,0,332,0,0,False,False
 2020-06-02,MYS,AS,Malaysia,4.109319,109.455475,7857,115,0,7742,0,0,False,False
@@ -15990,7 +15935,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,LBY,AF,Libya,26.338522,17.268816,182,5,0,177,0,0,False,False
 2020-06-03,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-03,LTU,EU,Lithuania,55.174112,23.906736,1682,71,0,1611,0,0,True,True
-2020-06-03,LUX,EU,Luxembourg,49.815764,6.131514,4024,110,929,2985,31,2,True,True
+2020-06-03,LUX,EU,Luxembourg,49.815764,6.131514,4020,110,,3910,,,True,True
 2020-06-03,MDG,AF,Madagascar,-18.777193,46.854328,845,6,0,839,0,0,False,False
 2020-06-03,MWI,AF,Malawi,-13.24627,34.295385,358,4,0,354,0,0,False,False
 2020-06-03,MYS,AS,Malaysia,4.109319,109.455475,7877,115,0,7762,0,0,False,False
@@ -16186,7 +16131,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,LBY,AF,Libya,26.338522,17.268816,196,5,0,191,0,0,False,False
 2020-06-04,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-04,LTU,EU,Lithuania,55.174112,23.906736,1684,71,0,1613,0,0,True,True
-2020-06-04,LUX,EU,Luxembourg,49.815764,6.131514,4027,110,931,2986,28,3,True,True
+2020-06-04,LUX,EU,Luxembourg,49.815764,6.131514,4020,110,,3910,,,True,True
 2020-06-04,MDG,AF,Madagascar,-18.777193,46.854328,908,6,0,902,0,0,False,False
 2020-06-04,MWI,AF,Malawi,-13.24627,34.295385,369,4,0,365,0,0,False,False
 2020-06-04,MYS,AS,Malaysia,4.109319,109.455475,7970,115,0,7855,0,0,False,False
@@ -16380,7 +16325,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,LBY,AF,Libya,26.338522,17.268816,196,5,0,191,0,0,False,False
 2020-06-05,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-05,LTU,EU,Lithuania,55.174112,23.906736,1687,71,0,1616,0,0,True,True
-2020-06-05,LUX,EU,Luxembourg,49.815764,6.131514,4032,110,931,2991,29,2,True,True
+2020-06-05,LUX,EU,Luxembourg,49.815764,6.131514,4027,110,,3917,,,True,True
 2020-06-05,MDG,AF,Madagascar,-18.777193,46.854328,957,7,0,950,0,0,False,False
 2020-06-05,MWI,AF,Malawi,-13.24627,34.295385,393,4,0,389,0,0,False,False
 2020-06-05,MYS,AS,Malaysia,4.109319,109.455475,7970,115,0,7855,0,0,False,False
@@ -16575,7 +16520,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,LBY,AF,Libya,26.338522,17.268816,239,5,0,234,0,0,False,False
 2020-06-06,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-06,LTU,EU,Lithuania,55.174112,23.906736,1694,71,0,1623,0,0,True,True
-2020-06-06,LUX,EU,Luxembourg,49.815764,6.131514,4035,110,933,2992,29,1,True,True
+2020-06-06,LUX,EU,Luxembourg,49.815764,6.131514,4032,110,,3922,,,True,True
 2020-06-06,MDG,AF,Madagascar,-18.777193,46.854328,975,7,0,968,0,0,False,False
 2020-06-06,MWI,AF,Malawi,-13.24627,34.295385,409,4,0,405,0,0,False,False
 2020-06-06,MYS,AS,Malaysia,4.109319,109.455475,8266,116,0,8150,0,0,False,False
@@ -16768,7 +16713,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,LBY,AF,Libya,26.338522,17.268816,256,5,0,251,0,0,False,False
 2020-06-07,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-07,LTU,EU,Lithuania,55.174112,23.906736,1705,71,0,1634,0,0,True,True
-2020-06-07,LUX,EU,Luxembourg,49.815764,6.131514,4039,110,934,2995,23,1,True,True
+2020-06-07,LUX,EU,Luxembourg,49.815764,6.131514,4035,110,,3925,,,True,True
 2020-06-07,MDG,AF,Madagascar,-18.777193,46.854328,1026,8,0,1018,0,0,False,False
 2020-06-07,MWI,AF,Malawi,-13.24627,34.295385,409,4,0,405,0,0,False,False
 2020-06-07,MYS,AS,Malaysia,4.109319,109.455475,8303,117,0,8186,0,0,False,False
@@ -16962,7 +16907,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,LBY,AF,Libya,26.338522,17.268816,256,5,0,251,0,0,False,False
 2020-06-08,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-08,LTU,EU,Lithuania,55.174112,23.906736,1714,71,0,1643,0,0,True,True
-2020-06-08,LUX,EU,Luxembourg,49.815764,6.131514,4040,110,935,2995,26,2,True,True
+2020-06-08,LUX,EU,Luxembourg,49.815764,6.131514,4039,110,,3929,,,True,True
 2020-06-08,MDG,AF,Madagascar,-18.777193,46.854328,1052,9,0,1043,0,0,False,False
 2020-06-08,MWI,AF,Malawi,-13.24627,34.295385,438,4,0,434,0,0,False,False
 2020-06-08,MYS,AS,Malaysia,4.109319,109.455475,8322,117,0,8205,0,0,False,False
@@ -17157,7 +17102,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,LBY,AF,Libya,26.338522,17.268816,270,5,0,265,0,0,False,False
 2020-06-09,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-09,LTU,EU,Lithuania,55.174112,23.906736,1720,71,0,1649,0,0,True,True
-2020-06-09,LUX,EU,Luxembourg,49.815764,6.131514,4046,110,935,3001,27,2,True,True
+2020-06-09,LUX,EU,Luxembourg,49.815764,6.131514,4040,110,,3930,,,True,True
 2020-06-09,MDG,AF,Madagascar,-18.777193,46.854328,1094,9,0,1085,0,0,False,False
 2020-06-09,MWI,AF,Malawi,-13.24627,34.295385,443,4,0,439,0,0,False,False
 2020-06-09,MYS,AS,Malaysia,4.109319,109.455475,8329,117,0,8212,0,0,False,False
@@ -17353,7 +17298,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,LBY,AF,Libya,26.338522,17.268816,332,5,0,327,0,0,False,False
 2020-06-10,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-10,LTU,EU,Lithuania,55.174112,23.906736,1727,72,0,1655,0,0,True,True
-2020-06-10,LUX,EU,Luxembourg,49.815764,6.131514,4049,110,938,3001,24,1,True,True
+2020-06-10,LUX,EU,Luxembourg,49.815764,6.131514,4046,110,,3936,,,True,True
 2020-06-10,MDG,AF,Madagascar,-18.777193,46.854328,1138,9,0,1129,0,0,False,False
 2020-06-10,MWI,AF,Malawi,-13.24627,34.295385,455,4,0,451,0,0,False,False
 2020-06-10,MYS,AS,Malaysia,4.109319,109.455475,8336,117,0,8219,0,0,False,False
@@ -17547,7 +17492,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,LBY,AF,Libya,26.338522,17.268816,378,5,0,373,0,0,False,False
 2020-06-11,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-11,LTU,EU,Lithuania,55.174112,23.906736,1733,74,0,1659,0,0,True,True
-2020-06-11,LUX,EU,Luxembourg,49.815764,6.131514,4052,110,940,3002,17,1,True,True
+2020-06-11,LUX,EU,Luxembourg,49.815764,6.131514,4049,110,,3939,,,True,True
 2020-06-11,MDG,AF,Madagascar,-18.777193,46.854328,1162,10,0,1152,0,0,False,False
 2020-06-11,MWI,AF,Malawi,-13.24627,34.295385,455,4,0,451,0,0,False,False
 2020-06-11,MYS,AS,Malaysia,4.109319,109.455475,8338,118,0,8220,0,0,False,False
@@ -17741,7 +17686,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,LBY,AF,Libya,26.338522,17.268816,393,5,0,388,0,0,False,False
 2020-06-12,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-12,LTU,EU,Lithuania,55.174112,23.906736,1752,74,0,1678,0,0,True,True
-2020-06-12,LUX,EU,Luxembourg,49.815764,6.131514,4055,110,941,3004,16,0,True,True
+2020-06-12,LUX,EU,Luxembourg,49.815764,6.131514,4052,110,,3942,,,True,True
 2020-06-12,MDG,AF,Madagascar,-18.777193,46.854328,1203,10,0,1193,0,0,False,False
 2020-06-12,MWI,AF,Malawi,-13.24627,34.295385,481,4,0,477,0,0,False,False
 2020-06-12,MYS,AS,Malaysia,4.109319,109.455475,8369,118,0,8251,0,0,False,False
@@ -17935,7 +17880,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,LBY,AF,Libya,26.338522,17.268816,409,6,0,403,0,0,False,False
 2020-06-13,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-13,LTU,EU,Lithuania,55.174112,23.906736,1756,74,0,1682,0,0,True,True
-2020-06-13,LUX,EU,Luxembourg,49.815764,6.131514,4063,110,941,3012,19,0,True,True
+2020-06-13,LUX,EU,Luxembourg,49.815764,6.131514,4055,110,,3945,,,True,True
 2020-06-13,MDG,AF,Madagascar,-18.777193,46.854328,1230,10,0,1220,0,0,False,False
 2020-06-13,MWI,AF,Malawi,-13.24627,34.295385,481,4,0,477,0,0,False,False
 2020-06-13,MYS,AS,Malaysia,4.109319,109.455475,8402,119,0,8283,0,0,False,False
@@ -18129,7 +18074,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,LBY,AF,Libya,26.338522,17.268816,418,8,0,410,0,0,False,False
 2020-06-14,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-14,LTU,EU,Lithuania,55.174112,23.906736,1763,75,0,1688,0,0,True,True
-2020-06-14,LUX,EU,Luxembourg,49.815764,6.131514,4070,110,945,3015,15,1,True,True
+2020-06-14,LUX,EU,Luxembourg,49.815764,6.131514,4063,110,,3953,,,True,True
 2020-06-14,MDG,AF,Madagascar,-18.777193,46.854328,1252,10,0,1242,0,0,False,False
 2020-06-14,MWI,AF,Malawi,-13.24627,34.295385,529,5,0,524,0,0,False,False
 2020-06-14,MYS,AS,Malaysia,4.109319,109.455475,8445,120,0,8325,0,0,False,False
@@ -18323,7 +18268,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,LBY,AF,Libya,26.338522,17.268816,418,8,0,410,0,0,False,False
 2020-06-15,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-15,LTU,EU,Lithuania,55.174112,23.906736,1768,75,0,1693,0,0,True,True
-2020-06-15,LUX,EU,Luxembourg,49.815764,6.131514,4072,110,946,3016,12,1,True,True
+2020-06-15,LUX,EU,Luxembourg,49.815764,6.131514,4070,110,,3960,,,True,True
 2020-06-15,MDG,AF,Madagascar,-18.777193,46.854328,1272,10,0,1262,0,0,False,False
 2020-06-15,MWI,AF,Malawi,-13.24627,34.295385,547,6,0,541,0,0,False,False
 2020-06-15,MYS,AS,Malaysia,4.109319,109.455475,8453,121,0,8332,0,0,False,False
@@ -18518,7 +18463,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,LBY,AF,Libya,26.338522,17.268816,467,10,,457,,,False,False
 2020-06-16,LIE,EU,Liechtenstein,47.164696,9.555,83,1,0,82,0,0,False,False
 2020-06-16,LTU,EU,Lithuania,55.174112,23.906736,1773,76,0,1697,0,0,True,True
-2020-06-16,LUX,EU,Luxembourg,49.815764,6.131514,4075,110,946,3019,15,1,True,True
+2020-06-16,LUX,EU,Luxembourg,49.815764,6.131514,4072,110,,3962,,,True,True
 2020-06-16,MDG,AF,Madagascar,-18.777193,46.854328,1290,10,,1280,,,False,False
 2020-06-16,MWI,AF,Malawi,-13.24627,34.295385,556,6,,550,,,False,False
 2020-06-16,MYS,AS,Malaysia,4.109319,109.455475,8494,121,,8373,,,False,False
@@ -18712,7 +18657,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,LBY,AF,Libya,26.338522,17.268816,467,10,,457,,,False,False
 2020-06-17,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-17,LTU,EU,Lithuania,55.174112,23.906736,1776,76,,1700,,,True,True
-2020-06-17,LUX,EU,Luxembourg,49.815764,6.131514,4085,110,946,3029,17,1,True,True
+2020-06-17,LUX,EU,Luxembourg,49.815764,6.131514,4075,110,,3965,,,True,True
 2020-06-17,MDG,AF,Madagascar,-18.777193,46.854328,1317,12,,1305,,,False,False
 2020-06-17,MWI,AF,Malawi,-13.24627,34.295385,564,6,,558,,,False,False
 2020-06-17,MYS,AS,Malaysia,4.109319,109.455475,8505,121,,8384,,,False,False
@@ -18908,7 +18853,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,LBY,AF,Libya,26.338522,17.268816,467,10,,457,,,False,False
 2020-06-18,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-18,LTU,EU,Lithuania,55.174112,23.906736,1778,76,,1702,,,True,True
-2020-06-18,LUX,EU,Luxembourg,49.815764,6.131514,4091,110,947,3034,13,2,True,True
+2020-06-18,LUX,EU,Luxembourg,49.815764,6.131514,4085,110,,3975,,,True,True
 2020-06-18,MDG,AF,Madagascar,-18.777193,46.854328,1378,12,,1366,,,False,False
 2020-06-18,MWI,AF,Malawi,-13.24627,34.295385,572,6,,566,,,False,False
 2020-06-18,MYS,AS,Malaysia,4.109319,109.455475,8515,121,,8394,,,False,False
@@ -19102,7 +19047,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,LBY,AF,Libya,26.338522,17.268816,500,10,,490,,,False,False
 2020-06-19,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-19,LTU,EU,Lithuania,55.174112,23.906736,1784,76,,1708,,,True,True
-2020-06-19,LUX,EU,Luxembourg,49.815764,6.131514,4099,110,948,3041,15,2,True,True
+2020-06-19,LUX,EU,Luxembourg,49.815764,6.131514,4091,110,,3981,,,True,True
 2020-06-19,MDG,AF,Madagascar,-18.777193,46.854328,1403,13,,1390,,,False,False
 2020-06-19,MWI,AF,Malawi,-13.24627,34.295385,592,8,,584,,,False,False
 2020-06-19,MYS,AS,Malaysia,4.109319,109.455475,8529,121,,8408,,,False,False
@@ -19296,7 +19241,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,LBY,AF,Libya,26.338522,17.268816,510,10,,500,,,False,False
 2020-06-20,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-20,LTU,EU,Lithuania,55.174112,23.906736,1792,76,,1716,,,True,True
-2020-06-20,LUX,EU,Luxembourg,49.815764,6.131514,4105,110,948,3047,14,0,True,True
+2020-06-20,LUX,EU,Luxembourg,49.815764,6.131514,4099,110,,3989,,,True,True
 2020-06-20,MDG,AF,Madagascar,-18.777193,46.854328,1443,13,,1430,,,False,False
 2020-06-20,MWI,AF,Malawi,-13.24627,34.295385,620,8,,612,,,False,False
 2020-06-20,MYS,AS,Malaysia,4.109319,109.455475,8535,121,,8414,,,False,False
@@ -19481,7 +19426,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,LSO,AF,Lesotho,,,4,0,,4,,,False,False
 2020-06-21,LBR,AF,Liberia,6.452424,-9.428598,601,33,,568,,,False,False
 2020-06-21,LBY,AF,Libya,26.338522,17.268816,520,10,,510,,,False,False
-2020-06-21,LUX,EU,Luxembourg,49.815764,6.131514,4120,110,949,3061,14,1,True,True
+2020-06-21,LUX,EU,Luxembourg,49.815764,6.131514,4105,110,,3995,,,True,True
 2020-06-21,MDG,AF,Madagascar,-18.777193,46.854328,1503,13,,1490,,,False,False
 2020-06-21,MWI,AF,Malawi,-13.24627,34.295385,620,8,,612,,,False,False
 2020-06-21,MYS,AS,Malaysia,4.109319,109.455475,8556,121,,8435,,,False,False
@@ -19667,7 +19612,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,LBY,AF,Libya,26.338522,17.268816,544,10,,534,,,False,False
 2020-06-22,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-22,LTU,EU,Lithuania,55.174112,23.906736,1798,76,,1722,,,True,True
-2020-06-22,LUX,EU,Luxembourg,49.815764,6.131514,4121,110,950,3061,16,2,True,True
+2020-06-22,LUX,EU,Luxembourg,49.815764,6.131514,4120,110,,4010,,,True,True
 2020-06-22,MDG,AF,Madagascar,-18.777193,46.854328,1596,14,,1582,,,False,False
 2020-06-22,MWI,AF,Malawi,-13.24627,34.295385,730,11,,719,,,False,False
 2020-06-22,MYS,AS,Malaysia,4.109319,109.455475,8572,121,,8451,,,False,False
@@ -19863,7 +19808,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,LBY,AF,Libya,26.338522,17.268816,571,10,,561,,,False,False
 2020-06-23,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-23,LTU,EU,Lithuania,55.174112,23.906736,1801,76,,1725,,,True,True
-2020-06-23,LUX,EU,Luxembourg,49.815764,6.131514,4133,110,950,3073,16,1,True,True
+2020-06-23,LUX,EU,Luxembourg,49.815764,6.131514,4121,110,,4011,,,True,True
 2020-06-23,MDG,AF,Madagascar,-18.777193,46.854328,1640,15,,1625,,,False,False
 2020-06-23,MWI,AF,Malawi,-13.24627,34.295385,803,11,,792,,,False,False
 2020-06-23,MYS,AS,Malaysia,4.109319,109.455475,8587,121,,8466,,,False,False
@@ -20059,7 +20004,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,LBY,AF,Libya,26.338522,17.268816,639,17,,622,,,False,False
 2020-06-24,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-24,LTU,EU,Lithuania,55.174112,23.906736,1803,77,,1726,,,True,True
-2020-06-24,LUX,EU,Luxembourg,49.815764,6.131514,4140,110,950,3080,13,0,True,True
+2020-06-24,LUX,EU,Luxembourg,49.815764,6.131514,4133,110,,4023,,,True,True
 2020-06-24,MDG,AF,Madagascar,-18.777193,46.854328,1724,15,,1709,,,False,False
 2020-06-24,MWI,AF,Malawi,-13.24627,34.295385,848,11,,837,,,False,False
 2020-06-24,MYS,AS,Malaysia,4.109319,109.455475,8590,121,,8469,,,False,False
@@ -20255,7 +20200,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,LBY,AF,Libya,26.338522,17.268816,639,18,,621,,,False,False
 2020-06-25,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-25,LTU,EU,Lithuania,55.174112,23.906736,1804,78,,1726,,,True,True
-2020-06-25,LUX,EU,Luxembourg,49.815764,6.131514,4151,110,951,3090,15,0,True,True
+2020-06-25,LUX,EU,Luxembourg,49.815764,6.131514,4140,110,,4030,,,True,True
 2020-06-25,MDG,AF,Madagascar,-18.777193,46.854328,1787,16,,1771,,,False,False
 2020-06-25,MWI,AF,Malawi,-13.24627,34.295385,941,11,,930,,,False,False
 2020-06-25,MYS,AS,Malaysia,4.109319,109.455475,8596,121,,8475,,,False,False
@@ -20449,7 +20394,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,LBY,AF,Libya,26.338522,17.268816,698,18,,680,,,False,False
 2020-06-26,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-26,LTU,EU,Lithuania,55.174112,23.906736,1806,78,,1728,,,True,True
-2020-06-26,LUX,EU,Luxembourg,49.815764,6.131514,4173,110,952,3111,13,1,True,True
+2020-06-26,LUX,EU,Luxembourg,49.815764,6.131514,4151,110,,4041,,,True,True
 2020-06-26,MDG,AF,Madagascar,-18.777193,46.854328,1829,16,,1813,,,False,False
 2020-06-26,MWI,AF,Malawi,-13.24627,34.295385,960,12,,948,,,False,False
 2020-06-26,MYS,AS,Malaysia,4.109319,109.455475,8600,121,,8479,,,False,False
@@ -20644,7 +20589,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,LBY,AF,Libya,26.338522,17.268816,698,18,,680,,,False,False
 2020-06-27,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-27,LTU,EU,Lithuania,55.174112,23.906736,1808,78,,1730,,,True,True
-2020-06-27,LUX,EU,Luxembourg,49.815764,6.131514,4217,110,952,3155,13,1,True,True
+2020-06-27,LUX,EU,Luxembourg,49.815764,6.131514,4173,110,,4063,,,True,True
 2020-06-27,MDG,AF,Madagascar,-18.777193,46.854328,1922,16,,1906,,,False,False
 2020-06-27,MWI,AF,Malawi,-13.24627,34.295385,1005,13,,992,,,False,False
 2020-06-27,MYS,AS,Malaysia,4.109319,109.455475,8606,121,,8485,,,False,False
@@ -20836,7 +20781,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,LBY,AF,Libya,26.338522,17.268816,713,18,,695,,,False,False
 2020-06-28,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-28,LTU,EU,Lithuania,55.174112,23.906736,1813,78,,1735,,,True,True
-2020-06-28,LUX,EU,Luxembourg,49.815764,6.131514,4242,110,952,3180,13,1,True,True
+2020-06-28,LUX,EU,Luxembourg,49.815764,6.131514,4217,110,,4107,,,True,True
 2020-06-28,MDG,AF,Madagascar,-18.777193,46.854328,2005,16,,1989,,,False,False
 2020-06-28,MWI,AF,Malawi,-13.24627,34.295385,1038,13,,1025,,,False,False
 2020-06-28,MYS,AS,Malaysia,4.109319,109.455475,8616,121,,8495,,,False,False
@@ -21030,7 +20975,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,LBY,AF,Libya,26.338522,17.268816,762,21,,741,,,False,False
 2020-06-29,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-29,LTU,EU,Lithuania,55.174112,23.906736,1816,78,,1738,,,True,True
-2020-06-29,LUX,EU,Luxembourg,49.815764,6.131514,4256,110,954,3192,9,2,True,True
+2020-06-29,LUX,EU,Luxembourg,49.815764,6.131514,4242,110,,4132,,,True,True
 2020-06-29,MDG,AF,Madagascar,-18.777193,46.854328,2078,18,,2060,,,False,False
 2020-06-29,MWI,AF,Malawi,-13.24627,34.295385,1146,13,,1133,,,False,False
 2020-06-29,MYS,AS,Malaysia,4.109319,109.455475,8634,121,,8513,,,False,False
@@ -21225,7 +21170,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,LBY,AF,Libya,26.338522,17.268816,762,21,,741,,,False,False
 2020-06-30,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-06-30,LTU,EU,Lithuania,55.174112,23.906736,1816,78,,1738,,,True,True
-2020-06-30,LUX,EU,Luxembourg,49.815764,6.131514,4299,110,955,3234,14,2,True,True
+2020-06-30,LUX,EU,Luxembourg,49.815764,6.131514,4256,110,,4146,,,True,True
 2020-06-30,MDG,AF,Madagascar,-18.777193,46.854328,2138,20,,2118,,,False,False
 2020-06-30,MWI,AF,Malawi,-13.24627,34.295385,1224,14,,1210,,,False,False
 2020-06-30,MYS,AS,Malaysia,4.109319,109.455475,8637,121,,8516,,,False,False
@@ -21420,7 +21365,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,LBY,AF,Libya,26.338522,17.268816,824,24,,800,,,False,False
 2020-07-01,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-07-01,LTU,EU,Lithuania,55.174112,23.906736,1817,78,,1739,,,True,True
-2020-07-01,LUX,EU,Luxembourg,49.815764,6.131514,4345,110,955,3280,16,2,True,True
+2020-07-01,LUX,EU,Luxembourg,49.815764,6.131514,4299,110,,4189,,,True,True
 2020-07-01,MDG,AF,Madagascar,-18.777193,46.854328,2214,20,,2194,,,False,False
 2020-07-01,MWI,AF,Malawi,-13.24627,34.295385,1265,16,,1249,,,False,False
 2020-07-01,MYS,AS,Malaysia,4.109319,109.455475,8639,121,,8518,,,False,False
@@ -21615,7 +21560,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,LBY,AF,Libya,26.338522,17.268816,858,24,,834,,,False,False
 2020-07-02,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-07-02,LTU,EU,Lithuania,55.174112,23.906736,1818,78,,1740,,,True,True
-2020-07-02,LUX,EU,Luxembourg,49.815764,6.131514,4395,110,956,3329,14,2,True,True
+2020-07-02,LUX,EU,Luxembourg,49.815764,6.131514,4345,110,,4235,,,True,True
 2020-07-02,MDG,AF,Madagascar,-18.777193,46.854328,2303,22,,2281,,,False,False
 2020-07-02,MWI,AF,Malawi,-13.24627,34.295385,1342,16,,1326,,,False,False
 2020-07-02,MYS,AS,Malaysia,4.109319,109.455475,8640,121,,8519,,,False,False
@@ -21810,7 +21755,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-03,LBY,AF,Libya,26.338522,17.268816,891,26,,865,,,False,False
 2020-07-03,LIE,EU,Liechtenstein,47.164696,9.555,83,1,,82,,,False,False
 2020-07-03,LTU,EU,Lithuania,55.174112,23.906736,1825,78,,1747,,,True,True
-2020-07-03,LUX,EU,Luxembourg,49.815764,6.131514,4447,110,956,3381,19,3,True,True
+2020-07-03,LUX,EU,Luxembourg,49.815764,6.131514,4395,110,,4285,,,True,True
 2020-07-03,MDG,AF,Madagascar,-18.777193,46.854328,2403,24,,2379,,,False,False
 2020-07-03,MWI,AF,Malawi,-13.24627,34.295385,1402,16,,1386,,,False,False
 2020-07-03,MYS,AS,Malaysia,4.109319,109.455475,8643,121,,8522,,,False,False
@@ -22002,7 +21947,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-04,LBY,AF,Libya,26.338522,17.268816,918,27,,891,,,False,False
 2020-07-04,LIE,EU,Liechtenstein,47.164696,9.555,84,1,,83,,,False,False
 2020-07-04,LTU,EU,Lithuania,55.174112,23.906736,1828,79,,1749,,,True,True
-2020-07-04,LUX,EU,Luxembourg,49.815764,6.131514,4476,110,956,3410,19,3,True,True
+2020-07-04,LUX,EU,Luxembourg,49.815764,6.131514,4447,110,,4337,,,True,True
 2020-07-04,MDG,AF,Madagascar,-18.777193,46.854328,2512,26,,2486,,,False,False
 2020-07-04,MWI,AF,Malawi,-13.24627,34.295385,1498,16,,1482,,,False,False
 2020-07-04,MYS,AS,Malaysia,4.109319,109.455475,8648,121,,8527,,,False,False
@@ -22191,7 +22136,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-05,LBY,AF,Libya,26.338522,17.268816,989,27,,962,,,False,False
 2020-07-05,LIE,EU,Liechtenstein,47.164696,9.555,84,1,,83,,,False,False
 2020-07-05,LTU,EU,Lithuania,55.174112,23.906736,1831,79,,1752,,,True,True
-2020-07-05,LUX,EU,Luxembourg,49.815764,6.131514,4522,110,956,3456,19,3,True,True
+2020-07-05,LUX,EU,Luxembourg,49.815764,6.131514,4476,110,,4366,,,True,True
 2020-07-05,MDG,AF,Madagascar,-18.777193,46.854328,2728,29,,2699,,,False,False
 2020-07-05,MWI,AF,Malawi,-13.24627,34.295385,1613,17,,1596,,,False,False
 2020-07-05,MYS,AS,Malaysia,4.109319,109.455475,8658,121,,8537,,,False,False
@@ -22383,7 +22328,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-06,LBY,AF,Libya,26.338522,17.268816,989,27,,962,,,False,False
 2020-07-06,LIE,EU,Liechtenstein,47.164696,9.555,84,1,,83,,,False,False
 2020-07-06,LTU,EU,Lithuania,55.174112,23.906736,1836,79,,1757,,,True,True
-2020-07-06,LUX,EU,Luxembourg,49.815764,6.131514,4542,110,959,3473,19,3,True,True
+2020-07-06,LUX,EU,Luxembourg,49.815764,6.131514,4522,110,,4412,,,True,True
 2020-07-06,MDG,AF,Madagascar,-18.777193,46.854328,2728,29,,2699,,,False,False
 2020-07-06,MWI,AF,Malawi,-13.24627,34.295385,1742,19,,1723,,,False,False
 2020-07-06,MYS,AS,Malaysia,4.109319,109.455475,8658,121,,8537,,,False,False
@@ -22578,7 +22523,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,LBY,AF,Libya,26.338522,17.268816,1046,32,,1014,,,False,False
 2020-07-07,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-07,LTU,EU,Lithuania,55.174112,23.906736,1841,79,,1762,,,True,True
-2020-07-07,LUX,EU,Luxembourg,49.815764,6.131514,4603,110,961,3532,18,3,True,True
+2020-07-07,LUX,EU,Luxembourg,49.815764,6.131514,4542,110,,4432,,,True,True
 2020-07-07,MDG,AF,Madagascar,-18.777193,46.854328,3250,33,,3217,,,False,False
 2020-07-07,MWI,AF,Malawi,-13.24627,34.295385,1818,19,,1799,,,False,False
 2020-07-07,MYS,AS,Malaysia,4.109319,109.455475,8668,121,,8547,,,False,False
@@ -22773,7 +22718,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,LBY,AF,Libya,26.338522,17.268816,1182,35,,1147,,,False,False
 2020-07-08,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-08,LTU,EU,Lithuania,55.174112,23.906736,1844,79,,1765,,,True,True
-2020-07-08,LUX,EU,Luxembourg,49.815764,6.131514,4650,110,962,3578,22,1,True,True
+2020-07-08,LUX,EU,Luxembourg,49.815764,6.131514,4603,110,,4493,,,True,True
 2020-07-08,MDG,AF,Madagascar,-18.777193,46.854328,3472,33,,3439,,,False,False
 2020-07-08,MWI,AF,Malawi,-13.24627,34.295385,1877,24,,1853,,,False,False
 2020-07-08,MYS,AS,Malaysia,4.109319,109.455475,8674,121,,8553,,,False,False
@@ -22969,7 +22914,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,LBY,AF,Libya,26.338522,17.268816,1182,35,,1147,,,False,False
 2020-07-09,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-09,LTU,EU,Lithuania,55.174112,23.906736,1854,79,,1775,,,True,True
-2020-07-09,LUX,EU,Luxembourg,49.815764,6.131514,4719,110,966,3643,25,2,True,True
+2020-07-09,LUX,EU,Luxembourg,49.815764,6.131514,4650,110,,4540,,,True,True
 2020-07-09,MDG,AF,Madagascar,-18.777193,46.854328,3573,33,,3540,,,False,False
 2020-07-09,MWI,AF,Malawi,-13.24627,34.295385,1929,25,,1904,,,False,False
 2020-07-09,MYS,AS,Malaysia,4.109319,109.455475,8677,121,,8556,,,False,False
@@ -23165,7 +23110,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,LBY,AF,Libya,26.338522,17.268816,1268,36,,1232,,,False,False
 2020-07-10,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-10,LTU,EU,Lithuania,55.174112,23.906736,1857,79,,1778,,,True,True
-2020-07-10,LUX,EU,Luxembourg,49.815764,6.131514,4777,110,967,3700,24,3,True,True
+2020-07-10,LUX,EU,Luxembourg,49.815764,6.131514,4719,110,,4609,,,True,True
 2020-07-10,MDG,AF,Madagascar,-18.777193,46.854328,3782,33,,3749,,,False,False
 2020-07-10,MWI,AF,Malawi,-13.24627,34.295385,1984,29,,1955,,,False,False
 2020-07-10,MYS,AS,Malaysia,4.109319,109.455475,8683,121,,8562,,,False,False
@@ -23359,7 +23304,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,LBY,AF,Libya,26.338522,17.268816,1342,38,,1304,,,False,False
 2020-07-11,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-11,LTU,EU,Lithuania,55.174112,23.906736,1861,79,,1782,,,True,True
-2020-07-11,LUX,EU,Luxembourg,49.815764,6.131514,4842,110,967,3765,24,3,True,True
+2020-07-11,LUX,EU,Luxembourg,49.815764,6.131514,4777,110,,4667,,,True,True
 2020-07-11,MDG,AF,Madagascar,-18.777193,46.854328,4143,34,,4109,,,False,False
 2020-07-11,MWI,AF,Malawi,-13.24627,34.295385,2069,31,,2038,,,False,False
 2020-07-11,MYS,AS,Malaysia,4.109319,109.455475,8696,121,,8575,,,False,False
@@ -23549,7 +23494,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,LBY,AF,Libya,26.338522,17.268816,1389,38,,1351,,,False,False
 2020-07-12,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-12,LTU,EU,Lithuania,55.174112,23.906736,1865,79,,1786,,,True,True
-2020-07-12,LUX,EU,Luxembourg,49.815764,6.131514,4925,111,967,3847,24,3,True,True
+2020-07-12,LUX,EU,Luxembourg,49.815764,6.131514,4842,110,,4732,,,True,True
 2020-07-12,MDG,AF,Madagascar,-18.777193,46.854328,4578,34,,4544,,,False,False
 2020-07-12,MWI,AF,Malawi,-13.24627,34.295385,2261,33,,2228,,,False,False
 2020-07-12,MYS,AS,Malaysia,4.109319,109.455475,8704,122,,8582,,,False,False
@@ -23742,7 +23687,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-13,LBY,AF,Libya,26.338522,17.268816,1433,39,,1394,,,False,False
 2020-07-13,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-13,LTU,EU,Lithuania,55.174112,23.906736,1869,79,,1790,,,True,True
-2020-07-13,LUX,EU,Luxembourg,49.815764,6.131514,4956,111,969,3876,34,4,True,True
+2020-07-13,LUX,EU,Luxembourg,49.815764,6.131514,4925,111,,4814,,,True,True
 2020-07-13,MDG,AF,Madagascar,-18.777193,46.854328,4867,35,,4832,,,False,False
 2020-07-13,MWI,AF,Malawi,-13.24627,34.295385,2364,38,,2326,,,False,False
 2020-07-13,MYS,AS,Malaysia,4.109319,109.455475,8718,122,,8596,,,False,False
@@ -23936,7 +23881,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-14,LBY,AF,Libya,26.338522,17.268816,1512,40,,1472,,,False,False
 2020-07-14,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-14,LTU,EU,Lithuania,55.174112,23.906736,1874,79,,1795,,,True,True
-2020-07-14,LUX,EU,Luxembourg,49.815764,6.131514,5056,111,974,3971,44,4,True,True
+2020-07-14,LUX,EU,Luxembourg,49.815764,6.131514,4956,111,,4845,,,True,True
 2020-07-14,MDG,AF,Madagascar,-18.777193,46.854328,5080,37,,5043,,,False,False
 2020-07-14,MWI,AF,Malawi,-13.24627,34.295385,2430,39,,2391,,,False,False
 2020-07-14,MYS,AS,Malaysia,4.109319,109.455475,8725,122,,8603,,,False,False
@@ -24130,7 +24075,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-15,LBY,AF,Libya,26.338522,17.268816,1563,42,,1521,,,False,False
 2020-07-15,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-15,LTU,EU,Lithuania,55.174112,23.906736,1875,79,,1796,,,True,True
-2020-07-15,LUX,EU,Luxembourg,49.815764,6.131514,5122,111,981,4030,38,4,True,True
+2020-07-15,LUX,EU,Luxembourg,49.815764,6.131514,5056,111,,4945,,,True,True
 2020-07-15,MDG,AF,Madagascar,-18.777193,46.854328,5343,39,,5304,,,False,False
 2020-07-15,MWI,AF,Malawi,-13.24627,34.295385,2497,40,,2457,,,False,False
 2020-07-15,MYS,AS,Malaysia,4.109319,109.455475,8729,122,,8607,,,False,False
@@ -24325,7 +24270,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-16,LBY,AF,Libya,26.338522,17.268816,1589,43,,1546,,,False,False
 2020-07-16,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-16,LTU,EU,Lithuania,55.174112,23.906736,1882,79,,1803,,,True,True
-2020-07-16,LUX,EU,Luxembourg,49.815764,6.131514,5285,111,986,4188,36,5,True,True
+2020-07-16,LUX,EU,Luxembourg,49.815764,6.131514,5056,111,,4945,,,True,True
 2020-07-16,MDG,AF,Madagascar,-18.777193,46.854328,5605,43,,5562,,,False,False
 2020-07-16,MWI,AF,Malawi,-13.24627,34.295385,2614,43,,2571,,,False,False
 2020-07-16,MYS,AS,Malaysia,4.109319,109.455475,8734,122,,8612,,,False,False
@@ -24521,7 +24466,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-17,LBY,AF,Libya,26.338522,17.268816,1652,46,,1606,,,False,False
 2020-07-17,LIE,EU,Liechtenstein,47.164696,9.555,85,1,,84,,,False,False
 2020-07-17,LTU,EU,Lithuania,55.174112,23.906736,1902,79,,1823,,,True,True
-2020-07-17,LUX,EU,Luxembourg,49.815764,6.131514,5483,111,988,4384,35,4,True,True
+2020-07-17,LUX,EU,Luxembourg,49.815764,6.131514,5122,111,,5011,,,True,True
 2020-07-17,MDG,AF,Madagascar,-18.777193,46.854328,6089,53,,6036,,,False,False
 2020-07-17,MWI,AF,Malawi,-13.24627,34.295385,2712,51,,2661,,,False,False
 2020-07-17,MYS,AS,Malaysia,4.109319,109.455475,8737,122,,8615,,,False,False
@@ -24715,7 +24660,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-18,LBY,AF,Libya,26.338522,17.268816,1704,47,,1657,,,False,False
 2020-07-18,LIE,EU,Liechtenstein,47.164696,9.555,86,1,,85,,,False,False
 2020-07-18,LTU,EU,Lithuania,55.174112,23.906736,1908,79,,1829,,,True,True
-2020-07-18,LUX,EU,Luxembourg,49.815764,6.131514,5483,111,988,4384,35,4,True,True
+2020-07-18,LUX,EU,Luxembourg,49.815764,6.131514,5285,111,,5174,,,True,True
 2020-07-18,MDG,AF,Madagascar,-18.777193,46.854328,6467,54,,6413,,,False,False
 2020-07-18,MWI,AF,Malawi,-13.24627,34.295385,2810,55,,2755,,,False,False
 2020-07-18,MYS,AS,Malaysia,4.109319,109.455475,8755,122,,8633,,,False,False
@@ -24906,7 +24851,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-19,LBY,AF,Libya,26.338522,17.268816,1791,48,,1743,,,False,False
 2020-07-19,LIE,EU,Liechtenstein,47.164696,9.555,86,1,,85,,,False,False
 2020-07-19,LTU,EU,Lithuania,55.174112,23.906736,1915,80,,1835,,,True,True
-2020-07-19,LUX,EU,Luxembourg,49.815764,6.131514,5605,111,988,4506,35,4,True,True
+2020-07-19,LUX,EU,Luxembourg,49.815764,6.131514,5409,111,,5298,,,True,True
 2020-07-19,MDG,AF,Madagascar,-18.777193,46.854328,6849,55,,6794,,,False,False
 2020-07-19,MWI,AF,Malawi,-13.24627,34.295385,2907,59,,2848,,,False,False
 2020-07-19,MYS,AS,Malaysia,4.109319,109.455475,8764,122,,8642,,,False,False
@@ -25099,7 +25044,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-20,LBY,AF,Libya,26.338522,17.268816,1866,48,,1818,,,False,False
 2020-07-20,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-20,LTU,EU,Lithuania,55.174112,23.906736,1932,80,,1852,,,True,True
-2020-07-20,LUX,EU,Luxembourg,49.815764,6.131514,5639,111,990,4538,46,7,True,True
+2020-07-20,LUX,EU,Luxembourg,49.815764,6.131514,5483,111,,5372,,,True,True
 2020-07-20,MDG,AF,Madagascar,-18.777193,46.854328,7049,59,,6990,,,False,False
 2020-07-20,MWI,AF,Malawi,-13.24627,34.295385,2992,62,,2930,,,False,False
 2020-07-20,MYS,AS,Malaysia,4.109319,109.455475,8779,123,,8656,,,False,False
@@ -25295,7 +25240,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,LBY,AF,Libya,26.338522,17.268816,1960,49,,1911,,,False,False
 2020-07-21,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-21,LTU,EU,Lithuania,55.174112,23.906736,1947,80,,1867,,,True,True
-2020-07-21,LUX,EU,Luxembourg,49.815764,6.131514,5725,111,1001,4613,50,5,True,True
+2020-07-21,LUX,EU,Luxembourg,49.815764,6.131514,5605,111,,5494,,,True,True
 2020-07-21,MDG,AF,Madagascar,-18.777193,46.854328,7153,62,,7091,,,False,False
 2020-07-21,MWI,AF,Malawi,-13.24627,34.295385,3045,64,,2981,,,False,False
 2020-07-21,MYS,AS,Malaysia,4.109319,109.455475,8800,123,,8677,,,False,False
@@ -25392,7 +25337,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-22,DEU,EU,Germany,51.165706,10.452764,202799,9095,188600,5104,,,True,True
 2020-07-22,HUN,EU,Hungary,47.164638,19.508944,4366,596,3283,487,76,4,True,True
 2020-07-22,ITA,EU,Italy,41.873987,12.564167,245032,35082,197628,12322,772,48,True,True
-2020-07-22,LUX,EU,Luxembourg,49.815764,6.131514,5854,111,1006,4737,54,5,True,True
+2020-07-22,LUX,EU,Luxembourg,49.815764,6.131514,5725,111,,5614,,,True,True
 2020-07-22,SVK,EU,Slovakia,48.665639,19.709097,2058,28,1556,474,16,2,True,True
 2020-07-22,SVN,EU,Slovenia,46.145528,14.974541,2033,115,323,1595,24,2,True,True
 2020-07-22,ESP,EU,Spain,39.896027,-2.487694,267551,28426,,239125,126179,11736,True,True
@@ -25506,7 +25451,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-23,LBY,AF,Libya,26.338522,17.268816,2176,53,,2123,,,False,False
 2020-07-23,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-23,LTU,EU,Lithuania,55.174112,23.906736,1960,80,,1880,,,True,True
-2020-07-23,LUX,EU,Luxembourg,49.815764,6.131514,5952,112,1008,4832,56,1,True,True
+2020-07-23,LUX,EU,Luxembourg,49.815764,6.131514,5854,111,,5743,,,True,True
 2020-07-23,MDG,AF,Madagascar,-18.777193,46.854328,8162,69,,8093,,,False,False
 2020-07-23,MWI,AF,Malawi,-13.24627,34.295385,3302,76,,3226,,,False,False
 2020-07-23,MYS,AS,Malaysia,4.109319,109.455475,8831,123,,8708,,,False,False
@@ -25700,7 +25645,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-24,LBY,AF,Libya,26.338522,17.268816,2314,56,,2258,,,False,False
 2020-07-24,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-24,LTU,EU,Lithuania,55.174112,23.906736,1960,80,,1880,,,True,True
-2020-07-24,LUX,EU,Luxembourg,49.815764,6.131514,6056,112,1012,4932,48,3,True,True
+2020-07-24,LUX,EU,Luxembourg,49.815764,6.131514,5952,112,,5840,,,True,True
 2020-07-24,MDG,AF,Madagascar,-18.777193,46.854328,8381,70,,8311,,,False,False
 2020-07-24,MWI,AF,Malawi,-13.24627,34.295385,3386,79,,3307,,,False,False
 2020-07-24,MYS,AS,Malaysia,4.109319,109.455475,8840,123,,8717,,,False,False
@@ -25886,6 +25831,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-25,LBY,AF,Libya,26.338522,17.268816,2425,57,,2368,,,False,False
 2020-07-25,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-25,LTU,EU,Lithuania,55.174112,23.906736,1986,80,,1906,,,True,True
+2020-07-25,LUX,EU,Luxembourg,49.815764,6.131514,6056,112,,5944,,,True,True
 2020-07-25,MDG,AF,Madagascar,-18.777193,46.854328,8741,76,,8665,,,False,False
 2020-07-25,MWI,AF,Malawi,-13.24627,34.295385,3453,87,,3366,,,False,False
 2020-07-25,MYS,AS,Malaysia,4.109319,109.455475,8861,123,,8738,,,False,False
@@ -26069,7 +26015,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-26,LBY,AF,Libya,26.338522,17.268816,2547,58,,2489,,,False,False
 2020-07-26,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-26,LTU,EU,Lithuania,55.174112,23.906736,2001,80,,1921,,,True,True
-2020-07-26,LUX,EU,Luxembourg,49.815764,6.131514,6272,112,1012,5148,48,3,True,True
+2020-07-26,LUX,EU,Luxembourg,49.815764,6.131514,6189,112,,6077,,,True,True
 2020-07-26,MDG,AF,Madagascar,-18.777193,46.854328,8866,78,,8788,,,False,False
 2020-07-26,MWI,AF,Malawi,-13.24627,34.295385,3453,87,,3366,,,False,False
 2020-07-26,MYS,AS,Malaysia,4.109319,109.455475,8884,123,,8761,,,False,False
@@ -26261,7 +26207,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-27,LBY,AF,Libya,26.338522,17.268816,2547,58,,2489,,,False,False
 2020-07-27,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-27,LTU,EU,Lithuania,55.174112,23.906736,2008,80,,1928,,,True,True
-2020-07-27,LUX,EU,Luxembourg,49.815764,6.131514,6321,112,1015,5194,55,6,True,True
 2020-07-27,MDG,AF,Madagascar,-18.777193,46.854328,9295,85,,9210,,,False,False
 2020-07-27,MWI,AF,Malawi,-13.24627,34.295385,3640,99,,3541,,,False,False
 2020-07-27,MYS,AS,Malaysia,4.109319,109.455475,8897,124,,8773,,,False,False
@@ -26457,7 +26402,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-28,LBY,AF,Libya,26.338522,17.268816,2827,64,,2763,,,False,False
 2020-07-28,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-28,LTU,EU,Lithuania,55.174112,23.906736,2019,80,,1939,,,True,True
-2020-07-28,LUX,EU,Luxembourg,49.815764,6.131514,6375,113,1019,5243,50,5,True,True
 2020-07-28,MDG,AF,Madagascar,-18.777193,46.854328,9295,85,,9210,,,False,False
 2020-07-28,MWI,AF,Malawi,-13.24627,34.295385,3709,103,,3606,,,False,False
 2020-07-28,MYS,AS,Malaysia,4.109319,109.455475,8904,124,,8780,,,False,False
@@ -26653,7 +26597,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-29,LBY,AF,Libya,26.338522,17.268816,2827,64,,2763,,,False,False
 2020-07-29,LIE,EU,Liechtenstein,47.164696,9.555,87,1,,86,,,False,False
 2020-07-29,LTU,EU,Lithuania,55.174112,23.906736,2027,80,,1947,,,True,True
-2020-07-29,LUX,EU,Luxembourg,49.815764,6.131514,6533,114,1020,5399,55,4,True,True
 2020-07-29,MDG,AF,Madagascar,-18.777193,46.854328,10104,93,,10011,,,False,False
 2020-07-29,MWI,AF,Malawi,-13.24627,34.295385,3709,103,,3606,,,False,False
 2020-07-29,MYS,AS,Malaysia,4.109319,109.455475,8943,124,,8819,,,False,False
@@ -26848,7 +26791,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-30,LBY,AF,Libya,26.338522,17.268816,3017,67,,2950,,,False,False
 2020-07-30,LIE,EU,Liechtenstein,47.164696,9.555,88,1,,87,,,False,False
 2020-07-30,LTU,EU,Lithuania,55.174112,23.906736,2043,80,,1963,,,True,True
-2020-07-30,LUX,EU,Luxembourg,49.815764,6.131514,6621,114,,6507,57,6,True,True
 2020-07-30,MDG,AF,Madagascar,-18.777193,46.854328,10317,99,,10218,,,False,False
 2020-07-30,MWI,AF,Malawi,-13.24627,34.295385,3858,107,,3751,,,False,False
 2020-07-30,MYS,AS,Malaysia,4.109319,109.455475,8956,124,,8832,,,False,False
@@ -27488,6 +27430,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-03,PER,SA,Peru,-9.181352,-75.002365,428850,19614,,409236,,,False,False
 2020-08-03,PHL,AS,Philippines,12.881958,121.766541,103185,2059,,101126,,,False,False
 2020-08-03,POL,EU,Poland,51.92275,19.136875,47469,1732,,45737,,,True,True
+2020-08-03,PRT,EU,Portugal,39.553444,-7.839319,51569,1738,,49831,,,True,True
 2020-08-03,PRI,NA,Puerto Rico,18.223285,-66.592731,18411,230,,18181,,,False,False
 2020-08-03,QAT,AS,Qatar,25.318833,51.19693,111107,177,,110930,,,False,False
 2020-08-03,ROU,EU,Romania,45.947125,24.980514,53957,2432,,51525,,,True,True
