@@ -1014,6 +1014,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-06,BHR,AS,Bahrain,26.039722,50.559306,52,,,52,,,False,False
 2020-03-06,BEL,EU,Belgium,50.499527,4.475402,317,0,,317,0,0,True,True
 2020-03-06,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
+2020-03-06,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2,0,,2,,,False,False
 2020-03-06,BRA,SA,Brazil,-14.242914,-53.189267,8,,,8,,,False,False
 2020-03-06,CAN,NA,Canada,62.393303,-96.818145,45,,,45,,,False,False
 2020-03-06,CHL,SA,Chile,-36.711951,-73.601704,4,,,4,,,False,False
@@ -1320,6 +1321,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,BLR,EU,Belarus,53.711111,27.973847,12,0,0,12,0,0,False,False
 2020-03-12,BEL,EU,Belgium,50.499527,4.475402,1026,5,,1021,0,0,True,True
 2020-03-12,BOL,SA,Bolivia,-16.28835,-63.549429,2,,,2,,,False,False
+2020-03-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3,0,,3,,,False,False
 2020-03-12,BRA,SA,Brazil,-14.242914,-53.189267,52,,,52,,,False,False
 2020-03-12,BFA,AF,Burkina Faso,12.24185,-1.55676,2,,,2,,,False,False
 2020-03-12,KHM,AS,Cambodia,12.54775,104.98386,3,,,3,,,False,False
@@ -1398,6 +1400,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,BEL,EU,Belgium,50.499527,4.475402,1364,8,,1356,0,0,True,True
 2020-03-13,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-13,BOL,SA,Bolivia,-16.28835,-63.549429,3,,,3,,,False,False
+2020-03-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3,0,,3,,,False,False
 2020-03-13,BRA,SA,Brazil,-14.242914,-53.189267,77,,,77,,,False,False
 2020-03-13,KHM,AS,Cambodia,12.54775,104.98386,5,,,5,,,False,False
 2020-03-13,CAN,NA,Canada,62.393303,-96.818145,138,1,,137,,,False,False
@@ -1648,6 +1651,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,BHR,AS,Bahrain,26.039722,50.559306,214,,,214,,,False,False
 2020-03-16,BLR,EU,Belarus,53.711111,27.973847,27,0,0,27,0,0,False,False
 2020-03-16,BEL,EU,Belgium,50.499527,4.475402,2144,30,,2114,370,79,True,True
+2020-03-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,18,0,,18,,,False,False
 2020-03-16,BRA,SA,Brazil,-14.242914,-53.189267,200,,,200,,,False,False
 2020-03-16,BFA,AF,Burkina Faso,12.24185,-1.55676,3,,,3,,,False,False
 2020-03-16,KHM,AS,Cambodia,12.54775,104.98386,12,,,12,,,False,False
@@ -1763,6 +1767,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-17,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-17,BOL,SA,Bolivia,-16.28835,-63.549429,11,,,11,,,False,False
+2020-03-17,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,21,0,,21,,,False,False
 2020-03-17,BRA,SA,Brazil,-14.242914,-53.189267,234,,,234,,,False,False
 2020-03-17,BFA,AF,Burkina Faso,12.24185,-1.55676,20,,,20,,,False,False
 2020-03-17,KHM,AS,Cambodia,12.54775,104.98386,24,,,24,,,False,False
@@ -1883,6 +1888,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-18,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-18,BOL,SA,Bolivia,-16.28835,-63.549429,12,,,12,,,False,False
+2020-03-18,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,30,0,,30,,,False,False
 2020-03-18,BRA,SA,Brazil,-14.242914,-53.189267,291,1,,290,,,False,False
 2020-03-18,BFA,AF,Burkina Faso,12.24185,-1.55676,20,,,20,,,False,False
 2020-03-18,KHM,AS,Cambodia,12.54775,104.98386,24,,,24,,,False,False
@@ -2013,6 +2019,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,BEN,AF,Benin,9.322048,2.313138,1,,,1,,,False,False
 2020-03-19,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-19,BOL,SA,Bolivia,-16.28835,-63.549429,12,,,12,,,False,False
+2020-03-19,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,35,0,,35,,,False,False
 2020-03-19,BRA,SA,Brazil,-14.242914,-53.189267,428,4,,424,,,False,False
 2020-03-19,BFA,AF,Burkina Faso,12.24185,-1.55676,26,1,,25,,,False,False
 2020-03-19,KHM,AS,Cambodia,12.54775,104.98386,24,,,24,,,False,False
@@ -2149,6 +2156,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,BMU,NA,Bermuda,32.320236,-64.774022,2,,,2,,,False,False
 2020-03-20,BTN,AS,Bhutan,27.515709,90.442455,1,,,1,,,False,False
 2020-03-20,BOL,SA,Bolivia,-16.28835,-63.549429,15,,,15,,,False,False
+2020-03-20,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,44,0,,44,,,False,False
 2020-03-20,BRA,SA,Brazil,-14.242914,-53.189267,621,6,,615,,,False,False
 2020-03-20,BFA,AF,Burkina Faso,12.24185,-1.55676,33,1,,32,,,False,False
 2020-03-20,KHM,AS,Cambodia,12.54775,104.98386,24,,,24,,,False,False
@@ -2294,6 +2302,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,BMU,NA,Bermuda,32.320236,-64.774022,2,,,2,,,False,False
 2020-03-21,BTN,AS,Bhutan,27.515709,90.442455,2,,,2,,,False,False
 2020-03-21,BOL,SA,Bolivia,-16.28835,-63.549429,19,,,19,,,False,False
+2020-03-21,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,62,0,,62,,,False,False
 2020-03-21,BRA,SA,Brazil,-14.242914,-53.189267,904,11,,893,,,False,False
 2020-03-21,BFA,AF,Burkina Faso,12.24185,-1.55676,40,1,,39,,,False,False
 2020-03-21,KHM,AS,Cambodia,12.54775,104.98386,47,,,47,,,False,False
@@ -2429,6 +2438,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,ZWE,AF,Zimbabwe,-19.013286,29.146666,1,,,1,,,False,False
 2020-03-22,ALB,EU,Albania,41.156986,20.181222,76,0,0,76,0,0,False,False
 2020-03-22,BEL,EU,Belgium,50.499527,4.475402,5432,204,,5228,1646,322,True,True
+2020-03-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,92,1,,91,,,False,False
 2020-03-22,BGR,EU,Bulgaria,42.729862,25.491667,190,3,0,187,,,True,True
 2020-03-22,HRV,EU,Croatia,44.48732,16.460306,220,0,0,220,,,True,True
 2020-03-22,CYP,EU,Cyprus,35.167406,33.435499,84,0,0,84,,,True,True
@@ -2478,6 +2488,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
 2020-03-23,BTN,AS,Bhutan,27.515709,90.442455,2,,,2,,,False,False
 2020-03-23,BOL,SA,Bolivia,-16.28835,-63.549429,27,,,27,,,False,False
+2020-03-23,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,125,1,,124,,,False,False
 2020-03-23,BRA,SA,Brazil,-14.242914,-53.189267,1546,25,,1521,,,False,False
 2020-03-23,BGR,EU,Bulgaria,42.729862,25.491667,190,3,0,187,,,True,True
 2020-03-23,BFA,AF,Burkina Faso,12.24185,-1.55676,64,3,,61,,,False,False
@@ -2644,6 +2655,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
 2020-03-24,BTN,AS,Bhutan,27.515709,90.442455,2,,,2,,,False,False
 2020-03-24,BOL,SA,Bolivia,-16.28835,-63.549429,28,,,28,,,False,False
+2020-03-24,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,131,1,,130,,,False,False
 2020-03-24,BRA,SA,Brazil,-14.242914,-53.189267,1891,34,,1857,,,False,False
 2020-03-24,BGR,EU,Bulgaria,42.729862,25.491667,218,3,0,215,,,True,True
 2020-03-24,BFA,AF,Burkina Faso,12.24185,-1.55676,75,3,,72,,,False,False
@@ -2812,6 +2824,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,BMU,NA,Bermuda,32.320236,-64.774022,6,0,0,6,,,False,False
 2020-03-25,BTN,AS,Bhutan,27.515709,90.442455,2,0,0,2,,,False,False
 2020-03-25,BOL,SA,Bolivia,-16.28835,-63.549429,32,0,0,32,,,False,False
+2020-03-25,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,164,2,,162,,,False,False
 2020-03-25,BRA,SA,Brazil,-14.242914,-53.189267,2201,46,0,2155,,,False,False
 2020-03-25,BGR,EU,Bulgaria,42.729862,25.491667,220,3,0,217,,,True,True
 2020-03-25,BFA,AF,Burkina Faso,12.24185,-1.55676,99,3,0,96,,,False,False
@@ -2985,6 +2998,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,BMU,NA,Bermuda,32.320236,-64.774022,6,,,6,,,False,False
 2020-03-26,BTN,AS,Bhutan,27.515709,90.442455,3,,,3,,,False,False
 2020-03-26,BOL,SA,Bolivia,-16.28835,-63.549429,39,,,39,,,False,False
+2020-03-26,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,173,3,,170,,,False,False
 2020-03-26,BRA,SA,Brazil,-14.242914,-53.189267,2433,57,,2376,,,False,False
 2020-03-26,BGR,EU,Bulgaria,42.729862,25.491667,264,3,0,261,0,0,True,True
 2020-03-26,BFA,AF,Burkina Faso,12.24185,-1.55676,114,3,,111,,,False,False
@@ -3144,6 +3158,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,AUT,EU,Austria,47.697542,13.349319,7399,0,0,7399,0,0,True,True
 2020-03-27,BLR,EU,Belarus,53.711111,27.973847,86,0,0,86,0,0,False,False
 2020-03-27,BEL,EU,Belgium,50.499527,4.475402,12036,677,,11359,3650,789,True,True
+2020-03-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,213,3,,210,,,False,False
 2020-03-27,BGR,EU,Bulgaria,42.729862,25.491667,276,3,0,273,0,0,True,True
 2020-03-27,HRV,EU,Croatia,44.48732,16.460306,588,3,0,585,0,0,True,True
 2020-03-27,CYP,EU,Cyprus,35.167406,33.435499,146,3,0,143,0,0,True,True
@@ -3204,6 +3219,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,BMU,NA,Bermuda,32.320236,-64.774022,17,0,0,17,0,0,False,False
 2020-03-28,BTN,AS,Bhutan,27.515709,90.442455,3,0,0,3,0,0,False,False
 2020-03-28,BOL,SA,Bolivia,-16.28835,-63.549429,74,0,0,74,0,0,False,False
+2020-03-28,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,233,4,,229,,,False,False
 2020-03-28,BRA,SA,Brazil,-14.242914,-53.189267,3417,92,0,3325,0,0,False,False
 2020-03-28,VGB,NA,British Virgin Islands,18.573601,-64.492065,2,0,0,2,0,0,False,False
 2020-03-28,BFA,AF,Burkina Faso,12.24185,-1.55676,146,3,0,143,0,0,False,False
@@ -3381,6 +3397,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,BMU,NA,Bermuda,32.320236,-64.774022,22,0,0,22,0,0,False,False
 2020-03-29,BTN,AS,Bhutan,27.515709,90.442455,4,0,0,4,0,0,False,False
 2020-03-29,BOL,SA,Bolivia,-16.28835,-63.549429,81,0,0,81,0,0,False,False
+2020-03-29,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,257,5,,252,,,False,False
 2020-03-29,BRA,SA,Brazil,-14.242914,-53.189267,3904,114,0,3790,0,0,False,False
 2020-03-29,VGB,NA,British Virgin Islands,18.573601,-64.492065,2,0,0,2,0,0,False,False
 2020-03-29,BFA,AF,Burkina Faso,12.24185,-1.55676,180,9,0,171,0,0,False,False
@@ -3558,6 +3575,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,BMU,NA,Bermuda,32.320236,-64.774022,22,0,0,22,0,0,False,False
 2020-03-30,BTN,AS,Bhutan,27.515709,90.442455,4,0,0,4,0,0,False,False
 2020-03-30,BOL,SA,Bolivia,-16.28835,-63.549429,96,3,0,93,0,0,False,False
+2020-03-30,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,323,6,,317,,,False,False
 2020-03-30,BRA,SA,Brazil,-14.242914,-53.189267,4256,136,0,4120,0,0,False,False
 2020-03-30,VGB,NA,British Virgin Islands,18.573601,-64.492065,2,0,0,2,0,0,False,False
 2020-03-30,BGR,EU,Bulgaria,42.729862,25.491667,359,8,0,351,0,0,True,True
@@ -3739,6 +3757,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,BMU,NA,Bermuda,32.320236,-64.774022,27,0,0,27,0,0,False,False
 2020-03-31,BTN,AS,Bhutan,27.515709,90.442455,4,0,0,4,0,0,False,False
 2020-03-31,BOL,SA,Bolivia,-16.28835,-63.549429,107,6,0,101,0,0,False,False
+2020-03-31,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,353,8,,345,,,False,False
 2020-03-31,BRA,SA,Brazil,-14.242914,-53.189267,4579,159,0,4420,0,0,False,False
 2020-03-31,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
 2020-03-31,BGR,EU,Bulgaria,42.729862,25.491667,401,8,0,393,0,0,True,True
@@ -3921,6 +3940,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,BMU,NA,Bermuda,32.320236,-64.774022,32,0,0,32,0,0,False,False
 2020-04-01,BTN,AS,Bhutan,27.515709,90.442455,4,0,0,4,0,0,False,False
 2020-04-01,BOL,SA,Bolivia,-16.28835,-63.549429,115,7,0,108,0,0,False,False
+2020-04-01,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,413,12,,401,,,False,False
 2020-04-01,BWA,AF,Botswana,-22.34403,24.680158,3,0,0,3,0,0,False,False
 2020-04-01,BRA,SA,Brazil,-14.242914,-53.189267,5717,201,0,5516,0,0,False,False
 2020-04-01,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -4108,6 +4128,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-02,BOL,SA,Bolivia,-16.28835,-63.549429,123,8,0,115,0,0,False,False
 2020-04-02,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-02,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,464,13,,451,,,False,False
 2020-04-02,BWA,AF,Botswana,-22.34403,24.680158,4,1,0,3,0,0,False,False
 2020-04-02,BRA,SA,Brazil,-14.242914,-53.189267,6836,241,0,6595,0,0,False,False
 2020-04-02,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -4294,6 +4315,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-03,BOL,SA,Bolivia,-16.28835,-63.549429,132,9,0,123,0,0,False,False
 2020-04-03,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-03,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,532,17,,515,,,False,False
 2020-04-03,BWA,AF,Botswana,-22.34403,24.680158,4,1,0,3,0,0,False,False
 2020-04-03,BRA,SA,Brazil,-14.242914,-53.189267,7910,299,0,7611,0,0,False,False
 2020-04-03,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -4481,6 +4503,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-04,BOL,SA,Bolivia,-16.28835,-63.549429,139,10,0,129,0,0,False,False
 2020-04-04,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-04,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,586,18,,568,,,False,False
 2020-04-04,BWA,AF,Botswana,-22.34403,24.680158,4,1,0,3,0,0,False,False
 2020-04-04,BRA,SA,Brazil,-14.242914,-53.189267,9056,359,0,8697,0,0,False,False
 2020-04-04,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -4667,6 +4690,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-05,BOL,SA,Bolivia,-16.28835,-63.549429,157,10,0,147,0,0,False,False
 2020-04-05,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-05,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,632,21,,611,,,False,False
 2020-04-05,BWA,AF,Botswana,-22.34403,24.680158,4,1,0,3,0,0,False,False
 2020-04-05,BRA,SA,Brazil,-14.242914,-53.189267,10278,432,0,9846,0,0,False,False
 2020-04-05,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -4853,6 +4877,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-06,BOL,SA,Bolivia,-16.28835,-63.549429,183,11,0,172,0,0,False,False
 2020-04-06,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-06,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,663,24,,639,,,False,False
 2020-04-06,BWA,AF,Botswana,-22.34403,24.680158,6,1,0,5,0,0,False,False
 2020-04-06,BRA,SA,Brazil,-14.242914,-53.189267,11130,486,0,10644,0,0,False,False
 2020-04-06,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5042,6 +5067,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-07,BOL,SA,Bolivia,-16.28835,-63.549429,194,14,0,180,0,0,False,False
 2020-04-07,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-07,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,695,28,,667,,,False,False
 2020-04-07,BWA,AF,Botswana,-22.34403,24.680158,7,1,0,6,0,0,False,False
 2020-04-07,BRA,SA,Brazil,-14.242914,-53.189267,12056,553,0,11503,0,0,False,False
 2020-04-07,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5231,6 +5257,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-08,BOL,SA,Bolivia,-16.28835,-63.549429,210,15,0,195,0,0,False,False
 2020-04-08,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-08,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,781,32,,749,,,False,False
 2020-04-08,BWA,AF,Botswana,-22.34403,24.680158,7,1,0,6,0,0,False,False
 2020-04-08,BRA,SA,Brazil,-14.242914,-53.189267,13717,667,0,13050,0,0,False,False
 2020-04-08,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5420,6 +5447,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-09,BOL,SA,Bolivia,-16.28835,-63.549429,264,18,0,246,0,0,False,False
 2020-04-09,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-09,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,816,35,,781,,,False,False
 2020-04-09,BWA,AF,Botswana,-22.34403,24.680158,7,1,0,6,0,0,False,False
 2020-04-09,BRA,SA,Brazil,-14.242914,-53.189267,15927,800,0,15127,0,0,False,False
 2020-04-09,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5610,6 +5638,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-10,BOL,SA,Bolivia,-16.28835,-63.549429,268,19,0,249,0,0,False,False
 2020-04-10,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-10,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,875,36,,839,,,False,False
 2020-04-10,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-10,BRA,SA,Brazil,-14.242914,-53.189267,17857,941,0,16916,0,0,False,False
 2020-04-10,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5801,6 +5830,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-11,BOL,SA,Bolivia,-16.28835,-63.549429,276,20,0,256,0,0,False,False
 2020-04-11,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,2,0,0,2,0,0,False,False
+2020-04-11,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,901,37,,864,,,False,False
 2020-04-11,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-11,BRA,SA,Brazil,-14.242914,-53.189267,19638,1056,0,18582,0,0,False,False
 2020-04-11,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -5972,6 +6002,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,AUT,EU,Austria,47.697542,13.349319,13945,0,0,13945,748,253,True,True
 2020-04-12,BLR,EU,Belarus,53.711111,27.973847,2226,23,0,2203,0,0,False,False
 2020-04-12,BEL,EU,Belgium,50.499527,4.475402,34319,4620,,29699,5441,1234,True,True
+2020-04-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,948,37,,911,,,False,False
 2020-04-12,BGR,EU,Bulgaria,42.729862,25.491667,669,29,0,640,0,0,True,True
 2020-04-12,CYP,EU,Cyprus,35.167406,33.435499,616,15,0,601,0,0,True,True
 2020-04-12,CZE,EU,Czech Republic,49.800901,15.478153,5905,132,422,5351,0,0,True,True
@@ -6034,6 +6065,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-13,BOL,SA,Bolivia,-16.28835,-63.549429,330,27,0,303,0,0,False,False
 2020-04-13,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,3,0,0,3,0,0,False,False
+2020-04-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1007,38,,969,,,False,False
 2020-04-13,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-13,BRA,SA,Brazil,-14.242914,-53.189267,22169,1223,0,20946,0,0,False,False
 2020-04-13,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -6223,6 +6255,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-14,BOL,SA,Bolivia,-16.28835,-63.549429,354,28,0,326,0,0,False,False
 2020-04-14,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-14,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1028,38,,990,,,False,False
 2020-04-14,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-14,BRA,SA,Brazil,-14.242914,-53.189267,23430,1328,0,22102,0,0,False,False
 2020-04-14,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -6412,6 +6445,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-15,BOL,SA,Bolivia,-16.28835,-63.549429,397,28,0,369,0,0,False,False
 2020-04-15,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-15,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1073,39,,1034,,,False,False
 2020-04-15,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-15,BRA,SA,Brazil,-14.242914,-53.189267,25262,1532,0,23730,0,0,False,False
 2020-04-15,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -6597,6 +6631,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-16,BOL,SA,Bolivia,-16.28835,-63.549429,441,29,0,412,0,0,False,False
 2020-04-16,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1100,40,,1060,,,False,False
 2020-04-16,BWA,AF,Botswana,-22.34403,24.680158,13,1,0,12,0,0,False,False
 2020-04-16,BRA,SA,Brazil,-14.242914,-53.189267,28320,1736,0,26584,0,0,False,False
 2020-04-16,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -6786,6 +6821,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-17,BOL,SA,Bolivia,-16.28835,-63.549429,465,31,0,434,0,0,False,False
 2020-04-17,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-17,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1152,41,,1111,,,False,False
 2020-04-17,BWA,AF,Botswana,-22.34403,24.680158,15,1,0,14,0,0,False,False
 2020-04-17,BRA,SA,Brazil,-14.242914,-53.189267,30425,1924,0,28501,0,0,False,False
 2020-04-17,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -6976,6 +7012,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-18,BOL,SA,Bolivia,-16.28835,-63.549429,493,31,0,462,0,0,False,False
 2020-04-18,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-18,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1210,44,,1166,,,False,False
 2020-04-18,BWA,AF,Botswana,-22.34403,24.680158,15,1,0,14,0,0,False,False
 2020-04-18,BRA,SA,Brazil,-14.242914,-53.189267,33682,2141,0,31541,0,0,False,False
 2020-04-18,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -7167,6 +7204,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-19,BOL,SA,Bolivia,-16.28835,-63.549429,520,32,0,488,0,0,False,False
 2020-04-19,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,4,0,0,4,0,0,False,False
+2020-04-19,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1254,45,,1209,,,False,False
 2020-04-19,BWA,AF,Botswana,-22.34403,24.680158,15,1,0,14,0,0,False,False
 2020-04-19,BRA,SA,Brazil,-14.242914,-53.189267,36599,2347,0,34252,0,0,False,False
 2020-04-19,VGB,NA,British Virgin Islands,18.573601,-64.492065,3,0,0,3,0,0,False,False
@@ -7358,6 +7396,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,BTN,AS,Bhutan,27.515709,90.442455,5,0,0,5,0,0,False,False
 2020-04-20,BOL,SA,Bolivia,-16.28835,-63.549429,564,33,0,531,0,0,False,False
 2020-04-20,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,5,0,0,5,0,0,False,False
+2020-04-20,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1269,46,,1223,,,False,False
 2020-04-20,BWA,AF,Botswana,-22.34403,24.680158,20,1,0,19,0,0,False,False
 2020-04-20,BRA,SA,Brazil,-14.242914,-53.189267,38654,2462,0,36192,0,0,False,False
 2020-04-20,VGB,NA,British Virgin Islands,18.573601,-64.492065,4,1,0,3,0,0,False,False
@@ -7549,6 +7588,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,BTN,AS,Bhutan,27.515709,90.442455,6,0,0,6,0,0,False,False
 2020-04-21,BOL,SA,Bolivia,-16.28835,-63.549429,598,34,0,564,0,0,False,False
 2020-04-21,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,5,0,0,5,0,0,False,False
+2020-04-21,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1300,48,,1252,,,False,False
 2020-04-21,BWA,AF,Botswana,-22.34403,24.680158,20,1,0,19,0,0,False,False
 2020-04-21,BRA,SA,Brazil,-14.242914,-53.189267,40581,2575,0,38006,0,0,False,False
 2020-04-21,VGB,NA,British Virgin Islands,18.573601,-64.492065,5,1,0,4,0,0,False,False
@@ -7739,6 +7779,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,BTN,AS,Bhutan,27.515709,90.442455,6,0,0,6,0,0,False,False
 2020-04-22,BOL,SA,Bolivia,-16.28835,-63.549429,609,37,0,572,0,0,False,False
 2020-04-22,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1340,50,,1290,,,False,False
 2020-04-22,BWA,AF,Botswana,-22.34403,24.680158,20,1,0,19,0,0,False,False
 2020-04-22,BRA,SA,Brazil,-14.242914,-53.189267,43079,2741,0,40338,0,0,False,False
 2020-04-22,VGB,NA,British Virgin Islands,18.573601,-64.492065,5,1,0,4,0,0,False,False
@@ -7930,6 +7971,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-23,BOL,SA,Bolivia,-16.28835,-63.549429,672,40,0,632,0,0,False,False
 2020-04-23,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-23,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1367,52,,1315,,,False,False
 2020-04-23,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-23,BRA,SA,Brazil,-14.242914,-53.189267,45757,2906,0,42851,0,0,False,False
 2020-04-23,VGB,NA,British Virgin Islands,18.573601,-64.492065,5,1,0,4,0,0,False,False
@@ -8119,6 +8161,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-24,BOL,SA,Bolivia,-16.28835,-63.549429,703,43,0,660,0,0,False,False
 2020-04-24,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-24,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1413,53,,1360,,,False,False
 2020-04-24,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-24,BRA,SA,Brazil,-14.242914,-53.189267,49492,3313,0,46179,0,0,False,False
 2020-04-24,VGB,NA,British Virgin Islands,18.573601,-64.492065,5,1,0,4,0,0,False,False
@@ -8310,6 +8353,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-25,BOL,SA,Bolivia,-16.28835,-63.549429,807,44,0,763,0,0,False,False
 2020-04-25,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-25,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1420,54,,1366,,,False,False
 2020-04-25,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-25,BRA,SA,Brazil,-14.242914,-53.189267,52995,3670,0,49325,0,0,False,False
 2020-04-25,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -8500,6 +8544,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-26,BOL,SA,Bolivia,-16.28835,-63.549429,866,46,0,820,0,0,False,False
 2020-04-26,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-26,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1485,56,,1429,,,False,False
 2020-04-26,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-26,BRA,SA,Brazil,-14.242914,-53.189267,58509,4016,0,54493,0,0,False,False
 2020-04-26,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -8692,6 +8737,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-27,BOL,SA,Bolivia,-16.28835,-63.549429,950,50,0,900,0,0,False,False
 2020-04-27,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1516,58,,1458,,,False,False
 2020-04-27,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-27,BRA,SA,Brazil,-14.242914,-53.189267,61888,4205,0,57683,0,0,False,False
 2020-04-27,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -8884,6 +8930,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-28,BOL,SA,Bolivia,-16.28835,-63.549429,1014,53,0,961,0,0,False,False
 2020-04-28,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-28,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1564,60,,1504,,,False,False
 2020-04-28,BWA,AF,Botswana,-22.34403,24.680158,22,1,0,21,0,0,False,False
 2020-04-28,BRA,SA,Brazil,-14.242914,-53.189267,66501,4543,0,61958,0,0,False,False
 2020-04-28,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -9075,6 +9122,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-29,BOL,SA,Bolivia,-16.28835,-63.549429,1053,55,0,998,0,0,False,False
 2020-04-29,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-29,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1588,62,,1526,,,False,False
 2020-04-29,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-04-29,BRA,SA,Brazil,-14.242914,-53.189267,71886,5017,0,66869,0,0,False,False
 2020-04-29,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -9267,6 +9315,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-04-30,BOL,SA,Bolivia,-16.28835,-63.549429,1110,59,0,1051,0,0,False,False
 2020-04-30,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-04-30,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1689,64,,1625,,,False,False
 2020-04-30,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-04-30,BRA,SA,Brazil,-14.242914,-53.189267,78162,5466,0,72696,0,0,False,False
 2020-04-30,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -9459,6 +9508,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-01,BOL,SA,Bolivia,-16.28835,-63.549429,1167,62,0,1105,0,0,False,False
 2020-05-01,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-01,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1757,68,,1689,,,False,False
 2020-05-01,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-01,BRA,SA,Brazil,-14.242914,-53.189267,85380,5901,0,79479,0,0,False,False
 2020-05-01,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -9651,6 +9701,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-02,BOL,SA,Bolivia,-16.28835,-63.549429,1229,66,0,1163,0,0,False,False
 2020-05-02,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-02,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1782,69,,1713,,,False,False
 2020-05-02,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-02,BRA,SA,Brazil,-14.242914,-53.189267,91589,6329,0,85260,0,0,False,False
 2020-05-02,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -9844,6 +9895,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-03,BOL,SA,Bolivia,-16.28835,-63.549429,1470,71,0,1399,0,0,False,False
 2020-05-03,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-03,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1840,71,,1769,,,False,False
 2020-05-03,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-03,BRA,SA,Brazil,-14.242914,-53.189267,96559,6750,0,89809,0,0,False,False
 2020-05-03,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -10037,6 +10089,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-04,BOL,SA,Bolivia,-16.28835,-63.549429,1594,76,0,1518,0,0,False,False
 2020-05-04,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-04,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1857,76,,1781,,,False,False
 2020-05-04,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-04,BRA,SA,Brazil,-14.242914,-53.189267,101147,7025,0,94122,0,0,False,False
 2020-05-04,VGB,NA,British Virgin Islands,18.573601,-64.492065,6,1,0,5,0,0,False,False
@@ -10231,6 +10284,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-05,BOL,SA,Bolivia,-16.28835,-63.549429,1681,82,0,1599,0,0,False,False
 2020-05-05,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-05,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1926,77,,1849,,,False,False
 2020-05-05,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-05,BRA,SA,Brazil,-14.242914,-53.189267,107780,7321,0,100459,0,0,False,False
 2020-05-05,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -10425,6 +10479,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-06,BOL,SA,Bolivia,-16.28835,-63.549429,1802,86,0,1716,0,0,False,False
 2020-05-06,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-06,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1946,78,,1868,,,False,False
 2020-05-06,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-06,BRA,SA,Brazil,-14.242914,-53.189267,114715,7921,0,106794,0,0,False,False
 2020-05-06,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -10619,6 +10674,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-07,BOL,SA,Bolivia,-16.28835,-63.549429,1886,91,0,1795,0,0,False,False
 2020-05-07,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-07,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,1986,84,,1902,,,False,False
 2020-05-07,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-07,BRA,SA,Brazil,-14.242914,-53.189267,125218,8536,0,116682,0,0,False,False
 2020-05-07,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -10813,6 +10869,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-08,BOL,SA,Bolivia,-16.28835,-63.549429,2081,102,0,1979,0,0,False,False
 2020-05-08,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-08,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2027,90,,1937,,,False,False
 2020-05-08,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-08,BRA,SA,Brazil,-14.242914,-53.189267,135106,9146,0,125960,0,0,False,False
 2020-05-08,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11007,6 +11064,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-09,BOL,SA,Bolivia,-16.28835,-63.549429,2266,106,0,2160,0,0,False,False
 2020-05-09,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-09,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2070,98,,1972,,,False,False
 2020-05-09,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-09,BRA,SA,Brazil,-14.242914,-53.189267,145328,9897,0,135431,0,0,False,False
 2020-05-09,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11200,6 +11258,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,BTN,AS,Bhutan,27.515709,90.442455,7,0,0,7,0,0,False,False
 2020-05-10,BOL,SA,Bolivia,-16.28835,-63.549429,2437,114,0,2323,0,0,False,False
 2020-05-10,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-10,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2092,101,,1991,,,False,False
 2020-05-10,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-10,BRA,SA,Brazil,-14.242914,-53.189267,155939,10627,0,145312,0,0,False,False
 2020-05-10,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11393,6 +11452,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,BTN,AS,Bhutan,27.515709,90.442455,9,0,0,9,0,0,False,False
 2020-05-11,BOL,SA,Bolivia,-16.28835,-63.549429,2556,118,0,2438,0,0,False,False
 2020-05-11,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-11,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2117,107,,2010,,,False,False
 2020-05-11,BWA,AF,Botswana,-22.34403,24.680158,23,1,0,22,0,0,False,False
 2020-05-11,BRA,SA,Brazil,-14.242914,-53.189267,162699,11123,0,151576,0,0,False,False
 2020-05-11,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11585,6 +11645,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,BTN,AS,Bhutan,27.515709,90.442455,11,0,0,11,0,0,False,False
 2020-05-12,BOL,SA,Bolivia,-16.28835,-63.549429,2831,122,0,2709,0,0,False,False
 2020-05-12,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2142,112,,2030,,,False,False
 2020-05-12,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-12,BRA,SA,Brazil,-14.242914,-53.189267,168331,11519,0,156812,0,0,False,False
 2020-05-12,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11767,6 +11828,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,BTN,AS,Bhutan,27.515709,90.442455,11,0,0,11,0,0,False,False
 2020-05-13,BOL,SA,Bolivia,-16.28835,-63.549429,2964,128,0,2836,0,0,False,False
 2020-05-13,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2158,116,,2042,,,False,False
 2020-05-13,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-13,BRA,SA,Brazil,-14.242914,-53.189267,177589,12400,0,165189,0,0,False,False
 2020-05-13,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -11960,6 +12022,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,BTN,AS,Bhutan,27.515709,90.442455,15,0,0,15,0,0,False,False
 2020-05-14,BOL,SA,Bolivia,-16.28835,-63.549429,3148,142,0,3006,0,0,False,False
 2020-05-14,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-14,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2181,120,,2061,,,False,False
 2020-05-14,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-14,BRA,SA,Brazil,-14.242914,-53.189267,188974,13149,0,175825,0,0,False,False
 2020-05-14,VGB,NA,British Virgin Islands,18.573601,-64.492065,7,1,0,6,0,0,False,False
@@ -12152,6 +12215,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,BTN,AS,Bhutan,27.515709,90.442455,20,0,0,20,0,0,False,False
 2020-05-15,BOL,SA,Bolivia,-16.28835,-63.549429,3372,152,0,3220,0,0,False,False
 2020-05-15,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-15,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2216,123,,2093,,,False,False
 2020-05-15,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-15,BRA,SA,Brazil,-14.242914,-53.189267,202918,13993,0,188925,0,0,False,False
 2020-05-15,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -12346,6 +12410,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-16,BOL,SA,Bolivia,-16.28835,-63.549429,3577,164,0,3413,0,0,False,False
 2020-05-16,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2237,127,,2110,,,False,False
 2020-05-16,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-16,BRA,SA,Brazil,-14.242914,-53.189267,218223,14817,0,203406,0,0,False,False
 2020-05-16,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -12539,6 +12604,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-17,BOL,SA,Bolivia,-16.28835,-63.549429,3826,165,0,3661,0,0,False,False
 2020-05-17,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-17,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2267,129,,2138,,,False,False
 2020-05-17,BWA,AF,Botswana,-22.34403,24.680158,24,1,0,23,0,0,False,False
 2020-05-17,BRA,SA,Brazil,-14.242914,-53.189267,233142,15633,0,217509,0,0,False,False
 2020-05-17,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -12733,6 +12799,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-18,BOL,SA,Bolivia,-16.28835,-63.549429,4088,169,0,3919,0,0,False,False
 2020-05-18,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-18,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2289,132,,2157,,,False,False
 2020-05-18,BWA,AF,Botswana,-22.34403,24.680158,25,1,0,24,0,0,False,False
 2020-05-18,BRA,SA,Brazil,-14.242914,-53.189267,241080,16118,0,224962,0,0,False,False
 2020-05-18,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -12928,6 +12995,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-19,BOL,SA,Bolivia,-16.28835,-63.549429,4263,174,0,4089,0,0,False,False
 2020-05-19,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-19,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2303,132,,2171,,,False,False
 2020-05-19,BWA,AF,Botswana,-22.34403,24.680158,25,1,0,24,0,0,False,False
 2020-05-19,BRA,SA,Brazil,-14.242914,-53.189267,254220,16792,0,237428,0,0,False,False
 2020-05-19,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -13122,6 +13190,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-20,BOL,SA,Bolivia,-16.28835,-63.549429,4481,189,0,4292,0,0,False,False
 2020-05-20,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-20,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2319,133,,2186,,,False,False
 2020-05-20,BWA,AF,Botswana,-22.34403,24.680158,25,1,0,24,0,0,False,False
 2020-05-20,BRA,SA,Brazil,-14.242914,-53.189267,271628,17408,0,254220,0,0,False,False
 2020-05-20,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -13317,6 +13386,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-21,BOL,SA,Bolivia,-16.28835,-63.549429,4919,199,0,4720,0,0,False,False
 2020-05-21,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-21,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2334,135,,2199,,,False,False
 2020-05-21,BWA,AF,Botswana,-22.34403,24.680158,29,1,0,28,0,0,False,False
 2020-05-21,BRA,SA,Brazil,-14.242914,-53.189267,291579,18859,0,272720,0,0,False,False
 2020-05-21,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -13510,6 +13580,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,BTN,AS,Bhutan,27.515709,90.442455,21,0,0,21,0,0,False,False
 2020-05-22,BOL,SA,Bolivia,-16.28835,-63.549429,5187,215,0,4972,0,0,False,False
 2020-05-22,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2352,139,,2213,,,False,False
 2020-05-22,BWA,AF,Botswana,-22.34403,24.680158,29,1,0,28,0,0,False,False
 2020-05-22,BRA,SA,Brazil,-14.242914,-53.189267,310087,20047,0,290040,0,0,False,False
 2020-05-22,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -13705,6 +13776,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,BTN,AS,Bhutan,27.515709,90.442455,24,0,0,24,0,0,False,False
 2020-05-23,BOL,SA,Bolivia,-16.28835,-63.549429,5579,230,0,5349,0,0,False,False
 2020-05-23,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-23,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2372,141,,2231,,,False,False
 2020-05-23,BWA,AF,Botswana,-22.34403,24.680158,30,1,0,29,0,0,False,False
 2020-05-23,BRA,SA,Brazil,-14.242914,-53.189267,330890,21048,0,309842,0,0,False,False
 2020-05-23,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -13898,6 +13970,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,BTN,AS,Bhutan,27.515709,90.442455,24,0,0,24,0,0,False,False
 2020-05-24,BOL,SA,Bolivia,-16.28835,-63.549429,5915,240,0,5675,0,0,False,False
 2020-05-24,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,6,0,0,6,0,0,False,False
+2020-05-24,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2391,141,,2250,,,False,False
 2020-05-24,BWA,AF,Botswana,-22.34403,24.680158,30,1,0,29,0,0,False,False
 2020-05-24,BRA,SA,Brazil,-14.242914,-53.189267,347398,22013,0,325385,0,0,False,False
 2020-05-24,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -14091,6 +14164,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,BTN,AS,Bhutan,27.515709,90.442455,27,0,0,27,0,0,False,False
 2020-05-25,BOL,SA,Bolivia,-16.28835,-63.549429,6263,250,0,6013,0,0,False,False
 2020-05-25,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-25,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2400,143,,2257,,,False,False
 2020-05-25,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-25,BRA,SA,Brazil,-14.242914,-53.189267,363211,22666,0,340545,0,0,False,False
 2020-05-25,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -14286,6 +14360,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,BTN,AS,Bhutan,27.515709,90.442455,27,0,0,27,0,0,False,False
 2020-05-26,BOL,SA,Bolivia,-16.28835,-63.549429,6660,261,0,6399,0,0,False,False
 2020-05-26,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-26,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2405,145,,2260,,,False,False
 2020-05-26,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-26,BRA,SA,Brazil,-14.242914,-53.189267,374898,23473,0,351425,0,0,False,False
 2020-05-26,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -14481,6 +14556,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,BTN,AS,Bhutan,27.515709,90.442455,27,0,0,27,0,0,False,False
 2020-05-27,BOL,SA,Bolivia,-16.28835,-63.549429,7136,274,0,6862,0,0,False,False
 2020-05-27,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2415,149,,2266,,,False,False
 2020-05-27,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-27,BRA,SA,Brazil,-14.242914,-53.189267,391222,24512,0,366710,0,0,False,False
 2020-05-27,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -14676,6 +14752,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,BTN,AS,Bhutan,27.515709,90.442455,28,0,0,28,0,0,False,False
 2020-05-28,BOL,SA,Bolivia,-16.28835,-63.549429,7768,280,0,7488,0,0,False,False
 2020-05-28,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-28,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2434,150,,2284,,,False,False
 2020-05-28,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-28,BRA,SA,Brazil,-14.242914,-53.189267,411821,25598,0,386223,0,0,False,False
 2020-05-28,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -14871,6 +14948,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,BTN,AS,Bhutan,27.515709,90.442455,31,0,0,31,0,0,False,False
 2020-05-29,BOL,SA,Bolivia,-16.28835,-63.549429,8387,293,0,8094,0,0,False,False
 2020-05-29,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-29,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2462,152,,2310,,,False,False
 2020-05-29,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-29,BRA,SA,Brazil,-14.242914,-53.189267,438238,26754,0,411484,0,0,False,False
 2020-05-29,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -15066,6 +15144,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,BTN,AS,Bhutan,27.515709,90.442455,33,0,0,33,0,0,False,False
 2020-05-30,BOL,SA,Bolivia,-16.28835,-63.549429,8731,300,0,8431,0,0,False,False
 2020-05-30,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-30,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2484,152,,2332,,,False,False
 2020-05-30,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-30,BRA,SA,Brazil,-14.242914,-53.189267,465166,27878,0,437288,0,0,False,False
 2020-05-30,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -15259,6 +15338,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,BTN,AS,Bhutan,27.515709,90.442455,43,0,0,43,0,0,False,False
 2020-05-31,BOL,SA,Bolivia,-16.28835,-63.549429,9592,310,0,9282,0,0,False,False
 2020-05-31,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-05-31,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2493,152,,2341,,,False,False
 2020-05-31,BWA,AF,Botswana,-22.34403,24.680158,35,1,0,34,0,0,False,False
 2020-05-31,BRA,SA,Brazil,-14.242914,-53.189267,498440,28834,0,469606,0,0,False,False
 2020-05-31,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -15452,6 +15532,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,BTN,AS,Bhutan,27.515709,90.442455,43,0,0,43,0,0,False,False
 2020-06-01,BOL,SA,Bolivia,-16.28835,-63.549429,9982,313,0,9669,0,0,False,False
 2020-06-01,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-01,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2509,152,,2357,,,False,False
 2020-06-01,BWA,AF,Botswana,-22.34403,24.680158,38,1,0,37,0,0,False,False
 2020-06-01,BRA,SA,Brazil,-14.242914,-53.189267,514849,29314,0,485535,0,0,False,False
 2020-06-01,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -15644,6 +15725,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,BTN,AS,Bhutan,27.515709,90.442455,47,0,0,47,0,0,False,False
 2020-06-02,BOL,SA,Bolivia,-16.28835,-63.549429,10531,343,0,10188,0,0,False,False
 2020-06-02,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-02,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2523,153,,2370,,,False,False
 2020-06-02,BWA,AF,Botswana,-22.34403,24.680158,38,1,0,37,0,0,False,False
 2020-06-02,BRA,SA,Brazil,-14.242914,-53.189267,526447,29937,0,496510,0,0,False,False
 2020-06-02,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -15838,6 +15920,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,BTN,AS,Bhutan,27.515709,90.442455,47,0,0,47,0,0,False,False
 2020-06-03,BOL,SA,Bolivia,-16.28835,-63.549429,10991,376,0,10615,0,0,False,False
 2020-06-03,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-03,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2534,156,,2378,,,False,False
 2020-06-03,BWA,AF,Botswana,-22.34403,24.680158,38,1,0,37,0,0,False,False
 2020-06-03,BRA,SA,Brazil,-14.242914,-53.189267,555383,31199,0,524184,0,0,False,False
 2020-06-03,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -16033,6 +16116,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,BTN,AS,Bhutan,27.515709,90.442455,47,0,0,47,0,0,False,False
 2020-06-04,BOL,SA,Bolivia,-16.28835,-63.549429,11638,400,0,11238,0,0,False,False
 2020-06-04,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-04,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2550,156,,2394,,,False,False
 2020-06-04,BWA,AF,Botswana,-22.34403,24.680158,40,1,0,39,0,0,False,False
 2020-06-04,BRA,SA,Brazil,-14.242914,-53.189267,584016,32548,0,551468,0,0,False,False
 2020-06-04,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -16227,6 +16311,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,BTN,AS,Bhutan,27.515709,90.442455,48,0,0,48,0,0,False,False
 2020-06-05,BOL,SA,Bolivia,-16.28835,-63.549429,12245,415,0,11830,0,0,False,False
 2020-06-05,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-05,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2593,158,,2435,,,False,False
 2020-06-05,BWA,AF,Botswana,-22.34403,24.680158,40,1,0,39,0,0,False,False
 2020-06-05,BRA,SA,Brazil,-14.242914,-53.189267,614941,34021,0,580920,0,0,False,False
 2020-06-05,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -16421,6 +16506,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,BTN,AS,Bhutan,27.515709,90.442455,48,0,0,48,0,0,False,False
 2020-06-06,BOL,SA,Bolivia,-16.28835,-63.549429,12728,427,0,12301,0,0,False,False
 2020-06-06,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-06,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2605,158,,2447,,,False,False
 2020-06-06,BWA,AF,Botswana,-22.34403,24.680158,40,1,0,39,0,0,False,False
 2020-06-06,BRA,SA,Brazil,-14.242914,-53.189267,614941,34021,0,580920,0,0,False,False
 2020-06-06,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -16613,6 +16699,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,BTN,AS,Bhutan,27.515709,90.442455,48,0,0,48,0,0,False,False
 2020-06-07,BOL,SA,Bolivia,-16.28835,-63.549429,13358,454,0,12904,0,0,False,False
 2020-06-07,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-07,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2636,158,,2478,,,False,False
 2020-06-07,BWA,AF,Botswana,-22.34403,24.680158,40,1,0,39,0,0,False,False
 2020-06-07,BRA,SA,Brazil,-14.242914,-53.189267,645771,35026,0,610745,0,0,False,False
 2020-06-07,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -16806,6 +16893,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,BTN,AS,Bhutan,27.515709,90.442455,59,0,0,59,0,0,False,False
 2020-06-08,BOL,SA,Bolivia,-16.28835,-63.549429,13643,465,0,13178,0,0,False,False
 2020-06-08,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-08,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2673,159,,2514,,,False,False
 2020-06-08,BWA,AF,Botswana,-22.34403,24.680158,40,1,0,39,0,0,False,False
 2020-06-08,BRA,SA,Brazil,-14.242914,-53.189267,672846,35930,0,636916,0,0,False,False
 2020-06-08,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17000,6 +17088,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,BTN,AS,Bhutan,27.515709,90.442455,59,0,0,59,0,0,False,False
 2020-06-09,BOL,SA,Bolivia,-16.28835,-63.549429,13949,475,0,13474,0,0,False,False
 2020-06-09,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-09,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2703,159,,2544,,,False,False
 2020-06-09,BWA,AF,Botswana,-22.34403,24.680158,42,1,0,41,0,0,False,False
 2020-06-09,BRA,SA,Brazil,-14.242914,-53.189267,691758,36455,0,655303,0,0,False,False
 2020-06-09,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17194,6 +17283,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,BTN,AS,Bhutan,27.515709,90.442455,59,0,0,59,0,0,False,False
 2020-06-10,BOL,SA,Bolivia,-16.28835,-63.549429,14644,487,0,14157,0,0,False,False
 2020-06-10,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-10,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2727,159,,2568,,,False,False
 2020-06-10,BWA,AF,Botswana,-22.34403,24.680158,42,1,0,41,0,0,False,False
 2020-06-10,BRA,SA,Brazil,-14.242914,-53.189267,739503,38406,0,701097,0,0,False,False
 2020-06-10,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17388,6 +17478,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,BTN,AS,Bhutan,27.515709,90.442455,62,0,0,62,0,0,False,False
 2020-06-11,BOL,SA,Bolivia,-16.28835,-63.549429,15281,512,0,14769,0,0,False,False
 2020-06-11,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-11,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2776,160,,2616,,,False,False
 2020-06-11,BWA,AF,Botswana,-22.34403,24.680158,48,1,0,47,0,0,False,False
 2020-06-11,BRA,SA,Brazil,-14.242914,-53.189267,772416,39680,0,732736,0,0,False,False
 2020-06-11,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17580,6 +17671,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,BTN,AS,Bhutan,27.515709,90.442455,62,0,0,62,0,0,False,False
 2020-06-12,BOL,SA,Bolivia,-16.28835,-63.549429,16165,533,0,15632,0,0,False,False
 2020-06-12,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2831,160,,2671,,,False,False
 2020-06-12,BWA,AF,Botswana,-22.34403,24.680158,48,1,0,47,0,0,False,False
 2020-06-12,BRA,SA,Brazil,-14.242914,-53.189267,802828,40919,0,761909,0,0,False,False
 2020-06-12,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17774,6 +17866,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,BTN,AS,Bhutan,27.515709,90.442455,62,0,0,62,0,0,False,False
 2020-06-13,BOL,SA,Bolivia,-16.28835,-63.549429,16929,559,0,16370,0,0,False,False
 2020-06-13,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2892,162,,2730,,,False,False
 2020-06-13,BWA,AF,Botswana,-22.34403,24.680158,60,1,0,59,0,0,False,False
 2020-06-13,BRA,SA,Brazil,-14.242914,-53.189267,828810,41828,0,786982,0,0,False,False
 2020-06-13,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -17966,6 +18059,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,BTN,AS,Bhutan,27.515709,90.442455,66,0,0,66,0,0,False,False
 2020-06-14,BOL,SA,Bolivia,-16.28835,-63.549429,17842,585,0,17257,0,0,False,False
 2020-06-14,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-14,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,2940,163,,2777,,,False,False
 2020-06-14,BWA,AF,Botswana,-22.34403,24.680158,60,1,0,59,0,0,False,False
 2020-06-14,BRA,SA,Brazil,-14.242914,-53.189267,850514,42720,0,807794,0,0,False,False
 2020-06-14,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -18160,6 +18254,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,BTN,AS,Bhutan,27.515709,90.442455,66,0,0,66,0,0,False,False
 2020-06-15,BOL,SA,Bolivia,-16.28835,-63.549429,18459,611,0,17848,0,0,False,False
 2020-06-15,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,0,7,0,0,False,False
+2020-06-15,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3001,163,,2838,,,False,False
 2020-06-15,BWA,AF,Botswana,-22.34403,24.680158,60,1,0,59,0,0,False,False
 2020-06-15,BRA,SA,Brazil,-14.242914,-53.189267,867624,43332,0,824292,0,0,False,False
 2020-06-15,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,0,7,0,0,False,False
@@ -18354,6 +18449,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,BTN,AS,Bhutan,27.515709,90.442455,67,0,,67,,,False,False
 2020-06-16,BOL,SA,Bolivia,-16.28835,-63.549429,19073,632,,18441,,,False,False
 2020-06-16,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3039,164,,2875,,,False,False
 2020-06-16,BWA,AF,Botswana,-22.34403,24.680158,60,1,,59,,,False,False
 2020-06-16,BRA,SA,Brazil,-14.242914,-53.189267,888271,43959,,844312,,,False,False
 2020-06-16,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -18546,6 +18642,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,BTN,AS,Bhutan,27.515709,90.442455,67,0,,67,,,False,False
 2020-06-17,BOL,SA,Bolivia,-16.28835,-63.549429,19883,659,,19224,,,False,False
 2020-06-17,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-17,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3084,167,,2917,,,False,False
 2020-06-17,BWA,AF,Botswana,-22.34403,24.680158,60,1,,59,,,False,False
 2020-06-17,BRA,SA,Brazil,-14.242914,-53.189267,923189,45241,,877948,,,False,False
 2020-06-17,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -18741,6 +18838,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,BTN,AS,Bhutan,27.515709,90.442455,67,0,,67,,,False,False
 2020-06-18,BOL,SA,Bolivia,-16.28835,-63.549429,20685,679,,20006,,,False,False
 2020-06-18,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-18,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3144,167,,2977,,,False,False
 2020-06-18,BWA,AF,Botswana,-22.34403,24.680158,60,1,,59,,,False,False
 2020-06-18,BRA,SA,Brazil,-14.242914,-53.189267,955377,46510,,908867,,,False,False
 2020-06-18,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -18935,6 +19033,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,BTN,AS,Bhutan,27.515709,90.442455,67,0,,67,,,False,False
 2020-06-19,BOL,SA,Bolivia,-16.28835,-63.549429,21499,697,,20802,,,False,False
 2020-06-19,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-19,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3202,167,,3035,,,False,False
 2020-06-19,BWA,AF,Botswana,-22.34403,24.680158,79,1,,78,,,False,False
 2020-06-19,BRA,SA,Brazil,-14.242914,-53.189267,978142,47748,,930394,,,False,False
 2020-06-19,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -19128,6 +19227,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,BTN,AS,Bhutan,27.515709,90.442455,68,0,,68,,,False,False
 2020-06-20,BOL,SA,Bolivia,-16.28835,-63.549429,22476,715,,21761,,,False,False
 2020-06-20,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-20,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3288,168,,3120,,,False,False
 2020-06-20,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-20,BRA,SA,Brazil,-14.242914,-53.189267,1032913,48954,,983959,,,False,False
 2020-06-20,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -19317,6 +19417,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,BTN,AS,Bhutan,27.515709,90.442455,68,0,,68,,,False,False
 2020-06-21,BOL,SA,Bolivia,-16.28835,-63.549429,23512,740,,22772,,,False,False
 2020-06-21,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-21,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3354,169,,3185,,,False,False
 2020-06-21,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-21,BRA,SA,Brazil,-14.242914,-53.189267,1067579,49976,,1017603,,,False,False
 2020-06-21,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -19497,6 +19598,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,BTN,AS,Bhutan,27.515709,90.442455,68,0,,68,,,False,False
 2020-06-22,BOL,SA,Bolivia,-16.28835,-63.549429,24388,773,,23615,,,False,False
 2020-06-22,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3431,169,,3262,,,False,False
 2020-06-22,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-22,BRA,SA,Brazil,-14.242914,-53.189267,1085038,50617,,1034421,,,False,False
 2020-06-22,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -19691,6 +19793,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,BTN,AS,Bhutan,27.515709,90.442455,69,0,,69,,,False,False
 2020-06-23,BOL,SA,Bolivia,-16.28835,-63.549429,25493,820,,24673,,,False,False
 2020-06-23,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-23,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3524,170,,3354,,,False,False
 2020-06-23,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-23,BRA,SA,Brazil,-14.242914,-53.189267,1106470,51271,,1055199,,,False,False
 2020-06-23,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -19886,6 +19989,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,BTN,AS,Bhutan,27.515709,90.442455,70,0,,70,,,False,False
 2020-06-24,BOL,SA,Bolivia,-16.28835,-63.549429,26389,846,,25543,,,False,False
 2020-06-24,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-24,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3587,171,,3416,,,False,False
 2020-06-24,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-24,BRA,SA,Brazil,-14.242914,-53.189267,1145906,52645,,1093261,,,False,False
 2020-06-24,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -20081,6 +20185,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,BTN,AS,Bhutan,27.515709,90.442455,70,0,,70,,,False,False
 2020-06-25,BOL,SA,Bolivia,-16.28835,-63.549429,27487,876,,26611,,,False,False
 2020-06-25,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-25,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3675,172,,3503,,,False,False
 2020-06-25,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-25,BRA,SA,Brazil,-14.242914,-53.189267,1188631,53830,,1134801,,,False,False
 2020-06-25,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -20275,6 +20380,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,BTN,AS,Bhutan,27.515709,90.442455,70,0,,70,,,False,False
 2020-06-26,BOL,SA,Bolivia,-16.28835,-63.549429,28503,913,,27590,,,False,False
 2020-06-26,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-26,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3794,174,,3620,,,False,False
 2020-06-26,BWA,AF,Botswana,-22.34403,24.680158,89,1,,88,,,False,False
 2020-06-26,BRA,SA,Brazil,-14.242914,-53.189267,1228114,54971,,1173143,,,False,False
 2020-06-26,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -20469,6 +20575,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,BTN,AS,Bhutan,27.515709,90.442455,75,0,,75,,,False,False
 2020-06-27,BOL,SA,Bolivia,-16.28835,-63.549429,29423,934,,28489,,,False,False
 2020-06-27,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,3934,177,,3757,,,False,False
 2020-06-27,BWA,AF,Botswana,-22.34403,24.680158,125,1,,124,,,False,False
 2020-06-27,BRA,SA,Brazil,-14.242914,-53.189267,1274974,55961,,1219013,,,False,False
 2020-06-27,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -20660,6 +20767,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,BTN,AS,Bhutan,27.515709,90.442455,76,0,,76,,,False,False
 2020-06-28,BOL,SA,Bolivia,-16.28835,-63.549429,30676,970,,29706,,,False,False
 2020-06-28,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-28,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4107,179,,3928,,,False,False
 2020-06-28,BWA,AF,Botswana,-22.34403,24.680158,125,1,,124,,,False,False
 2020-06-28,BRA,SA,Brazil,-14.242914,-53.189267,1313667,57070,,1256597,,,False,False
 2020-06-28,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -20852,6 +20960,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,BTN,AS,Bhutan,27.515709,90.442455,76,0,,76,,,False,False
 2020-06-29,BOL,SA,Bolivia,-16.28835,-63.549429,31524,1014,,30510,,,False,False
 2020-06-29,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-29,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4215,182,,4033,,,False,False
 2020-06-29,BWA,AF,Botswana,-22.34403,24.680158,125,1,,124,,,False,False
 2020-06-29,BRA,SA,Brazil,-14.242914,-53.189267,1344143,57622,,1286521,,,False,False
 2020-06-29,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -21046,6 +21155,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,BTN,AS,Bhutan,27.515709,90.442455,77,0,,77,,,False,False
 2020-06-30,BOL,SA,Bolivia,-16.28835,-63.549429,32125,1071,,31054,,,False,False
 2020-06-30,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-06-30,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4343,183,,4160,,,False,False
 2020-06-30,BWA,AF,Botswana,-22.34403,24.680158,175,1,,174,,,False,False
 2020-06-30,BRA,SA,Brazil,-14.242914,-53.189267,1368195,58314,,1309881,,,False,False
 2020-06-30,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -21241,6 +21351,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,BTN,AS,Bhutan,27.515709,90.442455,77,0,,77,,,False,False
 2020-07-01,BOL,SA,Bolivia,-16.28835,-63.549429,33219,1123,,32096,,,False,False
 2020-07-01,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-01,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4453,185,,4268,,,False,False
 2020-07-01,BWA,AF,Botswana,-22.34403,24.680158,227,1,,226,,,False,False
 2020-07-01,BRA,SA,Brazil,-14.242914,-53.189267,1402041,59594,,1342447,,,False,False
 2020-07-01,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -21435,6 +21546,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,BTN,AS,Bhutan,27.515709,90.442455,77,0,,77,,,False,False
 2020-07-02,BOL,SA,Bolivia,-16.28835,-63.549429,34227,1201,,33026,,,False,False
 2020-07-02,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-02,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4606,187,,4419,,,False,False
 2020-07-02,BWA,AF,Botswana,-22.34403,24.680158,227,1,,226,,,False,False
 2020-07-02,BRA,SA,Brazil,-14.242914,-53.189267,1448753,60632,,1388121,,,False,False
 2020-07-02,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -21628,6 +21740,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-03,BTN,AS,Bhutan,27.515709,90.442455,77,0,,77,,,False,False
 2020-07-03,BOL,SA,Bolivia,-16.28835,-63.549429,35528,1271,,34257,,,False,False
 2020-07-03,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-03,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4788,188,,4600,,,False,False
 2020-07-03,BWA,AF,Botswana,-22.34403,24.680158,227,1,,226,,,False,False
 2020-07-03,BRA,SA,Brazil,-14.242914,-53.189267,1496858,61884,,1434974,,,False,False
 2020-07-03,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -21821,6 +21934,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-04,BTN,AS,Bhutan,27.515709,90.442455,78,0,,78,,,False,False
 2020-07-04,BOL,SA,Bolivia,-16.28835,-63.549429,36818,1320,,35498,,,False,False
 2020-07-04,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-04,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,4960,190,,4770,,,False,False
 2020-07-04,BWA,AF,Botswana,-22.34403,24.680158,277,1,,276,,,False,False
 2020-07-04,BRA,SA,Brazil,-14.242914,-53.189267,1539081,63174,,1475907,,,False,False
 2020-07-04,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22009,6 +22123,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-05,BTN,AS,Bhutan,27.515709,90.442455,78,0,,78,,,False,False
 2020-07-05,BOL,SA,Bolivia,-16.28835,-63.549429,38071,1378,,36693,,,False,False
 2020-07-05,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-05,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5249,190,,5059,,,False,False
 2020-07-05,BWA,AF,Botswana,-22.34403,24.680158,275,1,,274,,,False,False
 2020-07-05,BRA,SA,Brazil,-14.242914,-53.189267,1577004,64265,,1512739,,,False,False
 2020-07-05,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22198,6 +22313,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-06,BTN,AS,Bhutan,27.515709,90.442455,80,0,,80,,,False,False
 2020-07-06,BOL,SA,Bolivia,-16.28835,-63.549429,39297,1434,,37863,,,False,False
 2020-07-06,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-06,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5393,193,,5200,,,False,False
 2020-07-06,BWA,AF,Botswana,-22.34403,24.680158,275,1,,274,,,False,False
 2020-07-06,BRA,SA,Brazil,-14.242914,-53.189267,1603055,64867,,1538188,,,False,False
 2020-07-06,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22392,6 +22508,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,BTN,AS,Bhutan,27.515709,90.442455,80,0,,80,,,False,False
 2020-07-07,BOL,SA,Bolivia,-16.28835,-63.549429,40509,1476,,39033,,,False,False
 2020-07-07,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-07,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5457,196,,5261,,,False,False
 2020-07-07,BWA,AF,Botswana,-22.34403,24.680158,275,1,,274,,,False,False
 2020-07-07,BRA,SA,Brazil,-14.242914,-53.189267,1623284,65487,,1557797,,,False,False
 2020-07-07,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22587,6 +22704,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,BTN,AS,Bhutan,27.515709,90.442455,80,0,,80,,,False,False
 2020-07-08,BOL,SA,Bolivia,-16.28835,-63.549429,41545,1530,,40015,,,False,False
 2020-07-08,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-08,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5618,206,,5412,,,False,False
 2020-07-08,BWA,AF,Botswana,-22.34403,24.680158,314,1,,313,,,False,False
 2020-07-08,BRA,SA,Brazil,-14.242914,-53.189267,1668589,66741,,1601848,,,False,False
 2020-07-08,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22781,6 +22899,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,BTN,AS,Bhutan,27.515709,90.442455,80,0,,80,,,False,False
 2020-07-09,BOL,SA,Bolivia,-16.28835,-63.549429,42984,1577,,41407,,,False,False
 2020-07-09,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-09,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,5868,207,,5661,,,False,False
 2020-07-09,BWA,AF,Botswana,-22.34403,24.680158,314,1,,313,,,False,False
 2020-07-09,BRA,SA,Brazil,-14.242914,-53.189267,1713160,67964,,1645196,,,False,False
 2020-07-09,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -22976,6 +23095,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,BTN,AS,Bhutan,27.515709,90.442455,80,0,,80,,,False,False
 2020-07-10,BOL,SA,Bolivia,-16.28835,-63.549429,44113,1638,,42475,,,False,False
 2020-07-10,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-10,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,6087,213,,5874,,,False,False
 2020-07-10,BWA,AF,Botswana,-22.34403,24.680158,314,1,,313,,,False,False
 2020-07-10,BRA,SA,Brazil,-14.242914,-53.189267,1755779,69184,,1686595,,,False,False
 2020-07-10,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -23171,6 +23291,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,BTN,AS,Bhutan,27.515709,90.442455,82,0,,82,,,False,False
 2020-07-11,BOL,SA,Bolivia,-16.28835,-63.549429,45565,1702,,43863,,,False,False
 2020-07-11,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-11,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,6402,215,,6187,,,False,False
 2020-07-11,BWA,AF,Botswana,-22.34403,24.680158,314,1,,313,,,False,False
 2020-07-11,BRA,SA,Brazil,-14.242914,-53.189267,1800827,70398,,1730429,,,False,False
 2020-07-11,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -23360,6 +23481,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,BTN,AS,Bhutan,27.515709,90.442455,82,0,,82,,,False,False
 2020-07-12,BOL,SA,Bolivia,-16.28835,-63.549429,47200,1754,,45446,,,False,False
 2020-07-12,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,6720,218,,6502,,,False,False
 2020-07-12,BWA,AF,Botswana,-22.34403,24.680158,314,1,,313,,,False,False
 2020-07-12,BRA,SA,Brazil,-14.242914,-53.189267,1839850,71469,,1768381,,,False,False
 2020-07-12,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -23550,6 +23672,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-13,BTN,AS,Bhutan,27.515709,90.442455,84,0,,84,,,False,False
 2020-07-13,BOL,SA,Bolivia,-16.28835,-63.549429,48187,1807,,46380,,,False,False
 2020-07-13,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-13,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,6884,220,,6664,,,False,False
 2020-07-13,BWA,AF,Botswana,-22.34403,24.680158,399,1,,398,,,False,False
 2020-07-13,BRA,SA,Brazil,-14.242914,-53.189267,1864681,72100,,1792581,,,False,False
 2020-07-13,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -23745,6 +23868,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-14,BTN,AS,Bhutan,27.515709,90.442455,84,0,,84,,,False,False
 2020-07-14,BOL,SA,Bolivia,-16.28835,-63.549429,49250,1866,,47384,,,False,False
 2020-07-14,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,7,0,,7,,,False,False
+2020-07-14,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,6979,224,,6755,,,False,False
 2020-07-14,BWA,AF,Botswana,-22.34403,24.680158,399,1,,398,,,False,False
 2020-07-14,BRA,SA,Brazil,-14.242914,-53.189267,1884967,72833,,1812134,,,False,False
 2020-07-14,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -23937,6 +24061,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-15,BTN,AS,Bhutan,27.515709,90.442455,84,0,,84,,,False,False
 2020-07-15,BOL,SA,Bolivia,-16.28835,-63.549429,50867,1898,,48969,,,False,False
 2020-07-15,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,9,0,,9,,,False,False
+2020-07-15,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,7176,225,,6951,,,False,False
 2020-07-15,BWA,AF,Botswana,-22.34403,24.680158,399,1,,398,,,False,False
 2020-07-15,BRA,SA,Brazil,-14.242914,-53.189267,1926824,74133,,1852691,,,False,False
 2020-07-15,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -24130,6 +24255,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-16,BTN,AS,Bhutan,27.515709,90.442455,84,0,,84,,,False,False
 2020-07-16,BOL,SA,Bolivia,-16.28835,-63.549429,52218,1942,,50276,,,False,False
 2020-07-16,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,9,0,,9,,,False,False
+2020-07-16,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,7407,233,,7174,,,False,False
 2020-07-16,BWA,AF,Botswana,-22.34403,24.680158,399,1,,398,,,False,False
 2020-07-16,BRA,SA,Brazil,-14.242914,-53.189267,1966748,75366,,1891382,,,False,False
 2020-07-16,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -24325,6 +24451,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-17,BTN,AS,Bhutan,27.515709,90.442455,86,0,,86,,,False,False
 2020-07-17,BOL,SA,Bolivia,-16.28835,-63.549429,54156,1984,,52172,,,False,False
 2020-07-17,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-17,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,7681,239,,7442,,,False,False
 2020-07-17,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-17,BRA,SA,Brazil,-14.242914,-53.189267,2012151,76688,,1935463,,,False,False
 2020-07-17,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -24520,6 +24647,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-18,BTN,AS,Bhutan,27.515709,90.442455,87,0,,87,,,False,False
 2020-07-18,BOL,SA,Bolivia,-16.28835,-63.549429,56102,2049,,54053,,,False,False
 2020-07-18,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-18,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,7908,243,,7665,,,False,False
 2020-07-18,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-18,BRA,SA,Brazil,-14.242914,-53.189267,2046328,77851,,1968477,,,False,False
 2020-07-18,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -24710,6 +24838,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-19,BTN,AS,Bhutan,27.515709,90.442455,87,0,,87,,,False,False
 2020-07-19,BOL,SA,Bolivia,-16.28835,-63.549429,58138,2106,,56032,,,False,False
 2020-07-19,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-19,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8164,245,,7919,,,False,False
 2020-07-19,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-19,BRA,SA,Brazil,-14.242914,-53.189267,2074860,78772,,1996088,,,False,False
 2020-07-19,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -24900,6 +25029,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-20,BTN,AS,Bhutan,27.515709,90.442455,89,0,,89,,,False,False
 2020-07-20,BOL,SA,Bolivia,-16.28835,-63.549429,59582,2151,,57431,,,False,False
 2020-07-20,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-20,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8452,250,,8202,,,False,False
 2020-07-20,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-20,BRA,SA,Brazil,-14.242914,-53.189267,2098389,79488,,2018901,,,False,False
 2020-07-20,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -25095,6 +25225,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,BTN,AS,Bhutan,27.515709,90.442455,90,0,,90,,,False,False
 2020-07-21,BOL,SA,Bolivia,-16.28835,-63.549429,60991,2218,,58773,,,False,False
 2020-07-21,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-21,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8591,256,,8335,,,False,False
 2020-07-21,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-21,BRA,SA,Brazil,-14.242914,-53.189267,2118646,80120,,2038526,,,False,False
 2020-07-21,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -25267,6 +25398,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,ZWE,AF,Zimbabwe,-19.013286,29.146666,1713,26,,1687,,,False,False
 2020-07-22,AUT,EU,Austria,47.697542,13.349319,19904,686,17849,1369,187,23,True,True
 2020-07-22,BEL,EU,Belgium,50.499527,4.475402,65265,9813,,55452,191,41,True,True
+2020-07-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8786,261,,8525,,,False,False
 2020-07-22,BGR,EU,Bulgaria,42.729862,25.491667,9254,313,4521,4420,,,True,True
 2020-07-22,CZE,EU,Czech Republic,49.800901,15.478153,14324,360,8918,5046,,,True,True
 2020-07-22,EST,EU,Estonia,58.596209,25.023778,2025,69,0,1956,,,True,True
@@ -25304,6 +25436,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-23,BTN,AS,Bhutan,27.515709,90.442455,92,0,,92,,,False,False
 2020-07-23,BOL,SA,Bolivia,-16.28835,-63.549429,64135,2328,,61807,,,False,False
 2020-07-23,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,10,0,,10,,,False,False
+2020-07-23,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,9116,267,,8849,,,False,False
 2020-07-23,BWA,AF,Botswana,-22.34403,24.680158,522,1,,521,,,False,False
 2020-07-23,BRA,SA,Brazil,-14.242914,-53.189267,2227514,82771,,2144743,,,False,False
 2020-07-23,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -25499,6 +25632,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-24,BTN,AS,Bhutan,27.515709,90.442455,92,0,,92,,,False,False
 2020-07-24,BOL,SA,Bolivia,-16.28835,-63.549429,65252,2407,,62845,,,False,False
 2020-07-24,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-24,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,9460,272,,9188,,,False,False
 2020-07-24,BWA,AF,Botswana,-22.34403,24.680158,686,1,,685,,,False,False
 2020-07-24,BRA,SA,Brazil,-14.242914,-53.189267,2287475,84082,,2203393,,,False,False
 2020-07-24,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -25686,6 +25820,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-25,BTN,AS,Bhutan,27.515709,90.442455,92,0,,92,,,False,False
 2020-07-25,BOL,SA,Bolivia,-16.28835,-63.549429,66456,2473,,63983,,,False,False
 2020-07-25,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-25,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,9462,274,,9188,,,False,False
 2020-07-25,BWA,AF,Botswana,-22.34403,24.680158,686,1,,685,,,False,False
 2020-07-25,BRA,SA,Brazil,-14.242914,-53.189267,2343366,85238,,2258128,,,False,False
 2020-07-25,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -25868,6 +26003,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-26,BTN,AS,Bhutan,27.515709,90.442455,93,0,,93,,,False,False
 2020-07-26,BOL,SA,Bolivia,-16.28835,-63.549429,68281,2535,,65746,,,False,False
 2020-07-26,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-26,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,9764,278,,9486,,,False,False
 2020-07-26,BWA,AF,Botswana,-22.34403,24.680158,686,1,,685,,,False,False
 2020-07-26,BRA,SA,Brazil,-14.242914,-53.189267,2394513,86449,,2308064,,,False,False
 2020-07-26,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -26056,6 +26192,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-27,BTN,AS,Bhutan,27.515709,90.442455,95,0,,95,,,False,False
 2020-07-27,BOL,SA,Bolivia,-16.28835,-63.549429,69429,2583,,66846,,,False,False
 2020-07-27,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-27,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,10069,283,,9786,,,False,False
 2020-07-27,BWA,AF,Botswana,-22.34403,24.680158,686,1,,685,,,False,False
 2020-07-27,BRA,SA,Brazil,-14.242914,-53.189267,2419091,87004,,2332087,,,False,False
 2020-07-27,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -26251,6 +26388,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-28,BTN,AS,Bhutan,27.515709,90.442455,99,0,,99,,,False,False
 2020-07-28,BOL,SA,Bolivia,-16.28835,-63.549429,71811,2647,,69164,,,False,False
 2020-07-28,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-28,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,10498,294,,10204,,,False,False
 2020-07-28,BWA,AF,Botswana,-22.34403,24.680158,739,2,,737,,,False,False
 2020-07-28,BRA,SA,Brazil,-14.242914,-53.189267,2442375,87618,,2354757,,,False,False
 2020-07-28,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -26446,6 +26584,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-29,BTN,AS,Bhutan,27.515709,90.442455,99,0,,99,,,False,False
 2020-07-29,BOL,SA,Bolivia,-16.28835,-63.549429,72327,2720,,69607,,,False,False
 2020-07-29,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-29,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,10766,297,,10469,,,False,False
 2020-07-29,BWA,AF,Botswana,-22.34403,24.680158,739,2,,737,,,False,False
 2020-07-29,BRA,SA,Brazil,-14.242914,-53.189267,2483191,88539,,2394652,,,False,False
 2020-07-29,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -26641,6 +26780,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-30,BTN,AS,Bhutan,27.515709,90.442455,101,0,,101,,,False,False
 2020-07-30,BOL,SA,Bolivia,-16.28835,-63.549429,73534,2808,,70726,,,False,False
 2020-07-30,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-07-30,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,10766,297,,10469,,,False,False
 2020-07-30,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-07-30,BRA,SA,Brazil,-14.242914,-53.189267,2552265,90134,,2462131,,,False,False
 2020-07-30,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -26815,6 +26955,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-31,AUT,EU,Austria,47.697542,13.349319,21110,698,18758,1654,187,23,True,True
 2020-07-31,BLR,EU,Belarus,53.711111,27.973847,67665,553,,67112,,,False,False
 2020-07-31,BEL,EU,Belgium,50.499527,4.475402,69402,9845,,59557,252,49,True,True
+2020-07-31,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,11444,328,,11116,,,False,False
 2020-07-31,BGR,EU,Bulgaria,42.729862,25.491667,11420,374,6173,4873,,,True,True
 2020-07-31,HRV,EU,Croatia,44.48732,16.460306,5137,143,,4994,,,True,True
 2020-07-31,CYP,EU,Cyprus,35.167406,33.435499,1084,19,,1065,,,True,True
@@ -26878,6 +27019,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-01,BTN,AS,Bhutan,27.515709,90.442455,101,0,,101,,,False,False
 2020-08-01,BOL,SA,Bolivia,-16.28835,-63.549429,76789,2977,,73812,,,False,False
 2020-08-01,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-08-01,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,11444,328,,11116,,,False,False
 2020-08-01,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-08-01,BRA,SA,Brazil,-14.242914,-53.189267,2662485,92475,,2570010,,,False,False
 2020-08-01,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -27067,6 +27209,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-02,BTN,AS,Bhutan,27.515709,90.442455,102,0,,102,,,False,False
 2020-08-02,BOL,SA,Bolivia,-16.28835,-63.549429,78793,3064,,75729,,,False,False
 2020-08-02,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-08-02,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,11875,335,,11540,,,False,False
 2020-08-02,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-08-02,BRA,SA,Brazil,-14.242914,-53.189267,2707877,93563,,2614314,,,False,False
 2020-08-02,VGB,NA,British Virgin Islands,18.573601,-64.492065,8,1,,7,,,False,False
@@ -27256,6 +27399,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-03,BTN,AS,Bhutan,27.515709,90.442455,103,0,,103,,,False,False
 2020-08-03,BOL,SA,Bolivia,-16.28835,-63.549429,80153,3153,,77000,,,False,False
 2020-08-03,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,11,0,,11,,,False,False
+2020-08-03,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,12108,343,,11765,,,False,False
 2020-08-03,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-08-03,BRA,SA,Brazil,-14.242914,-53.189267,2733677,94104,,2639573,,,False,False
 2020-08-03,VGB,NA,British Virgin Islands,18.573601,-64.492065,9,1,,8,,,False,False
@@ -27450,6 +27594,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-04,BTN,AS,Bhutan,27.515709,90.442455,103,0,,103,,,False,False
 2020-08-04,BOL,SA,Bolivia,-16.28835,-63.549429,81846,3228,,78618,,,False,False
 2020-08-04,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,13,0,,13,,,False,False
+2020-08-04,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,12296,347,,11949,,,False,False
 2020-08-04,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-08-04,BRA,SA,Brazil,-14.242914,-53.189267,2750318,94665,,2655653,,,False,False
 2020-08-04,VGB,NA,British Virgin Islands,18.573601,-64.492065,9,1,,8,,,False,False
@@ -27642,6 +27787,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,BTN,AS,Bhutan,27.515709,90.442455,105,0,,105,,,False,False
 2020-08-05,BOL,SA,Bolivia,-16.28835,-63.549429,83361,3320,,80041,,,False,False
 2020-08-05,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,13,0,,13,,,False,False
+2020-08-05,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,12858,368,,12490,,,False,False
 2020-08-05,BWA,AF,Botswana,-22.34403,24.680158,804,2,,802,,,False,False
 2020-08-05,BRA,SA,Brazil,-14.242914,-53.189267,2801921,95819,,2706102,,,False,False
 2020-08-05,VGB,NA,British Virgin Islands,18.573601,-64.492065,9,1,,8,,,False,False
@@ -27782,6 +27928,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,ZAF,AF,South Africa,-28.48322,24.676997,521318,8884,,512434,,,False,False
 2020-08-05,KOR,AS,South Korea,35.901696,127.735889,14456,302,,14154,,,False,False
 2020-08-05,SSD,AF,South Sudan,7.856272,30.040413,2437,47,,2390,,,False,False
+2020-08-05,ESP,EU,Spain,39.896027,-2.487694,305767,28499,,277268,127670,11831,True,True
 2020-08-05,LKA,AS,Sri Lanka,7.874097,80.767098,2834,11,,2823,,,False,False
 2020-08-05,SDN,AF,Sudan,15.45847,30.217636,11780,763,,11017,,,False,False
 2020-08-05,SUR,SA,Suriname,3.917845,-56.032028,1981,27,,1954,,,False,False
