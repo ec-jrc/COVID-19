@@ -27795,6 +27795,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,COL,SA,Colombia,4.577317,-74.298973,334979,11315,,323664,,,False,False
 2020-08-05,COM,AF,Comoros,,,388,7,,381,,,False,False
 2020-08-05,CRI,NA,Costa Rica,9.624897,-84.253308,19837,181,,19656,,,False,False
+2020-08-05,HRV,EU,Croatia,44.48732,16.460306,5376,152,,5224,,,True,True
 2020-08-05,CUB,NA,Cuba,21.527062,-79.544601,2701,88,,2613,,,False,False
 2020-08-05,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False
 2020-08-05,CYP,EU,Cyprus,35.167406,33.435499,1180,19,,1161,,,True,True
@@ -27808,6 +27809,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,SLV,NA,El Salvador,13.796873,-88.910412,18262,486,,17776,,,False,False
 2020-08-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-05,ERI,AF,Eritrea,15.18132,39.786709,282,0,,282,,,False,False
+2020-08-05,EST,EU,Estonia,58.596209,25.023778,2113,69,0,2044,,,True,True
 2020-08-05,ETH,AF,Ethiopia,9.148086,40.493059,19877,343,,19534,,,False,False
 2020-08-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-05,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -27874,6 +27876,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,MOZ,AF,Mozambique,-18.670284,35.530157,2029,15,,2014,,,False,False
 2020-08-05,NAM,AF,Namibia,-22.965662,18.486165,2470,12,,2458,,,False,False
 2020-08-05,NPL,AS,Nepal,28.395056,84.127803,21009,58,,20951,,,False,False
+2020-08-05,NLD,EU,Netherlands,52.133057,5.29525,56381,6153,,50228,11964,,True,True
 2020-08-05,NCL,OC,New Caledonia,-21.123889,165.846901,22,0,,22,,,False,False
 2020-08-05,NZL,OC,New Zealand,-40.9006,174.886,1219,22,,1197,,,False,False
 2020-08-05,NIC,NA,Nicaragua,12.866726,-85.214298,3902,123,,3779,,,False,False
@@ -27893,6 +27896,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,PRI,NA,Puerto Rico,18.223285,-66.592731,19324,237,,19087,,,False,False
 2020-08-05,QAT,AS,Qatar,25.318833,51.19693,111538,177,,111361,,,False,False
 2020-08-05,ROU,EU,Romania,45.947125,24.980514,56497,2521,,53976,,,True,True
+2020-08-05,RUS,EU,Russian Fed.,61.523111,-74.9,866627,14490,669026,183111,,,False,False
 2020-08-05,RWA,AF,Rwanda,-1.94708,29.876376,2099,5,,2094,,,False,False
 2020-08-05,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,17,0,,17,,,False,False
 2020-08-05,LCA,NA,Saint Lucia,13.904011,-60.974176,25,0,,25,,,False,False
