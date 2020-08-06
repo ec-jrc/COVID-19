@@ -475,7 +475,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
 2020-04-14,SVN,Slovenia,Koroške,46.533032,15.087509,45,0,0,45,0,0,True,True,SI033
-2020-08-04,SVN,Slovenia,NOT SPECIFIED,,,2208,124,343,1741,22,3,True,True,
+2020-08-05,SVN,Slovenia,NOT SPECIFIED,,,2223,125,344,1754,24,3,True,True,
 2020-04-14,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,20,0,0,20,0,0,True,True,SI044
 2020-04-14,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,378,0,0,378,0,0,True,True,SI041
 2020-04-14,SVN,Slovenia,Podravske,46.474579,15.744954,103,0,0,103,0,0,True,True,SI032
@@ -528,7 +528,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-06,CHE,Switzerland,Aargau,47.410914,8.159107,1231,46,1170,15,0,0,False,False,CH033
 2020-08-06,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,110,3,0,107,1,0,False,False,CH053
 2020-08-06,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,25,0,0,25,0,0,False,False,CH054
-2020-08-06,CHE,Switzerland,Basel City,47.561925,7.592768,1076,52,981,43,0,0,False,False,CH031
+2020-08-06,CHE,Switzerland,Basel City,47.561925,7.592768,1081,52,984,45,0,0,False,False,CH031
 2020-08-06,CHE,Switzerland,Basel Country,47.441812,7.7644,941,35,875,31,0,0,False,False,CH032
 2020-08-06,CHE,Switzerland,Bern,46.825006,7.626925,2165,97,0,2068,12,3,False,False,CH021
 2020-08-06,CHE,Switzerland,Fribourg,46.710334,7.09922,1373,85,158,1130,1,1,False,False,CH022
@@ -536,7 +536,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-06,CHE,Switzerland,Glarus,46.980518,9.065544,144,13,0,131,0,0,False,False,CH051
 2020-08-06,CHE,Switzerland,Graubünden,46.658176,9.629923,936,50,0,886,1,0,False,False,CH056
 2020-08-06,CHE,Switzerland,Jura,47.368327,7.198733,260,7,0,253,0,0,False,False,CH025
-2020-08-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,82,1,81,0,0,0,False,False,LI
+2020-08-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,88,1,86,1,0,0,False,False,LI
 2020-08-06,CHE,Switzerland,Lucerne,47.06883,8.116991,905,20,0,885,14,5,False,False,CH061
 2020-08-06,CHE,Switzerland,Neuchâtel,46.997282,6.782288,735,83,0,652,2,0,False,False,CH024
 2020-08-06,CHE,Switzerland,Nidwalden,46.922198,8.419375,129,3,0,126,1,0,False,False,CH065
