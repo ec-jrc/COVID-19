@@ -462,15 +462,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-05,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,4142,47,3797,298,,,False,False,RU80
 2020-08-05,SMR,San Marino,San Marino,43.942973,12.460035,699,42,,657,,,False,False,SM
 2020-08-05,SRB,Serbia,Serbia,44.206802,20.911009,26738,605,,26133,,,False,True,
-2020-08-05,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,191,,,191,,,True,True,SK032
-2020-08-05,SVK,Slovakia,Bratislava,48.319003,17.17481,567,,,567,,,True,True,SK010
-2020-08-05,SVK,Slovakia,Košice,48.771358,20.721931,329,,,329,,,True,True,SK042
-2020-08-05,SVK,Slovakia,Nitra,48.140652,18.30311,177,,,177,,,True,True,SK023
-2020-08-05,SVK,Slovakia,NOT SPECIFIED,,,0,29,1777,-1806,29,1,True,True,
-2020-08-05,SVK,Slovakia,Prešov,49.126441,21.221321,315,,,315,,,True,True,SK041
-2020-08-05,SVK,Slovakia,Trencín,48.858564,18.202196,340,,,340,,,True,True,SK022
-2020-08-05,SVK,Slovakia,Trnava,48.222651,17.707847,163,,,163,,,True,True,SK021
-2020-08-05,SVK,Slovakia,Zilina,49.178517,19.167163,335,,,335,,,True,True,SK031
+2020-08-06,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,191,,,191,,,True,True,SK032
+2020-08-06,SVK,Slovakia,Bratislava,48.319003,17.17481,578,,,578,,,True,True,SK010
+2020-08-06,SVK,Slovakia,Košice,48.771358,20.721931,333,,,333,,,True,True,SK042
+2020-08-06,SVK,Slovakia,Nitra,48.140652,18.30311,177,,,177,,,True,True,SK023
+2020-08-06,SVK,Slovakia,NOT SPECIFIED,,,0,29,1824,-1853,29,1,True,True,
+2020-08-06,SVK,Slovakia,Prešov,49.126441,21.221321,323,,,323,,,True,True,SK041
+2020-08-06,SVK,Slovakia,Trencín,48.858564,18.202196,379,,,379,,,True,True,SK022
+2020-08-06,SVK,Slovakia,Trnava,48.222651,17.707847,163,,,163,,,True,True,SK021
+2020-08-06,SVK,Slovakia,Zilina,49.178517,19.167163,336,,,336,,,True,True,SK031
 2020-04-14,SVN,Slovenia,Gorenjske,46.304671,14.137367,75,0,0,75,0,0,True,True,SI042
 2020-04-14,SVN,Slovenia,Goriške,46.097666,13.774357,21,0,0,21,0,0,True,True,SI043
 2020-04-14,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,126,0,0,126,0,0,True,True,SI037
@@ -554,29 +554,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-06,CHE,Switzerland,Zurich,47.417407,8.655988,4652,138,0,4514,29,0,False,False,CH040
 2020-08-05,TUR,Turkey,Turkey,38.961515,35.25175,234934,5765,,229169,,,False,True,TUR
 2020-08-05,UKR,Ukraine,NOT SPECIFIED,,,74219,1764,,72455,,,False,False,
-2020-08-04,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1277,0,0,1277,,,False,True,UKM93
-2020-08-04,GBR,United Kingdom,Borders,55.572787,-2.786355,347,0,0,347,,,False,True,UKM91
-2020-08-04,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,304,0,0,304,,,False,True,UKM92
-2020-08-04,GBR,United Kingdom,East of England,52.248898,0.548756,24981,0,0,24981,,,False,True,UKH
-2020-08-04,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,UKM64
-2020-08-04,GBR,United Kingdom,England,,,8502,41686,0,-33184,,,False,True,UK
-2020-08-04,GBR,United Kingdom,Fife,56.228968,-3.118568,947,0,0,947,,,False,True,UKM72
-2020-08-04,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1097,0,0,1097,,,False,True,UKM76
-2020-08-04,GBR,United Kingdom,Grampian,57.299016,-2.780773,1496,0,0,1496,,,False,True,UKM50
-2020-08-04,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,5004,0,0,5004,,,False,True,UKM82
-2020-08-04,GBR,United Kingdom,Highland,57.363501,-4.733034,383,0,0,383,,,False,True,UKM6
-2020-08-04,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2785,0,0,2785,,,False,True,UKD4
-2020-08-04,GBR,United Kingdom,London,51.497136,-0.100571,35792,0,0,35792,,,False,True,UKI
-2020-08-04,GBR,United Kingdom,Lothian,55.946009,-2.728265,3212,0,0,3212,,,False,True,UKM75
-2020-08-04,GBR,United Kingdom,Midlands,52.718351,-1.45667,51131,0,0,51131,,,False,True,UKF
-2020-08-04,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,47857,0,0,47857,,,False,True,UKC
-2020-08-04,GBR,United Kingdom,North West,53.524488,-2.333125,46906,0,0,46906,,,False,True,UKD
-2020-08-04,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,5996,556,0,5440,,,False,True,UKN
+2020-08-05,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1278,0,0,1278,,,False,True,UKM93
+2020-08-05,GBR,United Kingdom,Borders,55.572787,-2.786355,347,0,0,347,,,False,True,UKM91
+2020-08-05,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,304,0,0,304,,,False,True,UKM92
+2020-08-05,GBR,United Kingdom,East of England,52.248898,0.548756,25031,0,0,25031,,,False,True,UKH
+2020-08-05,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,7,0,0,7,,,False,True,UKM64
+2020-08-05,GBR,United Kingdom,England,,,8521,41749,0,-33228,,,False,True,UK
+2020-08-05,GBR,United Kingdom,Fife,56.228968,-3.118568,948,0,0,948,,,False,True,UKM72
+2020-08-05,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1098,0,0,1098,,,False,True,UKM76
+2020-08-05,GBR,United Kingdom,Grampian,57.299016,-2.780773,1532,0,0,1532,,,False,True,UKM50
+2020-08-05,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,5019,0,0,5019,,,False,True,UKM82
+2020-08-05,GBR,United Kingdom,Highland,57.363501,-4.733034,385,0,0,385,,,False,True,UKM6
+2020-08-05,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,2788,0,0,2788,,,False,True,UKD4
+2020-08-05,GBR,United Kingdom,London,51.497136,-0.100571,35866,0,0,35866,,,False,True,UKI
+2020-08-05,GBR,United Kingdom,Lothian,55.946009,-2.728265,3215,0,0,3215,,,False,True,UKM75
+2020-08-05,GBR,United Kingdom,Midlands,52.718351,-1.45667,51318,0,0,51318,,,False,True,UKF
+2020-08-05,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,48023,0,0,48023,,,False,True,UKC
+2020-08-05,GBR,United Kingdom,North West,53.524488,-2.333125,47157,0,0,47157,,,False,True,UKD
+2020-08-05,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,6006,556,0,5450,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2020-08-04,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,UKM65
-2020-08-04,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2491,0,-2491,,,False,True,UKM
-2020-08-04,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,UKM66
-2020-08-04,GBR,United Kingdom,South East,51.291417,-0.521902,35639,0,0,35639,,,False,True,UKJ
-2020-08-04,GBR,United Kingdom,South West,51.239761,-2.54375,13411,0,0,13411,,,False,True,UKK
-2020-08-04,GBR,United Kingdom,Tayside,56.610323,-3.555213,1795,0,0,1795,,,False,True,UKM71
-2020-08-04,GBR,United Kingdom,Wales,52.302413,-3.738347,17361,1566,0,15795,,,False,True,UKL
+2020-08-05,GBR,United Kingdom,Orkney,58.98094,-2.960521,9,0,0,9,,,False,True,UKM65
+2020-08-05,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2491,0,-2491,,,False,True,UKM
+2020-08-05,GBR,United Kingdom,Shetland,60.29623,-1.346738,54,0,0,54,,,False,True,UKM66
+2020-08-05,GBR,United Kingdom,South East,51.291417,-0.521902,35670,0,0,35670,,,False,True,UKJ
+2020-08-05,GBR,United Kingdom,South West,51.239761,-2.54375,13437,0,0,13437,,,False,True,UKK
+2020-08-05,GBR,United Kingdom,Tayside,56.610323,-3.555213,1797,0,0,1797,,,False,True,UKM71
+2020-08-05,GBR,United Kingdom,Wales,52.302413,-3.738347,17374,1568,0,15806,,,False,True,UKL
