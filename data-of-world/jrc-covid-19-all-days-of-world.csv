@@ -22669,7 +22669,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,UGA,AF,Uganda,1.365188,32.304651,953,0,,953,,,False,False
 2020-07-07,UKR,EU,Ukraine,48.379888,31.168139,49607,1283,,48324,,,False,False
 2020-07-07,ARE,AS,United Arab Emirates,24.358745,53.982494,52068,324,,51744,,,False,False
-2020-07-07,GBR,EU,United Kingdom,54.633221,-3.432277,286349,44392,0,241957,,,False,True
+2020-07-07,GBR,EU,United Kingdom,54.633221,-3.432277,286349,44391,0,241958,,,False,True
 2020-07-07,USA,NA,United States of America,36.966428,-95.844032,2938625,130306,,2808319,,,False,False
 2020-07-07,VIR,NA,United States Virgin Islands,18.036736,-64.801704,116,6,,110,,,False,False
 2020-07-07,URY,SA,Uruguay,-32.53152,-55.758328,960,29,,931,,,False,False
@@ -28339,6 +28339,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-07,UGA,AF,Uganda,1.365188,32.304651,1223,5,,1218,,,False,False
 2020-08-07,UKR,EU,Ukraine,48.379888,31.168139,76808,1819,,74989,,,False,False
 2020-08-07,ARE,AS,United Arab Emirates,24.358745,53.982494,61845,354,,61491,,,False,False
+2020-08-07,GBR,EU,United Kingdom,54.633221,-3.432277,309005,46511,0,262494,,,False,True
 2020-08-07,USA,NA,United States of America,36.966428,-95.844032,4883646,160104,,4723542,,,False,False
 2020-08-07,VIR,NA,United States Virgin Islands,18.036736,-64.801704,522,9,,513,,,False,False
 2020-08-07,URY,SA,Uruguay,-32.53152,-55.758328,1318,37,,1281,,,False,False
@@ -28350,4 +28351,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-07,ZMB,AF,Zambia,-13.151917,27.852537,7164,199,,6965,,,False,False
 2020-08-07,ZWE,AF,Zimbabwe,-19.013286,29.146666,4395,97,,4298,,,False,False
 2020-08-08,BGR,EU,Bulgaria,42.729862,25.491667,13209,442,7622,5145,,,True,True
+2020-08-08,CZE,EU,Czech Republic,49.800901,15.478153,18060,389,12749,4922,,,True,True
 2020-08-08,DEU,EU,Germany,51.165706,10.452764,215336,9195,196400,9741,,,True,True
+2020-08-08,SVK,EU,Slovakia,48.665639,19.709097,2550,31,1861,658,40,2,True,True
