@@ -28390,6 +28390,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-08,COL,SA,Colombia,4.577317,-74.298973,367196,12250,,354946,,,False,False
 2020-08-08,COM,AF,Comoros,,,396,7,,389,,,False,False
 2020-08-08,CRI,NA,Costa Rica,9.624897,-84.253308,22081,218,,21863,,,False,False
+2020-08-08,HRV,EU,Croatia,44.48732,16.460306,5543,157,,5386,,,True,True
 2020-08-08,CUB,NA,Cuba,21.527062,-79.544601,2829,88,,2741,,,False,False
 2020-08-08,CUW,NA,Curaçao,12.209209,-68.945576,31,1,,30,,,False,False
 2020-08-08,CYP,EU,Cyprus,35.167406,33.435499,1208,19,,1189,,,True,True
@@ -28468,6 +28469,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-08,MOZ,AF,Mozambique,-18.670284,35.530157,2213,15,,2198,,,False,False
 2020-08-08,NAM,AF,Namibia,-22.965662,18.486165,2802,16,,2786,,,False,False
 2020-08-08,NPL,AS,Nepal,28.395056,84.127803,22214,70,,22144,,,False,False
+2020-08-08,NLD,EU,Netherlands,52.133057,5.29525,57987,6157,,51830,11971,,True,True
 2020-08-08,NCL,OC,New Caledonia,-21.123889,165.846901,23,0,,23,,,False,False
 2020-08-08,NZL,OC,New Zealand,-40.9006,174.886,1219,22,,1197,,,False,False
 2020-08-08,NIC,NA,Nicaragua,12.866726,-85.214298,3902,123,,3779,,,False,False
@@ -28487,6 +28489,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-08,PRI,NA,Puerto Rico,18.223285,-66.592731,20686,265,,20421,,,False,False
 2020-08-08,QAT,AS,Qatar,25.318833,51.19693,112383,180,,112203,,,False,False
 2020-08-08,ROU,EU,Romania,45.947125,24.980514,60570,2659,,57911,,,True,True
+2020-08-08,RUS,EU,Russian Fed.,61.523111,-74.9,882347,14854,690207,177286,,,False,False
 2020-08-08,RWA,AF,Rwanda,-1.94708,29.876376,2128,5,,2123,,,False,False
 2020-08-08,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,17,0,,17,,,False,False
 2020-08-08,LCA,NA,Saint Lucia,13.904011,-60.974176,25,0,,25,,,False,False
