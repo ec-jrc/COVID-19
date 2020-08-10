@@ -532,7 +532,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-10,CHE,Switzerland,Basel Country,47.441812,7.7644,945,35,885,25,1,0,False,False,CH032
 2020-08-10,CHE,Switzerland,Bern,46.825006,7.626925,2207,98,0,2109,10,3,False,False,CH021
 2020-08-10,CHE,Switzerland,Fribourg,46.710334,7.09922,1377,85,158,1134,1,1,False,False,CH022
-2020-08-10,CHE,Switzerland,Geneva,46.217114,6.131255,6172,296,941,4935,16,2,False,False,CH013
+2020-08-10,CHE,Switzerland,Geneva,46.217114,6.131255,6220,296,945,4979,16,2,False,False,CH013
 2020-08-10,CHE,Switzerland,Glarus,46.980518,9.065544,146,13,0,133,0,0,False,False,CH051
 2020-08-10,CHE,Switzerland,Graubünden,46.658176,9.629923,940,50,0,890,1,0,False,False,CH056
 2020-08-10,CHE,Switzerland,Jura,47.368327,7.198733,260,7,0,253,0,0,False,False,CH025
@@ -551,7 +551,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-10,CHE,Switzerland,Valais,46.211633,7.611267,2166,153,313,1700,4,1,False,False,CH012
 2020-08-10,CHE,Switzerland,Vaud,46.56176,6.648929,6099,424,0,5675,15,5,False,False,CH011
 2020-08-10,CHE,Switzerland,Zug,47.161402,8.538864,302,9,261,32,2,0,False,False,CH066
-2020-08-10,CHE,Switzerland,Zurich,47.417407,8.655988,4768,139,0,4629,28,0,False,False,CH040
+2020-08-10,CHE,Switzerland,Zurich,47.417407,8.655988,4807,139,0,4668,31,0,False,False,CH040
 2020-08-10,TUR,Turkey,Turkey,38.961515,35.25175,240804,5844,,234960,,,False,True,TUR
 2020-08-10,UKR,Ukraine,NOT SPECIFIED,,,81957,1922,,80035,,,False,False,
 2020-08-09,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1282,0,0,1282,,,False,True,UKM93
