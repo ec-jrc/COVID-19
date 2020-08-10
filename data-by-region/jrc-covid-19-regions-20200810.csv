@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-09,ALB,Albania,Shkodër,42.17682,19.719451,603,33,321,249,1,1,False,False,AL015
 2020-08-09,ALB,Albania,Tiranë,41.268583,19.793936,3244,97,1558,1589,48,9,False,False,AL022
 2020-08-09,ALB,Albania,Vlorë,40.162418,19.793592,232,4,118,110,4,0,False,False,AL035
-2020-08-09,AND,Andorra,Andorra,42.542268,1.596865,956,52,,904,,,False,False,AD
+2020-08-10,AND,Andorra,Andorra,42.542268,1.596865,956,52,,904,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-08-09,AUT,Austria,Burgenland,47.541449,16.520206,427,11,393,23,,,True,True,AT11
 2020-08-09,AUT,Austria,Kärnten,46.715832,14.455532,494,13,444,37,,,True,True,AT21
@@ -545,7 +545,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-10,CHE,Switzerland,Schwyz,47.06411,8.761568,418,25,367,26,0,0,False,False,CH063
 2020-08-10,CHE,Switzerland,Solothurn,47.336648,7.686944,548,18,0,530,2,0,False,False,CH023
 2020-08-10,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
-2020-08-10,CHE,Switzerland,Thurgau,47.567205,9.112572,478,19,77,382,2,0,False,False,CH057
+2020-08-10,CHE,Switzerland,Thurgau,47.567205,9.112572,495,19,77,399,3,0,False,False,CH057
 2020-08-10,CHE,Switzerland,Ticino,46.297963,8.808447,3453,350,924,2179,1,0,False,False,CH07
 2020-08-10,CHE,Switzerland,Uri,46.775402,8.627444,117,7,107,3,0,0,False,False,CH062
 2020-08-10,CHE,Switzerland,Valais,46.211633,7.611267,2166,153,313,1700,4,1,False,False,CH012
