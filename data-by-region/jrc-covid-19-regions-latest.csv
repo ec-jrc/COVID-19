@@ -245,19 +245,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-13,NLD,Netherlands,Utrecht,52.078728,5.214048,4847,432,,4415,897,,True,True,NL31
 2020-08-13,NLD,Netherlands,Zeeland,51.312779,3.786651,958,70,,888,154,,True,True,NL34
 2020-08-13,MKD,North Macedonia,North Macedonia,41.611,21.751417,12217,530,,11687,,,False,True,MK
-2020-08-12,NOR,Norway,Agder,58.699661,7.618403,360,,,360,,,False,True,NO04
-2020-08-12,NOR,Norway,Innlandet,61.43354,10.427144,527,,,527,,,False,True,NO02
-2020-08-12,NOR,Norway,Møre og Romsdal,62.543569,8.540539,165,,,165,,,False,True,NO053
-2020-08-12,NOR,Norway,Nordland,66.679716,14.635752,138,,,138,,,False,True,NO071
-2020-08-12,NOR,Norway,NOT SPECIFIED,,,0,256,,-256,1001,230,False,True,
-2020-08-12,NOR,Norway,Oslo,59.979683,10.738335,3143,,,3143,,,False,True,NO011
+2020-08-13,NOR,Norway,Agder,58.699661,7.618403,361,,,361,,,False,True,NO04
+2020-08-13,NOR,Norway,Innlandet,61.43354,10.427144,528,,,528,,,False,True,NO02
+2020-08-13,NOR,Norway,Møre og Romsdal,62.543569,8.540539,167,,,167,,,False,True,NO053
+2020-08-13,NOR,Norway,Nordland,66.679716,14.635752,140,,,140,,,False,True,NO071
+2020-08-13,NOR,Norway,NOT SPECIFIED,,,0,257,,-257,1003,230,False,True,
+2020-08-13,NOR,Norway,Oslo,59.979683,10.738335,3150,,,3150,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2020-08-12,NOR,Norway,Rogaland,58.58709,6.206792,489,,,489,,,False,True,NO043
-2020-08-12,NOR,Norway,Troms og Finnmark,70.239335,26.12935,301,,,301,,,False,True,NO072
-2020-08-12,NOR,Norway,Trøndelag,63.421183,11.529951,584,,,584,,,False,True,NO06
-2020-08-12,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,332,,,332,,,False,True,NO033
-2020-08-12,NOR,Norway,Vestland,60.952729,6.513828,946,,,946,,,False,True,NO05
-2020-08-12,NOR,Norway,Viken,60.020274,9.849655,2763,,,2763,,,False,True,NO012
+2020-08-13,NOR,Norway,Rogaland,58.58709,6.206792,491,,,491,,,False,True,NO043
+2020-08-13,NOR,Norway,Troms og Finnmark,70.239335,26.12935,303,,,303,,,False,True,NO072
+2020-08-13,NOR,Norway,Trøndelag,63.421183,11.529951,586,,,586,,,False,True,NO06
+2020-08-13,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,332,,,332,,,False,True,NO033
+2020-08-13,NOR,Norway,Vestland,60.952729,6.513828,947,,,947,,,False,True,NO05
+2020-08-13,NOR,Norway,Viken,60.020274,9.849655,2774,,,2774,,,False,True,NO012
 2020-08-13,POL,Poland,Dolnośląskie,51.07994,16.381483,3582,159,,3423,,,True,True,PL51
 2020-08-13,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,942,50,,892,,,True,True,PL61
 2020-08-13,POL,Poland,Łódzkie,51.559579,19.408271,4433,218,,4215,,,True,True,PL71
