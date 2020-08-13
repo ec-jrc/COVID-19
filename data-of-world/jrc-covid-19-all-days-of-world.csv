@@ -29058,6 +29058,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-12,BGD,AS,Bangladesh,23.68764,90.351002,263503,3471,,260032,,,False,False
 2020-08-12,BRB,NA,Barbados,13.183551,-59.534649,143,7,,136,,,False,False
 2020-08-12,BLR,EU,Belarus,53.711111,27.973847,69005,592,,68413,,,False,False
+2020-08-12,BEL,EU,Belgium,50.499527,4.475402,75647,9900,,65747,301,76,True,True
 2020-08-12,BLZ,NA,Belize,17.192929,-88.5009,210,2,,208,,,False,False
 2020-08-12,BEN,AF,Benin,9.322048,2.313138,2001,38,,1963,,,False,False
 2020-08-12,BMU,NA,Bermuda,32.320236,-64.774022,159,9,,150,,,False,False
@@ -29233,3 +29234,4 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-12,ZMB,AF,Zambia,-13.151917,27.852537,8275,241,,8034,,,False,False
 2020-08-12,ZWE,AF,Zimbabwe,-19.013286,29.146666,4818,104,,4714,,,False,False
 2020-08-13,BGR,EU,Bulgaria,42.729862,25.491667,13893,482,8479,4932,,,True,True
+2020-08-13,DEU,EU,Germany,51.165706,10.452764,219964,9211,199500,11253,,,True,True
