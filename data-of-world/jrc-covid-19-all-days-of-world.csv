@@ -1269,7 +1269,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,DNK,EU,Denmark,56.155403,11.617223,444,0,0,444,0,0,True,True
 2020-03-11,ECU,SA,Ecuador,-1.779901,-78.131592,17,,,17,,,False,False
 2020-03-11,EGY,AF,Egypt,26.696361,30.246486,59,1,,58,,,False,False
-2020-03-11,EST,EU,Estonia,58.596209,25.023778,17,0,0,17,0,0,True,True
 2020-03-11,FRA,EU,France,46.232193,2.209667,2278,0,0,2278,0,0,True,True
 2020-03-11,GEO,AS,Georgia,42.319847,43.368055,23,,,23,,,False,False
 2020-03-11,DEU,EU,Germany,51.165706,10.452764,1567,3,488,1076,0,0,True,True
@@ -1343,7 +1342,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,CYP,EU,Cyprus,35.167406,33.435499,10,0,0,10,,,True,True
 2020-03-12,DNK,EU,Denmark,56.155403,11.617223,617,0,0,617,0,0,True,True
 2020-03-12,EGY,AF,Egypt,26.696361,30.246486,60,1,,59,,,False,False
-2020-03-12,EST,EU,Estonia,58.596209,25.023778,41,0,0,41,0,0,True,True
 2020-03-12,FRA,EU,France,46.232193,2.209667,2873,0,0,2873,0,0,True,True
 2020-03-12,GEO,AS,Georgia,42.319847,43.368055,24,,,24,,,False,False
 2020-03-12,DEU,EU,Germany,51.165706,10.452764,2369,5,616,1748,0,0,True,True
@@ -1419,7 +1417,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,CYP,EU,Cyprus,35.167406,33.435499,10,0,0,10,,,True,True
 2020-03-13,DNK,EU,Denmark,56.155403,11.617223,788,0,0,788,0,0,True,True
 2020-03-13,EGY,AF,Egypt,26.696361,30.246486,80,2,,78,,,False,False
-2020-03-13,EST,EU,Estonia,58.596209,25.023778,109,0,0,109,0,0,True,True
 2020-03-13,FRA,EU,France,46.232193,2.209667,3658,0,0,3658,0,0,True,True
 2020-03-13,GAB,AF,Gabon,-0.828097,11.598909,1,,,1,,,False,False
 2020-03-13,GEO,AS,Georgia,42.319847,43.368055,25,,,25,,,False,False
@@ -1679,7 +1676,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,ECU,SA,Ecuador,-1.779901,-78.131592,37,2,,35,,,False,False
 2020-03-16,EGY,AF,Egypt,26.696361,30.246486,110,2,,108,,,False,False
 2020-03-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
-2020-03-16,EST,EU,Estonia,58.596209,25.023778,205,0,0,205,0,0,True,True
 2020-03-16,ETH,AF,Ethiopia,9.148086,40.493059,4,,,4,,,False,False
 2020-03-16,FRA,EU,France,46.232193,2.209667,6628,0,0,6628,0,0,True,True
 2020-03-16,GAB,AF,Gabon,-0.828097,11.598909,1,,,1,,,False,False
@@ -1795,7 +1791,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,ECU,SA,Ecuador,-1.779901,-78.131592,58,2,,56,,,False,False
 2020-03-17,EGY,AF,Egypt,26.696361,30.246486,126,2,,124,,,False,False
 2020-03-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
-2020-03-17,EST,EU,Estonia,58.596209,25.023778,225,0,0,225,0,0,True,True
 2020-03-17,ETH,AF,Ethiopia,9.148086,40.493059,5,,,5,,,False,False
 2020-03-17,FIN,EU,Finland,64.952416,26.068944,321,0,0,321,,,True,True
 2020-03-17,FRA,EU,France,46.232193,2.209667,7724,0,0,7724,0,0,True,True
@@ -1918,7 +1913,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,ECU,SA,Ecuador,-1.779901,-78.131592,111,2,,109,,,False,False
 2020-03-18,EGY,AF,Egypt,26.696361,30.246486,166,4,,162,,,False,False
 2020-03-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
-2020-03-18,EST,EU,Estonia,58.596209,25.023778,258,0,0,258,0,0,True,True
 2020-03-18,ETH,AF,Ethiopia,9.148086,40.493059,5,,,5,,,False,False
 2020-03-18,FIN,EU,Finland,64.952416,26.068944,321,0,0,321,,,True,True
 2020-03-18,FRA,EU,France,46.232193,2.209667,9134,264,1000,7870,3626,931,True,True
@@ -2050,7 +2044,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,EGY,AF,Egypt,26.696361,30.246486,196,6,,190,,,False,False
 2020-03-19,SLV,NA,El Salvador,13.796873,-88.910412,1,,,1,,,False,False
 2020-03-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3,,,3,,,False,False
-2020-03-19,EST,EU,Estonia,58.596209,25.023778,267,0,0,267,0,0,True,True
 2020-03-19,ETH,AF,Ethiopia,9.148086,40.493059,6,,,6,,,False,False
 2020-03-19,FIN,EU,Finland,64.952416,26.068944,304,0,0,304,,,True,True
 2020-03-19,FRA,EU,France,46.232193,2.209667,10995,372,1300,9323,4461,1122,True,True
@@ -2190,7 +2183,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,EGY,AF,Egypt,26.696361,30.246486,210,6,,204,,,False,False
 2020-03-20,SLV,NA,El Salvador,13.796873,-88.910412,1,,,1,,,False,False
 2020-03-20,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4,,,4,,,False,False
-2020-03-20,EST,EU,Estonia,58.596209,25.023778,283,0,0,283,0,0,True,True
 2020-03-20,ETH,AF,Ethiopia,9.148086,40.493059,7,,,7,,,False,False
 2020-03-20,FJI,OC,Fiji,-16.578041,178.416339,1,,,1,,,False,False
 2020-03-20,FIN,EU,Finland,64.952416,26.068944,409,0,0,409,,,True,True
@@ -2527,7 +2519,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,SLV,NA,El Salvador,13.796873,-88.910412,3,,,3,,,False,False
 2020-03-23,GNQ,AF,Equatorial Guinea,1.633925,10.341295,6,,,6,,,False,False
 2020-03-23,ERI,AF,Eritrea,15.18132,39.786709,1,,,1,,,False,False
-2020-03-23,EST,EU,Estonia,58.596209,25.023778,352,0,0,352,0,0,True,True
 2020-03-23,ETH,AF,Ethiopia,9.148086,40.493059,11,,,11,,,False,False
 2020-03-23,FJI,OC,Fiji,-16.578041,178.416339,3,,,3,,,False,False
 2020-03-23,FRA,EU,France,46.232193,2.209667,19856,860,0,18996,8675,2082,True,True
@@ -2694,7 +2685,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,SLV,NA,El Salvador,13.796873,-88.910412,5,,,5,,,False,False
 2020-03-24,GNQ,AF,Equatorial Guinea,1.633925,10.341295,9,,,9,,,False,False
 2020-03-24,ERI,AF,Eritrea,15.18132,39.786709,1,,,1,,,False,False
-2020-03-24,EST,EU,Estonia,58.596209,25.023778,369,0,0,369,0,0,True,True
 2020-03-24,ETH,AF,Ethiopia,9.148086,40.493059,11,,,11,,,False,False
 2020-03-24,FJI,OC,Fiji,-16.578041,178.416339,4,,,4,,,False,False
 2020-03-24,FIN,EU,Finland,64.952416,26.068944,792,1,0,791,,,True,True
@@ -2863,7 +2853,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,SLV,NA,El Salvador,13.796873,-88.910412,9,0,0,9,,,False,False
 2020-03-25,GNQ,AF,Equatorial Guinea,1.633925,10.341295,9,0,0,9,,,False,False
 2020-03-25,ERI,AF,Eritrea,15.18132,39.786709,1,0,0,1,,,False,False
-2020-03-25,EST,EU,Estonia,58.596209,25.023778,404,1,0,403,0,0,True,True
 2020-03-25,ETH,AF,Ethiopia,9.148086,40.493059,11,0,0,11,,,False,False
 2020-03-25,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,,,False,False
 2020-03-25,FIN,EU,Finland,64.952416,26.068944,880,1,0,879,,,True,True
@@ -3038,7 +3027,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,SLV,NA,El Salvador,13.796873,-88.910412,13,,,13,,,False,False
 2020-03-26,GNQ,AF,Equatorial Guinea,1.633925,10.341295,11,,,11,,,False,False
 2020-03-26,ERI,AF,Eritrea,15.18132,39.786709,4,,,4,,,False,False
-2020-03-26,EST,EU,Estonia,58.596209,25.023778,538,1,0,537,0,0,True,True
 2020-03-26,ETH,AF,Ethiopia,9.148086,40.493059,12,,,12,,,False,False
 2020-03-26,FJI,OC,Fiji,-16.578041,178.416339,5,,,5,,,False,False
 2020-03-26,FIN,EU,Finland,64.952416,26.068944,894,3,0,891,0,0,True,True
@@ -3176,7 +3164,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,CYP,EU,Cyprus,35.167406,33.435499,146,3,0,143,0,0,True,True
 2020-03-27,CZE,EU,Czech Republic,49.800901,15.478153,2062,9,0,2053,0,0,True,True
 2020-03-27,DNK,EU,Denmark,56.155403,11.617223,2169,52,0,2117,0,0,True,True
-2020-03-27,EST,EU,Estonia,58.596209,25.023778,575,1,0,574,0,0,True,True
 2020-03-27,FIN,EU,Finland,64.952416,26.068944,1025,0,0,1025,0,0,True,True
 2020-03-27,FRA,EU,France,46.232193,2.209667,25602,1995,5698,17909,15698,3756,True,True
 2020-03-27,DEU,EU,Germany,51.165706,10.452764,42288,253,5530,36505,0,0,True,True
@@ -3259,7 +3246,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,SLV,NA,El Salvador,13.796873,-88.910412,13,0,0,13,0,0,False,False
 2020-03-28,GNQ,AF,Equatorial Guinea,1.633925,10.341295,13,0,0,13,0,0,False,False
 2020-03-28,ERI,AF,Eritrea,15.18132,39.786709,6,0,0,6,0,0,False,False
-2020-03-28,EST,EU,Estonia,58.596209,25.023778,640,1,0,639,0,0,True,True
 2020-03-28,ETH,AF,Ethiopia,9.148086,40.493059,16,0,0,16,0,0,False,False
 2020-03-28,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
 2020-03-28,FRA,EU,France,46.232193,2.209667,30496,2314,6624,21558,17565,4233,True,True
@@ -3437,7 +3423,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,SLV,NA,El Salvador,13.796873,-88.910412,19,0,0,19,0,0,False,False
 2020-03-29,GNQ,AF,Equatorial Guinea,1.633925,10.341295,13,0,0,13,0,0,False,False
 2020-03-29,ERI,AF,Eritrea,15.18132,39.786709,6,0,0,6,0,0,False,False
-2020-03-29,EST,EU,Estonia,58.596209,25.023778,679,3,0,676,0,0,True,True
 2020-03-29,ETH,AF,Ethiopia,9.148086,40.493059,16,0,0,16,0,0,False,False
 2020-03-29,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
 2020-03-29,FRA,EU,France,46.232193,2.209667,31324,2606,7131,21587,19311,4592,True,True
@@ -3616,7 +3601,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,SLV,NA,El Salvador,13.796873,-88.910412,30,0,0,30,0,0,False,False
 2020-03-30,GNQ,AF,Equatorial Guinea,1.633925,10.341295,14,0,0,14,0,0,False,False
 2020-03-30,ERI,AF,Eritrea,15.18132,39.786709,12,0,0,12,0,0,False,False
-2020-03-30,EST,EU,Estonia,58.596209,25.023778,715,3,0,712,0,0,True,True
 2020-03-30,ETH,AF,Ethiopia,9.148086,40.493059,16,0,0,16,0,0,False,False
 2020-03-30,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
 2020-03-30,FIN,EU,Finland,64.952416,26.068944,1313,0,0,1313,0,0,True,True
@@ -3798,7 +3782,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,SLV,NA,El Salvador,13.796873,-88.910412,32,0,0,32,0,0,False,False
 2020-03-31,GNQ,AF,Equatorial Guinea,1.633925,10.341295,14,0,0,14,0,0,False,False
 2020-03-31,ERI,AF,Eritrea,15.18132,39.786709,12,0,0,12,0,0,False,False
-2020-03-31,EST,EU,Estonia,58.596209,25.023778,745,4,0,741,0,0,True,True
 2020-03-31,ETH,AF,Ethiopia,9.148086,40.493059,23,0,0,23,0,0,False,False
 2020-03-31,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
 2020-03-31,FIN,EU,Finland,64.952416,26.068944,1384,0,0,1384,0,0,True,True
@@ -3983,7 +3966,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,SLV,NA,El Salvador,13.796873,-88.910412,32,1,0,31,0,0,False,False
 2020-04-01,GNQ,AF,Equatorial Guinea,1.633925,10.341295,15,0,0,15,0,0,False,False
 2020-04-01,ERI,AF,Eritrea,15.18132,39.786709,15,0,0,15,0,0,False,False
-2020-04-01,EST,EU,Estonia,58.596209,25.023778,779,5,0,774,0,0,True,True
 2020-04-01,ETH,AF,Ethiopia,9.148086,40.493059,25,0,0,25,0,0,False,False
 2020-04-01,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
 2020-04-01,FIN,EU,Finland,64.952416,26.068944,1446,0,0,1446,0,0,True,True
@@ -4171,7 +4153,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,SLV,NA,El Salvador,13.796873,-88.910412,41,2,0,39,0,0,False,False
 2020-04-02,GNQ,AF,Equatorial Guinea,1.633925,10.341295,15,0,0,15,0,0,False,False
 2020-04-02,ERI,AF,Eritrea,15.18132,39.786709,18,0,0,18,0,0,False,False
-2020-04-02,EST,EU,Estonia,58.596209,25.023778,828,11,0,817,0,0,True,True
 2020-04-02,ETH,AF,Ethiopia,9.148086,40.493059,29,0,0,29,0,0,False,False
 2020-04-02,FJI,OC,Fiji,-16.578041,178.416339,7,0,0,7,0,0,False,False
 2020-04-02,FIN,EU,Finland,64.952416,26.068944,1518,0,0,1518,0,0,True,True
@@ -4358,7 +4339,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,SLV,NA,El Salvador,13.796873,-88.910412,46,2,0,44,0,0,False,False
 2020-04-03,GNQ,AF,Equatorial Guinea,1.633925,10.341295,15,0,0,15,0,0,False,False
 2020-04-03,ERI,AF,Eritrea,15.18132,39.786709,22,0,0,22,0,0,False,False
-2020-04-03,EST,EU,Estonia,58.596209,25.023778,961,12,0,949,0,0,True,True
 2020-04-03,ETH,AF,Ethiopia,9.148086,40.493059,29,0,0,29,0,0,False,False
 2020-04-03,FJI,OC,Fiji,-16.578041,178.416339,7,0,0,7,0,0,False,False
 2020-04-03,FIN,EU,Finland,64.952416,26.068944,1615,0,0,1615,0,0,True,True
@@ -4545,7 +4525,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,SLV,NA,El Salvador,13.796873,-88.910412,56,3,0,53,0,0,False,False
 2020-04-04,GNQ,AF,Equatorial Guinea,1.633925,10.341295,16,0,0,16,0,0,False,False
 2020-04-04,ERI,AF,Eritrea,15.18132,39.786709,22,0,0,22,0,0,False,False
-2020-04-04,EST,EU,Estonia,58.596209,25.023778,1018,13,0,1005,0,0,True,True
 2020-04-04,ETH,AF,Ethiopia,9.148086,40.493059,35,0,0,35,0,0,False,False
 2020-04-04,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,1,0,0,1,0,0,False,False
 2020-04-04,FJI,OC,Fiji,-16.578041,178.416339,12,0,0,12,0,0,False,False
@@ -4732,7 +4711,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,SLV,NA,El Salvador,13.796873,-88.910412,62,3,0,59,0,0,False,False
 2020-04-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,16,0,0,16,0,0,False,False
 2020-04-05,ERI,AF,Eritrea,15.18132,39.786709,29,0,0,29,0,0,False,False
-2020-04-05,EST,EU,Estonia,58.596209,25.023778,1097,15,0,1082,0,0,True,True
 2020-04-05,ETH,AF,Ethiopia,9.148086,40.493059,38,0,0,38,0,0,False,False
 2020-04-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,1,0,0,1,0,0,False,False
 2020-04-05,FJI,OC,Fiji,-16.578041,178.416339,12,0,0,12,0,0,False,False
@@ -4920,7 +4898,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,SLV,NA,El Salvador,13.796873,-88.910412,69,3,0,66,0,0,False,False
 2020-04-06,GNQ,AF,Equatorial Guinea,1.633925,10.341295,16,0,0,16,0,0,False,False
 2020-04-06,ERI,AF,Eritrea,15.18132,39.786709,29,0,0,29,0,0,False,False
-2020-04-06,EST,EU,Estonia,58.596209,25.023778,1108,19,0,1089,0,0,True,True
 2020-04-06,ETH,AF,Ethiopia,9.148086,40.493059,43,2,0,41,0,0,False,False
 2020-04-06,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,2,0,0,2,0,0,False,False
 2020-04-06,FJI,OC,Fiji,-16.578041,178.416339,14,0,0,14,0,0,False,False
@@ -5110,7 +5087,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,SLV,NA,El Salvador,13.796873,-88.910412,78,4,0,74,0,0,False,False
 2020-04-07,GNQ,AF,Equatorial Guinea,1.633925,10.341295,16,0,0,16,0,0,False,False
 2020-04-07,ERI,AF,Eritrea,15.18132,39.786709,31,0,0,31,0,0,False,False
-2020-04-07,EST,EU,Estonia,58.596209,25.023778,1149,21,0,1128,0,0,True,True
 2020-04-07,ETH,AF,Ethiopia,9.148086,40.493059,44,2,0,42,0,0,False,False
 2020-04-07,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,2,0,0,2,0,0,False,False
 2020-04-07,FJI,OC,Fiji,-16.578041,178.416339,14,0,0,14,0,0,False,False
@@ -5300,7 +5276,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,SLV,NA,El Salvador,13.796873,-88.910412,78,4,0,74,0,0,False,False
 2020-04-08,GNQ,AF,Equatorial Guinea,1.633925,10.341295,16,0,0,16,0,0,False,False
 2020-04-08,ERI,AF,Eritrea,15.18132,39.786709,31,0,0,31,0,0,False,False
-2020-04-08,EST,EU,Estonia,58.596209,25.023778,1185,24,0,1161,0,0,True,True
 2020-04-08,ETH,AF,Ethiopia,9.148086,40.493059,52,2,0,50,0,0,False,False
 2020-04-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-08,FJI,OC,Fiji,-16.578041,178.416339,15,0,0,15,0,0,False,False
@@ -5490,7 +5465,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,SLV,NA,El Salvador,13.796873,-88.910412,103,5,0,98,0,0,False,False
 2020-04-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,18,0,0,18,0,0,False,False
 2020-04-09,ERI,AF,Eritrea,15.18132,39.786709,33,0,0,33,0,0,False,False
-2020-04-09,EST,EU,Estonia,58.596209,25.023778,1207,24,0,1183,0,0,True,True
 2020-04-09,ETH,AF,Ethiopia,9.148086,40.493059,55,2,0,53,0,0,False,False
 2020-04-09,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-09,FJI,OC,Fiji,-16.578041,178.416339,15,0,0,15,0,0,False,False
@@ -5681,7 +5655,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,SLV,NA,El Salvador,13.796873,-88.910412,117,6,0,111,0,0,False,False
 2020-04-10,GNQ,AF,Equatorial Guinea,1.633925,10.341295,18,0,0,18,0,0,False,False
 2020-04-10,ERI,AF,Eritrea,15.18132,39.786709,33,0,0,33,0,0,False,False
-2020-04-10,EST,EU,Estonia,58.596209,25.023778,1258,24,0,1234,0,0,True,True
 2020-04-10,ETH,AF,Ethiopia,9.148086,40.493059,56,2,0,54,0,0,False,False
 2020-04-10,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-10,FJI,OC,Fiji,-16.578041,178.416339,15,0,0,15,0,0,False,False
@@ -5872,7 +5845,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,SLV,NA,El Salvador,13.796873,-88.910412,118,6,0,112,0,0,False,False
 2020-04-11,GNQ,AF,Equatorial Guinea,1.633925,10.341295,18,0,0,18,0,0,False,False
 2020-04-11,ERI,AF,Eritrea,15.18132,39.786709,34,0,0,34,0,0,False,False
-2020-04-11,EST,EU,Estonia,58.596209,25.023778,1304,24,0,1280,0,0,True,True
 2020-04-11,ETH,AF,Ethiopia,9.148086,40.493059,65,2,0,63,0,0,False,False
 2020-04-11,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-11,FJI,OC,Fiji,-16.578041,178.416339,16,0,0,16,0,0,False,False
@@ -6019,7 +5991,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,CYP,EU,Cyprus,35.167406,33.435499,616,15,0,601,0,0,True,True
 2020-04-12,CZE,EU,Czech Republic,49.800901,15.478153,5905,132,422,5351,0,0,True,True
 2020-04-12,DNK,EU,Denmark,56.155403,11.617223,6369,273,0,6096,0,0,True,True
-2020-04-12,EST,EU,Estonia,58.596209,25.023778,1309,25,0,1284,0,0,True,True
 2020-04-12,FIN,EU,Finland,64.952416,26.068944,2974,0,0,2974,0,0,True,True
 2020-04-12,FRA,EU,France,46.232193,2.209667,95403,9253,27186,58964,31826,6845,True,True
 2020-04-12,DEU,EU,Germany,51.165706,10.452764,120479,2673,60300,57506,0,0,True,True
@@ -6108,7 +6079,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,SLV,NA,El Salvador,13.796873,-88.910412,125,6,0,119,0,0,False,False
 2020-04-13,GNQ,AF,Equatorial Guinea,1.633925,10.341295,21,0,0,21,0,0,False,False
 2020-04-13,ERI,AF,Eritrea,15.18132,39.786709,34,0,0,34,0,0,False,False
-2020-04-13,EST,EU,Estonia,58.596209,25.023778,1332,27,0,1305,0,0,True,True
 2020-04-13,ETH,AF,Ethiopia,9.148086,40.493059,71,3,0,68,0,0,False,False
 2020-04-13,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-13,FJI,OC,Fiji,-16.578041,178.416339,16,0,0,16,0,0,False,False
@@ -6298,7 +6268,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,SLV,NA,El Salvador,13.796873,-88.910412,149,6,0,143,0,0,False,False
 2020-04-14,GNQ,AF,Equatorial Guinea,1.633925,10.341295,21,0,0,21,0,0,False,False
 2020-04-14,ERI,AF,Eritrea,15.18132,39.786709,34,0,0,34,0,0,False,False
-2020-04-14,EST,EU,Estonia,58.596209,25.023778,1373,31,0,1342,0,0,True,True
 2020-04-14,ETH,AF,Ethiopia,9.148086,40.493059,74,3,0,71,0,0,False,False
 2020-04-14,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,5,0,0,5,0,0,False,False
 2020-04-14,FJI,OC,Fiji,-16.578041,178.416339,16,0,0,16,0,0,False,False
@@ -6674,7 +6643,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,SLV,NA,El Salvador,13.796873,-88.910412,159,6,0,153,0,0,False,False
 2020-04-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,51,0,0,51,0,0,False,False
 2020-04-16,ERI,AF,Eritrea,15.18132,39.786709,35,0,0,35,0,0,False,False
-2020-04-16,EST,EU,Estonia,58.596209,25.023778,1434,36,0,1398,0,0,True,True
 2020-04-16,ETH,AF,Ethiopia,9.148086,40.493059,85,3,0,82,0,0,False,False
 2020-04-16,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-16,FJI,OC,Fiji,-16.578041,178.416339,16,0,0,16,0,0,False,False
@@ -6864,7 +6832,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,SLV,NA,El Salvador,13.796873,-88.910412,164,6,0,158,0,0,False,False
 2020-04-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,51,0,0,51,0,0,False,False
 2020-04-17,ERI,AF,Eritrea,15.18132,39.786709,35,0,0,35,0,0,False,False
-2020-04-17,EST,EU,Estonia,58.596209,25.023778,1459,38,0,1421,0,0,True,True
 2020-04-17,ETH,AF,Ethiopia,9.148086,40.493059,92,3,0,89,0,0,False,False
 2020-04-17,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-17,FJI,OC,Fiji,-16.578041,178.416339,17,0,0,17,0,0,False,False
@@ -7055,7 +7022,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,SLV,NA,El Salvador,13.796873,-88.910412,177,7,0,170,0,0,False,False
 2020-04-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,79,0,0,79,0,0,False,False
 2020-04-18,ERI,AF,Eritrea,15.18132,39.786709,35,0,0,35,0,0,False,False
-2020-04-18,EST,EU,Estonia,58.596209,25.023778,1512,38,0,1474,0,0,True,True
 2020-04-18,ETH,AF,Ethiopia,9.148086,40.493059,96,3,0,93,0,0,False,False
 2020-04-18,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-18,FJI,OC,Fiji,-16.578041,178.416339,17,0,0,17,0,0,False,False
@@ -7247,7 +7213,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,SLV,NA,El Salvador,13.796873,-88.910412,190,7,0,183,0,0,False,False
 2020-04-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,79,0,0,79,0,0,False,False
 2020-04-19,ERI,AF,Eritrea,15.18132,39.786709,35,0,0,35,0,0,False,False
-2020-04-19,EST,EU,Estonia,58.596209,25.023778,1528,40,0,1488,0,0,True,True
 2020-04-19,ETH,AF,Ethiopia,9.148086,40.493059,105,3,0,102,0,0,False,False
 2020-04-19,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-19,FJI,OC,Fiji,-16.578041,178.416339,17,0,0,17,0,0,False,False
@@ -7439,7 +7404,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,SLV,NA,El Salvador,13.796873,-88.910412,201,7,0,194,0,0,False,False
 2020-04-20,GNQ,AF,Equatorial Guinea,1.633925,10.341295,79,0,0,79,0,0,False,False
 2020-04-20,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-20,EST,EU,Estonia,58.596209,25.023778,1535,40,0,1495,0,0,True,True
 2020-04-20,ETH,AF,Ethiopia,9.148086,40.493059,108,3,0,105,0,0,False,False
 2020-04-20,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-20,FJI,OC,Fiji,-16.578041,178.416339,17,0,0,17,0,0,False,False
@@ -7631,7 +7595,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,SLV,NA,El Salvador,13.796873,-88.910412,218,7,0,211,0,0,False,False
 2020-04-21,GNQ,AF,Equatorial Guinea,1.633925,10.341295,79,0,0,79,0,0,False,False
 2020-04-21,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-21,EST,EU,Estonia,58.596209,25.023778,1552,43,0,1509,0,0,True,True
 2020-04-21,ETH,AF,Ethiopia,9.148086,40.493059,111,3,0,108,0,0,False,False
 2020-04-21,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,11,0,0,11,0,0,False,False
 2020-04-21,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -7822,7 +7785,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,SLV,NA,El Salvador,13.796873,-88.910412,225,7,0,218,0,0,False,False
 2020-04-22,GNQ,AF,Equatorial Guinea,1.633925,10.341295,79,0,0,79,0,0,False,False
 2020-04-22,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-22,EST,EU,Estonia,58.596209,25.023778,1559,44,0,1515,0,0,True,True
 2020-04-22,ETH,AF,Ethiopia,9.148086,40.493059,114,3,0,111,0,0,False,False
 2020-04-22,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,12,0,0,12,0,0,False,False
 2020-04-22,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8014,7 +7976,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,SLV,NA,El Salvador,13.796873,-88.910412,237,8,0,229,0,0,False,False
 2020-04-23,GNQ,AF,Equatorial Guinea,1.633925,10.341295,83,0,0,83,0,0,False,False
 2020-04-23,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-23,EST,EU,Estonia,58.596209,25.023778,1592,45,0,1547,0,0,True,True
 2020-04-23,ETH,AF,Ethiopia,9.148086,40.493059,116,3,0,113,0,0,False,False
 2020-04-23,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,12,0,0,12,0,0,False,False
 2020-04-23,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8204,7 +8165,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,SLV,NA,El Salvador,13.796873,-88.910412,250,8,0,242,0,0,False,False
 2020-04-24,GNQ,AF,Equatorial Guinea,1.633925,10.341295,84,1,0,83,0,0,False,False
 2020-04-24,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-24,EST,EU,Estonia,58.596209,25.023778,1605,46,0,1559,0,0,True,True
 2020-04-24,ETH,AF,Ethiopia,9.148086,40.493059,116,3,0,113,0,0,False,False
 2020-04-24,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,12,0,0,12,0,0,False,False
 2020-04-24,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8396,7 +8356,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,SLV,NA,El Salvador,13.796873,-88.910412,261,8,0,253,0,0,False,False
 2020-04-25,GNQ,AF,Equatorial Guinea,1.633925,10.341295,212,1,0,211,0,0,False,False
 2020-04-25,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-25,EST,EU,Estonia,58.596209,25.023778,1635,46,0,1589,0,0,True,True
 2020-04-25,ETH,AF,Ethiopia,9.148086,40.493059,117,3,0,114,0,0,False,False
 2020-04-25,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,12,0,0,12,0,0,False,False
 2020-04-25,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8587,7 +8546,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,SLV,NA,El Salvador,13.796873,-88.910412,298,8,0,290,0,0,False,False
 2020-04-26,GNQ,AF,Equatorial Guinea,1.633925,10.341295,214,1,0,213,0,0,False,False
 2020-04-26,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-26,EST,EU,Estonia,58.596209,25.023778,1643,49,0,1594,0,0,True,True
 2020-04-26,ETH,AF,Ethiopia,9.148086,40.493059,122,3,0,119,0,0,False,False
 2020-04-26,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-04-26,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8780,7 +8738,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,SLV,NA,El Salvador,13.796873,-88.910412,298,8,0,290,0,0,False,False
 2020-04-27,GNQ,AF,Equatorial Guinea,1.633925,10.341295,258,1,0,257,0,0,False,False
 2020-04-27,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-27,EST,EU,Estonia,58.596209,25.023778,1647,50,0,1597,0,0,True,True
 2020-04-27,ETH,AF,Ethiopia,9.148086,40.493059,123,3,0,120,0,0,False,False
 2020-04-27,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-04-27,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -8973,7 +8930,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,SLV,NA,El Salvador,13.796873,-88.910412,323,8,0,315,0,0,False,False
 2020-04-28,GNQ,AF,Equatorial Guinea,1.633925,10.341295,258,1,0,257,0,0,False,False
 2020-04-28,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-28,EST,EU,Estonia,58.596209,25.023778,1660,50,0,1610,0,0,True,True
 2020-04-28,ETH,AF,Ethiopia,9.148086,40.493059,124,3,0,121,0,0,False,False
 2020-04-28,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-04-28,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -9165,7 +9121,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,SLV,NA,El Salvador,13.796873,-88.910412,345,9,0,336,0,0,False,False
 2020-04-29,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-04-29,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-29,EST,EU,Estonia,58.596209,25.023778,1666,50,0,1616,0,0,True,True
 2020-04-29,ETH,AF,Ethiopia,9.148086,40.493059,126,3,0,123,0,0,False,False
 2020-04-29,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-04-29,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -9358,7 +9313,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,SLV,NA,El Salvador,13.796873,-88.910412,377,9,0,368,0,0,False,False
 2020-04-30,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-04-30,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-04-30,EST,EU,Estonia,58.596209,25.023778,1689,52,0,1637,0,0,True,True
 2020-04-30,ETH,AF,Ethiopia,9.148086,40.493059,130,3,0,127,0,0,False,False
 2020-04-30,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-04-30,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -9551,7 +9505,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,SLV,NA,El Salvador,13.796873,-88.910412,424,10,0,414,0,0,False,False
 2020-05-01,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-05-01,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-01,EST,EU,Estonia,58.596209,25.023778,1694,52,0,1642,0,0,True,True
 2020-05-01,ETH,AF,Ethiopia,9.148086,40.493059,131,3,0,128,0,0,False,False
 2020-05-01,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-01,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -9745,7 +9698,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,SLV,NA,El Salvador,13.796873,-88.910412,446,10,0,436,0,0,False,False
 2020-05-02,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-05-02,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-02,EST,EU,Estonia,58.596209,25.023778,1699,53,0,1646,0,0,True,True
 2020-05-02,ETH,AF,Ethiopia,9.148086,40.493059,133,3,0,130,0,0,False,False
 2020-05-02,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-02,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -9939,7 +9891,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,SLV,NA,El Salvador,13.796873,-88.910412,446,11,0,435,0,0,False,False
 2020-05-03,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-05-03,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-03,EST,EU,Estonia,58.596209,25.023778,1700,55,0,1645,0,0,True,True
 2020-05-03,ETH,AF,Ethiopia,9.148086,40.493059,133,3,0,130,0,0,False,False
 2020-05-03,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-03,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -10133,7 +10084,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,SLV,NA,El Salvador,13.796873,-88.910412,555,12,0,543,0,0,False,False
 2020-05-04,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,1,0,314,0,0,False,False
 2020-05-04,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-04,EST,EU,Estonia,58.596209,25.023778,1703,55,0,1648,0,0,True,True
 2020-05-04,ETH,AF,Ethiopia,9.148086,40.493059,135,3,0,132,0,0,False,False
 2020-05-04,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-04,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -10328,7 +10278,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,SLV,NA,El Salvador,13.796873,-88.910412,587,13,0,574,0,0,False,False
 2020-05-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,315,2,0,313,0,0,False,False
 2020-05-05,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-05,EST,EU,Estonia,58.596209,25.023778,1711,55,0,1656,0,0,True,True
 2020-05-05,ETH,AF,Ethiopia,9.148086,40.493059,140,3,0,137,0,0,False,False
 2020-05-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-05,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -10523,7 +10472,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,SLV,NA,El Salvador,13.796873,-88.910412,587,14,0,573,0,0,False,False
 2020-05-06,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-06,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-06,EST,EU,Estonia,58.596209,25.023778,1713,55,0,1658,0,0,True,True
 2020-05-06,ETH,AF,Ethiopia,9.148086,40.493059,145,4,0,141,0,0,False,False
 2020-05-06,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-06,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -10718,7 +10666,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,SLV,NA,El Salvador,13.796873,-88.910412,695,15,0,680,0,0,False,False
 2020-05-07,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-07,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-07,EST,EU,Estonia,58.596209,25.023778,1720,56,0,1664,0,0,True,True
 2020-05-07,ETH,AF,Ethiopia,9.148086,40.493059,162,4,0,158,0,0,False,False
 2020-05-07,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-07,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -10913,7 +10860,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,SLV,NA,El Salvador,13.796873,-88.910412,695,15,0,680,0,0,False,False
 2020-05-08,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-08,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-08,EST,EU,Estonia,58.596209,25.023778,1725,58,0,1667,0,0,True,True
 2020-05-08,ETH,AF,Ethiopia,9.148086,40.493059,191,4,0,187,0,0,False,False
 2020-05-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-08,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -11108,7 +11054,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,SLV,NA,El Salvador,13.796873,-88.910412,784,16,0,768,0,0,False,False
 2020-05-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-09,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-09,EST,EU,Estonia,58.596209,25.023778,1733,60,0,1673,0,0,True,True
 2020-05-09,ETH,AF,Ethiopia,9.148086,40.493059,194,4,0,190,0,0,False,False
 2020-05-09,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-09,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -11302,7 +11247,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,SLV,NA,El Salvador,13.796873,-88.910412,889,17,0,872,0,0,False,False
 2020-05-10,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-10,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-10,EST,EU,Estonia,58.596209,25.023778,1739,60,0,1679,0,0,True,True
 2020-05-10,ETH,AF,Ethiopia,9.148086,40.493059,210,5,0,205,0,0,False,False
 2020-05-10,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-10,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -11496,7 +11440,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,SLV,NA,El Salvador,13.796873,-88.910412,958,17,0,941,0,0,False,False
 2020-05-11,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-11,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-11,EST,EU,Estonia,58.596209,25.023778,1741,61,0,1680,0,0,True,True
 2020-05-11,ETH,AF,Ethiopia,9.148086,40.493059,239,5,0,234,0,0,False,False
 2020-05-11,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-11,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -11688,7 +11631,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,SLV,NA,El Salvador,13.796873,-88.910412,998,18,0,980,0,0,False,False
 2020-05-12,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-12,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-12,EST,EU,Estonia,58.596209,25.023778,1746,62,0,1684,0,0,True,True
 2020-05-12,ETH,AF,Ethiopia,9.148086,40.493059,250,5,0,245,0,0,False,False
 2020-05-12,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-12,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -11872,7 +11814,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,SLV,NA,El Salvador,13.796873,-88.910412,1037,20,0,1017,0,0,False,False
 2020-05-13,GNQ,AF,Equatorial Guinea,1.633925,10.341295,439,4,0,435,0,0,False,False
 2020-05-13,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-13,EST,EU,Estonia,58.596209,25.023778,1751,62,0,1689,0,0,True,True
 2020-05-13,ETH,AF,Ethiopia,9.148086,40.493059,261,5,0,256,0,0,False,False
 2020-05-13,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-13,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -12066,7 +12007,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,SLV,NA,El Salvador,13.796873,-88.910412,1112,20,0,1092,0,0,False,False
 2020-05-14,GNQ,AF,Equatorial Guinea,1.633925,10.341295,522,6,0,516,0,0,False,False
 2020-05-14,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-14,EST,EU,Estonia,58.596209,25.023778,1758,62,0,1696,0,0,True,True
 2020-05-14,ETH,AF,Ethiopia,9.148086,40.493059,263,5,0,258,0,0,False,False
 2020-05-14,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-14,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -12259,7 +12199,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,SLV,NA,El Salvador,13.796873,-88.910412,1210,23,0,1187,0,0,False,False
 2020-05-15,GNQ,AF,Equatorial Guinea,1.633925,10.341295,594,7,0,587,0,0,False,False
 2020-05-15,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-15,EST,EU,Estonia,58.596209,25.023778,1766,63,0,1703,0,0,True,True
 2020-05-15,ETH,AF,Ethiopia,9.148086,40.493059,272,5,0,267,0,0,False,False
 2020-05-15,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-15,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -12454,7 +12393,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,SLV,NA,El Salvador,13.796873,-88.910412,1265,25,0,1240,0,0,False,False
 2020-05-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,594,7,0,587,0,0,False,False
 2020-05-16,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-16,EST,EU,Estonia,58.596209,25.023778,1770,63,0,1707,0,0,True,True
 2020-05-16,ETH,AF,Ethiopia,9.148086,40.493059,287,5,0,282,0,0,False,False
 2020-05-16,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-16,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -12648,7 +12586,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,SLV,NA,El Salvador,13.796873,-88.910412,1265,26,0,1239,0,0,False,False
 2020-05-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,594,7,0,587,0,0,False,False
 2020-05-17,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-17,EST,EU,Estonia,58.596209,25.023778,1774,63,0,1711,0,0,True,True
 2020-05-17,ETH,AF,Ethiopia,9.148086,40.493059,306,5,0,301,0,0,False,False
 2020-05-17,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-17,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -12843,7 +12780,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,SLV,NA,El Salvador,13.796873,-88.910412,1338,30,0,1308,0,0,False,False
 2020-05-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,594,7,0,587,0,0,False,False
 2020-05-18,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-18,EST,EU,Estonia,58.596209,25.023778,1784,64,0,1720,0,0,True,True
 2020-05-18,ETH,AF,Ethiopia,9.148086,40.493059,317,5,0,312,0,0,False,False
 2020-05-18,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-18,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -13039,7 +12975,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,SLV,NA,El Salvador,13.796873,-88.910412,1413,30,0,1383,0,0,False,False
 2020-05-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,719,7,0,712,0,0,False,False
 2020-05-19,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-19,EST,EU,Estonia,58.596209,25.023778,1791,64,0,1727,0,0,True,True
 2020-05-19,ETH,AF,Ethiopia,9.148086,40.493059,352,5,0,347,0,0,False,False
 2020-05-19,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-19,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -13234,7 +13169,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,SLV,NA,El Salvador,13.796873,-88.910412,1498,31,0,1467,0,0,False,False
 2020-05-20,GNQ,AF,Equatorial Guinea,1.633925,10.341295,890,7,0,883,0,0,False,False
 2020-05-20,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-20,EST,EU,Estonia,58.596209,25.023778,1794,64,0,1730,0,0,True,True
 2020-05-20,ETH,AF,Ethiopia,9.148086,40.493059,365,5,0,360,0,0,False,False
 2020-05-20,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-20,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -13429,7 +13363,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,SLV,NA,El Salvador,13.796873,-88.910412,1571,32,0,1539,0,0,False,False
 2020-05-21,GNQ,AF,Equatorial Guinea,1.633925,10.341295,890,7,0,883,0,0,False,False
 2020-05-21,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-21,EST,EU,Estonia,58.596209,25.023778,1800,64,0,1736,0,0,True,True
 2020-05-21,ETH,AF,Ethiopia,9.148086,40.493059,389,5,0,384,0,0,False,False
 2020-05-21,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-21,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -13624,7 +13557,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,SLV,NA,El Salvador,13.796873,-88.910412,1640,33,0,1607,0,0,False,False
 2020-05-22,GNQ,AF,Equatorial Guinea,1.633925,10.341295,903,10,0,893,0,0,False,False
 2020-05-22,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-22,EST,EU,Estonia,58.596209,25.023778,1807,64,0,1743,0,0,True,True
 2020-05-22,ETH,AF,Ethiopia,9.148086,40.493059,399,5,0,394,0,0,False,False
 2020-05-22,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-22,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -13819,7 +13751,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,SLV,NA,El Salvador,13.796873,-88.910412,1725,33,0,1692,0,0,False,False
 2020-05-23,GNQ,AF,Equatorial Guinea,1.633925,10.341295,903,10,0,893,0,0,False,False
 2020-05-23,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-23,EST,EU,Estonia,58.596209,25.023778,1821,64,0,1757,0,0,True,True
 2020-05-23,ETH,AF,Ethiopia,9.148086,40.493059,433,5,0,428,0,0,False,False
 2020-05-23,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-23,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14013,7 +13944,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,SLV,NA,El Salvador,13.796873,-88.910412,1819,35,0,1784,0,0,False,False
 2020-05-24,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-24,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-24,EST,EU,Estonia,58.596209,25.023778,1823,64,0,1759,0,0,True,True
 2020-05-24,ETH,AF,Ethiopia,9.148086,40.493059,494,5,0,489,0,0,False,False
 2020-05-24,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-24,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14208,7 +14138,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,SLV,NA,El Salvador,13.796873,-88.910412,1915,35,0,1880,0,0,False,False
 2020-05-25,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-25,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-25,EST,EU,Estonia,58.596209,25.023778,1824,65,0,1759,0,0,True,True
 2020-05-25,ETH,AF,Ethiopia,9.148086,40.493059,582,5,0,577,0,0,False,False
 2020-05-25,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-25,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14404,7 +14333,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,SLV,NA,El Salvador,13.796873,-88.910412,1983,36,0,1947,0,0,False,False
 2020-05-26,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-26,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-26,EST,EU,Estonia,58.596209,25.023778,1834,65,0,1769,0,0,True,True
 2020-05-26,ETH,AF,Ethiopia,9.148086,40.493059,655,5,0,650,0,0,False,False
 2020-05-26,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-26,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14600,7 +14528,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,SLV,NA,El Salvador,13.796873,-88.910412,2042,36,0,2006,0,0,False,False
 2020-05-27,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-27,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-27,EST,EU,Estonia,58.596209,25.023778,1840,66,0,1774,0,0,True,True
 2020-05-27,ETH,AF,Ethiopia,9.148086,40.493059,701,6,0,695,0,0,False,False
 2020-05-27,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-27,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14796,7 +14723,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,SLV,NA,El Salvador,13.796873,-88.910412,2109,39,0,2070,0,0,False,False
 2020-05-28,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-28,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-28,EST,EU,Estonia,58.596209,25.023778,1851,66,0,1785,0,0,True,True
 2020-05-28,ETH,AF,Ethiopia,9.148086,40.493059,731,6,0,725,0,0,False,False
 2020-05-28,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-28,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -14992,7 +14918,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,SLV,NA,El Salvador,13.796873,-88.910412,2194,39,0,2155,0,0,False,False
 2020-05-29,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-29,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-29,EST,EU,Estonia,58.596209,25.023778,1859,67,0,1792,0,0,True,True
 2020-05-29,ETH,AF,Ethiopia,9.148086,40.493059,831,7,0,824,0,0,False,False
 2020-05-29,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-29,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -15188,7 +15113,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,SLV,NA,El Salvador,13.796873,-88.910412,2278,43,0,2235,0,0,False,False
 2020-05-30,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1043,12,0,1031,0,0,False,False
 2020-05-30,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-30,EST,EU,Estonia,58.596209,25.023778,1865,68,0,1797,0,0,True,True
 2020-05-30,ETH,AF,Ethiopia,9.148086,40.493059,968,8,0,960,0,0,False,False
 2020-05-30,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-30,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -15382,7 +15306,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,SLV,NA,El Salvador,13.796873,-88.910412,2517,46,0,2471,0,0,False,False
 2020-05-31,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-05-31,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-05-31,EST,EU,Estonia,58.596209,25.023778,1869,68,0,1801,0,0,True,True
 2020-05-31,ETH,AF,Ethiopia,9.148086,40.493059,1063,8,0,1055,0,0,False,False
 2020-05-31,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-05-31,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -15576,7 +15499,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,SLV,NA,El Salvador,13.796873,-88.910412,2517,46,0,2471,0,0,False,False
 2020-06-01,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-01,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-06-01,EST,EU,Estonia,58.596209,25.023778,1870,68,0,1802,0,0,True,True
 2020-06-01,ETH,AF,Ethiopia,9.148086,40.493059,1172,11,0,1161,0,0,False,False
 2020-06-01,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-01,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -15769,7 +15691,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,SLV,NA,El Salvador,13.796873,-88.910412,2582,46,0,2536,0,0,False,False
 2020-06-02,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-02,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-06-02,EST,EU,Estonia,58.596209,25.023778,1870,68,0,1802,0,0,True,True
 2020-06-02,ETH,AF,Ethiopia,9.148086,40.493059,1257,12,0,1245,0,0,False,False
 2020-06-02,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-02,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -15964,7 +15885,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,SLV,NA,El Salvador,13.796873,-88.910412,2653,49,0,2604,0,0,False,False
 2020-06-03,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-03,ERI,AF,Eritrea,15.18132,39.786709,39,0,0,39,0,0,False,False
-2020-06-03,EST,EU,Estonia,58.596209,25.023778,1880,69,0,1811,0,0,True,True
 2020-06-03,ETH,AF,Ethiopia,9.148086,40.493059,1344,14,0,1330,0,0,False,False
 2020-06-03,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-03,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -16160,7 +16080,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,SLV,NA,El Salvador,13.796873,-88.910412,2705,51,0,2654,0,0,False,False
 2020-06-04,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-04,ERI,AF,Eritrea,15.18132,39.786709,40,0,0,40,0,0,False,False
-2020-06-04,EST,EU,Estonia,58.596209,25.023778,1890,69,0,1821,0,0,True,True
 2020-06-04,ETH,AF,Ethiopia,9.148086,40.493059,1486,17,0,1469,0,0,False,False
 2020-06-04,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-04,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -16354,7 +16273,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,SLV,NA,El Salvador,13.796873,-88.910412,2781,52,0,2729,0,0,False,False
 2020-06-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-05,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-05,EST,EU,Estonia,58.596209,25.023778,1910,69,0,1841,0,0,True,True
 2020-06-05,ETH,AF,Ethiopia,9.148086,40.493059,1636,18,0,1618,0,0,False,False
 2020-06-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-05,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -16549,7 +16467,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,SLV,NA,El Salvador,13.796873,-88.910412,2849,53,0,2796,0,0,False,False
 2020-06-06,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-06,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-06,EST,EU,Estonia,58.596209,25.023778,1931,69,0,1862,0,0,True,True
 2020-06-06,ETH,AF,Ethiopia,9.148086,40.493059,1805,19,0,1786,0,0,False,False
 2020-06-06,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-06,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -16742,7 +16659,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,SLV,NA,El Salvador,13.796873,-88.910412,2934,53,0,2881,0,0,False,False
 2020-06-07,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-07,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-07,EST,EU,Estonia,58.596209,25.023778,1939,69,0,1870,0,0,True,True
 2020-06-07,ETH,AF,Ethiopia,9.148086,40.493059,1934,20,0,1914,0,0,False,False
 2020-06-07,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-07,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -16937,7 +16853,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,SLV,NA,El Salvador,13.796873,-88.910412,3015,55,0,2960,0,0,False,False
 2020-06-08,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-08,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-08,EST,EU,Estonia,58.596209,25.023778,1940,69,0,1871,0,0,True,True
 2020-06-08,ETH,AF,Ethiopia,9.148086,40.493059,2020,27,0,1993,0,0,False,False
 2020-06-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-08,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -17131,7 +17046,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,SLV,NA,El Salvador,13.796873,-88.910412,3104,58,0,3046,0,0,False,False
 2020-06-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-09,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-09,EST,EU,Estonia,58.596209,25.023778,1947,69,0,1878,0,0,True,True
 2020-06-09,ETH,AF,Ethiopia,9.148086,40.493059,2156,27,0,2129,0,0,False,False
 2020-06-09,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-09,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -17327,7 +17241,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,SLV,NA,El Salvador,13.796873,-88.910412,3191,60,0,3131,0,0,False,False
 2020-06-10,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-10,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-10,EST,EU,Estonia,58.596209,25.023778,1958,69,0,1889,0,0,True,True
 2020-06-10,ETH,AF,Ethiopia,9.148086,40.493059,2336,32,0,2304,0,0,False,False
 2020-06-10,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-10,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -17522,7 +17435,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,SLV,NA,El Salvador,13.796873,-88.910412,3274,64,0,3210,0,0,False,False
 2020-06-11,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-11,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-11,EST,EU,Estonia,58.596209,25.023778,1965,69,0,1896,0,0,True,True
 2020-06-11,ETH,AF,Ethiopia,9.148086,40.493059,2506,35,0,2471,0,0,False,False
 2020-06-11,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-11,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -17716,7 +17628,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,SLV,NA,El Salvador,13.796873,-88.910412,3481,68,0,3413,0,0,False,False
 2020-06-12,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-12,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-12,EST,EU,Estonia,58.596209,25.023778,1970,69,0,1901,0,0,True,True
 2020-06-12,ETH,AF,Ethiopia,9.148086,40.493059,2670,40,0,2630,0,0,False,False
 2020-06-12,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-12,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -17910,7 +17821,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,SLV,NA,El Salvador,13.796873,-88.910412,3481,72,0,3409,0,0,False,False
 2020-06-13,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-13,ERI,AF,Eritrea,15.18132,39.786709,41,0,0,41,0,0,False,False
-2020-06-13,EST,EU,Estonia,58.596209,25.023778,1970,69,0,1901,0,0,True,True
 2020-06-13,ETH,AF,Ethiopia,9.148086,40.493059,2915,47,0,2868,0,0,False,False
 2020-06-13,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-13,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -18104,7 +18014,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,SLV,NA,El Salvador,13.796873,-88.910412,3603,72,0,3531,0,0,False,False
 2020-06-14,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-14,ERI,AF,Eritrea,15.18132,39.786709,65,0,0,65,0,0,False,False
-2020-06-14,EST,EU,Estonia,58.596209,25.023778,1973,69,0,1904,0,0,True,True
 2020-06-14,ETH,AF,Ethiopia,9.148086,40.493059,3166,55,0,3111,0,0,False,False
 2020-06-14,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-14,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -18298,7 +18207,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,SLV,NA,El Salvador,13.796873,-88.910412,3720,74,0,3646,0,0,False,False
 2020-06-15,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,0,1294,0,0,False,False
 2020-06-15,ERI,AF,Eritrea,15.18132,39.786709,96,0,0,96,0,0,False,False
-2020-06-15,EST,EU,Estonia,58.596209,25.023778,1974,69,0,1905,,,True,True
 2020-06-15,ETH,AF,Ethiopia,9.148086,40.493059,3345,57,0,3288,0,0,False,False
 2020-06-15,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,0,13,0,0,False,False
 2020-06-15,FJI,OC,Fiji,-16.578041,178.416339,18,0,0,18,0,0,False,False
@@ -18493,7 +18401,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,SLV,NA,El Salvador,13.796873,-88.910412,3826,76,,3750,,,False,False
 2020-06-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,,1294,,,False,False
 2020-06-16,ERI,AF,Eritrea,15.18132,39.786709,109,0,,109,,,False,False
-2020-06-16,EST,EU,Estonia,58.596209,25.023778,1975,69,0,1906,,,True,True
 2020-06-16,ETH,AF,Ethiopia,9.148086,40.493059,3521,60,,3461,,,False,False
 2020-06-16,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-16,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -18687,7 +18594,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,SLV,NA,El Salvador,13.796873,-88.910412,3941,78,,3863,,,False,False
 2020-06-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,,1294,,,False,False
 2020-06-17,ERI,AF,Eritrea,15.18132,39.786709,121,0,,121,,,False,False
-2020-06-17,EST,EU,Estonia,58.596209,25.023778,1977,69,0,1908,,,True,True
 2020-06-17,ETH,AF,Ethiopia,9.148086,40.493059,3630,61,,3569,,,False,False
 2020-06-17,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-17,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -18883,7 +18789,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,SLV,NA,El Salvador,13.796873,-88.910412,4066,82,,3984,,,False,False
 2020-06-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,,1294,,,False,False
 2020-06-18,ERI,AF,Eritrea,15.18132,39.786709,131,0,,131,,,False,False
-2020-06-18,EST,EU,Estonia,58.596209,25.023778,1977,69,0,1908,,,True,True
 2020-06-18,ETH,AF,Ethiopia,9.148086,40.493059,3759,63,,3696,,,False,False
 2020-06-18,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-18,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -19078,7 +18983,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,SLV,NA,El Salvador,13.796873,-88.910412,4200,86,,4114,,,False,False
 2020-06-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1306,12,,1294,,,False,False
 2020-06-19,ERI,AF,Eritrea,15.18132,39.786709,142,0,,142,,,False,False
-2020-06-19,EST,EU,Estonia,58.596209,25.023778,1979,69,0,1910,,,True,True
 2020-06-19,ETH,AF,Ethiopia,9.148086,40.493059,3954,65,,3889,,,False,False
 2020-06-19,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-19,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -19271,7 +19175,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,SLV,NA,El Salvador,13.796873,-88.910412,4329,93,,4236,,,False,False
 2020-06-20,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1664,32,,1632,,,False,False
 2020-06-20,ERI,AF,Eritrea,15.18132,39.786709,142,0,,142,,,False,False
-2020-06-20,EST,EU,Estonia,58.596209,25.023778,1981,69,0,1912,,,True,True
 2020-06-20,ETH,AF,Ethiopia,9.148086,40.493059,4070,72,,3998,,,False,False
 2020-06-20,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-20,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -19460,7 +19363,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,SLV,NA,El Salvador,13.796873,-88.910412,4626,98,,4528,,,False,False
 2020-06-21,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1664,32,,1632,,,False,False
 2020-06-21,ERI,AF,Eritrea,15.18132,39.786709,143,0,,143,,,False,False
-2020-06-21,EST,EU,Estonia,58.596209,25.023778,1981,69,0,1912,,,True,True
 2020-06-21,ETH,AF,Ethiopia,9.148086,40.493059,4469,72,,4397,,,False,False
 2020-06-21,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-21,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -19643,7 +19545,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,SLV,NA,El Salvador,13.796873,-88.910412,4626,107,,4519,,,False,False
 2020-06-22,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1664,32,,1632,,,False,False
 2020-06-22,ERI,AF,Eritrea,15.18132,39.786709,143,0,,143,,,False,False
-2020-06-22,EST,EU,Estonia,58.596209,25.023778,1981,69,0,1912,,,True,True
 2020-06-22,ETH,AF,Ethiopia,9.148086,40.493059,4532,74,,4458,,,False,False
 2020-06-22,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-22,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -19838,7 +19739,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,SLV,NA,El Salvador,13.796873,-88.910412,4808,107,,4701,,,False,False
 2020-06-23,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-23,ERI,AF,Eritrea,15.18132,39.786709,143,0,,143,,,False,False
-2020-06-23,EST,EU,Estonia,58.596209,25.023778,1982,69,0,1913,,,True,True
 2020-06-23,ETH,AF,Ethiopia,9.148086,40.493059,4663,75,,4588,,,False,False
 2020-06-23,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-23,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -20034,7 +19934,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,SLV,NA,El Salvador,13.796873,-88.910412,4973,113,,4860,,,False,False
 2020-06-24,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-24,ERI,AF,Eritrea,15.18132,39.786709,143,0,,143,,,False,False
-2020-06-24,EST,EU,Estonia,58.596209,25.023778,1983,69,0,1914,,,True,True
 2020-06-24,ETH,AF,Ethiopia,9.148086,40.493059,4848,75,,4773,,,False,False
 2020-06-24,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-24,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -20230,7 +20129,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,SLV,NA,El Salvador,13.796873,-88.910412,5150,126,,5024,,,False,False
 2020-06-25,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-25,ERI,AF,Eritrea,15.18132,39.786709,143,0,,143,,,False,False
-2020-06-25,EST,EU,Estonia,58.596209,25.023778,1984,69,0,1915,,,True,True
 2020-06-25,ETH,AF,Ethiopia,9.148086,40.493059,5034,78,,4956,,,False,False
 2020-06-25,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-25,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -20424,7 +20322,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,SLV,NA,El Salvador,13.796873,-88.910412,5336,133,,5203,,,False,False
 2020-06-26,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-26,ERI,AF,Eritrea,15.18132,39.786709,144,0,,144,,,False,False
-2020-06-26,EST,EU,Estonia,58.596209,25.023778,1986,69,0,1917,,,True,True
 2020-06-26,ETH,AF,Ethiopia,9.148086,40.493059,5175,81,,5094,,,False,False
 2020-06-26,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-26,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -20619,7 +20516,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,SLV,NA,El Salvador,13.796873,-88.910412,5517,143,,5374,,,False,False
 2020-06-27,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-27,ERI,AF,Eritrea,15.18132,39.786709,167,0,,167,,,False,False
-2020-06-27,EST,EU,Estonia,58.596209,25.023778,1986,69,0,1917,,,True,True
 2020-06-27,ETH,AF,Ethiopia,9.148086,40.493059,5425,89,,5336,,,False,False
 2020-06-27,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-27,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -20811,7 +20707,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,SLV,NA,El Salvador,13.796873,-88.910412,5934,152,,5782,,,False,False
 2020-06-28,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-28,ERI,AF,Eritrea,15.18132,39.786709,191,0,,191,,,False,False
-2020-06-28,EST,EU,Estonia,58.596209,25.023778,1987,69,0,1918,,,True,True
 2020-06-28,ETH,AF,Ethiopia,9.148086,40.493059,5570,94,,5476,,,False,False
 2020-06-28,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-28,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21005,7 +20900,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,SLV,NA,El Salvador,13.796873,-88.910412,5934,164,,5770,,,False,False
 2020-06-29,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-29,ERI,AF,Eritrea,15.18132,39.786709,191,0,,191,,,False,False
-2020-06-29,EST,EU,Estonia,58.596209,25.023778,1987,69,0,1918,,,True,True
 2020-06-29,ETH,AF,Ethiopia,9.148086,40.493059,5689,98,,5591,,,False,False
 2020-06-29,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-29,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21200,7 +21094,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,SLV,NA,El Salvador,13.796873,-88.910412,6173,164,,6009,,,False,False
 2020-06-30,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-06-30,ERI,AF,Eritrea,15.18132,39.786709,191,0,,191,,,False,False
-2020-06-30,EST,EU,Estonia,58.596209,25.023778,1989,69,0,1920,,,True,True
 2020-06-30,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-06-30,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-06-30,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21395,7 +21288,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,SLV,NA,El Salvador,13.796873,-88.910412,6438,174,,6264,,,False,False
 2020-07-01,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-07-01,ERI,AF,Eritrea,15.18132,39.786709,203,0,,203,,,False,False
-2020-07-01,EST,EU,Estonia,58.596209,25.023778,1989,69,0,1920,,,True,True
 2020-07-01,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-07-01,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-01,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21590,7 +21482,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,SLV,NA,El Salvador,13.796873,-88.910412,6736,182,,6554,,,False,False
 2020-07-02,GNQ,AF,Equatorial Guinea,1.633925,10.341295,2001,32,,1969,,,False,False
 2020-07-02,ERI,AF,Eritrea,15.18132,39.786709,203,0,,203,,,False,False
-2020-07-02,EST,EU,Estonia,58.596209,25.023778,1990,69,0,1921,,,True,True
 2020-07-02,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-07-02,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-02,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21785,7 +21676,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-03,SLV,NA,El Salvador,13.796873,-88.910412,7000,191,,6809,,,False,False
 2020-07-03,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-03,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-03,EST,EU,Estonia,58.596209,25.023778,1991,69,0,1922,,,True,True
 2020-07-03,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-07-03,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-03,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -21978,7 +21868,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-04,SLV,NA,El Salvador,13.796873,-88.910412,7267,210,,7057,,,False,False
 2020-07-04,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-04,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-04,EST,EU,Estonia,58.596209,25.023778,1993,69,0,1924,,,True,True
 2020-07-04,ETH,AF,Ethiopia,9.148086,40.493059,6163,109,,6054,,,False,False
 2020-07-04,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-04,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -22167,7 +22056,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-05,SLV,NA,El Salvador,13.796873,-88.910412,7507,210,,7297,,,False,False
 2020-07-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-05,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-05,EST,EU,Estonia,58.596209,25.023778,1992,69,0,1923,,,True,True
 2020-07-05,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-07-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-05,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -22358,7 +22246,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-06,SLV,NA,El Salvador,13.796873,-88.910412,7777,217,,7560,,,False,False
 2020-07-06,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-06,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-06,EST,EU,Estonia,58.596209,25.023778,1994,69,0,1925,,,True,True
 2020-07-06,ETH,AF,Ethiopia,9.148086,40.493059,5846,103,,5743,,,False,False
 2020-07-06,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-06,FJI,OC,Fiji,-16.578041,178.416339,18,0,,18,,,False,False
@@ -22553,7 +22440,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,SLV,NA,El Salvador,13.796873,-88.910412,8027,223,,7804,,,False,False
 2020-07-07,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-07,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-07,EST,EU,Estonia,58.596209,25.023778,1995,69,0,1926,,,True,True
 2020-07-07,ETH,AF,Ethiopia,9.148086,40.493059,6386,116,,6270,,,False,False
 2020-07-07,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-07,FJI,OC,Fiji,-16.578041,178.416339,19,0,,19,,,False,False
@@ -22748,7 +22634,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,SLV,NA,El Salvador,13.796873,-88.910412,8307,229,,8078,,,False,False
 2020-07-08,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-08,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-08,EST,EU,Estonia,58.596209,25.023778,2003,69,0,1934,,,True,True
 2020-07-08,ETH,AF,Ethiopia,9.148086,40.493059,6666,119,,6547,,,False,False
 2020-07-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-08,FJI,OC,Fiji,-16.578041,178.416339,19,0,,19,,,False,False
@@ -22944,7 +22829,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,SLV,NA,El Salvador,13.796873,-88.910412,8566,235,,8331,,,False,False
 2020-07-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-09,ERI,AF,Eritrea,15.18132,39.786709,215,0,,215,,,False,False
-2020-07-09,EST,EU,Estonia,58.596209,25.023778,2011,69,0,1942,,,True,True
 2020-07-09,ETH,AF,Ethiopia,9.148086,40.493059,6774,120,,6654,,,False,False
 2020-07-09,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-09,FJI,OC,Fiji,-16.578041,178.416339,21,0,,21,,,False,False
@@ -23140,7 +23024,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,SLV,NA,El Salvador,13.796873,-88.910412,8844,243,,8601,,,False,False
 2020-07-10,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-10,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-10,EST,EU,Estonia,58.596209,25.023778,2013,69,0,1944,,,True,True
 2020-07-10,ETH,AF,Ethiopia,9.148086,40.493059,6973,120,,6853,,,False,False
 2020-07-10,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-10,FJI,OC,Fiji,-16.578041,178.416339,21,0,,21,,,False,False
@@ -23335,7 +23218,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,SLV,NA,El Salvador,13.796873,-88.910412,9142,249,,8893,,,False,False
 2020-07-11,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-11,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-11,EST,EU,Estonia,58.596209,25.023778,2014,69,0,1945,,,True,True
 2020-07-11,ETH,AF,Ethiopia,9.148086,40.493059,7120,124,,6996,,,False,False
 2020-07-11,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-11,FJI,OC,Fiji,-16.578041,178.416339,21,0,,21,,,False,False
@@ -23525,7 +23407,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,SLV,NA,El Salvador,13.796873,-88.910412,9391,254,,9137,,,False,False
 2020-07-12,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-12,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-12,EST,EU,Estonia,58.596209,25.023778,2014,69,0,1945,,,True,True
 2020-07-12,ETH,AF,Ethiopia,9.148086,40.493059,7402,124,,7278,,,False,False
 2020-07-12,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-12,FJI,OC,Fiji,-16.578041,178.416339,21,0,,21,,,False,False
@@ -23717,7 +23598,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-13,SLV,NA,El Salvador,13.796873,-88.910412,9674,267,,9407,,,False,False
 2020-07-13,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-13,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-13,EST,EU,Estonia,58.596209,25.023778,2014,69,0,1945,,,True,True
 2020-07-13,ETH,AF,Ethiopia,9.148086,40.493059,7560,127,,7433,,,False,False
 2020-07-13,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-13,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -23912,7 +23792,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-14,SLV,NA,El Salvador,13.796873,-88.910412,9978,278,,9700,,,False,False
 2020-07-14,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-14,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-14,EST,EU,Estonia,58.596209,25.023778,2015,69,0,1946,,,True,True
 2020-07-14,ETH,AF,Ethiopia,9.148086,40.493059,7766,128,,7638,,,False,False
 2020-07-14,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-14,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -24106,7 +23985,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-15,SLV,NA,El Salvador,13.796873,-88.910412,10303,278,,10025,,,False,False
 2020-07-15,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-15,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-15,EST,EU,Estonia,58.596209,25.023778,2016,69,0,1947,,,True,True
 2020-07-15,ETH,AF,Ethiopia,9.148086,40.493059,7969,139,,7830,,,False,False
 2020-07-15,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-15,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -24301,7 +24179,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-16,SLV,NA,El Salvador,13.796873,-88.910412,10645,298,,10347,,,False,False
 2020-07-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-16,ERI,AF,Eritrea,15.18132,39.786709,232,0,,232,,,False,False
-2020-07-16,EST,EU,Estonia,58.596209,25.023778,2016,69,0,1947,,,True,True
 2020-07-16,ETH,AF,Ethiopia,9.148086,40.493059,8181,146,,8035,,,False,False
 2020-07-16,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-16,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -24497,7 +24374,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-17,SLV,NA,El Salvador,13.796873,-88.910412,10957,309,,10648,,,False,False
 2020-07-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-17,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-17,EST,EU,Estonia,58.596209,25.023778,2020,69,0,1951,,,True,True
 2020-07-17,ETH,AF,Ethiopia,9.148086,40.493059,8475,148,,8327,,,False,False
 2020-07-17,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-17,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -24692,7 +24568,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-18,SLV,NA,El Salvador,13.796873,-88.910412,11207,324,,10883,,,False,False
 2020-07-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-18,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-18,EST,EU,Estonia,58.596209,25.023778,2021,69,0,1952,,,True,True
 2020-07-18,ETH,AF,Ethiopia,9.148086,40.493059,8803,150,,8653,,,False,False
 2020-07-18,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-18,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -24883,7 +24758,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-19,SLV,NA,El Salvador,13.796873,-88.910412,11508,324,,11184,,,False,False
 2020-07-19,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-19,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-19,EST,EU,Estonia,58.596209,25.023778,2021,69,0,1952,,,True,True
 2020-07-19,ETH,AF,Ethiopia,9.148086,40.493059,9147,163,,8984,,,False,False
 2020-07-19,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-19,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -25075,7 +24949,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-20,SLV,NA,El Salvador,13.796873,-88.910412,11846,344,,11502,,,False,False
 2020-07-20,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-20,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-20,EST,EU,Estonia,58.596209,25.023778,2021,69,0,1952,,,True,True
 2020-07-20,ETH,AF,Ethiopia,9.148086,40.493059,9503,167,,9336,,,False,False
 2020-07-20,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-20,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -25271,7 +25144,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,SLV,NA,El Salvador,13.796873,-88.910412,12207,352,,11855,,,False,False
 2020-07-21,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-21,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-21,EST,EU,Estonia,58.596209,25.023778,2022,69,0,1953,,,True,True
 2020-07-21,ETH,AF,Ethiopia,9.148086,40.493059,10207,170,,10037,,,False,False
 2020-07-21,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-21,FJI,OC,Fiji,-16.578041,178.416339,26,0,,26,,,False,False
@@ -25415,7 +25287,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8786,261,,8525,,,False,False
 2020-07-22,BGR,EU,Bulgaria,42.729862,25.491667,9254,313,4521,4420,,,True,True
 2020-07-22,CZE,EU,Czech Republic,49.800901,15.478153,14324,360,8918,5046,,,True,True
-2020-07-22,EST,EU,Estonia,58.596209,25.023778,2025,69,0,1956,,,True,True
 2020-07-22,FRA,EU,France,46.232193,2.209667,178336,19656,79957,78723,6366,445,True,True
 2020-07-22,DEU,EU,Germany,51.165706,10.452764,202799,9095,188600,5104,,,True,True
 2020-07-22,GRC,EU,Greece,38.275283,23.810343,4048,197,,3851,,,True,True
@@ -25483,7 +25354,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-23,SLV,NA,El Salvador,13.796873,-88.910412,12975,363,,12612,,,False,False
 2020-07-23,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-23,ERI,AF,Eritrea,15.18132,39.786709,251,0,,251,,,False,False
-2020-07-23,EST,EU,Estonia,58.596209,25.023778,2027,69,0,1958,,,True,True
 2020-07-23,ETH,AF,Ethiopia,9.148086,40.493059,11072,180,,10892,,,False,False
 2020-07-23,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-23,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -25678,7 +25548,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-24,SLV,NA,El Salvador,13.796873,-88.910412,13377,372,,13005,,,False,False
 2020-07-24,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-24,ERI,AF,Eritrea,15.18132,39.786709,261,0,,261,,,False,False
-2020-07-24,EST,EU,Estonia,58.596209,25.023778,2028,69,0,1959,,,True,True
 2020-07-24,ETH,AF,Ethiopia,9.148086,40.493059,11524,188,,11336,,,False,False
 2020-07-24,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-24,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -25865,7 +25734,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-25,SLV,NA,El Salvador,13.796873,-88.910412,13792,390,,13402,,,False,False
 2020-07-25,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-25,ERI,AF,Eritrea,15.18132,39.786709,261,0,,261,,,False,False
-2020-07-25,EST,EU,Estonia,58.596209,25.023778,2033,69,0,1964,,,True,True
 2020-07-25,ETH,AF,Ethiopia,9.148086,40.493059,11933,197,,11736,,,False,False
 2020-07-25,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-25,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26048,7 +25916,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-26,SLV,NA,El Salvador,13.796873,-88.910412,14221,390,,13831,,,False,False
 2020-07-26,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-26,ERI,AF,Eritrea,15.18132,39.786709,263,0,,263,,,False,False
-2020-07-26,EST,EU,Estonia,58.596209,25.023778,2034,69,0,1965,,,True,True
 2020-07-26,ETH,AF,Ethiopia,9.148086,40.493059,12693,200,,12493,,,False,False
 2020-07-26,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-26,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26239,7 +26106,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-27,SLV,NA,El Salvador,13.796873,-88.910412,14630,408,,14222,,,False,False
 2020-07-27,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-27,ERI,AF,Eritrea,15.18132,39.786709,263,0,,263,,,False,False
-2020-07-27,EST,EU,Estonia,58.596209,25.023778,2034,69,0,1965,,,True,True
 2020-07-27,ETH,AF,Ethiopia,9.148086,40.493059,13968,223,,13745,,,False,False
 2020-07-27,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-27,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26435,7 +26301,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-28,SLV,NA,El Salvador,13.796873,-88.910412,15035,408,,14627,,,False,False
 2020-07-28,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-28,ERI,AF,Eritrea,15.18132,39.786709,265,0,,265,,,False,False
-2020-07-28,EST,EU,Estonia,58.596209,25.023778,2038,69,0,1969,,,True,True
 2020-07-28,ETH,AF,Ethiopia,9.148086,40.493059,14547,228,,14319,,,False,False
 2020-07-28,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-28,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26631,7 +26496,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-29,SLV,NA,El Salvador,13.796873,-88.910412,15446,417,,15029,,,False,False
 2020-07-29,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-29,ERI,AF,Eritrea,15.18132,39.786709,265,0,,265,,,False,False
-2020-07-29,EST,EU,Estonia,58.596209,25.023778,2042,69,0,1973,,,True,True
 2020-07-29,ETH,AF,Ethiopia,9.148086,40.493059,15200,239,,14961,,,False,False
 2020-07-29,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-29,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26827,7 +26691,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-30,SLV,NA,El Salvador,13.796873,-88.910412,15841,430,,15411,,,False,False
 2020-07-30,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-07-30,ERI,AF,Eritrea,15.18132,39.786709,265,0,,265,,,False,False
-2020-07-30,EST,EU,Estonia,58.596209,25.023778,2051,69,0,1982,,,True,True
 2020-07-30,ETH,AF,Ethiopia,9.148086,40.493059,15810,253,,15557,,,False,False
 2020-07-30,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-07-30,FJI,OC,Fiji,-16.578041,178.416339,27,0,,27,,,False,False
@@ -26976,7 +26839,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-31,CYP,EU,Cyprus,35.167406,33.435499,1084,19,,1065,,,True,True
 2020-07-31,CZE,EU,Czech Republic,49.800901,15.478153,16342,379,11482,4481,,,True,True
 2020-07-31,DNK,EU,Denmark,56.155403,11.617223,13789,615,,13174,,,True,True
-2020-07-31,EST,EU,Estonia,58.596209,25.023778,2064,69,0,1995,,,True,True
 2020-07-31,FIN,EU,Finland,64.952416,26.068944,7432,,,7432,,,True,True
 2020-07-31,FRA,EU,France,46.232193,2.209667,187919,19730,81870,86319,5298,347,True,True
 2020-07-31,DEU,EU,Germany,51.165706,10.452764,208698,9141,192300,7257,,,True,True
@@ -27065,7 +26927,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-01,SLV,NA,El Salvador,13.796873,-88.910412,16632,448,,16184,,,False,False
 2020-08-01,GNQ,AF,Equatorial Guinea,1.633925,10.341295,3071,51,,3020,,,False,False
 2020-08-01,ERI,AF,Eritrea,15.18132,39.786709,279,0,,279,,,False,False
-2020-08-01,EST,EU,Estonia,58.596209,25.023778,2072,69,0,2003,,,True,True
 2020-08-01,ETH,AF,Ethiopia,9.148086,40.493059,17530,274,,17256,,,False,False
 2020-08-01,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-01,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -27255,7 +27116,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-02,SLV,NA,El Salvador,13.796873,-88.910412,17050,467,,16583,,,False,False
 2020-08-02,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-02,ERI,AF,Eritrea,15.18132,39.786709,279,0,,279,,,False,False
-2020-08-02,EST,EU,Estonia,58.596209,25.023778,2079,69,0,2010,,,True,True
 2020-08-02,ETH,AF,Ethiopia,9.148086,40.493059,17999,284,,17715,,,False,False
 2020-08-02,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-02,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -27446,7 +27306,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-03,SLV,NA,El Salvador,13.796873,-88.910412,17448,467,,16981,,,False,False
 2020-08-03,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-03,ERI,AF,Eritrea,15.18132,39.786709,279,0,,279,,,False,False
-2020-08-03,EST,EU,Estonia,58.596209,25.023778,2080,69,0,2011,,,True,True
 2020-08-03,ETH,AF,Ethiopia,9.148086,40.493059,17999,284,,17715,,,False,False
 2020-08-03,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-03,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -27642,7 +27501,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-04,SLV,NA,El Salvador,13.796873,-88.910412,17843,486,,17357,,,False,False
 2020-08-04,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-04,ERI,AF,Eritrea,15.18132,39.786709,282,0,,282,,,False,False
-2020-08-04,EST,EU,Estonia,58.596209,25.023778,2091,69,0,2022,,,True,True
 2020-08-04,ETH,AF,Ethiopia,9.148086,40.493059,19289,336,,18953,,,False,False
 2020-08-04,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-04,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -27837,7 +27695,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,SLV,NA,El Salvador,13.796873,-88.910412,18262,486,,17776,,,False,False
 2020-08-05,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-05,ERI,AF,Eritrea,15.18132,39.786709,282,0,,282,,,False,False
-2020-08-05,EST,EU,Estonia,58.596209,25.023778,2113,69,0,2044,,,True,True
 2020-08-05,ETH,AF,Ethiopia,9.148086,40.493059,19877,343,,19534,,,False,False
 2020-08-05,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-05,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -28032,7 +27889,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-06,SLV,NA,El Salvador,13.796873,-88.910412,18701,513,,18188,,,False,False
 2020-08-06,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-06,ERI,AF,Eritrea,15.18132,39.786709,282,0,,282,,,False,False
-2020-08-06,EST,EU,Estonia,58.596209,25.023778,2124,69,0,2055,,,True,True
 2020-08-06,ETH,AF,Ethiopia,9.148086,40.493059,20336,356,,19980,,,False,False
 2020-08-06,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-06,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -28228,7 +28084,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-07,SLV,NA,El Salvador,13.796873,-88.910412,19126,520,,18606,,,False,False
 2020-08-07,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-07,ERI,AF,Eritrea,15.18132,39.786709,282,0,,282,,,False,False
-2020-08-07,EST,EU,Estonia,58.596209,25.023778,2133,69,0,2064,,,True,True
 2020-08-07,ETH,AF,Ethiopia,9.148086,40.493059,20900,365,,20535,,,False,False
 2020-08-07,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-07,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -28422,7 +28277,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-08,SLV,NA,El Salvador,13.796873,-88.910412,19544,536,,19008,,,False,False
 2020-08-08,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-08,ERI,AF,Eritrea,15.18132,39.786709,285,0,,285,,,False,False
-2020-08-08,EST,EU,Estonia,58.596209,25.023778,2147,69,0,2078,,,True,True
 2020-08-08,ETH,AF,Ethiopia,9.148086,40.493059,21452,380,,21072,,,False,False
 2020-08-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-08,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -28583,7 +28437,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-09,EGY,AF,Egypt,26.696361,30.246486,95314,4992,,90322,,,False,False
 2020-08-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-09,ERI,AF,Eritrea,15.18132,39.786709,285,0,,285,,,False,False
-2020-08-09,EST,EU,Estonia,58.596209,25.023778,2152,69,0,2083,,,True,True
 2020-08-09,ETH,AF,Ethiopia,9.148086,40.493059,22253,390,,21863,,,False,False
 2020-08-09,FIN,EU,Finland,64.952416,26.068944,7584,,,7584,,,True,True
 2020-08-09,FRA,EU,France,46.232193,2.209667,201990,19800,82886,99304,4992,368,True,True
@@ -28705,7 +28558,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-10,SLV,NA,El Salvador,13.796873,-88.910412,20423,563,,19860,,,False,False
 2020-08-10,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-10,ERI,AF,Eritrea,15.18132,39.786709,285,0,,285,,,False,False
-2020-08-10,EST,EU,Estonia,58.596209,25.023778,2158,69,0,2089,,,True,True
 2020-08-10,ETH,AF,Ethiopia,9.148086,40.493059,22818,407,,22411,,,False,False
 2020-08-10,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-10,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -28901,7 +28753,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-11,SLV,NA,El Salvador,13.796873,-88.910412,20872,570,,20302,,,False,False
 2020-08-11,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-11,ERI,AF,Eritrea,15.18132,39.786709,285,0,,285,,,False,False
-2020-08-11,EST,EU,Estonia,58.596209,25.023778,2167,69,0,2098,,,True,True
 2020-08-11,ETH,AF,Ethiopia,9.148086,40.493059,23591,420,,23171,,,False,False
 2020-08-11,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-11,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
@@ -29097,7 +28948,6 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-12,SLV,NA,El Salvador,13.796873,-88.910412,21269,577,,20692,,,False,False
 2020-08-12,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False
 2020-08-12,ERI,AF,Eritrea,15.18132,39.786709,285,0,,285,,,False,False
-2020-08-12,EST,EU,Estonia,58.596209,25.023778,2174,69,0,2105,,,True,True
 2020-08-12,ETH,AF,Ethiopia,9.148086,40.493059,24175,440,,23735,,,False,False
 2020-08-12,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False
 2020-08-12,FJI,OC,Fiji,-16.578041,178.416339,27,1,,26,,,False,False
