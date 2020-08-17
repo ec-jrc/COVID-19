@@ -485,7 +485,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-17,CHE,Switzerland,Geneva,46.217114,6.131255,6517,296,958,5263,18,2,False,False,CH013
 2020-08-17,CHE,Switzerland,Glarus,46.980518,9.065544,151,13,0,138,0,0,False,False,CH051
 2020-08-17,CHE,Switzerland,Graubünden,46.658176,9.629923,952,50,0,902,0,0,False,False,CH056
-2020-08-17,CHE,Switzerland,Jura,47.368327,7.198733,262,7,0,255,1,0,False,False,CH025
+2020-08-17,CHE,Switzerland,Jura,47.368327,7.198733,262,7,0,255,0,0,False,False,CH025
 2020-08-17,CHE,Switzerland,Liechtenstein,47.164696,9.555,91,1,87,3,0,0,False,False,LI
 2020-08-17,CHE,Switzerland,Lucerne,47.06883,8.116991,984,21,0,963,10,4,False,False,CH061
 2020-08-17,CHE,Switzerland,Neuchâtel,46.997282,6.782288,817,84,0,733,0,0,False,False,CH024
@@ -497,7 +497,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
 2020-08-17,CHE,Switzerland,Thurgau,47.567205,9.112572,528,19,78,431,4,1,False,False,CH057
 2020-08-17,CHE,Switzerland,Ticino,46.297963,8.808447,3470,350,924,2196,1,0,False,False,CH07
-2020-08-17,CHE,Switzerland,Uri,46.775402,8.627444,123,7,110,6,0,0,False,False,CH062
+2020-08-17,CHE,Switzerland,Uri,46.775402,8.627444,126,7,111,8,0,0,False,False,CH062
 2020-08-17,CHE,Switzerland,Valais,46.211633,7.611267,2222,153,314,1755,5,1,False,False,CH012
 2020-08-17,CHE,Switzerland,Vaud,46.56176,6.648929,6234,425,0,5809,10,4,False,False,CH011
 2020-08-17,CHE,Switzerland,Zug,47.161402,8.538864,312,9,275,28,0,0,False,False,CH066
