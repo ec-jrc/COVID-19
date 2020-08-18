@@ -82,21 +82,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-17,HRV,Croatia,Zadarska,44.347845,15.959404,241,2,,239,,,True,True,HR033
 2020-08-17,HRV,Croatia,Zagrebačka,45.82762,16.381796,310,10,,300,,,True,True,HR042
 2020-08-17,CYP,Cyprus,Cyprus,35.167406,33.435499,1332,20,,1312,,,True,True,CY
-2020-08-17,CZE,Czech Republic,Jihoceský,49.093362,14.439278,465,0,0,465,,,True,True,CZ031
-2020-08-17,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,1261,0,0,1261,,,True,True,CZ064
-2020-08-17,CZE,Czech Republic,Karlovarský,50.170136,12.763213,521,0,0,521,,,True,True,CZ041
-2020-08-17,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,436,0,0,436,,,True,True,CZ052
-2020-08-17,CZE,Czech Republic,Liberecký,50.732038,14.973755,497,0,0,497,,,True,True,CZ051
-2020-08-17,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,5100,0,0,5100,,,True,True,CZ080
-2020-08-17,CZE,Czech Republic,NOT SPECIFIED,,,477,397,13799,-13719,,,True,True,
-2020-08-17,CZE,Czech Republic,Olomoucký,49.823636,17.016472,1136,0,0,1136,,,True,True,CZ071
-2020-08-17,CZE,Czech Republic,Pardubický,49.877869,16.495746,571,0,0,571,,,True,True,CZ053
-2020-08-17,CZE,Czech Republic,Plzenský,49.590906,13.23222,916,0,0,916,,,True,True,CZ032
-2020-08-17,CZE,Czech Republic,Prague,50.063699,14.476403,4367,0,0,4367,,,True,True,CZ010
-2020-08-17,CZE,Czech Republic,Stredoceský,50.101074,15.003747,2277,0,0,2277,,,True,True,CZ020
-2020-08-17,CZE,Czech Republic,Ústecký,50.488308,13.816736,802,0,0,802,,,True,True,CZ042
-2020-08-17,CZE,Czech Republic,Vysocina,49.40736,15.689937,529,0,0,529,,,True,True,CZ063
-2020-08-17,CZE,Czech Republic,Zlínský,49.239654,17.770218,657,0,0,657,,,True,True,CZ072
+2020-08-18,CZE,Czech Republic,Jihoceský,49.093362,14.439278,469,0,0,469,,,True,True,CZ031
+2020-08-18,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,1284,0,0,1284,,,True,True,CZ064
+2020-08-18,CZE,Czech Republic,Karlovarský,50.170136,12.763213,522,0,0,522,,,True,True,CZ041
+2020-08-18,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,441,0,0,441,,,True,True,CZ052
+2020-08-18,CZE,Czech Republic,Liberecký,50.732038,14.973755,502,0,0,502,,,True,True,CZ051
+2020-08-18,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,5133,0,0,5133,,,True,True,CZ080
+2020-08-18,CZE,Czech Republic,NOT SPECIFIED,,,482,399,14622,-14539,,,True,True,
+2020-08-18,CZE,Czech Republic,Olomoucký,49.823636,17.016472,1149,0,0,1149,,,True,True,CZ071
+2020-08-18,CZE,Czech Republic,Pardubický,49.877869,16.495746,573,0,0,573,,,True,True,CZ053
+2020-08-18,CZE,Czech Republic,Plzenský,49.590906,13.23222,940,0,0,940,,,True,True,CZ032
+2020-08-18,CZE,Czech Republic,Prague,50.063699,14.476403,4414,0,0,4414,,,True,True,CZ010
+2020-08-18,CZE,Czech Republic,Stredoceský,50.101074,15.003747,2297,0,0,2297,,,True,True,CZ020
+2020-08-18,CZE,Czech Republic,Ústecký,50.488308,13.816736,802,0,0,802,,,True,True,CZ042
+2020-08-18,CZE,Czech Republic,Vysocina,49.40736,15.689937,535,0,0,535,,,True,True,CZ063
+2020-08-18,CZE,Czech Republic,Zlínský,49.239654,17.770218,659,0,0,659,,,True,True,CZ072
 2020-08-17,DNK,Denmark,Faroe,62.194921,-7.096614,229,0,,229,,,True,True,FRO
 2020-08-17,DNK,Denmark,Greenland,71.702379,-42.177174,14,0,,14,,,True,True,GRL
 2020-08-17,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -521,7 +521,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-17,GBR,United Kingdom,Midlands,52.718351,-1.45667,53915,,0,53915,,,False,True,UKF
 2020-08-17,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,50035,,0,50035,,,False,True,UKC
 2020-08-17,GBR,United Kingdom,North West,53.524488,-2.333125,50069,,0,50069,,,False,True,UKD
-2020-08-17,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,6430,0,0,6430,,,False,True,UKN
+2020-08-17,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,6430,558,0,5872,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
 2020-08-17,GBR,United Kingdom,Orkney,58.98094,-2.960521,16,,0,16,,,False,True,UKM65
 2020-08-17,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2491,0,-2491,,,False,True,UKM
