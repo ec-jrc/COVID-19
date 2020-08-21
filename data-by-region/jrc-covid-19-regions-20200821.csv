@@ -265,15 +265,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-21,POL,Poland,Lubuskie,52.206458,15.345515,620,13,,607,,,True,True,PL43
 2020-08-21,POL,Poland,Małopolskie,49.842031,20.300847,6145,106,,6039,,,True,True,PL21
 2020-08-21,POL,Poland,Mazowieckie,52.309134,21.081201,8413,396,,8017,,,True,True,PL9
-2020-08-20,POL,Poland,Opolskie,50.621436,17.876844,1476,60,,1416,,,True,True,PL52
-2020-08-20,POL,Poland,Podkarpackie,49.962818,22.225966,1976,77,,1899,,,True,True,PL82
-2020-08-20,POL,Poland,Podlaskie,53.28395,22.895092,1177,29,,1148,,,True,True,PL84
-2020-08-20,POL,Poland,Pomorskie,54.129033,18.012613,1805,42,,1763,,,True,True,PL63
-2020-08-20,POL,Poland,Śląskie,50.318293,18.999987,19295,451,,18844,,,True,True,PL22
-2020-08-20,POL,Poland,Świętokrzyskie,50.734202,20.797295,1209,48,,1161,,,True,True,PL72
-2020-08-20,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,665,5,,660,,,True,True,PL62
-2020-08-20,POL,Poland,Wielkopolskie,52.283858,17.248218,4938,216,,4722,,,True,True,PL41
-2020-08-20,POL,Poland,Zachodniopomorskie,53.582707,15.634824,1021,27,,994,,,True,True,PL42
+2020-08-21,POL,Poland,Opolskie,50.621436,17.876844,1501,60,,1441,,,True,True,PL52
+2020-08-21,POL,Poland,Podkarpackie,49.962818,22.225966,2022,78,,1944,,,True,True,PL82
+2020-08-21,POL,Poland,Podlaskie,53.28395,22.895092,1183,29,,1154,,,True,True,PL84
+2020-08-21,POL,Poland,Pomorskie,54.129033,18.012613,1894,43,,1851,,,True,True,PL63
+2020-08-21,POL,Poland,Śląskie,50.318293,18.999987,19463,454,,19009,,,True,True,PL22
+2020-08-21,POL,Poland,Świętokrzyskie,50.734202,20.797295,1231,48,,1183,,,True,True,PL72
+2020-08-21,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,695,5,,690,,,True,True,PL62
+2020-08-21,POL,Poland,Wielkopolskie,52.283858,17.248218,5015,218,,4797,,,True,True,PL41
+2020-08-21,POL,Poland,Zachodniopomorskie,53.582707,15.634824,1027,27,,1000,,,True,True,PL42
 2020-08-20,PRT,Portugal,Açores,37.775525,-25.494927,188,15,,173,,,True,True,PT20
 2020-08-20,PRT,Portugal,Alentejo,38.485499,-8.006668,863,22,,841,,,True,True,PT18
 2020-08-20,PRT,Portugal,Algarve,37.218389,-8.198488,996,17,,979,,,True,True,PT15
@@ -481,7 +481,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-21,CHE,Switzerland,Basel City,47.561925,7.592768,1165,53,1036,76,8,0,False,False,CH031
 2020-08-21,CHE,Switzerland,Basel Country,47.441812,7.7644,992,35,906,51,1,1,False,False,CH032
 2020-08-21,CHE,Switzerland,Bern,46.825006,7.626925,2352,98,0,2254,0,0,False,False,CH021
-2020-08-21,CHE,Switzerland,Fribourg,46.710334,7.09922,1464,85,160,1219,2,1,False,False,CH022
+2020-08-21,CHE,Switzerland,Fribourg,46.710334,7.09922,1487,85,160,1242,2,0,False,False,CH022
 2020-08-21,CHE,Switzerland,Geneva,46.217114,6.131255,6620,297,962,5361,11,0,False,False,CH013
 2020-08-21,CHE,Switzerland,Glarus,46.980518,9.065544,156,13,0,143,0,0,False,False,CH051
 2020-08-21,CHE,Switzerland,Graubünden,46.658176,9.629923,971,50,0,921,1,0,False,False,CH056
@@ -496,7 +496,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-21,CHE,Switzerland,Solothurn,47.336648,7.686944,640,18,0,622,2,0,False,False,CH023
 2020-08-21,CHE,Switzerland,St. Gallen,47.305025,9.019368,825,38,226,561,12,3,False,False,CH055
 2020-08-21,CHE,Switzerland,Thurgau,47.567205,9.112572,549,19,78,452,4,1,False,False,CH057
-2020-08-21,CHE,Switzerland,Ticino,46.297963,8.808447,3492,350,925,2217,0,0,False,False,CH07
+2020-08-21,CHE,Switzerland,Ticino,46.297963,8.808447,3500,350,925,2225,0,0,False,False,CH07
 2020-08-21,CHE,Switzerland,Uri,46.775402,8.627444,129,7,115,7,0,0,False,False,CH062
 2020-08-21,CHE,Switzerland,Valais,46.211633,7.611267,2261,153,315,1793,6,1,False,False,CH012
 2020-08-21,CHE,Switzerland,Vaud,46.56176,6.648929,6448,429,0,6019,11,5,False,False,CH011
