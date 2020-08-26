@@ -190,16 +190,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-26,HUN,Hungary,Vas,47.147868,16.751348,43,0,0,43,0,0,True,True,HU222
 2020-08-26,HUN,Hungary,Veszprém,47.131402,17.65231,158,0,0,158,0,0,True,True,HU213
 2020-08-26,HUN,Hungary,Zala,46.692149,16.903237,279,0,0,279,0,0,True,True,HU223
-2020-06-24,ISL,Iceland,Abroad,,,1,,,1,,,False,True,
-2020-06-24,ISL,Iceland,East Iceland,64.832997,-15.743398,8,,,8,,,False,True,ISX03
-2020-06-24,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,1323,,,1323,,,False,True,IS001
-2020-06-24,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,46,,,46,,,False,True,ISX04
-2020-06-24,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,35,,,35,,,False,True,ISX05
+2020-06-25,ISL,Iceland,Abroad,,,0,,,0,,,False,True,
+2020-06-25,ISL,Iceland,East Iceland,64.832997,-15.743398,0,,,0,,,False,True,ISX03
+2020-06-25,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,0,,,0,,,False,True,IS001
+2020-06-25,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,0,,,0,,,False,True,ISX04
+2020-06-25,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,0,,,0,,,False,True,ISX05
 2020-08-26,ISL,Iceland,NOT SPECIFIED,,,2077,10,,2067,,,False,True,
-2020-06-24,ISL,Iceland,South Iceland,64.135334,-19.242939,182,,,182,,,False,True,ISX07
-2020-06-24,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,77,,,77,,,False,True,ISX08
-2020-06-24,ISL,Iceland,West Fjords,65.820831,-21.86654,97,,,97,,,False,True,ISX09
-2020-06-24,ISL,Iceland,West Iceland,64.843136,-21.691436,45,,,45,,,False,True,ISX10
+2020-06-25,ISL,Iceland,South Iceland,64.135334,-19.242939,0,,,0,,,False,True,ISX07
+2020-06-25,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,0,,,0,,,False,True,ISX08
+2020-06-25,ISL,Iceland,West Fjords,65.820831,-21.86654,0,,,0,,,False,True,ISX09
+2020-06-25,ISL,Iceland,West Iceland,64.843136,-21.691436,0,,,0,,,False,True,ISX10
 2020-08-26,IRL,Ireland,Ireland,53.41975,-8.240472,28201,1777,,26424,,,True,True,IE
 2020-08-26,ITA,Italy,Abruzzo,42.228034,13.855137,3687,472,2849,366,35,1,True,True,ITF1
 2020-08-26,ITA,Italy,Basilicata,40.500665,16.082246,508,28,406,74,2,0,True,True,ITF5
