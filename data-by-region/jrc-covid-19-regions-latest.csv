@@ -97,15 +97,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-08-31,CZE,Czech Republic,Ústecký,50.488308,13.816736,959,0,0,959,,,True,True,CZ042
 2020-08-31,CZE,Czech Republic,Vysocina,49.40736,15.689937,744,0,0,744,,,True,True,CZ063
 2020-08-31,CZE,Czech Republic,Zlínský,49.239654,17.770218,821,0,0,821,,,True,True,CZ072
-2020-08-28,DNK,Denmark,Faroe,62.194921,-7.096614,2,361,,-359,,,True,True,FRO
-2020-08-28,DNK,Denmark,Greenland,71.702379,-42.177174,14,0,,14,,,True,True,GRL
-2020-08-28,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-08-28,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-08-28,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-08-28,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-08-28,DNK,Denmark,NOT SPECIFIED,,,16684,263,,16421,,,True,True,
-2020-08-28,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-08-28,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-08-31,DNK,Denmark,Faroe,62.194921,-7.096614,2,374,,-372,,,True,True,FRO
+2020-08-31,DNK,Denmark,Greenland,71.702379,-42.177174,14,0,,14,,,True,True,GRL
+2020-08-31,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-08-31,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-08-31,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-08-31,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-08-31,DNK,Denmark,NOT SPECIFIED,,,16969,250,,16719,,,True,True,
+2020-08-31,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-08-31,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-08-31,EST,Estonia,Estonia,58.596209,25.023778,2373,64,,2309,,,True,True,EE0
 2020-08-31,FIN,Finland,Ahvenanmaa,60.240625,19.966666,21,,,21,,,True,True,FI200
 2020-08-31,FIN,Finland,Etelä-Karjala,61.217899,28.550289,28,,,28,,,True,True,FI1C5
