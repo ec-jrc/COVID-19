@@ -33192,6 +33192,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-04,PRI,NA,Puerto Rico,18.223285,-66.592731,34198,448,,33750,,,False,False
 2020-09-04,QAT,AS,Qatar,25.318833,51.19693,119420,201,,119219,,,False,False
 2020-09-04,ROU,EU,Romania,45.947125,24.980514,92500,3812,,88688,,,True,True
+2020-09-04,RUS,EU,Russian Fed.,61.523111,-74.9,1015105,17649,832747,164709,,,False,False
 2020-09-04,RWA,AF,Rwanda,-1.94708,29.876376,4255,18,,4237,,,False,False
 2020-09-04,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,17,0,,17,,,False,False
 2020-09-04,LCA,NA,Saint Lucia,13.904011,-60.974176,26,0,,26,,,False,False
@@ -33212,7 +33213,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-04,LKA,AS,Sri Lanka,7.874097,80.767098,3111,12,,3099,,,False,False
 2020-09-04,SDN,AF,Sudan,15.45847,30.217636,13189,823,,12366,,,False,False
 2020-09-04,SUR,SA,Suriname,3.917845,-56.032028,4215,73,,4142,,,False,False
-2020-09-04,CHE,EU,Switzerland,46.815514,8.224472,41447,2001,6958,32488,109,15,False,False
+2020-09-04,CHE,EU,Switzerland,46.815514,8.224472,41448,2001,6962,32485,109,15,False,False
 2020-09-04,TWN,AS,Taiwan,21.901806,121.471,490,7,,483,,,False,False
 2020-09-04,TJK,AS,Tajikistan,,,8690,69,,8621,,,False,False
 2020-09-04,THA,AS,Thailand,13.036597,101.492515,3431,58,,3373,,,False,False
