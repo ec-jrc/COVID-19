@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-08,ALB,Albania,Shkodër,42.17682,19.719451,802,36,445,321,17,2,False,False,AL015
 2020-09-08,ALB,Albania,Tiranë,41.268583,19.793936,5297,154,3022,2121,62,8,False,False,AL022
 2020-09-08,ALB,Albania,Vlorë,40.162418,19.793592,339,6,195,138,4,0,False,False,AL035
-2020-09-08,AND,Andorra,Andorra,42.542268,1.596865,1261,53,,1208,,,False,False,AD
+2020-09-09,AND,Andorra,Andorra,42.542268,1.596865,1261,53,,1208,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-09-08,AUT,Austria,Burgenland,47.541449,16.520206,547,11,460,76,,,True,True,AT11
 2020-09-08,AUT,Austria,Kärnten,46.715832,14.455532,668,13,630,25,,,True,True,AT21
@@ -24,12 +24,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-08,AUT,Austria,Tirol,47.209023,11.397603,4694,101,4188,405,,,True,True,AT33
 2020-09-08,AUT,Austria,Vorarlberg,47.240149,9.896366,1190,20,1068,102,,,True,True,AT34
 2020-09-08,AUT,Austria,Wien,48.21141,16.380038,9300,222,7007,2071,,,True,True,AT13
-2020-09-08,BLR,Belarus,Belarus,53.711111,27.973847,73031,716,,72315,,,False,False,BY
+2020-09-09,BLR,Belarus,Belarus,53.711111,27.973847,73208,721,,72487,,,False,False,BY
 2020-09-07,BEL,Belgium,Brussels,50.836426,4.367415,11568,1537,,10031,92,22,True,True,BE1
 2020-09-07,BEL,Belgium,Flanders,51.036569,4.234165,49458,4917,,44541,102,22,True,True,BE2
 2020-09-07,BEL,Belgium,NOT SPECIFIED,,,2237,0,,2237,0,0,True,True,
 2020-09-07,BEL,Belgium,Wallonia,50.312074,5.019093,25878,3458,,22420,41,8,True,True,BE3
-2020-09-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,21660,664,,20996,,,False,False,BA
+2020-09-09,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,21961,669,,21292,,,False,False,BA
 2020-09-09,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,1527,10,10,1507,,,True,True,BG413
 2020-09-09,BGR,Bulgaria,Burgas,42.491848,27.306892,513,1,19,493,,,True,True,BG341
 2020-09-09,BGR,Bulgaria,Dobrich,43.65074,27.936751,747,0,2,745,,,True,True,BG332
@@ -59,28 +59,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-09,BGR,Bulgaria,Vidin,43.797295,22.68621,257,18,14,225,,,True,True,BG311
 2020-09-09,BGR,Bulgaria,Vratsa,43.395067,23.759152,107,0,2,105,,,True,True,BG313
 2020-09-09,BGR,Bulgaria,Yambol,,,346,14,18,314,,,True,True,BG343
-2020-09-08,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,120,1,,119,,,True,True,HR047
-2020-09-08,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,460,3,,457,,,True,True,HR04A
-2020-09-08,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,476,9,,467,,,True,True,HR037
-2020-09-08,HRV,Croatia,Grad Zagreb,45.742196,16.008116,2741,31,,2710,,,True,True,HR041
-2020-09-08,HRV,Croatia,Istarska,45.203521,13.895312,431,12,,419,,,True,True,HR036
-2020-09-08,HRV,Croatia,Karlovačka,45.292126,15.46427,200,2,,198,,,True,True,HR04D
-2020-09-08,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,175,16,,159,,,True,True,HR045
-2020-09-08,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,235,2,,233,,,True,True,HR043
-2020-09-08,HRV,Croatia,Ličko-senjska,44.69075,15.422344,99,1,,98,,,True,True,HR032
-2020-09-08,HRV,Croatia,Međimurska,46.410728,16.508315,69,0,,69,,,True,True,HR046
+2020-09-09,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,125,1,,124,,,True,True,HR047
+2020-09-09,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,472,3,,469,,,True,True,HR04A
+2020-09-09,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,502,9,,493,,,True,True,HR037
+2020-09-09,HRV,Croatia,Grad Zagreb,45.742196,16.008116,2795,31,,2764,,,True,True,HR041
+2020-09-09,HRV,Croatia,Istarska,45.203521,13.895312,435,12,,423,,,True,True,HR036
+2020-09-09,HRV,Croatia,Karlovačka,45.292126,15.46427,204,2,,202,,,True,True,HR04D
+2020-09-09,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,184,16,,168,,,True,True,HR045
+2020-09-09,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,236,2,,234,,,True,True,HR043
+2020-09-09,HRV,Croatia,Ličko-senjska,44.69075,15.422344,103,1,,102,,,True,True,HR032
+2020-09-09,HRV,Croatia,Međimurska,46.410728,16.508315,71,0,,71,,,True,True,HR046
 2020-03-25,HRV,Croatia,NOT SPECIFIED,,,1,0,0,1,,,True,True,
-2020-09-08,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,848,29,,819,,,True,True,HR04B
-2020-09-08,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,232,1,,231,,,True,True,HR049
-2020-09-08,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,399,2,,397,,,True,True,HR031
-2020-09-08,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,472,5,,467,,,True,True,HR034
-2020-09-08,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,233,0,,233,,,True,True,HR04E
-2020-09-08,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,3026,59,,2967,,,True,True,HR035
-2020-09-08,HRV,Croatia,Varaždinska,46.250434,16.293818,185,3,,182,,,True,True,HR044
-2020-09-08,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,102,1,,101,,,True,True,HR048
-2020-09-08,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,671,10,,661,,,True,True,HR04C
-2020-09-08,HRV,Croatia,Zadarska,44.347845,15.959404,557,6,,551,,,True,True,HR033
-2020-09-08,HRV,Croatia,Zagrebačka,45.82762,16.381796,554,10,,544,,,True,True,HR042
+2020-09-09,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,856,29,,827,,,True,True,HR04B
+2020-09-09,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,240,1,,239,,,True,True,HR049
+2020-09-09,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,424,2,,422,,,True,True,HR031
+2020-09-09,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,480,5,,475,,,True,True,HR034
+2020-09-09,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,236,0,,236,,,True,True,HR04E
+2020-09-09,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,3134,61,,3073,,,True,True,HR035
+2020-09-09,HRV,Croatia,Varaždinska,46.250434,16.293818,191,3,,188,,,True,True,HR044
+2020-09-09,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,107,1,,106,,,True,True,HR048
+2020-09-09,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,675,10,,665,,,True,True,HR04C
+2020-09-09,HRV,Croatia,Zadarska,44.347845,15.959404,585,7,,578,,,True,True,HR033
+2020-09-09,HRV,Croatia,Zagrebačka,45.82762,16.381796,571,10,,561,,,True,True,HR042
 2020-09-08,CYP,Cyprus,Cyprus,35.167406,33.435499,1510,21,,1489,,,True,True,CY
 2020-09-09,CZE,Czech Republic,Jihoceský,49.093362,14.439278,989,0,0,989,,,True,True,CZ031
 2020-09-09,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,2328,0,0,2328,,,True,True,CZ064
