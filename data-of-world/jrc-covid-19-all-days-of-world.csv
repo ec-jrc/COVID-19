@@ -34095,6 +34095,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-09,MOZ,AF,Mozambique,-18.670284,35.530157,4647,28,,4619,,,False,False
 2020-09-09,NAM,AF,Namibia,-22.965662,18.486165,8928,91,,8837,,,False,False
 2020-09-09,NPL,AS,Nepal,28.395056,84.127803,48138,306,,47832,,,False,False
+2020-09-09,NLD,EU,Netherlands,52.133057,5.29525,77688,6246,,71442,12233,,True,True
 2020-09-09,NCL,OC,New Caledonia,-21.123889,165.846901,26,0,,26,,,False,False
 2020-09-09,NZL,OC,New Zealand,-40.9006,174.886,1437,24,,1413,,,False,False
 2020-09-09,NIC,NA,Nicaragua,12.866726,-85.214298,4818,144,,4674,,,False,False
@@ -34134,7 +34135,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-09,LKA,AS,Sri Lanka,7.874097,80.767098,3140,12,,3128,,,False,False
 2020-09-09,SDN,AF,Sudan,15.45847,30.217636,13437,833,,12604,,,False,False
 2020-09-09,SUR,SA,Suriname,3.917845,-56.032028,4419,91,,4328,,,False,False
-2020-09-09,CHE,EU,Switzerland,46.815514,8.224472,42892,2007,7054,33831,105,11,False,False
+2020-09-09,CHE,EU,Switzerland,46.815514,8.224472,42894,2007,7054,33833,105,11,False,False
 2020-09-09,TWN,AS,Taiwan,21.901806,121.471,495,7,,488,,,False,False
 2020-09-09,TJK,AS,Tajikistan,,,8860,70,,8790,,,False,False
 2020-09-09,THA,AS,Thailand,13.036597,101.492515,3447,58,,3389,,,False,False
