@@ -34145,6 +34145,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-09,LKA,AS,Sri Lanka,7.874097,80.767098,3140,12,,3128,,,False,False
 2020-09-09,SDN,AF,Sudan,15.45847,30.217636,13437,833,,12604,,,False,False
 2020-09-09,SUR,SA,Suriname,3.917845,-56.032028,4419,91,,4328,,,False,False
+2020-09-09,SWE,EU,Sweden,62.199806,17.637493,86194,5843,,80351,,2579,True,True
 2020-09-09,CHE,EU,Switzerland,46.815514,8.224472,42963,2008,7054,33901,103,11,False,False
 2020-09-09,TWN,AS,Taiwan,21.901806,121.471,495,7,,488,,,False,False
 2020-09-09,TJK,AS,Tajikistan,,,8860,70,,8790,,,False,False
@@ -34212,6 +34213,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-10,CUW,NA,Curaçao,12.209209,-68.945576,116,1,,115,,,False,False
 2020-09-10,CYP,EU,Cyprus,35.167406,33.435499,1514,21,,1493,,,True,True
 2020-09-10,CZE,EU,Czech Republic,49.800901,15.478153,31036,444,20374,10218,,,True,True
+2020-09-10,DNK,EU,Denmark,56.155403,11.617223,18924,629,,18295,,,True,True
 2020-09-10,DJI,AF,Djibouti,11.808375,42.595222,5391,61,,5330,,,False,False
 2020-09-10,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False
 2020-09-10,DOM,NA,Dominican Republic,18.736509,-70.161744,100937,1914,,99023,,,False,False
