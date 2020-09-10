@@ -34301,6 +34301,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-10,NGA,AF,Nigeria,9.084575,8.674252,55632,1070,,54562,,,False,False
 2020-09-10,MKD,EU,North Macedonia,41.611,21.751417,15226,631,,14595,,,False,True
 2020-09-10,MNP,OC,Northern Mariana Islands,17.331835,145.47577,59,2,,57,,,False,False
+2020-09-10,NOR,EU,Norway,64.583013,17.86411,11745,265,,11480,1051,232,False,True
 2020-09-10,OMN,AS,Oman,21.516861,55.859291,87939,751,,87188,,,False,False
 2020-09-10,PAK,AS,Pakistan,30.441861,69.359766,299855,6365,,293490,,,False,False
 2020-09-10,PSE,AS,Palestine,31.881464,34.894978,36214,217,,35997,,,False,False
@@ -34347,6 +34348,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-10,UGA,AF,Uganda,1.365188,32.304651,4101,46,,4055,,,False,False
 2020-09-10,UKR,EU,Ukraine,48.379888,31.168139,145612,2979,,142633,,,False,False
 2020-09-10,ARE,AS,United Arab Emirates,24.358745,53.982494,75981,393,,75588,,,False,False
+2020-09-10,GBR,EU,United Kingdom,54.633221,-3.432277,358138,41608,0,316530,,,False,True
 2020-09-10,USA,NA,United States of America,36.966428,-95.844032,6359720,190815,,6168905,,,False,False
 2020-09-10,VIR,NA,United States Virgin Islands,18.036736,-64.801704,1197,18,,1179,,,False,False
 2020-09-10,URY,SA,Uruguay,-32.53152,-55.758328,1741,45,,1696,,,False,False
