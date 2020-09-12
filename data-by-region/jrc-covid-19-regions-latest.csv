@@ -274,15 +274,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-12,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,1062,9,,1053,,,True,True,PL62
 2020-09-12,POL,Poland,Wielkopolskie,52.283858,17.248218,6280,239,,6041,,,True,True,PL41
 2020-09-12,POL,Poland,Zachodniopomorskie,53.582707,15.634824,1240,28,,1212,,,True,True,PL42
-2020-09-11,PRT,Portugal,Açores,37.775525,-25.494927,234,15,,219,,,True,True,PT20
-2020-09-11,PRT,Portugal,Alentejo,38.485499,-8.006668,1048,22,,1026,,,True,True,PT18
-2020-09-11,PRT,Portugal,Algarve,37.218389,-8.198488,1207,18,,1189,,,True,True,PT15
-2020-09-11,PRT,Portugal,Centro,40.111812,-8.012768,5154,254,,4900,,,True,True,PT16
+2020-09-12,PRT,Portugal,Açores,37.775525,-25.494927,236,15,,221,,,True,True,PT20
+2020-09-12,PRT,Portugal,Alentejo,38.485499,-8.006668,1074,22,,1052,,,True,True,PT18
+2020-09-12,PRT,Portugal,Algarve,37.218389,-8.198488,1214,18,,1196,,,True,True,PT15
+2020-09-12,PRT,Portugal,Centro,40.111812,-8.012768,5193,254,,4939,,,True,True,PT16
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True,
-2020-09-11,PRT,Portugal,Lisbon,38.623843,-8.88436,32170,694,,31476,,,True,True,PT17
-2020-09-11,PRT,Portugal,Madeira,32.736252,-16.972663,181,0,,181,,,True,True,PT30
-2020-09-11,PRT,Portugal,Norte,41.457206,-7.678153,22819,852,,21967,,,True,True,PT11
-2020-09-11,PRT,Portugal,NOT SPECIFIED,,,0,,43644,-43644,404,54,True,True,
+2020-09-12,PRT,Portugal,Lisbon,38.623843,-8.88436,32413,698,,31715,,,True,True,PT17
+2020-09-12,PRT,Portugal,Madeira,32.736252,-16.972663,183,0,,183,,,True,True,PT30
+2020-09-12,PRT,Portugal,Norte,41.457206,-7.678153,22997,853,,22144,,,True,True,PT11
+2020-09-12,PRT,Portugal,NOT SPECIFIED,,,0,,43894,-43894,438,59,True,True,
 2020-09-12,ROU,Romania,Alba,46.172367,23.487279,1330,,,1330,,,True,True,RO121
 2020-09-12,ROU,Romania,Arad,46.273235,21.758454,2192,,,2192,,,True,True,RO421
 2020-09-12,ROU,Romania,Argeș,45.072253,24.814273,5258,,,5258,,,True,True,RO311
@@ -486,7 +486,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-12,CHE,Switzerland,Glarus,46.980518,9.065544,168,13,0,155,0,0,False,False,CH051
 2020-09-12,CHE,Switzerland,Graubünden,46.658176,9.629923,1042,50,0,992,1,0,False,False,CH056
 2020-09-12,CHE,Switzerland,Jura,47.368327,7.198733,288,7,0,281,3,0,False,False,CH025
-2020-09-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,109,1,105,3,0,0,False,False,LI
+2020-09-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,111,1,105,5,0,0,False,False,LI
 2020-09-12,CHE,Switzerland,Lucerne,47.06883,8.116991,1115,21,0,1094,6,1,False,False,CH061
 2020-09-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,946,85,0,861,3,0,False,False,CH024
 2020-09-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,138,3,0,135,1,1,False,False,CH065
