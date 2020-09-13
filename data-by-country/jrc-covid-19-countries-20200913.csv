@@ -1,5 +1,5 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2020-09-12,ALB,Albania,41.156986,20.181222,11021,327,6443,4251,167,21,False,False,AL
+2020-09-13,ALB,Albania,41.156986,20.181222,11353,334,6569,4450,159,19,False,False,AL
 2020-09-13,AND,Andorra,42.542268,1.596865,1344,53,,,,,False,False,AD
 2020-07-13,ARM,Armenia,40.066181,45.111108,32490,581,20729,11180,1885,273,False,False,AM
 2020-09-13,AUT,Austria,47.697542,13.349319,32677,735,26579,5363,374,69,True,True,AT
@@ -44,4 +44,4 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2020-09-13,CHE,Switzerland,46.815514,8.224472,46187,2022,7086,37079,120,12,False,False,CH
 2020-09-13,TUR,Turkey,38.961516,35.25175,289635,6999,,,,,False,True,TR
 2020-09-13,UKR,Ukraine,48.379888,31.168139,151859,3103,,,,,False,False,UA
-2020-09-12,GBR,United Kingdom,54.633221,-3.432277,365184,41623,0,323561,,,False,True,UK
+2020-09-13,GBR,United Kingdom,54.633221,-3.432277,368514,41628,0,326886,,,False,True,UK
