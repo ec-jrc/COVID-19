@@ -1,29 +1,29 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2020-09-15,ALB,Albania,Berat,40.6285,20.090775,245,2,151,92,6,2,False,False,AL031
-2020-09-15,ALB,Albania,Dibër,,,133,7,75,51,9,1,False,False,AL011
-2020-09-15,ALB,Albania,Durrës,41.518365,19.651766,1491,45,926,520,13,3,False,False,AL012
-2020-09-15,ALB,Albania,Elbasan,41.040028,20.186454,536,21,267,248,19,1,False,False,AL021
-2020-09-15,ALB,Albania,Fier,40.774633,19.620528,606,17,397,192,7,1,False,False,AL032
-2020-09-15,ALB,Albania,Gjirokastër,,,150,4,99,47,1,0,False,False,AL033
-2020-09-15,ALB,Albania,Korçë,40.62883,20.666004,508,15,284,209,15,0,False,False,AL034
-2020-09-15,ALB,Albania,Kukës,42.066696,20.419467,408,8,260,140,8,1,False,False,AL013
-2020-09-15,ALB,Albania,Lezhë,41.801452,19.845695,588,13,308,267,14,2,False,False,AL014
-2020-09-15,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
-2020-09-15,ALB,Albania,Shkodër,42.17682,19.719451,873,39,472,362,10,1,False,False,AL015
-2020-09-15,ALB,Albania,Tiranë,41.268583,19.793936,5755,163,3226,2366,47,6,False,False,AL022
-2020-09-15,ALB,Albania,Vlorë,40.162418,19.793592,379,6,203,170,4,0,False,False,AL035
+2020-09-16,ALB,Albania,Berat,40.6285,20.090775,246,2,151,93,6,1,False,False,AL031
+2020-09-16,ALB,Albania,Dibër,,,133,7,75,51,8,0,False,False,AL011
+2020-09-16,ALB,Albania,Durrës,41.518365,19.651766,1500,45,929,526,13,3,False,False,AL012
+2020-09-16,ALB,Albania,Elbasan,41.040028,20.186454,553,21,270,262,18,2,False,False,AL021
+2020-09-16,ALB,Albania,Fier,40.774633,19.620528,633,18,403,212,7,0,False,False,AL032
+2020-09-16,ALB,Albania,Gjirokastër,,,153,4,99,50,1,0,False,False,AL033
+2020-09-16,ALB,Albania,Korçë,40.62883,20.666004,517,15,288,214,15,0,False,False,AL034
+2020-09-16,ALB,Albania,Kukës,42.066696,20.419467,408,8,260,140,8,1,False,False,AL013
+2020-09-16,ALB,Albania,Lezhë,41.801452,19.845695,595,13,308,274,14,2,False,False,AL014
+2020-09-16,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
+2020-09-16,ALB,Albania,Shkodër,42.17682,19.719451,876,39,472,365,14,1,False,False,AL015
+2020-09-16,ALB,Albania,Tiranë,41.268583,19.793936,5811,165,3274,2372,50,6,False,False,AL022
+2020-09-16,ALB,Albania,Vlorë,40.162418,19.793592,391,6,204,181,4,0,False,False,AL035
 2020-09-16,AND,Andorra,Andorra,42.542268,1.596865,1438,53,,1385,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
-2020-09-15,AUT,Austria,Burgenland,47.541449,16.520206,601,11,508,82,,,True,True,AT11
-2020-09-15,AUT,Austria,Kärnten,46.715832,14.455532,714,13,641,60,,,True,True,AT21
-2020-09-15,AUT,Austria,Niederösterreich,48.27051,15.763245,4944,115,4137,692,,,True,True,AT12
-2020-09-15,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,561,69,True,True,
-2020-09-15,AUT,Austria,Oberösterreich,48.138166,13.964295,5357,65,4768,524,,,True,True,AT31
-2020-09-15,AUT,Austria,Salzburg,47.254051,13.032653,1823,40,1646,137,,,True,True,AT32
-2020-09-15,AUT,Austria,Steiermark,47.187361,15.518046,2897,144,2397,356,,,True,True,AT22
-2020-09-15,AUT,Austria,Tirol,47.209023,11.397603,5197,102,4445,650,,,True,True,AT33
-2020-09-15,AUT,Austria,Vorarlberg,47.240149,9.896366,1388,20,1101,267,,,True,True,AT34
-2020-09-15,AUT,Austria,Wien,48.21141,16.380038,11366,229,7711,3426,,,True,True,AT13
+2020-09-16,AUT,Austria,Burgenland,47.541449,16.520206,612,11,509,92,,,True,True,AT11
+2020-09-16,AUT,Austria,Kärnten,46.715832,14.455532,722,13,645,64,,,True,True,AT21
+2020-09-16,AUT,Austria,Niederösterreich,48.27051,15.763245,5103,115,4176,812,,,True,True,AT12
+2020-09-16,AUT,Austria,NOT SPECIFIED,,,0,0,0,0,748,92,True,True,
+2020-09-16,AUT,Austria,Oberösterreich,48.138166,13.964295,5441,65,4811,565,,,True,True,AT31
+2020-09-16,AUT,Austria,Salzburg,47.254051,13.032653,1832,40,1654,138,,,True,True,AT32
+2020-09-16,AUT,Austria,Steiermark,47.187361,15.518046,2938,144,2422,372,,,True,True,AT22
+2020-09-16,AUT,Austria,Tirol,47.209023,11.397603,5280,102,4474,704,,,True,True,AT33
+2020-09-16,AUT,Austria,Vorarlberg,47.240149,9.896366,1441,20,1113,308,,,True,True,AT34
+2020-09-16,AUT,Austria,Wien,48.21141,16.380038,11685,229,7851,3605,,,True,True,AT13
 2020-09-16,BLR,Belarus,Belarus,53.711111,27.973847,74552,761,,73791,,,False,False,BY
 2020-09-15,BEL,Belgium,Brussels,50.836426,4.367415,12744,1543,,11201,101,21,True,True,BE1
 2020-09-15,BEL,Belgium,Flanders,51.036569,4.234165,52310,4924,,47386,137,30,True,True,BE2
@@ -498,35 +498,35 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-16,CHE,Switzerland,Thurgau,47.567205,9.112572,654,19,83,552,3,2,False,False,CH057
 2020-09-16,CHE,Switzerland,Ticino,46.297963,8.808447,3596,350,929,2317,1,0,False,False,CH07
 2020-09-16,CHE,Switzerland,Uri,46.775402,8.627444,139,7,130,2,0,0,False,False,CH062
-2020-09-16,CHE,Switzerland,Valais,46.211633,7.611267,2517,155,321,2041,9,0,False,False,CH012
+2020-09-16,CHE,Switzerland,Valais,46.211633,7.611267,2529,155,321,2053,9,0,False,False,CH012
 2020-09-16,CHE,Switzerland,Vaud,46.56176,6.648929,8824,437,0,8387,30,4,False,False,CH011
 2020-09-16,CHE,Switzerland,Zug,47.161402,8.538864,409,9,363,37,1,0,False,False,CH066
 2020-09-16,CHE,Switzerland,Zurich,47.417407,8.655988,7143,145,0,6998,25,0,False,False,CH040
 2020-09-16,TUR,Turkey,Turkey,38.961515,35.25175,294620,7186,,287434,,,False,True,TUR
 2020-09-16,UKR,Ukraine,NOT SPECIFIED,,,162660,3340,,159320,,,False,False,
-2020-09-15,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1483,,0,1483,,,False,True,UKM93
-2020-09-15,GBR,United Kingdom,Borders,55.572787,-2.786355,420,,0,420,,,False,True,UKM91
-2020-09-15,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,333,,0,333,,,False,True,UKM92
-2020-09-15,GBR,United Kingdom,East of England,52.248898,0.548756,28449,,0,28449,,,False,True,UKH
-2020-09-15,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,9,,0,9,,,False,True,UKM64
-2020-09-15,GBR,United Kingdom,England,,,9322,36996,0,-27674,,,False,True,UK
-2020-09-15,GBR,United Kingdom,Fife,56.228968,-3.118568,1049,,0,1049,,,False,True,UKM72
-2020-09-15,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1239,,0,1239,,,False,True,UKM76
-2020-09-15,GBR,United Kingdom,Grampian,57.299016,-2.780773,2026,,0,2026,,,False,True,UKM50
-2020-09-15,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,6584,,0,6584,,,False,True,UKM82
-2020-09-15,GBR,United Kingdom,Highland,57.363501,-4.733034,501,,0,501,,,False,True,UKM6
-2020-09-15,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,3426,,0,3426,,,False,True,UKD4
-2020-09-15,GBR,United Kingdom,London,51.497136,-0.100571,43685,,0,43685,,,False,True,UKI
-2020-09-15,GBR,United Kingdom,Lothian,55.946009,-2.728265,3659,,0,3659,,,False,True,UKM75
-2020-09-15,GBR,United Kingdom,Midlands,52.718351,-1.45667,63901,,0,63901,,,False,True,UKF
-2020-09-15,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,59431,,0,59431,,,False,True,UKC
-2020-09-15,GBR,United Kingdom,North West,53.524488,-2.333125,62086,,0,62086,,,False,True,UKD
-2020-09-15,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,8502,571,0,7931,,,False,True,UKN
+2020-09-16,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1492,,0,1492,,,False,True,UKM93
+2020-09-16,GBR,United Kingdom,Borders,55.572787,-2.786355,424,,0,424,,,False,True,UKM91
+2020-09-16,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,340,,0,340,,,False,True,UKM92
+2020-09-16,GBR,United Kingdom,East of England,52.248898,0.548756,28553,,0,28553,,,False,True,UKH
+2020-09-16,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,9,,0,9,,,False,True,UKM64
+2020-09-16,GBR,United Kingdom,England,,,9350,37013,0,-27663,,,False,True,UK
+2020-09-16,GBR,United Kingdom,Fife,56.228968,-3.118568,1052,,0,1052,,,False,True,UKM72
+2020-09-16,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,1254,,0,1254,,,False,True,UKM76
+2020-09-16,GBR,United Kingdom,Grampian,57.299016,-2.780773,2042,,0,2042,,,False,True,UKM50
+2020-09-16,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,6689,,0,6689,,,False,True,UKM82
+2020-09-16,GBR,United Kingdom,Highland,57.363501,-4.733034,512,,0,512,,,False,True,UKM6
+2020-09-16,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,3466,,0,3466,,,False,True,UKD4
+2020-09-16,GBR,United Kingdom,London,51.497136,-0.100571,43928,,0,43928,,,False,True,UKI
+2020-09-16,GBR,United Kingdom,Lothian,55.946009,-2.728265,3704,,0,3704,,,False,True,UKM75
+2020-09-16,GBR,United Kingdom,Midlands,52.718351,-1.45667,64599,,0,64599,,,False,True,UKF
+2020-09-16,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,60220,,0,60220,,,False,True,UKC
+2020-09-16,GBR,United Kingdom,North West,53.524488,-2.333125,63376,,0,63376,,,False,True,UKD
+2020-09-16,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,8631,573,0,8058,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2020-09-15,GBR,United Kingdom,Orkney,58.98094,-2.960521,17,,0,17,,,False,True,UKM65
-2020-09-15,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2500,0,-2500,,,False,True,UKM
-2020-09-15,GBR,United Kingdom,Shetland,60.29623,-1.346738,57,,0,57,,,False,True,UKM66
-2020-09-15,GBR,United Kingdom,South East,51.291417,-0.521902,40208,,0,40208,,,False,True,UKJ
-2020-09-15,GBR,United Kingdom,South West,51.239761,-2.54375,15947,,0,15947,,,False,True,UKK
-2020-09-15,GBR,United Kingdom,Tayside,56.610323,-3.555213,2213,,0,2213,,,False,True,UKM71
-2020-09-15,GBR,United Kingdom,Wales,52.302413,-3.738347,19681,1597,0,18084,,,False,True,UKL
+2020-09-16,GBR,United Kingdom,Orkney,58.98094,-2.960521,17,,0,17,,,False,True,UKM65
+2020-09-16,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,2501,0,-2501,,,False,True,UKM
+2020-09-16,GBR,United Kingdom,Shetland,60.29623,-1.346738,57,,0,57,,,False,True,UKM66
+2020-09-16,GBR,United Kingdom,South East,51.291417,-0.521902,40368,,0,40368,,,False,True,UKJ
+2020-09-16,GBR,United Kingdom,South West,51.239761,-2.54375,16031,,0,16031,,,False,True,UKK
+2020-09-16,GBR,United Kingdom,Tayside,56.610323,-3.555213,2225,,0,2225,,,False,True,UKM71
+2020-09-16,GBR,United Kingdom,Wales,52.302413,-3.738347,19880,1597,0,18283,,,False,True,UKL
