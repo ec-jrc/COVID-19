@@ -411,7 +411,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-15,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,7851,43,7350,458,,,False,False,RU78
 2020-09-15,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,5261,64,4499,698,,,False,False,RU80
 2020-09-16,SMR,San Marino,San Marino,43.942973,12.460035,723,42,,681,,,False,False,SM
-2020-09-15,SRB,Serbia,Serbia,44.206802,20.911009,32437,733,,31704,,,False,True,
+2020-09-16,SRB,Serbia,Serbia,44.206802,20.911009,32511,735,,31776,,,False,True,
 2020-09-16,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,323,,,323,,,True,True,SK032
 2020-09-16,SVK,Slovakia,Bratislava,48.319003,17.17481,1651,,,1651,,,True,True,SK010
 2020-09-16,SVK,Slovakia,Košice,48.771358,20.721931,729,,,729,,,True,True,SK042
@@ -425,7 +425,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2020-09-14,SVN,Slovenia,NOT SPECIFIED,,,3831,135,421,3275,50,10,True,True,
+2020-09-15,SVN,Slovenia,NOT SPECIFIED,,,3954,135,422,3397,61,11,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -483,7 +483,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-16,CHE,Switzerland,Bern,46.825006,7.626925,2893,99,0,2794,0,0,False,False,CH021
 2020-09-16,CHE,Switzerland,Fribourg,46.710334,7.09922,2151,88,165,1898,17,2,False,False,CH022
 2020-09-16,CHE,Switzerland,Geneva,46.217114,6.131255,7572,300,973,6299,29,2,False,False,CH013
-2020-09-16,CHE,Switzerland,Glarus,46.980518,9.065544,168,13,0,155,0,0,False,False,CH051
+2020-09-16,CHE,Switzerland,Glarus,46.980518,9.065544,169,13,0,156,0,0,False,False,CH051
 2020-09-16,CHE,Switzerland,Graubünden,46.658176,9.629923,1053,50,0,1003,1,0,False,False,CH056
 2020-09-16,CHE,Switzerland,Jura,47.368327,7.198733,290,7,0,283,3,0,False,False,CH025
 2020-09-16,CHE,Switzerland,Liechtenstein,47.164696,9.555,111,1,106,4,1,0,False,False,LI
@@ -491,7 +491,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-16,CHE,Switzerland,Neuchâtel,46.997282,6.782288,986,85,0,901,3,0,False,False,CH024
 2020-09-16,CHE,Switzerland,Nidwalden,46.922198,8.419375,139,3,0,136,1,1,False,False,CH065
 2020-09-16,CHE,Switzerland,Obwalden,46.857772,8.209745,108,0,1,107,3,0,False,False,CH064
-2020-09-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,177,8,0,169,0,0,False,False,CH052
+2020-09-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,178,8,0,170,0,0,False,False,CH052
 2020-09-16,CHE,Switzerland,Schwyz,47.06411,8.761568,541,25,486,30,0,0,False,False,CH063
 2020-09-16,CHE,Switzerland,Solothurn,47.336648,7.686944,759,18,0,741,2,0,False,False,CH023
 2020-09-16,CHE,Switzerland,St. Gallen,47.305025,9.019368,1441,41,226,1174,12,3,False,False,CH055
@@ -502,8 +502,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-16,CHE,Switzerland,Vaud,46.56176,6.648929,8824,437,0,8387,30,4,False,False,CH011
 2020-09-16,CHE,Switzerland,Zug,47.161402,8.538864,409,9,363,37,1,0,False,False,CH066
 2020-09-16,CHE,Switzerland,Zurich,47.417407,8.655988,7080,145,0,6935,28,0,False,False,CH040
-2020-09-15,TUR,Turkey,Turkey,38.961515,35.25175,292878,7119,,285759,,,False,True,TUR
-2020-09-15,UKR,Ukraine,NOT SPECIFIED,,,156797,3211,,153586,,,False,False,
+2020-09-16,TUR,Turkey,Turkey,38.961515,35.25175,294620,7186,,287434,,,False,True,TUR
+2020-09-16,UKR,Ukraine,NOT SPECIFIED,,,162660,3340,,159320,,,False,False,
 2020-09-15,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,1483,,0,1483,,,False,True,UKM93
 2020-09-15,GBR,United Kingdom,Borders,55.572787,-2.786355,420,,0,420,,,False,True,UKM91
 2020-09-15,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,333,,0,333,,,False,True,UKM92
