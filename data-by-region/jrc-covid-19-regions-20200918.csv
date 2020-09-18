@@ -1,17 +1,17 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2020-09-17,ALB,Albania,Berat,40.6285,20.090775,246,2,151,93,6,1,False,False,AL031
-2020-09-17,ALB,Albania,Dibër,,,133,7,75,51,8,0,False,False,AL011
-2020-09-17,ALB,Albania,Durrës,41.518365,19.651766,1500,45,929,526,13,3,False,False,AL012
-2020-09-17,ALB,Albania,Elbasan,41.040028,20.186454,553,21,270,262,18,2,False,False,AL021
-2020-09-17,ALB,Albania,Fier,40.774633,19.620528,633,18,403,212,7,0,False,False,AL032
-2020-09-17,ALB,Albania,Gjirokastër,,,153,4,99,50,1,0,False,False,AL033
-2020-09-17,ALB,Albania,Korçë,40.62883,20.666004,517,15,288,214,15,0,False,False,AL034
-2020-09-17,ALB,Albania,Kukës,42.066696,20.419467,408,8,260,140,8,1,False,False,AL013
-2020-09-17,ALB,Albania,Lezhë,41.801452,19.845695,595,13,308,274,14,2,False,False,AL014
-2020-09-17,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
-2020-09-17,ALB,Albania,Shkodër,42.17682,19.719451,876,39,472,365,14,1,False,False,AL015
-2020-09-17,ALB,Albania,Tiranë,41.268583,19.793936,5811,165,3274,2372,50,6,False,False,AL022
-2020-09-17,ALB,Albania,Vlorë,40.162418,19.793592,391,6,204,181,4,0,False,False,AL035
+2020-09-18,ALB,Albania,Berat,40.6285,20.090775,260,2,153,105,6,1,False,False,AL031
+2020-09-18,ALB,Albania,Dibër,,,149,7,75,67,8,0,False,False,AL011
+2020-09-18,ALB,Albania,Durrës,41.518365,19.651766,1533,45,939,549,13,3,False,False,AL012
+2020-09-18,ALB,Albania,Elbasan,41.040028,20.186454,574,22,286,266,18,2,False,False,AL021
+2020-09-18,ALB,Albania,Fier,40.774633,19.620528,634,18,407,209,7,0,False,False,AL032
+2020-09-18,ALB,Albania,Gjirokastër,,,173,4,102,67,1,0,False,False,AL033
+2020-09-18,ALB,Albania,Korçë,40.62883,20.666004,534,16,297,221,15,0,False,False,AL034
+2020-09-18,ALB,Albania,Kukës,42.066696,20.419467,422,10,269,143,8,1,False,False,AL013
+2020-09-18,ALB,Albania,Lezhë,41.801452,19.845695,611,14,311,286,14,1,False,False,AL014
+2020-09-18,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
+2020-09-18,ALB,Albania,Shkodër,42.17682,19.719451,892,39,480,373,14,1,False,False,AL015
+2020-09-18,ALB,Albania,Tiranë,41.268583,19.793936,5892,169,3305,2418,52,6,False,False,AL022
+2020-09-18,ALB,Albania,Vlorë,40.162418,19.793592,399,7,207,185,4,0,False,False,AL035
 2020-09-18,AND,Andorra,Andorra,42.542268,1.596865,1483,53,,1430,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-09-18,AUT,Austria,Burgenland,47.541449,16.520206,644,11,522,111,,,True,True,AT11
@@ -99,13 +99,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-18,CZE,Czech Republic,Zlínský,49.239654,17.770218,1799,0,0,1799,,,True,True,CZ072
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-09-15,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-09-15,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-09-15,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-09-15,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-09-15,DNK,Denmark,NOT SPECIFIED,,,20571,633,16557,3381,55,,True,True,
-2020-09-15,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-09-15,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-09-18,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-09-18,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-09-18,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-09-18,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-09-18,DNK,Denmark,NOT SPECIFIED,,,21847,635,17110,4102,58,,True,True,
+2020-09-18,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-09-18,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-09-18,EST,Estonia,Estonia,58.596209,25.023778,2778,64,,2714,,,True,True,EE0
 2020-09-18,FIN,Finland,Ahvenanmaa,60.240625,19.966666,21,,,21,,,True,True,FI200
 2020-09-18,FIN,Finland,Etelä-Karjala,61.217899,28.550289,28,,,28,,,True,True,FI1C5
@@ -482,7 +482,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-18,CHE,Switzerland,Basel Country,47.441812,7.7644,1116,36,1032,48,3,0,False,False,CH032
 2020-09-18,CHE,Switzerland,Bern,46.825006,7.626925,3041,100,0,2941,10,3,False,False,CH021
 2020-09-18,CHE,Switzerland,Fribourg,46.710334,7.09922,2223,98,168,1957,14,2,False,False,CH022
-2020-09-18,CHE,Switzerland,Geneva,46.217114,6.131255,7702,304,973,6425,29,2,False,False,CH013
+2020-09-18,CHE,Switzerland,Geneva,46.217114,6.131255,7763,305,973,6485,29,2,False,False,CH013
 2020-09-18,CHE,Switzerland,Glarus,46.980518,9.065544,172,13,0,159,0,0,False,False,CH051
 2020-09-18,CHE,Switzerland,Graubünden,46.658176,9.629923,1056,50,0,1006,3,0,False,False,CH056
 2020-09-18,CHE,Switzerland,Jura,47.368327,7.198733,297,7,0,290,2,0,False,False,CH025
