@@ -1,17 +1,17 @@
 Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2020-09-20,ALB,Albania,Berat,40.6285,20.090775,272,2,154,116,6,1,False,False,AL031
-2020-09-20,ALB,Albania,Dibër,,,157,8,76,73,9,0,False,False,AL011
-2020-09-20,ALB,Albania,Durrës,41.518365,19.651766,1565,46,952,567,16,2,False,False,AL012
-2020-09-20,ALB,Albania,Elbasan,41.040028,20.186454,600,23,290,287,19,1,False,False,AL021
-2020-09-20,ALB,Albania,Fier,40.774633,19.620528,658,18,418,222,9,1,False,False,AL032
-2020-09-20,ALB,Albania,Gjirokastër,,,181,4,105,72,2,0,False,False,AL033
-2020-09-20,ALB,Albania,Korçë,40.62883,20.666004,564,17,302,245,18,0,False,False,AL034
-2020-09-20,ALB,Albania,Kukës,42.066696,20.419467,426,10,274,142,8,1,False,False,AL013
-2020-09-20,ALB,Albania,Lezhë,41.801452,19.845695,629,15,317,297,14,1,False,False,AL014
-2020-09-20,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
-2020-09-20,ALB,Albania,Shkodër,42.17682,19.719451,904,39,493,372,15,1,False,False,AL015
-2020-09-20,ALB,Albania,Tiranë,41.268583,19.793936,6022,173,3348,2501,52,5,False,False,AL022
-2020-09-20,ALB,Albania,Vlorë,40.162418,19.793592,407,7,211,189,4,0,False,False,AL035
+2020-09-21,ALB,Albania,Berat,40.6285,20.090775,273,2,154,117,5,2,False,False,AL031
+2020-09-21,ALB,Albania,Dibër,,,160,8,76,76,12,0,False,False,AL011
+2020-09-21,ALB,Albania,Durrës,41.518365,19.651766,1571,46,961,564,15,3,False,False,AL012
+2020-09-21,ALB,Albania,Elbasan,41.040028,20.186454,613,23,291,299,18,0,False,False,AL021
+2020-09-21,ALB,Albania,Fier,40.774633,19.620528,672,18,418,236,8,3,False,False,AL032
+2020-09-21,ALB,Albania,Gjirokastër,,,186,4,106,76,2,0,False,False,AL033
+2020-09-21,ALB,Albania,Korçë,40.62883,20.666004,573,17,311,245,18,0,False,False,AL034
+2020-09-21,ALB,Albania,Kukës,42.066696,20.419467,431,10,275,146,8,0,False,False,AL013
+2020-09-21,ALB,Albania,Lezhë,41.801452,19.845695,635,15,320,300,14,2,False,False,AL014
+2020-09-21,ALB,Albania,NOT SPECIFIED,,,0,,,0,,,False,False,
+2020-09-21,ALB,Albania,Shkodër,42.17682,19.719451,912,40,496,376,15,2,False,False,AL015
+2020-09-21,ALB,Albania,Tiranë,41.268583,19.793936,6095,174,3371,2550,54,4,False,False,AL022
+2020-09-21,ALB,Albania,Vlorë,40.162418,19.793592,414,7,216,191,4,0,False,False,AL035
 2020-09-21,AND,Andorra,Andorra,42.542268,1.596865,1564,53,,1511,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-09-21,AUT,Austria,Burgenland,47.541449,16.520206,662,11,542,109,,,True,True,AT11
@@ -478,7 +478,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-21,CHE,Switzerland,Aargau,47.410914,8.159107,2511,54,1170,1287,0,0,False,False,CH033
 2020-09-21,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,158,3,0,155,2,0,False,False,CH053
 2020-09-21,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,33,0,0,33,0,0,False,False,CH054
-2020-09-21,CHE,Switzerland,Basel City,47.561925,7.592768,1293,54,1201,38,0,0,False,False,CH031
+2020-09-21,CHE,Switzerland,Basel City,47.561925,7.592768,1293,54,1201,38,2,0,False,False,CH031
 2020-09-21,CHE,Switzerland,Basel Country,47.441812,7.7644,1121,37,1049,35,2,0,False,False,CH032
 2020-09-21,CHE,Switzerland,Bern,46.825006,7.626925,3179,100,0,3079,17,5,False,False,CH021
 2020-09-21,CHE,Switzerland,Fribourg,46.710334,7.09922,2283,101,171,2011,9,3,False,False,CH022
@@ -486,10 +486,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-21,CHE,Switzerland,Glarus,46.980518,9.065544,172,13,0,159,0,0,False,False,CH051
 2020-09-21,CHE,Switzerland,Graubünden,46.658176,9.629923,1064,50,0,1014,4,1,False,False,CH056
 2020-09-21,CHE,Switzerland,Jura,47.368327,7.198733,300,7,0,293,0,0,False,False,CH025
-2020-09-21,CHE,Switzerland,Liechtenstein,47.164696,9.555,113,1,110,2,1,0,False,False,LI
+2020-09-21,CHE,Switzerland,Liechtenstein,47.164696,9.555,114,1,110,3,1,0,False,False,LI
 2020-09-21,CHE,Switzerland,Lucerne,47.06883,8.116991,1164,23,0,1141,6,0,False,False,CH061
 2020-09-21,CHE,Switzerland,Neuchâtel,46.997282,6.782288,1008,86,0,922,3,1,False,False,CH024
-2020-09-21,CHE,Switzerland,Nidwalden,46.922198,8.419375,140,3,0,137,1,1,False,False,CH065
+2020-09-21,CHE,Switzerland,Nidwalden,46.922198,8.419375,141,3,0,138,1,1,False,False,CH065
 2020-09-21,CHE,Switzerland,Obwalden,46.857772,8.209745,114,0,1,113,3,0,False,False,CH064
 2020-09-21,CHE,Switzerland,Schaffhausen,47.721853,8.563863,182,8,0,174,0,0,False,False,CH052
 2020-09-21,CHE,Switzerland,Schwyz,47.06411,8.761568,551,25,506,20,0,0,False,False,CH063
@@ -498,7 +498,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-21,CHE,Switzerland,Thurgau,47.567205,9.112572,689,19,83,587,4,2,False,False,CH057
 2020-09-21,CHE,Switzerland,Ticino,46.297963,8.808447,3618,350,929,2339,2,0,False,False,CH07
 2020-09-21,CHE,Switzerland,Uri,46.775402,8.627444,140,7,131,2,0,0,False,False,CH062
-2020-09-21,CHE,Switzerland,Valais,46.211633,7.611267,2568,155,322,2091,8,0,False,False,CH012
+2020-09-21,CHE,Switzerland,Valais,46.211633,7.611267,2599,155,322,2122,10,0,False,False,CH012
 2020-09-21,CHE,Switzerland,Vaud,46.56176,6.648929,9142,437,0,8705,39,3,False,False,CH011
 2020-09-21,CHE,Switzerland,Zug,47.161402,8.538864,416,9,376,31,0,0,False,False,CH066
 2020-09-21,CHE,Switzerland,Zurich,47.417407,8.655988,7302,145,0,7157,25,0,False,False,CH040
