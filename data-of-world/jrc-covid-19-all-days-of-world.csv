@@ -36316,6 +36316,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-22,MOZ,AF,Mozambique,-18.670284,35.530157,6912,44,,6868,,,False,False
 2020-09-22,NAM,AF,Namibia,-22.965662,18.486165,10526,113,,10413,,,False,False
 2020-09-22,NPL,AS,Nepal,28.395056,84.127803,65276,427,,64849,,,False,False
+2020-09-22,NLD,EU,Netherlands,52.133057,5.29525,98240,6291,,91949,12467,,True,True
 2020-09-22,NCL,OC,New Caledonia,-21.123889,165.846901,26,0,,26,,,False,False
 2020-09-22,NZL,OC,New Zealand,-40.9006,174.886,1464,25,,1439,,,False,False
 2020-09-22,NIC,NA,Nicaragua,12.866726,-85.214298,4961,147,,4814,,,False,False
@@ -36335,6 +36336,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-22,PRI,NA,Puerto Rico,18.223285,-66.592731,42476,609,,41867,,,False,False
 2020-09-22,QAT,AS,Qatar,25.318833,51.19693,123604,211,,123393,,,False,False
 2020-09-22,ROU,EU,Romania,45.947125,24.980514,113925,4458,,109467,,,True,True
+2020-09-22,RUS,EU,Russian Fed.,61.523111,-74.9,1115810,19649,917949,178212,,,False,False
 2020-09-22,RWA,AF,Rwanda,-1.94708,29.876376,4722,27,,4695,,,False,False
 2020-09-22,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,19,0,,19,,,False,False
 2020-09-22,LCA,NA,Saint Lucia,13.904011,-60.974176,27,0,,27,,,False,False
