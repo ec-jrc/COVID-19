@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-21,ALB,Albania,Shkodër,42.17682,19.719451,912,40,496,376,15,2,False,False,AL015
 2020-09-21,ALB,Albania,Tiranë,41.268583,19.793936,6095,174,3371,2550,54,4,False,False,AL022
 2020-09-21,ALB,Albania,Vlorë,40.162418,19.793592,414,7,216,191,4,0,False,False,AL035
-2020-09-21,AND,Andorra,Andorra,42.542268,1.596865,1564,53,,1511,,,False,False,AD
+2020-09-22,AND,Andorra,Andorra,42.542268,1.596865,1681,53,,1628,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-09-22,AUT,Austria,Burgenland,47.541449,16.520206,670,11,543,116,,,True,True,AT11
 2020-09-22,AUT,Austria,Kärnten,46.715832,14.455532,779,13,671,95,,,True,True,AT21
@@ -24,12 +24,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-22,AUT,Austria,Tirol,47.209023,11.397603,5595,102,4812,681,,,True,True,AT33
 2020-09-22,AUT,Austria,Vorarlberg,47.240149,9.896366,1632,20,1153,459,,,True,True,AT34
 2020-09-22,AUT,Austria,Wien,48.21141,16.380038,13315,235,8594,4486,,,True,True,AT13
-2020-09-21,BLR,Belarus,Belarus,53.711111,27.973847,75674,780,,74894,,,False,False,BY
+2020-09-22,BLR,Belarus,Belarus,53.711111,27.973847,75898,785,,75113,,,False,False,BY
 2020-09-21,BEL,Belgium,Brussels,50.836426,4.367415,14483,1546,,12937,151,27,True,True,BE1
 2020-09-21,BEL,Belgium,Flanders,51.036569,4.234165,56083,4936,,51147,195,37,True,True,BE2
 2020-09-21,BEL,Belgium,NOT SPECIFIED,,,2590,0,,2590,0,0,True,True,
 2020-09-21,BEL,Belgium,Wallonia,50.312074,5.019093,30236,3468,,26768,140,23,True,True,BE3
-2020-09-21,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,25424,757,,24667,,,False,False,BA
+2020-09-22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,25516,763,,24753,,,False,False,BA
 2020-09-22,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,1801,10,10,1781,,,True,True,BG413
 2020-09-22,BGR,Bulgaria,Burgas,42.491848,27.306892,632,1,19,612,,,True,True,BG341
 2020-09-22,BGR,Bulgaria,Dobrich,43.65074,27.936751,784,0,2,782,,,True,True,BG332
@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-22,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,752,11,,741,,,True,True,HR04C
 2020-09-22,HRV,Croatia,Zadarska,44.347845,15.959404,715,8,,707,,,True,True,HR033
 2020-09-22,HRV,Croatia,Zagrebačka,45.82762,16.381796,691,10,,681,,,True,True,HR042
-2020-09-21,CYP,Cyprus,Cyprus,35.167406,33.435499,1600,22,,1578,,,True,True,CY
+2020-09-22,CYP,Cyprus,Cyprus,35.167406,33.435499,1603,22,,1581,,,True,True,CY
 2020-09-22,CZE,Czech Republic,Jihoceský,49.093362,14.439278,1940,0,0,1940,,,True,True,CZ031
 2020-09-22,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,4199,0,0,4199,,,True,True,CZ064
 2020-09-22,CZE,Czech Republic,Karlovarský,50.170136,12.763213,1257,0,0,1257,,,True,True,CZ041
@@ -106,7 +106,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-09-21,DNK,Denmark,NOT SPECIFIED,,,23323,640,17738,4945,75,,True,True,
 2020-09-21,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-09-21,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-09-21,EST,Estonia,Estonia,58.596209,25.023778,2924,64,,2860,,,True,True,EE0
+2020-09-22,EST,Estonia,Estonia,58.596209,25.023778,2941,64,,2877,,,True,True,EE0
 2020-09-22,FIN,Finland,Ahvenanmaa,60.240625,19.966666,21,,,21,,,True,True,FI200
 2020-09-22,FIN,Finland,Etelä-Karjala,61.217899,28.550289,29,,,29,,,True,True,FI1C5
 2020-09-22,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,63,,,63,,,True,True,FI194
