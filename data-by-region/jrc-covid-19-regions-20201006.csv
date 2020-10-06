@@ -99,13 +99,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-06,CZE,Czech Republic,Zlínský,49.239654,17.770218,4409,0,0,4409,,,True,True,CZ072
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-10-05,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-10-05,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-10-05,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-10-05,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-10-05,DNK,Denmark,NOT SPECIFIED,,,30057,659,23122,6276,0,,True,True,
-2020-10-05,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-10-05,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-10-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-10-06,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-10-06,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-10-06,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-10-06,DNK,Denmark,NOT SPECIFIED,,,30379,663,23665,6051,0,,True,True,
+2020-10-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-10-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-10-06,EST,Estonia,Estonia,58.596209,25.023778,3617,67,,3550,,,True,True,EE0
 2020-10-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,22,,,22,,,True,True,FI200
 2020-10-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,48,,,48,,,True,True,FI1C5
@@ -231,19 +231,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-06,MDA,Moldova,Moldova,46.979527,28.377195,56901,1375,,55526,,,False,False,MD
 2020-10-06,MCO,Monaco,Monaco,43.738348,7.424451,223,1,,222,,,False,False,
 2020-10-06,MNE,Montenegro,Montenegro,42.710152,19.410069,12359,182,,12177,,,False,True,ME
-2020-10-05,NLD,Netherlands,Drenthe,52.863149,6.623756,1528,51,,1477,125,,True,True,NL13
-2020-10-05,NLD,Netherlands,Flevoland,52.436257,5.519078,2562,101,,2461,296,,True,True,NL23
-2020-10-05,NLD,Netherlands,Friesland,53.089388,5.871457,2026,70,,1956,142,,True,True,NL12
-2020-10-05,NLD,Netherlands,Gelderland,52.061726,5.945178,13588,708,,12880,1593,,True,True,NL22
-2020-10-05,NLD,Netherlands,Groningen,53.291466,6.700488,2416,20,,2396,77,,True,True,NL11
-2020-10-05,NLD,Netherlands,Limburg,51.207579,5.936318,7287,768,,6519,1598,,True,True,NL42
-2020-10-05,NLD,Netherlands,North Brabant,51.527534,5.590194,20323,1567,,18756,2854,,True,True,NL41
-2020-10-05,NLD,Netherlands,North Holland,52.551824,4.876581,28876,876,,28000,1928,,True,True,NL32
+2020-10-06,NLD,Netherlands,Drenthe,52.863149,6.623756,1568,56,,1512,125,,True,True,NL13
+2020-10-06,NLD,Netherlands,Flevoland,52.436257,5.519078,2654,101,,2553,297,,True,True,NL23
+2020-10-06,NLD,Netherlands,Friesland,53.089388,5.871457,2116,70,,2046,145,,True,True,NL12
+2020-10-06,NLD,Netherlands,Gelderland,52.061726,5.945178,14132,708,,13424,1603,,True,True,NL22
+2020-10-06,NLD,Netherlands,Groningen,53.291466,6.700488,2509,21,,2488,79,,True,True,NL11
+2020-10-06,NLD,Netherlands,Limburg,51.207579,5.936318,7410,769,,6641,1600,,True,True,NL42
+2020-10-06,NLD,Netherlands,North Brabant,51.527534,5.590194,21017,1572,,19445,2861,,True,True,NL41
+2020-10-06,NLD,Netherlands,North Holland,52.551824,4.876581,29812,876,,28936,1942,,True,True,NL32
 2020-07-17,NLD,Netherlands,NOT SPECIFIED,,,0,6138,0,-6138,11894,0,True,True,
-2020-10-05,NLD,Netherlands,Overijssel,52.445136,6.4476,6112,347,,5765,577,,True,True,NL21
-2020-10-05,NLD,Netherlands,South Holland,51.968696,4.541274,42823,1429,,41394,2613,,True,True,NL33
-2020-10-05,NLD,Netherlands,Utrecht,52.078728,5.214048,11388,451,,10937,980,,True,True,NL31
-2020-10-05,NLD,Netherlands,Zeeland,51.312779,3.786651,1542,73,,1469,157,,True,True,NL34
+2020-10-06,NLD,Netherlands,Overijssel,52.445136,6.4476,6336,348,,5988,577,,True,True,NL21
+2020-10-06,NLD,Netherlands,South Holland,51.968696,4.541274,44017,1437,,42580,2629,,True,True,NL33
+2020-10-06,NLD,Netherlands,Utrecht,52.078728,5.214048,11849,451,,11398,1005,,True,True,NL31
+2020-10-06,NLD,Netherlands,Zeeland,51.312779,3.786651,1579,73,,1506,157,,True,True,NL34
 2020-10-06,MKD,North Macedonia,North Macedonia,41.611,21.751417,18873,760,,18113,,,False,True,MK
 2020-10-05,NOR,Norway,Agder,58.699661,7.618403,509,,,509,,,False,True,NO04
 2020-10-05,NOR,Norway,Innlandet,61.43354,10.427144,700,,,700,,,False,True,NO02
@@ -482,7 +482,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-06,CHE,Switzerland,Basel Country,47.441812,7.7644,1210,37,1127,46,0,0,False,False,CH032
 2020-10-06,CHE,Switzerland,Bern,46.825006,7.626925,3824,104,0,3720,0,0,False,False,CH021
 2020-10-06,CHE,Switzerland,Fribourg,46.710334,7.09922,2569,102,177,2290,10,1,False,False,CH022
-2020-10-06,CHE,Switzerland,Geneva,46.217114,6.131255,9827,310,973,8544,39,4,False,False,CH013
+2020-10-06,CHE,Switzerland,Geneva,46.217114,6.131255,9585,311,973,8301,41,5,False,False,CH013
 2020-10-06,CHE,Switzerland,Glarus,46.980518,9.065544,191,13,0,178,0,0,False,False,CH051
 2020-10-06,CHE,Switzerland,Graubünden,46.658176,9.629923,1129,50,0,1079,2,0,False,False,CH056
 2020-10-06,CHE,Switzerland,Jura,47.368327,7.198733,324,7,0,317,4,1,False,False,CH025
