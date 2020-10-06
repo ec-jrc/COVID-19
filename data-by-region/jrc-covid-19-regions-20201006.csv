@@ -227,7 +227,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-10-06,LTU,Lithuania,Lithuania,55.174112,23.906736,5285,94,,5191,,,True,True,LT
 2020-10-06,LUX,Luxembourg,Luxembourg,49.815764,6.131514,8925,127,,8798,,,True,True,LU
-2020-10-05,MLT,Malta,Malta,35.946151,14.384612,3327,39,2770,518,,,True,True,MT001
+2020-10-06,MLT,Malta,Malta,35.946151,14.384612,3374,40,2812,522,,,True,True,MT001
 2020-10-06,MDA,Moldova,Moldova,46.979527,28.377195,56901,1375,,55526,,,False,False,MD
 2020-10-06,MCO,Monaco,Monaco,43.738348,7.424451,223,1,,222,,,False,False,
 2020-10-06,MNE,Montenegro,Montenegro,42.710152,19.410069,12359,182,,12177,,,False,True,ME
@@ -487,7 +487,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-06,CHE,Switzerland,Graubünden,46.658176,9.629923,1122,50,0,1072,2,0,False,False,CH056
 2020-10-06,CHE,Switzerland,Jura,47.368327,7.198733,324,7,0,317,4,1,False,False,CH025
 2020-10-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,130,1,116,13,0,0,False,False,LI
-2020-10-06,CHE,Switzerland,Lucerne,47.06883,8.116991,1279,24,0,1255,6,1,False,False,CH061
+2020-10-06,CHE,Switzerland,Lucerne,47.06883,8.116991,1293,24,0,1269,6,1,False,False,CH061
 2020-10-06,CHE,Switzerland,Neuchâtel,46.997282,6.782288,1191,90,0,1101,2,0,False,False,CH024
 2020-10-06,CHE,Switzerland,Nidwalden,46.922198,8.419375,161,4,0,157,1,0,False,False,CH065
 2020-10-06,CHE,Switzerland,Obwalden,46.857772,8.209745,127,0,1,126,3,0,False,False,CH064
