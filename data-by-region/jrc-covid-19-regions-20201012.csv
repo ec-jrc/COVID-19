@@ -82,21 +82,21 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-11,HRV,Croatia,Zadarska,44.347845,15.959404,820,9,,811,,,True,True,HR033
 2020-10-11,HRV,Croatia,Zagrebačka,45.82762,16.381796,1068,10,,1058,,,True,True,HR042
 2020-10-11,CYP,Cyprus,Cyprus,35.167406,33.435499,1986,25,,1961,,,True,True,CY
-2020-10-11,CZE,Czech Republic,Jihoceský,49.093362,14.439278,5425,0,0,5425,,,True,True,CZ031
-2020-10-11,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,10690,0,0,10690,,,True,True,CZ064
-2020-10-11,CZE,Czech Republic,Karlovarský,50.170136,12.763213,2273,0,0,2273,,,True,True,CZ041
-2020-10-11,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,4052,0,0,4052,,,True,True,CZ052
-2020-10-11,CZE,Czech Republic,Liberecký,50.732038,14.973755,4106,0,0,4106,,,True,True,CZ051
-2020-10-11,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,12996,0,0,12996,,,True,True,CZ080
-2020-10-11,CZE,Czech Republic,NOT SPECIFIED,,,904,948,54909,-54953,,,True,True,
-2020-10-11,CZE,Czech Republic,Olomoucký,49.823636,17.016472,6132,0,0,6132,,,True,True,CZ071
-2020-10-11,CZE,Czech Republic,Pardubický,49.877869,16.495746,4450,0,0,4450,,,True,True,CZ053
-2020-10-11,CZE,Czech Republic,Plzenský,49.590906,13.23222,5931,0,0,5931,,,True,True,CZ032
-2020-10-11,CZE,Czech Republic,Prague,50.063699,14.476403,23234,0,0,23234,,,True,True,CZ010
-2020-10-11,CZE,Czech Republic,Stredoceský,50.101074,15.003747,16717,0,0,16717,,,True,True,CZ020
-2020-10-11,CZE,Czech Republic,Ústecký,50.488308,13.816736,5724,0,0,5724,,,True,True,CZ042
-2020-10-11,CZE,Czech Republic,Vysocina,49.40736,15.689937,4949,0,0,4949,,,True,True,CZ063
-2020-10-11,CZE,Czech Republic,Zlínský,49.239654,17.770218,6422,0,0,6422,,,True,True,CZ072
+2020-10-12,CZE,Czech Republic,Jihoceský,49.093362,14.439278,5513,0,0,5513,,,True,True,CZ031
+2020-10-12,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,10944,0,0,10944,,,True,True,CZ064
+2020-10-12,CZE,Czech Republic,Karlovarský,50.170136,12.763213,2331,0,0,2331,,,True,True,CZ041
+2020-10-12,CZE,Czech Republic,Královéhradecký,50.385055,15.865137,4189,0,0,4189,,,True,True,CZ052
+2020-10-12,CZE,Czech Republic,Liberecký,50.732038,14.973755,4288,0,0,4288,,,True,True,CZ051
+2020-10-12,CZE,Czech Republic,Moravskoslezský,49.780617,18.000931,13544,0,0,13544,,,True,True,CZ080
+2020-10-12,CZE,Czech Republic,NOT SPECIFIED,,,905,987,56203,-56285,,,True,True,
+2020-10-12,CZE,Czech Republic,Olomoucký,49.823636,17.016472,6203,0,0,6203,,,True,True,CZ071
+2020-10-12,CZE,Czech Republic,Pardubický,49.877869,16.495746,4556,0,0,4556,,,True,True,CZ053
+2020-10-12,CZE,Czech Republic,Plzenský,49.590906,13.23222,6112,0,0,6112,,,True,True,CZ032
+2020-10-12,CZE,Czech Republic,Prague,50.063699,14.476403,23637,0,0,23637,,,True,True,CZ010
+2020-10-12,CZE,Czech Republic,Stredoceský,50.101074,15.003747,17109,0,0,17109,,,True,True,CZ020
+2020-10-12,CZE,Czech Republic,Ústecký,50.488308,13.816736,5911,0,0,5911,,,True,True,CZ042
+2020-10-12,CZE,Czech Republic,Vysocina,49.40736,15.689937,5106,0,0,5106,,,True,True,CZ063
+2020-10-12,CZE,Czech Republic,Zlínský,49.239654,17.770218,6762,0,0,6762,,,True,True,CZ072
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2020-10-09,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -484,7 +484,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-11,CHE,Switzerland,Fribourg,46.710334,7.09922,2889,102,177,2610,14,1,False,False,CH022
 2020-10-11,CHE,Switzerland,Geneva,46.217114,6.131255,9585,314,973,8298,50,7,False,False,CH013
 2020-10-11,CHE,Switzerland,Glarus,46.980518,9.065544,197,13,0,184,0,0,False,False,CH051
-2020-10-11,CHE,Switzerland,Graubünden,46.658176,9.629923,1259,50,0,1209,3,0,False,False,CH056
+2020-10-11,CHE,Switzerland,Graubünden,46.658176,9.629923,1259,50,0,1209,2,1,False,False,CH056
 2020-10-11,CHE,Switzerland,Jura,47.368327,7.198733,419,7,0,412,5,2,False,False,CH025
 2020-10-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,144,1,121,22,3,0,False,False,LI
 2020-10-11,CHE,Switzerland,Lucerne,47.06883,8.116991,1400,24,0,1376,7,2,False,False,CH061
