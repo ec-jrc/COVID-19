@@ -1688,6 +1688,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
 2020-03-16,EST,EU,Estonia,58.596209,25.023778,171,0,,171,,,True,True
 2020-03-16,ETH,AF,Ethiopia,9.148086,40.493059,4,,,4,,,False,False
+2020-03-16,FIN,EU,Finland,64.952416,26.068944,,0,,0,,,True,True
 2020-03-16,FRA,EU,France,46.232193,2.209667,6628,0,0,6628,0,0,True,True
 2020-03-16,GAB,AF,Gabon,-0.828097,11.598909,1,,,1,,,False,False
 2020-03-16,GEO,AS,Georgia,42.319847,43.368055,30,,,30,,,False,False
@@ -1804,7 +1805,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
 2020-03-17,EST,EU,Estonia,58.596209,25.023778,205,0,,205,,,True,True
 2020-03-17,ETH,AF,Ethiopia,9.148086,40.493059,5,,,5,,,False,False
-2020-03-17,FIN,EU,Finland,64.952416,26.068944,321,0,0,321,,,True,True
+2020-03-17,FIN,EU,Finland,64.952416,26.068944,320,0,0,320,,,True,True
 2020-03-17,FRA,EU,France,46.232193,2.209667,7724,0,0,7724,0,0,True,True
 2020-03-17,GAB,AF,Gabon,-0.828097,11.598909,1,,,1,,,False,False
 2020-03-17,GEO,AS,Georgia,42.319847,43.368055,33,,,33,,,False,False
@@ -1927,7 +1928,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,GNQ,AF,Equatorial Guinea,1.633925,10.341295,1,,,1,,,False,False
 2020-03-18,EST,EU,Estonia,58.596209,25.023778,225,0,,225,,,True,True
 2020-03-18,ETH,AF,Ethiopia,9.148086,40.493059,5,,,5,,,False,False
-2020-03-18,FIN,EU,Finland,64.952416,26.068944,321,0,0,321,,,True,True
+2020-03-18,FIN,EU,Finland,64.952416,26.068944,320,0,0,320,,,True,True
 2020-03-18,FRA,EU,France,46.232193,2.209667,9134,264,1000,7870,3626,931,True,True
 2020-03-18,GAB,AF,Gabon,-0.828097,11.598909,1,,,1,,,False,False
 2020-03-18,GMB,AF,Gambia,13.445412,-15.311436,1,,,1,,,False,False
@@ -2539,6 +2540,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,EST,EU,Estonia,58.596209,25.023778,326,0,,326,,,True,True
 2020-03-23,ETH,AF,Ethiopia,9.148086,40.493059,11,,,11,,,False,False
 2020-03-23,FJI,OC,Fiji,-16.578041,178.416339,3,,,3,,,False,False
+2020-03-23,FIN,EU,Finland,64.952416,26.068944,,1,,-1,,,True,True
 2020-03-23,FRA,EU,France,46.232193,2.209667,19856,860,0,18996,8675,2082,True,True
 2020-03-23,PYF,OC,French Polynesia,-17.778572,-143.903496,18,,,18,,,False,False
 2020-03-23,GAB,AF,Gabon,-0.828097,11.598909,6,1,,5,,,False,False
@@ -2706,7 +2708,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,EST,EU,Estonia,58.596209,25.023778,352,0,,352,,,True,True
 2020-03-24,ETH,AF,Ethiopia,9.148086,40.493059,11,,,11,,,False,False
 2020-03-24,FJI,OC,Fiji,-16.578041,178.416339,4,,,4,,,False,False
-2020-03-24,FIN,EU,Finland,64.952416,26.068944,792,1,0,791,,,True,True
+2020-03-24,FIN,EU,Finland,64.952416,26.068944,,1,,-1,,,True,True
 2020-03-24,FRA,EU,France,46.232193,2.209667,22302,1100,3281,17921,10176,2516,True,True
 2020-03-24,PYF,OC,French Polynesia,-17.778572,-143.903496,23,,,23,,,False,False
 2020-03-24,GAB,AF,Gabon,-0.828097,11.598909,6,1,,5,,,False,False
@@ -3449,6 +3451,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,EST,EU,Estonia,58.596209,25.023778,640,1,,639,,,True,True
 2020-03-29,ETH,AF,Ethiopia,9.148086,40.493059,16,0,0,16,0,0,False,False
 2020-03-29,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
+2020-03-29,FIN,EU,Finland,64.952416,26.068944,,9,,-9,,,True,True
 2020-03-29,FRA,EU,France,46.232193,2.209667,31324,2606,7131,21587,19311,4592,True,True
 2020-03-29,PYF,OC,French Polynesia,-17.778572,-143.903496,34,0,0,34,0,0,False,False
 2020-03-29,GAB,AF,Gabon,-0.828097,11.598909,7,1,0,6,0,0,False,False
@@ -3628,7 +3631,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,EST,EU,Estonia,58.596209,25.023778,679,3,,676,,,True,True
 2020-03-30,ETH,AF,Ethiopia,9.148086,40.493059,16,0,0,16,0,0,False,False
 2020-03-30,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
-2020-03-30,FIN,EU,Finland,64.952416,26.068944,1313,0,0,1313,0,0,True,True
+2020-03-30,FIN,EU,Finland,64.952416,26.068944,1293,11,0,1282,0,0,True,True
 2020-03-30,FRA,EU,France,46.232193,2.209667,38479,3024,7923,27532,20946,5056,True,True
 2020-03-30,PYF,OC,French Polynesia,-17.778572,-143.903496,35,0,0,35,0,0,False,False
 2020-03-30,GAB,AF,Gabon,-0.828097,11.598909,7,1,0,6,0,0,False,False
@@ -3810,7 +3813,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,EST,EU,Estonia,58.596209,25.023778,715,3,,712,,,True,True
 2020-03-31,ETH,AF,Ethiopia,9.148086,40.493059,23,0,0,23,0,0,False,False
 2020-03-31,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
-2020-03-31,FIN,EU,Finland,64.952416,26.068944,1384,0,0,1384,0,0,True,True
+2020-03-31,FIN,EU,Finland,64.952416,26.068944,1384,13,0,1371,0,0,True,True
 2020-03-31,FRA,EU,France,46.232193,2.209667,48744,3523,9443,35778,22672,5496,True,True
 2020-03-31,PYF,OC,French Polynesia,-17.778572,-143.903496,36,0,0,36,0,0,False,False
 2020-03-31,GAB,AF,Gabon,-0.828097,11.598909,7,1,0,6,0,0,False,False
@@ -3995,7 +3998,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,EST,EU,Estonia,58.596209,25.023778,745,4,,741,,,True,True
 2020-04-01,ETH,AF,Ethiopia,9.148086,40.493059,25,0,0,25,0,0,False,False
 2020-04-01,FJI,OC,Fiji,-16.578041,178.416339,5,0,0,5,0,0,False,False
-2020-04-01,FIN,EU,Finland,64.952416,26.068944,1446,0,0,1446,0,0,True,True
+2020-04-01,FIN,EU,Finland,64.952416,26.068944,1446,17,0,1429,0,0,True,True
 2020-04-01,FRA,EU,France,46.232193,2.209667,55867,4032,10934,40901,24628,5940,True,True
 2020-04-01,PYF,OC,French Polynesia,-17.778572,-143.903496,37,0,0,37,0,0,False,False
 2020-04-01,GAB,AF,Gabon,-0.828097,11.598909,16,1,0,15,0,0,False,False
