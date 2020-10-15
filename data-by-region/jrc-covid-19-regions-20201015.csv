@@ -229,7 +229,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-15,LUX,Luxembourg,Luxembourg,49.815764,6.131514,10030,133,,9897,,,True,True,LU
 2020-10-14,MLT,Malta,Malta,35.946151,14.384612,4048,44,3064,940,,,True,True,MT001
 2020-10-15,MDA,Moldova,Moldova,46.979527,28.377195,64424,1514,,62910,,,False,False,MD
-2020-10-15,MCO,Monaco,Monaco,43.738348,7.424451,248,1,,247,,,False,False,
+2020-10-15,MCO,Monaco,Monaco,43.738348,7.424451,248,1,,247,,,False,False,MC
 2020-10-15,MNE,Montenegro,Montenegro,42.710152,19.410069,14461,217,,14244,,,False,True,ME
 2020-10-14,NLD,Netherlands,Drenthe,52.863149,6.623756,2666,65,,2601,146,,True,True,NL13
 2020-10-14,NLD,Netherlands,Flevoland,52.436257,5.519078,3507,101,,3406,311,,True,True,NL23
@@ -485,10 +485,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-15,CHE,Switzerland,Geneva,46.217114,6.131255,10081,318,973,8790,76,7,False,False,CH013
 2020-10-15,CHE,Switzerland,Glarus,46.980518,9.065544,230,13,0,217,0,0,False,False,CH051
 2020-10-15,CHE,Switzerland,Graubünden,46.658176,9.629923,1347,50,0,1297,5,1,False,False,CH056
-2020-10-15,CHE,Switzerland,Jura,47.368327,7.198733,554,8,0,546,8,1,False,False,CH025
+2020-10-15,CHE,Switzerland,Jura,47.368327,7.198733,604,8,0,596,10,2,False,False,CH025
 2020-10-15,CHE,Switzerland,Liechtenstein,47.164696,9.555,174,1,131,42,2,0,False,False,LI
 2020-10-15,CHE,Switzerland,Lucerne,47.06883,8.116991,1655,24,0,1631,13,0,False,False,CH061
-2020-10-15,CHE,Switzerland,Neuchâtel,46.997282,6.782288,1556,93,0,1463,15,0,False,False,CH024
+2020-10-15,CHE,Switzerland,Neuchâtel,46.997282,6.782288,1686,93,0,1593,15,0,False,False,CH024
 2020-10-15,CHE,Switzerland,Nidwalden,46.922198,8.419375,233,4,0,229,0,0,False,False,CH065
 2020-10-15,CHE,Switzerland,Obwalden,46.857772,8.209745,191,1,1,189,3,0,False,False,CH064
 2020-10-15,CHE,Switzerland,Schaffhausen,47.721853,8.563863,268,8,0,260,2,0,False,False,CH052
@@ -502,8 +502,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-15,CHE,Switzerland,Vaud,46.56176,6.648929,12222,448,0,11774,45,11,False,False,CH011
 2020-10-15,CHE,Switzerland,Zug,47.161402,8.538864,746,9,433,304,8,1,False,False,CH066
 2020-10-15,CHE,Switzerland,Zurich,47.417407,8.655988,10410,150,0,10260,47,0,False,False,CH040
-2020-10-14,TUR,Turkey,Turkey,38.961515,35.25175,338779,8957,,329822,,,False,True,TUR
-2020-10-14,UKR,Ukraine,NOT SPECIFIED,,,270587,5133,,265454,,,False,False,
+2020-10-15,TUR,Turkey,Turkey,38.961515,35.25175,340450,9014,,331436,,,False,True,TUR
+2020-10-15,UKR,Ukraine,NOT SPECIFIED,,,276177,5229,,270948,,,False,False,
 2020-10-14,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,2570,,0,2570,,,False,True,UKM93
 2020-10-14,GBR,United Kingdom,Borders,55.572787,-2.786355,589,,0,589,,,False,True,UKM91
 2020-10-14,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,595,,0,595,,,False,True,UKM92
