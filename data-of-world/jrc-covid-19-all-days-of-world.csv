@@ -41036,7 +41036,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-16,LKA,AS,Sri Lanka,7.874097,80.767098,5244,13,,5231,,,False,False,LK
 2020-10-16,SDN,AF,Sudan,15.45847,30.217636,13691,836,,12855,,,False,False,SD
 2020-10-16,SUR,SA,Suriname,3.917845,-56.032028,5094,109,,4985,,,False,False,SR
-2020-10-16,CHE,EU,Switzerland,46.815514,8.224472,72923,2123,9227,61573,536,56,False,False,CH
+2020-10-16,CHE,EU,Switzerland,46.815514,8.224472,72952,2123,9227,61602,537,57,False,False,CH
 2020-10-16,TWN,AS,Taiwan,21.901806,121.471,535,7,,528,,,False,False,TW
 2020-10-16,TJK,AS,Tajikistan,,,10374,80,,10294,,,False,False,TJ
 2020-10-16,THA,AS,Thailand,13.036597,101.492515,3669,59,,3610,,,False,False,TH
@@ -41059,3 +41059,4 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-16,YEM,AS,Yemen,,,2057,597,,1460,,,False,False,YE
 2020-10-16,ZMB,AF,Zambia,-13.151917,27.852537,15659,346,,15313,,,False,False,ZM
 2020-10-16,ZWE,AF,Zimbabwe,-19.013286,29.146666,8075,231,,7844,,,False,False,ZW
+2020-10-17,BGR,EU,Bulgaria,42.729862,25.491667,28505,958,16875,10672,,,True,True,BG
