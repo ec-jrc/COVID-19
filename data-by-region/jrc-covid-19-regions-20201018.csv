@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-17,ALB,Albania,Shkodër,42.17682,19.719451,1128,47,630,451,9,1,False,False,AL015
 2020-10-17,ALB,Albania,Tiranë,41.268583,19.793936,8047,206,4665,3176,95,6,False,False,AL022
 2020-10-17,ALB,Albania,Vlorë,40.162418,19.793592,543,9,303,231,5,2,False,False,AL035
-2020-10-17,AND,Andorra,Andorra,42.542268,1.596865,3377,59,,3318,,,False,False,AD
+2020-10-18,AND,Andorra,Andorra,42.542268,1.596865,3377,59,,3318,,,False,False,AD
 2020-07-13,ARM,Armenia,NOT SPECIFIED,40.070619,45.040741,32490,581,20729,11180,1885,273,False,False,
 2020-10-17,AUT,Austria,Burgenland,47.541449,16.520206,1303,13,933,357,18,4,True,True,AT11
 2020-10-17,AUT,Austria,Kärnten,46.715832,14.455532,1449,13,983,453,9,2,True,True,AT21
@@ -24,12 +24,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-17,AUT,Austria,Tirol,47.209023,11.397603,8134,111,6664,1359,46,7,True,True,AT33
 2020-10-17,AUT,Austria,Vorarlberg,47.240149,9.896366,2868,27,2037,804,19,5,True,True,AT34
 2020-10-17,AUT,Austria,Wien,48.21141,16.380038,22996,290,14366,8340,196,57,True,True,AT13
-2020-10-17,BLR,Belarus,Belarus,53.711111,27.973847,86392,921,,85471,,,False,False,BY
+2020-10-18,BLR,Belarus,Belarus,53.711111,27.973847,86392,921,,85471,,,False,False,BY
 2020-10-17,BEL,Belgium,Brussels,50.836426,4.367415,34372,1634,,32738,460,82,True,True,BE1
 2020-10-17,BEL,Belgium,Flanders,51.036569,4.234165,94216,5106,,89110,767,141,True,True,BE2
 2020-10-17,BEL,Belgium,NOT SPECIFIED,,,4487,0,,4487,0,0,True,True,
 2020-10-17,BEL,Belgium,Wallonia,50.312074,5.019093,80040,3652,,76388,1028,158,True,True,BE3
-2020-10-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,32845,980,,31865,,,False,False,BA
+2020-10-18,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,32845,980,,31865,,,False,False,BA
 2020-10-18,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,2700,10,10,2680,,,True,True,BG413
 2020-10-18,BGR,Bulgaria,Burgas,42.491848,27.306892,1261,1,19,1241,,,True,True,BG341
 2020-10-18,BGR,Bulgaria,Dobrich,43.65074,27.936751,934,0,2,932,,,True,True,BG332
@@ -59,29 +59,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-18,BGR,Bulgaria,Vidin,43.797295,22.68621,279,18,14,247,,,True,True,BG311
 2020-10-18,BGR,Bulgaria,Vratsa,43.395067,23.759152,283,0,2,281,,,True,True,BG313
 2020-10-18,BGR,Bulgaria,Yambol,,,573,14,18,541,,,True,True,BG343
-2020-10-17,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,415,8,,407,,,True,True,HR047
-2020-10-17,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,732,6,,726,,,True,True,HR04A
-2020-10-17,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,932,16,,916,,,True,True,HR037
-2020-10-17,HRV,Croatia,Grad Zagreb,45.742196,16.008116,5710,88,,5622,,,True,True,HR041
-2020-10-17,HRV,Croatia,Istarska,45.203521,13.895312,532,12,,520,,,True,True,HR036
-2020-10-17,HRV,Croatia,Karlovačka,45.292126,15.46427,612,5,,607,,,True,True,HR04D
-2020-10-17,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,307,18,,289,,,True,True,HR045
-2020-10-17,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,932,2,,930,,,True,True,HR043
-2020-10-17,HRV,Croatia,Ličko-senjska,44.69075,15.422344,356,2,,354,,,True,True,HR032
-2020-10-17,HRV,Croatia,Međimurska,46.410728,16.508315,503,0,,503,,,True,True,HR046
+2020-10-18,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,433,8,,425,,,True,True,HR047
+2020-10-18,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,738,6,,732,,,True,True,HR04A
+2020-10-18,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,955,16,,939,,,True,True,HR037
+2020-10-18,HRV,Croatia,Grad Zagreb,45.742196,16.008116,6027,92,,5935,,,True,True,HR041
+2020-10-18,HRV,Croatia,Istarska,45.203521,13.895312,539,12,,527,,,True,True,HR036
+2020-10-18,HRV,Croatia,Karlovačka,45.292126,15.46427,659,6,,653,,,True,True,HR04D
+2020-10-18,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,315,18,,297,,,True,True,HR045
+2020-10-18,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,1014,2,,1012,,,True,True,HR043
+2020-10-18,HRV,Croatia,Ličko-senjska,44.69075,15.422344,365,4,,361,,,True,True,HR032
+2020-10-18,HRV,Croatia,Međimurska,46.410728,16.508315,541,0,,541,,,True,True,HR046
 2020-03-25,HRV,Croatia,NOT SPECIFIED,,,1,0,0,1,,,True,True,
-2020-10-17,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,1632,47,,1585,,,True,True,HR04B
-2020-10-17,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,548,2,,546,,,True,True,HR049
-2020-10-17,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,952,19,,933,,,True,True,HR031
-2020-10-17,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,640,6,,634,,,True,True,HR034
-2020-10-17,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,641,5,,636,,,True,True,HR04E
-2020-10-17,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,4866,80,,4786,,,True,True,HR035
-2020-10-17,HRV,Croatia,Varaždinska,46.250434,16.293818,501,4,,497,,,True,True,HR044
-2020-10-17,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,424,5,,419,,,True,True,HR048
-2020-10-17,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,1243,11,,1232,,,True,True,HR04C
-2020-10-17,HRV,Croatia,Zadarska,44.347845,15.959404,886,9,,877,,,True,True,HR033
-2020-10-17,HRV,Croatia,Zagrebačka,45.82762,16.381796,1395,10,,1385,,,True,True,HR042
-2020-10-17,CYP,Cyprus,Cyprus,35.167406,33.435499,2379,25,,2354,,,True,True,CY
+2020-10-18,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,1658,47,,1611,,,True,True,HR04B
+2020-10-18,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,555,2,,553,,,True,True,HR049
+2020-10-18,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,971,19,,952,,,True,True,HR031
+2020-10-18,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,648,6,,642,,,True,True,HR034
+2020-10-18,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,666,5,,661,,,True,True,HR04E
+2020-10-18,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,4918,81,,4837,,,True,True,HR035
+2020-10-18,HRV,Croatia,Varaždinska,46.250434,16.293818,510,4,,506,,,True,True,HR044
+2020-10-18,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,458,5,,453,,,True,True,HR048
+2020-10-18,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,1260,11,,1249,,,True,True,HR04C
+2020-10-18,HRV,Croatia,Zadarska,44.347845,15.959404,895,9,,886,,,True,True,HR033
+2020-10-18,HRV,Croatia,Zagrebačka,45.82762,16.381796,1455,10,,1445,,,True,True,HR042
+2020-10-18,CYP,Cyprus,Cyprus,35.167406,33.435499,2379,25,,2354,,,True,True,CY
 2020-10-18,CZE,Czech Republic,Jihoceský,49.093362,14.439278,8793,0,0,8793,,,True,True,CZ031
 2020-10-18,CZE,Czech Republic,Jihomoravský,49.079446,16.663916,16205,0,0,16205,,,True,True,CZ064
 2020-10-18,CZE,Czech Republic,Karlovarský,50.170136,12.763213,3192,0,0,3192,,,True,True,CZ041
@@ -106,29 +106,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-10-16,DNK,Denmark,NOT SPECIFIED,,,34441,677,28551,5213,0,,True,True,
 2020-10-16,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-10-16,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-10-17,EST,Estonia,Estonia,58.596209,25.023778,4017,68,,3949,,,True,True,EE0
-2020-10-17,FIN,Finland,Ahvenanmaa,60.240625,19.966666,26,,,26,,,True,True,FI200
-2020-10-17,FIN,Finland,Etelä-Karjala,61.217899,28.550289,62,,,62,,,True,True,FI1C5
-2020-10-17,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,132,,,132,,,True,True,FI194
-2020-10-17,FIN,Finland,Etelä-Savo,61.813578,27.347685,152,,,152,,,True,True,FI1D1
-2020-10-17,FIN,Finland,HUS,60.408524,24.7817,8554,,,8554,,,True,True,FI1B1
-2020-10-17,FIN,Finland,Itä-Savo,62.073919,28.846114,22,,,22,,,True,True,FI1X1
-2020-10-17,FIN,Finland,Kainuu,64.373656,28.743748,99,,,99,,,True,True,FI1D8
-2020-10-17,FIN,Finland,Kanta-Häme,60.921424,24.354383,229,,,229,,,True,True,FI1C2
-2020-10-17,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,65,,,65,,,True,True,FI1D5
-2020-10-17,FIN,Finland,Keski-Suomi,62.629133,25.476526,513,,,513,,,True,True,FI193
-2020-10-17,FIN,Finland,Kymenlaakso,60.826543,26.889951,103,,,103,,,True,True,FI1C4
-2020-10-17,FIN,Finland,Länsi-Pohja,66.133479,24.762611,170,,,170,,,True,True,FI1X2
-2020-10-17,FIN,Finland,Lappi,67.847438,26.444542,135,,,135,,,True,True,FI1D7
+2020-10-18,EST,Estonia,Estonia,58.596209,25.023778,4052,68,,3984,,,True,True,EE0
+2020-10-18,FIN,Finland,Ahvenanmaa,60.240625,19.966666,26,,,26,,,True,True,FI200
+2020-10-18,FIN,Finland,Etelä-Karjala,61.217899,28.550289,62,,,62,,,True,True,FI1C5
+2020-10-18,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,132,,,132,,,True,True,FI194
+2020-10-18,FIN,Finland,Etelä-Savo,61.813578,27.347685,152,,,152,,,True,True,FI1D1
+2020-10-18,FIN,Finland,HUS,60.408524,24.7817,8660,,,8660,,,True,True,FI1B1
+2020-10-18,FIN,Finland,Itä-Savo,62.073919,28.846114,22,,,22,,,True,True,FI1X1
+2020-10-18,FIN,Finland,Kainuu,64.373656,28.743748,99,,,99,,,True,True,FI1D8
+2020-10-18,FIN,Finland,Kanta-Häme,60.921424,24.354383,230,,,230,,,True,True,FI1C2
+2020-10-18,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,66,,,66,,,True,True,FI1D5
+2020-10-18,FIN,Finland,Keski-Suomi,62.629133,25.476526,513,,,513,,,True,True,FI193
+2020-10-18,FIN,Finland,Kymenlaakso,60.826543,26.889951,107,,,107,,,True,True,FI1C4
+2020-10-18,FIN,Finland,Länsi-Pohja,66.133479,24.762611,171,,,171,,,True,True,FI1X2
+2020-10-18,FIN,Finland,Lappi,67.847438,26.444542,135,,,135,,,True,True,FI1D7
 2020-10-16,FIN,Finland,NOT SPECIFIED,,,,350,,-350,,,True,True,
-2020-10-17,FIN,Finland,Päijät-Häme,61.217271,25.721465,256,,,256,,,True,True,FI1C3
-2020-10-17,FIN,Finland,Pirkanmaa,61.715017,23.913902,585,,,585,,,True,True,FI197
-2020-10-17,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,108,,,108,,,True,True,FI1D3
-2020-10-17,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,261,,,261,,,True,True,FI1D9
-2020-10-17,FIN,Finland,Pohjois-Savo,63.173162,27.465765,208,,,208,,,True,True,FI1D2
-2020-10-17,FIN,Finland,Satakunta,61.527072,22.157717,114,,,114,,,True,True,FI196
-2020-10-17,FIN,Finland,Vaasa,63.077479,22.196054,748,,,748,,,True,True,FI195
-2020-10-17,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,751,,,751,,,True,True,FI1C1
+2020-10-18,FIN,Finland,Päijät-Häme,61.217271,25.721465,256,,,256,,,True,True,FI1C3
+2020-10-18,FIN,Finland,Pirkanmaa,61.715017,23.913902,588,,,588,,,True,True,FI197
+2020-10-18,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,110,,,110,,,True,True,FI1D3
+2020-10-18,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,263,,,263,,,True,True,FI1D9
+2020-10-18,FIN,Finland,Pohjois-Savo,63.173162,27.465765,210,,,210,,,True,True,FI1D2
+2020-10-18,FIN,Finland,Satakunta,61.527072,22.157717,114,,,114,,,True,True,FI196
+2020-10-18,FIN,Finland,Vaasa,63.077479,22.196054,752,,,752,,,True,True,FI195
+2020-10-18,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,756,,,756,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
 2020-10-14,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,2062,10382,-12444,1432,237,True,True,FRK
 2020-10-14,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1110,4435,-5545,241,40,True,True,FRC
