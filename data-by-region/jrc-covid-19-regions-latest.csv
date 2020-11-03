@@ -245,19 +245,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-03,NLD,Netherlands,Utrecht,52.078728,5.214048,32633,530,,32103,1230,,True,True,NL31
 2020-11-03,NLD,Netherlands,Zeeland,51.312779,3.786651,3833,83,,3750,181,,True,True,NL34
 2020-11-03,MKD,North Macedonia,North Macedonia,41.611,21.751417,32997,1025,,31972,,,False,True,MK
-2020-11-02,NOR,Norway,Agder,58.699661,7.618403,634,,,634,,,False,True,NO04
-2020-11-02,NOR,Norway,Innlandet,61.43354,10.427144,1093,,,1093,,,False,True,NO02
-2020-11-02,NOR,Norway,Møre og Romsdal,62.543569,8.540539,442,,,442,,,False,True,NO053
-2020-11-02,NOR,Norway,Nordland,66.679716,14.635752,301,,,301,,,False,True,NO071
-2020-11-02,NOR,Norway,NOT SPECIFIED,,,0,282,,-282,1264,259,False,True,
-2020-11-02,NOR,Norway,Oslo,59.979683,10.738335,6487,,,6487,,,False,True,NO011
+2020-11-03,NOR,Norway,Agder,58.699661,7.618403,663,,,663,,,False,True,NO04
+2020-11-03,NOR,Norway,Innlandet,61.43354,10.427144,1171,,,1171,,,False,True,NO02
+2020-11-03,NOR,Norway,Møre og Romsdal,62.543569,8.540539,453,,,453,,,False,True,NO053
+2020-11-03,NOR,Norway,Nordland,66.679716,14.635752,313,,,313,,,False,True,NO071
+2020-11-03,NOR,Norway,NOT SPECIFIED,,,0,282,,-282,1274,262,False,True,
+2020-11-03,NOR,Norway,Oslo,59.979683,10.738335,6595,,,6595,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2020-11-02,NOR,Norway,Rogaland,58.58709,6.206792,1053,,,1053,,,False,True,NO043
-2020-11-02,NOR,Norway,Troms og Finnmark,70.239335,26.12935,556,,,556,,,False,True,NO072
-2020-11-02,NOR,Norway,Trøndelag,63.421183,11.529951,914,,,914,,,False,True,NO06
-2020-11-02,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,638,,,638,,,False,True,NO033
-2020-11-02,NOR,Norway,Vestland,60.952729,6.513828,2904,,,2904,,,False,True,NO05
-2020-11-02,NOR,Norway,Viken,60.020274,9.849655,5498,,,5498,,,False,True,NO012
+2020-11-03,NOR,Norway,Rogaland,58.58709,6.206792,1096,,,1096,,,False,True,NO043
+2020-11-03,NOR,Norway,Troms og Finnmark,70.239335,26.12935,567,,,567,,,False,True,NO072
+2020-11-03,NOR,Norway,Trøndelag,63.421183,11.529951,922,,,922,,,False,True,NO06
+2020-11-03,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,653,,,653,,,False,True,NO033
+2020-11-03,NOR,Norway,Vestland,60.952729,6.513828,3031,,,3031,,,False,True,NO05
+2020-11-03,NOR,Norway,Viken,60.020274,9.849655,5722,,,5722,,,False,True,NO012
 2020-11-03,POL,Poland,Dolnośląskie,51.07994,16.381483,22175,381,,21794,,,True,True,PL51
 2020-11-03,POL,Poland,Kujawsko-pomorskie,53.022235,18.502175,25378,188,,25190,,,True,True,PL61
 2020-11-03,POL,Poland,Łódzkie,51.559579,19.408271,31445,437,,31008,,,True,True,PL71
@@ -481,7 +481,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-03,CHE,Switzerland,Basel City,47.561925,7.592768,2800,54,1906,840,77,12,False,False,CH031
 2020-11-03,CHE,Switzerland,Basel Country,47.441812,7.7644,3251,44,1932,1275,37,5,False,False,CH032
 2020-11-03,CHE,Switzerland,Bern,46.825006,7.626925,15399,145,0,15254,0,0,False,False,CH021
-2020-11-03,CHE,Switzerland,Fribourg,46.710334,7.09922,10964,150,272,10542,175,18,False,False,CH022
+2020-11-03,CHE,Switzerland,Fribourg,46.710334,7.09922,11608,158,285,11165,190,19,False,False,CH022
 2020-11-03,CHE,Switzerland,Geneva,46.217114,6.131255,22939,342,973,21624,521,20,False,False,CH013
 2020-11-03,CHE,Switzerland,Glarus,46.980518,9.065544,546,14,0,532,17,0,False,False,CH051
 2020-11-03,CHE,Switzerland,Graubünden,46.658176,9.629923,2604,54,0,2550,38,9,False,False,CH056
@@ -501,7 +501,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-03,CHE,Switzerland,Valais,46.211633,7.611267,14279,226,384,13669,271,24,False,False,CH012
 2020-11-03,CHE,Switzerland,Vaud,46.56176,6.648929,28444,449,0,27995,399,58,False,False,CH011
 2020-11-03,CHE,Switzerland,Zug,47.161402,8.538864,1895,11,1381,503,36,4,False,False,CH066
-2020-11-03,CHE,Switzerland,Zurich,47.417407,8.655988,23773,187,0,23586,286,0,False,False,CH040
+2020-11-03,CHE,Switzerland,Zurich,47.417407,8.655988,24230,192,0,24038,324,0,False,False,CH040
 2020-11-03,TUR,Turkey,Turkey,38.961515,35.25175,379775,10402,,369373,,,False,True,TU
 2020-11-03,UKR,Ukraine,NOT SPECIFIED,,,402194,7375,,394819,,,False,False,
 2020-11-02,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,4511,,0,4511,,,False,True,UKM93
