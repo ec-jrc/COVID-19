@@ -226,7 +226,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-11-07,LTU,Lithuania,Lithuania,55.174112,23.906736,20747,192,,20555,,,True,True,LT
 2020-11-07,LUX,Luxembourg,Luxembourg,49.815764,6.131514,21806,180,,21626,,,True,True,LU
-2020-11-06,MLT,Malta,Malta,35.946151,14.384612,6893,73,4832,1988,,,True,True,MT001
+2020-11-07,MLT,Malta,Malta,35.946151,14.384612,7039,74,5000,1965,,,True,True,MT001
 2020-11-07,MDA,Moldova,Moldova,46.979527,28.377195,80501,1882,,78619,,,False,False,MD
 2020-11-07,MCO,Monaco,Monaco,43.738348,7.424451,454,1,,453,,,False,False,MC
 2020-11-07,MNE,Montenegro,Montenegro,42.710152,19.410069,22079,328,,21751,,,False,True,ME
@@ -495,7 +495,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-07,CHE,Switzerland,Solothurn,47.336648,7.686944,3414,25,0,3389,58,11,False,False,CH023
 2020-11-07,CHE,Switzerland,St. Gallen,47.305025,9.019368,9969,98,226,9645,195,27,False,False,CH055
 2020-11-07,CHE,Switzerland,Thurgau,47.567205,9.112572,3743,39,171,3533,43,9,False,False,CH057
-2020-11-07,CHE,Switzerland,Ticino,46.297963,8.808447,9682,388,1062,8232,243,21,False,False,CH07
+2020-11-07,CHE,Switzerland,Ticino,46.297963,8.808447,10052,391,1074,8587,267,21,False,False,CH07
 2020-11-07,CHE,Switzerland,Uri,46.775402,8.627444,554,9,343,202,6,0,False,False,CH062
 2020-11-07,CHE,Switzerland,Valais,46.211633,7.611267,16827,278,384,16165,337,34,False,False,CH012
 2020-11-07,CHE,Switzerland,Vaud,46.56176,6.648929,32625,449,0,32176,458,69,False,False,CH011
