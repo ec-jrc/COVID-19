@@ -475,9 +475,9 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-05,SWE,Sweden,Västmanland,59.801595,16.318208,4461,,,4461,,,True,True,SE125
 2020-11-05,SWE,Sweden,Västra Götaland,58.303302,12.891496,28085,,,28085,,,True,True,SE232
 2020-11-09,CHE,Switzerland,Aargau,47.410914,8.159107,9722,90,4040,5592,132,26,False,False,CH033
-2020-11-09,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,987,11,0,976,23,2,False,False,CH053
+2020-11-09,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,1025,12,0,1013,25,2,False,False,CH053
 2020-11-09,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,401,7,0,394,0,0,False,False,CH054
-2020-11-09,CHE,Switzerland,Basel City,47.561925,7.592768,3224,56,2428,740,0,0,False,False,CH031
+2020-11-09,CHE,Switzerland,Basel City,47.561925,7.592768,3267,56,2477,734,0,0,False,False,CH031
 2020-11-09,CHE,Switzerland,Basel Country,47.441812,7.7644,3783,44,2358,1381,58,5,False,False,CH032
 2020-11-09,CHE,Switzerland,Bern,46.825006,7.626925,19233,175,0,19058,376,0,False,False,CH021
 2020-11-09,CHE,Switzerland,Fribourg,46.710334,7.09922,15298,201,365,14732,192,24,False,False,CH022
