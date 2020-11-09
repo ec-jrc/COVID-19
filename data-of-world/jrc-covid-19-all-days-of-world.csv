@@ -831,6 +831,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-01,KHM,AS,Cambodia,12.54775,104.98386,1,,,1,,,False,False,KH
 2020-03-01,CAN,NA,Canada,62.393303,-96.818145,20,,,20,,,False,False,CA
 2020-03-01,CHN,AS,China,34.668138,104.165802,79929,2872,,77057,,,False,False,CN
+2020-03-01,CZE,EU,Czech Republic,49.800901,15.478153,3,0,0,3,,,True,True,CZ
 2020-03-01,ECU,SA,Ecuador,-1.779901,-78.131592,1,,,1,,,False,False,EC
 2020-03-01,EGY,AF,Egypt,26.696361,30.246486,1,,,1,,,False,False,EG
 2020-03-01,EST,EU,Estonia,58.596209,25.023778,1,0,,1,,,True,True,EE
@@ -920,6 +921,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-03,BEL,EU,Belgium,50.499527,4.475402,72,0,,72,0,0,True,True,BE
 2020-03-03,CAN,NA,Canada,62.393303,-96.818145,27,,,27,,,False,False,CA
 2020-03-03,CHN,AS,China,34.668138,104.165802,80261,2946,,77315,,,False,False,CN
+2020-03-03,CZE,EU,Czech Republic,49.800901,15.478153,5,0,0,5,,,True,True,CZ
 2020-03-03,ECU,SA,Ecuador,-1.779901,-78.131592,7,,,7,,,False,False,EC
 2020-03-03,FRA,EU,France,46.232193,2.209667,212,0,0,212,0,0,True,True,FR
 2020-03-03,DEU,EU,Germany,51.165706,10.452764,198,,,198,,,True,True,DE
@@ -953,6 +955,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-04,CAN,NA,Canada,62.393303,-96.818145,30,,,30,,,False,False,CA
 2020-03-04,CHL,SA,Chile,-36.711951,-73.601704,1,,,1,,,False,False,CL
 2020-03-04,CHN,AS,China,34.668138,104.165802,80380,2983,,77397,,,False,False,CN
+2020-03-04,CZE,EU,Czech Republic,49.800901,15.478153,6,0,0,6,,,True,True,CZ
 2020-03-04,EST,EU,Estonia,58.596209,25.023778,2,0,,2,,,True,True,EE
 2020-03-04,FRA,EU,France,46.232193,2.209667,282,0,0,282,0,0,True,True,FR
 2020-03-04,DEU,EU,Germany,51.165706,10.452764,262,0,16,246,0,0,True,True,DE
@@ -986,6 +989,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-05,CAN,NA,Canada,62.393303,-96.818145,33,,,33,,,False,False,CA
 2020-03-05,CHL,SA,Chile,-36.711951,-73.601704,3,,,3,,,False,False,CL
 2020-03-05,CHN,AS,China,34.668138,104.165802,80497,3014,,77483,,,False,False,CN
+2020-03-05,CZE,EU,Czech Republic,49.800901,15.478153,9,0,0,9,,,True,True,CZ
 2020-03-05,ECU,SA,Ecuador,-1.779901,-78.131592,10,,,10,,,False,False,EC
 2020-03-05,FRA,EU,France,46.232193,2.209667,420,0,0,420,0,0,True,True,FR
 2020-03-05,GEO,AS,Georgia,42.319847,43.368055,3,,,3,,,False,False,GE
@@ -1025,6 +1029,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-06,CAN,NA,Canada,62.393303,-96.818145,45,,,45,,,False,False,CA
 2020-03-06,CHL,SA,Chile,-36.711951,-73.601704,4,,,4,,,False,False,CL
 2020-03-06,CHN,AS,China,34.668138,104.165802,80667,3044,,77623,,,False,False,CN
+2020-03-06,CZE,EU,Czech Republic,49.800901,15.478153,20,0,0,20,,,True,True,CZ
 2020-03-06,ECU,SA,Ecuador,-1.779901,-78.131592,13,,,13,,,False,False,EC
 2020-03-06,EGY,AF,Egypt,26.696361,30.246486,3,,,3,,,False,False,EG
 2020-03-06,EST,EU,Estonia,58.596209,25.023778,5,0,,5,,,True,True,EE
@@ -1074,6 +1079,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-07,CHN,AS,China,34.668138,104.165802,80768,3072,,77696,,,False,False,CN
 2020-03-07,COL,SA,Colombia,4.577317,-74.298973,1,,,1,,,False,False,CO
 2020-03-07,CRI,NA,Costa Rica,9.624897,-84.253308,1,,,1,,,False,False,CR
+2020-03-07,CZE,EU,Czech Republic,49.800901,15.478153,27,0,0,27,,,True,True,CZ
 2020-03-07,DOM,NA,Dominican Republic,18.736509,-70.161744,2,,,2,,,False,False,DO
 2020-03-07,EGY,AF,Egypt,26.696361,30.246486,15,,,15,,,False,False,EG
 2020-03-07,EST,EU,Estonia,58.596209,25.023778,10,0,,10,,,True,True,EE
@@ -1121,6 +1127,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-08,KHM,AS,Cambodia,12.54775,104.98386,2,,,2,,,False,False,KH
 2020-03-08,CAN,NA,Canada,62.393303,-96.818145,57,,,57,,,False,False,CA
 2020-03-08,CHN,AS,China,34.668138,104.165802,80814,3099,,77715,,,False,False,CN
+2020-03-08,CZE,EU,Czech Republic,49.800901,15.478153,33,0,0,33,,,True,True,CZ
 2020-03-08,GEO,AS,Georgia,42.319847,43.368055,12,,,12,,,False,False,GE
 2020-03-08,DEU,EU,Germany,51.165706,10.452764,902,,,902,,,True,True,DE
 2020-03-08,GRC,EU,Greece,38.275283,23.810343,66,0,,66,,,True,True,EL
@@ -1167,6 +1174,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-09,CHL,SA,Chile,-36.711951,-73.601704,10,,,10,,,False,False,CL
 2020-03-09,CHN,AS,China,34.668138,104.165802,80859,3122,,77737,,,False,False,CN
 2020-03-09,CRI,NA,Costa Rica,9.624897,-84.253308,5,,,5,,,False,False,CR
+2020-03-09,CZE,EU,Czech Republic,49.800901,15.478153,39,0,0,39,,,True,True,CZ
 2020-03-09,ECU,SA,Ecuador,-1.779901,-78.131592,14,,,14,,,False,False,EC
 2020-03-09,EGY,AF,Egypt,26.696361,30.246486,49,1,,48,,,False,False,EG
 2020-03-09,GEO,AS,Georgia,42.319847,43.368055,13,,,13,,,False,False,GE
@@ -1212,6 +1220,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-10,CHN,AS,China,34.668138,104.165802,80879,3139,,77740,,,False,False,CN
 2020-03-10,COL,SA,Colombia,4.577317,-74.298973,3,,,3,,,False,False,CO
 2020-03-10,CRI,NA,Costa Rica,9.624897,-84.253308,9,,,9,,,False,False,CR
+2020-03-10,CZE,EU,Czech Republic,49.800901,15.478153,64,0,0,64,,,True,True,CZ
 2020-03-10,DOM,NA,Dominican Republic,18.736509,-70.161744,5,,,5,,,False,False,DO
 2020-03-10,ECU,SA,Ecuador,-1.779901,-78.131592,15,,,15,,,False,False,EC
 2020-03-10,EGY,AF,Egypt,26.696361,30.246486,55,1,,54,,,False,False,EG
@@ -1271,6 +1280,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-11,CRI,NA,Costa Rica,9.624897,-84.253308,13,,,13,,,False,False,CR
 2020-03-11,HRV,EU,Croatia,44.48732,16.460306,16,0,0,16,,,True,True,HR
 2020-03-11,CYP,EU,Cyprus,35.167406,33.435499,2,0,0,2,,,True,True,CY
+2020-03-11,CZE,EU,Czech Republic,49.800901,15.478153,95,0,0,95,,,True,True,CZ
 2020-03-11,DNK,EU,Denmark,56.155403,11.617223,444,0,0,444,0,0,True,True,DK
 2020-03-11,ECU,SA,Ecuador,-1.779901,-78.131592,17,,,17,,,False,False,EC
 2020-03-11,EGY,AF,Egypt,26.696361,30.246486,59,1,,58,,,False,False,EG
@@ -1346,6 +1356,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-12,HRV,EU,Croatia,44.48732,16.460306,16,0,0,16,,,True,True,HR
 2020-03-12,CUB,NA,Cuba,21.527062,-79.544601,3,,,3,,,False,False,CU
 2020-03-12,CYP,EU,Cyprus,35.167406,33.435499,10,0,0,10,,,True,True,CY
+2020-03-12,CZE,EU,Czech Republic,49.800901,15.478153,117,0,0,117,,,True,True,CZ
 2020-03-12,DNK,EU,Denmark,56.155403,11.617223,617,0,0,617,0,0,True,True,DK
 2020-03-12,EGY,AF,Egypt,26.696361,30.246486,60,1,,59,,,False,False,EG
 2020-03-12,EST,EU,Estonia,58.596209,25.023778,16,0,,16,,,True,True,EE
@@ -1422,6 +1433,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-13,CRI,NA,Costa Rica,9.624897,-84.253308,23,,,23,,,False,False,CR
 2020-03-13,HRV,EU,Croatia,44.48732,16.460306,25,0,0,25,,,True,True,HR
 2020-03-13,CYP,EU,Cyprus,35.167406,33.435499,10,0,0,10,,,True,True,CY
+2020-03-13,CZE,EU,Czech Republic,49.800901,15.478153,142,0,0,142,,,True,True,CZ
 2020-03-13,DNK,EU,Denmark,56.155403,11.617223,788,0,0,788,0,0,True,True,DK
 2020-03-13,EGY,AF,Egypt,26.696361,30.246486,80,2,,78,,,False,False,EG
 2020-03-13,EST,EU,Estonia,58.596209,25.023778,27,0,,27,,,True,True,EE
@@ -1498,6 +1510,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-14,CRI,NA,Costa Rica,9.624897,-84.253308,26,,,26,,,False,False,CR
 2020-03-14,CUB,NA,Cuba,21.527062,-79.544601,4,,,4,,,False,False,CU
 2020-03-14,CYP,EU,Cyprus,35.167406,33.435499,26,0,0,26,,,True,True,CY
+2020-03-14,CZE,EU,Czech Republic,49.800901,15.478153,190,0,2,188,,,True,True,CZ
 2020-03-14,DNK,EU,Denmark,56.155403,11.617223,840,0,0,840,0,0,True,True,DK
 2020-03-14,DOM,NA,Dominican Republic,18.736509,-70.161744,11,,,11,,,False,False,DO
 2020-03-14,ECU,SA,Ecuador,-1.779901,-78.131592,23,1,,22,,,False,False,EC
@@ -1581,6 +1594,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-15,CRI,NA,Costa Rica,9.624897,-84.253308,27,,,27,,,False,False,CR
 2020-03-15,CUB,NA,Cuba,21.527062,-79.544601,4,,,4,,,False,False,CU
 2020-03-15,CYP,EU,Cyprus,35.167406,33.435499,33,0,0,33,,,True,True,CY
+2020-03-15,CZE,EU,Czech Republic,49.800901,15.478153,299,0,6,293,,,True,True,CZ
 2020-03-15,DNK,EU,Denmark,56.155403,11.617223,873,0,0,873,0,0,True,True,DK
 2020-03-15,DOM,NA,Dominican Republic,18.736509,-70.161744,11,,,11,,,False,False,DO
 2020-03-15,ECU,SA,Ecuador,-1.779901,-78.131592,28,2,,26,,,False,False,EC
@@ -1681,6 +1695,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-16,CRI,NA,Costa Rica,9.624897,-84.253308,35,,,35,,,False,False,CR
 2020-03-16,HRV,EU,Croatia,44.48732,16.460306,57,0,0,57,,,True,True,HR
 2020-03-16,CYP,EU,Cyprus,35.167406,33.435499,46,0,0,46,,,True,True,CY
+2020-03-16,CZE,EU,Czech Republic,49.800901,15.478153,384,0,6,378,,,True,True,CZ
 2020-03-16,DNK,EU,Denmark,56.155403,11.617223,926,1,0,925,0,0,True,True,DK
 2020-03-16,DOM,NA,Dominican Republic,18.736509,-70.161744,11,,,11,,,False,False,DO
 2020-03-16,ECU,SA,Ecuador,-1.779901,-78.131592,37,2,,35,,,False,False,EC
@@ -1797,6 +1812,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-17,CRI,NA,Costa Rica,9.624897,-84.253308,41,,,41,,,False,False,CR
 2020-03-17,HRV,EU,Croatia,44.48732,16.460306,60,0,0,60,,,True,True,HR
 2020-03-17,CYP,EU,Cyprus,35.167406,33.435499,49,0,0,49,,,True,True,CY
+2020-03-17,CZE,EU,Czech Republic,49.800901,15.478153,451,0,6,445,,,True,True,CZ
 2020-03-17,DNK,EU,Denmark,56.155403,11.617223,1007,4,0,1003,0,0,True,True,DK
 2020-03-17,DOM,NA,Dominican Republic,18.736509,-70.161744,11,,,11,,,False,False,DO
 2020-03-17,ECU,SA,Ecuador,-1.779901,-78.131592,58,2,,56,,,False,False,EC
@@ -1919,6 +1935,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-18,HRV,EU,Croatia,44.48732,16.460306,64,0,0,64,,,True,True,HR
 2020-03-18,CUB,NA,Cuba,21.527062,-79.544601,7,,,7,,,False,False,CU
 2020-03-18,CYP,EU,Cyprus,35.167406,33.435499,58,0,0,58,,,True,True,CY
+2020-03-18,CZE,EU,Czech Republic,49.800901,15.478153,561,0,6,555,,,True,True,CZ
 2020-03-18,DNK,EU,Denmark,56.155403,11.617223,1106,4,0,1102,0,0,True,True,DK
 2020-03-18,DOM,NA,Dominican Republic,18.736509,-70.161744,11,,,11,,,False,False,DO
 2020-03-18,ECU,SA,Ecuador,-1.779901,-78.131592,111,2,,109,,,False,False,EC
@@ -2048,6 +2065,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-19,CRI,NA,Costa Rica,9.624897,-84.253308,69,1,,68,,,False,False,CR
 2020-03-19,CUB,NA,Cuba,21.527062,-79.544601,11,1,,10,,,False,False,CU
 2020-03-19,CYP,EU,Cyprus,35.167406,33.435499,58,0,0,58,,,True,True,CY
+2020-03-19,CZE,EU,Czech Republic,49.800901,15.478153,767,0,7,760,,,True,True,CZ
 2020-03-19,DNK,EU,Denmark,56.155403,11.617223,1208,6,0,1202,0,0,True,True,DK
 2020-03-19,DJI,AF,Djibouti,11.808375,42.595222,1,,,1,,,False,False,DJ
 2020-03-19,DOM,NA,Dominican Republic,18.736509,-70.161744,21,,,21,,,False,False,DO
@@ -2187,6 +2205,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-20,HRV,EU,Croatia,44.48732,16.460306,113,1,0,112,,,True,True,HR
 2020-03-20,CUB,NA,Cuba,21.527062,-79.544601,16,1,,15,,,False,False,CU
 2020-03-20,CYP,EU,Cyprus,35.167406,33.435499,67,0,0,67,,,True,True,CY
+2020-03-20,CZE,EU,Czech Republic,49.800901,15.478153,891,0,10,881,,,True,True,CZ
 2020-03-20,DNK,EU,Denmark,56.155403,11.617223,1313,9,0,1304,0,0,True,True,DK
 2020-03-20,DJI,AF,Djibouti,11.808375,42.595222,1,,,1,,,False,False,DJ
 2020-03-20,DOM,NA,Dominican Republic,18.736509,-70.161744,21,,,21,,,False,False,DO
@@ -2332,6 +2351,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-21,HRV,EU,Croatia,44.48732,16.460306,191,0,0,191,,,True,True,HR
 2020-03-21,CUB,NA,Cuba,21.527062,-79.544601,21,1,,20,,,False,False,CU
 2020-03-21,CYP,EU,Cyprus,35.167406,33.435499,84,0,0,84,,,True,True,CY
+2020-03-21,CZE,EU,Czech Republic,49.800901,15.478153,1050,0,15,1035,,,True,True,CZ
 2020-03-21,DNK,EU,Denmark,56.155403,11.617223,1426,13,0,1413,0,0,True,True,DK
 2020-03-21,DJI,AF,Djibouti,11.808375,42.595222,1,,,1,,,False,False,DJ
 2020-03-21,DOM,NA,Dominican Republic,18.736509,-70.161744,34,2,,32,,,False,False,DO
@@ -2457,6 +2477,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-22,BGR,EU,Bulgaria,42.729862,25.491667,190,3,0,187,,,True,True,BG
 2020-03-22,HRV,EU,Croatia,44.48732,16.460306,220,0,0,220,,,True,True,HR
 2020-03-22,CYP,EU,Cyprus,35.167406,33.435499,84,0,0,84,,,True,True,CY
+2020-03-22,CZE,EU,Czech Republic,49.800901,15.478153,1165,1,15,1149,,,True,True,CZ
 2020-03-22,DNK,EU,Denmark,56.155403,11.617223,1512,13,0,1499,0,0,True,True,DK
 2020-03-22,EST,EU,Estonia,58.596209,25.023778,306,0,,306,,,True,True,EE
 2020-03-22,FRA,EU,France,46.232193,2.209667,16689,674,2200,13815,7240,1746,True,True,FR
@@ -2521,6 +2542,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-23,HRV,EU,Croatia,44.48732,16.460306,288,0,0,288,,,True,True,HR
 2020-03-23,CUB,NA,Cuba,21.527062,-79.544601,35,1,,34,,,False,False,CU
 2020-03-23,CYP,EU,Cyprus,35.167406,33.435499,116,1,0,115,,,True,True,CY
+2020-03-23,CZE,EU,Czech Republic,49.800901,15.478153,1291,1,19,1271,,,True,True,CZ
 2020-03-23,DNK,EU,Denmark,56.155403,11.617223,1573,24,0,1549,0,0,True,True,DK
 2020-03-23,DJI,AF,Djibouti,11.808375,42.595222,1,,,1,,,False,False,DJ
 2020-03-23,DMA,NA,Dominica,15.416749,-61.36413,1,,,1,,,False,False,DM
@@ -2687,6 +2709,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-24,HRV,EU,Croatia,44.48732,16.460306,333,0,0,333,,,True,True,HR
 2020-03-24,CUB,NA,Cuba,21.527062,-79.544601,40,1,,39,,,False,False,CU
 2020-03-24,CYP,EU,Cyprus,35.167406,33.435499,116,1,0,115,,,True,True,CY
+2020-03-24,CZE,EU,Czech Republic,49.800901,15.478153,1476,3,23,1450,,,True,True,CZ
 2020-03-24,DNK,EU,Denmark,56.155403,11.617223,1709,32,0,1677,0,0,True,True,DK
 2020-03-24,DJI,AF,Djibouti,11.808375,42.595222,3,,,3,,,False,False,DJ
 2020-03-24,DMA,NA,Dominica,15.416749,-61.36413,1,,,1,,,False,False,DM
@@ -2855,6 +2878,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-25,HRV,EU,Croatia,44.48732,16.460306,443,0,0,443,,,True,True,HR
 2020-03-25,CUB,NA,Cuba,21.527062,-79.544601,48,1,0,47,,,False,False,CU
 2020-03-25,CYP,EU,Cyprus,35.167406,33.435499,124,3,0,121,,,True,True,CY
+2020-03-25,CZE,EU,Czech Republic,49.800901,15.478153,1768,10,27,1731,,,True,True,CZ
 2020-03-25,DNK,EU,Denmark,56.155403,11.617223,1852,34,0,1818,0,0,True,True,DK
 2020-03-25,DJI,AF,Djibouti,11.808375,42.595222,3,0,0,3,,,False,False,DJ
 2020-03-25,DMA,NA,Dominica,15.416749,-61.36413,2,0,0,2,,,False,False,DM
@@ -3029,6 +3053,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-26,CUB,NA,Cuba,21.527062,-79.544601,57,1,,56,,,False,False,CU
 2020-03-26,CUW,NA,Curaçao,12.209209,-68.945576,6,1,,5,,,False,False,CW
 2020-03-26,CYP,EU,Cyprus,35.167406,33.435499,132,3,0,129,0,0,True,True,CY
+2020-03-26,CZE,EU,Czech Republic,49.800901,15.478153,2027,10,36,1981,,,True,True,CZ
 2020-03-26,DNK,EU,Denmark,56.155403,11.617223,1997,41,0,1956,0,0,True,True,DK
 2020-03-26,DJI,AF,Djibouti,11.808375,42.595222,12,,,12,,,False,False,DJ
 2020-03-26,DMA,NA,Dominica,15.416749,-61.36413,7,,,7,,,False,False,DM
@@ -3174,6 +3199,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-27,BGR,EU,Bulgaria,42.729862,25.491667,276,3,0,273,0,0,True,True,BG
 2020-03-27,HRV,EU,Croatia,44.48732,16.460306,588,3,0,585,0,0,True,True,HR
 2020-03-27,CYP,EU,Cyprus,35.167406,33.435499,146,3,0,143,0,0,True,True,CY
+2020-03-27,CZE,EU,Czech Republic,49.800901,15.478153,2404,12,51,2341,,,True,True,CZ
 2020-03-27,DNK,EU,Denmark,56.155403,11.617223,2169,52,0,2117,0,0,True,True,DK
 2020-03-27,EST,EU,Estonia,58.596209,25.023778,538,1,,537,,,True,True,EE
 2020-03-27,FIN,EU,Finland,64.952416,26.068944,1025,0,0,1025,0,0,True,True,FI
@@ -3248,6 +3274,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-28,CUB,NA,Cuba,21.527062,-79.544601,80,2,0,78,0,0,False,False,CU
 2020-03-28,CUW,NA,Curaçao,12.209209,-68.945576,8,1,0,7,0,0,False,False,CW
 2020-03-28,CYP,EU,Cyprus,35.167406,33.435499,179,5,0,174,0,0,True,True,CY
+2020-03-28,CZE,EU,Czech Republic,49.800901,15.478153,2667,17,57,2593,,,True,True,CZ
 2020-03-28,DNK,EU,Denmark,56.155403,11.617223,2366,65,0,2301,0,0,True,True,DK
 2020-03-28,DJI,AF,Djibouti,11.808375,42.595222,13,0,0,13,0,0,False,False,DJ
 2020-03-28,DMA,NA,Dominica,15.416749,-61.36413,11,0,0,11,0,0,False,False,DM
@@ -3425,6 +3452,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-29,CUB,NA,Cuba,21.527062,-79.544601,119,3,0,116,0,0,False,False,CU
 2020-03-29,CUW,NA,Curaçao,12.209209,-68.945576,8,1,0,7,0,0,False,False,CW
 2020-03-29,CYP,EU,Cyprus,35.167406,33.435499,214,6,0,208,0,0,True,True,CY
+2020-03-29,CZE,EU,Czech Republic,49.800901,15.478153,2826,23,72,2731,,,True,True,CZ
 2020-03-29,DNK,EU,Denmark,56.155403,11.617223,2564,72,0,2492,0,0,True,True,DK
 2020-03-29,DJI,AF,Djibouti,11.808375,42.595222,15,0,0,15,0,0,False,False,DJ
 2020-03-29,DMA,NA,Dominica,15.416749,-61.36413,11,0,0,11,0,0,False,False,DM
@@ -3603,6 +3631,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-30,CUB,NA,Cuba,21.527062,-79.544601,139,3,0,136,0,0,False,False,CU
 2020-03-30,CUW,NA,Curaçao,12.209209,-68.945576,9,1,0,8,0,0,False,False,CW
 2020-03-30,CYP,EU,Cyprus,35.167406,33.435499,230,7,0,223,0,0,True,True,CY
+2020-03-30,CZE,EU,Czech Republic,49.800901,15.478153,3010,28,100,2882,,,True,True,CZ
 2020-03-30,DNK,EU,Denmark,56.155403,11.617223,2732,77,0,2655,0,0,True,True,DK
 2020-03-30,DJI,AF,Djibouti,11.808375,42.595222,19,0,0,19,0,0,False,False,DJ
 2020-03-30,DMA,NA,Dominica,15.416749,-61.36413,11,0,0,11,0,0,False,False,DM
@@ -3784,6 +3813,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-03-31,CUB,NA,Cuba,21.527062,-79.544601,170,4,0,166,0,0,False,False,CU
 2020-03-31,CUW,NA,Curaçao,12.209209,-68.945576,9,1,0,8,0,0,False,False,CW
 2020-03-31,CYP,EU,Cyprus,35.167406,33.435499,262,8,0,254,0,0,True,True,CY
+2020-03-31,CZE,EU,Czech Republic,49.800901,15.478153,3314,35,121,3158,,,True,True,CZ
 2020-03-31,DNK,EU,Denmark,56.155403,11.617223,2994,90,0,2904,0,0,True,True,DK
 2020-03-31,DJI,AF,Djibouti,11.808375,42.595222,26,0,0,26,0,0,False,False,DJ
 2020-03-31,DMA,NA,Dominica,15.416749,-61.36413,11,0,0,11,0,0,False,False,DM
@@ -3968,6 +3998,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-01,CUB,NA,Cuba,21.527062,-79.544601,186,6,0,180,0,0,False,False,CU
 2020-04-01,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-01,CYP,EU,Cyprus,35.167406,33.435499,320,9,0,311,0,0,True,True,CY
+2020-04-01,CZE,EU,Czech Republic,49.800901,15.478153,3597,43,165,3389,,,True,True,CZ
 2020-04-01,DNK,EU,Denmark,56.155403,11.617223,3275,104,0,3171,0,0,True,True,DK
 2020-04-01,DJI,AF,Djibouti,11.808375,42.595222,31,0,0,31,0,0,False,False,DJ
 2020-04-01,DMA,NA,Dominica,15.416749,-61.36413,11,0,0,11,0,0,False,False,DM
@@ -4155,6 +4186,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-02,CUB,NA,Cuba,21.527062,-79.544601,212,6,0,206,0,0,False,False,CU
 2020-04-02,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-02,CYP,EU,Cyprus,35.167406,33.435499,356,10,0,346,0,0,True,True,CY
+2020-04-02,CZE,EU,Czech Republic,49.800901,15.478153,3865,49,203,3613,,,True,True,CZ
 2020-04-02,DNK,EU,Denmark,56.155403,11.617223,3542,123,0,3419,0,0,True,True,DK
 2020-04-02,DJI,AF,Djibouti,11.808375,42.595222,34,0,0,34,0,0,False,False,DJ
 2020-04-02,DMA,NA,Dominica,15.416749,-61.36413,12,0,0,12,0,0,False,False,DM
@@ -4341,6 +4373,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-03,CUB,NA,Cuba,21.527062,-79.544601,233,6,0,227,0,0,False,False,CU
 2020-04-03,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-03,CYP,EU,Cyprus,35.167406,33.435499,396,13,0,383,0,0,True,True,CY
+2020-04-03,CZE,EU,Czech Republic,49.800901,15.478153,4198,57,268,3873,,,True,True,CZ
 2020-04-03,DNK,EU,Denmark,56.155403,11.617223,3861,139,0,3722,0,0,True,True,DK
 2020-04-03,DJI,AF,Djibouti,11.808375,42.595222,41,0,0,41,0,0,False,False,DJ
 2020-04-03,DMA,NA,Dominica,15.416749,-61.36413,12,0,0,12,0,0,False,False,DM
@@ -4527,6 +4560,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-04,CUB,NA,Cuba,21.527062,-79.544601,269,6,0,263,0,0,False,False,CU
 2020-04-04,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-04,CYP,EU,Cyprus,35.167406,33.435499,426,13,0,413,0,0,True,True,CY
+2020-04-04,CZE,EU,Czech Republic,49.800901,15.478153,4481,66,312,4103,,,True,True,CZ
 2020-04-04,DNK,EU,Denmark,56.155403,11.617223,4268,161,0,4107,0,0,True,True,DK
 2020-04-04,DJI,AF,Djibouti,11.808375,42.595222,41,0,0,41,0,0,False,False,DJ
 2020-04-04,DMA,NA,Dominica,15.416749,-61.36413,14,0,0,14,0,0,False,False,DM
@@ -4713,6 +4747,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-05,CUB,NA,Cuba,21.527062,-79.544601,288,6,0,282,0,0,False,False,CU
 2020-04-05,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-05,CYP,EU,Cyprus,35.167406,33.435499,446,14,0,432,0,0,True,True,CY
+2020-04-05,CZE,EU,Czech Republic,49.800901,15.478153,4598,74,353,4171,,,True,True,CZ
 2020-04-05,DNK,EU,Denmark,56.155403,11.617223,4560,179,0,4381,0,0,True,True,DK
 2020-04-05,DJI,AF,Djibouti,11.808375,42.595222,51,0,0,51,0,0,False,False,DJ
 2020-04-05,DMA,NA,Dominica,15.416749,-61.36413,14,0,0,14,0,0,False,False,DM
@@ -4900,6 +4935,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-06,CUB,NA,Cuba,21.527062,-79.544601,320,8,0,312,0,0,False,False,CU
 2020-04-06,CUW,NA,Curaçao,12.209209,-68.945576,11,1,0,10,0,0,False,False,CW
 2020-04-06,CYP,EU,Cyprus,35.167406,33.435499,465,14,0,451,0,0,True,True,CY
+2020-04-06,CZE,EU,Czech Republic,49.800901,15.478153,4834,82,452,4300,,,True,True,CZ
 2020-04-06,DNK,EU,Denmark,56.155403,11.617223,4841,187,0,4654,0,0,True,True,DK
 2020-04-06,DJI,AF,Djibouti,11.808375,42.595222,59,0,0,59,0,0,False,False,DJ
 2020-04-06,DMA,NA,Dominica,15.416749,-61.36413,14,0,0,14,0,0,False,False,DM
@@ -5089,6 +5125,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-07,CUB,NA,Cuba,21.527062,-79.544601,350,9,0,341,0,0,False,False,CU
 2020-04-07,CUW,NA,Curaçao,12.209209,-68.945576,13,1,0,12,0,0,False,False,CW
 2020-04-07,CYP,EU,Cyprus,35.167406,33.435499,494,14,0,480,0,0,True,True,CY
+2020-04-07,CZE,EU,Czech Republic,49.800901,15.478153,5030,92,574,4364,,,True,True,CZ
 2020-04-07,DNK,EU,Denmark,56.155403,11.617223,5173,203,0,4970,0,0,True,True,DK
 2020-04-07,DJI,AF,Djibouti,11.808375,42.595222,90,0,0,90,0,0,False,False,DJ
 2020-04-07,DMA,NA,Dominica,15.416749,-61.36413,15,0,0,15,0,0,False,False,DM
@@ -5278,6 +5315,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-08,CUB,NA,Cuba,21.527062,-79.544601,396,11,0,385,0,0,False,False,CU
 2020-04-08,CUW,NA,Curaçao,12.209209,-68.945576,13,1,0,12,0,0,False,False,CW
 2020-04-08,CYP,EU,Cyprus,35.167406,33.435499,526,14,0,512,0,0,True,True,CY
+2020-04-08,CZE,EU,Czech Republic,49.800901,15.478153,5324,107,685,4532,,,True,True,CZ
 2020-04-08,DNK,EU,Denmark,56.155403,11.617223,5581,218,0,5363,0,0,True,True,DK
 2020-04-08,DJI,AF,Djibouti,11.808375,42.595222,121,0,0,121,0,0,False,False,DJ
 2020-04-08,DMA,NA,Dominica,15.416749,-61.36413,15,0,0,15,0,0,False,False,DM
@@ -5467,6 +5505,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-09,CUB,NA,Cuba,21.527062,-79.544601,457,12,0,445,0,0,False,False,CU
 2020-04-09,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-09,CYP,EU,Cyprus,35.167406,33.435499,564,15,0,549,0,0,True,True,CY
+2020-04-09,CZE,EU,Czech Republic,49.800901,15.478153,5581,117,867,4597,,,True,True,CZ
 2020-04-09,DNK,EU,Denmark,56.155403,11.617223,5830,237,0,5593,0,0,True,True,DK
 2020-04-09,DJI,AF,Djibouti,11.808375,42.595222,135,0,0,135,0,0,False,False,DJ
 2020-04-09,DMA,NA,Dominica,15.416749,-61.36413,15,0,0,15,0,0,False,False,DM
@@ -5657,6 +5696,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-10,CUB,NA,Cuba,21.527062,-79.544601,515,15,0,500,0,0,False,False,CU
 2020-04-10,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-10,CYP,EU,Cyprus,35.167406,33.435499,595,15,0,580,0,0,True,True,CY
+2020-04-10,CZE,EU,Czech Republic,49.800901,15.478153,5744,128,1004,4612,,,True,True,CZ
 2020-04-10,DNK,EU,Denmark,56.155403,11.617223,6014,247,0,5767,0,0,True,True,DK
 2020-04-10,DJI,AF,Djibouti,11.808375,42.595222,140,1,0,139,0,0,False,False,DJ
 2020-04-10,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -5847,6 +5887,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-11,CUB,NA,Cuba,21.527062,-79.544601,564,15,0,549,0,0,False,False,CU
 2020-04-11,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-11,CYP,EU,Cyprus,35.167406,33.435499,595,15,0,580,0,0,True,True,CY
+2020-04-11,CZE,EU,Czech Republic,49.800901,15.478153,5914,136,1136,4642,,,True,True,CZ
 2020-04-11,DNK,EU,Denmark,56.155403,11.617223,6191,273,0,5918,0,0,True,True,DK
 2020-04-11,DJI,AF,Djibouti,11.808375,42.595222,150,1,0,149,0,0,False,False,DJ
 2020-04-11,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -6001,6 +6042,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-12,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,948,37,,911,,,False,False,BA
 2020-04-12,BGR,EU,Bulgaria,42.729862,25.491667,669,29,0,640,0,0,True,True,BG
 2020-04-12,CYP,EU,Cyprus,35.167406,33.435499,616,15,0,601,0,0,True,True,CY
+2020-04-12,CZE,EU,Czech Republic,49.800901,15.478153,6003,146,1244,4613,,,True,True,CZ
 2020-04-12,DNK,EU,Denmark,56.155403,11.617223,6369,273,0,6096,0,0,True,True,DK
 2020-04-12,EST,EU,Estonia,58.596209,25.023778,1304,24,,1280,,,True,True,EE
 2020-04-12,FIN,EU,Finland,64.952416,26.068944,2974,49,0,2925,0,0,True,True,FI
@@ -6081,6 +6123,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-13,CUB,NA,Cuba,21.527062,-79.544601,669,18,0,651,0,0,False,False,CU
 2020-04-13,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-13,CYP,EU,Cyprus,35.167406,33.435499,633,16,0,617,0,0,True,True,CY
+2020-04-13,CZE,EU,Czech Republic,49.800901,15.478153,6071,157,1357,4557,,,True,True,CZ
 2020-04-13,DNK,EU,Denmark,56.155403,11.617223,6513,285,0,6228,0,0,True,True,DK
 2020-04-13,DJI,AF,Djibouti,11.808375,42.595222,214,2,0,212,0,0,False,False,DJ
 2020-04-13,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -6270,6 +6313,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-14,CUB,NA,Cuba,21.527062,-79.544601,726,21,0,705,0,0,False,False,CU
 2020-04-14,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-14,CYP,EU,Cyprus,35.167406,33.435499,662,17,0,645,0,0,True,True,CY
+2020-04-14,CZE,EU,Czech Republic,49.800901,15.478153,6153,166,1552,4435,,,True,True,CZ
 2020-04-14,DNK,EU,Denmark,56.155403,11.617223,6691,299,0,6392,0,0,True,True,DK
 2020-04-14,DJI,AF,Djibouti,11.808375,42.595222,298,2,0,296,0,0,False,False,DJ
 2020-04-14,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -6458,6 +6502,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-15,CUB,NA,Cuba,21.527062,-79.544601,766,21,0,745,0,0,False,False,CU
 2020-04-15,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-15,CYP,EU,Cyprus,35.167406,33.435499,695,17,0,678,0,0,True,True,CY
+2020-04-15,CZE,EU,Czech Republic,49.800901,15.478153,6313,166,1759,4388,,,True,True,CZ
 2020-04-15,DJI,AF,Djibouti,11.808375,42.595222,363,2,0,361,0,0,False,False,DJ
 2020-04-15,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
 2020-04-15,DOM,NA,Dominican Republic,18.736509,-70.161744,3286,183,0,3103,0,0,False,False,DO
@@ -6645,6 +6690,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-16,CUB,NA,Cuba,21.527062,-79.544601,814,24,0,790,0,0,False,False,CU
 2020-04-16,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-16,CYP,EU,Cyprus,35.167406,33.435499,715,17,0,698,0,0,True,True,CY
+2020-04-16,CZE,EU,Czech Republic,49.800901,15.478153,6445,168,2034,4243,,,True,True,CZ
 2020-04-16,DNK,EU,Denmark,56.155403,11.617223,7074,321,0,6753,0,0,True,True,DK
 2020-04-16,DJI,AF,Djibouti,11.808375,42.595222,435,2,0,433,0,0,False,False,DJ
 2020-04-16,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -6834,6 +6880,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-17,CUB,NA,Cuba,21.527062,-79.544601,862,27,0,835,0,0,False,False,CU
 2020-04-17,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-17,CYP,EU,Cyprus,35.167406,33.435499,735,17,0,718,0,0,True,True,CY
+2020-04-17,CZE,EU,Czech Republic,49.800901,15.478153,6561,176,2361,4024,,,True,True,CZ
 2020-04-17,DNK,EU,Denmark,56.155403,11.617223,7268,336,0,6932,0,0,True,True,DK
 2020-04-17,DJI,AF,Djibouti,11.808375,42.595222,591,2,0,589,0,0,False,False,DJ
 2020-04-17,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7024,6 +7071,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-18,CUB,NA,Cuba,21.527062,-79.544601,923,31,0,892,0,0,False,False,CU
 2020-04-18,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-18,CYP,EU,Cyprus,35.167406,33.435499,735,17,0,718,0,0,True,True,CY
+2020-04-18,CZE,EU,Czech Republic,49.800901,15.478153,6666,180,2514,3972,,,True,True,CZ
 2020-04-18,DNK,EU,Denmark,56.155403,11.617223,7437,346,0,7091,0,0,True,True,DK
 2020-04-18,DJI,AF,Djibouti,11.808375,42.595222,732,2,0,730,0,0,False,False,DJ
 2020-04-18,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7215,6 +7263,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-19,CUB,NA,Cuba,21.527062,-79.544601,986,32,0,954,0,0,False,False,CU
 2020-04-19,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-19,CYP,EU,Cyprus,35.167406,33.435499,761,17,0,744,0,0,True,True,CY
+2020-04-19,CZE,EU,Czech Republic,49.800901,15.478153,6758,189,2666,3903,,,True,True,CZ
 2020-04-19,DNK,EU,Denmark,56.155403,11.617223,7580,355,0,7225,0,0,True,True,DK
 2020-04-19,DJI,AF,Djibouti,11.808375,42.595222,732,2,0,730,0,0,False,False,DJ
 2020-04-19,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7406,6 +7455,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-20,CUB,NA,Cuba,21.527062,-79.544601,1035,34,0,1001,0,0,False,False,CU
 2020-04-20,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-20,CYP,EU,Cyprus,35.167406,33.435499,767,17,0,750,0,0,True,True,CY
+2020-04-20,CZE,EU,Czech Republic,49.800901,15.478153,6912,196,2906,3810,,,True,True,CZ
 2020-04-20,DNK,EU,Denmark,56.155403,11.617223,7711,364,0,7347,0,0,True,True,DK
 2020-04-20,DJI,AF,Djibouti,11.808375,42.595222,846,2,0,844,0,0,False,False,DJ
 2020-04-20,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7597,6 +7647,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-21,CUB,NA,Cuba,21.527062,-79.544601,1087,36,0,1051,0,0,False,False,CU
 2020-04-21,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-21,CYP,EU,Cyprus,35.167406,33.435499,772,17,0,755,0,0,True,True,CY
+2020-04-21,CZE,EU,Czech Republic,49.800901,15.478153,7045,204,3139,3702,,,True,True,CZ
 2020-04-21,DNK,EU,Denmark,56.155403,11.617223,7891,370,0,7521,0,0,True,True,DK
 2020-04-21,DJI,AF,Djibouti,11.808375,42.595222,846,2,0,844,0,0,False,False,DJ
 2020-04-21,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7787,6 +7838,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-22,CUB,NA,Cuba,21.527062,-79.544601,1137,38,0,1099,0,0,False,False,CU
 2020-04-22,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-22,CYP,EU,Cyprus,35.167406,33.435499,784,17,0,767,0,0,True,True,CY
+2020-04-22,CZE,EU,Czech Republic,49.800901,15.478153,7144,206,3441,3497,,,True,True,CZ
 2020-04-22,DNK,EU,Denmark,56.155403,11.617223,8108,384,0,7724,0,0,True,True,DK
 2020-04-22,DJI,AF,Djibouti,11.808375,42.595222,945,2,0,943,0,0,False,False,DJ
 2020-04-22,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -7978,6 +8030,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-23,CUB,NA,Cuba,21.527062,-79.544601,1189,40,0,1149,0,0,False,False,CU
 2020-04-23,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-23,CYP,EU,Cyprus,35.167406,33.435499,790,17,0,773,0,0,True,True,CY
+2020-04-23,CZE,EU,Czech Republic,49.800901,15.478153,7199,212,3677,3310,,,True,True,CZ
 2020-04-23,DNK,EU,Denmark,56.155403,11.617223,8271,394,0,7877,0,0,True,True,DK
 2020-04-23,DJI,AF,Djibouti,11.808375,42.595222,974,2,0,972,0,0,False,False,DJ
 2020-04-23,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -8167,6 +8220,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-24,CUB,NA,Cuba,21.527062,-79.544601,1235,43,0,1192,0,0,False,False,CU
 2020-04-24,CUW,NA,Curaçao,12.209209,-68.945576,14,1,0,13,0,0,False,False,CW
 2020-04-24,CYP,EU,Cyprus,35.167406,33.435499,795,17,0,778,0,0,True,True,CY
+2020-04-24,CZE,EU,Czech Republic,49.800901,15.478153,7285,218,3940,3127,,,True,True,CZ
 2020-04-24,DNK,EU,Denmark,56.155403,11.617223,8408,403,0,8005,0,0,True,True,DK
 2020-04-24,DJI,AF,Djibouti,11.808375,42.595222,986,2,0,984,0,0,False,False,DJ
 2020-04-24,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -8358,6 +8412,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-25,CUB,NA,Cuba,21.527062,-79.544601,1285,49,0,1236,0,0,False,False,CU
 2020-04-25,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-25,CYP,EU,Cyprus,35.167406,33.435499,804,17,0,787,0,0,True,True,CY
+2020-04-25,CZE,EU,Czech Republic,49.800901,15.478153,7364,222,4088,3054,,,True,True,CZ
 2020-04-25,DNK,EU,Denmark,56.155403,11.617223,8643,418,0,8225,0,0,True,True,DK
 2020-04-25,DJI,AF,Djibouti,11.808375,42.595222,999,2,0,997,0,0,False,False,DJ
 2020-04-25,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -8548,6 +8603,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-26,CUB,NA,Cuba,21.527062,-79.544601,1337,51,0,1286,0,0,False,False,CU
 2020-04-26,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-26,CYP,EU,Cyprus,35.167406,33.435499,810,17,0,793,0,0,True,True,CY
+2020-04-26,CZE,EU,Czech Republic,49.800901,15.478153,7416,224,4168,3024,,,True,True,CZ
 2020-04-26,DNK,EU,Denmark,56.155403,11.617223,8773,422,0,8351,0,0,True,True,DK
 2020-04-26,DJI,AF,Djibouti,11.808375,42.595222,1008,2,0,1006,0,0,False,False,DJ
 2020-04-26,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -8740,6 +8796,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-27,CUB,NA,Cuba,21.527062,-79.544601,1369,54,0,1315,0,0,False,False,CU
 2020-04-27,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-27,CYP,EU,Cyprus,35.167406,33.435499,817,17,0,800,0,0,True,True,CY
+2020-04-27,CZE,EU,Czech Republic,49.800901,15.478153,7457,225,4366,2866,,,True,True,CZ
 2020-04-27,DNK,EU,Denmark,56.155403,11.617223,8896,427,0,8469,0,0,True,True,DK
 2020-04-27,DJI,AF,Djibouti,11.808375,42.595222,1023,2,0,1021,0,0,False,False,DJ
 2020-04-27,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -8932,6 +8989,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-28,CUB,NA,Cuba,21.527062,-79.544601,1389,56,0,1333,0,0,False,False,CU
 2020-04-28,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-28,CYP,EU,Cyprus,35.167406,33.435499,822,20,0,802,0,0,True,True,CY
+2020-04-28,CZE,EU,Czech Republic,49.800901,15.478153,7517,229,4530,2758,,,True,True,CZ
 2020-04-28,DNK,EU,Denmark,56.155403,11.617223,9049,434,0,8615,0,0,True,True,DK
 2020-04-28,DJI,AF,Djibouti,11.808375,42.595222,1035,2,0,1033,0,0,False,False,DJ
 2020-04-28,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -9123,6 +9181,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-29,CUB,NA,Cuba,21.527062,-79.544601,1437,58,0,1379,0,0,False,False,CU
 2020-04-29,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-29,CYP,EU,Cyprus,35.167406,33.435499,837,20,0,817,0,0,True,True,CY
+2020-04-29,CZE,EU,Czech Republic,49.800901,15.478153,7592,234,4720,2638,,,True,True,CZ
 2020-04-29,DNK,EU,Denmark,56.155403,11.617223,9206,443,0,8763,0,0,True,True,DK
 2020-04-29,DJI,AF,Djibouti,11.808375,42.595222,1072,2,0,1070,0,0,False,False,DJ
 2020-04-29,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -9315,6 +9374,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-04-30,CUB,NA,Cuba,21.527062,-79.544601,1467,58,0,1409,0,0,False,False,CU
 2020-04-30,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-04-30,CYP,EU,Cyprus,35.167406,33.435499,843,20,0,823,0,0,True,True,CY
+2020-04-30,CZE,EU,Czech Republic,49.800901,15.478153,7695,241,4922,2532,,,True,True,CZ
 2020-04-30,DNK,EU,Denmark,56.155403,11.617223,9356,452,0,8904,0,0,True,True,DK
 2020-04-30,DJI,AF,Djibouti,11.808375,42.595222,1077,2,0,1075,0,0,False,False,DJ
 2020-04-30,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -9507,6 +9567,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-01,CUB,NA,Cuba,21.527062,-79.544601,1501,61,0,1440,0,0,False,False,CU
 2020-05-01,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-01,CYP,EU,Cyprus,35.167406,33.435499,850,20,0,830,0,0,True,True,CY
+2020-05-01,CZE,EU,Czech Republic,49.800901,15.478153,7750,249,5047,2454,,,True,True,CZ
 2020-05-01,DNK,EU,Denmark,56.155403,11.617223,9509,460,0,9049,0,0,True,True,DK
 2020-05-01,DJI,AF,Djibouti,11.808375,42.595222,1089,2,0,1087,0,0,False,False,DJ
 2020-05-01,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -9700,6 +9761,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-02,CUB,NA,Cuba,21.527062,-79.544601,1537,64,0,1473,0,0,False,False,CU
 2020-05-02,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-02,CYP,EU,Cyprus,35.167406,33.435499,857,20,0,837,0,0,True,True,CY
+2020-05-02,CZE,EU,Czech Republic,49.800901,15.478153,7768,250,5142,2376,,,True,True,CZ
 2020-05-02,DNK,EU,Denmark,56.155403,11.617223,9605,475,0,9130,0,0,True,True,DK
 2020-05-02,DJI,AF,Djibouti,11.808375,42.595222,1097,2,0,1095,0,0,False,False,DJ
 2020-05-02,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -9893,6 +9955,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-03,CUB,NA,Cuba,21.527062,-79.544601,1611,66,0,1545,0,0,False,False,CU
 2020-05-03,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-03,CYP,EU,Cyprus,35.167406,33.435499,864,20,0,844,0,0,True,True,CY
+2020-05-03,CZE,EU,Czech Republic,49.800901,15.478153,7794,253,5269,2272,,,True,True,CZ
 2020-05-03,DNK,EU,Denmark,56.155403,11.617223,9721,484,0,9237,0,0,True,True,DK
 2020-05-03,DJI,AF,Djibouti,11.808375,42.595222,1112,2,0,1110,0,0,False,False,DJ
 2020-05-03,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -10086,6 +10149,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-04,CUB,NA,Cuba,21.527062,-79.544601,1649,67,0,1582,0,0,False,False,CU
 2020-05-04,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-04,CYP,EU,Cyprus,35.167406,33.435499,872,20,0,852,0,0,True,True,CY
+2020-05-04,CZE,EU,Czech Republic,49.800901,15.478153,7832,258,5433,2141,,,True,True,CZ
 2020-05-04,DNK,EU,Denmark,56.155403,11.617223,9868,493,0,9375,0,0,True,True,DK
 2020-05-04,DJI,AF,Djibouti,11.808375,42.595222,1112,2,0,1110,0,0,False,False,DJ
 2020-05-04,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -10280,6 +10344,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-05,CUB,NA,Cuba,21.527062,-79.544601,1668,69,0,1599,0,0,False,False,CU
 2020-05-05,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-05,CYP,EU,Cyprus,35.167406,33.435499,874,20,0,854,0,0,True,True,CY
+2020-05-05,CZE,EU,Czech Republic,49.800901,15.478153,7909,261,5604,2044,,,True,True,CZ
 2020-05-05,DNK,EU,Denmark,56.155403,11.617223,10019,503,0,9516,0,0,True,True,DK
 2020-05-05,DJI,AF,Djibouti,11.808375,42.595222,1116,2,0,1114,0,0,False,False,DJ
 2020-05-05,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -10474,6 +10539,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-06,CUB,NA,Cuba,21.527062,-79.544601,1685,69,0,1616,0,0,False,False,CU
 2020-05-06,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-06,CYP,EU,Cyprus,35.167406,33.435499,878,20,0,858,0,0,True,True,CY
+2020-05-06,CZE,EU,Czech Republic,49.800901,15.478153,7988,264,5783,1941,,,True,True,CZ
 2020-05-06,DNK,EU,Denmark,56.155403,11.617223,10136,506,0,9630,0,0,True,True,DK
 2020-05-06,DJI,AF,Djibouti,11.808375,42.595222,1120,2,0,1118,0,0,False,False,DJ
 2020-05-06,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -10668,6 +10734,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-07,CUB,NA,Cuba,21.527062,-79.544601,1703,69,0,1634,0,0,False,False,CU
 2020-05-07,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-07,CYP,EU,Cyprus,35.167406,33.435499,883,21,0,862,0,0,True,True,CY
+2020-05-07,CZE,EU,Czech Republic,49.800901,15.478153,8045,268,5951,1826,,,True,True,CZ
 2020-05-07,DNK,EU,Denmark,56.155403,11.617223,10281,514,0,9767,0,0,True,True,DK
 2020-05-07,DJI,AF,Djibouti,11.808375,42.595222,1120,3,0,1117,0,0,False,False,DJ
 2020-05-07,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -10862,6 +10929,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-08,CUB,NA,Cuba,21.527062,-79.544601,1729,73,0,1656,0,0,False,False,CU
 2020-05-08,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-08,CYP,EU,Cyprus,35.167406,33.435499,889,21,0,868,0,0,True,True,CY
+2020-05-08,CZE,EU,Czech Republic,49.800901,15.478153,8091,273,6021,1797,,,True,True,CZ
 2020-05-08,DNK,EU,Denmark,56.155403,11.617223,10416,522,0,9894,0,0,True,True,DK
 2020-05-08,DJI,AF,Djibouti,11.808375,42.595222,1133,3,0,1130,0,0,False,False,DJ
 2020-05-08,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -11056,6 +11124,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-09,CUB,NA,Cuba,21.527062,-79.544601,1741,74,0,1667,0,0,False,False,CU
 2020-05-09,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-09,CYP,EU,Cyprus,35.167406,33.435499,891,21,0,870,0,0,True,True,CY
+2020-05-09,CZE,EU,Czech Republic,49.800901,15.478153,8109,276,6094,1739,,,True,True,CZ
 2020-05-09,DNK,EU,Denmark,56.155403,11.617223,10517,526,0,9991,0,0,True,True,DK
 2020-05-09,DJI,AF,Djibouti,11.808375,42.595222,1135,3,0,1132,0,0,False,False,DJ
 2020-05-09,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -11249,6 +11318,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-10,CUB,NA,Cuba,21.527062,-79.544601,1754,74,0,1680,0,0,False,False,CU
 2020-05-10,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-10,CYP,EU,Cyprus,35.167406,33.435499,892,21,0,871,0,0,True,True,CY
+2020-05-10,CZE,EU,Czech Republic,49.800901,15.478153,8137,279,6146,1712,,,True,True,CZ
 2020-05-10,DNK,EU,Denmark,56.155403,11.617223,10627,529,0,10098,0,0,True,True,DK
 2020-05-10,DJI,AF,Djibouti,11.808375,42.595222,1189,3,0,1186,0,0,False,False,DJ
 2020-05-10,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -11442,6 +11512,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-11,CUB,NA,Cuba,21.527062,-79.544601,1766,77,0,1689,0,0,False,False,CU
 2020-05-11,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-11,CYP,EU,Cyprus,35.167406,33.435499,898,22,0,876,0,0,True,True,CY
+2020-05-11,CZE,EU,Czech Republic,49.800901,15.478153,8192,281,6275,1636,,,True,True,CZ
 2020-05-11,DNK,EU,Denmark,56.155403,11.617223,10711,533,0,10178,0,0,True,True,DK
 2020-05-11,DJI,AF,Djibouti,11.808375,42.595222,1210,3,0,1207,0,0,False,False,DJ
 2020-05-11,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -11633,6 +11704,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-12,HRV,EU,Croatia,44.48732,16.460306,2207,91,0,2116,0,0,True,True,HR
 2020-05-12,CUB,NA,Cuba,21.527062,-79.544601,1783,77,0,1706,0,0,False,False,CU
 2020-05-12,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
+2020-05-12,CZE,EU,Czech Republic,49.800901,15.478153,8237,284,6365,1588,,,True,True,CZ
 2020-05-12,DNK,EU,Denmark,56.155403,11.617223,10789,527,0,10262,0,0,True,True,DK
 2020-05-12,DJI,AF,Djibouti,11.808375,42.595222,1227,3,0,1224,0,0,False,False,DJ
 2020-05-12,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -11816,6 +11888,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-13,CUB,NA,Cuba,21.527062,-79.544601,1804,78,0,1726,0,0,False,False,CU
 2020-05-13,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-13,CYP,EU,Cyprus,35.167406,33.435499,903,23,0,880,0,0,True,True,CY
+2020-05-13,CZE,EU,Czech Republic,49.800901,15.478153,8287,288,6500,1499,,,True,True,CZ
 2020-05-13,DNK,EU,Denmark,56.155403,11.617223,10865,533,0,10332,0,0,True,True,DK
 2020-05-13,DJI,AF,Djibouti,11.808375,42.595222,1256,3,0,1253,0,0,False,False,DJ
 2020-05-13,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12009,6 +12082,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-14,CUB,NA,Cuba,21.527062,-79.544601,1810,79,0,1731,0,0,False,False,CU
 2020-05-14,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-14,CYP,EU,Cyprus,35.167406,33.435499,905,17,0,888,0,0,True,True,CY
+2020-05-14,CZE,EU,Czech Republic,49.800901,15.478153,8369,291,6595,1483,,,True,True,CZ
 2020-05-14,DNK,EU,Denmark,56.155403,11.617223,10911,537,0,10374,0,0,True,True,DK
 2020-05-14,DJI,AF,Djibouti,11.808375,42.595222,1268,3,0,1265,0,0,False,False,DJ
 2020-05-14,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12201,6 +12275,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-15,CUB,NA,Cuba,21.527062,-79.544601,1830,79,0,1751,0,0,False,False,CU
 2020-05-15,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-15,CYP,EU,Cyprus,35.167406,33.435499,907,17,0,890,0,0,True,True,CY
+2020-05-15,CZE,EU,Czech Republic,49.800901,15.478153,8424,293,6675,1456,,,True,True,CZ
 2020-05-15,DNK,EU,Denmark,56.155403,11.617223,10989,537,0,10452,0,0,True,True,DK
 2020-05-15,DJI,AF,Djibouti,11.808375,42.595222,1284,3,0,1281,0,0,False,False,DJ
 2020-05-15,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12395,6 +12470,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-16,CUB,NA,Cuba,21.527062,-79.544601,1840,79,0,1761,0,0,False,False,CU
 2020-05-16,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-16,CYP,EU,Cyprus,35.167406,33.435499,910,17,0,893,0,0,True,True,CY
+2020-05-16,CZE,EU,Czech Republic,49.800901,15.478153,8474,294,6717,1463,,,True,True,CZ
 2020-05-16,DNK,EU,Denmark,56.155403,11.617223,11056,543,0,10513,0,0,True,True,DK
 2020-05-16,DJI,AF,Djibouti,11.808375,42.595222,1309,4,0,1305,0,0,False,False,DJ
 2020-05-16,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12588,6 +12664,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-17,CUB,NA,Cuba,21.527062,-79.544601,1862,79,0,1783,0,0,False,False,CU
 2020-05-17,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-17,CYP,EU,Cyprus,35.167406,33.435499,914,17,0,897,0,0,True,True,CY
+2020-05-17,CZE,EU,Czech Republic,49.800901,15.478153,8494,296,6765,1433,,,True,True,CZ
 2020-05-17,DNK,EU,Denmark,56.155403,11.617223,11125,547,0,10578,0,0,True,True,DK
 2020-05-17,DJI,AF,Djibouti,11.808375,42.595222,1331,4,0,1327,0,0,False,False,DJ
 2020-05-17,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12782,6 +12859,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-18,CUB,NA,Cuba,21.527062,-79.544601,1872,79,0,1793,0,0,False,False,CU
 2020-05-18,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-18,CYP,EU,Cyprus,35.167406,33.435499,916,17,0,899,0,0,True,True,CY
+2020-05-18,CZE,EU,Czech Republic,49.800901,15.478153,8606,299,6855,1452,,,True,True,CZ
 2020-05-18,DNK,EU,Denmark,56.155403,11.617223,11166,548,0,10618,0,0,True,True,DK
 2020-05-18,DJI,AF,Djibouti,11.808375,42.595222,1401,4,0,1397,0,0,False,False,DJ
 2020-05-18,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -12977,6 +13055,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-19,CUB,NA,Cuba,21.527062,-79.544601,1881,79,0,1802,0,0,False,False,CU
 2020-05-19,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-19,CYP,EU,Cyprus,35.167406,33.435499,917,17,0,900,0,0,True,True,CY
+2020-05-19,CZE,EU,Czech Republic,49.800901,15.478153,8668,301,6907,1460,,,True,True,CZ
 2020-05-19,DNK,EU,Denmark,56.155403,11.617223,11242,551,0,10691,0,0,True,True,DK
 2020-05-19,DJI,AF,Djibouti,11.808375,42.595222,1518,7,0,1511,0,0,False,False,DJ
 2020-05-19,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -13171,6 +13250,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-20,CUB,NA,Cuba,21.527062,-79.544601,1887,79,0,1808,0,0,False,False,CU
 2020-05-20,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-20,CYP,EU,Cyprus,35.167406,33.435499,918,17,0,901,0,0,True,True,CY
+2020-05-20,CZE,EU,Czech Republic,49.800901,15.478153,8742,306,6994,1442,,,True,True,CZ
 2020-05-20,DNK,EU,Denmark,56.155403,11.617223,11315,554,0,10761,0,0,True,True,DK
 2020-05-20,DJI,AF,Djibouti,11.808375,42.595222,1518,7,0,1511,0,0,False,False,DJ
 2020-05-20,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -13366,6 +13446,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-21,CUB,NA,Cuba,21.527062,-79.544601,1900,79,0,1821,0,0,False,False,CU
 2020-05-21,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-21,CYP,EU,Cyprus,35.167406,33.435499,922,17,0,905,0,0,True,True,CY
+2020-05-21,CZE,EU,Czech Republic,49.800901,15.478153,8775,309,7083,1383,,,True,True,CZ
 2020-05-21,DJI,AF,Djibouti,11.808375,42.595222,1828,9,0,1819,0,0,False,False,DJ
 2020-05-21,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
 2020-05-21,DOM,NA,Dominican Republic,18.736509,-70.161744,13477,446,0,13031,0,0,False,False,DO
@@ -13559,6 +13640,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-22,CUB,NA,Cuba,21.527062,-79.544601,1908,80,0,1828,0,0,False,False,CU
 2020-05-22,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-22,CYP,EU,Cyprus,35.167406,33.435499,923,17,0,906,0,0,True,True,CY
+2020-05-22,CZE,EU,Czech Republic,49.800901,15.478153,8834,311,7144,1379,,,True,True,CZ
 2020-05-22,DNK,EU,Denmark,56.155403,11.617223,11360,561,0,10799,0,0,True,True,DK
 2020-05-22,DJI,AF,Djibouti,11.808375,42.595222,2047,10,0,2037,0,0,False,False,DJ
 2020-05-22,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -13754,6 +13836,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-23,CUB,NA,Cuba,21.527062,-79.544601,1916,81,0,1835,0,0,False,False,CU
 2020-05-23,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-23,CYP,EU,Cyprus,35.167406,33.435499,927,17,0,910,0,0,True,True,CY
+2020-05-23,CZE,EU,Czech Republic,49.800901,15.478153,8911,312,7183,1416,,,True,True,CZ
 2020-05-23,DJI,AF,Djibouti,11.808375,42.595222,2270,10,0,2260,0,0,False,False,DJ
 2020-05-23,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
 2020-05-23,DOM,NA,Dominican Republic,18.736509,-70.161744,13989,456,0,13533,0,0,False,False,DO
@@ -13947,6 +14030,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-24,CUB,NA,Cuba,21.527062,-79.544601,1931,81,0,1850,0,0,False,False,CU
 2020-05-24,CUW,NA,Curaçao,12.209209,-68.945576,16,1,0,15,0,0,False,False,CW
 2020-05-24,CYP,EU,Cyprus,35.167406,33.435499,927,17,0,910,0,0,True,True,CY
+2020-05-24,CZE,EU,Czech Republic,49.800901,15.478153,8976,313,7213,1450,,,True,True,CZ
 2020-05-24,DJI,AF,Djibouti,11.808375,42.595222,2270,10,0,2260,0,0,False,False,DJ
 2020-05-24,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
 2020-05-24,DOM,NA,Dominican Republic,18.736509,-70.161744,14422,458,0,13964,0,0,False,False,DO
@@ -14140,6 +14224,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-25,CUB,NA,Cuba,21.527062,-79.544601,1941,82,0,1859,0,0,False,False,CU
 2020-05-25,CUW,NA,Curaçao,12.209209,-68.945576,17,1,0,16,0,0,False,False,CW
 2020-05-25,CYP,EU,Cyprus,35.167406,33.435499,935,17,0,918,0,0,True,True,CY
+2020-05-25,CZE,EU,Czech Republic,49.800901,15.478153,9023,314,7297,1412,,,True,True,CZ
 2020-05-25,DNK,EU,Denmark,56.155403,11.617223,11516,563,0,10953,0,0,True,True,DK
 2020-05-25,DJI,AF,Djibouti,11.808375,42.595222,2270,10,0,2260,0,0,False,False,DJ
 2020-05-25,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -14335,6 +14420,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-26,CUB,NA,Cuba,21.527062,-79.544601,1947,82,0,1865,0,0,False,False,CU
 2020-05-26,CUW,NA,Curaçao,12.209209,-68.945576,18,1,0,17,0,0,False,False,CW
 2020-05-26,CYP,EU,Cyprus,35.167406,33.435499,937,17,0,920,0,0,True,True,CY
+2020-05-26,CZE,EU,Czech Republic,49.800901,15.478153,9071,315,7372,1384,,,True,True,CZ
 2020-05-26,DNK,EU,Denmark,56.155403,11.617223,11556,563,0,10993,0,0,True,True,DK
 2020-05-26,DJI,AF,Djibouti,11.808375,42.595222,2468,14,0,2454,0,0,False,False,DJ
 2020-05-26,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -14530,6 +14616,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-27,CUB,NA,Cuba,21.527062,-79.544601,1963,82,0,1881,0,0,False,False,CU
 2020-05-27,CUW,NA,Curaçao,12.209209,-68.945576,18,1,0,17,0,0,False,False,CW
 2020-05-27,CYP,EU,Cyprus,35.167406,33.435499,939,17,0,922,0,0,True,True,CY
+2020-05-27,CZE,EU,Czech Republic,49.800901,15.478153,9108,315,7453,1340,,,True,True,CZ
 2020-05-27,DNK,EU,Denmark,56.155403,11.617223,11608,565,0,11043,0,0,True,True,DK
 2020-05-27,DJI,AF,Djibouti,11.808375,42.595222,2468,14,0,2454,0,0,False,False,DJ
 2020-05-27,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -14725,6 +14812,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-28,CUB,NA,Cuba,21.527062,-79.544601,1974,82,0,1892,0,0,False,False,CU
 2020-05-28,CUW,NA,Curaçao,12.209209,-68.945576,18,1,0,17,0,0,False,False,CW
 2020-05-28,CYP,EU,Cyprus,35.167406,33.435499,939,17,0,922,0,0,True,True,CY
+2020-05-28,CZE,EU,Czech Republic,49.800901,15.478153,9162,317,7499,1346,,,True,True,CZ
 2020-05-28,DNK,EU,Denmark,56.155403,11.617223,11640,568,0,11072,0,0,True,True,DK
 2020-05-28,DJI,AF,Djibouti,11.808375,42.595222,2697,18,0,2679,0,0,False,False,DJ
 2020-05-28,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -14920,6 +15008,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-29,CUB,NA,Cuba,21.527062,-79.544601,1983,82,0,1901,0,0,False,False,CU
 2020-05-29,CUW,NA,Curaçao,12.209209,-68.945576,19,1,0,18,0,0,False,False,CW
 2020-05-29,CYP,EU,Cyprus,35.167406,33.435499,941,17,0,924,0,0,True,True,CY
+2020-05-29,CZE,EU,Czech Republic,49.800901,15.478153,9219,317,7561,1341,,,True,True,CZ
 2020-05-29,DNK,EU,Denmark,56.155403,11.617223,11721,568,0,11153,0,0,True,True,DK
 2020-05-29,DJI,AF,Djibouti,11.808375,42.595222,2914,20,0,2894,0,0,False,False,DJ
 2020-05-29,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -15115,6 +15204,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-30,CUB,NA,Cuba,21.527062,-79.544601,2005,82,0,1923,0,0,False,False,CU
 2020-05-30,CUW,NA,Curaçao,12.209209,-68.945576,19,1,0,18,0,0,False,False,CW
 2020-05-30,CYP,EU,Cyprus,35.167406,33.435499,941,17,0,924,0,0,True,True,CY
+2020-05-30,CZE,EU,Czech Republic,49.800901,15.478153,9253,317,7598,1338,,,True,True,CZ
 2020-05-30,DNK,EU,Denmark,56.155403,11.617223,11748,570,0,11178,0,0,True,True,DK
 2020-05-30,DJI,AF,Djibouti,11.808375,42.595222,2914,20,0,2894,0,0,False,False,DJ
 2020-05-30,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -15308,6 +15398,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-05-31,CUB,NA,Cuba,21.527062,-79.544601,2025,83,0,1942,0,0,False,False,CU
 2020-05-31,CUW,NA,Curaçao,12.209209,-68.945576,19,1,0,18,0,0,False,False,CW
 2020-05-31,CYP,EU,Cyprus,35.167406,33.435499,943,17,0,926,0,0,True,True,CY
+2020-05-31,CZE,EU,Czech Republic,49.800901,15.478153,9291,317,7617,1357,,,True,True,CZ
 2020-05-31,DNK,EU,Denmark,56.155403,11.617223,11776,572,0,11204,0,0,True,True,DK
 2020-05-31,DJI,AF,Djibouti,11.808375,42.595222,3194,22,0,3172,0,0,False,False,DJ
 2020-05-31,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -15501,6 +15592,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-01,CUB,NA,Cuba,21.527062,-79.544601,2045,83,0,1962,0,0,False,False,CU
 2020-06-01,CUW,NA,Curaçao,12.209209,-68.945576,19,1,0,18,0,0,False,False,CW
 2020-06-01,CYP,EU,Cyprus,35.167406,33.435499,944,17,0,927,0,0,True,True,CY
+2020-06-01,CZE,EU,Czech Republic,49.800901,15.478153,9325,319,7689,1317,,,True,True,CZ
 2020-06-01,DNK,EU,Denmark,56.155403,11.617223,11803,574,0,11229,0,0,True,True,DK
 2020-06-01,DJI,AF,Djibouti,11.808375,42.595222,3354,24,0,3330,0,0,False,False,DJ
 2020-06-01,DMA,NA,Dominica,15.416749,-61.36413,16,0,0,16,0,0,False,False,DM
@@ -15693,6 +15785,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-02,CUB,NA,Cuba,21.527062,-79.544601,2083,83,0,2000,0,0,False,False,CU
 2020-06-02,CUW,NA,Curaçao,12.209209,-68.945576,20,1,0,19,0,0,False,False,CW
 2020-06-02,CYP,EU,Cyprus,35.167406,33.435499,949,17,0,932,0,0,True,True,CY
+2020-06-02,CZE,EU,Czech Republic,49.800901,15.478153,9387,320,7759,1308,,,True,True,CZ
 2020-06-02,DNK,EU,Denmark,56.155403,11.617223,11831,577,0,11254,0,0,True,True,DK
 2020-06-02,DJI,AF,Djibouti,11.808375,42.595222,3569,24,0,3545,0,0,False,False,DJ
 2020-06-02,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -15887,6 +15980,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-03,CUB,NA,Cuba,21.527062,-79.544601,2092,83,0,2009,0,0,False,False,CU
 2020-06-03,CUW,NA,Curaçao,12.209209,-68.945576,20,1,0,19,0,0,False,False,CW
 2020-06-03,CYP,EU,Cyprus,35.167406,33.435499,952,17,0,935,0,0,True,True,CY
+2020-06-03,CZE,EU,Czech Republic,49.800901,15.478153,9461,321,7835,1305,,,True,True,CZ
 2020-06-03,DNK,EU,Denmark,56.155403,11.617223,11860,580,0,11280,0,0,True,True,DK
 2020-06-03,DJI,AF,Djibouti,11.808375,42.595222,3779,25,0,3754,0,0,False,False,DJ
 2020-06-03,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -16082,6 +16176,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-04,CUB,NA,Cuba,21.527062,-79.544601,2107,83,0,2024,0,0,False,False,CU
 2020-06-04,CUW,NA,Curaçao,12.209209,-68.945576,20,1,0,19,0,0,False,False,CW
 2020-06-04,CYP,EU,Cyprus,35.167406,33.435499,958,17,0,941,0,0,True,True,CY
+2020-06-04,CZE,EU,Czech Republic,49.800901,15.478153,9521,324,7886,1311,,,True,True,CZ
 2020-06-04,DNK,EU,Denmark,56.155403,11.617223,11935,582,0,11353,0,0,True,True,DK
 2020-06-04,DJI,AF,Djibouti,11.808375,42.595222,3935,26,0,3909,0,0,False,False,DJ
 2020-06-04,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -16276,6 +16371,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-05,CUB,NA,Cuba,21.527062,-79.544601,2119,83,0,2036,0,0,False,False,CU
 2020-06-05,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-05,CYP,EU,Cyprus,35.167406,33.435499,958,17,0,941,0,0,True,True,CY
+2020-06-05,CZE,EU,Czech Republic,49.800901,15.478153,9556,324,7952,1280,,,True,True,CZ
 2020-06-05,DJI,AF,Djibouti,11.808375,42.595222,4054,26,0,4028,0,0,False,False,DJ
 2020-06-05,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-05,DOM,NA,Dominican Republic,18.736509,-70.161744,18319,520,0,17799,0,0,False,False,DO
@@ -16470,6 +16566,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-06,CUB,NA,Cuba,21.527062,-79.544601,2133,83,0,2050,0,0,False,False,CU
 2020-06-06,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-06,CYP,EU,Cyprus,35.167406,33.435499,960,17,0,943,0,0,True,True,CY
+2020-06-06,CZE,EU,Czech Republic,49.800901,15.478153,9594,324,7972,1298,,,True,True,CZ
 2020-06-06,DJI,AF,Djibouti,11.808375,42.595222,4123,26,0,4097,0,0,False,False,DJ
 2020-06-06,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-06,DOM,NA,Dominican Republic,18.736509,-70.161744,18708,525,0,18183,0,0,False,False,DO
@@ -16662,6 +16759,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-07,CUB,NA,Cuba,21.527062,-79.544601,2173,83,0,2090,0,0,False,False,CU
 2020-06-07,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-07,CYP,EU,Cyprus,35.167406,33.435499,960,18,0,942,0,0,True,True,CY
+2020-06-07,CZE,EU,Czech Republic,49.800901,15.478153,9655,325,7993,1337,,,True,True,CZ
 2020-06-07,DJI,AF,Djibouti,11.808375,42.595222,4169,26,0,4143,0,0,False,False,DJ
 2020-06-07,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-07,DOM,NA,Dominican Republic,18.736509,-70.161744,19195,536,0,18659,0,0,False,False,DO
@@ -16855,6 +16953,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-08,CUB,NA,Cuba,21.527062,-79.544601,2191,83,0,2108,0,0,False,False,CU
 2020-06-08,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-08,CYP,EU,Cyprus,35.167406,33.435499,964,18,0,946,0,0,True,True,CY
+2020-06-08,CZE,EU,Czech Republic,49.800901,15.478153,9724,325,8043,1356,,,True,True,CZ
 2020-06-08,DNK,EU,Denmark,56.155403,11.617223,12088,593,0,11495,0,0,True,True,DK
 2020-06-08,DJI,AF,Djibouti,11.808375,42.595222,4207,28,0,4179,0,0,False,False,DJ
 2020-06-08,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -17049,6 +17148,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-09,CUB,NA,Cuba,21.527062,-79.544601,2200,83,0,2117,0,0,False,False,CU
 2020-06-09,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-09,CYP,EU,Cyprus,35.167406,33.435499,970,18,0,952,0,0,True,True,CY
+2020-06-09,CZE,EU,Czech Republic,49.800901,15.478153,9778,326,8078,1374,,,True,True,CZ
 2020-06-09,DJI,AF,Djibouti,11.808375,42.595222,4278,31,0,4247,0,0,False,False,DJ
 2020-06-09,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-09,DOM,NA,Dominican Republic,18.736509,-70.161744,20126,539,0,19587,0,0,False,False,DO
@@ -17243,6 +17343,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-10,CUB,NA,Cuba,21.527062,-79.544601,2205,83,0,2122,0,0,False,False,CU
 2020-06-10,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-10,CYP,EU,Cyprus,35.167406,33.435499,972,18,0,954,0,0,True,True,CY
+2020-06-10,CZE,EU,Czech Republic,49.800901,15.478153,9851,327,8150,1374,,,True,True,CZ
 2020-06-10,DNK,EU,Denmark,56.155403,11.617223,12140,593,0,11547,0,0,True,True,DK
 2020-06-10,DJI,AF,Djibouti,11.808375,42.595222,4331,34,0,4297,0,0,False,False,DJ
 2020-06-10,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -17437,6 +17538,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-11,CUB,NA,Cuba,21.527062,-79.544601,2211,83,0,2128,0,0,False,False,CU
 2020-06-11,CUW,NA,Curaçao,12.209209,-68.945576,21,1,0,20,0,0,False,False,CW
 2020-06-11,CYP,EU,Cyprus,35.167406,33.435499,974,18,0,956,0,0,True,True,CY
+2020-06-11,CZE,EU,Czech Republic,49.800901,15.478153,9913,328,8191,1394,,,True,True,CZ
 2020-06-11,DNK,EU,Denmark,56.155403,11.617223,12159,593,0,11566,0,0,True,True,DK
 2020-06-11,DJI,AF,Djibouti,11.808375,42.595222,4373,34,0,4339,0,0,False,False,DJ
 2020-06-11,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -17630,6 +17732,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-12,CUB,NA,Cuba,21.527062,-79.544601,2219,84,0,2135,0,0,False,False,CU
 2020-06-12,CUW,NA,Curaçao,12.209209,-68.945576,22,1,0,21,0,0,False,False,CW
 2020-06-12,CYP,EU,Cyprus,35.167406,33.435499,975,18,0,957,0,0,True,True,CY
+2020-06-12,CZE,EU,Czech Republic,49.800901,15.478153,9965,329,8246,1390,,,True,True,CZ
 2020-06-12,DNK,EU,Denmark,56.155403,11.617223,12222,594,0,11628,0,0,True,True,DK
 2020-06-12,DJI,AF,Djibouti,11.808375,42.595222,4398,37,0,4361,0,0,False,False,DJ
 2020-06-12,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -17824,6 +17927,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-13,CUB,NA,Cuba,21.527062,-79.544601,2233,84,0,2149,0,0,False,False,CU
 2020-06-13,CUW,NA,Curaçao,12.209209,-68.945576,22,1,0,21,0,0,False,False,CW
 2020-06-13,CYP,EU,Cyprus,35.167406,33.435499,980,18,0,962,0,0,True,True,CY
+2020-06-13,CZE,EU,Czech Republic,49.800901,15.478153,10018,329,8266,1423,,,True,True,CZ
 2020-06-13,DJI,AF,Djibouti,11.808375,42.595222,4441,38,0,4403,0,0,False,False,DJ
 2020-06-13,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-13,DOM,NA,Dominican Republic,18.736509,-70.161744,22008,568,0,21440,0,0,False,False,DO
@@ -18016,6 +18120,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-14,CUB,NA,Cuba,21.527062,-79.544601,2238,84,0,2154,0,0,False,False,CU
 2020-06-14,CUW,NA,Curaçao,12.209209,-68.945576,22,1,0,21,0,0,False,False,CW
 2020-06-14,CYP,EU,Cyprus,35.167406,33.435499,980,18,0,962,0,0,True,True,CY
+2020-06-14,CZE,EU,Czech Republic,49.800901,15.478153,10051,330,8277,1444,,,True,True,CZ
 2020-06-14,DNK,EU,Denmark,56.155403,11.617223,12339,596,0,11743,0,0,True,True,DK
 2020-06-14,DJI,AF,Djibouti,11.808375,42.595222,4449,41,0,4408,0,0,False,False,DJ
 2020-06-14,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
@@ -18210,6 +18315,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-15,CUB,NA,Cuba,21.527062,-79.544601,2248,84,0,2164,0,0,False,False,CU
 2020-06-15,CUW,NA,Curaçao,12.209209,-68.945576,22,1,0,21,0,0,False,False,CW
 2020-06-15,CYP,EU,Cyprus,35.167406,33.435499,983,18,0,965,0,0,True,True,CY
+2020-06-15,CZE,EU,Czech Republic,49.800901,15.478153,10091,331,8317,1443,,,True,True,CZ
 2020-06-15,DJI,AF,Djibouti,11.808375,42.595222,4465,43,0,4422,0,0,False,False,DJ
 2020-06-15,DMA,NA,Dominica,15.416749,-61.36413,18,0,0,18,0,0,False,False,DM
 2020-06-15,DOM,NA,Dominican Republic,18.736509,-70.161744,22962,592,0,22370,0,0,False,False,DO
@@ -18404,6 +18510,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-16,CUB,NA,Cuba,21.527062,-79.544601,2262,84,,2178,,,False,False,CU
 2020-06-16,CUW,NA,Curaçao,12.209209,-68.945576,22,1,,21,,,False,False,CW
 2020-06-16,CYP,EU,Cyprus,35.167406,33.435499,985,18,0,967,0,0,True,True,CY
+2020-06-16,CZE,EU,Czech Republic,49.800901,15.478153,10138,332,8370,1436,,,True,True,CZ
 2020-06-16,DNK,EU,Denmark,56.155403,11.617223,12372,598,0,11774,0,0,True,True,DK
 2020-06-16,DJI,AF,Djibouti,11.808375,42.595222,4501,43,,4458,,,False,False,DJ
 2020-06-16,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -18597,6 +18704,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-17,CUB,NA,Cuba,21.527062,-79.544601,2273,84,,2189,,,False,False,CU
 2020-06-17,CUW,NA,Curaçao,12.209209,-68.945576,22,1,,21,,,False,False,CW
 2020-06-17,CYP,EU,Cyprus,35.167406,33.435499,985,18,,967,,,True,True,CY
+2020-06-17,CZE,EU,Czech Republic,49.800901,15.478153,10189,333,8425,1431,,,True,True,CZ
 2020-06-17,DNK,EU,Denmark,56.155403,11.617223,12415,598,,11817,,,True,True,DK
 2020-06-17,DJI,AF,Djibouti,11.808375,42.595222,4539,43,,4496,,,False,False,DJ
 2020-06-17,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -18792,6 +18900,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-18,CUB,NA,Cuba,21.527062,-79.544601,2280,84,,2196,,,False,False,CU
 2020-06-18,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
 2020-06-18,CYP,EU,Cyprus,35.167406,33.435499,985,18,,967,,,True,True,CY
+2020-06-18,CZE,EU,Czech Republic,49.800901,15.478153,10307,335,8475,1497,,,True,True,CZ
 2020-06-18,DNK,EU,Denmark,56.155403,11.617223,12464,600,,11864,,,True,True,DK
 2020-06-18,DJI,AF,Djibouti,11.808375,42.595222,4545,43,,4502,,,False,False,DJ
 2020-06-18,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -18986,6 +19095,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-19,CUB,NA,Cuba,21.527062,-79.544601,2295,85,,2210,,,False,False,CU
 2020-06-19,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
 2020-06-19,CYP,EU,Cyprus,35.167406,33.435499,985,19,,966,,,True,True,CY
+2020-06-19,CZE,EU,Czech Republic,49.800901,15.478153,10433,336,8528,1569,,,True,True,CZ
 2020-06-19,DNK,EU,Denmark,56.155403,11.617223,12511,600,,11911,,,True,True,DK
 2020-06-19,DJI,AF,Djibouti,11.808375,42.595222,4557,43,,4514,,,False,False,DJ
 2020-06-19,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -19179,6 +19289,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-20,CUB,NA,Cuba,21.527062,-79.544601,2305,85,,2220,,,False,False,CU
 2020-06-20,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
 2020-06-20,CYP,EU,Cyprus,35.167406,33.435499,985,19,,966,,,True,True,CY
+2020-06-20,CZE,EU,Czech Republic,49.800901,15.478153,10475,337,8541,1597,,,True,True,CZ
 2020-06-20,DJI,AF,Djibouti,11.808375,42.595222,4565,45,,4520,,,False,False,DJ
 2020-06-20,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-06-20,DOM,NA,Dominican Republic,18.736509,-70.161744,25068,647,,24421,,,False,False,DO
@@ -19367,6 +19478,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-21,HRV,EU,Croatia,44.48732,16.460306,2317,105,,2212,,,True,True,HR
 2020-06-21,CUB,NA,Cuba,21.527062,-79.544601,2309,85,,2224,,,False,False,CU
 2020-06-21,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
+2020-06-21,CZE,EU,Czech Republic,49.800901,15.478153,10525,338,8558,1629,,,True,True,CZ
 2020-06-21,DJI,AF,Djibouti,11.808375,42.595222,4565,45,,4520,,,False,False,DJ
 2020-06-21,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-06-21,DOM,NA,Dominican Republic,18.736509,-70.161744,25778,655,,25123,,,False,False,DO
@@ -19548,6 +19660,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-22,CUB,NA,Cuba,21.527062,-79.544601,2312,85,,2227,,,False,False,CU
 2020-06-22,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
 2020-06-22,CYP,EU,Cyprus,35.167406,33.435499,986,19,,967,,,True,True,CY
+2020-06-22,CZE,EU,Czech Republic,49.800901,15.478153,10589,339,8612,1638,,,True,True,CZ
 2020-06-22,DNK,EU,Denmark,56.155403,11.617223,12645,602,,12043,,,True,True,DK
 2020-06-22,DJI,AF,Djibouti,11.808375,42.595222,4582,45,,4537,,,False,False,DJ
 2020-06-22,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -19742,6 +19855,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-23,CUB,NA,Cuba,21.527062,-79.544601,2315,85,,2230,,,False,False,CU
 2020-06-23,CUW,NA,Curaçao,12.209209,-68.945576,23,1,,22,,,False,False,CW
 2020-06-23,CYP,EU,Cyprus,35.167406,33.435499,988,19,,969,,,True,True,CY
+2020-06-23,CZE,EU,Czech Republic,49.800901,15.478153,10678,339,8663,1676,,,True,True,CZ
 2020-06-23,DNK,EU,Denmark,56.155403,11.617223,12678,603,,12075,,,True,True,DK
 2020-06-23,DJI,AF,Djibouti,11.808375,42.595222,4599,48,,4551,,,False,False,DJ
 2020-06-23,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -19937,6 +20051,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-24,CUB,NA,Cuba,21.527062,-79.544601,2318,85,,2233,,,False,False,CU
 2020-06-24,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-24,CYP,EU,Cyprus,35.167406,33.435499,990,19,,971,,,True,True,CY
+2020-06-24,CZE,EU,Czech Republic,49.800901,15.478153,10805,343,8741,1721,,,True,True,CZ
 2020-06-24,DNK,EU,Denmark,56.155403,11.617223,12731,603,,12128,,,True,True,DK
 2020-06-24,DJI,AF,Djibouti,11.808375,42.595222,4617,49,,4568,,,False,False,DJ
 2020-06-24,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -20132,6 +20247,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-25,CUB,NA,Cuba,21.527062,-79.544601,2319,85,,2234,,,False,False,CU
 2020-06-25,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-25,CYP,EU,Cyprus,35.167406,33.435499,991,19,,972,,,True,True,CY
+2020-06-25,CZE,EU,Czech Republic,49.800901,15.478153,10898,343,8823,1732,,,True,True,CZ
 2020-06-25,DNK,EU,Denmark,56.155403,11.617223,12754,603,,12151,,,True,True,DK
 2020-06-25,DJI,AF,Djibouti,11.808375,42.595222,4630,52,,4578,,,False,False,DJ
 2020-06-25,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -20325,6 +20441,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-26,CUB,NA,Cuba,21.527062,-79.544601,2321,85,,2236,,,False,False,CU
 2020-06-26,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-26,CYP,EU,Cyprus,35.167406,33.435499,992,19,,973,,,True,True,CY
+2020-06-26,CZE,EU,Czech Republic,49.800901,15.478153,11066,344,8898,1824,,,True,True,CZ
 2020-06-26,DNK,EU,Denmark,56.155403,11.617223,12793,604,,12189,,,True,True,DK
 2020-06-26,DJI,AF,Djibouti,11.808375,42.595222,4635,52,,4583,,,False,False,DJ
 2020-06-26,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -20520,6 +20637,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-27,CUB,NA,Cuba,21.527062,-79.544601,2325,85,,2240,,,False,False,CU
 2020-06-27,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-27,CYP,EU,Cyprus,35.167406,33.435499,992,19,,973,,,True,True,CY
+2020-06-27,CZE,EU,Czech Republic,49.800901,15.478153,11326,345,8918,2063,,,True,True,CZ
 2020-06-27,DJI,AF,Djibouti,11.808375,42.595222,4643,52,,4591,,,False,False,DJ
 2020-06-27,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-06-27,DOM,NA,Dominican Republic,18.736509,-70.161744,29764,712,,29052,,,False,False,DO
@@ -20711,6 +20829,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-28,CUB,NA,Cuba,21.527062,-79.544601,2330,86,,2244,,,False,False,CU
 2020-06-28,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-28,CYP,EU,Cyprus,35.167406,33.435499,994,19,,975,,,True,True,CY
+2020-06-28,CZE,EU,Czech Republic,49.800901,15.478153,11631,345,8935,2351,,,True,True,CZ
 2020-06-28,DJI,AF,Djibouti,11.808375,42.595222,4643,52,,4591,,,False,False,DJ
 2020-06-28,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-06-28,DOM,NA,Dominican Republic,18.736509,-70.161744,30619,718,,29901,,,False,False,DO
@@ -20903,6 +21022,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-29,CUB,NA,Cuba,21.527062,-79.544601,2332,86,,2246,,,False,False,CU
 2020-06-29,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-29,CYP,EU,Cyprus,35.167406,33.435499,994,19,,975,,,True,True,CY
+2020-06-29,CZE,EU,Czech Republic,49.800901,15.478153,11832,345,8986,2501,,,True,True,CZ
 2020-06-29,DNK,EU,Denmark,56.155403,11.617223,12866,605,,12261,,,True,True,DK
 2020-06-29,DJI,AF,Djibouti,11.808375,42.595222,4643,52,,4591,,,False,False,DJ
 2020-06-29,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -21097,6 +21217,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-06-30,CUB,NA,Cuba,21.527062,-79.544601,2340,86,,2254,,,False,False,CU
 2020-06-30,CUW,NA,Curaçao,12.209209,-68.945576,24,1,,23,,,False,False,CW
 2020-06-30,CYP,EU,Cyprus,35.167406,33.435499,996,19,,977,,,True,True,CY
+2020-06-30,CZE,EU,Czech Republic,49.800901,15.478153,11981,346,9043,2592,,,True,True,CZ
 2020-06-30,DNK,EU,Denmark,56.155403,11.617223,12881,605,,12276,,,True,True,DK
 2020-06-30,DJI,AF,Djibouti,11.808375,42.595222,4656,53,,4603,,,False,False,DJ
 2020-06-30,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -21292,6 +21413,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-01,CUB,NA,Cuba,21.527062,-79.544601,2341,86,,2255,,,False,False,CU
 2020-07-01,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-01,CYP,EU,Cyprus,35.167406,33.435499,998,19,,979,,,True,True,CY
+2020-07-01,CZE,EU,Czech Republic,49.800901,15.478153,12072,346,9162,2564,,,True,True,CZ
 2020-07-01,DJI,AF,Djibouti,11.808375,42.595222,4682,54,,4628,,,False,False,DJ
 2020-07-01,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-01,DOM,NA,Dominican Republic,18.736509,-70.161744,32568,747,,31821,,,False,False,DO
@@ -21486,6 +21608,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-02,CUB,NA,Cuba,21.527062,-79.544601,2348,86,,2262,,,False,False,CU
 2020-07-02,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-02,CYP,EU,Cyprus,35.167406,33.435499,999,19,,980,,,True,True,CY
+2020-07-02,CZE,EU,Czech Republic,49.800901,15.478153,12204,347,9251,2606,,,True,True,CZ
 2020-07-02,DJI,AF,Djibouti,11.808375,42.595222,4704,55,,4649,,,False,False,DJ
 2020-07-02,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-02,DOM,NA,Dominican Republic,18.736509,-70.161744,33387,754,,32633,,,False,False,DO
@@ -21679,6 +21802,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-03,CUB,NA,Cuba,21.527062,-79.544601,2353,86,,2267,,,False,False,CU
 2020-07-03,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-03,CYP,EU,Cyprus,35.167406,33.435499,999,19,,980,,,True,True,CY
+2020-07-03,CZE,EU,Czech Republic,49.800901,15.478153,12343,347,9335,2661,,,True,True,CZ
 2020-07-03,DNK,EU,Denmark,56.155403,11.617223,12832,606,,12226,,,True,True,DK
 2020-07-03,DJI,AF,Djibouti,11.808375,42.595222,4715,55,,4660,,,False,False,DJ
 2020-07-03,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -21872,6 +21996,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-04,CUB,NA,Cuba,21.527062,-79.544601,2361,86,,2275,,,False,False,CU
 2020-07-04,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-04,CYP,EU,Cyprus,35.167406,33.435499,999,19,,980,,,True,True,CY
+2020-07-04,CZE,EU,Czech Republic,49.800901,15.478153,12464,349,9377,2738,,,True,True,CZ
 2020-07-04,DJI,AF,Djibouti,11.808375,42.595222,4736,55,,4681,,,False,False,DJ
 2020-07-04,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-04,DOM,NA,Dominican Republic,18.736509,-70.161744,35148,775,,34373,,,False,False,DO
@@ -22060,6 +22185,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-05,CUB,NA,Cuba,21.527062,-79.544601,2369,86,,2283,,,False,False,CU
 2020-07-05,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-05,CYP,EU,Cyprus,35.167406,33.435499,1002,19,,983,,,True,True,CY
+2020-07-05,CZE,EU,Czech Republic,49.800901,15.478153,12539,351,9403,2785,,,True,True,CZ
 2020-07-05,DJI,AF,Djibouti,11.808375,42.595222,4736,55,,4681,,,False,False,DJ
 2020-07-05,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-05,DOM,NA,Dominican Republic,18.736509,-70.161744,36184,786,,35398,,,False,False,DO
@@ -22249,6 +22375,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-06,CUB,NA,Cuba,21.527062,-79.544601,2372,86,,2286,,,False,False,CU
 2020-07-06,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-06,CYP,EU,Cyprus,35.167406,33.435499,1003,19,,984,,,True,True,CY
+2020-07-06,CZE,EU,Czech Republic,49.800901,15.478153,12590,352,9440,2798,,,True,True,CZ
 2020-07-06,DNK,EU,Denmark,56.155403,11.617223,12878,607,,12271,,,True,True,DK
 2020-07-06,DJI,AF,Djibouti,11.808375,42.595222,4792,55,,4737,,,False,False,DJ
 2020-07-06,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -22443,6 +22570,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-07,CUB,NA,Cuba,21.527062,-79.544601,2380,86,,2294,,,False,False,CU
 2020-07-07,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-07,CYP,EU,Cyprus,35.167406,33.435499,1004,19,,985,,,True,True,CY
+2020-07-07,CZE,EU,Czech Republic,49.800901,15.478153,12708,352,9540,2816,,,True,True,CZ
 2020-07-07,DNK,EU,Denmark,56.155403,11.617223,12888,609,,12279,,,True,True,DK
 2020-07-07,DJI,AF,Djibouti,11.808375,42.595222,4822,55,,4767,,,False,False,DJ
 2020-07-07,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -22638,6 +22766,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-08,CUB,NA,Cuba,21.527062,-79.544601,2395,86,,2309,,,False,False,CU
 2020-07-08,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-08,CYP,EU,Cyprus,35.167406,33.435499,1005,19,,986,,,True,True,CY
+2020-07-08,CZE,EU,Czech Republic,49.800901,15.478153,12837,352,9776,2709,,,True,True,CZ
 2020-07-08,DJI,AF,Djibouti,11.808375,42.595222,4878,55,,4823,,,False,False,DJ
 2020-07-08,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-08,DOM,NA,Dominican Republic,18.736509,-70.161744,38430,821,,37609,,,False,False,DO
@@ -22832,6 +22961,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-09,CUB,NA,Cuba,21.527062,-79.544601,2399,86,,2313,,,False,False,CU
 2020-07-09,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-09,CYP,EU,Cyprus,35.167406,33.435499,1008,19,,989,,,True,True,CY
+2020-07-09,CZE,EU,Czech Republic,49.800901,15.478153,12942,353,9907,2682,,,True,True,CZ
 2020-07-09,DNK,EU,Denmark,56.155403,11.617223,12916,609,,12307,,,True,True,DK
 2020-07-09,DJI,AF,Djibouti,11.808375,42.595222,4889,55,,4834,,,False,False,DJ
 2020-07-09,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -23027,6 +23157,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-10,CUB,NA,Cuba,21.527062,-79.544601,2403,86,,2317,,,False,False,CU
 2020-07-10,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-10,CYP,EU,Cyprus,35.167406,33.435499,1010,19,,991,,,True,True,CY
+2020-07-10,CZE,EU,Czech Republic,49.800901,15.478153,13083,353,10053,2677,,,True,True,CZ
 2020-07-10,DNK,EU,Denmark,56.155403,11.617223,12946,609,,12337,,,True,True,DK
 2020-07-10,DJI,AF,Djibouti,11.808375,42.595222,4955,56,,4899,,,False,False,DJ
 2020-07-10,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -23222,6 +23353,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-11,CUB,NA,Cuba,21.527062,-79.544601,2413,86,,2327,,,False,False,CU
 2020-07-11,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-11,CYP,EU,Cyprus,35.167406,33.435499,1013,19,,994,,,True,True,CY
+2020-07-11,CZE,EU,Czech Republic,49.800901,15.478153,13136,353,10191,2592,,,True,True,CZ
 2020-07-11,DJI,AF,Djibouti,11.808375,42.595222,4955,56,,4899,,,False,False,DJ
 2020-07-11,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-11,DOM,NA,Dominican Republic,18.736509,-70.161744,41915,864,,41051,,,False,False,DO
@@ -23411,6 +23543,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-12,CUB,NA,Cuba,21.527062,-79.544601,2420,87,,2333,,,False,False,CU
 2020-07-12,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-12,CYP,EU,Cyprus,35.167406,33.435499,1014,19,,995,,,True,True,CY
+2020-07-12,CZE,EU,Czech Republic,49.800901,15.478153,13195,354,10365,2476,,,True,True,CZ
 2020-07-12,DJI,AF,Djibouti,11.808375,42.595222,4955,56,,4899,,,False,False,DJ
 2020-07-12,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-12,DOM,NA,Dominican Republic,18.736509,-70.161744,48114,880,,47234,,,False,False,DO
@@ -23600,6 +23733,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-13,CUB,NA,Cuba,21.527062,-79.544601,2426,87,,2339,,,False,False,CU
 2020-07-13,CUW,NA,Curaçao,12.209209,-68.945576,25,1,,24,,,False,False,CW
 2020-07-13,CYP,EU,Cyprus,35.167406,33.435499,1021,19,,1002,,,True,True,CY
+2020-07-13,CZE,EU,Czech Republic,49.800901,15.478153,13259,355,10630,2274,,,True,True,CZ
 2020-07-13,DNK,EU,Denmark,56.155403,11.617223,13037,610,,12427,,,True,True,DK
 2020-07-13,DJI,AF,Djibouti,11.808375,42.595222,4972,56,,4916,,,False,False,DJ
 2020-07-13,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -23794,6 +23928,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-14,CUB,NA,Cuba,21.527062,-79.544601,2428,87,,2341,,,False,False,CU
 2020-07-14,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-14,CYP,EU,Cyprus,35.167406,33.435499,1022,19,,1003,,,True,True,CY
+2020-07-14,CZE,EU,Czech Republic,49.800901,15.478153,13363,357,10785,2221,,,True,True,CZ
 2020-07-14,DNK,EU,Denmark,56.155403,11.617223,13061,610,,12451,,,True,True,DK
 2020-07-14,DJI,AF,Djibouti,11.808375,42.595222,4977,56,,4921,,,False,False,DJ
 2020-07-14,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -23987,6 +24122,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-15,CUB,NA,Cuba,21.527062,-79.544601,2432,87,,2345,,,False,False,CU
 2020-07-15,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-15,CYP,EU,Cyprus,35.167406,33.435499,1022,19,,1003,,,True,True,CY
+2020-07-15,CZE,EU,Czech Republic,49.800901,15.478153,13497,357,10896,2244,,,True,True,CZ
 2020-07-15,DNK,EU,Denmark,56.155403,11.617223,13092,610,,12482,,,True,True,DK
 2020-07-15,DJI,AF,Djibouti,11.808375,42.595222,4979,56,,4923,,,False,False,DJ
 2020-07-15,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -24181,6 +24317,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-16,CUB,NA,Cuba,21.527062,-79.544601,2438,87,,2351,,,False,False,CU
 2020-07-16,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-16,CYP,EU,Cyprus,35.167406,33.435499,1023,19,,1004,,,True,True,CY
+2020-07-16,CZE,EU,Czech Republic,49.800901,15.478153,13634,357,11026,2251,,,True,True,CZ
 2020-07-16,DNK,EU,Denmark,56.155403,11.617223,13124,610,,12514,,,True,True,DK
 2020-07-16,DJI,AF,Djibouti,11.808375,42.595222,4985,56,,4929,,,False,False,DJ
 2020-07-16,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -24376,6 +24513,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-17,CUB,NA,Cuba,21.527062,-79.544601,2440,87,,2353,,,False,False,CU
 2020-07-17,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-17,CYP,EU,Cyprus,35.167406,33.435499,1031,19,,1012,,,True,True,CY
+2020-07-17,CZE,EU,Czech Republic,49.800901,15.478153,13762,359,11200,2203,,,True,True,CZ
 2020-07-17,DNK,EU,Denmark,56.155403,11.617223,13173,611,,12562,,,True,True,DK
 2020-07-17,DJI,AF,Djibouti,11.808375,42.595222,4993,56,,4937,,,False,False,DJ
 2020-07-17,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -24571,6 +24709,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-18,CUB,NA,Cuba,21.527062,-79.544601,2444,87,,2357,,,False,False,CU
 2020-07-18,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-18,CYP,EU,Cyprus,35.167406,33.435499,1031,19,,1012,,,True,True,CY
+2020-07-18,CZE,EU,Czech Republic,49.800901,15.478153,13874,359,11271,2244,,,True,True,CZ
 2020-07-18,DJI,AF,Djibouti,11.808375,42.595222,5003,56,,4947,,,False,False,DJ
 2020-07-18,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-18,DOM,NA,Dominican Republic,18.736509,-70.161744,50113,942,,49171,,,False,False,DO
@@ -24761,6 +24900,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-19,CUB,NA,Cuba,21.527062,-79.544601,2445,87,,2358,,,False,False,CU
 2020-07-19,CUW,NA,Curaçao,12.209209,-68.945576,26,1,,25,,,False,False,CW
 2020-07-19,CYP,EU,Cyprus,35.167406,33.435499,1037,19,,1018,,,True,True,CY
+2020-07-19,CZE,EU,Czech Republic,49.800901,15.478153,13965,360,11317,2288,,,True,True,CZ
 2020-07-19,DJI,AF,Djibouti,11.808375,42.595222,5003,56,,4947,,,False,False,DJ
 2020-07-19,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-19,DOM,NA,Dominican Republic,18.736509,-70.161744,51519,971,,50548,,,False,False,DO
@@ -24951,6 +25091,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-20,CUB,NA,Cuba,21.527062,-79.544601,2446,87,,2359,,,False,False,CU
 2020-07-20,CUW,NA,Curaçao,12.209209,-68.945576,28,1,,27,,,False,False,CW
 2020-07-20,CYP,EU,Cyprus,35.167406,33.435499,1038,19,,1019,,,True,True,CY
+2020-07-20,CZE,EU,Czech Republic,49.800901,15.478153,14134,360,11430,2344,,,True,True,CZ
 2020-07-20,DNK,EU,Denmark,56.155403,11.617223,13262,611,,12651,,,True,True,DK
 2020-07-20,DJI,AF,Djibouti,11.808375,42.595222,5011,56,,4955,,,False,False,DJ
 2020-07-20,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -25146,6 +25287,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-21,CUB,NA,Cuba,21.527062,-79.544601,2446,87,,2359,,,False,False,CU
 2020-07-21,CUW,NA,Curaçao,12.209209,-68.945576,28,1,,27,,,False,False,CW
 2020-07-21,CYP,EU,Cyprus,35.167406,33.435499,1038,19,,1019,,,True,True,CY
+2020-07-21,CZE,EU,Czech Republic,49.800901,15.478153,14341,362,11535,2444,,,True,True,CZ
 2020-07-21,DNK,EU,Denmark,56.155403,11.617223,13302,611,,12691,,,True,True,DK
 2020-07-21,DJI,AF,Djibouti,11.808375,42.595222,5020,56,,4964,,,False,False,DJ
 2020-07-21,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -25298,6 +25440,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-22,BEL,EU,Belgium,50.499527,4.475402,65265,9813,,55452,191,41,True,True,BE
 2020-07-22,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,8786,261,,8525,,,False,False,BA
 2020-07-22,BGR,EU,Bulgaria,42.729862,25.491667,9254,313,4521,4420,,,True,True,BG
+2020-07-22,CZE,EU,Czech Republic,49.800901,15.478153,14586,364,11637,2585,,,True,True,CZ
 2020-07-22,EST,EU,Estonia,58.596209,25.023778,2022,63,,1959,,,True,True,EE
 2020-07-22,FRA,EU,France,46.232193,2.209667,178336,19656,79957,78723,6366,445,True,True,FR
 2020-07-22,DEU,EU,Germany,51.165706,10.452764,202799,9095,188600,5104,,,True,True,DE
@@ -25356,6 +25499,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-23,CUB,NA,Cuba,21.527062,-79.544601,2462,87,,2375,,,False,False,CU
 2020-07-23,CUW,NA,Curaçao,12.209209,-68.945576,28,1,,27,,,False,False,CW
 2020-07-23,CYP,EU,Cyprus,35.167406,33.435499,1040,19,,1021,,,True,True,CY
+2020-07-23,CZE,EU,Czech Republic,49.800901,15.478153,14817,365,11722,2730,,,True,True,CZ
 2020-07-23,DNK,EU,Denmark,56.155403,11.617223,13390,612,,12778,,,True,True,DK
 2020-07-23,DJI,AF,Djibouti,11.808375,42.595222,5030,58,,4972,,,False,False,DJ
 2020-07-23,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -25550,6 +25694,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-24,CUB,NA,Cuba,21.527062,-79.544601,2466,87,,2379,,,False,False,CU
 2020-07-24,CUW,NA,Curaçao,12.209209,-68.945576,28,1,,27,,,False,False,CW
 2020-07-24,CYP,EU,Cyprus,35.167406,33.435499,1045,19,,1026,,,True,True,CY
+2020-07-24,CZE,EU,Czech Republic,49.800901,15.478153,15095,368,11796,2931,,,True,True,CZ
 2020-07-24,DNK,EU,Denmark,56.155403,11.617223,13438,613,,12825,,,True,True,DK
 2020-07-24,DJI,AF,Djibouti,11.808375,42.595222,5031,58,,4973,,,False,False,DJ
 2020-07-24,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -25737,6 +25882,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-25,CUB,NA,Cuba,21.527062,-79.544601,2469,87,,2382,,,False,False,CU
 2020-07-25,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-25,CYP,EU,Cyprus,35.167406,33.435499,1047,19,,1028,,,True,True,CY
+2020-07-25,CZE,EU,Czech Republic,49.800901,15.478153,15227,370,11853,3004,,,True,True,CZ
 2020-07-25,DJI,AF,Djibouti,11.808375,42.595222,5039,58,,4981,,,False,False,DJ
 2020-07-25,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-25,DOM,NA,Dominican Republic,18.736509,-70.161744,59077,1036,,58041,,,False,False,DO
@@ -25919,6 +26065,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-26,CUB,NA,Cuba,21.527062,-79.544601,2478,87,,2391,,,False,False,CU
 2020-07-26,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-26,CYP,EU,Cyprus,35.167406,33.435499,1053,19,,1034,,,True,True,CY
+2020-07-26,CZE,EU,Czech Republic,49.800901,15.478153,15341,371,11907,3063,,,True,True,CZ
 2020-07-26,DJI,AF,Djibouti,11.808375,42.595222,5039,58,,4981,,,False,False,DJ
 2020-07-26,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-07-26,DOM,NA,Dominican Republic,18.736509,-70.161744,60896,1055,,59841,,,False,False,DO
@@ -26108,6 +26255,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-27,CUB,NA,Cuba,21.527062,-79.544601,2495,87,,2408,,,False,False,CU
 2020-07-27,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-27,CYP,EU,Cyprus,35.167406,33.435499,1057,19,,1038,,,True,True,CY
+2020-07-27,CZE,EU,Czech Republic,49.800901,15.478153,15535,373,12026,3136,,,True,True,CZ
 2020-07-27,DNK,EU,Denmark,56.155403,11.617223,13547,613,,12934,,,True,True,DK
 2020-07-27,DJI,AF,Djibouti,11.808375,42.595222,5050,58,,4992,,,False,False,DJ
 2020-07-27,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -26303,6 +26451,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-28,CUB,NA,Cuba,21.527062,-79.544601,2532,87,,2445,,,False,False,CU
 2020-07-28,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-28,CYP,EU,Cyprus,35.167406,33.435499,1060,19,,1041,,,True,True,CY
+2020-07-28,CZE,EU,Czech Republic,49.800901,15.478153,15813,375,12132,3306,,,True,True,CZ
 2020-07-28,DNK,EU,Denmark,56.155403,11.617223,13577,613,,12964,,,True,True,DK
 2020-07-28,DJI,AF,Djibouti,11.808375,42.595222,5059,58,,5001,,,False,False,DJ
 2020-07-28,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -26498,6 +26647,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-29,CUB,NA,Cuba,21.527062,-79.544601,2555,87,,2468,,,False,False,CU
 2020-07-29,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-29,CYP,EU,Cyprus,35.167406,33.435499,1067,19,,1048,,,True,True,CY
+2020-07-29,CZE,EU,Czech Republic,49.800901,15.478153,16087,377,12247,3463,,,True,True,CZ
 2020-07-29,DNK,EU,Denmark,56.155403,11.617223,13634,614,,13020,,,True,True,DK
 2020-07-29,DJI,AF,Djibouti,11.808375,42.595222,5068,58,,5010,,,False,False,DJ
 2020-07-29,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -26693,6 +26843,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-30,CUB,NA,Cuba,21.527062,-79.544601,2588,87,,2501,,,False,False,CU
 2020-07-30,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-07-30,CYP,EU,Cyprus,35.167406,33.435499,1080,19,,1061,,,True,True,CY
+2020-07-30,CZE,EU,Czech Republic,49.800901,15.478153,16341,379,12389,3573,,,True,True,CZ
 2020-07-30,DNK,EU,Denmark,56.155403,11.617223,13725,615,,13110,,,True,True,DK
 2020-07-30,DJI,AF,Djibouti,11.808375,42.595222,5081,58,,5023,,,False,False,DJ
 2020-07-30,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -26849,6 +27000,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-07-31,BGR,EU,Bulgaria,42.729862,25.491667,11420,374,6173,4873,,,True,True,BG
 2020-07-31,HRV,EU,Croatia,44.48732,16.460306,5137,143,,4994,,,True,True,HR
 2020-07-31,CYP,EU,Cyprus,35.167406,33.435499,1084,19,,1065,,,True,True,CY
+2020-07-31,CZE,EU,Czech Republic,49.800901,15.478153,16572,381,12565,3626,,,True,True,CZ
 2020-07-31,DNK,EU,Denmark,56.155403,11.617223,13789,615,,13174,,,True,True,DK
 2020-07-31,EST,EU,Estonia,58.596209,25.023778,2051,63,,1988,,,True,True,EE
 2020-07-31,FIN,EU,Finland,64.952416,26.068944,7432,329,,7103,,,True,True,FI
@@ -26930,6 +27082,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-01,CUB,NA,Cuba,21.527062,-79.544601,2608,87,,2521,,,False,False,CU
 2020-08-01,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-08-01,CYP,EU,Cyprus,35.167406,33.435499,1114,19,,1095,,,True,True,CY
+2020-08-01,CZE,EU,Czech Republic,49.800901,15.478153,16695,383,12636,3676,,,True,True,CZ
 2020-08-01,DJI,AF,Djibouti,11.808375,42.595222,5081,58,,5023,,,False,False,DJ
 2020-08-01,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-08-01,DOM,NA,Dominican Republic,18.736509,-70.161744,69649,1160,,68489,,,False,False,DO
@@ -27119,6 +27272,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-02,CUB,NA,Cuba,21.527062,-79.544601,2633,87,,2546,,,False,False,CU
 2020-08-02,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-08-02,CYP,EU,Cyprus,35.167406,33.435499,1124,19,,1105,,,True,True,CY
+2020-08-02,CZE,EU,Czech Republic,49.800901,15.478153,16796,385,12721,3690,,,True,True,CZ
 2020-08-02,DJI,AF,Djibouti,11.808375,42.595222,5081,58,,5023,,,False,False,DJ
 2020-08-02,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-08-02,DOM,NA,Dominican Republic,18.736509,-70.161744,71415,1170,,70245,,,False,False,DO
@@ -27308,6 +27462,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-03,CUB,NA,Cuba,21.527062,-79.544601,2646,87,,2559,,,False,False,CU
 2020-08-03,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-08-03,CYP,EU,Cyprus,35.167406,33.435499,1150,19,,1131,,,True,True,CY
+2020-08-03,CZE,EU,Czech Republic,49.800901,15.478153,17004,387,12931,3686,,,True,True,CZ
 2020-08-03,DNK,EU,Denmark,56.155403,11.617223,13996,616,,13380,,,True,True,DK
 2020-08-03,DJI,AF,Djibouti,11.808375,42.595222,5161,59,,5102,,,False,False,DJ
 2020-08-03,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -27503,6 +27658,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-04,CUB,NA,Cuba,21.527062,-79.544601,2670,87,,2583,,,False,False,CU
 2020-08-04,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-08-04,CYP,EU,Cyprus,35.167406,33.435499,1155,19,,1136,,,True,True,CY
+2020-08-04,CZE,EU,Czech Republic,49.800901,15.478153,17291,389,13145,3757,,,True,True,CZ
 2020-08-04,DNK,EU,Denmark,56.155403,11.617223,14073,616,,13457,,,True,True,DK
 2020-08-04,DJI,AF,Djibouti,11.808375,42.595222,5240,59,,5181,,,False,False,DJ
 2020-08-04,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -27697,6 +27853,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-05,CUB,NA,Cuba,21.527062,-79.544601,2701,88,,2613,,,False,False,CU
 2020-08-05,CUW,NA,Curaçao,12.209209,-68.945576,29,1,,28,,,False,False,CW
 2020-08-05,CYP,EU,Cyprus,35.167406,33.435499,1180,19,,1161,,,True,True,CY
+2020-08-05,CZE,EU,Czech Republic,49.800901,15.478153,17531,390,13329,3812,,,True,True,CZ
 2020-08-05,DNK,EU,Denmark,56.155403,11.617223,14185,616,,13569,,,True,True,DK
 2020-08-05,DJI,AF,Djibouti,11.808375,42.595222,5248,59,,5189,,,False,False,DJ
 2020-08-05,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -27891,6 +28048,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-06,CUB,NA,Cuba,21.527062,-79.544601,2726,88,,2638,,,False,False,CU
 2020-08-06,CUW,NA,Curaçao,12.209209,-68.945576,31,1,,30,,,False,False,CW
 2020-08-06,CYP,EU,Cyprus,35.167406,33.435499,1180,19,,1161,,,True,True,CY
+2020-08-06,CZE,EU,Czech Republic,49.800901,15.478153,17746,391,13545,3810,,,True,True,CZ
 2020-08-06,DNK,EU,Denmark,56.155403,11.617223,14306,617,,13689,,,True,True,DK
 2020-08-06,DJI,AF,Djibouti,11.808375,42.595222,5330,59,,5271,,,False,False,DJ
 2020-08-06,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -28086,6 +28244,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-07,CUB,NA,Cuba,21.527062,-79.544601,2775,88,,2687,,,False,False,CU
 2020-08-07,CUW,NA,Curaçao,12.209209,-68.945576,31,1,,30,,,False,False,CW
 2020-08-07,CYP,EU,Cyprus,35.167406,33.435499,1195,19,,1176,,,True,True,CY
+2020-08-07,CZE,EU,Czech Republic,49.800901,15.478153,18069,391,13796,3882,,,True,True,CZ
 2020-08-07,DNK,EU,Denmark,56.155403,11.617223,14442,617,,13825,,,True,True,DK
 2020-08-07,DJI,AF,Djibouti,11.808375,42.595222,5334,59,,5275,,,False,False,DJ
 2020-08-07,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -28280,6 +28439,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-08,CUB,NA,Cuba,21.527062,-79.544601,2829,88,,2741,,,False,False,CU
 2020-08-08,CUW,NA,Curaçao,12.209209,-68.945576,31,1,,30,,,False,False,CW
 2020-08-08,CYP,EU,Cyprus,35.167406,33.435499,1208,19,,1189,,,True,True,CY
+2020-08-08,CZE,EU,Czech Republic,49.800901,15.478153,18242,391,13908,3943,,,True,True,CZ
 2020-08-08,DJI,AF,Djibouti,11.808375,42.595222,5338,59,,5279,,,False,False,DJ
 2020-08-08,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-08-08,DOM,NA,Dominican Republic,18.736509,-70.161744,77709,1259,,76450,,,False,False,DO
@@ -28444,6 +28604,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-09,COM,AF,Comoros,,,399,7,,392,,,False,False,KM
 2020-08-09,HRV,EU,Croatia,44.48732,16.460306,5604,157,,5447,,,True,True,HR
 2020-08-09,CYP,EU,Cyprus,35.167406,33.435499,1233,19,,1214,,,True,True,CY
+2020-08-09,CZE,EU,Czech Republic,49.800901,15.478153,18364,392,13964,4008,,,True,True,CZ
 2020-08-09,DJI,AF,Djibouti,11.808375,42.595222,5338,59,,5279,,,False,False,DJ
 2020-08-09,EGY,AF,Egypt,26.696361,30.246486,95314,4992,,90322,,,False,False,EG
 2020-08-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,4821,83,,4738,,,False,False,GQ
@@ -28560,6 +28721,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-10,CUB,NA,Cuba,21.527062,-79.544601,2953,88,,2865,,,False,False,CU
 2020-08-10,CUW,NA,Curaçao,12.209209,-68.945576,31,1,,30,,,False,False,CW
 2020-08-10,CYP,EU,Cyprus,35.167406,33.435499,1233,19,,1214,,,True,True,CY
+2020-08-10,CZE,EU,Czech Republic,49.800901,15.478153,18504,392,14256,3856,,,True,True,CZ
 2020-08-10,DNK,EU,Denmark,56.155403,11.617223,14815,620,,14195,,,True,True,DK
 2020-08-10,DJI,AF,Djibouti,11.808375,42.595222,5344,59,,5285,,,False,False,DJ
 2020-08-10,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -28755,6 +28917,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-11,CUB,NA,Cuba,21.527062,-79.544601,3046,88,,2958,,,False,False,CU
 2020-08-11,CUW,NA,Curaçao,12.209209,-68.945576,32,1,,31,,,False,False,CW
 2020-08-11,CYP,EU,Cyprus,35.167406,33.435499,1252,19,,1233,,,True,True,CY
+2020-08-11,CZE,EU,Czech Republic,49.800901,15.478153,18792,394,14502,3896,,,True,True,CZ
 2020-08-11,DNK,EU,Denmark,56.155403,11.617223,14959,621,,14338,,,True,True,DK
 2020-08-11,DJI,AF,Djibouti,11.808375,42.595222,5347,59,,5288,,,False,False,DJ
 2020-08-11,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -28950,6 +29113,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-12,CUB,NA,Cuba,21.527062,-79.544601,3093,88,,3005,,,False,False,CU
 2020-08-12,CUW,NA,Curaçao,12.209209,-68.945576,32,1,,31,,,False,False,CW
 2020-08-12,CYP,EU,Cyprus,35.167406,33.435499,1277,20,,1257,,,True,True,CY
+2020-08-12,CZE,EU,Czech Republic,49.800901,15.478153,19081,394,14726,3961,,,True,True,CZ
 2020-08-12,DNK,EU,Denmark,56.155403,11.617223,15070,621,,14449,,,True,True,DK
 2020-08-12,DJI,AF,Djibouti,11.808375,42.595222,5348,59,,5289,,,False,False,DJ
 2020-08-12,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -29145,6 +29309,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-13,CUB,NA,Cuba,21.527062,-79.544601,3128,88,,3040,,,False,False,CU
 2020-08-13,CUW,NA,Curaçao,12.209209,-68.945576,32,1,,31,,,False,False,CW
 2020-08-13,CYP,EU,Cyprus,35.167406,33.435499,1291,20,,1271,,,True,True,CY
+2020-08-13,CZE,EU,Czech Republic,49.800901,15.478153,19410,395,14941,4074,,,True,True,CZ
 2020-08-13,DNK,EU,Denmark,56.155403,11.617223,15214,621,,14593,,,True,True,DK
 2020-08-13,DJI,AF,Djibouti,11.808375,42.595222,5358,59,,5299,,,False,False,DJ
 2020-08-13,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -29330,6 +29495,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-14,CUB,NA,Cuba,21.527062,-79.544601,3174,89,,3085,,,False,False,CU
 2020-08-14,CUW,NA,Curaçao,12.209209,-68.945576,32,1,,31,,,False,False,CW
 2020-08-14,CYP,EU,Cyprus,35.167406,33.435499,1291,20,,1271,,,True,True,CY
+2020-08-14,CZE,EU,Czech Republic,49.800901,15.478153,19701,397,15170,4134,,,True,True,CZ
 2020-08-14,DNK,EU,Denmark,56.155403,11.617223,15379,621,,14758,,,True,True,DK
 2020-08-14,DJI,AF,Djibouti,11.808375,42.595222,5358,59,,5299,,,False,False,DJ
 2020-08-14,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -29478,6 +29644,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-15,CUB,NA,Cuba,21.527062,-79.544601,3229,88,,3141,,,False,False,CU
 2020-08-15,CUW,NA,Curaçao,12.209209,-68.945576,32,1,,31,,,False,False,CW
 2020-08-15,CYP,EU,Cyprus,35.167406,33.435499,1318,20,,1298,,,True,True,CY
+2020-08-15,CZE,EU,Czech Republic,49.800901,15.478153,19898,399,15272,4227,,,True,True,CZ
 2020-08-15,DJI,AF,Djibouti,11.808375,42.595222,5367,59,,5308,,,False,False,DJ
 2020-08-15,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-08-15,DOM,NA,Dominican Republic,18.736509,-70.161744,84488,1409,,83079,,,False,False,DO
@@ -29669,6 +29836,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-16,CUB,NA,Cuba,21.527062,-79.544601,3292,88,,3204,,,False,False,CU
 2020-08-16,CUW,NA,Curaçao,12.209209,-68.945576,33,1,,32,,,False,False,CW
 2020-08-16,CYP,EU,Cyprus,35.167406,33.435499,1332,20,,1312,,,True,True,CY
+2020-08-16,CZE,EU,Czech Republic,49.800901,15.478153,20019,401,15346,4272,,,True,True,CZ
 2020-08-16,DJI,AF,Djibouti,11.808375,42.595222,5367,59,,5308,,,False,False,DJ
 2020-08-16,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
 2020-08-16,DOM,NA,Dominican Republic,18.736509,-70.161744,85545,1438,,84107,,,False,False,DO
@@ -29860,6 +30028,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-17,CUB,NA,Cuba,21.527062,-79.544601,3316,88,,3228,,,False,False,CU
 2020-08-17,CUW,NA,Curaçao,12.209209,-68.945576,34,1,,33,,,False,False,CW
 2020-08-17,CYP,EU,Cyprus,35.167406,33.435499,1332,20,,1312,,,True,True,CY
+2020-08-17,CZE,EU,Czech Republic,49.800901,15.478153,20210,405,15613,4192,,,True,True,CZ
 2020-08-17,DNK,EU,Denmark,56.155403,11.617223,15740,621,,15119,,,True,True,DK
 2020-08-17,DJI,AF,Djibouti,11.808375,42.595222,5369,59,,5310,,,False,False,DJ
 2020-08-17,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -30055,6 +30224,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-18,CUB,NA,Cuba,21.527062,-79.544601,3364,88,,3276,,,False,False,CU
 2020-08-18,CUW,NA,Curaçao,12.209209,-68.945576,36,1,,35,,,False,False,CW
 2020-08-18,CYP,EU,Cyprus,35.167406,33.435499,1351,20,,1331,,,True,True,CY
+2020-08-18,CZE,EU,Czech Republic,49.800901,15.478153,20491,405,15875,4211,,,True,True,CZ
 2020-08-18,DNK,EU,Denmark,56.155403,11.617223,15855,621,,15234,,,True,True,DK
 2020-08-18,DJI,AF,Djibouti,11.808375,42.595222,5372,59,,5313,,,False,False,DJ
 2020-08-18,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -30249,6 +30419,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-19,CUB,NA,Cuba,21.527062,-79.544601,3408,88,,3320,,,False,False,CU
 2020-08-19,CUW,NA,Curaçao,12.209209,-68.945576,36,1,,35,,,False,False,CW
 2020-08-19,CYP,EU,Cyprus,35.167406,33.435499,1359,20,,1339,,,True,True,CY
+2020-08-19,CZE,EU,Czech Republic,49.800901,15.478153,20804,408,16134,4262,,,True,True,CZ
 2020-08-19,DNK,EU,Denmark,56.155403,11.617223,15940,621,,15319,,,True,True,DK
 2020-08-19,DJI,AF,Djibouti,11.808375,42.595222,5374,59,,5315,,,False,False,DJ
 2020-08-19,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -30443,6 +30614,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-20,CUB,NA,Cuba,21.527062,-79.544601,3482,88,,3394,,,False,False,CU
 2020-08-20,CUW,NA,Curaçao,12.209209,-68.945576,36,1,,35,,,False,False,CW
 2020-08-20,CYP,EU,Cyprus,35.167406,33.435499,1385,21,,1364,,,True,True,CY
+2020-08-20,CZE,EU,Czech Republic,49.800901,15.478153,21050,411,16361,4278,,,True,True,CZ
 2020-08-20,DNK,EU,Denmark,56.155403,11.617223,16056,621,,15435,,,True,True,DK
 2020-08-20,DJI,AF,Djibouti,11.808375,42.595222,5374,59,,5315,,,False,False,DJ
 2020-08-20,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -30624,6 +30796,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-21,HRV,EU,Croatia,44.48732,16.460306,7594,169,,7425,,,True,True,HR
 2020-08-21,CUB,NA,Cuba,21.527062,-79.544601,3565,88,,3477,,,False,False,CU
 2020-08-21,CUW,NA,Curaçao,12.209209,-68.945576,35,1,,34,,,False,False,CW
+2020-08-21,CZE,EU,Czech Republic,49.800901,15.478153,21554,414,16611,4529,,,True,True,CZ
 2020-08-21,DNK,EU,Denmark,56.155403,11.617223,16127,621,,15506,,,True,True,DK
 2020-08-21,DJI,AF,Djibouti,11.808375,42.595222,5374,59,,5315,,,False,False,DJ
 2020-08-21,DMA,NA,Dominica,15.416749,-61.36413,18,0,,18,,,False,False,DM
@@ -30710,6 +30883,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-21,ZMB,AF,Zambia,-13.151917,27.852537,10372,274,,10098,,,False,False,ZM
 2020-08-21,ZWE,AF,Zimbabwe,-19.013286,29.146666,5745,151,,5594,,,False,False,ZW
 2020-08-22,BEL,EU,Belgium,50.499527,4.475402,81936,9991,,71945,310,85,True,True,BE
+2020-08-22,CZE,EU,Czech Republic,49.800901,15.478153,21788,414,16728,4646,,,True,True,CZ
 2020-08-22,FRA,EU,France,46.232193,2.209667,238002,20001,84950,133051,4711,380,True,True,FR
 2020-08-22,HUN,EU,Hungary,47.164638,19.508944,5133,611,3692,830,60,7,True,True,HU
 2020-08-22,ITA,EU,Italy,41.873987,12.564167,258136,35430,205203,17503,988,64,True,True,IT
@@ -30761,6 +30935,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-23,CUB,NA,Cuba,21.527062,-79.544601,3617,89,,3528,,,False,False,CU
 2020-08-23,CUW,NA,Curaçao,12.209209,-68.945576,37,1,,36,,,False,False,CW
 2020-08-23,CYP,EU,Cyprus,35.167406,33.435499,1417,21,,1396,,,True,True,CY
+2020-08-23,CZE,EU,Czech Republic,49.800901,15.478153,21924,417,16813,4694,,,True,True,CZ
 2020-08-23,DJI,AF,Djibouti,11.808375,42.595222,5382,60,,5322,,,False,False,DJ
 2020-08-23,DMA,NA,Dominica,15.416749,-61.36413,19,0,,19,,,False,False,DM
 2020-08-23,DOM,NA,Dominican Republic,18.736509,-70.161744,90561,1554,,89007,,,False,False,DO
@@ -30952,6 +31127,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-24,CUB,NA,Cuba,21.527062,-79.544601,3717,91,,3626,,,False,False,CU
 2020-08-24,CUW,NA,Curaçao,12.209209,-68.945576,47,1,,46,,,False,False,CW
 2020-08-24,CYP,EU,Cyprus,35.167406,33.435499,1421,21,,1400,,,True,True,CY
+2020-08-24,CZE,EU,Czech Republic,49.800901,15.478153,22183,418,17084,4681,,,True,True,CZ
 2020-08-24,DNK,EU,Denmark,56.155403,11.617223,16397,623,,15774,,,True,True,DK
 2020-08-24,DJI,AF,Djibouti,11.808375,42.595222,5383,60,,5323,,,False,False,DJ
 2020-08-24,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -31109,6 +31285,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-25,BGR,EU,Bulgaria,42.729862,25.491667,15386,563,10497,4326,,,True,True,BG
 2020-08-25,HRV,EU,Croatia,44.48732,16.460306,8530,175,,8355,,,True,True,HR
 2020-08-25,CYP,EU,Cyprus,35.167406,33.435499,1460,21,,1439,,,True,True,CY
+2020-08-25,CZE,EU,Czech Republic,49.800901,15.478153,22547,420,17350,4777,,,True,True,CZ
 2020-08-25,DNK,EU,Denmark,56.155403,11.617223,16480,623,,15857,,,True,True,DK
 2020-08-25,EST,EU,Estonia,58.596209,25.023778,2275,64,,2211,,,True,True,EE
 2020-08-25,FIN,EU,Finland,64.952416,26.068944,7981,335,,7646,,,True,True,FI
@@ -31188,6 +31365,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-26,CUB,NA,Cuba,21.527062,-79.544601,3744,91,,3653,,,False,False,CU
 2020-08-26,CUW,NA,Curaçao,12.209209,-68.945576,47,1,,46,,,False,False,CW
 2020-08-26,CYP,EU,Cyprus,35.167406,33.435499,1474,21,,1453,,,True,True,CY
+2020-08-26,CZE,EU,Czech Republic,49.800901,15.478153,22942,421,17612,4909,,,True,True,CZ
 2020-08-26,DNK,EU,Denmark,56.155403,11.617223,16537,623,,15914,,,True,True,DK
 2020-08-26,DJI,AF,Djibouti,11.808375,42.595222,5383,60,,5323,,,False,False,DJ
 2020-08-26,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -31381,6 +31559,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-27,CUB,NA,Cuba,21.527062,-79.544601,3759,92,,3667,,,False,False,CU
 2020-08-27,CUW,NA,Curaçao,12.209209,-68.945576,49,1,,48,,,False,False,CW
 2020-08-27,CYP,EU,Cyprus,35.167406,33.435499,1484,21,,1463,,,True,True,CY
+2020-08-27,CZE,EU,Czech Republic,49.800901,15.478153,23292,421,17923,4948,,,True,True,CZ
 2020-08-27,DNK,EU,Denmark,56.155403,11.617223,16627,624,,16003,,,True,True,DK
 2020-08-27,DJI,AF,Djibouti,11.808375,42.595222,5383,60,,5323,,,False,False,DJ
 2020-08-27,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -31575,6 +31754,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-28,CUB,NA,Cuba,21.527062,-79.544601,3806,92,,3714,,,False,False,CU
 2020-08-28,CUW,NA,Curaçao,12.209209,-68.945576,53,1,,52,,,False,False,CW
 2020-08-28,CYP,EU,Cyprus,35.167406,33.435499,1484,21,,1463,,,True,True,CY
+2020-08-28,CZE,EU,Czech Republic,49.800901,15.478153,23777,421,18175,5181,,,True,True,CZ
 2020-08-28,DNK,EU,Denmark,56.155403,11.617223,16700,624,,16076,,,True,True,DK
 2020-08-28,DJI,AF,Djibouti,11.808375,42.595222,5383,60,,5323,,,False,False,DJ
 2020-08-28,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -31766,6 +31946,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-29,CUB,NA,Cuba,21.527062,-79.544601,3866,92,,3774,,,False,False,CU
 2020-08-29,CUW,NA,Curaçao,12.209209,-68.945576,57,1,,56,,,False,False,CW
 2020-08-29,CYP,EU,Cyprus,35.167406,33.435499,1481,21,,1460,,,True,True,CY
+2020-08-29,CZE,EU,Czech Republic,49.800901,15.478153,24097,424,18297,5376,,,True,True,CZ
 2020-08-29,DJI,AF,Djibouti,11.808375,42.595222,5439,60,,5379,,,False,False,DJ
 2020-08-29,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
 2020-08-29,DOM,NA,Dominican Republic,18.736509,-70.161744,93390,1648,,91742,,,False,False,DO
@@ -31956,6 +32137,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-30,CUB,NA,Cuba,21.527062,-79.544601,3925,94,,3831,,,False,False,CU
 2020-08-30,CUW,NA,Curaçao,12.209209,-68.945576,57,1,,56,,,False,False,CW
 2020-08-30,CYP,EU,Cyprus,35.167406,33.435499,1483,21,,1462,,,True,True,CY
+2020-08-30,CZE,EU,Czech Republic,49.800901,15.478153,24371,425,18386,5560,,,True,True,CZ
 2020-08-30,DJI,AF,Djibouti,11.808375,42.595222,5385,60,,5325,,,False,False,DJ
 2020-08-30,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
 2020-08-30,DOM,NA,Dominican Republic,18.736509,-70.161744,93732,1673,,92059,,,False,False,DO
@@ -32148,6 +32330,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-08-31,CUB,NA,Cuba,21.527062,-79.544601,3973,94,,3879,,,False,False,CU
 2020-08-31,CUW,NA,Curaçao,12.209209,-68.945576,57,1,,56,,,False,False,CW
 2020-08-31,CYP,EU,Cyprus,35.167406,33.435499,1487,21,,1466,,,True,True,CY
+2020-08-31,CZE,EU,Czech Republic,49.800901,15.478153,24627,426,18700,5501,,,True,True,CZ
 2020-08-31,DNK,EU,Denmark,56.155403,11.617223,16985,624,,16361,,,True,True,DK
 2020-08-31,DJI,AF,Djibouti,11.808375,42.595222,5385,60,,5325,,,False,False,DJ
 2020-08-31,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -32343,6 +32526,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-01,CUB,NA,Cuba,21.527062,-79.544601,4032,94,,3938,,,False,False,CU
 2020-09-01,CUW,NA,Curaçao,12.209209,-68.945576,68,1,,67,,,False,False,CW
 2020-09-01,CYP,EU,Cyprus,35.167406,33.435499,1488,21,,1467,,,True,True,CY
+2020-09-01,CZE,EU,Czech Republic,49.800901,15.478153,25126,427,18961,5738,,,True,True,CZ
 2020-09-01,DNK,EU,Denmark,56.155403,11.617223,17084,625,,16459,,,True,True,DK
 2020-09-01,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-01,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -32538,6 +32722,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-02,CUB,NA,Cuba,21.527062,-79.544601,4065,95,,3970,,,False,False,CU
 2020-09-02,CUW,NA,Curaçao,12.209209,-68.945576,68,1,,67,,,False,False,CW
 2020-09-02,CYP,EU,Cyprus,35.167406,33.435499,1490,21,,1469,,,True,True,CY
+2020-09-02,CZE,EU,Czech Republic,49.800901,15.478153,25771,427,19270,6074,,,True,True,CZ
 2020-09-02,DNK,EU,Denmark,56.155403,11.617223,17195,626,,16569,,,True,True,DK
 2020-09-02,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-02,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -32733,6 +32918,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-03,CUB,NA,Cuba,21.527062,-79.544601,4126,98,,4028,,,False,False,CU
 2020-09-03,CUW,NA,Curaçao,12.209209,-68.945576,68,1,,67,,,False,False,CW
 2020-09-03,CYP,EU,Cyprus,35.167406,33.435499,1495,21,,1474,,,True,True,CY
+2020-09-03,CZE,EU,Czech Republic,49.800901,15.478153,26446,430,19619,6397,,,True,True,CZ
 2020-09-03,DNK,EU,Denmark,56.155403,11.617223,17374,626,,16748,,,True,True,DK
 2020-09-03,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-03,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -32928,6 +33114,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-04,CUB,NA,Cuba,21.527062,-79.544601,4214,100,,4114,,,False,False,CU
 2020-09-04,CUW,NA,Curaçao,12.209209,-68.945576,75,1,,74,,,False,False,CW
 2020-09-04,CYP,EU,Cyprus,35.167406,33.435499,1498,21,,1477,,,True,True,CY
+2020-09-04,CZE,EU,Czech Republic,49.800901,15.478153,27243,433,19938,6872,,,True,True,CZ
 2020-09-04,DNK,EU,Denmark,56.155403,11.617223,17547,627,,16920,,,True,True,DK
 2020-09-04,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-04,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -33122,6 +33309,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-05,CUB,NA,Cuba,21.527062,-79.544601,4266,100,,4166,,,False,False,CU
 2020-09-05,CUW,NA,Curaçao,12.209209,-68.945576,78,1,,77,,,False,False,CW
 2020-09-05,CYP,EU,Cyprus,35.167406,33.435499,1498,21,,1477,,,True,True,CY
+2020-09-05,CZE,EU,Czech Republic,49.800901,15.478153,27748,438,20092,7218,,,True,True,CZ
 2020-09-05,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-05,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
 2020-09-05,DOM,NA,Dominican Republic,18.736509,-70.161744,96629,1801,,94828,,,False,False,DO
@@ -33311,6 +33499,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-06,CUB,NA,Cuba,21.527062,-79.544601,4298,100,,4198,,,False,False,CU
 2020-09-06,CUW,NA,Curaçao,12.209209,-68.945576,88,1,,87,,,False,False,CW
 2020-09-06,CYP,EU,Cyprus,35.167406,33.435499,1507,21,,1486,,,True,True,CY
+2020-09-06,CZE,EU,Czech Republic,49.800901,15.478153,28158,441,20212,7505,,,True,True,CZ
 2020-09-06,DJI,AF,Djibouti,11.808375,42.595222,5387,60,,5327,,,False,False,DJ
 2020-09-06,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
 2020-09-06,DOM,NA,Dominican Republic,18.736509,-70.161744,98776,1840,,96936,,,False,False,DO
@@ -33489,6 +33678,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-07,CUB,NA,Cuba,21.527062,-79.544601,4309,101,,4208,,,False,False,CU
 2020-09-07,CUW,NA,Curaçao,12.209209,-68.945576,92,1,,91,,,False,False,CW
 2020-09-07,CYP,EU,Cyprus,35.167406,33.435499,1509,21,,1488,,,True,True,CY
+2020-09-07,CZE,EU,Czech Republic,49.800901,15.478153,28719,443,20614,7662,,,True,True,CZ
 2020-09-07,DNK,EU,Denmark,56.155403,11.617223,18113,628,,17485,,,True,True,DK
 2020-09-07,DJI,AF,Djibouti,11.808375,42.595222,5388,61,,5327,,,False,False,DJ
 2020-09-07,DOM,NA,Dominican Republic,18.736509,-70.161744,99333,1845,,97488,,,False,False,DO
@@ -33651,6 +33841,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-08,CUB,NA,Cuba,21.527062,-79.544601,4352,102,,4250,,,False,False,CU
 2020-09-08,CUW,NA,Curaçao,12.209209,-68.945576,102,1,,101,,,False,False,CW
 2020-09-08,CYP,EU,Cyprus,35.167406,33.435499,1510,21,,1489,,,True,True,CY
+2020-09-08,CZE,EU,Czech Republic,49.800901,15.478153,29880,448,20945,8487,,,True,True,CZ
 2020-09-08,DNK,EU,Denmark,56.155403,11.617223,18356,628,,17728,,,True,True,DK
 2020-09-08,DJI,AF,Djibouti,11.808375,42.595222,5388,61,,5327,,,False,False,DJ
 2020-09-08,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -33846,6 +34037,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-09,CUB,NA,Cuba,21.527062,-79.544601,4377,104,,4273,,,False,False,CU
 2020-09-09,CUW,NA,Curaçao,12.209209,-68.945576,107,1,,106,,,False,False,CW
 2020-09-09,CYP,EU,Cyprus,35.167406,33.435499,1511,21,,1490,,,True,True,CY
+2020-09-09,CZE,EU,Czech Republic,49.800901,15.478153,31038,451,21323,9264,,,True,True,CZ
 2020-09-09,DNK,EU,Denmark,56.155403,11.617223,18607,628,,17979,,,True,True,DK
 2020-09-09,DJI,AF,Djibouti,11.808375,42.595222,5388,61,,5327,,,False,False,DJ
 2020-09-09,DMA,NA,Dominica,15.416749,-61.36413,20,0,,20,,,False,False,DM
@@ -34041,6 +34233,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-10,CUB,NA,Cuba,21.527062,-79.544601,4459,104,,4355,,,False,False,CU
 2020-09-10,CUW,NA,Curaçao,12.209209,-68.945576,116,1,,115,,,False,False,CW
 2020-09-10,CYP,EU,Cyprus,35.167406,33.435499,1514,21,,1493,,,True,True,CY
+2020-09-10,CZE,EU,Czech Republic,49.800901,15.478153,32420,456,21861,10103,,,True,True,CZ
 2020-09-10,DNK,EU,Denmark,56.155403,11.617223,18924,629,,18295,,,True,True,DK
 2020-09-10,DJI,AF,Djibouti,11.808375,42.595222,5391,61,,5330,,,False,False,DJ
 2020-09-10,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -34234,6 +34427,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-11,CUB,NA,Cuba,21.527062,-79.544601,4551,106,,4445,,,False,False,CU
 2020-09-11,CUW,NA,Curaçao,12.209209,-68.945576,131,1,,130,,,False,False,CW
 2020-09-11,CYP,EU,Cyprus,35.167406,33.435499,1517,21,,1496,,,True,True,CY
+2020-09-11,CZE,EU,Czech Republic,49.800901,15.478153,33863,459,22713,10691,,,True,True,CZ
 2020-09-11,DNK,EU,Denmark,56.155403,11.617223,19216,629,,18587,,,True,True,DK
 2020-09-11,DJI,AF,Djibouti,11.808375,42.595222,5394,61,,5333,,,False,False,DJ
 2020-09-11,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -34391,6 +34585,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-12,BGR,EU,Bulgaria,42.729862,25.491667,17799,713,12750,4336,,,True,True,BG
 2020-09-12,HRV,EU,Croatia,44.48732,16.460306,13368,218,,13150,,,True,True,HR
 2020-09-12,CYP,EU,Cyprus,35.167406,33.435499,1520,21,,1499,,,True,True,CY
+2020-09-12,CZE,EU,Czech Republic,49.800901,15.478153,35400,465,23409,11526,,,True,True,CZ
 2020-09-12,EST,EU,Estonia,58.596209,25.023778,2632,64,,2568,,,True,True,EE
 2020-09-12,FIN,EU,Finland,64.952416,26.068944,8557,337,,8220,,,True,True,FI
 2020-09-12,FRA,EU,France,46.232193,2.209667,373911,20395,89231,264285,5195,662,True,True,FR
@@ -34431,6 +34626,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-13,BGR,EU,Bulgaria,42.729862,25.491667,17891,717,12758,4416,,,True,True,BG
 2020-09-13,HRV,EU,Croatia,44.48732,16.460306,13533,224,,13309,,,True,True,HR
 2020-09-13,CYP,EU,Cyprus,35.167406,33.435499,1523,21,,1502,,,True,True,CY
+2020-09-13,CZE,EU,Czech Republic,49.800901,15.478153,36191,470,24093,11628,,,True,True,CZ
 2020-09-13,EST,EU,Estonia,58.596209,25.023778,2655,64,,2591,,,True,True,EE
 2020-09-13,FIN,EU,Finland,64.952416,26.068944,8580,337,,8243,,,True,True,FI
 2020-09-13,FRA,EU,France,46.232193,2.209667,381094,20401,89270,271423,5247,669,True,True,FR
@@ -34507,6 +34703,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-14,CUB,NA,Cuba,21.527062,-79.544601,4684,108,,4576,,,False,False,CU
 2020-09-14,CUW,NA,Curaçao,12.209209,-68.945576,157,1,,156,,,False,False,CW
 2020-09-14,CYP,EU,Cyprus,35.167406,33.435499,1526,21,,1505,,,True,True,CY
+2020-09-14,CZE,EU,Czech Republic,49.800901,15.478153,37219,476,25058,11685,,,True,True,CZ
 2020-09-14,DJI,AF,Djibouti,11.808375,42.595222,5395,61,,5334,,,False,False,DJ
 2020-09-14,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-14,DOM,NA,Dominican Republic,18.736509,-70.161744,103660,1968,,101692,,,False,False,DO
@@ -34701,6 +34898,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-15,CUB,NA,Cuba,21.527062,-79.544601,4726,108,,4618,,,False,False,CU
 2020-09-15,CUW,NA,Curaçao,12.209209,-68.945576,157,1,,156,,,False,False,CW
 2020-09-15,CYP,EU,Cyprus,35.167406,33.435499,1534,22,,1512,,,True,True,CY
+2020-09-15,CZE,EU,Czech Republic,49.800901,15.478153,38893,486,25588,12819,,,True,True,CZ
 2020-09-15,DNK,EU,Denmark,56.155403,11.617223,20571,633,16557,3381,55,,True,True,DK
 2020-09-15,DJI,AF,Djibouti,11.808375,42.595222,5396,61,,5335,,,False,False,DJ
 2020-09-15,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -34895,6 +35093,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-16,CUB,NA,Cuba,21.527062,-79.544601,4803,108,,4695,,,False,False,CU
 2020-09-16,CUW,NA,Curaçao,12.209209,-68.945576,169,1,,168,,,False,False,CW
 2020-09-16,CYP,EU,Cyprus,35.167406,33.435499,1540,22,,1518,,,True,True,CY
+2020-09-16,CZE,EU,Czech Republic,49.800901,15.478153,41026,493,25893,14640,,,True,True,CZ
 2020-09-16,DJI,AF,Djibouti,11.808375,42.595222,5396,61,,5335,,,False,False,DJ
 2020-09-16,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-16,DOM,NA,Dominican Republic,18.736509,-70.161744,104803,1998,,102805,,,False,False,DO
@@ -35089,6 +35288,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-17,CUB,NA,Cuba,21.527062,-79.544601,4876,109,,4767,,,False,False,CU
 2020-09-17,CUW,NA,Curaçao,12.209209,-68.945576,192,1,,191,,,False,False,CW
 2020-09-17,CYP,EU,Cyprus,35.167406,33.435499,1548,22,,1526,,,True,True,CY
+2020-09-17,CZE,EU,Czech Republic,49.800901,15.478153,44151,500,26712,16939,,,True,True,CZ
 2020-09-17,DJI,AF,Djibouti,11.808375,42.595222,5399,61,,5338,,,False,False,DJ
 2020-09-17,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-17,DOM,NA,Dominican Republic,18.736509,-70.161744,105521,2009,,103512,,,False,False,DO
@@ -35282,6 +35482,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-18,CUB,NA,Cuba,21.527062,-79.544601,4933,109,,4824,,,False,False,CU
 2020-09-18,CUW,NA,Curaçao,12.209209,-68.945576,210,1,,209,,,False,False,CW
 2020-09-18,CYP,EU,Cyprus,35.167406,33.435499,1558,22,,1536,,,True,True,CY
+2020-09-18,CZE,EU,Czech Republic,49.800901,15.478153,46259,512,27707,18040,,,True,True,CZ
 2020-09-18,DNK,EU,Denmark,56.155403,11.617223,21847,635,17110,4102,58,,True,True,DK
 2020-09-18,DJI,AF,Djibouti,11.808375,42.595222,5401,61,,5340,,,False,False,DJ
 2020-09-18,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -35476,6 +35677,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-19,CUB,NA,Cuba,21.527062,-79.544601,5004,111,,4893,,,False,False,CU
 2020-09-19,CUW,NA,Curaçao,12.209209,-68.945576,228,1,,227,,,False,False,CW
 2020-09-19,CYP,EU,Cyprus,35.167406,33.435499,1565,22,,1543,,,True,True,CY
+2020-09-19,CZE,EU,Czech Republic,49.800901,15.478153,48305,520,28720,19065,,,True,True,CZ
 2020-09-19,DJI,AF,Djibouti,11.808375,42.595222,5403,61,,5342,,,False,False,DJ
 2020-09-19,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-19,DOM,NA,Dominican Republic,18.736509,-70.161744,106732,2034,,104698,,,False,False,DO
@@ -35667,6 +35869,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-20,CUB,NA,Cuba,21.527062,-79.544601,5055,113,,4942,,,False,False,CU
 2020-09-20,CUW,NA,Curaçao,12.209209,-68.945576,247,1,,246,,,False,False,CW
 2020-09-20,CYP,EU,Cyprus,35.167406,33.435499,1580,22,,1558,,,True,True,CY
+2020-09-20,CZE,EU,Czech Republic,49.800901,15.478153,49289,526,29889,18874,,,True,True,CZ
 2020-09-20,DJI,AF,Djibouti,11.808375,42.595222,5403,61,,5342,,,False,False,DJ
 2020-09-20,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-20,DOM,NA,Dominican Republic,18.736509,-70.161744,107700,2044,,105656,,,False,False,DO
@@ -35857,6 +36060,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-21,CUB,NA,Cuba,21.527062,-79.544601,5091,115,,4976,,,False,False,CU
 2020-09-21,CUW,NA,Curaçao,12.209209,-68.945576,268,1,,267,,,False,False,CW
 2020-09-21,CYP,EU,Cyprus,35.167406,33.435499,1600,22,,1578,,,True,True,CY
+2020-09-21,CZE,EU,Czech Republic,49.800901,15.478153,50765,541,31418,18806,,,True,True,CZ
 2020-09-21,DNK,EU,Denmark,56.155403,11.617223,23323,640,17738,4945,75,,True,True,DK
 2020-09-21,DJI,AF,Djibouti,11.808375,42.595222,5403,61,,5342,,,False,False,DJ
 2020-09-21,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -36052,6 +36256,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-22,CUB,NA,Cuba,21.527062,-79.544601,5141,116,,5025,,,False,False,CU
 2020-09-22,CUW,NA,Curaçao,12.209209,-68.945576,282,1,,281,,,False,False,CW
 2020-09-22,CYP,EU,Cyprus,35.167406,33.435499,1603,22,,1581,,,True,True,CY
+2020-09-22,CZE,EU,Czech Republic,49.800901,15.478153,53153,551,32355,20247,,,True,True,CZ
 2020-09-22,DNK,EU,Denmark,56.155403,11.617223,23799,641,18035,5123,79,,True,True,DK
 2020-09-22,DJI,AF,Djibouti,11.808375,42.595222,5404,61,,5343,,,False,False,DJ
 2020-09-22,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -36247,6 +36452,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-23,CUB,NA,Cuba,21.527062,-79.544601,5222,117,,5105,,,False,False,CU
 2020-09-23,CUW,NA,Curaçao,12.209209,-68.945576,291,1,,290,,,False,False,CW
 2020-09-23,CYP,EU,Cyprus,35.167406,33.435499,1618,22,,1596,,,True,True,CY
+2020-09-23,CZE,EU,Czech Republic,49.800901,15.478153,55459,573,33089,21797,,,True,True,CZ
 2020-09-23,DNK,EU,Denmark,56.155403,11.617223,24357,643,18359,5355,78,,True,True,DK
 2020-09-23,DJI,AF,Djibouti,11.808375,42.595222,5407,61,,5346,,,False,False,DJ
 2020-09-23,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -36442,6 +36648,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-24,CUB,NA,Cuba,21.527062,-79.544601,5270,118,,5152,,,False,False,CU
 2020-09-24,CUW,NA,Curaçao,12.209209,-68.945576,301,1,,300,,,False,False,CW
 2020-09-24,CYP,EU,Cyprus,35.167406,33.435499,1654,22,,1632,,,True,True,CY
+2020-09-24,CZE,EU,Czech Republic,49.800901,15.478153,58367,583,34503,23281,,,True,True,CZ
 2020-09-24,DNK,EU,Denmark,56.155403,11.617223,24916,645,18646,5625,95,,True,True,DK
 2020-09-24,DJI,AF,Djibouti,11.808375,42.595222,5407,61,,5346,,,False,False,DJ
 2020-09-24,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -36636,6 +36843,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-25,CUB,NA,Cuba,21.527062,-79.544601,5310,118,,5192,,,False,False,CU
 2020-09-25,CUW,NA,Curaçao,12.209209,-68.945576,315,1,,314,,,False,False,CW
 2020-09-25,CYP,EU,Cyprus,35.167406,33.435499,1663,22,,1641,,,True,True,CY
+2020-09-25,CZE,EU,Czech Republic,49.800901,15.478153,61314,593,36305,24416,,,True,True,CZ
 2020-09-25,DJI,AF,Djibouti,11.808375,42.595222,5407,61,,5346,,,False,False,DJ
 2020-09-25,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-25,DOM,NA,Dominican Republic,18.736509,-70.161744,110122,2076,,108046,,,False,False,DO
@@ -36829,6 +37037,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-26,CUB,NA,Cuba,21.527062,-79.544601,5350,118,,5232,,,False,False,CU
 2020-09-26,CUW,NA,Curaçao,12.209209,-68.945576,329,1,,328,,,False,False,CW
 2020-09-26,CYP,EU,Cyprus,35.167406,33.435499,1671,22,,1649,,,True,True,CY
+2020-09-26,CZE,EU,Czech Republic,49.800901,15.478153,63295,609,37874,24812,,,True,True,CZ
 2020-09-26,DJI,AF,Djibouti,11.808375,42.595222,5409,61,,5348,,,False,False,DJ
 2020-09-26,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-26,DOM,NA,Dominican Republic,18.736509,-70.161744,110597,2087,,108510,,,False,False,DO
@@ -37018,6 +37227,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-27,CUB,NA,Cuba,21.527062,-79.544601,5412,120,,5292,,,False,False,CU
 2020-09-27,CUW,NA,Curaçao,12.209209,-68.945576,337,1,,336,,,False,False,CW
 2020-09-27,CYP,EU,Cyprus,35.167406,33.435499,1684,22,,1662,,,True,True,CY
+2020-09-27,CZE,EU,Czech Republic,49.800901,15.478153,64599,625,39838,24136,,,True,True,CZ
 2020-09-27,DJI,AF,Djibouti,11.808375,42.595222,5409,61,,5348,,,False,False,DJ
 2020-09-27,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
 2020-09-27,DOM,NA,Dominican Republic,18.736509,-70.161744,110957,2093,,108864,,,False,False,DO
@@ -37209,6 +37419,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-28,CUB,NA,Cuba,21.527062,-79.544601,5457,122,,5335,,,False,False,CU
 2020-09-28,CUW,NA,Curaçao,12.209209,-68.945576,360,1,,359,,,False,False,CW
 2020-09-28,CYP,EU,Cyprus,35.167406,33.435499,1696,22,,1674,,,True,True,CY
+2020-09-28,CZE,EU,Czech Republic,49.800901,15.478153,65883,636,41683,23564,,,True,True,CZ
 2020-09-28,DNK,EU,Denmark,56.155403,11.617223,27072,649,19942,6481,0,,True,True,DK
 2020-09-28,DJI,AF,Djibouti,11.808375,42.595222,5409,61,,5348,,,False,False,DJ
 2020-09-28,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -37403,6 +37614,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-29,CUB,NA,Cuba,21.527062,-79.544601,5483,122,,5361,,,False,False,CU
 2020-09-29,CUW,NA,Curaçao,12.209209,-68.945576,364,1,,363,,,False,False,CW
 2020-09-29,CYP,EU,Cyprus,35.167406,33.435499,1696,22,,1674,,,True,True,CY
+2020-09-29,CZE,EU,Czech Republic,49.800901,15.478153,67846,656,43249,23941,,,True,True,CZ
 2020-09-29,DNK,EU,Denmark,56.155403,11.617223,27464,650,20320,6494,0,,True,True,DK
 2020-09-29,DJI,AF,Djibouti,11.808375,42.595222,5410,61,,5349,,,False,False,DJ
 2020-09-29,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -37598,6 +37810,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-09-30,CUB,NA,Cuba,21.527062,-79.544601,5531,122,,5409,,,False,False,CU
 2020-09-30,CUW,NA,Curaçao,12.209209,-68.945576,370,1,,369,,,False,False,CW
 2020-09-30,CYP,EU,Cyprus,35.167406,33.435499,1713,22,,1691,,,True,True,CY
+2020-09-30,CZE,EU,Czech Republic,49.800901,15.478153,70772,673,44379,25720,,,True,True,CZ
 2020-09-30,DNK,EU,Denmark,56.155403,11.617223,27998,650,20754,6594,0,,True,True,DK
 2020-09-30,DJI,AF,Djibouti,11.808375,42.595222,5416,61,,5355,,,False,False,DJ
 2020-09-30,DMA,NA,Dominica,15.416749,-61.36413,24,0,,24,,,False,False,DM
@@ -37793,6 +38006,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-01,CUB,NA,Cuba,21.527062,-79.544601,5597,122,,5475,,,False,False,CU
 2020-10-01,CUW,NA,Curaçao,12.209209,-68.945576,392,1,,391,,,False,False,CW
 2020-10-01,CYP,EU,Cyprus,35.167406,33.435499,1755,22,,1733,,,True,True,CY
+2020-10-01,CZE,EU,Czech Republic,49.800901,15.478153,74268,702,46082,27484,,,True,True,CZ
 2020-10-01,DNK,EU,Denmark,56.155403,11.617223,28396,651,21309,6436,0,,True,True,DK
 2020-10-01,DJI,AF,Djibouti,11.808375,42.595222,5416,61,,5355,,,False,False,DJ
 2020-10-01,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -37988,6 +38202,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-02,CUB,NA,Cuba,21.527062,-79.544601,5670,122,,5548,,,False,False,CU
 2020-10-02,CUW,NA,Curaçao,12.209209,-68.945576,399,1,,398,,,False,False,CW
 2020-10-02,CYP,EU,Cyprus,35.167406,33.435499,1772,22,,1750,,,True,True,CY
+2020-10-02,CZE,EU,Czech Republic,49.800901,15.478153,78063,723,48225,29115,,,True,True,CZ
 2020-10-02,DNK,EU,Denmark,56.155403,11.617223,28932,652,21824,6456,0,,True,True,DK
 2020-10-02,DJI,AF,Djibouti,11.808375,42.595222,5417,61,,5356,,,False,False,DJ
 2020-10-02,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -38182,6 +38397,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-03,CUB,NA,Cuba,21.527062,-79.544601,5718,122,,5596,,,False,False,CU
 2020-10-03,CUW,NA,Curaçao,12.209209,-68.945576,411,1,,410,,,False,False,CW
 2020-10-03,CYP,EU,Cyprus,35.167406,33.435499,1789,22,,1767,,,True,True,CY
+2020-10-03,CZE,EU,Czech Republic,49.800901,15.478153,80618,736,50192,29690,,,True,True,CZ
 2020-10-03,DJI,AF,Djibouti,11.808375,42.595222,5417,61,,5356,,,False,False,DJ
 2020-10-03,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
 2020-10-03,DOM,NA,Dominican Republic,18.736509,-70.161744,113350,2117,,111233,,,False,False,DO
@@ -38373,6 +38589,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-04,CUB,NA,Cuba,21.527062,-79.544601,5780,122,,5658,,,False,False,CU
 2020-10-04,CUW,NA,Curaçao,12.209209,-68.945576,429,1,,428,,,False,False,CW
 2020-10-04,CYP,EU,Cyprus,35.167406,33.435499,1811,22,,1789,,,True,True,CY
+2020-10-04,CZE,EU,Czech Republic,49.800901,15.478153,82458,768,52241,29449,,,True,True,CZ
 2020-10-04,DJI,AF,Djibouti,11.808375,42.595222,5418,61,,5357,,,False,False,DJ
 2020-10-04,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
 2020-10-04,DOM,NA,Dominican Republic,18.736509,-70.161744,113926,2128,,111798,,,False,False,DO
@@ -38564,6 +38781,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-05,CUB,NA,Cuba,21.527062,-79.544601,5809,122,,5687,,,False,False,CU
 2020-10-05,CUW,NA,Curaçao,12.209209,-68.945576,452,1,,451,,,False,False,CW
 2020-10-05,CYP,EU,Cyprus,35.167406,33.435499,1824,22,,1802,,,True,True,CY
+2020-10-05,CZE,EU,Czech Republic,49.800901,15.478153,85576,796,54929,29851,,,True,True,CZ
 2020-10-05,DNK,EU,Denmark,56.155403,11.617223,30057,659,23122,6276,0,,True,True,DK
 2020-10-05,DJI,AF,Djibouti,11.808375,42.595222,5419,61,,5358,,,False,False,DJ
 2020-10-05,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -38759,6 +38977,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-06,CUB,NA,Cuba,21.527062,-79.544601,5845,123,,5722,,,False,False,CU
 2020-10-06,CUW,NA,Curaçao,12.209209,-68.945576,452,1,,451,,,False,False,CW
 2020-10-06,CYP,EU,Cyprus,35.167406,33.435499,1847,22,,1825,,,True,True,CY
+2020-10-06,CZE,EU,Czech Republic,49.800901,15.478153,90036,831,56676,32529,,,True,True,CZ
 2020-10-06,DNK,EU,Denmark,56.155403,11.617223,30379,663,23665,6051,0,,True,True,DK
 2020-10-06,DJI,AF,Djibouti,11.808375,42.595222,5421,61,,5360,,,False,False,DJ
 2020-10-06,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -38953,6 +39172,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-07,CUB,NA,Cuba,21.527062,-79.544601,5883,123,,5760,,,False,False,CU
 2020-10-07,CUW,NA,Curaçao,12.209209,-68.945576,462,1,,461,,,False,False,CW
 2020-10-07,CYP,EU,Cyprus,35.167406,33.435499,1876,23,,1853,,,True,True,CY
+2020-10-07,CZE,EU,Czech Republic,49.800901,15.478153,95374,880,57909,36585,,,True,True,CZ
 2020-10-07,DNK,EU,Denmark,56.155403,11.617223,30710,663,24250,5797,0,,True,True,DK
 2020-10-07,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-07,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -39148,6 +39368,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-08,CUB,NA,Cuba,21.527062,-79.544601,5898,123,,5775,,,False,False,CU
 2020-10-08,CUW,NA,Curaçao,12.209209,-68.945576,476,1,,475,,,False,False,CW
 2020-10-08,CYP,EU,Cyprus,35.167406,33.435499,1897,24,,1873,,,True,True,CY
+2020-10-08,CZE,EU,Czech Republic,49.800901,15.478153,100768,906,59124,40738,,,True,True,CZ
 2020-10-08,DNK,EU,Denmark,56.155403,11.617223,31156,665,24899,5592,0,,True,True,DK
 2020-10-08,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-08,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -39342,6 +39563,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-09,CUB,NA,Cuba,21.527062,-79.544601,5917,123,,5794,,,False,False,CU
 2020-10-09,CUW,NA,Curaçao,12.209209,-68.945576,505,1,,504,,,False,False,CW
 2020-10-09,CYP,EU,Cyprus,35.167406,33.435499,1918,24,,1894,,,True,True,CY
+2020-10-09,CZE,EU,Czech Republic,49.800901,15.478153,109384,966,61211,47207,,,True,True,CZ
 2020-10-09,DNK,EU,Denmark,56.155403,11.617223,31638,665,25502,5471,0,,True,True,DK
 2020-10-09,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-09,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
@@ -39536,6 +39758,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-10,CUB,NA,Cuba,21.527062,-79.544601,5943,123,,5820,,,False,False,CU
 2020-10-10,CUW,NA,Curaçao,12.209209,-68.945576,505,1,,504,,,False,False,CW
 2020-10-10,CYP,EU,Cyprus,35.167406,33.435499,1951,25,,1926,,,True,True,CY
+2020-10-10,CZE,EU,Czech Republic,49.800901,15.478153,114020,1017,63792,49211,,,True,True,CZ
 2020-10-10,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-10,DMA,NA,Dominica,15.416749,-61.36413,31,0,,31,,,False,False,DM
 2020-10-10,DOM,NA,Dominican Republic,18.736509,-70.161744,117457,2165,,115292,,,False,False,DO
@@ -39726,6 +39949,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-11,CUB,NA,Cuba,21.527062,-79.544601,5948,123,,5825,,,False,False,CU
 2020-10-11,CUW,NA,Curaçao,12.209209,-68.945576,571,1,,570,,,False,False,CW
 2020-10-11,CYP,EU,Cyprus,35.167406,33.435499,1986,25,,1961,,,True,True,CY
+2020-10-11,CZE,EU,Czech Republic,49.800901,15.478153,117124,1060,66661,49403,,,True,True,CZ
 2020-10-11,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-11,DMA,NA,Dominica,15.416749,-61.36413,32,0,,32,,,False,False,DM
 2020-10-11,DOM,NA,Dominican Republic,18.736509,-70.161744,118014,2167,,115847,,,False,False,DO
@@ -39917,6 +40141,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-12,CUB,NA,Cuba,21.527062,-79.544601,5978,123,,5855,,,False,False,CU
 2020-10-12,CUW,NA,Curaçao,12.209209,-68.945576,583,1,,582,,,False,False,CW
 2020-10-12,CYP,EU,Cyprus,35.167406,33.435499,1986,25,,1961,,,True,True,CY
+2020-10-12,CZE,EU,Czech Republic,49.800901,15.478153,121432,1128,70281,50023,,,True,True,CZ
 2020-10-12,DNK,EU,Denmark,56.155403,11.617223,32811,671,26741,5399,0,,True,True,DK
 2020-10-12,DJI,AF,Djibouti,11.808375,42.595222,5423,61,,5362,,,False,False,DJ
 2020-10-12,DMA,NA,Dominica,15.416749,-61.36413,32,0,,32,,,False,False,DM
@@ -40111,6 +40336,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-13,CUB,NA,Cuba,21.527062,-79.544601,6000,123,,5877,,,False,False,CU
 2020-10-13,CUW,NA,Curaçao,12.209209,-68.945576,585,1,,584,,,False,False,CW
 2020-10-13,CYP,EU,Cyprus,35.167406,33.435499,2047,25,,2022,,,True,True,CY
+2020-10-13,CZE,EU,Czech Republic,49.800901,15.478153,129756,1179,72674,55903,,,True,True,CZ
 2020-10-13,DNK,EU,Denmark,56.155403,11.617223,33101,674,27225,5202,0,,True,True,DK
 2020-10-13,DJI,AF,Djibouti,11.808375,42.595222,5426,61,,5365,,,False,False,DJ
 2020-10-13,DMA,NA,Dominica,15.416749,-61.36413,32,0,,32,,,False,False,DM
@@ -40306,6 +40532,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-14,CUB,NA,Cuba,21.527062,-79.544601,6017,123,,5894,,,False,False,CU
 2020-10-14,CUW,NA,Curaçao,12.209209,-68.945576,619,1,,618,,,False,False,CW
 2020-10-14,CYP,EU,Cyprus,35.167406,33.435499,2047,25,,2022,,,True,True,CY
+2020-10-14,CZE,EU,Czech Republic,49.800901,15.478153,139300,1243,74340,63717,,,True,True,CZ
 2020-10-14,DNK,EU,Denmark,56.155403,11.617223,33593,675,27680,5238,0,,True,True,DK
 2020-10-14,DJI,AF,Djibouti,11.808375,42.595222,5428,61,,5367,,,False,False,DJ
 2020-10-14,DMA,NA,Dominica,15.416749,-61.36413,32,0,,32,,,False,False,DM
@@ -40500,6 +40727,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-15,CUB,NA,Cuba,21.527062,-79.544601,6035,123,,5912,,,False,False,CU
 2020-10-15,CUW,NA,Curaçao,12.209209,-68.945576,645,1,,644,,,False,False,CW
 2020-10-15,CYP,EU,Cyprus,35.167406,33.435499,2130,25,,2105,,,True,True,CY
+2020-10-15,CZE,EU,Czech Republic,49.800901,15.478153,149022,1300,77525,70197,,,True,True,CZ
 2020-10-15,DNK,EU,Denmark,56.155403,11.617223,34023,677,28118,5228,0,,True,True,DK
 2020-10-15,DJI,AF,Djibouti,11.808375,42.595222,5440,61,,5379,,,False,False,DJ
 2020-10-15,DMA,NA,Dominica,15.416749,-61.36413,32,0,,32,,,False,False,DM
@@ -40693,6 +40921,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-16,CUB,NA,Cuba,21.527062,-79.544601,6062,123,,5939,,,False,False,CU
 2020-10-16,CUW,NA,Curaçao,12.209209,-68.945576,673,1,,672,,,False,False,CW
 2020-10-16,CYP,EU,Cyprus,35.167406,33.435499,2181,25,,2156,,,True,True,CY
+2020-10-16,CZE,EU,Czech Republic,49.800901,15.478153,160127,1378,82485,76264,,,True,True,CZ
 2020-10-16,DNK,EU,Denmark,56.155403,11.617223,34441,677,28551,5213,0,,True,True,DK
 2020-10-16,DJI,AF,Djibouti,11.808375,42.595222,5443,61,,5382,,,False,False,DJ
 2020-10-16,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
@@ -40887,6 +41116,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-17,CUB,NA,Cuba,21.527062,-79.544601,6118,124,,5994,,,False,False,CU
 2020-10-17,CUW,NA,Curaçao,12.209209,-68.945576,698,1,,697,,,False,False,CW
 2020-10-17,CYP,EU,Cyprus,35.167406,33.435499,2379,25,,2354,,,True,True,CY
+2020-10-17,CZE,EU,Czech Republic,49.800901,15.478153,168840,1455,87400,79985,,,True,True,CZ
 2020-10-17,DJI,AF,Djibouti,11.808375,42.595222,5449,61,,5388,,,False,False,DJ
 2020-10-17,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
 2020-10-17,DOM,NA,Dominican Republic,18.736509,-70.161744,120450,2192,,118258,,,False,False,DO
@@ -41078,6 +41308,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-18,CUB,NA,Cuba,21.527062,-79.544601,6170,125,,6045,,,False,False,CU
 2020-10-18,CUW,NA,Curaçao,12.209209,-68.945576,715,1,,714,,,False,False,CW
 2020-10-18,CYP,EU,Cyprus,35.167406,33.435499,2379,25,,2354,,,True,True,CY
+2020-10-18,CZE,EU,Czech Republic,49.800901,15.478153,173900,1536,92264,80100,,,True,True,CZ
 2020-10-18,DJI,AF,Djibouti,11.808375,42.595222,5452,61,,5391,,,False,False,DJ
 2020-10-18,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
 2020-10-18,DOM,NA,Dominican Republic,18.736509,-70.161744,120925,2195,,118730,,,False,False,DO
@@ -41269,6 +41500,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-19,CUB,NA,Cuba,21.527062,-79.544601,6220,125,,6095,,,False,False,CU
 2020-10-19,CUW,NA,Curaçao,12.209209,-68.945576,744,1,,743,,,False,False,CW
 2020-10-19,CYP,EU,Cyprus,35.167406,33.435499,2644,25,,2619,,,True,True,CY
+2020-10-19,CZE,EU,Czech Republic,49.800901,15.478153,181976,1640,97721,82615,,,True,True,CZ
 2020-10-19,DNK,EU,Denmark,56.155403,11.617223,35844,686,29562,5596,0,,True,True,DK
 2020-10-19,DJI,AF,Djibouti,11.808375,42.595222,5459,61,,5398,,,False,False,DJ
 2020-10-19,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
@@ -41464,6 +41696,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-20,CUB,NA,Cuba,21.527062,-79.544601,6258,127,,6131,,,False,False,CU
 2020-10-20,CUW,NA,Curaçao,12.209209,-68.945576,751,1,,750,,,False,False,CW
 2020-10-20,CYP,EU,Cyprus,35.167406,33.435499,2687,25,,2662,,,True,True,CY
+2020-10-20,CZE,EU,Czech Republic,49.800901,15.478153,193960,1743,101791,90426,,,True,True,CZ
 2020-10-20,DNK,EU,Denmark,56.155403,11.617223,36373,688,29998,5687,0,,True,True,DK
 2020-10-20,DJI,AF,Djibouti,11.808375,42.595222,5469,61,,5408,,,False,False,DJ
 2020-10-20,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
@@ -41658,6 +41891,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-21,CUB,NA,Cuba,21.527062,-79.544601,6305,127,,6178,,,False,False,CU
 2020-10-21,CUW,NA,Curaçao,12.209209,-68.945576,759,1,,758,,,False,False,CW
 2020-10-21,CYP,EU,Cyprus,35.167406,33.435499,2839,25,,2814,,,True,True,CY
+2020-10-21,CZE,EU,Czech Republic,49.800901,15.478153,208931,1866,104899,102166,,,True,True,CZ
 2020-10-21,DNK,EU,Denmark,56.155403,11.617223,37003,690,30432,5881,122,16,True,True,DK
 2020-10-21,DJI,AF,Djibouti,11.808375,42.595222,5499,61,,5438,,,False,False,DJ
 2020-10-21,DMA,NA,Dominica,15.416749,-61.36413,33,0,,33,,,False,False,DM
@@ -41840,6 +42074,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-22,CUB,NA,Cuba,21.527062,-79.544601,6368,127,,6241,,,False,False,CU
 2020-10-22,CUW,NA,Curaçao,12.209209,-68.945576,785,1,,784,,,False,False,CW
 2020-10-22,CYP,EU,Cyprus,35.167406,33.435499,2966,25,,2941,,,True,True,CY
+2020-10-22,CZE,EU,Czech Republic,49.800901,15.478153,223087,1984,109461,111642,,,True,True,CZ
 2020-10-22,DNK,EU,Denmark,56.155403,11.617223,37763,694,30877,6192,124,17,True,True,DK
 2020-10-22,DJI,AF,Djibouti,11.808375,42.595222,5512,61,,5451,,,False,False,DJ
 2020-10-22,DOM,NA,Dominican Republic,18.736509,-70.161744,122398,2206,,120192,,,False,False,DO
@@ -41972,6 +42207,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-23,BGR,EU,Bulgaria,42.729862,25.491667,34930,1064,17833,16033,,,True,True,BG
 2020-10-23,HRV,EU,Croatia,44.48732,16.460306,31717,413,,31304,,,True,True,HR
 2020-10-23,CYP,EU,Cyprus,35.167406,33.435499,3154,25,,3129,,,True,True,CY
+2020-10-23,CZE,EU,Czech Republic,49.800901,15.478153,238340,2100,117587,118653,,,True,True,CZ
 2020-10-23,DNK,EU,Denmark,56.155403,11.617223,38622,697,31295,6630,125,18,True,True,DK
 2020-10-23,EST,EU,Estonia,58.596209,25.023778,4247,71,,4176,,,True,True,EE
 2020-10-23,FIN,EU,Finland,64.952416,26.068944,14474,353,,14121,,,True,True,FI
@@ -42047,6 +42283,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-24,CUB,NA,Cuba,21.527062,-79.544601,6479,128,,6351,,,False,False,CU
 2020-10-24,CUW,NA,Curaçao,12.209209,-68.945576,818,1,,817,,,False,False,CW
 2020-10-24,CYP,EU,Cyprus,35.167406,33.435499,3314,25,,3289,,,True,True,CY
+2020-10-24,CZE,EU,Czech Republic,49.800901,15.478153,250811,2232,125152,123427,,,True,True,CZ
 2020-10-24,DJI,AF,Djibouti,11.808375,42.595222,5528,61,,5467,,,False,False,DJ
 2020-10-24,DMA,NA,Dominica,15.416749,-61.36413,37,0,,37,,,False,False,DM
 2020-10-24,DOM,NA,Dominican Republic,18.736509,-70.161744,123384,2214,,121170,,,False,False,DO
@@ -42195,6 +42432,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-25,BGR,EU,Bulgaria,42.729862,25.491667,37562,1084,18232,18246,,,True,True,BG
 2020-10-25,HRV,EU,Croatia,44.48732,16.460306,36380,437,,35943,,,True,True,HR
 2020-10-25,CYP,EU,Cyprus,35.167406,33.435499,3444,25,,3419,,,True,True,CY
+2020-10-25,CZE,EU,Czech Republic,49.800901,15.478153,258111,2372,136067,119672,,,True,True,CZ
 2020-10-25,EST,EU,Estonia,58.596209,25.023778,4351,73,,4278,,,True,True,EE
 2020-10-25,FIN,EU,Finland,64.952416,26.068944,14848,353,,14495,,,True,True,FI
 2020-10-25,FRA,EU,France,46.232193,2.209667,1138507,23635,110660,1004212,16477,2584,True,True,FR
@@ -42270,6 +42508,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-26,CUB,NA,Cuba,21.527062,-79.544601,6566,128,,6438,,,False,False,CU
 2020-10-26,CUW,NA,Curaçao,12.209209,-68.945576,858,1,,857,,,False,False,CW
 2020-10-26,CYP,EU,Cyprus,35.167406,33.435499,3545,25,,3520,,,True,True,CY
+2020-10-26,CZE,EU,Czech Republic,49.800901,15.478153,268384,2529,147773,118082,,,True,True,CZ
 2020-10-26,DNK,EU,Denmark,56.155403,11.617223,41412,708,32237,8467,145,17,True,True,DK
 2020-10-26,DJI,AF,Djibouti,11.808375,42.595222,5536,61,,5475,,,False,False,DJ
 2020-10-26,DMA,NA,Dominica,15.416749,-61.36413,38,0,,38,,,False,False,DM
@@ -42463,6 +42702,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-27,CUB,NA,Cuba,21.527062,-79.544601,6595,128,,6467,,,False,False,CU
 2020-10-27,CUW,NA,Curaçao,12.209209,-68.945576,873,1,,872,,,False,False,CW
 2020-10-27,CYP,EU,Cyprus,35.167406,33.435499,3636,25,,3611,,,True,True,CY
+2020-10-27,CZE,EU,Czech Republic,49.800901,15.478153,284048,2706,156358,124984,,,True,True,CZ
 2020-10-27,DNK,EU,Denmark,56.155403,11.617223,42157,709,32697,8751,137,19,True,True,DK
 2020-10-27,DJI,AF,Djibouti,11.808375,42.595222,5541,61,,5480,,,False,False,DJ
 2020-10-27,DMA,NA,Dominica,15.416749,-61.36413,38,0,,38,,,False,False,DM
@@ -42656,6 +42896,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-28,CUB,NA,Cuba,21.527062,-79.544601,6678,128,,6550,,,False,False,CU
 2020-10-28,CUW,NA,Curaçao,12.209209,-68.945576,873,1,,872,,,False,False,CW
 2020-10-28,CYP,EU,Cyprus,35.167406,33.435499,3817,25,,3792,,,True,True,CY
+2020-10-28,CZE,EU,Czech Republic,49.800901,15.478153,297026,2866,160344,133816,,,True,True,CZ
 2020-10-28,DNK,EU,Denmark,56.155403,11.617223,43174,715,33126,9333,136,18,True,True,DK
 2020-10-28,DJI,AF,Djibouti,11.808375,42.595222,5544,61,,5483,,,False,False,DJ
 2020-10-28,DMA,NA,Dominica,15.416749,-61.36413,38,0,,38,,,False,False,DM
@@ -42836,6 +43077,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-29,HRV,EU,Croatia,44.48732,16.460306,43775,511,,43264,,,True,True,HR
 2020-10-29,CUB,NA,Cuba,21.527062,-79.544601,6727,128,,6599,,,False,False,CU
 2020-10-29,CUW,NA,Curaçao,12.209209,-68.945576,884,1,,883,,,False,False,CW
+2020-10-29,CZE,EU,Czech Republic,49.800901,15.478153,310077,3045,173074,133958,,,True,True,CZ
 2020-10-29,DNK,EU,Denmark,56.155403,11.617223,44034,716,33601,9717,139,17,True,True,DK
 2020-10-29,DJI,AF,Djibouti,11.808375,42.595222,5555,61,,5494,,,False,False,DJ
 2020-10-29,DMA,NA,Dominica,15.416749,-61.36413,42,0,,42,,,False,False,DM
@@ -42960,6 +43202,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-30,BGR,EU,Bulgaria,42.729862,25.491667,48150,1225,19695,27230,,,True,True,BG
 2020-10-30,HRV,EU,Croatia,44.48732,16.460306,46547,531,,46016,,,True,True,HR
 2020-10-30,CYP,EU,Cyprus,35.167406,33.435499,4051,25,,4026,,,True,True,CY
+2020-10-30,CZE,EU,Czech Republic,49.800901,15.478153,323683,3253,187383,133047,,,True,True,CZ
 2020-10-30,DNK,EU,Denmark,56.155403,11.617223,45225,719,34052,10454,144,17,True,True,DK
 2020-10-30,DMA,NA,Dominica,15.416749,-61.36413,42,0,,42,,,False,False,DM
 2020-10-30,EST,EU,Estonia,58.596209,25.023778,4671,73,,4598,,,True,True,EE
@@ -43046,6 +43289,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-10-31,CUB,NA,Cuba,21.527062,-79.544601,6801,128,,6673,,,False,False,CU
 2020-10-31,CUW,NA,Curaçao,12.209209,-68.945576,944,1,,943,,,False,False,CW
 2020-10-31,CYP,EU,Cyprus,35.167406,33.435499,4217,25,,4192,,,True,True,CY
+2020-10-31,CZE,EU,Czech Republic,49.800901,15.478153,335111,3428,201665,130018,,,True,True,CZ
 2020-10-31,DJI,AF,Djibouti,11.808375,42.595222,5559,61,,5498,,,False,False,DJ
 2020-10-31,DOM,NA,Dominican Republic,18.736509,-70.161744,126332,2236,,124096,,,False,False,DO
 2020-10-31,ECU,SA,Ecuador,-1.779901,-78.131592,167147,12632,,154515,,,False,False,EC
@@ -43191,6 +43435,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-01,BGR,EU,Bulgaria,42.729862,25.491667,52844,1279,20045,31520,,,True,True,BG
 2020-11-01,HRV,EU,Croatia,44.48732,16.460306,51495,562,,50933,,,True,True,HR
 2020-11-01,CYP,EU,Cyprus,35.167406,33.435499,4366,26,,4340,,,True,True,CY
+2020-11-01,CZE,EU,Czech Republic,49.800901,15.478153,341662,3622,215344,122696,,,True,True,CZ
 2020-11-01,EST,EU,Estonia,58.596209,25.023778,4905,73,,4832,,,True,True,EE
 2020-11-01,FIN,EU,Finland,64.952416,26.068944,16291,,,16291,,,True,True,FI
 2020-11-01,FRA,EU,France,46.232193,2.209667,1413915,25368,118227,1270320,24031,3578,True,True,FR
@@ -43237,6 +43482,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-02,CAF,AF,Central African Republic,6.614041,20.941759,4866,62,,4804,,,False,False,CF
 2020-11-02,HRV,EU,Croatia,44.48732,16.460306,52660,594,,52066,,,True,True,HR
 2020-11-02,CYP,EU,Cyprus,35.167406,33.435499,4563,26,,4537,,,True,True,CY
+2020-11-02,CZE,EU,Czech Republic,49.800901,15.478153,350902,3823,230783,116296,,,True,True,CZ
 2020-11-02,DNK,EU,Denmark,56.155403,11.617223,48241,724,35411,12106,174,23,True,True,DK
 2020-11-02,EST,EU,Estonia,58.596209,25.023778,4985,73,,4912,,,True,True,EE
 2020-11-02,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False,FK
@@ -43306,6 +43552,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-03,CAF,AF,Central African Republic,6.614041,20.941759,4866,62,,4804,,,False,False,CF
 2020-11-03,HRV,EU,Croatia,44.48732,16.460306,54087,628,,53459,,,True,True,HR
 2020-11-03,CYP,EU,Cyprus,35.167406,33.435499,4760,27,,4733,,,True,True,CY
+2020-11-03,CZE,EU,Czech Republic,49.800901,15.478153,362990,4062,236997,121931,,,True,True,CZ
 2020-11-03,DNK,EU,Denmark,56.155403,11.617223,49594,728,36111,12755,169,22,True,True,DK
 2020-11-03,EST,EU,Estonia,58.596209,25.023778,5046,73,,4973,,,True,True,EE
 2020-11-03,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False,FK
@@ -43393,6 +43640,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-04,CUB,NA,Cuba,21.527062,-79.544601,7035,129,,6906,,,False,False,CU
 2020-11-04,CUW,NA,Curaçao,12.209209,-68.945576,1000,1,,999,,,False,False,CW
 2020-11-04,CYP,EU,Cyprus,35.167406,33.435499,4934,27,,4907,,,True,True,CY
+2020-11-04,CZE,EU,Czech Republic,49.800901,15.478153,378717,4264,242212,132241,,,True,True,CZ
 2020-11-04,DJI,AF,Djibouti,11.808375,42.595222,5575,61,,5514,,,False,False,DJ
 2020-11-04,DMA,NA,Dominica,15.416749,-61.36413,42,0,,42,,,False,False,DM
 2020-11-04,DOM,NA,Dominican Republic,18.736509,-70.161744,127848,2252,,125596,,,False,False,DO
@@ -43562,6 +43810,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-05,CUB,NA,Cuba,21.527062,-79.544601,7144,129,,7015,,,False,False,CU
 2020-11-05,CUW,NA,Curaçao,12.209209,-68.945576,1021,2,,1019,,,False,False,CW
 2020-11-05,CYP,EU,Cyprus,35.167406,33.435499,5100,27,,5073,,,True,True,CY
+2020-11-05,CZE,EU,Czech Republic,49.800901,15.478153,391949,4430,242684,144835,,,True,True,CZ
 2020-11-05,DNK,EU,Denmark,56.155403,11.617223,51753,733,37756,13264,182,24,True,True,DK
 2020-11-05,DJI,AF,Djibouti,11.808375,42.595222,5580,61,,5519,,,False,False,DJ
 2020-11-05,DOM,NA,Dominican Republic,18.736509,-70.161744,128278,2257,,126021,,,False,False,DO
@@ -43733,6 +43982,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-06,CUB,NA,Cuba,21.527062,-79.544601,7184,129,,7055,,,False,False,CU
 2020-11-06,CUW,NA,Curaçao,12.209209,-68.945576,1030,2,,1028,,,False,False,CW
 2020-11-06,CYP,EU,Cyprus,35.167406,33.435499,5333,27,,5306,,,True,True,CY
+2020-11-06,CZE,EU,Czech Republic,49.800901,15.478153,403498,4594,242901,156003,,,True,True,CZ
 2020-11-06,DNK,EU,Denmark,56.155403,11.617223,53180,738,38627,13815,191,23,True,True,DK
 2020-11-06,DJI,AF,Djibouti,11.808375,42.595222,5599,61,,5538,,,False,False,DJ
 2020-11-06,DMA,NA,Dominica,15.416749,-61.36413,42,0,,42,,,False,False,DM
@@ -43895,6 +44145,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-07,CUB,NA,Cuba,21.527062,-79.544601,7228,130,,7098,,,False,False,CU
 2020-11-07,CUW,NA,Curaçao,12.209209,-68.945576,1053,2,,1051,,,False,False,CW
 2020-11-07,CYP,EU,Cyprus,35.167406,33.435499,5557,27,,5530,,,True,True,CY
+2020-11-07,CZE,EU,Czech Republic,49.800901,15.478153,411220,4757,243005,163458,,,True,True,CZ
 2020-11-07,DJI,AF,Djibouti,11.808375,42.595222,5604,61,,5543,,,False,False,DJ
 2020-11-07,DOM,NA,Dominican Republic,18.736509,-70.161744,129300,2261,,127039,,,False,False,DO
 2020-11-07,ECU,SA,Ecuador,-1.779901,-78.131592,172508,12761,,159747,,,False,False,EC
@@ -44032,6 +44283,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-08,BGR,EU,Bulgaria,42.729862,25.491667,74485,1632,23805,49048,,,True,True,BG
 2020-11-08,HRV,EU,Croatia,44.48732,16.460306,67247,794,,66453,,,True,True,HR
 2020-11-08,CYP,EU,Cyprus,35.167406,33.435499,5871,28,,5843,,,True,True,CY
+2020-11-08,CZE,EU,Czech Republic,49.800901,15.478153,414828,4858,243129,166841,,,True,True,CZ
 2020-11-08,EST,EU,Estonia,58.596209,25.023778,5933,73,,5860,,,True,True,EE
 2020-11-08,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False,FK
 2020-11-08,FJI,OC,Fiji,-16.578041,178.416339,34,2,,32,,,False,False,FJ
@@ -44087,154 +44339,55 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2020-11-08,VNM,AS,Vietnam,15.974222,105.806431,1213,35,,1178,,,False,False,VN
 2020-11-08,ESH,AF,Western Sahara,,,766,1,,765,,,False,False,EH
 2020-11-08,YEM,AS,Yemen,,,2070,602,,1468,,,False,False,YE
-2020-11-09,AFG,AS,Afghanistan,33.930445,67.678945,42239,1565,,40674,,,False,False,AF
-2020-11-09,DZA,AF,Algeria,28.026875,1.65284,62051,2048,,60003,,,False,False,DZ
 2020-11-09,AND,EU,Andorra,42.542268,1.596865,5383,75,,5308,,,False,False,AD
-2020-11-09,AGO,AF,Angola,-11.209451,17.880669,12335,303,,12032,,,False,False,AO
-2020-11-09,ATG,NA,Antigua and Barbuda,17.363183,-61.789423,131,3,,128,,,False,False,AG
-2020-11-09,ARG,SA,Argentina,-38.421295,-63.587403,1242169,33560,,1208609,,,False,False,AR
-2020-11-09,ABW,NA,Aruba,12.517713,-69.965112,4600,40,,4560,,,False,False,AW
-2020-11-09,AUS,OC,Australia,-26.853388,133.275155,27658,907,,26751,,,False,False,AU
-2020-11-09,AZE,AS,Azerbaijan,40.147396,47.572098,65411,840,,64571,,,False,False,AZ
-2020-11-09,BHS,NA,Bahamas,24.885993,-76.709892,6947,152,,6795,,,False,False,BS
-2020-11-09,BHR,AS,Bahrain,26.039722,50.559306,83456,329,,83127,,,False,False,BH
-2020-11-09,BGD,AS,Bangladesh,23.68764,90.351002,420238,6067,,414171,,,False,False,BD
+2020-11-09,AIA,NA,Anguilla,18.22512,-63.07213,3,0,,3,,,False,False,AI
+2020-11-09,BRB,NA,Barbados,13.183551,-59.534649,242,7,,235,,,False,False,BB
 2020-11-09,BLR,EU,Belarus,53.711111,27.973847,106279,1007,,105272,,,False,False,BY
-2020-11-09,BLZ,NA,Belize,17.192929,-88.5009,4176,70,,4106,,,False,False,BZ
-2020-11-09,BTN,AS,Bhutan,27.515709,90.442455,359,0,,359,,,False,False,BT
-2020-11-09,BOL,SA,Bolivia,-16.28835,-63.549429,142475,8795,,133680,,,False,False,BO
-2020-11-09,BES,NA,"Bonaire, Saint Eustatius and Saba",12.160842,-68.304383,154,3,,151,,,False,False,BQ
+2020-11-09,BEN,AF,Benin,9.322048,2.313138,2745,43,,2702,,,False,False,BJ
+2020-11-09,BMU,NA,Bermuda,32.320236,-64.774022,209,9,,200,,,False,False,BM
 2020-11-09,BIH,EU,Bosnia and Herzegovina,43.892652,17.670584,62423,1510,,60913,,,False,False,BA
-2020-11-09,BWA,AF,Botswana,-22.34403,24.680158,7835,27,,7808,,,False,False,BW
+2020-11-09,BRA,SA,Brazil,-14.242914,-53.189267,5590025,161106,,5428919,,,False,False,BR
+2020-11-09,VGB,NA,British Virgin Islands,18.573601,-64.492065,72,1,,71,,,False,False,VG
 2020-11-09,BGR,EU,Bulgaria,42.729862,25.491667,75160,1665,24408,49087,,,True,True,BG
-2020-11-09,BFA,AF,Burkina Faso,12.24185,-1.55676,2569,67,,2502,,,False,False,BF
-2020-11-09,BDI,AF,Burundi,-3.387918,29.920395,614,1,,613,,,False,False,BI
-2020-11-09,KHM,AS,Cambodia,12.54775,104.98386,297,0,,297,,,False,False,KH
-2020-11-09,CMR,AF,Cameroon,7.365302,12.34344,22421,433,,21988,,,False,False,CM
-2020-11-09,CAN,NA,Canada,62.393303,-96.818145,264113,10522,,253591,,,False,False,CA
-2020-11-09,CYM,NA,Cayman Islands,19.512365,-80.580024,250,1,,249,,,False,False,KY
-2020-11-09,CAF,AF,Central African Republic,6.614041,20.941759,4879,62,,4817,,,False,False,CF
-2020-11-09,TCD,AF,Chad,15.445718,18.738068,1547,99,,1448,,,False,False,TD
-2020-11-09,CHL,SA,Chile,-36.711951,-73.601704,521558,14543,,507015,,,False,False,CL
-2020-11-09,CHN,AS,China,34.668138,104.165802,91560,4739,,86821,,,False,False,CN
-2020-11-09,COL,SA,Colombia,4.577317,-74.298973,1143887,32791,,1111096,,,False,False,CO
-2020-11-09,COM,AF,Comoros,,,563,7,,556,,,False,False,KM
-2020-11-09,CRI,NA,Costa Rica,9.624897,-84.253308,116363,1464,,114899,,,False,False,CR
 2020-11-09,HRV,EU,Croatia,44.48732,16.460306,68776,832,,67944,,,True,True,HR
-2020-11-09,CUB,NA,Cuba,21.527062,-79.544601,7297,130,,7167,,,False,False,CU
-2020-11-09,CUW,NA,Curaçao,12.209209,-68.945576,1097,2,,1095,,,False,False,CW
 2020-11-09,CYP,EU,Cyprus,35.167406,33.435499,5987,28,,5959,,,True,True,CY
-2020-11-09,DJI,AF,Djibouti,11.808375,42.595222,5608,61,,5547,,,False,False,DJ
-2020-11-09,DMA,NA,Dominica,15.416749,-61.36413,42,0,,42,,,False,False,DM
-2020-11-09,DOM,NA,Dominican Republic,18.736509,-70.161744,130182,2265,,127917,,,False,False,DO
-2020-11-09,ECU,SA,Ecuador,-1.779901,-78.131592,174907,12830,,162077,,,False,False,EC
-2020-11-09,EGY,AF,Egypt,26.696361,30.246486,109201,6368,,102833,,,False,False,EG
-2020-11-09,SLV,NA,El Salvador,13.796873,-88.910412,35145,1014,,34131,,,False,False,SV
-2020-11-09,GNQ,AF,Equatorial Guinea,1.633925,10.341295,5092,85,,5007,,,False,False,GQ
-2020-11-09,ERI,AF,Eritrea,15.18132,39.786709,491,0,,491,,,False,False,ER
 2020-11-09,EST,EU,Estonia,58.596209,25.023778,6125,75,,6050,,,True,True,EE
-2020-11-09,ETH,AF,Ethiopia,9.148086,40.493059,99675,1523,,98152,,,False,False,ET
+2020-11-09,FLK,SA,Falkland Islands (Malvinas),-51.800581,-59.528839,13,0,,13,,,False,False,FK
+2020-11-09,FJI,OC,Fiji,-16.578041,178.416339,34,2,,32,,,False,False,FJ
 2020-11-09,FIN,EU,Finland,64.952416,26.068944,17887,,,17887,,,True,True,FI
-2020-11-09,PYF,OC,French Polynesia,-17.778572,-143.903496,9995,39,,9956,,,False,False,PF
-2020-11-09,GMB,AF,Gambia,13.445412,-15.311436,3684,121,,3563,,,False,False,GM
-2020-11-09,GEO,AS,Georgia,42.319847,43.368055,60680,499,,60181,,,False,False,GE
+2020-11-09,GAB,AF,Gabon,-0.828097,11.598909,9022,55,,8967,,,False,False,GA
 2020-11-09,DEU,EU,Germany,51.165706,10.452764,671868,11352,419300,241216,,,True,True,DE
-2020-11-09,GHA,AF,Ghana,7.955012,-1.031819,49202,320,,48882,,,False,False,GH
-2020-11-09,GIB,EU,Gibraltar,36.132235,-5.352273,793,0,,793,,,False,False,GI
 2020-11-09,GRC,EU,Greece,38.275283,23.810343,56698,784,,55914,,,True,True,EL
-2020-11-09,GRD,NA,Grenada,12.152588,-61.689557,32,0,,32,,,False,False,GD
-2020-11-09,GUM,OC,Guam,13.446472,144.786613,5233,89,,5144,,,False,False,GU
-2020-11-09,GTM,NA,Guatemala,15.776261,-90.229744,111262,3821,,107441,,,False,False,GT
-2020-11-09,GGY,EU,Guernsey,49.575693,-2.42318,279,13,,266,,,False,False,GG
-2020-11-09,GIN,AF,Guinea,9.934887,-11.283845,12426,74,,12352,,,False,False,GN
-2020-11-09,GNB,AF,Guinea Bissau,11.802527,-15.177029,2413,41,,2372,,,False,False,GW
-2020-11-09,GUY,SA,Guyana,4.866324,-58.932507,4514,134,,4380,,,False,False,GY
-2020-11-09,HND,NA,Honduras,14.746334,-86.253097,100508,2751,,97757,,,False,False,HN
+2020-11-09,GRL,NA,Greenland,71.702379,-42.177174,17,0,,17,,,False,False,
+2020-11-09,HTI,NA,Haiti,19.054426,-73.045971,9127,232,,8895,,,False,False,HT
+2020-11-09,VAT,EU,Holy See,41.903859,12.452041,26,0,,26,,,False,False,
 2020-11-09,HUN,EU,Hungary,47.164638,19.508944,114778,2493,26161,86124,6061,415,True,True,HU
 2020-11-09,ISL,EU,Iceland,64.963942,-19.021169,5078,20,,5058,,,False,True,IS
-2020-11-09,IND,AS,India,21.125681,82.794998,8553657,126611,,8427046,,,False,False,IN
-2020-11-09,IDN,AS,Indonesia,-2.518722,118.015568,437716,14614,,423102,,,False,False,ID
-2020-11-09,IRN,AS,Iran,32.420653,53.682375,682486,38291,,644195,,,False,False,IR
-2020-11-09,IRQ,AS,Iraq,33.223737,43.685901,498549,11327,,487222,,,False,False,IQ
 2020-11-09,IRL,EU,Ireland,53.41975,-8.240472,65394,1947,,63447,291,,True,True,IE
-2020-11-09,IMN,EU,Isle of Man,54.23782,-4.555111,357,25,,332,,,False,False,IM
-2020-11-09,ISR,AS,Israel,31.418388,35.073541,319562,2674,,316888,,,False,False,IL
-2020-11-09,JAM,NA,Jamaica,18.115265,-77.273479,9506,221,,9285,,,False,False,JM
-2020-11-09,JPN,AS,Japan,34.886306,134.379711,108084,1818,,106266,,,False,False,JP
-2020-11-09,JOR,AS,Jordan,31.276778,37.130583,109321,1233,,108088,,,False,False,JO
-2020-11-09,KAZ,AS,Kazakhstan,48.193764,66.902264,155876,2266,,153610,,,False,False,KZ
-2020-11-09,KEN,AF,Kenya,0.170945,37.903969,62488,1111,,61377,,,False,False,KE
-2020-11-09,XKX,EU,Kosovo,41.85637,21.803351,24155,755,,23400,,,False,False,XK
-2020-11-09,KWT,AS,Kuwait,29.310278,47.493515,131743,811,,130932,,,False,False,KW
-2020-11-09,KGZ,AS,Kyrgyzstan,41.205528,74.779888,63390,1182,,62208,,,False,False,KG
+2020-11-09,JEY,EU,Jersey,49.217445,-2.141055,643,32,,611,,,False,False,JE
+2020-11-09,LAO,AS,Laos,18.205208,103.895043,24,0,,24,,,False,False,LA
 2020-11-09,LVA,EU,Latvia,56.875584,24.607722,8095,99,,7996,,,True,True,LV
-2020-11-09,LBN,AS,Lebanon,33.872639,35.876736,94236,723,,93513,,,False,False,LB
-2020-11-09,LBY,AF,Libya,26.338522,17.268816,68117,929,,67188,,,False,False,LY
+2020-11-09,LSO,AF,Lesotho,,,1967,44,,1923,,,False,False,LS
+2020-11-09,LBR,AF,Liberia,6.452424,-9.428598,1442,82,,1360,,,False,False,LR
 2020-11-09,LIE,EU,Liechtenstein,47.164696,9.555,788,3,,785,,,False,False,LI
 2020-11-09,LTU,EU,Lithuania,55.174112,23.906736,24699,207,,24492,,,True,True,LT
-2020-11-09,MDG,AF,Madagascar,-18.777193,46.854328,17223,249,,16974,,,False,False,MG
-2020-11-09,MWI,AF,Malawi,-13.24627,34.295385,5951,184,,5767,,,False,False,MW
-2020-11-09,MYS,AS,Malaysia,4.109319,109.455475,40209,286,,39923,,,False,False,MY
-2020-11-09,MDV,AS,Maldives,3.202833,73.165249,11986,40,,11946,,,False,False,MV
-2020-11-09,MLI,AF,Mali,17.579757,-3.998823,3676,137,,3539,,,False,False,ML
 2020-11-09,MLT,EU,Malta,35.946151,14.384612,7243,78,5185,1980,,,True,True,MT
-2020-11-09,MRT,AF,Mauritania,21.00681,-10.947098,7806,165,,7641,,,False,False,MR
-2020-11-09,MEX,NA,Mexico,23.624813,-102.578671,967825,95027,,872798,,,False,False,MX
+2020-11-09,MUS,AF,Mauritius,-15.422486,60.006449,452,10,,442,,,False,False,MU
 2020-11-09,MDA,EU,Moldova,46.979527,28.377195,82346,1893,,80453,,,False,False,MD
 2020-11-09,MCO,EU,Monaco,43.738348,7.424451,486,1,,485,,,False,False,MC
-2020-11-09,MNG,AS,Mongolia,46.860945,103.836986,368,0,,368,,,False,False,MN
 2020-11-09,MNE,EU,Montenegro,42.710152,19.410069,22805,337,,22468,,,False,True,ME
-2020-11-09,MAR,AF,Morocco,31.792306,-7.080168,256781,4272,,252509,,,False,False,MA
-2020-11-09,MOZ,AF,Mozambique,-18.670284,35.530157,13768,99,,13669,,,False,False,MZ
-2020-11-09,NAM,AF,Namibia,-22.965662,18.486165,13211,134,,13077,,,False,False,NA
-2020-11-09,NPL,AS,Nepal,28.395056,84.127803,194453,1108,,193345,,,False,False,NP
-2020-11-09,NIC,NA,Nicaragua,12.866726,-85.214298,5591,157,,5434,,,False,False,NI
-2020-11-09,NER,AF,Niger,17.611,8.080946,1243,69,,1174,,,False,False,NE
-2020-11-09,NGA,AF,Nigeria,9.084575,8.674252,64090,1154,,62936,,,False,False,NG
+2020-11-09,MSR,NA,Montserrat,16.749415,-62.192741,13,1,,12,,,False,False,MS
 2020-11-09,MKD,EU,North Macedonia,41.611,21.751417,39760,1136,,38624,,,False,True,MK
-2020-11-09,OMN,AS,Oman,21.516861,55.859291,118140,1301,,116839,,,False,False,OM
-2020-11-09,PAK,AS,Pakistan,30.441861,69.359766,344839,6977,,337862,,,False,False,PK
-2020-11-09,PSE,AS,Palestine,31.881464,34.894978,70161,587,,69574,,,False,False,PS
-2020-11-09,PAN,NA,Panama,8.41771,-80.112778,139527,2798,,136729,,,False,False,PA
-2020-11-09,PRY,SA,Paraguay,-23.45139,-58.453215,67589,1490,,66099,,,False,False,PY
-2020-11-09,PER,SA,Peru,-9.181352,-75.002365,922333,34879,,887454,,,False,False,PE
-2020-11-09,PHL,AS,Philippines,12.881958,121.766541,396395,7539,,388856,,,False,False,PH
 2020-11-09,POL,EU,Poland,51.92275,19.136875,568138,8045,,560093,,,True,True,PL
-2020-11-09,PRI,NA,Puerto Rico,18.223285,-66.592731,72065,872,,71193,,,False,False,PR
-2020-11-09,QAT,AS,Qatar,25.318833,51.19693,134203,232,,133971,,,False,False,QA
 2020-11-09,ROU,EU,Romania,45.947125,24.980514,304704,8009,,296695,,,True,True,RO
-2020-11-09,RWA,AF,Rwanda,-1.94708,29.876376,5222,36,,5186,,,False,False,RW
-2020-11-09,LCA,NA,Saint Lucia,13.904011,-60.974176,131,0,,131,,,False,False,LC
-2020-11-09,VCT,NA,Saint Vincent and the Grenadines,12.980909,-61.287392,76,0,,76,,,False,False,VC
-2020-11-09,STP,AF,Sao Tome and Principe,0.863044,6.968272,962,16,,946,,,False,False,ST
-2020-11-09,SAU,AS,Saudi Arabia,23.886291,45.081139,350592,5540,,345052,,,False,False,SA
-2020-11-09,SEN,AF,Senegal,14.499454,-14.445562,15708,326,,15382,,,False,False,SN
+2020-11-09,KNA,NA,Saint Kitts and Nevis,17.257731,-62.706413,19,0,,19,,,False,False,KN
 2020-11-09,SRB,EU,Serbia,44.206802,20.911009,62747,890,,61857,,,False,True,RS
-2020-11-09,SYC,AF,Seychelles,-7.018792,51.242138,158,0,,158,,,False,False,SC
-2020-11-09,SLE,AF,Sierra Leone,8.464806,-11.795934,2381,74,,2307,,,False,False,SL
-2020-11-09,SGP,AS,Singapore,1.364917,103.822872,58056,28,,58028,,,False,False,SG
 2020-11-09,SVK,EU,Slovakia,48.665639,19.709097,76072,366,19757,55949,1807,121,True,True,SK
-2020-11-09,SOM,AF,Somalia,5.152149,46.199616,4229,107,,4122,,,False,False,SO
-2020-11-09,ZAF,AF,South Africa,-28.48322,24.676997,737278,19809,,717469,,,False,False,ZA
-2020-11-09,KOR,AS,South Korea,35.901696,127.735889,27553,480,,27073,,,False,False,KR
-2020-11-09,LKA,AS,Sri Lanka,7.874097,80.767098,13929,35,,13894,,,False,False,LK
-2020-11-09,SDN,AF,Sudan,15.45847,30.217636,14090,1115,,12975,,,False,False,SD
-2020-11-09,SUR,SA,Suriname,3.917845,-56.032028,5239,113,,5126,,,False,False,SR
-2020-11-09,CHE,EU,Switzerland,46.815514,8.224472,218004,2888,17595,197521,3622,374,False,False,CH
-2020-11-09,TWN,AS,Taiwan,21.901806,121.471,578,7,,571,,,False,False,TW
-2020-11-09,TJK,AS,Tajikistan,,,11336,83,,11253,,,False,False,TJ
-2020-11-09,THA,AS,Thailand,13.036597,101.492515,3840,60,,3780,,,False,False,TH
-2020-11-09,TGO,AF,Togo,8.621697,0.829685,2516,57,,2459,,,False,False,TG
-2020-11-09,TTO,NA,Trinidad and Tobago,10.687223,-61.220852,5849,111,,5738,,,False,False,TT
-2020-11-09,TUN,AF,Tunisia,33.892166,9.561556,71119,1873,,69246,,,False,False,TN
+2020-11-09,SSD,AF,South Sudan,7.856272,30.040413,2955,59,,2896,,,False,False,SS
+2020-11-09,CHE,EU,Switzerland,46.815514,8.224472,218365,2890,17595,197880,3644,427,False,False,CH
 2020-11-09,TUR,AS,Turkey,38.961516,35.25175,394255,10887,,383368,,,False,True,TR
-2020-11-09,UGA,AF,Uganda,1.365188,32.304651,14403,132,,14271,,,False,False,UG
+2020-11-09,TCA,NA,Turks and Caicos islands,21.692252,-71.803756,707,6,,701,,,False,False,TC
 2020-11-09,UKR,EU,Ukraine,48.379888,31.168139,460331,8450,,451881,,,False,False,UA
-2020-11-09,ARE,AS,United Arab Emirates,24.358745,53.982494,142143,514,,141629,,,False,False,AE
-2020-11-09,USA,NA,United States of America,36.966428,-95.844032,9971651,237572,,9734079,,,False,False,US
-2020-11-09,VIR,NA,United States Virgin Islands,18.036736,-64.801704,1405,23,,1382,,,False,False,VI
-2020-11-09,URY,SA,Uruguay,-32.53152,-55.758328,3514,62,,3452,,,False,False,UY
-2020-11-09,UZB,AS,Uzbekistan,41.379722,64.564459,68788,585,,68203,,,False,False,UZ
-2020-11-09,VEN,SA,Venezuela,6.414107,-66.578926,94883,826,,94057,,,False,False,VE
-2020-11-09,ZMB,AF,Zambia,-13.151917,27.852537,16954,349,,16605,,,False,False,ZM
-2020-11-09,ZWE,AF,Zimbabwe,-19.013286,29.146666,8531,253,,8278,,,False,False,ZW
+2020-11-09,VNM,AS,Vietnam,15.974222,105.806431,1213,35,,1178,,,False,False,VN
+2020-11-09,ESH,AF,Western Sahara,,,766,1,,765,,,False,False,EH
+2020-11-09,YEM,AS,Yemen,,,2070,602,,1468,,,False,False,YE
