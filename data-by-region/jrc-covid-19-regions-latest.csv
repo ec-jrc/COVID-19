@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-08,CZE,Czech Republic,NOT SPECIFIED,,,414828,4858,243129,166841,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-11-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-11-06,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-11-06,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-11-06,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-11-06,DNK,Denmark,NOT SPECIFIED,,,53180,738,38627,13815,191,23,True,True,
-2020-11-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-11-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-11-09,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-11-09,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-11-09,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-11-09,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-11-09,DNK,Denmark,NOT SPECIFIED,,,55892,747,41232,13913,196,33,True,True,
+2020-11-09,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-11-09,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-11-09,EST,Estonia,Estonia,58.596209,25.023778,6125,75,,6050,,,True,True,EE0
 2020-11-09,FIN,Finland,Ahvenanmaa,60.240625,19.966666,43,,,43,,,True,True,FI200
 2020-11-09,FIN,Finland,Etelä-Karjala,61.217899,28.550289,99,,,99,,,True,True,FI1C5
@@ -460,11 +460,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-05,SWE,Sweden,Västernorrland,63.096635,17.251241,2355,,,2355,,,True,True,SE321
 2020-11-05,SWE,Sweden,Västmanland,59.801595,16.318208,4461,,,4461,,,True,True,SE125
 2020-11-05,SWE,Sweden,Västra Götaland,58.303302,12.891496,28085,,,28085,,,True,True,SE232
-2020-11-09,CHE,Switzerland,Aargau,47.410914,8.159107,9722,90,4040,5592,132,26,False,False,CH033
+2020-11-09,CHE,Switzerland,Aargau,47.410914,8.159107,10642,94,4425,6123,0,0,False,False,CH033
 2020-11-09,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,1025,12,0,1013,25,2,False,False,CH053
 2020-11-09,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,436,7,0,429,9,0,False,False,CH054
 2020-11-09,CHE,Switzerland,Basel City,47.561925,7.592768,3267,56,2477,734,102,19,False,False,CH031
-2020-11-09,CHE,Switzerland,Basel Country,47.441812,7.7644,3783,44,2358,1381,58,5,False,False,CH032
+2020-11-09,CHE,Switzerland,Basel Country,47.441812,7.7644,3839,44,2471,1324,67,5,False,False,CH032
 2020-11-09,CHE,Switzerland,Bern,46.825006,7.626925,19581,177,0,19404,398,53,False,False,CH021
 2020-11-09,CHE,Switzerland,Fribourg,46.710334,7.09922,15298,201,365,14732,192,24,False,False,CH022
 2020-11-09,CHE,Switzerland,Geneva,46.217114,6.131255,26490,357,973,25160,631,28,False,False,CH013
