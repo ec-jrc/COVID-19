@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-09,CZE,Czech Republic,NOT SPECIFIED,,,420875,5074,260542,155259,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-11-09,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-11-09,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-11-09,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-11-09,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-11-09,DNK,Denmark,NOT SPECIFIED,,,55892,747,41232,13913,196,33,True,True,
-2020-11-09,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-11-09,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-11-10,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-11-10,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-11-10,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-11-10,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-11-10,DNK,Denmark,NOT SPECIFIED,,,56958,750,42249,13959,211,33,True,True,
+2020-11-10,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-11-10,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-11-10,EST,Estonia,Estonia,58.596209,25.023778,6250,76,,6174,,,True,True,EE0
 2020-11-10,FIN,Finland,Ahvenanmaa,60.240625,19.966666,41,,,41,,,True,True,FI200
 2020-11-10,FIN,Finland,Etelä-Karjala,61.217899,28.550289,101,,,101,,,True,True,FI1C5
@@ -480,10 +480,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-10,CHE,Switzerland,Schwyz,47.06411,8.761568,3982,68,2995,919,0,0,False,False,CH063
 2020-11-10,CHE,Switzerland,Solothurn,47.336648,7.686944,3902,35,0,3867,60,11,False,False,CH023
 2020-11-10,CHE,Switzerland,St. Gallen,47.305025,9.019368,11086,133,226,10727,204,27,False,False,CH055
-2020-11-10,CHE,Switzerland,Thurgau,47.567205,9.112572,4271,54,198,4019,56,9,False,False,CH057
+2020-11-10,CHE,Switzerland,Thurgau,47.567205,9.112572,4270,54,198,4018,56,9,False,False,CH057
 2020-11-10,CHE,Switzerland,Ticino,46.297963,8.808447,10712,407,1108,9197,303,25,False,False,CH07
 2020-11-10,CHE,Switzerland,Uri,46.775402,8.627444,589,9,387,193,6,0,False,False,CH062
-2020-11-10,CHE,Switzerland,Valais,46.211633,7.611267,17817,299,384,17134,337,34,False,False,CH012
+2020-11-10,CHE,Switzerland,Valais,46.211633,7.611267,17817,299,384,17134,342,36,False,False,CH012
 2020-11-10,CHE,Switzerland,Vaud,46.56176,6.648929,34718,449,0,34269,497,76,False,False,CH011
 2020-11-10,CHE,Switzerland,Zug,47.161402,8.538864,2313,14,1821,478,29,5,False,False,CH066
 2020-11-10,CHE,Switzerland,Zurich,47.417407,8.655988,30181,226,0,29955,359,69,False,False,CH040
