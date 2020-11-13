@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-12,CZE,Czech Republic,NOT SPECIFIED,,,446675,5755,300719,140201,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-11-12,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-11-12,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-11-12,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-11-12,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-11-12,DNK,Denmark,NOT SPECIFIED,,,58963,755,44693,13515,239,44,True,True,
-2020-11-12,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-11-12,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-11-13,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-11-13,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-11-13,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-11-13,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-11-13,DNK,Denmark,NOT SPECIFIED,,,60000,756,45705,13539,236,40,True,True,
+2020-11-13,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-11-13,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-11-13,EST,Estonia,Estonia,58.596209,25.023778,6881,76,,6805,,,True,True,EE0
 2020-11-13,FIN,Finland,Ahvenanmaa,60.240625,19.966666,42,,,42,,,True,True,FI200
 2020-11-13,FIN,Finland,Etelä-Karjala,61.217899,28.550289,108,,,108,,,True,True,FI1C5
@@ -259,15 +259,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-13,POL,Poland,Warmińsko-mazurskie,53.835464,20.758506,17541,217,,17324,,,True,True,PL62
 2020-11-13,POL,Poland,Wielkopolskie,52.283858,17.248218,68000,919,,67081,,,True,True,PL41
 2020-11-13,POL,Poland,Zachodniopomorskie,53.582707,15.634824,21332,199,,21133,,,True,True,PL42
-2020-11-12,PRT,Portugal,Açores,37.775525,-25.494927,542,15,,527,,,True,True,PT20
-2020-11-12,PRT,Portugal,Alentejo,38.485499,-8.006668,3741,73,,3668,,,True,True,PT18
-2020-11-12,PRT,Portugal,Algarve,37.218389,-8.198488,3715,31,,3684,,,True,True,PT15
-2020-11-12,PRT,Portugal,Centro,40.111812,-8.012768,18508,395,,18113,,,True,True,PT16
+2020-11-13,PRT,Portugal,Açores,37.775525,-25.494927,561,15,,546,,,True,True,PT20
+2020-11-13,PRT,Portugal,Alentejo,38.485499,-8.006668,3855,74,,3781,,,True,True,PT18
+2020-11-13,PRT,Portugal,Algarve,37.218389,-8.198488,3801,32,,3769,,,True,True,PT15
+2020-11-13,PRT,Portugal,Centro,40.111812,-8.012768,19134,403,,18731,,,True,True,PT16
 2020-03-27,PRT,Portugal,Estrageiro,,,21,0,0,21,0,0,True,True,
-2020-11-12,PRT,Portugal,Lisbon,38.623843,-8.88436,73281,1206,,72075,,,True,True,PT17
-2020-11-12,PRT,Portugal,Madeira,32.736252,-16.972663,600,2,,598,,,True,True,PT30
-2020-11-12,PRT,Portugal,Norte,41.457206,-7.678153,97624,1459,,96165,,,True,True,PT11
-2020-11-12,PRT,Portugal,NOT SPECIFIED,,,0,,113689,-113689,2794,383,True,True,
+2020-11-13,PRT,Portugal,Lisbon,38.623843,-8.88436,75014,1233,,73781,,,True,True,PT17
+2020-11-13,PRT,Portugal,Madeira,32.736252,-16.972663,614,2,,612,,,True,True,PT30
+2020-11-13,PRT,Portugal,Norte,41.457206,-7.678153,101685,1491,,100194,,,True,True,PT11
+2020-11-13,PRT,Portugal,NOT SPECIFIED,,,0,,117382,-117382,2799,388,True,True,
 2020-11-13,ROU,Romania,Alba,46.172367,23.487279,7407,,,7407,,,True,True,RO121
 2020-11-13,ROU,Romania,Arad,46.273235,21.758454,8153,,,8153,,,True,True,RO421
 2020-11-13,ROU,Romania,Argeș,45.072253,24.814273,9331,,,9331,,,True,True,RO311
