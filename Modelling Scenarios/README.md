@@ -8,7 +8,7 @@
 ## Introduction
 The objective of this section is ...
 
-##Tools and folder structure
+## Tools and folder structure
 The following files are present in the main folder of the toolbox
 * scenarioReport.docx - scenario report v.1.0
 * graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
