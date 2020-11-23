@@ -14,6 +14,6 @@ The following files are present in the main folder of the toolbox
 * graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
 
 The following folders are contained in this folder
-* scenario forecast folders that contains
- * Epidemic Modelling v0710 - calibration program in python
- * forepolicies  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
+- scenario forecast folders that contains
+ - Epidemic Modelling v0710 - calibration program in python
+ - forepolicies  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
