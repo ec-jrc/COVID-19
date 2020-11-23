@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7726a073-3303-4147-8d7e-74788a157c14}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>main_wrapper.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>CondaEnv|CondaEnv|JRCfactsheets</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".spyproject\config\codestyle.ini" />
+    <Content Include=".spyproject\config\defaults\defaults-codestyle-0.2.0.ini" />
+    <Content Include=".spyproject\config\defaults\defaults-encoding-0.2.0.ini" />
+    <Content Include=".spyproject\config\defaults\defaults-vcs-0.2.0.ini" />
+    <Content Include=".spyproject\config\defaults\defaults-workspace-0.2.0.ini" />
+    <Content Include=".spyproject\config\encoding.ini" />
+    <Content Include=".spyproject\config\vcs.ini" />
+    <Content Include=".spyproject\config\workspace.ini" />
+    <Content Include="requirements.txt" />
+    <Content Include="requirements1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONF.py" />
+    <Compile Include="data_handlers\areanameGetter.py" />
+    <Compile Include="data_handlers\dhBase.py" />
+    <Compile Include="data_handlers\dhCSSE.py" />
+    <Compile Include="data_handlers\dhDemography.py" />
+    <Compile Include="data_handlers\dhWebcritech.py" />
+    <Compile Include="data_handlers\geodataGetter.py" />
+    <Compile Include="doc\docgenerator.py" />
+    <Compile Include="doc\get_metadata.py" />
+    <Compile Include="doc\get_report_entry.py" />
+    <Compile Include="fetch.py" />
+    <Compile Include="main.py" />
+    <Compile Include="main_wrapper.py" />
+    <Compile Include="metrics\COVID19_r0.py" />
+    <Compile Include="metrics\Rt_Systrom.py" />
+    <Compile Include="models\A_SIR.py" />
+    <Compile Include="models\ModelBase copy.py" />
+    <Compile Include="models\ModelBase.py" />
+    <Compile Include="models\old_vers_20202021\SIR1.py" />
+    <Compile Include="models\old_vers_20202021\SIRD1.py" />
+    <Compile Include="models\SEIR.py" />
+    <Compile Include="models\SEIRD.py" />
+    <Compile Include="models\SIR.py" />
+    <Compile Include="models\SIR1.py" />
+    <Compile Include="models\SIRD.py" />
+    <Compile Include="models\SIRD1.py" />
+    <Compile Include="models\SIRD2.py" />
+    <Compile Include="models\SIRD_modified_Caccavo.py" />
+    <Compile Include="models\SIR_betahat.py" />
+    <Compile Include="models\SIR_td.py" />
+    <Compile Include="optimization\optiBase.py" />
+    <Compile Include="optimization\optiLMFIT.py" />
+    <Compile Include="optimization\params_flattenerunflattener.py" />
+    <Compile Include="util\df_matcher.py" />
+    <Compile Include="util\filename_cleaner.py" />
+    <Compile Include="util\plotting.py" />
+    <Compile Include="util\plotting_geospatial.py" />
+    <Compile Include="util\plotting_stackplot.py" />
+    <Compile Include="__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".spyproject\" />
+    <Folder Include=".spyproject\config" />
+    <Folder Include=".spyproject\config\defaults" />
+    <Folder Include="data_handlers" />
+    <Folder Include="doc" />
+    <Folder Include="metrics" />
+    <Folder Include="models" />
+    <Folder Include="models\old_vers_20202021" />
+    <Folder Include="optimization" />
+    <Folder Include="util" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="CondaEnv|CondaEnv|JRCfactsheets" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
