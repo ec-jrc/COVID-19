@@ -32,3 +32,8 @@ In this simulation the following hypotheses have been adopted
 -	When the release conditions are reached the Rt returns to the value had during the calibration phase
 
 The calibration for 30 days allows to identify the current parameters of the SIR model. As an example, Figure 1 shows the calibration of Italy: dotted blue line are the observation, the orange line are the prediction. The model has been applied to each region in Italy, Spain and Germany while a country model was used for France because the regional epidemiological data are not available. An example of fitting quality is shown below for Italy.
+
+(Include image for Italy)
+
+As it can be seen from the plots below during the calibration period (27/7-27/8) the quality of the forecast is rather good.  In the following period, after 27/8 in some cases the curve respect quite well the observed behaviour which means that no difference in the mitigation of the outbreak.
+
