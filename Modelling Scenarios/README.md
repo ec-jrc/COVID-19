@@ -40,6 +40,7 @@ The calibration for 30 days allows to identify the current parameters of the SIR
 ![Example for Italy](https://github.com/ec-jrc/COVID-19/blob/master/Modelling%20Scenarios/scenario%20forecast%20folders/exampleCalibration.png?raw=true)
 
 As it can be seen from the plots below during the calibration period (27/7-27/8) the quality of the forecast is rather good.  In the following period, after 27/8 in some cases the curve respect quite well the observed behaviour which means that no difference in the mitigation of the outbreak.
+![forecast Italy](https://github.com/ec-jrc/COVID-19/blob/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts/1000000_1000000_control_at_0_0.95_BYREGION/000/Italy_newInfe.jpg?raw=true)
 
 ## Regional Analyses 
 (to be compiled by E.2)
