@@ -14,13 +14,15 @@ The following files are present in the main folder of the toolbox
 
 
 The following folders are contained in this folder
-- graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
+- [graphFinals.xlsx](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/graphFinal.xlsx) -  contains an EXCEL file with all the plots and data contained in the scenario report
 - [scenario forecast](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders) folders that contains
   - [Epidemic Modelling v0710](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts)  - calibration program in python
   - [foreProg](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/foreProg)  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
   - [Forecasts](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts) - all forecasts folders produced for the scenario report
+- Regional Analyses (to be compiled by E.2)
+- Mobility Analysis Tools  (to be compiled by E.6)
 
-## Forecast Model Description
+## Scenario Forecast Model Description
 In order to understand the possible evolution of the current situation, a SIR model has been setup, calibrated for the period 27 July-27 August 2020 and with the conditions frozen.
 For the simulation a simple SIR model was adopted (Susceptible, Infected, Recovery), in which the only parameters to be calibrated are the Rt and Trecovery:
 >       dSdt=-Rt/Trecov*S*I/N
