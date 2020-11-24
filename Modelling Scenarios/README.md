@@ -40,3 +40,8 @@ The calibration for 30 days allows to identify the current parameters of the SIR
 
 As it can be seen from the plots below during the calibration period (27/7-27/8) the quality of the forecast is rather good.  In the following period, after 27/8 in some cases the curve respect quite well the observed behaviour which means that no difference in the mitigation of the outbreak.
 
+## Regional Analyses 
+(to be compiled by E.2)
+
+## Mobility Analysis Tools  
+(to be compiled by E.6)
