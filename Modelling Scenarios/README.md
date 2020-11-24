@@ -19,13 +19,13 @@ The following folders are contained in this folder
   - [foreProg](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/foreProg)  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
   - [Forecasts](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts) - all forecasts folders produced for the scenario report
 
-## Model Description
+## Forecast Model Description
 In order to understand the possible evolution of the current situation, a SIR model has been setup, calibrated for the period 27 July-27 August 2020 and with the conditions frozen.
 For the simulation a simple SIR model was adopted (Susceptible, Infected, Recovery), in which the only parameters to be calibrated are the Rt and Trecovery:
 >       dSdt=-Rt/Trecov*S*I/N
 >       dIdt=Rt/Trecov*S*I/N - 1/Trecov*I
 >       dRdt=1/Trecov*I
-where N is the overall population, S is the susceptible population, I are the infected individuals and R are the recovered. Rt is the Reproduction number and Trecov the recovery time.
+where N is the overall population, S is the susceptible population, I are the infected individuals and R are the recovered. Rt is the Reproduction number and Trecov the recovery tim, both obtaned by the calibration process.
 In this simulation the following hypotheses have been adopted
 -	Initial situation based on the calibration of a SIR model applied to each region in Europe, based on the 1 month of data between 26 July and 26 Aug 2020
 -	R0 and Trecov maintained constant in the following 6 months for each region, unless the conditions for lockdown or partial lockdown are met
