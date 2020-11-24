@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-23,CZE,Czech Republic,NOT SPECIFIED,,,496638,7360,405982,83296,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2020-11-23,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2020-11-23,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2020-11-23,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2020-11-23,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2020-11-23,DNK,Denmark,NOT SPECIFIED,,,71654,789,56032,14833,261,41,True,True,
-2020-11-23,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2020-11-23,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2020-11-24,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2020-11-24,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2020-11-24,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2020-11-24,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2020-11-24,DNK,Denmark,NOT SPECIFIED,,,73021,797,57075,15149,255,40,True,True,
+2020-11-24,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2020-11-24,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2020-11-24,EST,Estonia,Estonia,58.596209,25.023778,9956,92,,9864,,,True,True,EE0
 2020-11-24,FIN,Finland,Ahvenanmaa,60.240625,19.966666,43,,,43,,,True,True,FI200
 2020-11-24,FIN,Finland,Etelä-Karjala,61.217899,28.550289,125,,,125,,,True,True,FI1C5
@@ -462,8 +462,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-23,SWE,Sweden,Västra Götaland,58.303302,12.891496,39278,,,39278,,,True,True,SE232
 2020-11-24,CHE,Switzerland,Aargau,47.410914,8.159107,15092,160,10515,4417,167,32,False,False,CH033
 2020-11-24,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,1456,21,0,1435,20,2,False,False,CH053
-2020-11-24,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,501,11,0,490,22,0,False,False,CH054
-2020-11-24,CHE,Switzerland,Basel City,47.561925,7.592768,4850,69,3867,914,0,0,False,False,CH031
+2020-11-24,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,514,13,0,501,26,0,False,False,CH054
+2020-11-24,CHE,Switzerland,Basel City,47.561925,7.592768,4850,69,3867,914,135,24,False,False,CH031
 2020-11-24,CHE,Switzerland,Basel Country,47.441812,7.7644,5793,64,4281,1448,88,10,False,False,CH032
 2020-11-24,CHE,Switzerland,Bern,46.825006,7.626925,26351,337,0,26014,371,71,False,False,CH021
 2020-11-24,CHE,Switzerland,Fribourg,46.710334,7.09922,19711,323,529,18859,155,22,False,False,CH022
