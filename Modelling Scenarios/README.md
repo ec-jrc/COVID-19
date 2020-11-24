@@ -11,9 +11,10 @@ The objective of this section is to illustrate the various elements of the scena
 ## Tools and folder structure
 The following files are present in the main folder of the toolbox
 * scenarioReport.docx - scenario report v.1.0  (** to be included)
-* graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
+
 
 The following folders are contained in this folder
+- graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
 - [scenario forecast](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders) folders that contains
   - [Epidemic Modelling v0710](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts)  - calibration program in python
   - [foreProg](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/foreProg)  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
