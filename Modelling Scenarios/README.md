@@ -6,11 +6,11 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/ec-jrc/COVID-19)](https://github.com/ec-jrc/COVID-19/commits/master)
 
 ## Introduction
-The objective of this section is ...
+The objective of this section is to illustrate the various elements of the scenario modelling that have been provided in the report:  'Scenarios for targeted and local COVID-19 Non Pharmaceutical Intervention Measures' , developed by JRC and provided in this folder. 
 
 ## Tools and folder structure
 The following files are present in the main folder of the toolbox
-* scenarioReport.docx - scenario report v.1.0
+* scenarioReport.docx - scenario report v.1.0  (** to be included)
 * graphFinals.xls -  contains an EXCEL file with all the plots and data contained in the scenario report
 
 The following folders are contained in this folder
