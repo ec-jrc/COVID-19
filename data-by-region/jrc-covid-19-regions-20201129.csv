@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-28,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,4389,44,,4345,,,True,True,HR04C
 2020-11-28,HRV,Croatia,Zadarska,44.347845,15.959404,3462,31,,3431,,,True,True,HR033
 2020-11-28,HRV,Croatia,Zagrebačka,45.82762,16.381796,9181,10,,9171,,,True,True,HR042
-2020-11-28,CYP,Cyprus,Cyprus,35.167406,33.435499,9983,48,,9935,,,True,True,CY
+2020-11-29,CYP,Cyprus,Cyprus,35.167406,33.435499,10231,48,,10183,,,True,True,CY
 2020-11-28,CZE,Czech Republic,NOT SPECIFIED,,,518649,8054,442276,68319,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -91,29 +91,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-11-27,DNK,Denmark,NOT SPECIFIED,,,76718,816,60312,15590,254,46,True,True,
 2020-11-27,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-11-27,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-11-28,EST,Estonia,Estonia,58.596209,25.023778,11323,104,,11219,,,True,True,EE0
-2020-11-28,FIN,Finland,Ahvenanmaa,60.240625,19.966666,45,,,45,,,True,True,FI200
-2020-11-28,FIN,Finland,Etelä-Karjala,61.217899,28.550289,139,,,139,,,True,True,FI1C5
-2020-11-28,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,274,,,274,,,True,True,FI194
-2020-11-28,FIN,Finland,Etelä-Savo,61.813578,27.347685,266,,,266,,,True,True,FI1D1
-2020-11-28,FIN,Finland,HUS,60.408524,24.7817,15032,,,15032,,,True,True,FI1B1
-2020-11-28,FIN,Finland,Itä-Savo,62.073919,28.846114,41,,,41,,,True,True,FI1X1
-2020-11-28,FIN,Finland,Kainuu,64.373656,28.743748,141,,,141,,,True,True,FI1D8
-2020-11-28,FIN,Finland,Kanta-Häme,60.921424,24.354383,391,,,391,,,True,True,FI1C2
-2020-11-28,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,115,,,115,,,True,True,FI1D5
-2020-11-28,FIN,Finland,Keski-Suomi,62.629133,25.476526,816,,,816,,,True,True,FI193
-2020-11-28,FIN,Finland,Kymenlaakso,60.826543,26.889951,347,,,347,,,True,True,FI1C4
-2020-11-28,FIN,Finland,Länsi-Pohja,66.133479,24.762611,303,,,303,,,True,True,FI1X2
-2020-11-28,FIN,Finland,Lappi,67.847438,26.444542,285,,,285,,,True,True,FI1D7
+2020-11-29,EST,Estonia,Estonia,58.596209,25.023778,11698,109,,11589,,,True,True,EE0
+2020-11-29,FIN,Finland,Ahvenanmaa,60.240625,19.966666,45,,,45,,,True,True,FI200
+2020-11-29,FIN,Finland,Etelä-Karjala,61.217899,28.550289,140,,,140,,,True,True,FI1C5
+2020-11-29,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,276,,,276,,,True,True,FI194
+2020-11-29,FIN,Finland,Etelä-Savo,61.813578,27.347685,267,,,267,,,True,True,FI1D1
+2020-11-29,FIN,Finland,HUS,60.408524,24.7817,15225,,,15225,,,True,True,FI1B1
+2020-11-29,FIN,Finland,Itä-Savo,62.073919,28.846114,41,,,41,,,True,True,FI1X1
+2020-11-29,FIN,Finland,Kainuu,64.373656,28.743748,142,,,142,,,True,True,FI1D8
+2020-11-29,FIN,Finland,Kanta-Häme,60.921424,24.354383,392,,,392,,,True,True,FI1C2
+2020-11-29,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,115,,,115,,,True,True,FI1D5
+2020-11-29,FIN,Finland,Keski-Suomi,62.629133,25.476526,818,,,818,,,True,True,FI193
+2020-11-29,FIN,Finland,Kymenlaakso,60.826543,26.889951,356,,,356,,,True,True,FI1C4
+2020-11-29,FIN,Finland,Länsi-Pohja,66.133479,24.762611,303,,,303,,,True,True,FI1X2
+2020-11-29,FIN,Finland,Lappi,67.847438,26.444542,285,,,285,,,True,True,FI1D7
 2020-10-28,FIN,Finland,NOT SPECIFIED,,,,354,,-354,,,True,True,
-2020-11-28,FIN,Finland,Päijät-Häme,61.217271,25.721465,550,,,550,,,True,True,FI1C3
-2020-11-28,FIN,Finland,Pirkanmaa,61.715017,23.913902,1172,,,1172,,,True,True,FI197
-2020-11-28,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,229,,,229,,,True,True,FI1D3
-2020-11-28,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,891,,,891,,,True,True,FI1D9
-2020-11-28,FIN,Finland,Pohjois-Savo,63.173162,27.465765,403,,,403,,,True,True,FI1D2
-2020-11-28,FIN,Finland,Satakunta,61.527072,22.157717,213,,,213,,,True,True,FI196
-2020-11-28,FIN,Finland,Vaasa,63.077479,22.196054,1100,,,1100,,,True,True,FI195
-2020-11-28,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,1554,,,1554,,,True,True,FI1C1
+2020-11-29,FIN,Finland,Päijät-Häme,61.217271,25.721465,553,,,553,,,True,True,FI1C3
+2020-11-29,FIN,Finland,Pirkanmaa,61.715017,23.913902,1176,,,1176,,,True,True,FI197
+2020-11-29,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,234,,,234,,,True,True,FI1D3
+2020-11-29,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,937,,,937,,,True,True,FI1D9
+2020-11-29,FIN,Finland,Pohjois-Savo,63.173162,27.465765,411,,,411,,,True,True,FI1D2
+2020-11-29,FIN,Finland,Satakunta,61.527072,22.157717,233,,,233,,,True,True,FI196
+2020-11-29,FIN,Finland,Vaasa,63.077479,22.196054,1100,,,1100,,,True,True,FI195
+2020-11-29,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,1580,,,1580,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
 2020-11-27,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,5077,21957,-27034,5706,695,True,True,FRK
 2020-11-27,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,1864,7284,-9148,1743,239,True,True,FRC
