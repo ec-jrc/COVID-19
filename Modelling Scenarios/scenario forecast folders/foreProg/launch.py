@@ -4,7 +4,7 @@ import os
 from policiesScenario import mainScenario
 #from Epidemic_Model_v0710.main_wrapper import mainOptimize
 from datetime import datetime
-from analisi import analisiGlob,getAllRt
+from analisi import analisiGlob,getAllRt, getPopRegion, getVariabilityRegions
 
 import socket
 machine=socket.gethostname()
@@ -47,14 +47,18 @@ if SpecialCases:
     DAYFORE='2020-10-19'
     #DAYFORE='2020-09-29_final_0.95'
     DAYFORE='20200929_final_0.95_R'
+    DAYFORE='20200929_final_0.95_RR'
     force=True
 else:
     force=False
 
 direIn=dirExecEpi+"_report/"+DAYFORE
 
-#c0=103;c1=103;analisiGlob(dire0,DAYFORE,c0,c1)
-getAllRt(dire0)
+c0=103;c1=103;analisiGlob(dire0,DAYFORE,c0,c1)
+#getPopRegion(direIn, 'Hungary')
+#getVariabilityRegions(direIn)
+
+#getAllRt(dire0)
 
 calibrationPeriod=30   # 30
 
@@ -100,7 +104,7 @@ if (os.path.exists(fname1) and os.path.exists(fname2)) or force:
         #            if not os.path.exists(dire1+'/000/Italy_newInfe.jpg'):
         #                c0=-1;c1=-1;prefix='lock_'+format(lockPerc)+'_'+format(unlockPerc)+'_wait_'+format(dayswait)+'_'+format(targetRt);FILTER_COUNTRY={'Italy':['2020-10-19',targetRt,-1,-1,lockPerc,unlockPerc,dayswait]}
         #                mainScenario(dire0,direIn,DAYFORE,c0,c1,FILTER_COUNTRY,prefix,calibrationPeriod)
-        c0=106;c1=106;FILTER_COUNTRY='';prefix=''
+        c0=103;c1=103;FILTER_COUNTRY='';prefix=''
         mainScenario(dire0,direIn,DAYFORE,c0,c1,FILTER_COUNTRY,prefix,calibrationPeriod)
     else:
         c0=100;c1=100;FILTER_COUNTRY='';prefix=''
