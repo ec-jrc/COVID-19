@@ -14,6 +14,7 @@ from datetime import timedelta
 #from ECDC_model import ECDC_model
 from analisi import analisi
 from plotUtils import plotFig
+from polyScenarioNat import polyNational
 #def getCountries():
 #    url='https://raw.githubusercontent.com/ec-jrc/COVID-19/master/data-by-country/jrc-covid-19-all-days-by-country.csv'
 #    if  os.path.exists('tmp.txt'):
@@ -95,6 +96,7 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
     random.seed()
     #rows=getrows()
     FILE_EPIDEMIOLOGY_WEBCRITECH_COUNTRIES=dire0+DAYFORE+'/jrc-covid-19-all-days-by-country.csv'
+
 
     if not os.path.exists(FILE_EPIDEMIOLOGY_WEBCRITECH_COUNTRIES):
         #os.remove(FILE_EPIDEMIOLOGY_WEBCRITECH_COUNTRIES)
@@ -297,7 +299,8 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
 
     #---!-----------STUDY LOOP---------
         
-        for STUDY in ['BYCOUNTRY','BYREGION']:
+
+        for STUDY in ['BYCOUNTRYNAT','BYCOUNTRYNAT_ANYREG','BYCOUNTRY','BYREGION']:
         #for STUDY in ['BYREGION']:
             try:
                 if c0 !=-1:
@@ -349,6 +352,10 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                     #ecList = "Greece".split(', ')
                     eucmParticip = "Iceland, Montenegro, North Macedonia, Norway, Serbia, Turkey, United Kingdom, Switzerland".split(', ')
 
+                    if STUDY=='BYCOUNTRYNAT' or STUDY=='BYCOUNTRYNAT_ANYREG':
+                        polyNational(direIn,dire,data, STUDY,ecList,lockMax,lockMin,R0Target,StartTimeControl,fmc1,fmc2)
+                        continue
+
                     EU={}
                     lock=False
 
@@ -364,10 +371,10 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                         else:
                             cou=reg
                 
-                        #if cou=='Slovenia':
-                        #   cou=cou
-                        #else:
-                        #    continue
+                        if cou=='Hungary':
+                           cou=cou
+                        else:
+                            continue
                 
                         print (cou,reg)
                         if not (cou in ecList or cou in eucmParticip):
@@ -437,6 +444,7 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                         NEWPOS=[]
                         LOCK=[]
                         REPR=[]
+                        CUM_14days=[]
                         II.append(I)
                         RR.append(R)
                         SS.append(S)
@@ -495,7 +503,8 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                                 if len(CUMPOS)>15/dt:
                                     cumIncidence_14days=(CP-CUMPOS[len(CUMPOS)-int(14/dt)])*100000.0/N           
                             #if cou=='France':
-                            #    print(i,cumIncidence_14days,lockMax,lockMin)
+                            print(i,cumIncidence_14days,lockMax,lockMin)
+                            CUM_14days.append(cumIncidence_14days)
                             ICUEstimate=npo*0.09
                             if xdata[i]>StartTimeControl:
                                 if (cumIncidence_14days>lockMax or (ICUEstimate>iculockMax and xdata[i]-tunlock>waitTime)) and not lock :  # and (I0<lockMax):
@@ -542,7 +551,7 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                         if not cou in EU:
                             EU[cou]=[]
 
-                        EU[cou].append([reg,II,SS,CUMPOS,N,LOCK,NEWPOS,REPR])
+                        EU[cou].append([reg,II,SS,CUMPOS,N,LOCK,NEWPOS,REPR,CUM_14days])
                 
                         if False:
                             fig, ax = plt.subplots()
@@ -743,7 +752,12 @@ def mainScenario(dire0,direIn,DAYFORE, c0=100,c1=100,FILTERCOUNTRY={},prefix='',
                         ymin=0,ymax=np.max(NEWPOS_DATA)*2,
                         #title=cou+': New Positive Quantities',saveFile='')
                         title=cou+': New Positive Quantities',saveFile=fname)
-        
+                    
+                    fname=dire+ "/"+cou.replace(' ','_') +"_np14.jpg"
+                    plotFig(dates1=TIME,q1=CUM_14days,lab1='NP14_100000 '+cou,
+                        #title=cou+': New Positive Quantities',saveFile='')
+                        title=cou+': New Pos 14 days per 100000 pop',saveFile=fname)
+                    
                     if (cou=='France' or cou=='Denmark' or cou=='Greece' or cou=='Slovenia'  or cou=='Iceland') and STUDY=='BYCOUNTRY':
                         if c0 !=-1:
                             direREG=dire0+'/'+DAYFORE+'/'+format(int(lockMax)) +"_"+format(int(lockMin))+"_control_at_"+format(StartTimeControl)+"_"+format(R0Target)+'_BYREGION/'+"{:03d}".format(mc)
