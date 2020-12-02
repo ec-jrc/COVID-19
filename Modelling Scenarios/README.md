@@ -58,6 +58,7 @@ The Mobility Visualisation Platform provides access to mobility data products ov
 -	“Mobility Indicators”  to quantify the impact of adopting/lifting restrictive measures through mobility variations in almost real-time;
 -	“Connectivity”  between regions predict/understand dynamics in early phases of the epidemic and monitor the effects of outward/inward mobility restriction measures;
 -	“Mobility Functional Areas”  of highly interconnected regions that can be the target of selective intelligent measures, providing a balance between epidemiological effects and socio-economic impacts.
+
 Access to the platform and products (i.e. indicators, connectivity and Mobility Functional Area) is provided upon request to local, regional and national practitioners and policymakers in the Member States and the Commission. 
 
 1. Santamaria, C., Sermi, F., Spyratos, S., Iacus, S. M., Annunziato, A., Tarchi, D., and Vespe, M. (2020). Measuring the impact of covid-19 confinement measures on human mobility using mobile positioning data. a european regional analysis. Safety Science, 132:104925.
