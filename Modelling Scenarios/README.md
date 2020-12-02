@@ -60,11 +60,11 @@ The Mobility Visualisation Platform provides access to mobility data products ov
 -	“Mobility Functional Areas”<sup>3</sup>  of highly interconnected regions that can be the target of selective intelligent measures, providing a balance between epidemiological effects and socio-economic impacts.
 
 Access to the platform and products (i.e. indicators, connectivity and Mobility Functional Area) is provided upon request to local, regional and national practitioners and policymakers in the Member States and the Commission. 
-
+--
 <sub>
 (1) Santamaria, C., Sermi, F., Spyratos, S., Iacus, S. M., Annunziato, A., Tarchi, D., and Vespe, M. (2020). Measuring the impact of covid-19 confinement measures on human mobility using mobile positioning data. a european regional analysis. Safety Science, 132:104925.</sub>
 
 <sub>(2) Iacus, S. M., Santamaria, C., Sermi, F., Spyratos, S., Tarchi, D., and Vespe, M. (2020a). Human mobility and covid-19 initial dynamics. Nonlinear Dynamics</sub>
 
-<sub>acus, S. M., Santamaria, C., Sermi, F., Spyratos, S., Tarchi, D., and Vespe, M. (2020b). Mapping mobility functional areas (MFA) using mobile positioning data to inform covid-19 policies, JRC121299.
+<sub>(3) Iacus, S. M., Santamaria, C., Sermi, F., Spyratos, S., Tarchi, D., and Vespe, M. (2020b). Mapping mobility functional areas (MFA) using mobile positioning data to inform covid-19 policies, JRC121299.
 </sub>
