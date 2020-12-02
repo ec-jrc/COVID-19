@@ -61,7 +61,7 @@ The Mobility Visualisation Platform provides access to mobility data products ov
 
 Access to the platform and products (i.e. indicators, connectivity and Mobility Functional Area) is provided upon request to local, regional and national practitioners and policymakers in the Member States and the Commission. 
 
---
+<hr/>
 <sub>
 (1) Santamaria, C., Sermi, F., Spyratos, S., Iacus, S. M., Annunziato, A., Tarchi, D., and Vespe, M. (2020). Measuring the impact of covid-19 confinement measures on human mobility using mobile positioning data. a european regional analysis. Safety Science, 132:104925.</sub>
 
