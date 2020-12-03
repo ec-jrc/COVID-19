@@ -20,8 +20,8 @@ The following folders are contained in this folder
   - [Epidemic Modelling v0710](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts)  - calibration program in python
   - [foreProg](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/foreProg)  - forecast programs in python to estimate the behaviour in 6 months. It uses the output created by the Epidemic Modelling v0710 programmes
   - [Forecasts](https://github.com/ec-jrc/COVID-19/tree/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts) - all forecasts folders produced for the scenario report
-- Regional Analyses (to be compiled by E.2)
-- Mobility Analysis Tools  (to be compiled by E.6)
+- Regional Analyses (to be comppleted)
+- Mobility Analysis Tools  
 
 ## Scenario Forecast Model Description
 In order to understand the possible evolution of the current situation, a SIR model has been setup, calibrated for the period 27 July-27 August 2020 and with the conditions frozen.
@@ -43,7 +43,7 @@ As it can be seen from the plots below during the calibration period (27/7-27/8)
 ![forecast Italy](https://github.com/ec-jrc/COVID-19/blob/master/Modelling%20Scenarios/scenario%20forecast%20folders/forecasts/1000000_1000000_control_at_0_0.95_BYREGION/000/Italy_newInfe.jpg?raw=true)
 
 ## Regional Analyses 
-(to be compiled by E.2)
+(to be completed)
 
 ## Mobility Functional Areas (MFAs):
 MFAs are built starting from the daily Origin-Destination-Matrix (ODM) by considering the relative distribution of movements from each given origin to all possible destinations. This distribution is truncated so that only relative movements above 15% (mode = 1, or 30% mode = 2) remain. All positive entries are set to 1 and this new matrix P represents a proximity matrix of connected regions. Then, an adjacency matrix A is obtained through the formula A = 0.5 * (P * P’). Each element of the matrix A[i,j] is either 0, if regions i and j are not connected, A[I,j] = 0.5 if there are movements only from i to j or from j to i, and, A[I,j] =1 if the connection between i and j is bilateral. 
