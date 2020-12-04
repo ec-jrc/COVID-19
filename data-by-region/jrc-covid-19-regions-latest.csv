@@ -185,7 +185,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-25,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,0,,,0,,,False,True,ISX08
 2020-06-25,ISL,Iceland,West Fjords,65.820831,-21.86654,0,,,0,,,False,True,ISX09
 2020-06-25,ISL,Iceland,West Iceland,64.843136,-21.691436,0,,,0,,,False,True,ISX10
-2020-12-04,IRL,Ireland,Ireland,53.41975,-8.240472,73228,2080,,71148,239,,True,True,IE
+2020-12-04,IRL,Ireland,Ireland,53.41975,-8.240472,73228,2080,,71148,239,27,True,True,IE
 2020-12-03,ITA,Italy,Abruzzo,42.228034,13.855137,29196,940,10428,17828,774,76,True,True,ITF1
 2020-12-03,ITA,Italy,Basilicata,40.500665,16.082246,8586,158,2023,6405,181,20,True,True,ITF5
 2020-12-03,ITA,Italy,Bolzano,46.697344,11.417082,24562,558,12789,11215,463,35,True,True,ITH1
@@ -212,7 +212,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-12-04,LTU,Lithuania,Lithuania,55.174112,23.906736,69582,590,,68992,,,True,True,LT
 2020-12-04,LUX,Luxembourg,Luxembourg,49.815764,6.131514,35802,334,,35468,,,True,True,LU
-2020-12-03,MLT,Malta,Malta,35.946151,14.384612,10197,148,8015,2034,,,True,True,MT001
+2020-12-04,MLT,Malta,Malta,35.946151,14.384612,10320,149,8120,2051,,,True,True,MT001
 2020-12-04,MDA,Moldova,Moldova,46.979527,28.377195,112307,2363,,109944,,,False,False,MD
 2020-12-04,MCO,Monaco,Monaco,43.738348,7.424451,630,2,,628,,,False,False,MC
 2020-12-04,MNE,Montenegro,Montenegro,42.710152,19.410069,36932,516,,36416,,,False,True,ME
