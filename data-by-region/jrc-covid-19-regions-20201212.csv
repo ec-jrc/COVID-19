@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-12,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,5771,68,,5703,,,True,True,HR04C
 2020-12-12,HRV,Croatia,Zadarska,44.347845,15.959404,5253,47,,5206,,,True,True,HR033
 2020-12-12,HRV,Croatia,Zagrebačka,45.82762,16.381796,12047,10,,12037,,,True,True,HR042
-2020-12-11,CYP,Cyprus,Cyprus,35.167406,33.435499,14052,72,,13980,,,True,True,CY
+2020-12-12,CYP,Cyprus,Cyprus,35.167406,33.435499,14476,75,,14401,,,True,True,CY
 2020-12-11,CZE,Czech Republic,NOT SPECIFIED,,,575422,9450,503017,62955,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-11,DNK,Denmark,NOT SPECIFIED,,,103564,927,76927,25710,361,48,True,True,
 2020-12-11,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-12-11,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-12-11,EST,Estonia,Estonia,58.596209,25.023778,16598,141,,16457,,,True,True,EE0
+2020-12-12,EST,Estonia,Estonia,58.596209,25.023778,16956,142,,16814,,,True,True,EE0
 2020-12-12,FIN,Finland,Ahvenanmaa,60.240625,19.966666,55,,,55,,,True,True,FI200
 2020-12-12,FIN,Finland,Etelä-Karjala,61.217899,28.550289,187,,,187,,,True,True,FI1C5
 2020-12-12,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,365,,,365,,,True,True,FI194
@@ -180,7 +180,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-25,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,0,,,0,,,False,True,IS001
 2020-06-25,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,0,,,0,,,False,True,ISX04
 2020-06-25,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,0,,,0,,,False,True,ISX05
-2020-12-11,ISL,Iceland,NOT SPECIFIED,,,5524,28,,5496,,,False,True,
+2020-12-12,ISL,Iceland,NOT SPECIFIED,,,5539,28,,5511,,,False,True,
 2020-06-25,ISL,Iceland,South Iceland,64.135334,-19.242939,0,,,0,,,False,True,ISX07
 2020-06-25,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,0,,,0,,,False,True,ISX08
 2020-06-25,ISL,Iceland,West Fjords,65.820831,-21.86654,0,,,0,,,False,True,ISX09
@@ -207,8 +207,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-11,ITA,Italy,Umbria,42.966781,12.49094,25834,507,20238,5089,368,54,True,True,ITI2
 2020-12-11,ITA,Italy,Valle d'Aosta,45.732414,7.393651,6812,347,5749,716,97,9,True,True,ITC2
 2020-12-11,ITA,Italy,Veneto,45.664735,11.84235,181451,4659,91699,85093,2915,349,True,True,ITH3
-2020-12-11,LVA,Latvia,Latvia,56.875584,24.607722,23706,304,,23402,,,True,True,LV0
-2020-12-11,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,1477,17,,1460,,,False,False,LI
+2020-12-12,LVA,Latvia,Latvia,56.875584,24.607722,24386,319,,24067,,,True,True,LV0
+2020-12-12,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,1502,18,,1484,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-12-11,LTU,Lithuania,Lithuania,55.174112,23.906736,86949,764,,86185,,,True,True,LT
 2020-12-11,LUX,Luxembourg,Luxembourg,49.815764,6.131514,40037,384,,39653,,,True,True,LU
