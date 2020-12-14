@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-11,DNK,Denmark,NOT SPECIFIED,,,103564,927,76927,25710,361,48,True,True,
 2020-12-11,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-12-11,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-12-13,EST,Estonia,Estonia,58.596209,25.023778,17713,148,,17565,,,True,True,EE0
+2020-12-14,EST,Estonia,Estonia,58.596209,25.023778,18055,149,,17906,,,True,True,EE0
 2020-12-14,FIN,Finland,Ahvenanmaa,60.240625,19.966666,56,,,56,,,True,True,FI200
 2020-12-14,FIN,Finland,Etelä-Karjala,61.217899,28.550289,191,,,191,,,True,True,FI1C5
 2020-12-14,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,365,,,365,,,True,True,FI194
@@ -180,7 +180,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-06-25,ISL,Iceland,Greater Reykjavík,64.155049,-21.636153,0,,,0,,,False,True,IS001
 2020-06-25,ISL,Iceland,Northeast Iceland,65.534498,-17.118685,0,,,0,,,False,True,ISX04
 2020-06-25,ISL,Iceland,Northwest Iceland,65.367006,-19.676714,0,,,0,,,False,True,ISX05
-2020-12-13,ISL,Iceland,NOT SPECIFIED,,,5552,28,,5524,,,False,True,
+2020-12-14,ISL,Iceland,NOT SPECIFIED,,,5557,28,,5529,,,False,True,
 2020-06-25,ISL,Iceland,South Iceland,64.135334,-19.242939,0,,,0,,,False,True,ISX07
 2020-06-25,ISL,Iceland,Suðurnes Peninsula,63.930366,-22.310028,0,,,0,,,False,True,ISX08
 2020-06-25,ISL,Iceland,West Fjords,65.820831,-21.86654,0,,,0,,,False,True,ISX09
@@ -207,7 +207,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-13,ITA,Italy,Umbria,42.966781,12.49094,26190,526,20856,4808,339,45,True,True,ITI2
 2020-12-13,ITA,Italy,Valle d'Aosta,45.732414,7.393651,6871,353,5896,622,82,8,True,True,ITC2
 2020-12-13,ITA,Italy,Veneto,45.664735,11.84235,190641,4801,95141,90699,2946,340,True,True,ITH3
-2020-12-13,LVA,Latvia,Latvia,56.875584,24.607722,25046,324,,24722,,,True,True,LV0
+2020-12-14,LVA,Latvia,Latvia,56.875584,24.607722,25675,349,,25326,,,True,True,LV0
 2020-12-12,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,1502,18,,1484,,,False,False,LI
 2020-03-25,LIE,Liechtenstein,NOT SPECIFIED,,,0,0,0,0,,,False,False,
 2020-12-13,LTU,Lithuania,Lithuania,55.174112,23.906736,93101,815,,92286,,,True,True,LT
