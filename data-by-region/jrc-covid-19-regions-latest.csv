@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-18,DNK,Denmark,NOT SPECIFIED,,,128321,1007,87560,39754,568,79,True,True,
 2020-12-18,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2020-12-18,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2020-12-19,EST,Estonia,Estonia,58.596209,25.023778,21219,170,,21049,,,True,True,EE0
+2020-12-20,EST,Estonia,Estonia,58.596209,25.023778,21794,174,,21620,,,True,True,EE0
 2020-12-19,FIN,Finland,Ahvenanmaa,60.240625,19.966666,65,,,65,,,True,True,FI200
 2020-12-19,FIN,Finland,Etelä-Karjala,61.217899,28.550289,207,,,207,,,True,True,FI1C5
 2020-12-19,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,383,,,383,,,True,True,FI194
@@ -243,7 +243,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-18,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,1674,,,1674,,,False,True,NO033
 2020-12-18,NOR,Norway,Vestland,60.952729,6.513828,5369,,,5369,,,False,True,NO05
 2020-12-18,NOR,Norway,Viken,60.020274,9.849655,13782,,,13782,,,False,True,NO012
-2020-12-19,POL,Poland,NOT SPECIFIED,,,1194110,25254,,1168856,,,True,True,
+2020-12-20,POL,Poland,NOT SPECIFIED,,,1202700,25397,,1177303,,,True,True,
 2020-12-19,PRT,Portugal,Açores,37.775525,-25.494927,1551,21,,1530,,,True,True,PT20
 2020-12-19,PRT,Portugal,Alentejo,38.485499,-8.006668,8862,162,,8700,,,True,True,PT18
 2020-12-19,PRT,Portugal,Algarve,37.218389,-8.198488,6526,63,,6463,,,True,True,PT15
