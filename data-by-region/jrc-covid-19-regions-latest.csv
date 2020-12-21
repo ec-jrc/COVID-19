@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-21,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,6473,92,,6381,,,True,True,HR04C
 2020-12-21,HRV,Croatia,Zadarska,44.347845,15.959404,6269,77,,6192,,,True,True,HR033
 2020-12-21,HRV,Croatia,Zagrebačka,45.82762,16.381796,14976,10,,14966,,,True,True,HR042
-2020-12-14,CYP,Cyprus,Cyprus,35.167406,33.435499,15101,78,,15023,,,True,True,CY
+2020-12-19,CYP,Cyprus,Cyprus,35.167406,33.435499,17718,116,2057,15545,581,,True,True,CY
 2020-12-20,CZE,Czech Republic,NOT SPECIFIED,,,627523,10411,534686,82426,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -471,7 +471,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-21,CHE,Switzerland,Valais,46.211633,7.611267,24446,573,0,23873,92,19,False,False,CH012
 2020-12-21,CHE,Switzerland,Vaud,46.56176,6.648929,54053,758,0,53295,340,55,False,False,CH011
 2020-12-21,CHE,Switzerland,Zug,47.161402,8.538864,4424,59,4037,328,29,3,False,False,CH066
-2020-12-21,CHE,Switzerland,Zurich,47.417407,8.655988,59805,678,0,59127,488,99,False,False,CH040
+2020-12-21,CHE,Switzerland,Zurich,47.417407,8.655988,61699,708,0,60991,538,98,False,False,CH040
 2020-12-14,TUR,Turkey,Turkey,38.961515,35.25175,995471,16199,,979272,,,False,True,TU
 2020-12-14,UKR,Ukraine,NOT SPECIFIED,,,900666,15247,,885419,,,False,False,
 2020-12-20,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,8176,,0,8176,,,False,True,UKM93
