@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-24,ALB,Albania,Shkodër,42.17682,19.719451,3214,68,1833,1313,15,0,False,False,AL015
 2020-12-24,ALB,Albania,Tiranë,41.268583,19.793936,24907,469,11349,13089,151,5,False,False,AL022
 2020-12-24,ALB,Albania,Vlorë,40.162418,19.793592,2795,46,1687,1062,16,3,False,False,AL035
-2020-12-24,AND,Andorra,Andorra,42.542268,1.596865,7699,83,,7616,15,,False,False,AD
+2020-12-25,AND,Andorra,Andorra,42.542268,1.596865,7756,83,,7673,17,,False,False,AD
 2020-12-24,AUT,Austria,Burgenland,47.541449,16.520206,9038,163,7896,979,45,10,True,True,AT11
 2020-12-24,AUT,Austria,Kärnten,46.715832,14.455532,20444,435,12938,7071,163,13,True,True,AT21
 2020-12-24,AUT,Austria,Niederösterreich,48.27051,15.763245,51802,813,42779,8210,353,61,True,True,AT12
@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-24,BEL,Belgium,Flanders,51.036569,4.234165,269425,9311,,260114,1435,272,True,True,BE2
 2020-12-24,BEL,Belgium,NOT SPECIFIED,,,10423,0,,10423,0,0,True,True,
 2020-12-24,BEL,Belgium,Wallonia,50.312074,5.019093,274508,7156,,267352,716,168,True,True,BE3
-2020-12-24,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,108298,3878,73896,30524,,,False,False,BA
+2020-12-25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,108891,3901,74667,30323,,,False,False,BA
 2020-12-25,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,10138,10,10,10118,,,True,True,BG413
 2020-12-25,BGR,Bulgaria,Burgas,42.491848,27.306892,11056,1,19,11036,,,True,True,BG341
 2020-12-25,BGR,Bulgaria,Dobrich,43.65074,27.936751,3403,0,2,3401,,,True,True,BG332
@@ -435,7 +435,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-22,SWE,Sweden,Västernorrland,63.096635,17.251241,9267,,,9267,,,True,True,SE321
 2020-12-22,SWE,Sweden,Västmanland,59.801595,16.318208,12673,,,12673,,,True,True,SE125
 2020-12-22,SWE,Sweden,Västra Götaland,58.303302,12.891496,64588,,,64588,,,True,True,SE232
-2020-12-25,CHE,Switzerland,Aargau,47.410914,8.159107,26244,370,20035,5839,197,36,False,False,CH033
+2020-12-25,CHE,Switzerland,Aargau,47.410914,8.159107,26711,395,20500,5816,172,37,False,False,CH033
 2020-12-25,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2287,38,0,2249,17,1,False,False,CH053
 2020-12-25,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,664,15,0,649,5,0,False,False,CH054
 2020-12-25,CHE,Switzerland,Basel City,47.561925,7.592768,7735,136,6872,727,131,19,False,False,CH031
