@@ -199,7 +199,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-27,ITA,Italy,Valle d'Aosta,45.732414,7.393651,7181,374,6375,432,85,2,True,True,ITC2
 2020-12-27,ITA,Italy,Veneto,45.664735,11.84235,240652,6038,144593,90021,2986,360,True,True,ITH3
 2020-12-27,LVA,Latvia,Latvia,56.875584,24.607722,36330,559,,35771,,,True,True,LV0
-2020-12-26,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2000,31,1591,378,,,False,False,LI
+2020-12-27,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2018,31,1591,396,,,False,False,LI
 2020-12-26,LTU,Lithuania,Lithuania,55.174112,23.906736,130598,1254,61751,67593,,,True,True,LT
 2020-12-21,LUX,Luxembourg,Luxembourg,49.815764,6.131514,44809,452,,44357,,,True,True,LU
 2020-12-27,MLT,Malta,Malta,35.946151,14.384612,12325,210,10668,1447,,,True,True,MT001
@@ -219,7 +219,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-27,NLD,Netherlands,South Holland,51.968696,4.541274,197040,2734,,194306,4769,,True,True,NL33
 2020-12-27,NLD,Netherlands,Utrecht,52.078728,5.214048,64490,832,,63658,1616,,True,True,NL31
 2020-12-27,NLD,Netherlands,Zeeland,51.312779,3.786651,9982,119,,9863,281,,True,True,NL34
-2020-12-26,MKD,North Macedonia,North Macedonia,41.611,21.751417,81425,2427,58720,20278,,,False,True,MK
+2020-12-27,MKD,North Macedonia,North Macedonia,41.611,21.751417,81721,2445,59231,20045,,,False,True,MK
 2020-12-23,NOR,Norway,Agder,58.699661,7.618403,1167,,,1167,,,False,True,NO04
 2020-12-23,NOR,Norway,Innlandet,61.43354,10.427144,2528,,,2528,,,False,True,NO02
 2020-12-23,NOR,Norway,Møre og Romsdal,62.543569,8.540539,786,,,786,,,False,True,NO053
@@ -371,7 +371,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-12-27,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,21533,174,20198,1161,,,False,False,RU78
 2020-12-27,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,26258,374,24087,1797,,,False,False,RU80
 2020-12-24,SMR,San Marino,San Marino,43.942973,12.460035,2231,56,1863,312,,,False,False,SM
-2020-12-26,SRB,Serbia,Serbia,44.206802,20.911009,323367,2983,0,320384,,,False,True,
+2020-12-27,SRB,Serbia,Serbia,44.206802,20.911009,326060,3030,0,323030,,,False,True,
 2020-12-27,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,15619,,,15619,,,True,True,SK032
 2020-12-27,SVK,Slovakia,Bratislava,48.319003,17.17481,17557,,,17557,,,True,True,SK010
 2020-12-27,SVK,Slovakia,Košice,48.771358,20.721931,18601,,,18601,,,True,True,SK042
