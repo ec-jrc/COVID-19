@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-05,ALB,Albania,Shkodër,42.17682,19.719451,3525,69,2126,1330,17,1,False,False,AL015
 2021-01-05,ALB,Albania,Tiranë,41.268583,19.793936,27048,499,12899,13650,94,9,False,False,AL022
 2021-01-05,ALB,Albania,Vlorë,40.162418,19.793592,3311,49,2307,955,15,3,False,False,AL035
-2021-01-05,AND,Andorra,Andorra,42.542268,1.596865,8308,84,,8224,32,,False,False,AD
+2021-01-06,AND,Andorra,Andorra,42.542268,1.596865,8348,84,,8264,42,,False,False,AD
 2021-01-05,AUT,Austria,Burgenland,47.541449,16.520206,9741,173,8846,722,39,5,True,True,AT11
 2021-01-05,AUT,Austria,Kärnten,46.715832,14.455532,22656,509,19438,2709,123,13,True,True,AT21
 2021-01-05,AUT,Austria,Niederösterreich,48.27051,15.763245,55890,915,50143,4832,397,49,True,True,AT12
@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-05,CZE,Czech Republic,NOT SPECIFIED,,,776967,12436,638183,126348,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-01-05,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-01-05,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-01-05,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-01-05,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-01-05,DNK,Denmark,NOT SPECIFIED,,,172779,1420,142057,29302,942,141,True,True,
-2021-01-05,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-01-05,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-01-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-01-06,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-01-06,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-01-06,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-01-06,DNK,Denmark,NOT SPECIFIED,,,174995,1450,144855,28690,886,137,True,True,
+2021-01-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-01-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-01-06,EST,Estonia,Estonia,58.596209,25.023778,30667,261,,30406,,,True,True,EE0
 2021-01-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,105,,,105,,,True,True,FI200
 2021-01-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,263,,,263,,,True,True,FI1C5
