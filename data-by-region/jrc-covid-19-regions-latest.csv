@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-06,DNK,Denmark,NOT SPECIFIED,,,174995,1450,144855,28690,886,137,True,True,
 2021-01-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-01-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-01-06,EST,Estonia,Estonia,58.596209,25.023778,30667,261,,30406,,,True,True,EE0
+2021-01-07,EST,Estonia,Estonia,58.596209,25.023778,31751,265,,31486,,,True,True,EE0
 2021-01-06,FIN,Finland,Ahvenanmaa,60.240625,19.966666,105,,,105,,,True,True,FI200
 2021-01-06,FIN,Finland,Etelä-Karjala,61.217899,28.550289,263,,,263,,,True,True,FI1C5
 2021-01-06,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,404,,,404,,,True,True,FI194
@@ -152,7 +152,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-07,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,33929,777,,33152,,,True,True,DEE
 2021-01-07,DEU,Germany,Schleswig Holstein,54.0295,9.705555,27078,514,,26564,,,True,True,DEF
 2021-01-07,DEU,Germany,Thüringen,50.903878,11.02488,47576,1216,,46360,,,True,True,DEG
-2021-01-05,GRC,Greece,NOT SPECIFIED,,,141453,5051,93764,42638,,,True,True,
+2021-01-06,GRC,Greece,NOT SPECIFIED,,,142267,5099,93764,43404,,,True,True,
 2021-01-06,HUN,Hungary,NOT SPECIFIED,,,331768,10198,179541,142029,5646,396,True,True,
 2021-01-06,ISL,Iceland,NOT SPECIFIED,,,5832,29,5676,127,,,False,True,
 2021-01-06,IRL,Ireland,Ireland,53.41975,-8.240472,121154,2299,,118855,,,True,True,IE
@@ -364,7 +364,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-01-03,SVN,Slovenia,NOT SPECIFIED,,,125634,2838,6365,116431,1209,194,True,True,
+2021-01-04,SVN,Slovenia,NOT SPECIFIED,,,128135,2868,6473,118794,1193,188,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -431,7 +431,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-07,CHE,Switzerland,Nidwalden,46.922198,8.419375,1553,12,0,1541,10,1,False,False,CH065
 2021-01-07,CHE,Switzerland,Obwalden,46.857772,8.209745,1455,30,0,1425,6,0,False,False,CH064
 2021-01-07,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3120,54,0,3066,18,4,False,False,CH052
-2021-01-07,CHE,Switzerland,Schwyz,47.06411,8.761568,8027,156,6990,881,0,0,False,False,CH063
+2021-01-07,CHE,Switzerland,Schwyz,47.06411,8.761568,8138,156,7084,898,0,0,False,False,CH063
 2021-01-07,CHE,Switzerland,Solothurn,47.336648,7.686944,11222,220,0,11002,57,12,False,False,CH023
 2021-01-07,CHE,Switzerland,St. Gallen,47.305025,9.019368,28781,548,0,28233,168,23,False,False,CH055
 2021-01-07,CHE,Switzerland,Thurgau,47.567205,9.112572,12569,228,664,11677,82,14,False,False,CH057
