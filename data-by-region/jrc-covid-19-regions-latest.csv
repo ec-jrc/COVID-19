@@ -414,7 +414,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-07,SWE,Sweden,Västernorrland,63.096635,17.251241,11250,,,11250,,,True,True,SE321
 2021-01-07,SWE,Sweden,Västmanland,59.801595,16.318208,14952,,,14952,,,True,True,SE125
 2021-01-07,SWE,Sweden,Västra Götaland,58.303302,12.891496,81865,,,81865,,,True,True,SE232
-2021-01-08,CHE,Switzerland,Aargau,47.410914,8.159107,30365,494,25610,4261,152,27,False,False,CH033
+2021-01-08,CHE,Switzerland,Aargau,47.410914,8.159107,30598,499,26060,4039,159,30,False,False,CH033
 2021-01-08,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2615,40,0,2575,18,1,False,False,CH053
 2021-01-08,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,748,15,0,733,3,0,False,False,CH054
 2021-01-08,CHE,Switzerland,Basel City,47.561925,7.592768,8608,163,7915,530,104,19,False,False,CH031
@@ -426,7 +426,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-08,CHE,Switzerland,Graubünden,46.658176,9.629923,8685,147,0,8538,37,5,False,False,CH056
 2021-01-08,CHE,Switzerland,Jura,47.368327,7.198733,4738,113,0,4625,23,2,False,False,CH025
 2021-01-08,CHE,Switzerland,Liechtenstein,47.164696,9.555,2311,48,2108,155,14,0,False,False,LI
-2021-01-08,CHE,Switzerland,Lucerne,47.06883,8.116991,18019,239,0,17780,114,0,False,False,CH061
+2021-01-08,CHE,Switzerland,Lucerne,47.06883,8.116991,18212,241,0,17971,110,0,False,False,CH061
 2021-01-08,CHE,Switzerland,Neuchâtel,46.997282,6.782288,12087,327,0,11760,51,6,False,False,CH024
 2021-01-08,CHE,Switzerland,Nidwalden,46.922198,8.419375,1571,13,0,1558,10,1,False,False,CH065
 2021-01-08,CHE,Switzerland,Obwalden,46.857772,8.209745,1485,30,0,1455,10,0,False,False,CH064
@@ -442,7 +442,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-08,CHE,Switzerland,Zug,47.161402,8.538864,5324,80,4850,394,27,5,False,False,CH066
 2021-01-08,CHE,Switzerland,Zurich,47.417407,8.655988,73816,984,0,72832,442,89,False,False,CH040
 2021-01-07,TUR,Turkey,Turkey,38.961515,35.25175,2296102,22264,2172251,101587,,,False,True,TU
-2021-01-06,UKR,Ukraine,NOT SPECIFIED,,,1090496,19357,761898,309241,,,False,False,
+2021-01-08,UKR,Ukraine,NOT SPECIFIED,,,1105169,19588,778345,307236,,,False,False,
 2021-01-07,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,10575,,0,10575,,,False,True,UKM93
 2021-01-07,GBR,United Kingdom,Borders,55.572787,-2.786355,2071,,0,2071,,,False,True,UKM91
 2021-01-07,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,2496,,0,2496,,,False,True,UKM92
