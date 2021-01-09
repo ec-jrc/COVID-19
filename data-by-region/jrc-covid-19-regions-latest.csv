@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-09,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,6957,118,,6839,,,True,True,HR04C
 2021-01-09,HRV,Croatia,Zadarska,44.347845,15.959404,7043,104,,6939,,,True,True,HR033
 2021-01-09,HRV,Croatia,Zagrebačka,45.82762,16.381796,17275,10,,17265,,,True,True,HR042
-2021-01-07,CYP,Cyprus,Cyprus,35.167406,33.435499,26674,171,2057,24446,727,,True,True,CY
+2021-01-08,CYP,Cyprus,Cyprus,35.167406,33.435499,27011,177,2057,24777,745,,True,True,CY
 2021-01-08,CZE,Czech Republic,NOT SPECIFIED,,,822716,12978,654008,155730,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -420,7 +420,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-09,CHE,Switzerland,Basel City,47.561925,7.592768,8656,163,7939,554,102,17,False,False,CH031
 2021-01-09,CHE,Switzerland,Basel Country,47.441812,7.7644,11602,187,10375,1040,65,7,False,False,CH032
 2021-01-09,CHE,Switzerland,Bern,46.825006,7.626925,46125,749,0,45376,0,0,False,False,CH021
-2021-01-09,CHE,Switzerland,Fribourg,46.710334,7.09922,24036,415,708,22913,53,11,False,False,CH022
+2021-01-09,CHE,Switzerland,Fribourg,46.710334,7.09922,24115,417,708,22990,49,11,False,False,CH022
 2021-01-09,CHE,Switzerland,Geneva,46.217114,6.131255,41892,658,0,41234,124,6,False,False,CH013
 2021-01-09,CHE,Switzerland,Glarus,46.980518,9.065544,1781,38,0,1743,22,0,False,False,CH051
 2021-01-09,CHE,Switzerland,Graubünden,46.658176,9.629923,8772,149,0,8623,38,5,False,False,CH056
@@ -428,7 +428,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-09,CHE,Switzerland,Liechtenstein,47.164696,9.555,2329,49,2108,172,14,0,False,False,LI
 2021-01-09,CHE,Switzerland,Lucerne,47.06883,8.116991,18212,241,0,17971,110,0,False,False,CH061
 2021-01-09,CHE,Switzerland,Neuchâtel,46.997282,6.782288,12087,327,0,11760,51,6,False,False,CH024
-2021-01-09,CHE,Switzerland,Nidwalden,46.922198,8.419375,1582,13,0,1569,9,3,False,False,CH065
+2021-01-09,CHE,Switzerland,Nidwalden,46.922198,8.419375,1593,13,0,1580,8,3,False,False,CH065
 2021-01-09,CHE,Switzerland,Obwalden,46.857772,8.209745,1485,30,0,1455,10,0,False,False,CH064
 2021-01-09,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3163,55,0,3108,14,4,False,False,CH052
 2021-01-09,CHE,Switzerland,Schwyz,47.06411,8.761568,8263,163,7282,818,0,0,False,False,CH063
