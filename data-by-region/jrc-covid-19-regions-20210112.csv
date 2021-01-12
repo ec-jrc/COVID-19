@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-11,CZE,Czech Republic,NOT SPECIFIED,,,844799,13485,676593,154721,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-01-11,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-01-11,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-01-11,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-01-11,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-01-11,DNK,Denmark,NOT SPECIFIED,,,182725,1597,155713,25415,920,138,True,True,
-2021-01-11,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-01-11,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-01-12,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-01-12,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-01-12,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-01-12,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-01-12,DNK,Denmark,NOT SPECIFIED,,,183801,1623,158743,23435,917,135,True,True,
+2021-01-12,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-01-12,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-01-12,EST,Estonia,Estonia,58.596209,25.023778,34138,292,,33846,,,True,True,EE0
 2021-01-12,FIN,Finland,Ahvenanmaa,60.240625,19.966666,111,,,111,,,True,True,FI200
 2021-01-12,FIN,Finland,Etelä-Karjala,61.217899,28.550289,276,,,276,,,True,True,FI1C5
@@ -418,18 +418,18 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2710,40,0,2670,23,0,False,False,CH053
 2021-01-12,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,756,15,0,741,3,0,False,False,CH054
 2021-01-12,CHE,Switzerland,Basel City,47.561925,7.592768,8785,167,8143,475,89,15,False,False,CH031
-2021-01-12,CHE,Switzerland,Basel Country,47.441812,7.7644,11701,187,10560,954,62,7,False,False,CH032
+2021-01-12,CHE,Switzerland,Basel Country,47.441812,7.7644,11780,188,10633,959,54,6,False,False,CH032
 2021-01-12,CHE,Switzerland,Bern,46.825006,7.626925,46783,780,0,46003,257,42,False,False,CH021
 2021-01-12,CHE,Switzerland,Fribourg,46.710334,7.09922,24225,421,710,23094,47,9,False,False,CH022
 2021-01-12,CHE,Switzerland,Geneva,46.217114,6.131255,42159,658,0,41501,132,6,False,False,CH013
 2021-01-12,CHE,Switzerland,Glarus,46.980518,9.065544,1852,39,0,1813,21,0,False,False,CH051
 2021-01-12,CHE,Switzerland,Graubünden,46.658176,9.629923,8929,152,0,8777,45,6,False,False,CH056
 2021-01-12,CHE,Switzerland,Jura,47.368327,7.198733,4841,115,0,4726,23,0,False,False,CH025
-2021-01-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,2355,49,2182,124,14,0,False,False,LI
+2021-01-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,2355,49,2196,110,13,0,False,False,LI
 2021-01-12,CHE,Switzerland,Lucerne,47.06883,8.116991,18757,247,0,18510,110,0,False,False,CH061
 2021-01-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,12266,332,0,11934,44,6,False,False,CH024
 2021-01-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,1616,13,0,1603,9,3,False,False,CH065
-2021-01-12,CHE,Switzerland,Obwalden,46.857772,8.209745,1518,30,0,1488,12,0,False,False,CH064
+2021-01-12,CHE,Switzerland,Obwalden,46.857772,8.209745,1526,30,0,1496,12,0,False,False,CH064
 2021-01-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3233,56,0,3177,14,4,False,False,CH052
 2021-01-12,CHE,Switzerland,Schwyz,47.06411,8.761568,8421,168,7496,757,0,0,False,False,CH063
 2021-01-12,CHE,Switzerland,Solothurn,47.336648,7.686944,11727,229,0,11498,65,17,False,False,CH023
