@@ -212,7 +212,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-15,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,2747,,,2747,,,False,True,NO033
 2021-01-15,NOR,Norway,Vestland,60.952729,6.513828,6003,,,6003,,,False,True,NO05
 2021-01-15,NOR,Norway,Viken,60.020274,9.849655,18420,,,18420,,,False,True,NO012
-2021-01-14,POL,Poland,NOT SPECIFIED,,,1414362,32456,,1381906,,,True,True,
+2021-01-15,POL,Poland,NOT SPECIFIED,,,1422320,32844,,1389476,,,True,True,
 2021-01-15,PRT,Portugal,Açores,37.775525,-25.494927,2831,22,,2809,,,True,True,PT20
 2021-01-15,PRT,Portugal,Alentejo,38.485499,-8.006668,17302,371,,16931,,,True,True,PT18
 2021-01-15,PRT,Portugal,Algarve,37.218389,-8.198488,11710,111,,11599,,,True,True,PT15
@@ -420,7 +420,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-15,CHE,Switzerland,Basel City,47.561925,7.592768,8896,168,8335,393,64,10,False,False,CH031
 2021-01-15,CHE,Switzerland,Basel Country,47.441812,7.7644,11957,189,10901,867,35,6,False,False,CH032
 2021-01-15,CHE,Switzerland,Bern,46.825006,7.626925,47672,800,0,46872,212,39,False,False,CH021
-2021-01-15,CHE,Switzerland,Fribourg,46.710334,7.09922,24491,424,722,23345,41,7,False,False,CH022
+2021-01-15,CHE,Switzerland,Fribourg,46.710334,7.09922,24569,427,727,23415,38,7,False,False,CH022
 2021-01-15,CHE,Switzerland,Geneva,46.217114,6.131255,42607,658,0,41949,128,7,False,False,CH013
 2021-01-15,CHE,Switzerland,Glarus,46.980518,9.065544,1902,43,0,1859,22,0,False,False,CH051
 2021-01-15,CHE,Switzerland,Graubünden,46.658176,9.629923,9119,155,0,8964,43,8,False,False,CH056
