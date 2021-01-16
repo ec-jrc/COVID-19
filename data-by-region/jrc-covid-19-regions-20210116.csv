@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-15,HRV,Croatia,Zadarska,44.347845,15.959404,7243,110,,7133,,,True,True,HR033
 2021-01-15,HRV,Croatia,Zagrebačka,45.82762,16.381796,17710,10,,17700,,,True,True,HR042
 2021-01-14,CYP,Cyprus,Cyprus,35.167406,33.435499,28609,196,2057,26356,774,,True,True,CY
-2021-01-14,CZE,Czech Republic,NOT SPECIFIED,,,874605,14029,717569,143007,,,True,True,
+2021-01-15,CZE,Czech Republic,NOT SPECIFIED,,,883906,14215,719844,149847,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-01-12,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -152,7 +152,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-16,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,42249,1089,,41160,,,True,True,DEE
 2021-01-16,DEU,Germany,Schleswig Holstein,54.0295,9.705555,30581,648,,29933,,,True,True,DEF
 2021-01-16,DEU,Germany,Thüringen,50.903878,11.02488,56539,1611,,54928,,,True,True,DEG
-2021-01-14,GRC,Greece,NOT SPECIFIED,,,147283,5387,93764,48132,,,True,True,
+2021-01-15,GRC,Greece,NOT SPECIFIED,,,147860,5421,93764,48675,,,True,True,
 2021-01-15,HUN,Hungary,NOT SPECIFIED,,,349149,11177,225021,112951,4600,337,True,True,
 2021-01-15,ISL,Iceland,NOT SPECIFIED,,,5956,29,5767,160,,,False,True,
 2021-01-15,IRL,Ireland,Ireland,53.41975,-8.240472,166548,2536,,164012,,,True,True,IE
@@ -442,7 +442,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-15,CHE,Switzerland,Zug,47.161402,8.538864,5585,89,5186,310,17,6,False,False,CH066
 2021-01-15,CHE,Switzerland,Zurich,47.417407,8.655988,77423,1048,0,76375,336,79,False,False,CH040
 2021-01-15,TUR,Turkey,Turkey,38.961515,35.25175,2373115,23664,2246047,103404,,,False,True,TU
-2021-01-12,UKR,Ukraine,NOT SPECIFIED,,,1124430,20019,812368,292043,,,False,False,
+2021-01-16,UKR,Ukraine,NOT SPECIFIED,,,1154692,20686,857183,276823,,,False,False,
 2021-01-14,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,11560,,0,11560,,,False,True,UKM93
 2021-01-14,GBR,United Kingdom,Borders,55.572787,-2.786355,2312,,0,2312,,,False,True,UKM91
 2021-01-14,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,2976,,0,2976,,,False,True,UKM92
