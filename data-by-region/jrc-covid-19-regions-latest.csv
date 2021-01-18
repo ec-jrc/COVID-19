@@ -199,19 +199,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-18,NLD,Netherlands,Utrecht,52.078728,5.214048,75092,982,,74110,1764,,True,True,NL31
 2021-01-18,NLD,Netherlands,Zeeland,51.312779,3.786651,12951,150,,12801,359,,True,True,NL34
 2021-01-17,MKD,North Macedonia,North Macedonia,41.611,21.751417,88938,2702,73601,12635,,,False,True,MK
-2021-01-15,NOR,Norway,Agder,58.699661,7.618403,1362,,,1362,,,False,True,NO04
-2021-01-15,NOR,Norway,Innlandet,61.43354,10.427144,3093,,,3093,,,False,True,NO02
-2021-01-15,NOR,Norway,Møre og Romsdal,62.543569,8.540539,1107,,,1107,,,False,True,NO053
-2021-01-15,NOR,Norway,Nordland,66.679716,14.635752,827,,,827,,,False,True,NO071
-2021-01-15,NOR,Norway,NOT SPECIFIED,,,0,517,,-517,2312,446,False,True,
-2021-01-15,NOR,Norway,Oslo,59.979683,10.738335,15753,,,15753,,,False,True,NO011
+2021-01-18,NOR,Norway,Agder,58.699661,7.618403,1379,,,1379,,,False,True,NO04
+2021-01-18,NOR,Norway,Innlandet,61.43354,10.427144,3125,,,3125,,,False,True,NO02
+2021-01-18,NOR,Norway,Møre og Romsdal,62.543569,8.540539,1130,,,1130,,,False,True,NO053
+2021-01-18,NOR,Norway,Nordland,66.679716,14.635752,828,,,828,,,False,True,NO071
+2021-01-18,NOR,Norway,NOT SPECIFIED,,,0,521,,-521,2359,451,False,True,
+2021-01-18,NOR,Norway,Oslo,59.979683,10.738335,15991,,,15991,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2021-01-15,NOR,Norway,Rogaland,58.58709,6.206792,3166,,,3166,,,False,True,NO043
-2021-01-15,NOR,Norway,Troms og Finnmark,70.239335,26.12935,1181,,,1181,,,False,True,NO072
-2021-01-15,NOR,Norway,Trøndelag,63.421183,11.529951,3228,,,3228,,,False,True,NO06
-2021-01-15,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,2747,,,2747,,,False,True,NO033
-2021-01-15,NOR,Norway,Vestland,60.952729,6.513828,6003,,,6003,,,False,True,NO05
-2021-01-15,NOR,Norway,Viken,60.020274,9.849655,18420,,,18420,,,False,True,NO012
+2021-01-18,NOR,Norway,Rogaland,58.58709,6.206792,3247,,,3247,,,False,True,NO043
+2021-01-18,NOR,Norway,Troms og Finnmark,70.239335,26.12935,1196,,,1196,,,False,True,NO072
+2021-01-18,NOR,Norway,Trøndelag,63.421183,11.529951,3302,,,3302,,,False,True,NO06
+2021-01-18,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,2797,,,2797,,,False,True,NO033
+2021-01-18,NOR,Norway,Vestland,60.952729,6.513828,6029,,,6029,,,False,True,NO05
+2021-01-18,NOR,Norway,Viken,60.020274,9.849655,18769,,,18769,,,False,True,NO012
 2021-01-18,POL,Poland,NOT SPECIFIED,,,1438914,33407,,1405507,,,True,True,
 2021-01-18,PRT,Portugal,Açores,37.775525,-25.494927,3011,22,,2989,,,True,True,PT20
 2021-01-18,PRT,Portugal,Alentejo,38.485499,-8.006668,18458,414,,18044,,,True,True,PT18
@@ -441,31 +441,31 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-18,CHE,Switzerland,Vaud,46.56176,6.648929,60787,841,0,59946,255,53,False,False,CH011
 2021-01-18,CHE,Switzerland,Zug,47.161402,8.538864,5648,99,5284,265,15,3,False,False,CH066
 2021-01-18,CHE,Switzerland,Zurich,47.417407,8.655988,78192,1079,0,77113,311,71,False,False,CH040
-2021-01-17,TUR,Turkey,Turkey,38.961515,35.25175,2387101,23997,2262864,100240,,,False,True,TU
+2021-01-18,TUR,Turkey,Turkey,38.961515,35.25175,2392963,24161,2270769,98033,,,False,True,TU
 2021-01-18,UKR,Ukraine,NOT SPECIFIED,,,1163716,20869,871196,271651,,,False,False,
-2021-01-17,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,12024,,0,12024,,,False,True,UKM93
-2021-01-17,GBR,United Kingdom,Borders,55.572787,-2.786355,2382,,0,2382,,,False,True,UKM91
-2021-01-17,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,3161,,0,3161,,,False,True,UKM92
-2021-01-17,GBR,United Kingdom,East of England,52.248898,0.548756,296600,,0,296600,,,False,True,UKH
-2021-01-17,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,140,,0,140,,,False,True,UKM64
-2021-01-17,GBR,United Kingdom,England,,,29496,78076,0,-48580,,,False,True,UK
-2021-01-17,GBR,United Kingdom,Fife,56.228968,-3.118568,8157,,0,8157,,,False,True,UKM72
-2021-01-17,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,7373,,0,7373,,,False,True,UKM76
-2021-01-17,GBR,United Kingdom,Grampian,57.299016,-2.780773,11141,,0,11141,,,False,True,UKM50
-2021-01-17,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,51183,,0,51183,,,False,True,UKM82
-2021-01-17,GBR,United Kingdom,Highland,57.363501,-4.733034,3456,,0,3456,,,False,True,UKM6
-2021-01-17,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,29787,,0,29787,,,False,True,UKD4
-2021-01-17,GBR,United Kingdom,London,51.497136,-0.100571,577926,,0,577926,,,False,True,UKI
-2021-01-17,GBR,United Kingdom,Lothian,55.946009,-2.728265,22408,,0,22408,,,False,True,UKM75
-2021-01-17,GBR,United Kingdom,Midlands,52.718351,-1.45667,550838,,0,550838,,,False,True,UKF
-2021-01-17,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,445640,,0,445640,,,False,True,UKC
-2021-01-17,GBR,United Kingdom,North West,53.524488,-2.333125,470892,,0,470892,,,False,True,UKD
-2021-01-17,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,95361,1606,0,93755,,,False,True,UKN
+2021-01-18,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,12140,,0,12140,,,False,True,UKM93
+2021-01-18,GBR,United Kingdom,Borders,55.572787,-2.786355,2411,,0,2411,,,False,True,UKM91
+2021-01-18,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,3199,,0,3199,,,False,True,UKM92
+2021-01-18,GBR,United Kingdom,East of England,52.248898,0.548756,300599,,0,300599,,,False,True,UKH
+2021-01-18,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,154,,0,154,,,False,True,UKM64
+2021-01-18,GBR,United Kingdom,England,,,29689,78636,0,-48947,,,False,True,UK
+2021-01-18,GBR,United Kingdom,Fife,56.228968,-3.118568,8218,,0,8218,,,False,True,UKM72
+2021-01-18,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,7443,,0,7443,,,False,True,UKM76
+2021-01-18,GBR,United Kingdom,Grampian,57.299016,-2.780773,11254,,0,11254,,,False,True,UKM50
+2021-01-18,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,51634,,0,51634,,,False,True,UKM82
+2021-01-18,GBR,United Kingdom,Highland,57.363501,-4.733034,3477,,0,3477,,,False,True,UKM6
+2021-01-18,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,30031,,0,30031,,,False,True,UKD4
+2021-01-18,GBR,United Kingdom,London,51.497136,-0.100571,584977,,0,584977,,,False,True,UKI
+2021-01-18,GBR,United Kingdom,Lothian,55.946009,-2.728265,22586,,0,22586,,,False,True,UKM75
+2021-01-18,GBR,United Kingdom,Midlands,52.718351,-1.45667,558193,,0,558193,,,False,True,UKF
+2021-01-18,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,448725,,0,448725,,,False,True,UKC
+2021-01-18,GBR,United Kingdom,North West,53.524488,-2.333125,475558,,0,475558,,,False,True,UKD
+2021-01-18,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,96001,1625,0,94376,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2021-01-17,GBR,United Kingdom,Orkney,58.98094,-2.960521,48,,0,48,,,False,True,UKM65
-2021-01-17,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,5305,0,-5305,,,False,True,UKM
-2021-01-17,GBR,United Kingdom,Shetland,60.29623,-1.346738,192,,0,192,,,False,True,UKM66
-2021-01-17,GBR,United Kingdom,South East,51.291417,-0.521902,421975,,0,421975,,,False,True,UKJ
-2021-01-17,GBR,United Kingdom,South West,51.239761,-2.54375,164737,,0,164737,,,False,True,UKK
-2021-01-17,GBR,United Kingdom,Tayside,56.610323,-3.555213,10881,,0,10881,,,False,True,UKM71
-2021-01-17,GBR,United Kingdom,Wales,52.302413,-3.738347,180161,4274,0,175887,,,False,True,UKL
+2021-01-18,GBR,United Kingdom,Orkney,58.98094,-2.960521,49,,0,49,,,False,True,UKM65
+2021-01-18,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,5305,0,-5305,,,False,True,UKM
+2021-01-18,GBR,United Kingdom,Shetland,60.29623,-1.346738,195,,0,195,,,False,True,UKM66
+2021-01-18,GBR,United Kingdom,South East,51.291417,-0.521902,427420,,0,427420,,,False,True,UKJ
+2021-01-18,GBR,United Kingdom,South West,51.239761,-2.54375,167077,,0,167077,,,False,True,UKK
+2021-01-18,GBR,United Kingdom,Tayside,56.610323,-3.555213,10971,,0,10971,,,False,True,UKM71
+2021-01-18,GBR,United Kingdom,Wales,52.302413,-3.738347,181493,4294,0,177199,,,False,True,UKL
