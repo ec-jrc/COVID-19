@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-12,DNK,Denmark,NOT SPECIFIED,,,183801,1623,158743,23435,917,135,True,True,
 2021-01-12,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-01-12,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-01-19,EST,Estonia,Estonia,58.596209,25.023778,37941,344,,37597,,,True,True,EE0
+2021-01-20,EST,Estonia,Estonia,58.596209,25.023778,38544,349,,38195,,,True,True,EE0
 2021-01-19,FIN,Finland,Ahvenanmaa,60.240625,19.966666,114,,,114,,,True,True,FI200
 2021-01-19,FIN,Finland,Etelä-Karjala,61.217899,28.550289,286,,,286,,,True,True,FI1C5
 2021-01-19,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,449,,,449,,,True,True,FI194
@@ -152,7 +152,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-20,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,44494,1247,,43247,,,True,True,DEE
 2021-01-20,DEU,Germany,Schleswig Holstein,54.0295,9.705555,31842,691,,31151,,,True,True,DEF
 2021-01-20,DEU,Germany,Thüringen,50.903878,11.02488,58813,1733,,57080,,,True,True,DEG
-2021-01-18,GRC,Greece,NOT SPECIFIED,,,148925,5488,93764,49673,,,True,True,
+2021-01-19,GRC,Greece,NOT SPECIFIED,,,149462,5518,93764,50180,,,True,True,
 2021-01-19,HUN,Hungary,NOT SPECIFIED,,,353276,11520,231915,109841,4445,309,True,True,
 2021-01-18,ISL,Iceland,NOT SPECIFIED,,,5970,29,5798,143,,,False,True,
 2021-01-19,IRL,Ireland,Ireland,53.41975,-8.240472,176839,2708,,174131,,,True,True,IE
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-20,CHE,Switzerland,Basel Country,47.441812,7.7644,12138,196,11233,709,31,6,False,False,CH032
 2021-01-20,CHE,Switzerland,Bern,46.825006,7.626925,48389,828,0,47561,209,40,False,False,CH021
 2021-01-20,CHE,Switzerland,Fribourg,46.710334,7.09922,24735,431,728,23576,44,8,False,False,CH022
-2021-01-20,CHE,Switzerland,Geneva,46.217114,6.131255,43064,670,0,42394,114,8,False,False,CH013
+2021-01-20,CHE,Switzerland,Geneva,46.217114,6.131255,43174,670,0,42504,114,8,False,False,CH013
 2021-01-20,CHE,Switzerland,Glarus,46.980518,9.065544,1936,48,0,1888,22,0,False,False,CH051
 2021-01-20,CHE,Switzerland,Graubünden,46.658176,9.629923,9399,159,0,9240,42,11,False,False,CH056
 2021-01-20,CHE,Switzerland,Jura,47.368327,7.198733,5026,116,0,4910,18,2,False,False,CH025
@@ -432,7 +432,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-20,CHE,Switzerland,Nidwalden,46.922198,8.419375,1733,14,0,1719,13,3,False,False,CH065
 2021-01-20,CHE,Switzerland,Obwalden,46.857772,8.209745,1627,32,0,1595,12,0,False,False,CH064
 2021-01-20,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3359,59,0,3300,13,3,False,False,CH052
-2021-01-20,CHE,Switzerland,Schwyz,47.06411,8.761568,8700,173,7952,575,0,0,False,False,CH063
+2021-01-20,CHE,Switzerland,Schwyz,47.06411,8.761568,8746,176,7996,574,0,0,False,False,CH063
 2021-01-20,CHE,Switzerland,Solothurn,47.336648,7.686944,12137,239,0,11898,44,10,False,False,CH023
 2021-01-20,CHE,Switzerland,St. Gallen,47.305025,9.019368,30874,609,0,30265,106,16,False,False,CH055
 2021-01-20,CHE,Switzerland,Thurgau,47.567205,9.112572,13574,284,758,12532,59,14,False,False,CH057
@@ -440,7 +440,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-20,CHE,Switzerland,Uri,46.775402,8.627444,1642,35,0,1607,6,0,False,False,CH062
 2021-01-20,CHE,Switzerland,Valais,46.211633,7.611267,28050,649,0,27401,137,12,False,False,CH012
 2021-01-20,CHE,Switzerland,Vaud,46.56176,6.648929,61007,844,0,60163,253,47,False,False,CH011
-2021-01-20,CHE,Switzerland,Zug,47.161402,8.538864,5682,99,5328,255,15,3,False,False,CH066
+2021-01-20,CHE,Switzerland,Zug,47.161402,8.538864,5721,100,5386,235,13,3,False,False,CH066
 2021-01-20,CHE,Switzerland,Zurich,47.417407,8.655988,78621,1087,0,77534,311,72,False,False,CH040
 2021-01-19,TUR,Turkey,Turkey,38.961515,35.25175,2399781,24328,2277987,97466,,,False,True,TU
 2021-01-20,UKR,Ukraine,NOT SPECIFIED,,,1172038,21258,900749,250031,,,False,False,
