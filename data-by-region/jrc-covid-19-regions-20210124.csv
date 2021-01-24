@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-23,HRV,Croatia,Zadarska,44.347845,15.959404,7445,117,,7328,,,True,True,HR033
 2021-01-23,HRV,Croatia,Zagrebačka,45.82762,16.381796,18139,10,,18129,,,True,True,HR042
 2021-01-22,CYP,Cyprus,Cyprus,35.167406,33.435499,29887,221,21408,8258,809,,True,True,CY
-2021-01-22,CZE,Czech Republic,NOT SPECIFIED,,,933361,15270,808263,109828,,,True,True,
+2021-01-23,CZE,Czech Republic,NOT SPECIFIED,,,937617,15369,814903,107345,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-01-22,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-22,DNK,Denmark,NOT SPECIFIED,,,193038,1941,177550,13547,745,130,True,True,
 2021-01-22,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-01-22,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-01-23,EST,Estonia,Estonia,58.596209,25.023778,40184,368,,39816,,,True,True,EE0
+2021-01-24,EST,Estonia,Estonia,58.596209,25.023778,40716,376,,40340,,,True,True,EE0
 2021-01-23,FIN,Finland,Ahvenanmaa,60.240625,19.966666,115,,,115,,,True,True,FI200
 2021-01-23,FIN,Finland,Etelä-Karjala,61.217899,28.550289,294,,,294,,,True,True,FI1C5
 2021-01-23,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,459,,,459,,,True,True,FI194
