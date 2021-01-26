@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-26,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,7225,139,,7086,,,True,True,HR04C
 2021-01-26,HRV,Croatia,Zadarska,44.347845,15.959404,7489,119,,7370,,,True,True,HR033
 2021-01-26,HRV,Croatia,Zagrebačka,45.82762,16.381796,18205,10,,18195,,,True,True,HR042
-2021-01-24,CYP,Cyprus,Cyprus,35.167406,33.435499,30143,226,21408,8509,817,,True,True,CY
+2021-01-25,CYP,Cyprus,Cyprus,35.167406,33.435499,30252,228,21408,8616,823,,True,True,CY
 2021-01-25,CZE,Czech Republic,NOT SPECIFIED,,,946946,15618,831394,99934,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -421,7 +421,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-26,CHE,Switzerland,Basel City,47.561925,7.592768,9188,176,8749,263,52,10,False,False,CH031
 2021-01-26,CHE,Switzerland,Basel Country,47.441812,7.7644,12474,200,11672,602,25,6,False,False,CH032
 2021-01-26,CHE,Switzerland,Bern,46.825006,7.626925,49654,892,0,48762,150,29,False,False,CH021
-2021-01-26,CHE,Switzerland,Fribourg,46.710334,7.09922,25191,440,739,24012,38,5,False,False,CH022
+2021-01-26,CHE,Switzerland,Fribourg,46.710334,7.09922,25344,446,743,24155,44,6,False,False,CH022
 2021-01-26,CHE,Switzerland,Geneva,46.217114,6.131255,43869,674,0,43195,124,7,False,False,CH013
 2021-01-26,CHE,Switzerland,Glarus,46.980518,9.065544,2032,56,0,1976,19,0,False,False,CH051
 2021-01-26,CHE,Switzerland,Graubünden,46.658176,9.629923,9658,162,0,9496,30,6,False,False,CH056
