@@ -425,10 +425,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-27,CHE,Switzerland,Geneva,46.217114,6.131255,43876,674,0,43202,118,7,False,False,CH013
 2021-01-27,CHE,Switzerland,Glarus,46.980518,9.065544,2032,56,0,1976,19,0,False,False,CH051
 2021-01-27,CHE,Switzerland,Graubünden,46.658176,9.629923,9735,162,0,9573,32,7,False,False,CH056
-2021-01-27,CHE,Switzerland,Jura,47.368327,7.198733,5177,122,0,5055,13,0,False,False,CH025
+2021-01-27,CHE,Switzerland,Jura,47.368327,7.198733,5197,122,0,5075,15,1,False,False,CH025
 2021-01-27,CHE,Switzerland,Liechtenstein,47.164696,9.555,2455,52,2322,81,6,0,False,False,LI
 2021-01-27,CHE,Switzerland,Lucerne,47.06883,8.116991,20249,280,0,19969,89,0,False,False,CH061
-2021-01-27,CHE,Switzerland,Neuchâtel,46.997282,6.782288,12835,347,0,12488,30,9,False,False,CH024
+2021-01-27,CHE,Switzerland,Neuchâtel,46.997282,6.782288,12885,350,0,12535,25,5,False,False,CH024
 2021-01-27,CHE,Switzerland,Nidwalden,46.922198,8.419375,1816,16,0,1800,13,2,False,False,CH065
 2021-01-27,CHE,Switzerland,Obwalden,46.857772,8.209745,1707,35,0,1672,9,0,False,False,CH064
 2021-01-27,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3429,60,0,3369,6,0,False,False,CH052
