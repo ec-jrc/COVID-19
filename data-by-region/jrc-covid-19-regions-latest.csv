@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-28,ALB,Albania,Shkodër,42.17682,19.719451,4217,74,2763,1380,5,0,False,False,AL015
 2021-01-28,ALB,Albania,Tiranë,41.268583,19.793936,32893,565,15992,16336,123,8,False,False,AL022
 2021-01-28,ALB,Albania,Vlorë,40.162418,19.793592,4658,53,3401,1204,27,0,False,False,AL035
-2021-01-28,AND,Andorra,Andorra,42.542268,1.596865,9779,100,,9679,45,,False,False,AD
+2021-01-29,AND,Andorra,Andorra,42.542268,1.596865,9873,100,,9773,48,,False,False,AD
 2021-01-27,AUT,Austria,Burgenland,47.541449,16.520206,10752,204,9995,553,31,8,True,True,AT11
 2021-01-27,AUT,Austria,Kärnten,46.715832,14.455532,25536,634,23236,1666,87,9,True,True,AT21
 2021-01-27,AUT,Austria,Niederösterreich,48.27051,15.763245,62276,1112,57451,3713,357,53,True,True,AT12
@@ -365,7 +365,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-01-27,SVN,Slovenia,NOT SPECIFIED,,,162429,3448,8365,150616,1106,171,True,True,
+2021-01-28,SVN,Slovenia,NOT SPECIFIED,,,163723,3468,8449,151806,1082,169,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -417,7 +417,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-27,SWE,Sweden,Västra Götaland,58.303302,12.891496,96227,,,96227,,,True,True,SE232
 2021-01-29,CHE,Switzerland,Aargau,47.410914,8.159107,34101,586,30775,2740,88,13,False,False,CH033
 2021-01-29,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
-2021-01-29,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,827,15,0,812,2,0,False,False,CH054
+2021-01-29,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,831,15,0,816,1,0,False,False,CH054
 2021-01-29,CHE,Switzerland,Basel City,47.561925,7.592768,9294,179,8843,272,48,9,False,False,CH031
 2021-01-29,CHE,Switzerland,Basel Country,47.441812,7.7644,12556,202,11748,606,20,7,False,False,CH032
 2021-01-29,CHE,Switzerland,Bern,46.825006,7.626925,50255,909,0,49346,118,24,False,False,CH021
@@ -439,7 +439,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-29,CHE,Switzerland,Ticino,46.297963,8.808447,26717,933,2708,23076,160,24,False,False,CH07
 2021-01-29,CHE,Switzerland,Uri,46.775402,8.627444,1694,37,0,1657,3,0,False,False,CH062
 2021-01-29,CHE,Switzerland,Valais,46.211633,7.611267,29077,687,0,28390,126,16,False,False,CH012
-2021-01-29,CHE,Switzerland,Vaud,46.56176,6.648929,62802,858,0,61944,223,35,False,False,CH011
+2021-01-29,CHE,Switzerland,Vaud,46.56176,6.648929,63022,865,0,62157,224,35,False,False,CH011
 2021-01-29,CHE,Switzerland,Zug,47.161402,8.538864,5964,108,5653,203,9,2,False,False,CH066
 2021-01-29,CHE,Switzerland,Zurich,47.417407,8.655988,81638,1168,0,80470,241,67,False,False,CH040
 2021-01-28,TUR,Turkey,Turkey,38.961515,35.25175,2457118,25605,2340216,91297,,,False,True,TU
