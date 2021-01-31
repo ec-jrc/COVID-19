@@ -179,12 +179,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-30,ITA,Italy,Veneto,45.664735,11.84235,311686,8922,268087,34677,1660,222,True,True,ITH3
 2021-01-25,XKX,Kosovo,NOT SPECIFIED,41.85637,21.803351,58088,1456,,,,,False,False,XK
 2021-01-30,LVA,Latvia,Latvia,56.875584,24.607722,65708,1180,,64528,,,True,True,LV0
-2021-01-29,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2484,52,2352,80,,,False,False,LI
+2021-01-30,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2493,52,2352,89,,,False,False,LI
 2021-01-29,LTU,Lithuania,Lithuania,55.174112,23.906736,181734,2787,129043,49904,,,True,True,LT
 2021-01-27,LUX,Luxembourg,Luxembourg,49.815764,6.131514,50228,576,,49652,,,True,True,LU
 2021-01-30,MLT,Malta,Malta,35.946151,14.384612,17721,265,14775,2681,,,True,True,MT001
 2021-01-30,MDA,Moldova,Moldova,46.979527,28.377195,159513,3434,149562,6517,,,False,False,MD
-2021-01-28,MCO,Monaco,Monaco,43.738348,7.424451,1430,11,1198,221,,,False,False,MC
+2021-01-30,MCO,Monaco,Monaco,43.738348,7.424451,1475,11,1245,219,,,False,False,MC
 2021-01-30,MNE,Montenegro,Montenegro,42.710152,19.410069,61202,802,,60400,310,,False,True,ME
 2021-01-30,NLD,Netherlands,Drenthe,52.863149,6.623756,18387,240,,18147,322,,True,True,NL13
 2021-01-30,NLD,Netherlands,Flevoland,52.436257,5.519078,23733,193,,23540,497,,True,True,NL23
@@ -199,7 +199,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-30,NLD,Netherlands,South Holland,51.968696,4.541274,235804,3395,,232409,5605,,True,True,NL33
 2021-01-30,NLD,Netherlands,Utrecht,52.078728,5.214048,78656,1016,,77640,1851,,True,True,NL31
 2021-01-30,NLD,Netherlands,Zeeland,51.312779,3.786651,14282,159,,14123,398,,True,True,NL34
-2021-01-29,MKD,North Macedonia,North Macedonia,41.611,21.751417,92193,2841,80837,8515,,,False,True,MK
+2021-01-30,MKD,North Macedonia,North Macedonia,41.611,21.751417,92518,2848,81316,8354,,,False,True,MK
 2021-01-29,NOR,Norway,Agder,58.699661,7.618403,1470,,,1470,,,False,True,NO04
 2021-01-29,NOR,Norway,Innlandet,61.43354,10.427144,3233,,,3233,,,False,True,NO02
 2021-01-29,NOR,Norway,Møre og Romsdal,62.543569,8.540539,1190,,,1190,,,False,True,NO053
@@ -351,7 +351,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-01-30,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,27937,314,26234,1389,,,False,False,RU78
 2021-01-30,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,34015,466,32131,1418,,,False,False,RU80
 2021-01-29,SMR,San Marino,San Marino,43.942973,12.460035,2996,65,2695,236,,,False,False,SM
-2021-01-29,SRB,Serbia,Serbia,44.206802,20.911009,392354,3983,0,388371,,,False,True,
+2021-01-30,SRB,Serbia,Serbia,44.206802,20.911009,393897,4000,0,389897,,,False,True,
 2021-01-30,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,22519,,,22519,,,True,True,SK032
 2021-01-30,SVK,Slovakia,Bratislava,48.319003,17.17481,29140,,,29140,,,True,True,SK010
 2021-01-30,SVK,Slovakia,Košice,48.771358,20.721931,30183,,,30183,,,True,True,SK042
