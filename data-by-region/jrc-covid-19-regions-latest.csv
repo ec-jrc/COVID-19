@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-07,HRV,Croatia,Zadarska,44.347845,15.959404,7773,124,,7649,,,True,True,HR033
 2021-02-07,HRV,Croatia,Zagrebačka,45.82762,16.381796,18748,10,,18738,,,True,True,HR042
 2021-02-06,CYP,Cyprus,Cyprus,35.167406,33.435499,31759,256,27267,4236,861,,True,True,CY
-2021-02-06,CZE,Czech Republic,NOT SPECIFIED,,,1034975,17235,919699,98041,,,True,True,
+2021-02-07,CZE,Czech Republic,NOT SPECIFIED,,,1037405,17333,922223,97849,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-02-05,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-05,DNK,Denmark,NOT SPECIFIED,,,200773,2201,191399,7173,405,82,True,True,
 2021-02-05,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-02-05,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-02-07,EST,Estonia,Estonia,58.596209,25.023778,47928,461,,47467,,,True,True,EE0
+2021-02-08,EST,Estonia,Estonia,58.596209,25.023778,48267,461,,47806,,,True,True,EE0
 2021-02-07,FIN,Finland,Ahvenanmaa,60.240625,19.966666,118,,,118,,,True,True,FI200
 2021-02-07,FIN,Finland,Etelä-Karjala,61.217899,28.550289,323,,,323,,,True,True,FI1C5
 2021-02-07,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,502,,,502,,,True,True,FI194
@@ -152,8 +152,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-08,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,54782,1978,,52804,,,True,True,DEE
 2021-02-08,DEU,Germany,Schleswig Holstein,54.0295,9.705555,37985,1016,,36969,,,True,True,DEF
 2021-02-08,DEU,Germany,Thüringen,50.903878,11.02488,68639,2366,,66273,,,True,True,DEG
-2021-02-06,GRC,Greece,NOT SPECIFIED,,,163213,5951,93764,63498,,,True,True,
-2021-02-07,HUN,Hungary,NOT SPECIFIED,,,376495,13090,279763,83642,3578,291,True,True,
+2021-02-07,GRC,Greece,NOT SPECIFIED,,,163946,5972,93764,64210,,,True,True,
+2021-02-08,HUN,Hungary,NOT SPECIFIED,,,377655,13155,281839,82661,3717,295,True,True,
 2021-02-05,ISL,Iceland,NOT SPECIFIED,,,6021,29,5959,33,,,False,True,
 2021-02-07,IRL,Ireland,Ireland,53.41975,-8.240472,203568,3686,,199882,,,True,True,IE
 2021-02-07,ITA,Italy,Abruzzo,42.228034,13.855137,45408,1513,32919,10976,521,51,True,True,ITF1
