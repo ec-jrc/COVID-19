@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-08,DNK,Denmark,NOT SPECIFIED,,,202051,2216,193202,6633,400,73,True,True,
 2021-02-08,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-02-08,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-02-08,EST,Estonia,Estonia,58.596209,25.023778,48267,461,,47806,,,True,True,EE0
+2021-02-09,EST,Estonia,Estonia,58.596209,25.023778,48809,474,,48335,,,True,True,EE0
 2021-02-08,FIN,Finland,Ahvenanmaa,60.240625,19.966666,118,,,118,,,True,True,FI200
 2021-02-08,FIN,Finland,Etelä-Karjala,61.217899,28.550289,327,,,327,,,True,True,FI1C5
 2021-02-08,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,504,,,504,,,True,True,FI194
@@ -153,7 +153,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-09,DEU,Germany,Schleswig Holstein,54.0295,9.705555,38136,1038,,37098,,,True,True,DEF
 2021-02-09,DEU,Germany,Thüringen,50.903878,11.02488,68855,2393,,66462,,,True,True,DEG
 2021-02-08,GRC,Greece,NOT SPECIFIED,,,164575,5997,93764,64814,,,True,True,
-2021-02-08,HUN,Hungary,NOT SPECIFIED,,,377655,13155,281839,82661,3717,295,True,True,
+2021-02-09,HUN,Hungary,NOT SPECIFIED,,,378734,13249,283282,82203,3792,304,True,True,
 2021-02-05,ISL,Iceland,NOT SPECIFIED,,,6021,29,5959,33,,,False,True,
 2021-02-08,IRL,Ireland,Ireland,53.41975,-8.240472,204397,3687,,200710,,,True,True,IE
 2021-02-08,ITA,Italy,Abruzzo,42.228034,13.855137,45592,1518,33120,10954,536,49,True,True,ITF1
@@ -434,7 +434,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-09,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3516,65,0,3451,3,0,False,False,CH052
 2021-02-09,CHE,Switzerland,Schwyz,47.06411,8.761568,9264,207,8771,286,0,0,False,False,CH063
 2021-02-09,CHE,Switzerland,Solothurn,47.336648,7.686944,12973,245,0,12728,21,7,False,False,CH023
-2021-02-09,CHE,Switzerland,St. Gallen,47.305025,9.019368,33066,655,0,32411,58,16,False,False,CH055
+2021-02-09,CHE,Switzerland,St. Gallen,47.305025,9.019368,33158,657,0,32501,64,18,False,False,CH055
 2021-02-09,CHE,Switzerland,Thurgau,47.567205,9.112572,14413,335,839,13239,26,12,False,False,CH057
 2021-02-09,CHE,Switzerland,Ticino,46.297963,8.808447,27136,947,2824,23365,106,17,False,False,CH07
 2021-02-09,CHE,Switzerland,Uri,46.775402,8.627444,1739,37,0,1702,4,0,False,False,CH062
