@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-09,BEL,Belgium,Flanders,51.036569,4.234165,324926,10947,,313979,915,167,True,True,BE2
 2021-02-09,BEL,Belgium,NOT SPECIFIED,,,13137,0,,13137,0,0,True,True,
 2021-02-09,BEL,Belgium,Wallonia,50.312074,5.019093,302385,7834,,294551,552,97,True,True,BE3
-2021-02-10,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,124696,4853,100640,19203,,,False,False,BA
+2021-02-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,125123,4868,102339,17916,,,False,False,BA
 2021-02-11,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,11356,10,10,11336,,,True,True,BG413
 2021-02-11,BGR,Bulgaria,Burgas,42.491848,27.306892,13335,1,19,13315,,,True,True,BG341
 2021-02-11,BGR,Bulgaria,Dobrich,43.65074,27.936751,3909,0,2,3907,,,True,True,BG332
@@ -427,7 +427,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-11,CHE,Switzerland,Graubünden,46.658176,9.629923,10328,170,0,10158,19,6,False,False,CH056
 2021-02-11,CHE,Switzerland,Jura,47.368327,7.198733,5437,129,0,5308,21,3,False,False,CH025
 2021-02-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,2534,52,2457,25,2,0,False,False,LI
-2021-02-11,CHE,Switzerland,Lucerne,47.06883,8.116991,21146,292,0,20854,63,0,False,False,CH061
+2021-02-11,CHE,Switzerland,Lucerne,47.06883,8.116991,21201,293,0,20908,56,0,False,False,CH061
 2021-02-11,CHE,Switzerland,Neuchâtel,46.997282,6.782288,13388,358,0,13030,32,5,False,False,CH024
 2021-02-11,CHE,Switzerland,Nidwalden,46.922198,8.419375,1930,17,0,1913,6,2,False,False,CH065
 2021-02-11,CHE,Switzerland,Obwalden,46.857772,8.209745,1795,37,0,1758,4,0,False,False,CH064
