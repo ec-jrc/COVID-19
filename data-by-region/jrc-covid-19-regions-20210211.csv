@@ -240,7 +240,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-10,ROU,Romania,Costanza,44.244926,28.247767,30618,,,30618,,,True,True,RO223
 2021-02-10,ROU,Romania,Covasna,45.938093,25.990767,5697,,,5697,,,True,True,RO123
 2021-02-10,ROU,Romania,Dâmbovița,44.864944,25.496775,16946,,,16946,,,True,True,RO313
-2021-02-10,ROU,Romania,Dolj,44.140792,23.613526,18056,,,18056,,,True,True,RO411
+2021-02-10,ROU,Romania,Dolj,44.140792,23.613526,19685,,,19685,,,True,True,RO411
 2021-02-10,ROU,Romania,Galați,45.792748,27.75769,19380,,,19380,,,True,True,RO224
 2021-02-10,ROU,Romania,Giurgiu,44.144127,25.881413,7442,,,7442,,,True,True,RO314
 2021-02-10,ROU,Romania,Gorj,45.004246,23.322863,6112,,,6112,,,True,True,RO412
@@ -423,10 +423,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-11,CHE,Switzerland,Bern,46.825006,7.626925,51824,956,0,50868,123,25,False,False,CH021
 2021-02-11,CHE,Switzerland,Fribourg,46.710334,7.09922,26439,459,781,25199,27,7,False,False,CH022
 2021-02-11,CHE,Switzerland,Geneva,46.217114,6.131255,45791,690,0,45101,93,9,False,False,CH013
-2021-02-11,CHE,Switzerland,Glarus,46.980518,9.065544,2138,66,0,2072,10,0,False,False,CH051
+2021-02-11,CHE,Switzerland,Glarus,46.980518,9.065544,2139,66,0,2073,8,0,False,False,CH051
 2021-02-11,CHE,Switzerland,Graubünden,46.658176,9.629923,10328,170,0,10158,19,6,False,False,CH056
 2021-02-11,CHE,Switzerland,Jura,47.368327,7.198733,5437,129,0,5308,21,3,False,False,CH025
-2021-02-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,2532,52,2457,23,7,0,False,False,LI
+2021-02-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,2534,52,2457,25,2,0,False,False,LI
 2021-02-11,CHE,Switzerland,Lucerne,47.06883,8.116991,21146,292,0,20854,63,0,False,False,CH061
 2021-02-11,CHE,Switzerland,Neuchâtel,46.997282,6.782288,13388,358,0,13030,32,5,False,False,CH024
 2021-02-11,CHE,Switzerland,Nidwalden,46.922198,8.419375,1930,17,0,1913,6,2,False,False,CH065
