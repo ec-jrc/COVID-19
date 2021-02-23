@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-21,BEL,Belgium,Flanders,51.036569,4.234165,339174,11207,,327967,930,174,True,True,BE2
 2021-02-21,BEL,Belgium,NOT SPECIFIED,,,13749,0,,13749,0,0,True,True,
 2021-02-21,BEL,Belgium,Wallonia,50.312074,5.019093,309352,7954,,301398,483,109,True,True,BE3
-2021-02-22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,128661,5016,112879,10766,,,False,False,BA
+2021-02-23,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,129176,5034,113688,10454,,,False,False,BA
 2021-02-23,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,11830,10,10,11810,,,True,True,BG413
 2021-02-23,BGR,Bulgaria,Burgas,42.491848,27.306892,14426,1,19,14406,,,True,True,BG341
 2021-02-23,BGR,Bulgaria,Dobrich,43.65074,27.936751,4038,0,2,4036,,,True,True,BG332
@@ -183,7 +183,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-22,LTU,Lithuania,Lithuania,55.174112,23.906736,194833,3189,180640,11004,,,True,True,LT
 2021-02-20,LUX,Luxembourg,Luxembourg,49.815764,6.131514,54138,627,,53511,,,True,True,LU
 2021-02-23,MLT,Malta,Malta,35.946151,14.384612,21306,306,18500,2500,,,True,True,MT001
-2021-02-22,MDA,Moldova,Moldova,46.979527,28.377195,177407,3799,162595,11013,,,False,False,MD
+2021-02-23,MDA,Moldova,Moldova,46.979527,28.377195,178540,3823,163376,11341,,,False,False,MD
 2021-02-22,MCO,Monaco,Monaco,43.738348,7.424451,1885,22,1657,206,,,False,False,MC
 2021-02-21,MNE,Montenegro,Montenegro,42.710152,19.410069,71995,950,,71045,455,,False,True,ME
 2021-02-23,NLD,Netherlands,Drenthe,52.863149,6.623756,21154,279,,20875,367,,True,True,NL13
@@ -365,7 +365,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-02-21,SVN,Slovenia,NOT SPECIFIED,,,184195,4035,9976,170184,584,104,True,True,
+2021-02-22,SVN,Slovenia,NOT SPECIFIED,,,185094,4043,10038,171013,567,107,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
