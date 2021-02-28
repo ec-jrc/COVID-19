@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-25,HRV,Croatia,Zadarska,44.347845,15.959404,7996,129,,7867,,,True,True,HR033
 2021-02-25,HRV,Croatia,Zagrebačka,45.82762,16.381796,19200,10,,19190,,,True,True,HR042
 2021-02-26,CYP,Cyprus,Cyprus,35.167406,33.435499,34424,281,30422,3721,923,,True,True,CY
-2021-02-26,CZE,Czech Republic,NOT SPECIFIED,,,1227595,20194,1064022,143379,,,True,True,
+2021-02-27,CZE,Czech Republic,NOT SPECIFIED,,,1235480,20339,1067557,147584,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-02-26,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -152,7 +152,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-28,DEU,Germany,Sachsen-Anhalt,52.013193,11.700691,60472,2414,,58058,,,True,True,DEE
 2021-02-28,DEU,Germany,Schleswig Holstein,54.0295,9.705555,42445,1282,,41163,,,True,True,DEF
 2021-02-28,DEU,Germany,Thüringen,50.903878,11.02488,76291,2859,,73432,,,True,True,DEG
-2021-02-26,GRC,Greece,NOT SPECIFIED,,,188201,6439,93764,87998,,,True,True,
+2021-02-27,GRC,Greece,NOT SPECIFIED,,,189831,6468,93764,89599,,,True,True,
 2021-02-27,HUN,Hungary,NOT SPECIFIED,,,424130,14902,319691,89537,5282,482,True,True,
 2021-02-27,ISL,Iceland,NOT SPECIFIED,,,6049,29,6006,14,,,False,True,
 2021-02-27,IRL,Ireland,Ireland,53.41975,-8.240472,218980,4313,,214667,,,True,True,IE
