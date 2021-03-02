@@ -182,7 +182,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-01,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2575,54,2484,37,,,False,False,LI
 2021-03-01,LTU,Lithuania,Lithuania,55.174112,23.906736,199825,3263,185770,10792,,,True,True,LT
 2021-02-27,LUX,Luxembourg,Luxembourg,49.815764,6.131514,55428,639,,54789,,,True,True,LU
-2021-03-01,MLT,Malta,Malta,35.946151,14.384612,22657,316,19663,2678,,,True,True,MT001
+2021-03-02,MLT,Malta,Malta,35.946151,14.384612,22993,319,19743,2931,,,True,True,MT001
 2021-03-01,MDA,Moldova,Moldova,46.979527,28.377195,186447,3975,166883,15589,,,False,False,MD
 2021-03-01,MCO,Monaco,Monaco,43.738348,7.424451,1965,24,1720,221,,,False,False,MC
 2021-03-01,MNE,Montenegro,Montenegro,42.710152,19.410069,76283,1015,,75268,0,,False,True,ME
@@ -253,7 +253,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-02,ROU,Romania,Mehedinți,44.365324,22.737138,6095,,,6095,,,True,True,RO413
 2021-03-02,ROU,Romania,Mureș,46.609503,24.697133,18017,,,18017,,,True,True,RO125
 2021-03-02,ROU,Romania,Neamț,46.969735,26.375809,14098,,,14098,,,True,True,RO214
-2021-03-02,ROU,Romania,NOT SPECIFIED,,,,20509,,-20509,,,True,True,
+2021-03-01,ROU,Romania,NOT SPECIFIED,,,,20403,,-20403,,,True,True,
 2021-03-02,ROU,Romania,Olt,44.272504,24.439351,11440,,,11440,,,True,True,RO414
 2021-03-02,ROU,Romania,Prahova,45.114672,26.015788,27395,,,27395,,,True,True,RO316
 2021-03-02,ROU,Romania,Sălaj,47.18438,23.106887,8088,,,8088,,,True,True,RO116
@@ -427,7 +427,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-02,CHE,Switzerland,Graubünden,46.658176,9.629923,10696,174,0,10522,7,4,False,False,CH056
 2021-03-02,CHE,Switzerland,Jura,47.368327,7.198733,5648,138,0,5510,5,1,False,False,CH025
 2021-03-02,CHE,Switzerland,Liechtenstein,47.164696,9.555,2576,54,2484,38,1,0,False,False,LI
-2021-03-02,CHE,Switzerland,Lucerne,47.06883,8.116991,21775,299,0,21476,36,0,False,False,CH061
+2021-03-02,CHE,Switzerland,Lucerne,47.06883,8.116991,21814,299,0,21515,36,0,False,False,CH061
 2021-03-02,CHE,Switzerland,Neuchâtel,46.997282,6.782288,14149,369,0,13780,54,4,False,False,CH024
 2021-03-02,CHE,Switzerland,Nidwalden,46.922198,8.419375,1992,19,0,1973,1,0,False,False,CH065
 2021-03-02,CHE,Switzerland,Obwalden,46.857772,8.209745,1885,39,0,1846,3,0,False,False,CH064
