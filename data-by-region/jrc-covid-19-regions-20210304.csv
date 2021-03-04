@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-03,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,7670,159,,7511,,,True,True,HR04C
 2021-03-03,HRV,Croatia,Zadarska,44.347845,15.959404,8182,133,,8049,,,True,True,HR033
 2021-03-03,HRV,Croatia,Zagrebačka,45.82762,16.381796,19412,10,,19402,,,True,True,HR042
-2021-03-02,CYP,Cyprus,Cyprus,35.167406,33.435499,35620,282,30422,4916,948,,True,True,CY
+2021-02-28,CYP,Cyprus,Cyprus,35.167406,33.435499,35009,281,30442,4286,934,,True,True,CY
 2021-03-03,CZE,Czech Republic,NOT SPECIFIED,,,1284288,21128,1104592,158568,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -182,7 +182,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-03,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2577,54,2486,37,,,False,False,LI
 2021-03-03,LTU,Lithuania,Lithuania,55.174112,23.906736,200884,3294,186737,10853,,,True,True,LT
 2021-03-01,LUX,Luxembourg,Luxembourg,49.815764,6.131514,55635,641,,54994,,,True,True,LU
-2021-03-03,MLT,Malta,Malta,35.946151,14.384612,23226,321,19905,3000,,,True,True,MT001
+2021-03-04,MLT,Malta,Malta,35.946151,14.384612,23588,325,20135,3128,,,True,True,MT001
 2021-03-03,MDA,Moldova,Moldova,46.979527,28.377195,189397,4026,168143,17228,,,False,False,MD
 2021-03-03,MCO,Monaco,Monaco,43.738348,7.424451,1981,26,1754,201,,,False,False,MC
 2021-03-03,MNE,Montenegro,Montenegro,42.710152,19.410069,77493,1031,,76462,484,,False,True,ME
@@ -426,8 +426,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-04,CHE,Switzerland,Glarus,46.980518,9.065544,2220,69,0,2151,3,0,False,False,CH051
 2021-03-04,CHE,Switzerland,Graubünden,46.658176,9.629923,10743,174,0,10569,11,5,False,False,CH056
 2021-03-04,CHE,Switzerland,Jura,47.368327,7.198733,5684,138,0,5546,9,1,False,False,CH025
-2021-03-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,2582,54,2486,42,1,0,False,False,LI
-2021-03-04,CHE,Switzerland,Lucerne,47.06883,8.116991,21862,299,0,21563,36,0,False,False,CH061
+2021-03-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,2582,54,2487,41,2,0,False,False,LI
+2021-03-04,CHE,Switzerland,Lucerne,47.06883,8.116991,21916,299,0,21617,37,0,False,False,CH061
 2021-03-04,CHE,Switzerland,Neuchâtel,46.997282,6.782288,14168,369,0,13799,54,4,False,False,CH024
 2021-03-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,2006,19,0,1987,1,0,False,False,CH065
 2021-03-04,CHE,Switzerland,Obwalden,46.857772,8.209745,1896,39,0,1857,4,0,False,False,CH064
