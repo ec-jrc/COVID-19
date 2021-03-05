@@ -28,7 +28,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-03,BEL,Belgium,Flanders,51.036569,4.234165,352291,11372,,340919,1045,238,True,True,BE2
 2021-03-03,BEL,Belgium,NOT SPECIFIED,,,14450,0,,14450,0,0,True,True,
 2021-03-03,BEL,Belgium,Wallonia,50.312074,5.019093,316899,8039,,308860,546,128,True,True,BE3
-2021-03-04,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,134892,5200,117643,12049,,,False,False,BA
+2021-03-05,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,135513,5228,117885,12400,,,False,False,BA
 2021-03-05,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,12531,10,10,12511,,,True,True,BG413
 2021-03-05,BGR,Bulgaria,Burgas,42.491848,27.306892,15686,1,19,15666,,,True,True,BG341
 2021-03-05,BGR,Bulgaria,Dobrich,43.65074,27.936751,4253,0,2,4251,,,True,True,BG332
@@ -185,7 +185,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-05,MLT,Malta,Malta,35.946151,14.384612,23871,328,20291,3252,,,True,True,MT001
 2021-03-04,MDA,Moldova,Moldova,46.979527,28.377195,191197,4049,168801,18347,,,False,False,MD
 2021-03-04,MCO,Monaco,Monaco,43.738348,7.424451,1997,26,1770,201,,,False,False,MC
-2021-03-04,MNE,Montenegro,Montenegro,42.710152,19.410069,78060,1040,,77020,480,,False,True,ME
+2021-03-05,MNE,Montenegro,Montenegro,42.710152,19.410069,78634,1048,,77586,494,,False,True,ME
 2021-03-05,NLD,Netherlands,Drenthe,52.863149,6.623756,22454,305,,22149,390,,True,True,NL13
 2021-03-05,NLD,Netherlands,Flevoland,52.436257,5.519078,26203,216,,25987,536,,True,True,NL23
 2021-03-05,NLD,Netherlands,Friesland,53.089388,5.871457,27118,410,,26708,369,,True,True,NL12
