@@ -182,7 +182,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-10,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2594,55,2519,20,,,False,False,LI
 2021-03-10,LTU,Lithuania,Lithuania,55.174112,23.906736,203992,3363,190131,10498,,,True,True,LT
 2021-03-08,LUX,Luxembourg,Luxembourg,49.815764,6.131514,56822,668,,56154,,,True,True,LU
-2021-03-10,MLT,Malta,Malta,35.946151,14.384612,25357,337,21838,3182,,,True,True,MT001
+2021-03-11,MLT,Malta,Malta,35.946151,14.384612,25640,341,22176,3123,,,True,True,MT001
 2021-03-10,MDA,Moldova,Moldova,46.979527,28.377195,198228,4183,174099,19946,,,False,False,MD
 2021-03-10,MCO,Monaco,Monaco,43.738348,7.424451,2062,26,1875,161,,,False,False,MC
 2021-03-10,MNE,Montenegro,Montenegro,42.710152,19.410069,81457,1100,,80357,0,,False,True,ME
@@ -253,7 +253,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-11,ROU,Romania,Mehedinți,44.365324,22.737138,6367,,,6367,,,True,True,RO413
 2021-03-11,ROU,Romania,Mureș,46.609503,24.697133,18528,,,18528,,,True,True,RO125
 2021-03-11,ROU,Romania,Neamț,46.969735,26.375809,14759,,,14759,,,True,True,RO214
-2021-03-11,ROU,Romania,NOT SPECIFIED,,,,21156,,-21156,,,True,True,
+2021-03-11,ROU,Romania,NOT SPECIFIED,,,,21252,,-21252,,,True,True,
 2021-03-11,ROU,Romania,Olt,44.272504,24.439351,11835,,,11835,,,True,True,RO414
 2021-03-11,ROU,Romania,Prahova,45.114672,26.015788,27988,,,27988,,,True,True,RO316
 2021-03-11,ROU,Romania,Sălaj,47.18438,23.106887,8616,,,8616,,,True,True,RO116
@@ -417,7 +417,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-09,SWE,Sweden,Västra Götaland,58.303302,12.891496,124269,,,124269,,,True,True,SE232
 2021-03-11,CHE,Switzerland,Aargau,47.410914,8.159107,37404,637,32750,4017,47,9,False,False,CH033
 2021-03-11,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
-2021-03-11,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,888,15,0,873,0,0,False,False,CH054
+2021-03-11,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,889,15,0,874,0,0,False,False,CH054
 2021-03-11,CHE,Switzerland,Basel City,47.561925,7.592768,10047,193,9680,174,23,4,False,False,CH031
 2021-03-11,CHE,Switzerland,Basel Country,47.441812,7.7644,13934,211,13327,396,16,2,False,False,CH032
 2021-03-11,CHE,Switzerland,Bern,46.825006,7.626925,54512,1005,0,53507,0,0,False,False,CH021
@@ -427,7 +427,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-11,CHE,Switzerland,Graubünden,46.658176,9.629923,10926,177,0,10749,10,4,False,False,CH056
 2021-03-11,CHE,Switzerland,Jura,47.368327,7.198733,5748,138,0,5610,8,1,False,False,CH025
 2021-03-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,2596,55,2519,22,0,0,False,False,LI
-2021-03-11,CHE,Switzerland,Lucerne,47.06883,8.116991,22264,299,0,21965,37,0,False,False,CH061
+2021-03-11,CHE,Switzerland,Lucerne,47.06883,8.116991,22334,300,0,22034,38,0,False,False,CH061
 2021-03-11,CHE,Switzerland,Neuchâtel,46.997282,6.782288,14407,369,0,14038,54,5,False,False,CH024
 2021-03-11,CHE,Switzerland,Nidwalden,46.922198,8.419375,2043,19,0,2024,2,1,False,False,CH065
 2021-03-11,CHE,Switzerland,Obwalden,46.857772,8.209745,1922,39,0,1883,1,0,False,False,CH064
