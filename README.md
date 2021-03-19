@@ -38,4 +38,3 @@ Under the above mentioned categories, 6 main governmental measures to contain sp
 As a result of the application of all the considered measures (except flight restrictions), as mandatory and at national level, a status of “Lockdown” is assigned to the considered Country.
 
 <u>Contributors</u>: Agnes Hegedus, Alessandro Annunziato, Andrea Gerhardinger, Annett Wania, Blagoj Delipetrev, Caroline Gasparro, Chiara Fonio, Chiara Proietti, Didem Turk, Filip Sabo, Francisco Rios Diaz, Gustav Eklund, Ines Joubert-Boitat, Jacob Monster, Jon Swen, Marzia Santini, Jurgena Kamberaj, Karmen Poljansek, Kinga Brzostowska, Marco Mastronunzio, Marzia Santini, Matina Halkia, Milan Kalas, Montserrat Marin Ferrer, Niall McCormick, Pamela Probst, Paola Rufolo, Paulo Barbosa, Petar Vojnović, Peter Spruyt, Sara Grubanov Boskovic, Thomas Kemper, Tiberiu Antofie, Tomas Harmatha, Tracy Durrant, Valerio Salvitti.
-
