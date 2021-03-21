@@ -80,7 +80,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-19,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,7909,159,,7750,,,True,True,HR04C
 2021-03-19,HRV,Croatia,Zadarska,44.347845,15.959404,8847,138,,8709,,,True,True,HR033
 2021-03-19,HRV,Croatia,Zagrebačka,45.82762,16.381796,20131,10,,20121,,,True,True,HR042
-2021-03-19,CYP,Cyprus,Cyprus,35.167406,33.435499,41882,294,32829,8759,1131,,True,True,CY
+2021-03-20,CYP,Cyprus,Cyprus,35.167406,33.435499,42218,295,32829,9094,1145,,True,True,CY
 2021-03-20,CZE,Czech Republic,NOT SPECIFIED,,,1469547,24667,1253309,191571,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
@@ -350,7 +350,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-21,RUS,Russian Fed.,Yamalo-Nenets AO,65.264795,74.023346,37751,405,36218,1128,,,False,False,RU77
 2021-03-21,RUS,Russian Fed.,Yaroslavl,57.862116,39.167901,35177,465,33703,1009,,,False,False,RU78
 2021-03-21,RUS,Russian Fed.,Zabaykalsky,52.83932,116.196137,40463,582,38973,908,,,False,False,RU80
-2021-03-20,SMR,San Marino,San Marino,43.942973,12.460035,4356,79,3805,472,,,False,False,SM
+2021-03-19,SMR,San Marino,San Marino,43.942973,12.460035,4328,79,3786,463,,,False,False,SM
 2021-03-20,SRB,Serbia,Serbia,44.206802,20.911009,546896,4900,0,541996,,,False,True,
 2021-03-21,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,33805,,,33805,,,True,True,SK032
 2021-03-21,SVK,Slovakia,Bratislava,48.319003,17.17481,40986,,,40986,,,True,True,SK010
