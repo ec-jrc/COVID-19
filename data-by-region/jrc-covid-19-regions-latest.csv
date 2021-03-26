@@ -419,7 +419,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-26,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-03-26,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,909,15,0,894,0,0,False,False,CH054
 2021-03-26,CHE,Switzerland,Basel City,47.561925,7.592768,10467,194,9992,281,30,3,False,False,CH031
-2021-03-26,CHE,Switzerland,Basel Country,47.441812,7.7644,14673,212,13849,612,14,3,False,False,CH032
+2021-03-26,CHE,Switzerland,Basel Country,47.441812,7.7644,14724,212,13925,587,14,3,False,False,CH032
 2021-03-26,CHE,Switzerland,Bern,46.825006,7.626925,56273,1026,0,55247,0,0,False,False,CH021
 2021-03-26,CHE,Switzerland,Fribourg,46.710334,7.09922,28621,473,847,27301,23,10,False,False,CH022
 2021-03-26,CHE,Switzerland,Geneva,46.217114,6.131255,50362,717,0,49645,79,6,False,False,CH013
@@ -441,7 +441,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-26,CHE,Switzerland,Valais,46.211633,7.611267,33019,759,0,32260,40,4,False,False,CH012
 2021-03-26,CHE,Switzerland,Vaud,46.56176,6.648929,72438,963,0,71475,169,34,False,False,CH011
 2021-03-26,CHE,Switzerland,Zug,47.161402,8.538864,7054,114,6728,212,9,1,False,False,CH066
-2021-03-26,CHE,Switzerland,Zurich,47.417407,8.655988,93115,1323,0,91792,133,27,False,False,CH040
+2021-03-26,CHE,Switzerland,Zurich,47.417407,8.655988,93484,1324,0,92160,127,26,False,False,CH040
 2021-03-25,TUR,Turkey,Turkey,38.961515,35.25175,3120013,30619,2900829,188565,,,False,True,TU
 2021-03-26,UKR,Ukraine,NOT SPECIFIED,,,1614707,31461,1290158,293088,,,False,False,
 2021-03-25,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,16344,,0,16344,,,False,True,UKM93
