@@ -178,7 +178,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-26,ITA,Italy,Valle d'Aosta,45.732414,7.393651,8873,420,7763,690,31,7,True,True,ITC2
 2021-03-26,ITA,Italy,Veneto,45.664735,11.84235,375500,10500,325644,39356,1805,257,True,True,ITH3
 2021-03-15,XKX,Kosovo,NOT SPECIFIED,41.85637,21.803351,82185,1760,,,,,False,False,XK
-2021-03-26,LVA,Latvia,Latvia,56.875584,24.607722,100114,1867,,98247,,,True,True,LV0
+2021-03-27,LVA,Latvia,Latvia,56.875584,24.607722,100716,1872,,98844,,,True,True,LV0
 2021-03-26,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2645,56,2553,36,,,False,False,LI
 2021-03-26,LTU,Lithuania,Lithuania,55.174112,23.906736,213447,3539,197529,12379,,,True,True,LT
 2021-03-24,LUX,Luxembourg,Luxembourg,49.815764,6.131514,60205,736,,59469,,,True,True,LU
@@ -213,7 +213,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-26,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,5115,,,5115,,,False,True,NO033
 2021-03-26,NOR,Norway,Vestland,60.952729,6.513828,7522,,,7522,,,False,True,NO05
 2021-03-26,NOR,Norway,Viken,60.020274,9.849655,31134,,,31134,,,False,True,NO012
-2021-03-26,POL,Poland,NOT SPECIFIED,,,2189966,51305,1747223,391438,,,True,True,
+2021-03-27,POL,Poland,NOT SPECIFIED,,,2221725,51753,1775068,394904,,,True,True,
 2021-03-26,PRT,Portugal,Açores,37.775525,-25.494927,4014,28,,3986,,,True,True,PT20
 2021-03-26,PRT,Portugal,Alentejo,38.485499,-8.006668,29005,968,,28037,,,True,True,PT18
 2021-03-26,PRT,Portugal,Algarve,37.218389,-8.198488,20580,351,,20229,,,True,True,PT15
@@ -365,7 +365,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-03-25,SVN,Slovenia,NOT SPECIFIED,,,210783,4290,11286,195207,500,108,True,True,
+2021-03-26,SVN,Slovenia,NOT SPECIFIED,,,212036,4293,11348,196395,497,107,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-27,CHE,Switzerland,Basel Country,47.441812,7.7644,14724,212,13925,587,14,3,False,False,CH032
 2021-03-27,CHE,Switzerland,Bern,46.825006,7.626925,56467,1026,0,55441,0,0,False,False,CH021
 2021-03-27,CHE,Switzerland,Fribourg,46.710334,7.09922,28694,473,848,27373,26,8,False,False,CH022
-2021-03-27,CHE,Switzerland,Geneva,46.217114,6.131255,50522,722,0,49800,70,5,False,False,CH013
+2021-03-27,CHE,Switzerland,Geneva,46.217114,6.131255,50526,722,0,49804,70,5,False,False,CH013
 2021-03-27,CHE,Switzerland,Glarus,46.980518,9.065544,2284,71,0,2213,0,0,False,False,CH051
 2021-03-27,CHE,Switzerland,Graubünden,46.658176,9.629923,11365,179,0,11186,12,1,False,False,CH056
 2021-03-27,CHE,Switzerland,Jura,47.368327,7.198733,5887,139,0,5748,0,0,False,False,CH025
@@ -436,7 +436,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-27,CHE,Switzerland,Solothurn,47.336648,7.686944,14673,257,0,14416,18,6,False,False,CH023
 2021-03-27,CHE,Switzerland,St. Gallen,47.305025,9.019368,35927,688,0,35239,41,10,False,False,CH055
 2021-03-27,CHE,Switzerland,Thurgau,47.567205,9.112572,15975,408,934,14633,15,1,False,False,CH057
-2021-03-27,CHE,Switzerland,Ticino,46.297963,8.808447,29788,972,3067,25749,67,8,False,False,CH07
+2021-03-27,CHE,Switzerland,Ticino,46.297963,8.808447,29884,972,3073,25839,71,8,False,False,CH07
 2021-03-27,CHE,Switzerland,Uri,46.775402,8.627444,1996,39,0,1957,4,0,False,False,CH062
 2021-03-27,CHE,Switzerland,Valais,46.211633,7.611267,33112,760,0,32352,38,6,False,False,CH012
 2021-03-27,CHE,Switzerland,Vaud,46.56176,6.648929,72438,963,0,71475,169,34,False,False,CH011
