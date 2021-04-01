@@ -428,7 +428,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-01,CHE,Switzerland,Jura,47.368327,7.198733,5961,141,0,5820,2,2,False,False,CH025
 2021-04-01,CHE,Switzerland,Liechtenstein,47.164696,9.555,2670,56,2568,46,1,0,False,False,LI
 2021-04-01,CHE,Switzerland,Lucerne,47.06883,8.116991,23694,304,0,23390,47,0,False,False,CH061
-2021-04-01,CHE,Switzerland,Neuchâtel,46.997282,6.782288,15046,395,0,14651,13,0,False,False,CH024
+2021-04-01,CHE,Switzerland,Neuchâtel,46.997282,6.782288,15089,395,0,14694,13,1,False,False,CH024
 2021-04-01,CHE,Switzerland,Nidwalden,46.922198,8.419375,2185,19,0,2166,4,1,False,False,CH065
 2021-04-01,CHE,Switzerland,Obwalden,46.857772,8.209745,2050,39,0,2011,2,0,False,False,CH064
 2021-04-01,CHE,Switzerland,Schaffhausen,47.721853,8.563863,3921,74,0,3847,8,1,False,False,CH052
@@ -464,7 +464,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-03-31,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,117289,2115,0,115174,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
 2021-03-31,GBR,United Kingdom,Orkney,58.98094,-2.960521,71,,0,71,,,False,True,UKM65
-2021-03-31,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,7602,0,-7602,,,False,True,UKM
+2021-03-31,GBR,United Kingdom,Scotland,56.490671,-4.202646,218432,7602,0,210830,,,False,True,UKM
 2021-03-31,GBR,United Kingdom,Shetland,60.29623,-1.346738,232,,0,232,,,False,True,UKM66
 2021-03-31,GBR,United Kingdom,South East,51.291417,-0.521902,533882,,0,533882,,,False,True,UKJ
 2021-03-31,GBR,United Kingdom,South West,51.239761,-2.54375,218345,,0,218345,,,False,True,UKK
