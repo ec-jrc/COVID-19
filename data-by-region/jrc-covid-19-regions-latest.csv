@@ -365,7 +365,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-04-01,SVN,Slovenia,NOT SPECIFIED,,,218106,4349,11607,202150,515,118,True,True,
+2021-04-02,SVN,Slovenia,NOT SPECIFIED,,,219402,4354,11657,203391,531,123,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -425,7 +425,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-03,CHE,Switzerland,Geneva,46.217114,6.131255,51485,722,0,50763,83,8,False,False,CH013
 2021-04-03,CHE,Switzerland,Glarus,46.980518,9.065544,2306,71,0,2235,4,0,False,False,CH051
 2021-04-03,CHE,Switzerland,Graubünden,46.658176,9.629923,11671,181,0,11490,6,0,False,False,CH056
-2021-04-03,CHE,Switzerland,Jura,47.368327,7.198733,5970,141,0,5829,2,2,False,False,CH025
+2021-04-03,CHE,Switzerland,Jura,47.368327,7.198733,5985,141,0,5844,2,1,False,False,CH025
 2021-04-03,CHE,Switzerland,Liechtenstein,47.164696,9.555,2679,56,2574,49,1,0,False,False,LI
 2021-04-03,CHE,Switzerland,Lucerne,47.06883,8.116991,23800,304,0,23496,47,0,False,False,CH061
 2021-04-03,CHE,Switzerland,Neuchâtel,46.997282,6.782288,15089,395,0,14694,13,1,False,False,CH024
