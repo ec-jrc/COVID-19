@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-04,DNK,Denmark,NOT SPECIFIED,,,233318,2429,221590,9299,211,0,True,True,
 2021-04-04,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-04-04,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-04-04,EST,Estonia,Estonia,58.596209,25.023778,109399,941,,108458,,,True,True,EE0
+2021-04-05,EST,Estonia,Estonia,58.596209,25.023778,109781,950,,108831,,,True,True,EE0
 2021-04-04,FIN,Finland,Ahvenanmaa,60.240625,19.966666,326,,,326,,,True,True,FI200
 2021-04-04,FIN,Finland,Etelä-Karjala,61.217899,28.550289,932,,,932,,,True,True,FI1C5
 2021-04-04,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,707,,,707,,,True,True,FI194
@@ -178,7 +178,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-04,ITA,Italy,Valle d'Aosta,45.732414,7.393651,9646,428,8112,1106,65,13,True,True,ITC2
 2021-04-04,ITA,Italy,Veneto,45.664735,11.84235,388786,10738,340581,37467,1962,282,True,True,ITH3
 2021-03-22,XKX,Kosovo,NOT SPECIFIED,41.85637,21.803351,87981,1840,,,,,False,False,XK
-2021-04-04,LVA,Latvia,Latvia,56.875584,24.607722,104105,1931,,102174,,,True,True,LV0
+2021-04-05,LVA,Latvia,Latvia,56.875584,24.607722,104224,1934,,102290,,,True,True,LV0
 2021-04-04,LIE,Liechtenstein,Liechtenstein,47.164696,9.555,2685,56,2571,58,,,False,False,LI
 2021-04-04,LTU,Lithuania,Lithuania,55.174112,23.906736,220212,3615,201727,14870,,,True,True,LT
 2021-03-31,LUX,Luxembourg,Luxembourg,49.815764,6.131514,61882,749,,61133,,,True,True,LU
