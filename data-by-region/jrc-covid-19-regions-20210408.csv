@@ -213,7 +213,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-07,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,5509,,,5509,,,False,True,NO033
 2021-04-07,NOR,Norway,Vestland,60.952729,6.513828,8003,,,8003,,,False,True,NO05
 2021-04-07,NOR,Norway,Viken,60.020274,9.849655,35134,,,35134,,,False,True,NO012
-2021-04-07,POL,Poland,NOT SPECIFIED,,,2471617,55703,2054697,361217,,,True,True,
+2021-04-08,POL,Poland,NOT SPECIFIED,,,2499507,56659,2076504,366344,,,True,True,
 2021-04-07,PRT,Portugal,Açores,37.775525,-25.494927,4167,29,,4138,,,True,True,PT20
 2021-04-07,PRT,Portugal,Alentejo,38.485499,-8.006668,29261,970,,28291,,,True,True,PT18
 2021-04-07,PRT,Portugal,Algarve,37.218389,-8.198488,20926,354,,20572,,,True,True,PT15
@@ -426,12 +426,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-08,CHE,Switzerland,Glarus,46.980518,9.065544,2328,71,0,2257,4,0,False,False,CH051
 2021-04-08,CHE,Switzerland,Graubünden,46.658176,9.629923,11852,184,0,11668,9,0,False,False,CH056
 2021-04-08,CHE,Switzerland,Jura,47.368327,7.198733,6030,142,0,5888,4,0,False,False,CH025
-2021-04-08,CHE,Switzerland,Liechtenstein,47.164696,9.555,2702,56,2601,45,4,0,False,False,LI
+2021-04-08,CHE,Switzerland,Liechtenstein,47.164696,9.555,2714,56,2605,53,4,0,False,False,LI
 2021-04-08,CHE,Switzerland,Lucerne,47.06883,8.116991,24249,310,0,23939,44,0,False,False,CH061
 2021-04-08,CHE,Switzerland,Neuchâtel,46.997282,6.782288,15241,397,0,14844,18,1,False,False,CH024
 2021-04-08,CHE,Switzerland,Nidwalden,46.922198,8.419375,2245,19,0,2226,2,2,False,False,CH065
 2021-04-08,CHE,Switzerland,Obwalden,46.857772,8.209745,2088,39,0,2049,3,0,False,False,CH064
-2021-04-08,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4002,75,0,3927,10,2,False,False,CH052
+2021-04-08,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4024,75,0,3949,12,4,False,False,CH052
 2021-04-08,CHE,Switzerland,Schwyz,47.06411,8.761568,10284,217,9835,232,0,0,False,False,CH063
 2021-04-08,CHE,Switzerland,Solothurn,47.336648,7.686944,15290,261,0,15029,32,8,False,False,CH023
 2021-04-08,CHE,Switzerland,St. Gallen,47.305025,9.019368,37059,700,0,36359,50,11,False,False,CH055
