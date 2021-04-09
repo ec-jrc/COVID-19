@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-08,CZE,Czech Republic,NOT SPECIFIED,,,1573153,27617,1437295,108241,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-04-08,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-04-08,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-04-08,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-04-08,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-04-08,DNK,Denmark,NOT SPECIFIED,,,235648,2436,224608,8604,237,0,True,True,
-2021-04-08,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-04-08,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-04-09,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-04-09,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-04-09,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-04-09,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-04-09,DNK,Denmark,NOT SPECIFIED,,,236346,2436,225255,8655,221,0,True,True,
+2021-04-09,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-04-09,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-04-09,EST,Estonia,Estonia,58.596209,25.023778,113098,1006,,112092,,,True,True,EE0
 2021-04-09,FIN,Finland,Ahvenanmaa,60.240625,19.966666,333,,,333,,,True,True,FI200
 2021-04-09,FIN,Finland,Etelä-Karjala,61.217899,28.550289,970,,,970,,,True,True,FI1C5
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-09,CHE,Switzerland,Basel Country,47.441812,7.7644,15454,215,14621,618,20,3,False,False,CH032
 2021-04-09,CHE,Switzerland,Bern,46.825006,7.626925,58483,1037,0,57446,0,0,False,False,CH021
 2021-04-09,CHE,Switzerland,Fribourg,46.710334,7.09922,29318,476,872,27970,32,6,False,False,CH022
-2021-04-09,CHE,Switzerland,Geneva,46.217114,6.131255,52340,722,0,51618,98,9,False,False,CH013
+2021-04-09,CHE,Switzerland,Geneva,46.217114,6.131255,52352,722,0,51630,102,10,False,False,CH013
 2021-04-09,CHE,Switzerland,Glarus,46.980518,9.065544,2345,71,0,2274,4,0,False,False,CH051
 2021-04-09,CHE,Switzerland,Graubünden,46.658176,9.629923,11895,184,0,11711,12,0,False,False,CH056
 2021-04-09,CHE,Switzerland,Jura,47.368327,7.198733,6069,142,0,5927,5,0,False,False,CH025
@@ -438,10 +438,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-09,CHE,Switzerland,Thurgau,47.567205,9.112572,16657,424,969,15264,22,6,False,False,CH057
 2021-04-09,CHE,Switzerland,Ticino,46.297963,8.808447,30868,978,3161,26729,91,15,False,False,CH07
 2021-04-09,CHE,Switzerland,Uri,46.775402,8.627444,2319,41,0,2278,9,0,False,False,CH062
-2021-04-09,CHE,Switzerland,Valais,46.211633,7.611267,34129,761,0,33368,34,8,False,False,CH012
+2021-04-09,CHE,Switzerland,Valais,46.211633,7.611267,34260,761,0,33499,30,8,False,False,CH012
 2021-04-09,CHE,Switzerland,Vaud,46.56176,6.648929,75370,974,0,74396,180,33,False,False,CH011
 2021-04-09,CHE,Switzerland,Zug,47.161402,8.538864,7464,114,7169,181,13,2,False,False,CH066
-2021-04-09,CHE,Switzerland,Zurich,47.417407,8.655988,97972,1349,0,96623,205,41,False,False,CH040
+2021-04-09,CHE,Switzerland,Zurich,47.417407,8.655988,98453,1350,0,97103,213,41,False,False,CH040
 2021-04-08,TUR,Turkey,Turkey,38.961515,35.25175,3689866,33201,3232892,423773,,,False,True,TU
 2021-04-09,UKR,Ukraine,NOT SPECIFIED,,,1823674,36381,1395104,392189,,,False,False,
 2021-04-08,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,16662,,0,16662,,,False,True,UKM93
