@@ -213,7 +213,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-14,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,5709,,,5709,,,False,True,NO033
 2021-04-14,NOR,Norway,Vestland,60.952729,6.513828,8312,,,8312,,,False,True,NO05
 2021-04-14,NOR,Norway,Viken,60.020274,9.849655,37086,,,37086,,,False,True,NO012
-2021-04-14,POL,Poland,NOT SPECIFIED,,,2621116,59930,2229801,331385,,,True,True,
+2021-04-15,POL,Poland,NOT SPECIFIED,,,2642242,60612,2238638,342992,,,True,True,
 2021-04-14,PRT,Portugal,Açores,37.775525,-25.494927,4420,29,,4391,,,True,True,PT20
 2021-04-14,PRT,Portugal,Alentejo,38.485499,-8.006668,29465,970,,28495,,,True,True,PT18
 2021-04-14,PRT,Portugal,Algarve,37.218389,-8.198488,21246,355,,20891,,,True,True,PT15
@@ -433,7 +433,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-15,CHE,Switzerland,Obwalden,46.857772,8.209745,2154,39,0,2115,3,0,False,False,CH064
 2021-04-15,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4138,75,0,4063,10,4,False,False,CH052
 2021-04-15,CHE,Switzerland,Schwyz,47.06411,8.761568,10548,217,10001,330,0,0,False,False,CH063
-2021-04-15,CHE,Switzerland,Solothurn,47.336648,7.686944,15753,263,0,15490,25,7,False,False,CH023
+2021-04-15,CHE,Switzerland,Solothurn,47.336648,7.686944,15814,263,0,15551,23,7,False,False,CH023
 2021-04-15,CHE,Switzerland,St. Gallen,47.305025,9.019368,37889,700,0,37189,49,10,False,False,CH055
 2021-04-15,CHE,Switzerland,Thurgau,47.567205,9.112572,16897,432,980,15485,30,14,False,False,CH057
 2021-04-15,CHE,Switzerland,Ticino,46.297963,8.808447,31191,980,3190,27021,89,17,False,False,CH07
