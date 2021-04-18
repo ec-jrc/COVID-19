@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-15,HRV,Croatia,Zadarska,44.347845,15.959404,11387,169,,11218,,,True,True,HR033
 2021-04-15,HRV,Croatia,Zagrebačka,45.82762,16.381796,23730,10,,23720,,,True,True,HR042
 2021-04-16,CYP,Cyprus,Cyprus,35.167406,33.435499,55407,348,40929,14130,1397,,True,True,CY
-2021-04-16,CZE,Czech Republic,NOT SPECIFIED,,,1600341,28396,1495570,76375,,,True,True,
+2021-04-17,CZE,Czech Republic,NOT SPECIFIED,,,1600347,28426,1495624,76297,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-04-16,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-16,DNK,Denmark,NOT SPECIFIED,,,241007,2452,230084,8471,185,0,True,True,
 2021-04-16,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-04-16,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-04-17,EST,Estonia,Estonia,58.596209,25.023778,117011,1082,,115929,,,True,True,EE0
+2021-04-18,EST,Estonia,Estonia,58.596209,25.023778,117554,1092,,116462,,,True,True,EE0
 2021-04-17,FIN,Finland,Ahvenanmaa,60.240625,19.966666,352,,,352,,,True,True,FI200
 2021-04-17,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1019,,,1019,,,True,True,FI1C5
 2021-04-17,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,764,,,764,,,True,True,FI194
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-17,CHE,Switzerland,Basel Country,47.441812,7.7644,15928,217,15007,704,21,2,False,False,CH032
 2021-04-17,CHE,Switzerland,Bern,46.825006,7.626925,59954,1038,0,58916,0,0,False,False,CH021
 2021-04-17,CHE,Switzerland,Fribourg,46.710334,7.09922,29868,478,888,28502,21,6,False,False,CH022
-2021-04-17,CHE,Switzerland,Geneva,46.217114,6.131255,53702,728,0,52974,82,12,False,False,CH013
+2021-04-17,CHE,Switzerland,Geneva,46.217114,6.131255,53801,728,0,53073,82,12,False,False,CH013
 2021-04-17,CHE,Switzerland,Glarus,46.980518,9.065544,2438,71,0,2367,9,0,False,False,CH051
 2021-04-17,CHE,Switzerland,Graubünden,46.658176,9.629923,12318,184,0,12134,20,6,False,False,CH056
 2021-04-17,CHE,Switzerland,Jura,47.368327,7.198733,6188,144,0,6044,4,2,False,False,CH025
