@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-19,DNK,Denmark,NOT SPECIFIED,,,243374,2459,231628,9287,199,0,True,True,
 2021-04-19,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-04-19,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-04-19,EST,Estonia,Estonia,58.596209,25.023778,117782,1100,,116682,,,True,True,EE0
+2021-04-20,EST,Estonia,Estonia,58.596209,25.023778,118317,1104,,117213,,,True,True,EE0
 2021-04-17,FIN,Finland,Ahvenanmaa,60.240625,19.966666,352,,,352,,,True,True,FI200
 2021-04-17,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1019,,,1019,,,True,True,FI1C5
 2021-04-17,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,764,,,764,,,True,True,FI194
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-20,CHE,Switzerland,Basel Country,47.441812,7.7644,16025,217,15145,663,18,3,False,False,CH032
 2021-04-20,CHE,Switzerland,Bern,46.825006,7.626925,60336,1041,0,59295,0,0,False,False,CH021
 2021-04-20,CHE,Switzerland,Fribourg,46.710334,7.09922,29968,478,888,28602,29,7,False,False,CH022
-2021-04-20,CHE,Switzerland,Geneva,46.217114,6.131255,54033,728,0,53305,83,10,False,False,CH013
+2021-04-20,CHE,Switzerland,Geneva,46.217114,6.131255,54072,729,0,53343,83,10,False,False,CH013
 2021-04-20,CHE,Switzerland,Glarus,46.980518,9.065544,2461,71,0,2390,9,0,False,False,CH051
 2021-04-20,CHE,Switzerland,Graubünden,46.658176,9.629923,12375,184,0,12191,19,5,False,False,CH056
 2021-04-20,CHE,Switzerland,Jura,47.368327,7.198733,6222,144,0,6078,8,1,False,False,CH025
@@ -436,7 +436,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-20,CHE,Switzerland,Solothurn,47.336648,7.686944,16103,264,0,15839,20,3,False,False,CH023
 2021-04-20,CHE,Switzerland,St. Gallen,47.305025,9.019368,38349,700,0,37649,56,13,False,False,CH055
 2021-04-20,CHE,Switzerland,Thurgau,47.567205,9.112572,17083,432,989,15662,36,17,False,False,CH057
-2021-04-20,CHE,Switzerland,Ticino,46.297963,8.808447,31472,982,3219,27271,90,16,False,False,CH07
+2021-04-20,CHE,Switzerland,Ticino,46.297963,8.808447,31566,982,3225,27359,93,17,False,False,CH07
 2021-04-20,CHE,Switzerland,Uri,46.775402,8.627444,2600,46,0,2554,6,0,False,False,CH062
 2021-04-20,CHE,Switzerland,Valais,46.211633,7.611267,35306,766,0,34540,47,10,False,False,CH012
 2021-04-20,CHE,Switzerland,Vaud,46.56176,6.648929,77483,984,0,76499,160,25,False,False,CH011
