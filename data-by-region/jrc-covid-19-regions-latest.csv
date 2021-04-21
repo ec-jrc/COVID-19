@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-19,HRV,Croatia,Zadarska,44.347845,15.959404,11733,176,,11557,,,True,True,HR033
 2021-04-19,HRV,Croatia,Zagrebačka,45.82762,16.381796,24319,10,,24309,,,True,True,HR042
 2021-04-19,CYP,Cyprus,Cyprus,35.167406,33.435499,58022,355,40929,16738,1434,,True,True,CY
-2021-04-19,CZE,Czech Republic,NOT SPECIFIED,,,1606030,28640,1515106,62284,,,True,True,
+2021-04-20,CZE,Czech Republic,NOT SPECIFIED,,,1609861,28711,1517774,63376,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-04-20,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -434,7 +434,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-21,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4209,75,0,4134,14,3,False,False,CH052
 2021-04-21,CHE,Switzerland,Schwyz,47.06411,8.761568,10696,221,10131,344,0,0,False,False,CH063
 2021-04-21,CHE,Switzerland,Solothurn,47.336648,7.686944,16103,264,0,15839,20,3,False,False,CH023
-2021-04-21,CHE,Switzerland,St. Gallen,47.305025,9.019368,38349,700,0,37649,56,13,False,False,CH055
+2021-04-21,CHE,Switzerland,St. Gallen,47.305025,9.019368,38523,700,0,37823,45,13,False,False,CH055
 2021-04-21,CHE,Switzerland,Thurgau,47.567205,9.112572,17137,434,992,15711,37,12,False,False,CH057
 2021-04-21,CHE,Switzerland,Ticino,46.297963,8.808447,31566,982,3225,27359,93,17,False,False,CH07
 2021-04-21,CHE,Switzerland,Uri,46.775402,8.627444,2651,46,0,2605,11,0,False,False,CH062
