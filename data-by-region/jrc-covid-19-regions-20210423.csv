@@ -84,13 +84,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-22,CZE,Czech Republic,NOT SPECIFIED,,,1615461,28863,1522461,64137,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-04-22,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-04-22,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-04-22,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-04-22,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-04-22,DNK,Denmark,NOT SPECIFIED,,,245761,2467,233614,9680,191,0,True,True,
-2021-04-22,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-04-22,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-04-23,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-04-23,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-04-23,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-04-23,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-04-23,DNK,Denmark,NOT SPECIFIED,,,246463,2472,234341,9650,190,0,True,True,
+2021-04-23,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-04-23,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-04-23,EST,Estonia,Estonia,58.596209,25.023778,119610,1126,,118484,,,True,True,EE0
 2021-04-23,FIN,Finland,Ahvenanmaa,60.240625,19.966666,371,,,371,,,True,True,FI200
 2021-04-23,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1041,,,1041,,,True,True,FI1C5
@@ -185,7 +185,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-23,MLT,Malta,Malta,35.946151,14.384612,30129,412,29204,513,,,True,True,MT001
 2021-04-22,MDA,Moldova,Moldova,46.979527,28.377195,248009,5668,235054,7287,,,False,False,MD
 2021-04-22,MCO,Monaco,Monaco,43.738348,7.424451,2423,31,2311,81,,,False,False,MC
-2021-04-22,MNE,Montenegro,Montenegro,42.710152,19.410069,96187,1451,,94736,384,,False,True,ME
+2021-04-23,MNE,Montenegro,Montenegro,42.710152,19.410069,96348,1457,,94891,376,,False,True,ME
 2021-04-23,NLD,Netherlands,Drenthe,52.863149,6.623756,29904,341,,29563,500,,True,True,NL13
 2021-04-23,NLD,Netherlands,Flevoland,52.436257,5.519078,32535,232,,32303,608,,True,True,NL23
 2021-04-23,NLD,Netherlands,Friesland,53.089388,5.871457,37771,459,,37312,455,,True,True,NL12
@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-23,CHE,Switzerland,Basel Country,47.441812,7.7644,16364,217,15348,799,26,3,False,False,CH032
 2021-04-23,CHE,Switzerland,Bern,46.825006,7.626925,60933,1045,0,59888,0,0,False,False,CH021
 2021-04-23,CHE,Switzerland,Fribourg,46.710334,7.09922,30199,478,898,28823,21,7,False,False,CH022
-2021-04-23,CHE,Switzerland,Geneva,46.217114,6.131255,54562,730,0,53832,81,13,False,False,CH013
+2021-04-23,CHE,Switzerland,Geneva,46.217114,6.131255,54579,730,0,53849,81,13,False,False,CH013
 2021-04-23,CHE,Switzerland,Glarus,46.980518,9.065544,2524,71,0,2453,8,0,False,False,CH051
 2021-04-23,CHE,Switzerland,Graubünden,46.658176,9.629923,12509,184,0,12325,21,3,False,False,CH056
 2021-04-23,CHE,Switzerland,Jura,47.368327,7.198733,6264,144,0,6120,8,0,False,False,CH025
@@ -441,7 +441,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-23,CHE,Switzerland,Valais,46.211633,7.611267,35665,769,0,34896,39,8,False,False,CH012
 2021-04-23,CHE,Switzerland,Vaud,46.56176,6.648929,78478,991,0,77487,120,29,False,False,CH011
 2021-04-23,CHE,Switzerland,Zug,47.161402,8.538864,7827,116,7546,165,11,3,False,False,CH066
-2021-04-23,CHE,Switzerland,Zurich,47.417407,8.655988,103896,1368,0,102528,241,52,False,False,CH040
+2021-04-23,CHE,Switzerland,Zurich,47.417407,8.655988,104304,1369,0,102935,222,54,False,False,CH040
 2021-04-22,TUR,Turkey,Turkey,38.961515,35.25175,4501382,37329,3909935,554118,,,False,True,TU
 2021-04-23,UKR,Ukraine,NOT SPECIFIED,,,2004630,41700,1552267,410663,,,False,False,
 2021-04-22,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,16879,,0,16879,,,False,True,UKM93
