@@ -81,7 +81,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-22,HRV,Croatia,Zadarska,44.347845,15.959404,12056,181,,11875,,,True,True,HR033
 2021-04-22,HRV,Croatia,Zagrebačka,45.82762,16.381796,25268,10,,25258,,,True,True,HR042
 2021-04-24,CYP,Cyprus,Cyprus,35.167406,33.435499,62349,360,43482,18507,1495,,True,True,CY
-2021-04-24,CZE,Czech Republic,NOT SPECIFIED,,,1618076,28946,1524100,65030,,,True,True,
+2021-04-25,CZE,Czech Republic,NOT SPECIFIED,,,1620206,29002,1537362,53842,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-04-23,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -429,12 +429,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-26,CHE,Switzerland,Liechtenstein,47.164696,9.555,2884,57,2724,103,7,0,False,False,LI
 2021-04-26,CHE,Switzerland,Lucerne,47.06883,8.116991,25799,313,0,25486,49,0,False,False,CH061
 2021-04-26,CHE,Switzerland,Neuchâtel,46.997282,6.782288,15953,397,0,15556,20,3,False,False,CH024
-2021-04-26,CHE,Switzerland,Nidwalden,46.922198,8.419375,2406,22,0,2384,6,1,False,False,CH065
+2021-04-26,CHE,Switzerland,Nidwalden,46.922198,8.419375,2406,21,0,2385,6,1,False,False,CH065
 2021-04-26,CHE,Switzerland,Obwalden,46.857772,8.209745,2214,39,0,2175,3,0,False,False,CH064
 2021-04-26,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4258,75,0,4183,14,3,False,False,CH052
 2021-04-26,CHE,Switzerland,Schwyz,47.06411,8.761568,11001,221,10294,486,0,0,False,False,CH063
 2021-04-26,CHE,Switzerland,Solothurn,47.336648,7.686944,16317,264,0,16053,22,3,False,False,CH023
-2021-04-26,CHE,Switzerland,St. Gallen,47.305025,9.019368,38789,701,0,38088,57,11,False,False,CH055
+2021-04-26,CHE,Switzerland,St. Gallen,47.305025,9.019368,39066,703,0,38363,67,16,False,False,CH055
 2021-04-26,CHE,Switzerland,Thurgau,47.567205,9.112572,17293,435,1005,15853,40,12,False,False,CH057
 2021-04-26,CHE,Switzerland,Ticino,46.297963,8.808447,31907,984,3261,27662,89,15,False,False,CH07
 2021-04-26,CHE,Switzerland,Uri,46.775402,8.627444,2810,47,0,2763,5,0,False,False,CH062
