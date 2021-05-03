@@ -91,7 +91,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-04-29,DNK,Denmark,NOT SPECIFIED,,,250554,2483,237757,10314,173,0,True,True,
 2021-04-29,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
 2021-04-29,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
-2021-05-02,EST,Estonia,Estonia,58.596209,25.023778,122685,1168,,121517,,,True,True,EE0
+2021-05-03,EST,Estonia,Estonia,58.596209,25.023778,122943,1172,,121771,,,True,True,EE0
 2021-05-02,FIN,Finland,Ahvenanmaa,60.240625,19.966666,374,,,374,,,True,True,FI200
 2021-05-02,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1088,,,1088,,,True,True,FI1C5
 2021-05-02,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,787,,,787,,,True,True,FI194
@@ -153,7 +153,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-03,DEU,Germany,Schleswig Holstein,54.0295,9.705555,59143,1513,,57630,,,True,True,DEF
 2021-05-03,DEU,Germany,Thüringen,50.903878,11.02488,117845,3861,,113984,,,True,True,DEG
 2021-05-02,GRC,Greece,NOT SPECIFIED,,,346422,10453,93764,242205,,,True,True,
-2021-05-02,HUN,Hungary,NOT SPECIFIED,,,782892,27802,523510,231580,5031,587,True,True,
+2021-05-03,HUN,Hungary,NOT SPECIFIED,,,784111,27908,528201,228002,4872,572,True,True,
 2021-05-02,ISL,Iceland,NOT SPECIFIED,,,6472,29,6253,190,,,False,True,
 2021-05-02,IRL,Ireland,Ireland,53.41975,-8.240472,249838,4906,,244932,14259,1510,True,True,IE
 2021-05-02,ITA,Italy,Abruzzo,42.228034,13.855137,71603,2412,60458,8733,386,31,True,True,ITF1
@@ -431,7 +431,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-03,CHE,Switzerland,Neuchâtel,46.997282,6.782288,16262,399,0,15863,24,4,False,False,CH024
 2021-05-03,CHE,Switzerland,Nidwalden,46.922198,8.419375,2464,22,0,2442,6,1,False,False,CH065
 2021-05-03,CHE,Switzerland,Obwalden,46.857772,8.209745,2292,39,0,2253,3,0,False,False,CH064
-2021-05-03,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4343,75,0,4268,7,3,False,False,CH052
+2021-05-03,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4370,76,0,4294,9,3,False,False,CH052
 2021-05-03,CHE,Switzerland,Schwyz,47.06411,8.761568,11218,223,10557,438,0,0,False,False,CH063
 2021-05-03,CHE,Switzerland,Solothurn,47.336648,7.686944,16723,265,0,16458,31,9,False,False,CH023
 2021-05-03,CHE,Switzerland,St. Gallen,47.305025,9.019368,39778,706,0,39072,56,14,False,False,CH055
