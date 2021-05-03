@@ -12,7 +12,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-02,ALB,Albania,Shkodër,42.17682,19.719451,7333,138,6723,472,6,1,False,False,AL015
 2021-05-02,ALB,Albania,Tiranë,41.268583,19.793936,55084,984,39266,14834,56,5,False,False,AL022
 2021-05-02,ALB,Albania,Vlorë,40.162418,19.793592,9008,125,8624,259,9,0,False,False,AL035
-2021-05-02,AND,Andorra,Andorra,42.542268,1.596865,13282,127,,13155,18,,False,False,AD
+2021-05-03,AND,Andorra,Andorra,42.542268,1.596865,13295,127,,13168,17,,False,False,AD
 2021-05-02,AUT,Austria,Burgenland,47.541449,16.520206,17711,314,16820,577,28,19,True,True,AT11
 2021-05-02,AUT,Austria,Kärnten,46.715832,14.455532,38668,798,36037,1833,49,8,True,True,AT21
 2021-05-02,AUT,Austria,Niederösterreich,48.27051,15.763245,104028,1569,97896,4563,195,93,True,True,AT12
@@ -429,8 +429,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-03,CHE,Switzerland,Liechtenstein,47.164696,9.555,2946,57,2818,71,7,0,False,False,LI
 2021-05-03,CHE,Switzerland,Lucerne,47.06883,8.116991,26692,317,0,26375,50,0,False,False,CH061
 2021-05-03,CHE,Switzerland,Neuchâtel,46.997282,6.782288,16372,402,0,15970,24,3,False,False,CH024
-2021-05-03,CHE,Switzerland,Nidwalden,46.922198,8.419375,2464,22,0,2442,6,1,False,False,CH065
-2021-05-03,CHE,Switzerland,Obwalden,46.857772,8.209745,2292,39,0,2253,3,0,False,False,CH064
+2021-05-03,CHE,Switzerland,Nidwalden,46.922198,8.419375,2469,22,0,2447,6,1,False,False,CH065
+2021-05-03,CHE,Switzerland,Obwalden,46.857772,8.209745,2302,39,0,2263,1,0,False,False,CH064
 2021-05-03,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4370,76,0,4294,9,3,False,False,CH052
 2021-05-03,CHE,Switzerland,Schwyz,47.06411,8.761568,11218,223,10557,438,0,0,False,False,CH063
 2021-05-03,CHE,Switzerland,Solothurn,47.336648,7.686944,16845,266,0,16579,28,5,False,False,CH023
