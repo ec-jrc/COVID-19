@@ -429,7 +429,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,2948,57,2830,61,7,0,False,False,LI
 2021-05-04,CHE,Switzerland,Lucerne,47.06883,8.116991,26806,319,0,26487,56,0,False,False,CH061
 2021-05-04,CHE,Switzerland,Neuchâtel,46.997282,6.782288,16396,402,0,15994,24,4,False,False,CH024
-2021-05-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,2469,22,0,2447,6,1,False,False,CH065
+2021-05-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,2488,23,0,2465,3,1,False,False,CH065
 2021-05-04,CHE,Switzerland,Obwalden,46.857772,8.209745,2303,39,0,2264,2,0,False,False,CH064
 2021-05-04,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4384,76,0,4308,9,3,False,False,CH052
 2021-05-04,CHE,Switzerland,Schwyz,47.06411,8.761568,11235,223,10677,335,0,0,False,False,CH063
@@ -440,8 +440,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-04,CHE,Switzerland,Uri,46.775402,8.627444,2968,47,0,2921,5,0,False,False,CH062
 2021-05-04,CHE,Switzerland,Valais,46.211633,7.611267,36530,777,0,35753,40,7,False,False,CH012
 2021-05-04,CHE,Switzerland,Vaud,46.56176,6.648929,80440,997,0,79443,141,19,False,False,CH011
-2021-05-04,CHE,Switzerland,Zug,47.161402,8.538864,8035,118,7709,208,5,2,False,False,CH066
-2021-05-04,CHE,Switzerland,Zurich,47.417407,8.655988,107241,1381,0,105860,209,63,False,False,CH040
+2021-05-04,CHE,Switzerland,Zug,47.161402,8.538864,8035,118,7773,144,5,2,False,False,CH066
+2021-05-04,CHE,Switzerland,Zurich,47.417407,8.655988,107552,1382,0,106170,204,57,False,False,CH040
 2021-05-03,TUR,Turkey,Turkey,38.961515,35.25175,4900121,41191,4515819,343111,,,False,True,TU
 2021-05-04,UKR,Ukraine,NOT SPECIFIED,,,2088410,44916,1689630,353864,,,False,False,
 2021-04-29,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,16982,,0,16982,,,False,True,UKM93
