@@ -418,7 +418,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-05,CHE,Switzerland,Aargau,47.410914,8.159107,45236,689,36655,7892,69,13,False,False,CH033
 2021-05-05,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-05-05,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1019,15,0,1004,3,0,False,False,CH054
-2021-05-05,CHE,Switzerland,Basel City,47.561925,7.592768,12155,199,11542,414,54,11,False,False,CH031
+2021-05-05,CHE,Switzerland,Basel City,47.561925,7.592768,12215,199,11594,422,60,13,False,False,CH031
 2021-05-05,CHE,Switzerland,Basel Country,47.441812,7.7644,17106,219,16108,779,19,3,False,False,CH032
 2021-05-05,CHE,Switzerland,Bern,46.825006,7.626925,62647,1053,0,61594,0,0,False,False,CH021
 2021-05-05,CHE,Switzerland,Fribourg,46.710334,7.09922,30903,479,903,29521,34,8,False,False,CH022
@@ -426,7 +426,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-05,CHE,Switzerland,Glarus,46.980518,9.065544,2634,73,0,2561,6,0,False,False,CH051
 2021-05-05,CHE,Switzerland,Graubünden,46.658176,9.629923,12918,185,0,12733,19,8,False,False,CH056
 2021-05-05,CHE,Switzerland,Jura,47.368327,7.198733,6474,144,0,6330,8,2,False,False,CH025
-2021-05-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,2948,57,2830,61,7,0,False,False,LI
+2021-05-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,2956,57,2830,69,7,0,False,False,LI
 2021-05-05,CHE,Switzerland,Lucerne,47.06883,8.116991,26806,319,0,26487,56,0,False,False,CH061
 2021-05-05,CHE,Switzerland,Neuchâtel,46.997282,6.782288,16453,402,0,16051,24,4,False,False,CH024
 2021-05-05,CHE,Switzerland,Nidwalden,46.922198,8.419375,2488,23,0,2465,3,1,False,False,CH065
@@ -439,7 +439,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-05,CHE,Switzerland,Ticino,46.297963,8.808447,32388,991,3324,28073,60,11,False,False,CH07
 2021-05-05,CHE,Switzerland,Uri,46.775402,8.627444,2988,47,0,2941,5,0,False,False,CH062
 2021-05-05,CHE,Switzerland,Valais,46.211633,7.611267,36632,777,0,35855,33,8,False,False,CH012
-2021-05-05,CHE,Switzerland,Vaud,46.56176,6.648929,80440,997,0,79443,141,19,False,False,CH011
+2021-05-05,CHE,Switzerland,Vaud,46.56176,6.648929,80614,1000,0,79614,131,23,False,False,CH011
 2021-05-05,CHE,Switzerland,Zug,47.161402,8.538864,8035,118,7773,144,5,2,False,False,CH066
 2021-05-05,CHE,Switzerland,Zurich,47.417407,8.655988,107552,1382,0,106170,204,57,False,False,CH040
 2021-05-04,TUR,Turkey,Turkey,38.961515,35.25175,4929118,41527,4554037,333554,,,False,True,TU
