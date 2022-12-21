@@ -295191,7 +295191,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-16,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91486,492,0,90994,30,1,False,False,CH024
 2022-12-16,CHE,Switzerland,Nidwalden,46.922198,8.419375,21485,41,0,21444,5,0,False,False,CH065
 2022-12-16,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39555,137,0,39418,0,0,False,False,CH052
 2022-12-16,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-12-16,CHE,Switzerland,Solothurn,47.336648,7.686944,139255,379,0,138876,20,3,False,False,CH023
 2022-12-16,CHE,Switzerland,St. Gallen,47.305025,9.019368,243654,874,0,242780,35,3,False,False,CH055
@@ -295280,7 +295280,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-17,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91515,492,0,91023,27,0,False,False,CH024
 2022-12-17,CHE,Switzerland,Nidwalden,46.922198,8.419375,21485,41,0,21444,5,0,False,False,CH065
 2022-12-17,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39563,137,0,39426,0,0,False,False,CH052
 2022-12-17,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-12-17,CHE,Switzerland,Solothurn,47.336648,7.686944,139255,379,0,138876,20,3,False,False,CH023
 2022-12-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,243674,874,0,242800,35,3,False,False,CH055
@@ -295355,7 +295355,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-18,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91533,492,0,91041,29,1,False,False,CH024
 2022-12-18,CHE,Switzerland,Nidwalden,46.922198,8.419375,21485,41,0,21444,5,0,False,False,CH065
 2022-12-18,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-18,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-18,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39571,137,0,39434,11,0,False,False,CH052
 2022-12-18,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-12-18,CHE,Switzerland,Solothurn,47.336648,7.686944,139255,379,0,138876,20,3,False,False,CH023
 2022-12-18,CHE,Switzerland,St. Gallen,47.305025,9.019368,243682,874,0,242808,35,3,False,False,CH055
@@ -295554,9 +295554,9 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-19,CHE,Switzerland,Liechtenstein,47.164696,9.555,21209,88,21040,81,1,0,False,False,LI
 2022-12-19,CHE,Switzerland,Lucerne,47.06883,8.116991,206804,471,0,206333,32,0,False,False,CH061
 2022-12-19,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91540,492,0,91048,27,1,False,False,CH024
-2022-12-19,CHE,Switzerland,Nidwalden,46.922198,8.419375,21492,41,0,21451,4,2,False,False,CH065
+2022-12-19,CHE,Switzerland,Nidwalden,46.922198,8.419375,21492,41,0,21451,5,0,False,False,CH065
 2022-12-19,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-19,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-19,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39571,137,0,39434,11,0,False,False,CH052
 2022-12-19,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-12-19,CHE,Switzerland,Solothurn,47.336648,7.686944,139405,379,0,139026,13,1,False,False,CH023
 2022-12-19,CHE,Switzerland,St. Gallen,47.305025,9.019368,243733,875,0,242858,29,2,False,False,CH055
@@ -295767,7 +295767,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-20,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91540,492,0,91048,27,1,False,False,CH024
 2022-12-20,CHE,Switzerland,Nidwalden,46.922198,8.419375,21500,41,0,21459,4,2,False,False,CH065
 2022-12-20,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-20,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-20,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39571,137,0,39434,11,0,False,False,CH052
 2022-12-20,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-12-20,CHE,Switzerland,Solothurn,47.336648,7.686944,139478,379,0,139099,16,1,False,False,CH023
 2022-12-20,CHE,Switzerland,St. Gallen,47.305025,9.019368,243733,875,0,242858,31,2,False,False,CH055
@@ -295831,11 +295831,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-12-21,CHE,Switzerland,Liechtenstein,47.164696,9.555,21209,88,21040,81,1,0,False,False,LI
 2022-12-21,CHE,Switzerland,Lucerne,47.06883,8.116991,206852,471,0,206381,32,0,False,False,CH061
 2022-12-21,CHE,Switzerland,Neuchâtel,46.997282,6.782288,91540,492,0,91048,27,1,False,False,CH024
-2022-12-21,CHE,Switzerland,Nidwalden,46.922198,8.419375,21500,41,0,21459,4,2,False,False,CH065
+2022-12-21,CHE,Switzerland,Nidwalden,46.922198,8.419375,21507,41,0,21466,3,1,False,False,CH065
 2022-12-21,CHE,Switzerland,Obwalden,46.857772,8.209745,19233,64,0,19169,0,0,False,False,CH064
-2022-12-21,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39437,136,0,39301,18,3,False,False,CH052
+2022-12-21,CHE,Switzerland,Schaffhausen,47.721853,8.563863,39571,137,0,39434,11,0,False,False,CH052
 2022-12-21,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
-2022-12-21,CHE,Switzerland,Solothurn,47.336648,7.686944,139478,379,0,139099,16,1,False,False,CH023
+2022-12-21,CHE,Switzerland,Solothurn,47.336648,7.686944,139548,379,0,139169,18,1,False,False,CH023
 2022-12-21,CHE,Switzerland,St. Gallen,47.305025,9.019368,243733,875,0,242858,31,2,False,False,CH055
 2022-12-21,CHE,Switzerland,Thurgau,47.567205,9.112572,140806,724,3402,136680,34,3,False,False,CH057
 2022-12-21,CHE,Switzerland,Ticino,46.297963,8.808447,190328,1300,3411,185617,186,19,False,False,CH07
