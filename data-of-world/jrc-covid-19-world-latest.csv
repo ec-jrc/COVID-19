@@ -1,6 +1,6 @@
 Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
 2022-12-23,AFG,AS,Afghanistan,33.930445,67.678945,563742619,6086641,,,,,False,False,AF
-2022-12-18,ALB,EU,Albania,41.156986,20.181222,332539,3594,328730,215,3,0,False,False,AL
+2022-12-29,ALB,EU,Albania,41.156986,20.181222,332553,3594,328753,206,3,0,False,False,AL
 2022-12-23,DZA,AF,Algeria,28.026875,1.65284,563742619,6086641,,,,,False,False,DZ
 2022-12-23,ASM,OC,American Samoa,-12.716089,-170.253983,563742619,6086641,,,,,False,False,
 2022-06-22,AND,EU,Andorra,42.542268,1.596865,43774,153,,,4,,False,False,AD
@@ -120,7 +120,7 @@ Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,Cu
 2022-12-23,LBY,AF,Libya,26.338522,17.268816,563742619,6086641,,,,,False,False,LY
 2022-12-23,LIE,EU,Liechtenstein,47.164696,9.555,563742619,6086641,,,,,False,False,LI
 2022-12-23,LTU,EU,Lithuania,55.174112,23.906736,563742619,6086641,,,,,True,True,LT
-2022-12-28,LUX,EU,Luxembourg,49.815764,6.131514,312797,1187,,,,,True,True,LU
+2022-12-29,LUX,EU,Luxembourg,49.815764,6.131514,312920,1188,,,,,True,True,LU
 2022-12-23,MDG,AF,Madagascar,-18.777192,46.854328,563742619,6086641,,,,,False,False,MG
 2022-12-23,MWI,AF,Malawi,-13.24627,34.295385,563742619,6086641,,,,,False,False,MW
 2022-12-23,MYS,AS,Malaysia,4.109319,109.455475,563742619,6086641,,,,,False,False,MY
