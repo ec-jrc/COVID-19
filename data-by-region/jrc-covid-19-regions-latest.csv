@@ -22621,7 +22621,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-02-03,LTU,Lithuania,,19.054426,-73.045971,29217,876,,28341,,,True,True,HT
 2023-02-21,LTU,Lithuania,,18.573601,-64.492065,7305,64,,7241,,,True,True,VG
 2023-02-21,LTU,Lithuania,,47.164638,19.508944,2194102,48650,,2145452,,,True,True,HU
-2023-02-21,LUX,Luxembourg,Luxembourg,49.815764,6.131514,316205,1217,,314988,,,True,True,LU
+2023-02-22,LUX,Luxembourg,Luxembourg,49.815764,6.131514,316329,1217,,315112,,,True,True,LU
 2022-03-11,MDG,Madagascar,,61.523111,-74.9,17242043,359585,,16882458,,,False,False,RU
 2023-02-21,MDG,Madagascar,,28.026875,1.65284,271424,6881,,264543,,,False,False,DZ
 2023-02-21,MDG,Madagascar,,8.621697,0.829685,39364,290,,39074,,,False,False,TG
@@ -40596,29 +40596,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-12,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,76159,,0,76159,,,False,True,UKM93
 2022-01-12,GBR,United Kingdom,Borders,55.572787,-2.786355,16658,,0,16658,,,False,True,UKM91
 2022-01-12,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,23589,,0,23589,,,False,True,UKM92
-2023-02-16,GBR,United Kingdom,East of England,52.248898,0.548756,2260038,,0,2260038,,,False,True,UKH
+2023-02-23,GBR,United Kingdom,East of England,52.248898,0.548756,2263175,,0,2263175,,,False,True,UKH
 2022-01-12,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,2279,,0,2279,,,False,True,UKM64
-2023-02-16,GBR,United Kingdom,England,,,,182131,0,-182131,,,False,True,UK
+2023-02-23,GBR,United Kingdom,England,,,,182830,0,-182830,,,False,True,UK
 2022-01-12,GBR,United Kingdom,Fife,56.228968,-3.118568,69263,,0,69263,,,False,True,UKM72
 2022-01-12,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,62505,,0,62505,,,False,True,UKM76
 2022-01-12,GBR,United Kingdom,Grampian,57.299016,-2.780773,86444,,0,86444,,,False,True,UKM50
 2022-01-12,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,277237,,0,277237,,,False,True,UKM82
 2022-01-12,GBR,United Kingdom,Highland,57.363501,-4.733034,42042,,0,42042,,,False,True,UKM6
 2022-01-12,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,164234,,0,164234,,,False,True,UKD4
-2023-02-16,GBR,United Kingdom,London,51.497136,-0.100571,3132019,,0,3132019,,,False,True,UKI
+2023-02-23,GBR,United Kingdom,London,51.497136,-0.100571,3135276,,0,3135276,,,False,True,UKI
 2022-01-12,GBR,United Kingdom,Lothian,55.946009,-2.728265,177279,,0,177279,,,False,True,UKM75
-2023-02-16,GBR,United Kingdom,Midlands,52.718351,-1.45667,3854037,,0,3854037,,,False,True,UKF
-2023-02-16,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,3016328,,0,3016328,,,False,True,UKC
-2023-02-16,GBR,United Kingdom,North West,53.524488,-2.333125,2809118,,0,2809118,,,False,True,UKD
+2023-02-23,GBR,United Kingdom,Midlands,52.718351,-1.45667,3858624,,0,3858624,,,False,True,UKF
+2023-02-23,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,3020691,,0,3020691,,,False,True,UKC
+2023-02-23,GBR,United Kingdom,North West,53.524488,-2.333125,2812214,,0,2812214,,,False,True,UKD
 2022-09-01,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,,,0,0,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
 2022-01-12,GBR,United Kingdom,Orkney,58.98094,-2.960521,1682,,0,1682,,,False,True,UKM65
-2023-02-16,GBR,United Kingdom,Scotland,56.490671,-4.202646,2152426,,0,2152426,,,False,True,UKM
+2023-02-23,GBR,United Kingdom,Scotland,56.490671,-4.202646,2154070,,0,2154070,,,False,True,UKM
 2022-01-12,GBR,United Kingdom,Shetland,60.29623,-1.346738,1562,,0,1562,,,False,True,UKM66
-2023-02-16,GBR,United Kingdom,South East,51.291417,-0.521902,3352022,,0,3352022,,,False,True,UKJ
-2023-02-16,GBR,United Kingdom,South West,51.239761,-2.54375,1970909,,0,1970909,,,False,True,UKK
+2023-02-23,GBR,United Kingdom,South East,51.291417,-0.521902,3356964,,0,3356964,,,False,True,UKJ
+2023-02-23,GBR,United Kingdom,South West,51.239761,-2.54375,1973542,,0,1973542,,,False,True,UKK
 2022-01-12,GBR,United Kingdom,Tayside,56.610323,-3.555213,73658,,0,73658,,,False,True,UKM71
-2023-02-16,GBR,United Kingdom,Wales,52.302413,-3.738347,896636,8281,0,888355,,,False,True,UKL
+2023-02-23,GBR,United Kingdom,Wales,52.302413,-3.738347,897113,8288,0,888825,,,False,True,UKL
 2023-02-21,USA,United States of America,,41.873987,12.564167,25547414,187850,,25359564,,,False,False,IT
 2022-05-26,USA,United States of America,,,,8120,161,,7959,,,False,False,KM
 2023-02-21,USA,United States of America,,36.966428,-95.844032,101752396,1106783,,100645613,,,False,False,US
