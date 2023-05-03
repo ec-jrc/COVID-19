@@ -2,13 +2,15 @@
 
 # Rationale for the JRC COVID-19 website - data monitoring and national measures
 
+$${\color{red}This \ repository \ is \ no \ longer \ kept \ up \ to \ date! \ No \ new \ data \ were \ included \ after \ April \ 2023! \ The \ data \ will \ remain \ available \ for \ any \ licensed \ use.}$$
+
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/ec-jrc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/ec-jrc/COVID-19)](https://github.com/ec-jrc/COVID-19/commits/master)
 
-## Overall introduction - <a href="https://jrc-covid.azurewebsites.net/">ECML Covid</a>
+## Overall introduction - ECML Covid
 Since the outbreak of the COVID-19 crisis, the Joint Research Centre (JRC) has been supporting the European Commission in multidisciplinary areas to understand the COVID-19 emergency, anticipate its impacts, and support contingency planning. This activity forms part of a broader effort by JRC to contribute through crisis coordination mechanisms with the detection, monitoring and analysis of the COVID-19 outbreak.
 
-This website provides an overview of the monitoring in the area of the 34 UCPM Participating States plus Switzerland, related to:
+The website provided an overview of the monitoring in the area of the 34 UCPM Participating States plus Switzerland, related to:
 
 * sub-national data (admin level 1) on numbers of contagious and fatalities by COVID-19, collected directly from the National Authoritative sources (National monitoring websites, when available);
 * containment measures adopted by National Authorities to reduce transmission of COVID-19, daily updated.
